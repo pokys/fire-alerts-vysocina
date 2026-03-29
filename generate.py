@@ -88,6 +88,27 @@ SUBTYPE_LABELS = {
     3811: "planý poplach",
 }
 
+VEHICLE_ABBREVS = [
+    ("cisternová automobilová stříkačka", "CAS"),
+    ("automobilový žebřík", "AŽ"),
+    ("výškový automobil", "VYA"),
+    ("vyprošťovací automobil", "VYA"),
+    ("rychlý zásahový automobil", "RZA"),
+    ("technický automobil", "TA"),
+    ("velitelský automobil", "VEA"),
+    ("kontejnerový automobil", "KA"),
+    ("dopravní automobil", "DA"),
+    ("přenosná motorová stříkačka", "PMS"),
+]
+
+
+def abbrev_vehicle(name):
+    name_lower = name.lower()
+    for full, short in VEHICLE_ABBREVS:
+        if name_lower.startswith(full):
+            return short
+    return name
+
 
 def utc_now():
     return datetime.now(timezone.utc).replace(microsecond=0)
@@ -382,25 +403,27 @@ def build_ics(events):
 
         desc_parts = []
         if event["misto"] and event["misto"] != event.get("obec", ""):
-            desc_parts.append(event["misto"])
+            desc_parts.append(f"📍 {event['misto']}")
         if event["popis"]:
-            desc_parts.append(event["popis"])
+            desc_parts.append(f"💬 {event['popis']}")
         tech_items = event.get("technika") or []
-        if tech_items:
-            tech_lines = []
-            for t in tech_items:
-                typ_t = t.get("typ", "")
-                jednotka = t.get("jednotka", "")
-                pocet = t.get("pocet", 1)
-                if typ_t:
-                    line = typ_t
-                    if jednotka:
-                        line += f" ({jednotka})"
-                    if pocet and pocet > 1:
-                        line += f" ×{pocet}"
-                    tech_lines.append(line)
-            if tech_lines:
-                desc_parts.append("Technika: " + ", ".join(tech_lines))
+        tech_lines = []
+        for t in tech_items:
+            typ_t = t.get("typ", "")
+            jednotka = t.get("jednotka", "")
+            pocet = t.get("pocet", 1)
+            if typ_t:
+                vehicle = abbrev_vehicle(typ_t)
+                line = f"🚒 {vehicle}"
+                if jednotka:
+                    line += f" ({jednotka})"
+                if pocet and pocet > 1:
+                    line += f" ×{pocet}"
+                tech_lines.append(line)
+        if tech_lines:
+            if desc_parts:
+                desc_parts.append("")
+            desc_parts.extend(tech_lines)
         if desc_parts:
             lines.append(fold_ics_line(f"DESCRIPTION:{escape_ics_text(chr(10).join(desc_parts))}"))
 
