@@ -198,14 +198,15 @@ def build_map_urls(event):
         lat, lng = jtsk_to_wgs84(gis1, gis2)
         if lat and lng:
             return (
+                f"https://www.google.com/maps?q={lat:.6f},{lng:.6f}",
                 f"https://maps.apple.com/?ll={lat:.6f},{lng:.6f}&z=17",
                 f"https://mapy.cz/zakladni?x={lng:.6f}&y={lat:.6f}&z=17",
             )
     parts = [p for p in [event.get("ulice"), event.get("obec")] if p]
     if parts:
         q = urllib.parse.quote(", ".join(parts))
-        return None, f"https://mapy.cz/zakladni?q={q}"
-    return None, None
+        return None, None, f"https://mapy.cz/zakladni?q={q}"
+    return None, None, None
 
 
 def fetch_technics(event_id):
@@ -385,21 +386,22 @@ def build_ics(events):
         if location_parts:
             lines.append(fold_ics_line(f"LOCATION:{escape_ics_text(', '.join(location_parts))}"))
 
-        apple_url, mapy_url = build_map_urls(event)
-        if apple_url:
-            # Extract lat,lng from apple_url to populate GEO
-            coords = apple_url.split("ll=")[1].split("&")[0]
+        gmaps_url, apple_url, mapy_url = build_map_urls(event)
+        if gmaps_url:
+            coords = gmaps_url.split("q=")[1]
             lat_s, lng_s = coords.split(",")
             lines.append(f"GEO:{lat_s};{lng_s}")
-            lines.append(fold_ics_line(f"URL:{apple_url}"))
+            lines.append(fold_ics_line(f"URL:{gmaps_url}"))
 
         desc_parts = []
         if event["misto"] and event["misto"] != event.get("obec", ""):
             desc_parts.append(event["misto"])
         if event["popis"]:
             desc_parts.append(event["popis"])
+        if apple_url:
+            desc_parts.append(f"Apple Maps: {apple_url}")
         if mapy_url:
-            desc_parts.append(f"Mapa: {mapy_url}")
+            desc_parts.append(f"Mapy.cz: {mapy_url}")
         tech_items = event.get("technika") or []
         if tech_items:
             tech_lines = []
