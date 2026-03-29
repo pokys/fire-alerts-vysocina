@@ -1,0 +1,70 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fire-alerts-vysocina//MVP//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Hasiči Vysočina - okres
+BEGIN:VEVENT
+UID:408886061
+DTSTART:20260328T064244Z
+DTEND:20260328T074244Z
+DTSTAMP:20260328T064244Z
+SUMMARY:🚗 dopravní nehoda - Dubovice
+LOCATION:Dubovice
+GEO:49.440679;15.164158
+URL:geo:49.440679,15.164158
+DESCRIPTION:📍 Dubovice\, Pelhřimov\n💬 DN 1 OA bez zranění. Provedeno protip
+ ožární opatření a zabezpečení místa nehody.\n\n🚒 CAS (CHS Pelhřimov)\n🚒 VY
+ A (CHS Pelhřimov)
+END:VEVENT
+BEGIN:VEVENT
+UID:408892061
+DTSTART:20260328T100944Z
+DTEND:20260328T110944Z
+DTSTAMP:20260328T100944Z
+SUMMARY:🚑 transport pacienta - Pacov
+LOCATION:Na Blatech\, Pacov
+GEO:49.475862;15.006438
+URL:geo:49.475862,15.006438
+DESCRIPTION:📍 Na Blatech\, Pacov\, Pelhřimov\n💬 Transport pacienta na žádos
+ t ZZS.\n\n🚒 CAS (HS Pacov)
+END:VEVENT
+BEGIN:VEVENT
+UID:408894061
+DTSTART:20260328T103730Z
+DTEND:20260328T113730Z
+DTSTAMP:20260328T103730Z
+SUMMARY:🛠️ otevření bytu/auta - Pacov
+LOCATION:Za Branou\, Pacov
+GEO:49.477768;15.003136
+URL:geo:49.477768,15.003136
+DESCRIPTION:📍 Za Branou\, Pacov\, Pelhřimov\n💬 Otevření bytu.\n\n🚒 CAS (HS 
+ Pacov)
+END:VEVENT
+BEGIN:VEVENT
+UID:408910061
+DTSTART:20260329T143122Z
+DTEND:20260329T153122Z
+DTSTAMP:20260329T143122Z
+SUMMARY:🚗 dopravní nehoda - Košetice
+LOCATION:5. května\, Košetice
+GEO:49.562247;15.114553
+URL:geo:49.562247,15.114553
+DESCRIPTION:📍 5. května\, Košetice\, Pelhřimov\n💬 DN 2 OA. 1 lehce zraněná 
+ osoba v péči ZZS. Provedeno protipožární opatření. Úklid vozovky. Řízení p
+ rovozu.\n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (Onšov)
+END:VEVENT
+BEGIN:VEVENT
+UID:408912061
+DTSTART:20260329T145304Z
+DTEND:20260329T155304Z
+DTSTAMP:20260329T145304Z
+SUMMARY:🚗 dopravní nehoda - Pošná
+LOCATION:Pošná
+GEO:49.453038;15.046513
+URL:geo:49.453038,15.046513
+DESCRIPTION:📍 Pošná\, Pelhřimov\n💬 DN OA do stromu. 1 zraněná osoba předána
+  do péče ZZS. Poskytnuta předlékařská pomoc. Provedeno protipožární opatře
+ ní. Úklid vozovky\, řízení provozu.\n\n🚒 CAS (HS Pacov)
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,266 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//fire-alerts-vysocina//MVP//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Hasiči Vysočina - kraj
+BEGIN:VEVENT
+UID:408883061
+DTSTART:20260327T233837Z
+DTEND:20260328T003837Z
+DTSTAMP:20260327T233837Z
+SUMMARY:🔥 odpad - Žďár nad Sázavou
+LOCATION:Neumannova\, Žďár nad Sázavou
+GEO:49.564507;15.942563
+URL:geo:49.564507,15.942563
+DESCRIPTION:📍 Neumannova\, Žďár nad Sázavou 4\, Žďár nad Sázavou\n💬 Požár p
+ lastové popelnice.\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 vyšetřovací automobi
+ l (ÚO Žďár nad Sázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:408884061
+DTSTART:20260328T002112Z
+DTEND:20260328T012112Z
+DTSTAMP:20260328T002112Z
+SUMMARY:⚠️ planý poplach - Kožichovice
+LOCATION:Kožichovice
+GEO:49.203191;15.917055
+URL:geo:49.203191,15.917055
+DESCRIPTION:📍 Kožichovice\, Třebíč\n💬 Planý poplach.\n\n🚒 CAS (CHS Třebíč)
+END:VEVENT
+BEGIN:VEVENT
+UID:408885061
+DTSTART:20260328T055433Z
+DTEND:20260328T065433Z
+DTSTAMP:20260328T055433Z
+SUMMARY:🛠️ otevření bytu/auta - Žďár nad Sázavou
+LOCATION:Haškova\, Žďár nad Sázavou
+GEO:49.555294;15.942968
+URL:geo:49.555294,15.942968
+DESCRIPTION:📍 Haškova\, Žďár nad Sázavou 6\, Žďár nad Sázavou\n💬 Otevření b
+ ytu.\n\n🚒 CAS (CHS Žďár nad Sázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:408886061
+DTSTART:20260328T064244Z
+DTEND:20260328T074244Z
+DTSTAMP:20260328T064244Z
+SUMMARY:🚗 dopravní nehoda - Dubovice
+LOCATION:Dubovice
+GEO:49.440679;15.164158
+URL:geo:49.440679,15.164158
+DESCRIPTION:📍 Dubovice\, Pelhřimov\n💬 DN 1 OA bez zranění. Provedeno protip
+ ožární opatření a zabezpečení místa nehody.\n\n🚒 CAS (CHS Pelhřimov)\n🚒 VY
+ A (CHS Pelhřimov)
+END:VEVENT
+BEGIN:VEVENT
+UID:408887061
+DTSTART:20260328T065821Z
+DTEND:20260328T075821Z
+DTSTAMP:20260328T065821Z
+SUMMARY:🛠️ strom - Lukov
+LOCATION:Lukov
+GEO:49.078873;15.824393
+URL:geo:49.078873,15.824393
+DESCRIPTION:📍 Lukov\, Třebíč\n💬 Odstranění stromu.\n\n🚒 DA (Lukov)
+END:VEVENT
+BEGIN:VEVENT
+UID:408889061
+DTSTART:20260328T074716Z
+DTEND:20260328T084716Z
+DTSTAMP:20260328T074716Z
+SUMMARY:🚗 dopravní nehoda - Havlíčkův Brod
+LOCATION:Pražská\, Havlíčkův Brod
+GEO:49.616352;15.574238
+URL:geo:49.616352,15.574238
+DESCRIPTION:📍 Pražská\, Havlíčkův Brod\n💬 DN 2 OA\, jedna zraněná osoba. Pr
+ ovedeno protipožární opratření.\n\n🚒 CAS (CHS Havlíčkův Brod)
+END:VEVENT
+BEGIN:VEVENT
+UID:408891061
+DTSTART:20260328T092958Z
+DTEND:20260328T102958Z
+DTSTAMP:20260328T092958Z
+SUMMARY:🛠️ ostatní - Jihlava
+LOCATION:Za Prachárnou\, Jihlava
+GEO:49.396990;15.565317
+URL:geo:49.396990,15.565317
+DESCRIPTION:📍 Za Prachárnou\, Jihlava\n💬 Otevření bytu.\n\n🚒 CAS (CHS Jihla
+ va)
+END:VEVENT
+BEGIN:VEVENT
+UID:408892061
+DTSTART:20260328T100944Z
+DTEND:20260328T110944Z
+DTSTAMP:20260328T100944Z
+SUMMARY:🚑 transport pacienta - Pacov
+LOCATION:Na Blatech\, Pacov
+GEO:49.475862;15.006438
+URL:geo:49.475862,15.006438
+DESCRIPTION:📍 Na Blatech\, Pacov\, Pelhřimov\n💬 Transport pacienta na žádos
+ t ZZS.\n\n🚒 CAS (HS Pacov)
+END:VEVENT
+BEGIN:VEVENT
+UID:408893061
+DTSTART:20260328T103511Z
+DTEND:20260328T113511Z
+DTSTAMP:20260328T103511Z
+SUMMARY:🚗 dopravní nehoda - Heraltice
+LOCATION:Heraltice
+GEO:49.232622;15.740672
+URL:geo:49.232622,15.740672
+DESCRIPTION:📍 Heraltice\, Třebíč\n💬 DN 1 OA\, jedna zraněná osoba. Protipož
+ ární opatření a zajištění místa nehody.\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (Okří
+ šky)
+END:VEVENT
+BEGIN:VEVENT
+UID:408894061
+DTSTART:20260328T103730Z
+DTEND:20260328T113730Z
+DTSTAMP:20260328T103730Z
+SUMMARY:🛠️ otevření bytu/auta - Pacov
+LOCATION:Za Branou\, Pacov
+GEO:49.477768;15.003136
+URL:geo:49.477768,15.003136
+DESCRIPTION:📍 Za Branou\, Pacov\, Pelhřimov\n💬 Otevření bytu.\n\n🚒 CAS (HS 
+ Pacov)
+END:VEVENT
+BEGIN:VEVENT
+UID:408895061
+DTSTART:20260328T105212Z
+DTEND:20260328T115212Z
+DTSTAMP:20260328T105212Z
+SUMMARY:🛠️ ostatní - Vysoké Studnice
+LOCATION:Vysoké Studnice
+GEO:49.392954;15.726116
+URL:geo:49.392954,15.726116
+DESCRIPTION:📍 Vysoké Studnice\, Jihlava\n💬 ZOČ\n\n🚒 DA (Vysoké Studnice)
+END:VEVENT
+BEGIN:VEVENT
+UID:408896061
+DTSTART:20260328T143429Z
+DTEND:20260328T153429Z
+DTSTAMP:20260328T143429Z
+SUMMARY:🛠️ ostatní - Blízkov
+LOCATION:Blízkov
+GEO:49.401005;15.908306
+URL:geo:49.401005,15.908306
+DESCRIPTION:📍 Blízkov\, Žďár nad Sázavou\n💬 ZOČ\n\n🚒 DA (Blízkov)\n🚒 přívěs
+  motorová stříkačka (Blízkov)
+END:VEVENT
+BEGIN:VEVENT
+UID:408897061
+DTSTART:20260328T165418Z
+DTEND:20260328T175418Z
+DTSTAMP:20260328T165418Z
+SUMMARY:🔥 budova - Světlá nad Sázavou
+LOCATION:Světlá nad Sázavou
+GEO:49.650476;15.409899
+URL:geo:49.650476,15.409899
+DESCRIPTION:📍 Závidkovice\, Světlá nad Sázavou\, Havlíčkův Brod\n💬 Požár st
+ řechy RD. Provedena lokalizace a likvidace požáru.\n\n🚒 CAS (HS Ledeč nad 
+ Sázavou)\n🚒 CAS (HS Světlá nad Sázavou) ×2\n🚒 čerpadlo plovoucí (HS Světlá
+  nad Sázavou)\n🚒 DA (Dolní Město)\n🚒 CAS (Dolní Město)\n🚒 DA (Světlá nad S
+ ázavou)\n🚒 CAS (Světlá nad Sázavou) ×2\n🚒 vyšetřovací automobil (ÚO Havlíč
+ kův Brod) ×2
+END:VEVENT
+BEGIN:VEVENT
+UID:408901061
+DTSTART:20260328T191015Z
+DTEND:20260328T201015Z
+DTSTAMP:20260328T191015Z
+SUMMARY:🚑 otevření/asistence - Havlíčkův Brod
+LOCATION:Sídliště Pražská\, Havlíčkův Brod
+GEO:49.612248;15.576863
+URL:geo:49.612248,15.576863
+DESCRIPTION:📍 Sídliště Pražská\, Havlíčkův Brod\n💬 Otevření vnitřních dveří
+  v bytě.\n\n🚒 CAS (CHS Havlíčkův Brod)
+END:VEVENT
+BEGIN:VEVENT
+UID:408902061
+DTSTART:20260329T051455Z
+DTEND:20260329T061455Z
+DTSTAMP:20260329T051455Z
+SUMMARY:🚑 otevření/asistence - Bystřice nad Pernštejnem
+LOCATION:Hornická\, Bystřice nad Pernštejnem
+GEO:49.525208;16.250008
+URL:geo:49.525208,16.250008
+DESCRIPTION:📍 Hornická\, Bystřice nad Pernštejnem\, Žďár nad Sázavou\n💬 Ote
+ vření bytu.\n\n🚒 CAS (HS Bystřice nad Pernštejnem)
+END:VEVENT
+BEGIN:VEVENT
+UID:408905061
+DTSTART:20260329T094819Z
+DTEND:20260329T104819Z
+DTSTAMP:20260329T094819Z
+SUMMARY:🚑 záchrana ze stromu - Dolní Vilémovice
+LOCATION:Dolní Vilémovice
+GEO:49.155774;15.975345
+URL:geo:49.155774,15.975345
+DESCRIPTION:📍 Dolní Vilémovice\, Třebíč\n💬 Sundání kočky ze střechy stodoly
+ .\n\n🚒 CAS (CHS Třebíč)
+END:VEVENT
+BEGIN:VEVENT
+UID:408907061
+DTSTART:20260329T095525Z
+DTEND:20260329T105525Z
+DTSTAMP:20260329T095525Z
+SUMMARY:🚑 otevření/asistence - Žďár nad Sázavou
+LOCATION:Libušínská\, Žďár nad Sázavou
+GEO:49.567897;15.938696
+URL:geo:49.567897,15.938696
+DESCRIPTION:📍 Libušínská\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n💬 Otevřen
+ í výtahu.\n\n🚒 CAS (CHS Žďár nad Sázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:408908061
+DTSTART:20260329T134726Z
+DTEND:20260329T144726Z
+DTSTAMP:20260329T134726Z
+SUMMARY:🚗 bez zranění - Třebíč
+LOCATION:Třebíč
+GEO:49.214919;15.888292
+URL:geo:49.214919,15.888292
+DESCRIPTION:📍 Nové Dvory\, Třebíč\n💬 DN 2 OA bez zranění. Zabezpečení havar
+ ovaných proti požáru. Likvidace uniklých provozních kapalin. Úklid vozovky
+ .\n\n🚒 CAS (CHS Třebíč)
+END:VEVENT
+BEGIN:VEVENT
+UID:408910061
+DTSTART:20260329T143122Z
+DTEND:20260329T153122Z
+DTSTAMP:20260329T143122Z
+SUMMARY:🚗 dopravní nehoda - Košetice
+LOCATION:5. května\, Košetice
+GEO:49.562247;15.114553
+URL:geo:49.562247,15.114553
+DESCRIPTION:📍 5. května\, Košetice\, Pelhřimov\n💬 DN 2 OA. 1 lehce zraněná 
+ osoba v péči ZZS. Provedeno protipožární opatření. Úklid vozovky. Řízení p
+ rovozu.\n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (Onšov)
+END:VEVENT
+BEGIN:VEVENT
+UID:408912061
+DTSTART:20260329T145304Z
+DTEND:20260329T155304Z
+DTSTAMP:20260329T145304Z
+SUMMARY:🚗 dopravní nehoda - Pošná
+LOCATION:Pošná
+GEO:49.453038;15.046513
+URL:geo:49.453038,15.046513
+DESCRIPTION:📍 Pošná\, Pelhřimov\n💬 DN OA do stromu. 1 zraněná osoba předána
+  do péče ZZS. Poskytnuta předlékařská pomoc. Provedeno protipožární opatře
+ ní. Úklid vozovky\, řízení provozu.\n\n🚒 CAS (HS Pacov)
+END:VEVENT
+BEGIN:VEVENT
+UID:408914061
+DTSTART:20260329T160126Z
+DTEND:20260329T170126Z
+DTSTAMP:20260329T160126Z
+SUMMARY:☣️ plyn - Havlíčkův Brod
+LOCATION:Sídliště Pražská\, Havlíčkův Brod
+GEO:49.613332;15.575795
+URL:geo:49.613332,15.575795
+DESCRIPTION:📍 Sídliště Pražská\, Havlíčkův Brod\n💬 Zastavení unikajícího pl
+ ynu.\n\n🚒 CAS (CHS Havlíčkův Brod)
+END:VEVENT
+END:VCALENDAR
