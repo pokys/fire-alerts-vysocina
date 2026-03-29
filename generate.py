@@ -10,6 +10,7 @@ import requests
 
 API_URL = "http://webohled.hasici-vysocina.cz/udalosti/api/"
 CALENDAR_PATH = Path("calendar.ics")
+RAW_RESPONSE_PATH = Path("last_response.json")
 MAX_EVENTS = 100
 TIMEOUT_SECONDS = 30
 KRAJ_ID = 108
@@ -41,7 +42,7 @@ def utc_now():
 
 
 def format_api_datetime(value):
-    return value.astimezone(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+    return value.astimezone(timezone.utc).strftime("%Y-%m-%dT%H:%M:%S.000Z")
 
 
 def parse_event_datetime(value):
@@ -61,6 +62,53 @@ def parse_event_datetime(value):
 
 def format_ics_datetime(value):
     return value.astimezone(timezone.utc).strftime("%Y%m%dT%H%M%SZ")
+
+
+def pick_value(payload, *keys):
+    for key in keys:
+        if key in payload and payload[key] not in (None, ""):
+            return payload[key]
+    return None
+
+
+def join_parts(*parts):
+    values = []
+    for part in parts:
+        if part is None:
+            continue
+        text = str(part).strip()
+        if text and text not in values:
+            values.append(text)
+    return ", ".join(values)
+
+
+def build_location(raw_event):
+    okres = raw_event.get("okres")
+    okres_nazev = okres.get("nazev") if isinstance(okres, dict) else None
+    return join_parts(
+        pick_value(raw_event, "ulice", "Ulice"),
+        pick_value(raw_event, "castObce", "CastObce"),
+        pick_value(raw_event, "obec", "Obec"),
+        okres_nazev,
+    )
+
+
+def build_type(raw_event):
+    text_type = str(pick_value(raw_event, "typ", "Typ") or "").strip()
+    if text_type:
+        return text_type
+
+    podtyp_id = pick_value(raw_event, "podtypId", "PodtypId")
+    typ_id = pick_value(raw_event, "typId", "TypId")
+    stav_id = pick_value(raw_event, "stavId", "StavId")
+
+    if podtyp_id:
+        return f"Incident {podtyp_id}"
+    if typ_id:
+        return f"Incident {typ_id}"
+    if stav_id:
+        return f"Incident {stav_id}"
+    return "Incident"
 
 
 def escape_ics_text(value):
@@ -104,20 +152,38 @@ def fetch_events():
     response.raise_for_status()
 
     data = response.json()
-    if not isinstance(data, list):
-        raise ValueError("API response is not a list of events")
+    if isinstance(data, list):
+        raw_events = data
+    elif isinstance(data, dict):
+        raw_events = (
+            data.get("items")
+            or data.get("data")
+            or data.get("udalosti")
+            or data.get("events")
+        )
+    else:
+        raw_events = None
+
+    if not isinstance(raw_events, list):
+        RAW_RESPONSE_PATH.write_text(
+            json.dumps(data, ensure_ascii=False, indent=2),
+            encoding="utf-8",
+        )
+        raise ValueError("API response does not contain a list of events")
 
     events = []
     seen_ids = set()
 
-    for raw_event in data:
+    for raw_event in raw_events:
         if not isinstance(raw_event, dict):
             continue
 
-        event_id = raw_event.get("id")
-        cas_vzniku = raw_event.get("casVzniku")
-        typ = (raw_event.get("typ") or "").strip()
-        misto = (raw_event.get("misto") or "").strip()
+        event_id = pick_value(raw_event, "id", "Id", "ID")
+        cas_vzniku = pick_value(
+            raw_event, "casVzniku", "CasVzniku", "casOhlaseni", "CasOhlaseni"
+        )
+        typ = build_type(raw_event)
+        misto = str(pick_value(raw_event, "misto", "Misto") or "").strip() or build_location(raw_event)
 
         if not event_id or not cas_vzniku or not typ or not misto:
             continue
@@ -134,11 +200,35 @@ def fetch_events():
                 "casVzniku": event_dt,
                 "typ": typ,
                 "misto": misto,
-                "popis": (raw_event.get("popis") or "").strip(),
+                "popis": str(
+                    pick_value(
+                        raw_event,
+                        "popis",
+                        "Popis",
+                        "poznamkaProMedia",
+                        "PoznamkaProMedia",
+                    )
+                    or ""
+                ).strip(),
             }
         )
 
     events.sort(key=lambda item: (item["casVzniku"], item["id"]))
+
+    print(
+        f"API returned {len(raw_events)} items, accepted {len(events)} events.",
+        file=sys.stderr,
+    )
+    if raw_events and not events:
+        RAW_RESPONSE_PATH.write_text(
+            json.dumps(raw_events[:5], ensure_ascii=False, indent=2, default=str),
+            encoding="utf-8",
+        )
+        print(
+            f"No events matched expected fields. Sample saved to {RAW_RESPONSE_PATH}.",
+            file=sys.stderr,
+        )
+
     return events[-MAX_EVENTS:]
 
 
