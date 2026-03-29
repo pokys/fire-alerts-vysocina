@@ -173,8 +173,8 @@ def build_summary(event):
     subtype_label = SUBTYPE_LABELS.get(podtyp_id, "")
 
     if subtype_label:
-        return f"{emoji} - {subtype_label} - {obec}"
-    return f"{emoji} - {obec}"
+        return f"{emoji} {subtype_label} - {obec}"
+    return f"{emoji} {obec}"
 
 
 def jtsk_to_wgs84(gis1, gis2):
