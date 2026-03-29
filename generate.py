@@ -13,6 +13,7 @@ _jtsk_to_wgs84 = Transformer.from_crs("EPSG:5514", "EPSG:4326", always_xy=True)
 
 API_URL = "http://webohled.hasici-vysocina.cz/udalosti/api/"
 CALENDAR_PATH = Path("calendar.ics")
+CALENDAR_VYSOCINA_PATH = Path("calendar-vysocina.ics")
 RAW_RESPONSE_PATH = Path("last_response.json")
 MAX_EVENTS = 100
 TIMEOUT_SECONDS = 30
@@ -254,16 +255,17 @@ def fold_ics_line(line, limit=75):
     return "\r\n".join(chunks)
 
 
-def fetch_events():
+def fetch_events(okres_id=OKRES_ID):
     now = utc_now()
     since = now - timedelta(hours=48)
 
     params = {
         "krajId": KRAJ_ID,
-        "okresId": OKRES_ID,
         "casOd": format_api_datetime(since),
         "casDo": format_api_datetime(now),
     }
+    if okres_id is not None:
+        params["okresId"] = okres_id
     for stav_id in STAV_IDS:
         params.setdefault("stavIds", []).append(stav_id)
 
@@ -366,14 +368,14 @@ def fetch_events():
     return events[-MAX_EVENTS:]
 
 
-def build_ics(events):
+def build_ics(events, name="Hasiči Vysočina - okres"):
     lines = [
         "BEGIN:VCALENDAR",
         "VERSION:2.0",
         "PRODID:-//fire-alerts-vysocina//MVP//EN",
         "CALSCALE:GREGORIAN",
         "METHOD:PUBLISH",
-        "X-WR-CALNAME:Fire Alerts Vysocina",
+        f"X-WR-CALNAME:{name}",
     ]
 
     for event in events:
@@ -433,15 +435,23 @@ def build_ics(events):
     return "\r\n".join(lines) + "\r\n"
 
 
-def write_calendar(content):
-    CALENDAR_PATH.write_text(content, encoding="utf-8", newline="")
+def write_calendar(content, path):
+    path.write_text(content, encoding="utf-8", newline="")
 
 
 def main():
     try:
-        events = fetch_events()
-        calendar_content = build_ics(events)
-        write_calendar(calendar_content)
+        events_okres = fetch_events(okres_id=OKRES_ID)
+        write_calendar(
+            build_ics(events_okres, name="Hasiči Vysočina - okres"),
+            CALENDAR_PATH,
+        )
+
+        events_kraj = fetch_events(okres_id=None)
+        write_calendar(
+            build_ics(events_kraj, name="Hasiči Vysočina - kraj"),
+            CALENDAR_VYSOCINA_PATH,
+        )
     except requests.RequestException as exc:
         print(f"API request failed: {exc}", file=sys.stderr)
         return 1
@@ -452,7 +462,8 @@ def main():
         print(f"Unexpected error: {exc}", file=sys.stderr)
         return 1
 
-    print(f"Wrote {CALENDAR_PATH} with {len(events)} events.")
+    print(f"Wrote {CALENDAR_PATH} with {len(events_okres)} events.")
+    print(f"Wrote {CALENDAR_VYSOCINA_PATH} with {len(events_kraj)} events.")
     return 0
 
 
