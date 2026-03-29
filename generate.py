@@ -2,14 +2,13 @@
 
 import json
 import sys
-import urllib.parse
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 import requests
 from pyproj import Transformer
 
-_jtsk_to_wgs84 = Transformer.from_crs("EPSG:5514", "EPSG:4326")
+_jtsk_to_wgs84 = Transformer.from_crs("EPSG:5514", "EPSG:4326", always_xy=True)
 
 
 API_URL = "http://webohled.hasici-vysocina.cz/udalosti/api/"
@@ -179,26 +178,24 @@ def build_summary(event):
 
 def jtsk_to_wgs84(gis1, gis2):
     try:
-        # EPSG:5514 axis order: Southing (X), Westing (Y); API provides absolute values
-        lat, lng = _jtsk_to_wgs84.transform(-float(gis2), -float(gis1))
-        if abs(lat) > 90 or abs(lng) > 180:
+        # EPSG:5514 (East North) with always_xy=True: input (Easting, Northing) → (lng, lat)
+        # API values are traditional Krovak: gis1 ≈ Westing, gis2 ≈ Southing (both positive)
+        # EPSG:5514 Easting = −Westing, Northing = −Southing → negate both
+        lng, lat = _jtsk_to_wgs84.transform(-float(gis1), -float(gis2))
+        if not (49 <= lat <= 51 and 12 <= lng <= 19):  # bounding box ČR
             return None, None
         return lat, lng
     except Exception:
         return None, None
 
 
-def build_map_url(event):
+def build_geo(event):
+    """Return (lat, lng) from S-JTSK coordinates, or (None, None)."""
     gis1 = event.get("gis1")
     gis2 = event.get("gis2")
     if gis1 and gis2:
-        lat, lng = jtsk_to_wgs84(gis1, gis2)
-        if lat and lng:
-            return f"https://mapy.cz/zakladni?x={lng:.6f}&y={lat:.6f}&z=17"
-    parts = [p for p in [event.get("ulice"), event.get("obec")] if p]
-    if parts:
-        return "https://mapy.cz/zakladni?q=" + urllib.parse.quote(", ".join(parts))
-    return None
+        return jtsk_to_wgs84(gis1, gis2)
+    return None, None
 
 
 def fetch_technics(event_id):
@@ -378,20 +375,16 @@ def build_ics(events):
         if location_parts:
             lines.append(fold_ics_line(f"LOCATION:{escape_ics_text(', '.join(location_parts))}"))
 
-        gis1, gis2 = event.get("gis1"), event.get("gis2")
-        if gis1 and gis2:
-            lat, lng = jtsk_to_wgs84(gis1, gis2)
-            if lat and lng:
-                lines.append(f"GEO:{lat:.6f};{lng:.6f}")
+        lat, lng = build_geo(event)
+        if lat and lng:
+            lines.append(f"GEO:{lat:.6f};{lng:.6f}")
+            lines.append(f"URL:geo:{lat:.6f},{lng:.6f}")
 
         desc_parts = []
         if event["misto"] and event["misto"] != event.get("obec", ""):
             desc_parts.append(event["misto"])
         if event["popis"]:
             desc_parts.append(event["popis"])
-        map_url = build_map_url(event)
-        if map_url:
-            desc_parts.append(f"Mapa: {map_url}")
         tech_items = event.get("technika") or []
         if tech_items:
             tech_lines = []
