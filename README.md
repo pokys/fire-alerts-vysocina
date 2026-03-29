@@ -57,9 +57,19 @@ Zkopíruj URL a vlož ji do své kalendářové aplikace (Přidat kalendář →
 
 ## 🛠️ Lokální spuštění
 
+**Python:**
 ```bash
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
 python3 generate.py
 ```
+
+**Docker:**
+```bash
+docker compose up          # spustí generátor, každých 10 minut přegeneruje kalendáře
+docker compose up -d       # na pozadí
+INTERVAL=300 docker compose up  # vlastní interval v sekundách
+```
+
+Vygenerované soubory `calendar-pelhrimov.ics` a `calendar-vysocina.ics` se objeví přímo ve složce repozitáře.
