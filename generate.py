@@ -360,6 +360,7 @@ def build_ics(events):
 
     for event in events:
         dt = format_ics_datetime(event["casVzniku"])
+        dt_end = format_ics_datetime(event["casVzniku"] + timedelta(hours=1))
         summary = escape_ics_text(build_summary(event))
 
         lines.extend(
@@ -367,10 +368,21 @@ def build_ics(events):
                 "BEGIN:VEVENT",
                 fold_ics_line(f"UID:{escape_ics_text(event['id'])}"),
                 f"DTSTART:{dt}",
+                f"DTEND:{dt_end}",
                 f"DTSTAMP:{dt}",
                 fold_ics_line(f"SUMMARY:{summary}"),
             ]
         )
+
+        location_parts = [p for p in [event.get("ulice"), event.get("obec")] if p]
+        if location_parts:
+            lines.append(fold_ics_line(f"LOCATION:{escape_ics_text(', '.join(location_parts))}"))
+
+        gis1, gis2 = event.get("gis1"), event.get("gis2")
+        if gis1 and gis2:
+            lat, lng = jtsk_to_wgs84(gis1, gis2)
+            if lat and lng:
+                lines.append(f"GEO:{lat:.6f};{lng:.6f}")
 
         desc_parts = []
         if event["misto"] and event["misto"] != event.get("obec", ""):
