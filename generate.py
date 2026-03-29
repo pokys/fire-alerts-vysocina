@@ -12,7 +12,7 @@ _jtsk_to_wgs84 = Transformer.from_crs("EPSG:5514", "EPSG:4326", always_xy=True)
 
 
 API_URL = "http://webohled.hasici-vysocina.cz/udalosti/api/"
-CALENDAR_PATH = Path("calendar.ics")
+CALENDAR_PATH = Path("calendar-pelhrimov.ics")
 CALENDAR_VYSOCINA_PATH = Path("calendar-vysocina.ics")
 RAW_RESPONSE_PATH = Path("last_response.json")
 MAX_EVENTS = 100
