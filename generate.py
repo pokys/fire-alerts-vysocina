@@ -2,7 +2,6 @@
 
 import json
 import sys
-import urllib.parse
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
@@ -190,23 +189,13 @@ def jtsk_to_wgs84(gis1, gis2):
         return None, None
 
 
-def build_map_urls(event):
-    """Return (apple_maps_url, mapy_cz_url) or (None, None) depending on available data."""
+def build_geo(event):
+    """Return (lat, lng) from S-JTSK coordinates, or (None, None)."""
     gis1 = event.get("gis1")
     gis2 = event.get("gis2")
     if gis1 and gis2:
-        lat, lng = jtsk_to_wgs84(gis1, gis2)
-        if lat and lng:
-            return (
-                f"https://www.google.com/maps?q={lat:.6f},{lng:.6f}",
-                f"https://maps.apple.com/?ll={lat:.6f},{lng:.6f}&z=17",
-                f"https://mapy.cz/zakladni?x={lng:.6f}&y={lat:.6f}&z=17",
-            )
-    parts = [p for p in [event.get("ulice"), event.get("obec")] if p]
-    if parts:
-        q = urllib.parse.quote(", ".join(parts))
-        return None, None, f"https://mapy.cz/zakladni?q={q}"
-    return None, None, None
+        return jtsk_to_wgs84(gis1, gis2)
+    return None, None
 
 
 def fetch_technics(event_id):
@@ -386,22 +375,16 @@ def build_ics(events):
         if location_parts:
             lines.append(fold_ics_line(f"LOCATION:{escape_ics_text(', '.join(location_parts))}"))
 
-        gmaps_url, apple_url, mapy_url = build_map_urls(event)
-        if gmaps_url:
-            coords = gmaps_url.split("q=")[1]
-            lat_s, lng_s = coords.split(",")
-            lines.append(f"GEO:{lat_s};{lng_s}")
-            lines.append(fold_ics_line(f"URL:{gmaps_url}"))
+        lat, lng = build_geo(event)
+        if lat and lng:
+            lines.append(f"GEO:{lat:.6f};{lng:.6f}")
+            lines.append(f"URL:geo:{lat:.6f},{lng:.6f}")
 
         desc_parts = []
         if event["misto"] and event["misto"] != event.get("obec", ""):
             desc_parts.append(event["misto"])
         if event["popis"]:
             desc_parts.append(event["popis"])
-        if apple_url:
-            desc_parts.append(f"Apple Maps: {apple_url}")
-        if mapy_url:
-            desc_parts.append(f"Mapy.cz: {mapy_url}")
         tech_items = event.get("technika") or []
         if tech_items:
             tech_lines = []
