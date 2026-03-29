@@ -47,6 +47,24 @@ Zkopíruj URL a vlož ji do své kalendářové aplikace (Přidat kalendář →
 
 ---
 
+## 🔔 Telegram notifikace
+
+Při každém novém zásahu v okrese Pelhřimov přijde zpráva do Telegram chatu.
+
+**Nastavení:**
+1. Vytvoř bota přes [@BotFather](https://t.me/BotFather) → `/newbot` → zkopíruj token
+2. Zjisti své Chat ID — pošli botovi zprávu a otevři `https://api.telegram.org/bot<TOKEN>/getUpdates`
+3. V GitHub repozitáři přidej dvě secrets (`Settings → Secrets → Actions`):
+   - `TELEGRAM_BOT_TOKEN`
+   - `TELEGRAM_CHAT_ID`
+
+Bez nakonfigurovaných secrets se notifikace tiše přeskočí. Lokálně v Dockeru:
+```bash
+TELEGRAM_BOT_TOKEN=... TELEGRAM_CHAT_ID=... docker compose up
+```
+
+---
+
 ## ⚙️ Technické detaily
 
 - Data se aktualizují přibližně každých 10 minut přes GitHub Actions
@@ -57,9 +75,19 @@ Zkopíruj URL a vlož ji do své kalendářové aplikace (Přidat kalendář →
 
 ## 🛠️ Lokální spuštění
 
+**Python:**
 ```bash
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
 python3 generate.py
 ```
+
+**Docker:**
+```bash
+docker compose up          # spustí generátor, každých 10 minut přegeneruje kalendáře
+docker compose up -d       # na pozadí
+INTERVAL=300 docker compose up  # vlastní interval v sekundách
+```
+
+Vygenerované soubory `calendar-pelhrimov.ics` a `calendar-vysocina.ics` se objeví přímo ve složce repozitáře.

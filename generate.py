@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 import json
+import os
 import sys
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
@@ -14,6 +15,7 @@ _jtsk_to_wgs84 = Transformer.from_crs("EPSG:5514", "EPSG:4326", always_xy=True)
 API_URL = "http://webohled.hasici-vysocina.cz/udalosti/api/"
 CALENDAR_PATH = Path("calendar-pelhrimov.ics")
 CALENDAR_VYSOCINA_PATH = Path("calendar-vysocina.ics")
+NOTIFIED_PATH = Path("notified.json")
 RAW_RESPONSE_PATH = Path("last_response.json")
 MAX_EVENTS = 100
 TIMEOUT_SECONDS = 30
@@ -439,6 +441,71 @@ def write_calendar(content, path):
     path.write_text(content, encoding="utf-8", newline="")
 
 
+def load_notified_ids():
+    try:
+        return set(json.loads(NOTIFIED_PATH.read_text(encoding="utf-8")))
+    except Exception:
+        return set()
+
+
+def save_notified_ids(ids):
+    NOTIFIED_PATH.write_text(json.dumps(sorted(ids)), encoding="utf-8")
+
+
+def format_telegram_message(event):
+    lines = [f"<b>{build_summary(event)}</b>"]
+    if event["misto"] and event["misto"] != event.get("obec", ""):
+        lines.append(f"📍 {event['misto']}")
+    if event["popis"]:
+        lines.append(f"💬 {event['popis']}")
+    tech_items = event.get("technika") or []
+    tech_lines = []
+    for t in tech_items:
+        typ_t = t.get("typ", "")
+        jednotka = t.get("jednotka", "")
+        pocet = t.get("pocet", 1)
+        if typ_t:
+            vehicle = abbrev_vehicle(typ_t)
+            line = f"🚒 {vehicle}"
+            if jednotka:
+                line += f" ({jednotka})"
+            if pocet and pocet > 1:
+                line += f" ×{pocet}"
+            tech_lines.append(line)
+    if tech_lines:
+        lines.append("")
+        lines.extend(tech_lines)
+    lat, lng = build_geo(event)
+    if lat and lng:
+        lines.append(f"\n🗺 <a href=\"https://maps.google.com/maps?q={lat:.6f},{lng:.6f}\">Otevřít mapu</a>")
+    return "\n".join(lines)
+
+
+def send_telegram(token, chat_id, text):
+    try:
+        url = f"https://api.telegram.org/bot{token}/sendMessage"
+        response = requests.post(url, json={
+            "chat_id": chat_id,
+            "text": text,
+            "parse_mode": "HTML",
+            "disable_web_page_preview": True,
+        }, timeout=10)
+        response.raise_for_status()
+    except Exception as exc:
+        print(f"Telegram notification failed: {exc}", file=sys.stderr)
+
+
+def notify_new_events(events, token, chat_id):
+    notified = load_notified_ids()
+    new_events = [e for e in events if e["id"] not in notified]
+    for event in new_events:
+        send_telegram(token, chat_id, format_telegram_message(event))
+        notified.add(event["id"])
+        print(f"Telegram: notified event {event['id']}", file=sys.stderr)
+    if new_events:
+        save_notified_ids(notified)
+
+
 def main():
     try:
         events_okres = fetch_events(okres_id=OKRES_ID)
@@ -464,6 +531,14 @@ def main():
 
     print(f"Wrote {CALENDAR_PATH} with {len(events_okres)} events.")
     print(f"Wrote {CALENDAR_VYSOCINA_PATH} with {len(events_kraj)} events.")
+
+    tg_token = os.environ.get("TELEGRAM_BOT_TOKEN")
+    tg_chat = os.environ.get("TELEGRAM_CHAT_ID")
+    if tg_token and tg_chat:
+        notify_new_events(events_okres, tg_token, tg_chat)
+    else:
+        print("Telegram not configured, skipping notifications.", file=sys.stderr)
+
     return 0
 
 
