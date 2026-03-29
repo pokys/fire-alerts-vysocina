@@ -1,22 +1,61 @@
-# Fire Alerts Vysocina
+# Hasiči Vysočina — kalendář zásahů
 
-Minimal MVP script that fetches recent fire incident events from the Vysocina API and generates `calendar.ics`.
+Automaticky generovaný iCalendar feed událostí hasičů na Vysočině.
+Data pochází z [webohled.hasici-vysocina.cz](http://webohled.hasici-vysocina.cz).
 
-Calendar file: [calendar.ics](./calendar.ics)
+---
 
-## What it does
+## 📅 Přihlášení ke kalendáři
 
-- fetches events for the last 24 hours in UTC
-- filters by:
-  - `krajId=108`
-  - `okresId=3304`
-  - required `stavIds`
-- sorts events by `casVzniku`
-- de-duplicates by `id`
-- writes a valid RFC5545 iCalendar file to `calendar.ics`
-- keeps only the latest 100 events for a compact output
+Zkopíruj URL a vlož ji do své kalendářové aplikace (Přidat kalendář → Z URL).
 
-## Run locally
+| Kalendář | URL |
+|---|---|
+| 🔴 **Okres Pelhřimov** | `https://raw.githubusercontent.com/pokys/fire-alerts-vysocina/main/calendar-pelhrimov.ics` |
+| 🟠 **Celá Vysočina** | `https://raw.githubusercontent.com/pokys/fire-alerts-vysocina/main/calendar-vysocina.ics` |
+
+> **iOS / macOS:** Nastavení → Kalendář → Přidat účet → Jiný → Přidat přihlášený kalendář
+> **Android (Google Calendar):** calendar.google.com → Další kalendáře (+) → Z URL
+> **Outlook:** Přidat kalendář → Přihlásit se k internetu
+
+---
+
+## 📋 Co je v každé události
+
+**Název:** `🔥 saze v komíně - Horní Cerekev`
+— emoji podle typu zásahu + podtyp + obec
+
+| Emoji | Typ zásahu |
+|---|---|
+| 🔥 | Požár |
+| 🚗 | Dopravní nehoda |
+| ☣️ | Únik nebezpečných látek |
+| 🛠️ | Technická pomoc |
+| 🚑 | Záchrana osob a zvířat |
+| ⚠️ | Planý poplach |
+
+**Popis události:**
+```
+📍 Sídliště Pražská, Havlíčkův Brod
+💬 Zastavení unikajícího plynu.
+
+🚒 CAS (CHS Havlíčkův Brod)
+🚒 DA (SDH Pacov) ×2
+```
+
+**Mapa:** událost obsahuje GPS souřadnice — kliknutím se otevře Apple Maps / Google Maps přímo na místě zásahu.
+
+---
+
+## ⚙️ Technické detaily
+
+- Data se aktualizují přibližně každých 10 minut přes GitHub Actions
+- Zobrazují se události za posledních **48 hodin**
+- Souřadnice jsou převáděny z S-JTSK (gis1/gis2) na WGS84
+- Technika (vozidla) se načítá z doplňkového API endpointu
+- Formát: RFC 5545 iCalendar, GPS: RFC 5870 `geo:` URI
+
+## 🛠️ Lokální spuštění
 
 ```bash
 python3 -m venv .venv
@@ -24,23 +63,3 @@ source .venv/bin/activate
 pip install -r requirements.txt
 python3 generate.py
 ```
-
-## Expected JSON shape
-
-```json
-[
-  {
-    "id": 123456,
-    "casVzniku": "2026-03-29T10:15:00Z",
-    "typ": "Pozar",
-    "misto": "Jihlava",
-    "popis": "Hori osobni automobil"
-  }
-]
-```
-
-## GitHub Actions
-
-The workflow in `.github/workflows/generate.yml` runs every 5 minutes and also supports manual runs.
-
-If you want the generated `calendar.ics` committed back to the repository, the workflow already includes commit-and-push logic.
