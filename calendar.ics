@@ -5,20 +5,44 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Fire Alerts Vysocina
 BEGIN:VEVENT
+UID:408886061
+DTSTART:20260328T064244Z
+DTSTAMP:20260328T064244Z
+SUMMARY:🚗 DN: dopravní nehoda - Dubovice
+DESCRIPTION:Dubovice\, Pelhřimov\nDN 1 OA bez zranění. Provedeno protipožár
+ ní opatření a zabezpečení místa nehody.
+END:VEVENT
+BEGIN:VEVENT
+UID:408892061
+DTSTART:20260328T100944Z
+DTSTAMP:20260328T100944Z
+SUMMARY:🚑 Záchrana: transport pacienta - Pacov
+DESCRIPTION:Na Blatech\, Pacov\, Pelhřimov\nTransport pacienta na žádost ZZ
+ S.
+END:VEVENT
+BEGIN:VEVENT
+UID:408894061
+DTSTART:20260328T103730Z
+DTSTAMP:20260328T103730Z
+SUMMARY:🛠️ Technická pomoc: otevření bytu/auta - Pacov
+DESCRIPTION:Za Branou\, Pacov\, Pelhřimov\nOtevření bytu.
+END:VEVENT
+BEGIN:VEVENT
 UID:408910061
 DTSTART:20260329T143122Z
 DTSTAMP:20260329T143122Z
-SUMMARY:Incident 3214 - 5. května\, Košetice\, Pelhřimov
-DESCRIPTION:DN 2 OA. 1 lehce zraněná osoba v péči ZZS. Provedeno protipožár
- ní opatření. Úklid vozovky. Řízení provozu.
+SUMMARY:🚗 DN: dopravní nehoda - Košetice
+DESCRIPTION:5. května\, Košetice\, Pelhřimov\nDN 2 OA. 1 lehce zraněná osob
+ a v péči ZZS. Provedeno protipožární opatření. Úklid vozovky. Řízení provo
+ zu.
 END:VEVENT
 BEGIN:VEVENT
 UID:408912061
 DTSTART:20260329T145304Z
 DTSTAMP:20260329T145304Z
-SUMMARY:Incident 3214 - Pošná\, Pelhřimov
-DESCRIPTION:DN OA do stromu. 1 zraněná osoba předána do péče ZZS. Poskytnut
- a předlékařská pomoc. Provedeno protipožární opatření. Úklid vozovky\, říz
- ení provozu.
+SUMMARY:🚗 DN: dopravní nehoda - Pošná
+DESCRIPTION:Pošná\, Pelhřimov\nDN OA do stromu. 1 zraněná osoba předána do 
+ péče ZZS. Poskytnuta předlékařská pomoc. Provedeno protipožární opatření. 
+ Úklid vozovky\, řízení provozu.
 END:VEVENT
 END:VCALENDAR
