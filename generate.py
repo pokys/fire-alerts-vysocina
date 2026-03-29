@@ -7,6 +7,9 @@ from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 import requests
+from pyproj import Transformer
+
+_jtsk_to_wgs84 = Transformer.from_crs("EPSG:5514", "EPSG:4326")
 
 
 API_URL = "http://webohled.hasici-vysocina.cz/udalosti/api/"
@@ -46,14 +49,6 @@ TYPE_EMOJIS = {
     3800: "⚠️",
 }
 
-TYPE_LABELS = {
-    3100: "POŽ",
-    3200: "DN",
-    3400: "ÚNK",
-    3500: "TECH",
-    3550: "ZÁC",
-    3800: "PP",
-}
 
 SUBTYPE_LABELS = {
     3101: "budova",
@@ -175,21 +170,35 @@ def build_summary(event):
     obec = event.get("obec") or event["misto"]
 
     emoji = TYPE_EMOJIS.get(typ_id, "🚨")
-    short_label = TYPE_LABELS.get(typ_id, "")
     subtype_label = SUBTYPE_LABELS.get(podtyp_id, "")
 
-    prefix = f"{emoji} {short_label}".rstrip() if short_label else emoji
-
     if subtype_label:
-        return f"{prefix} - {subtype_label} - {obec}"
-    return f"{prefix} - {obec}"
+        return f"{emoji} - {subtype_label} - {obec}"
+    return f"{emoji} - {obec}"
+
+
+def jtsk_to_wgs84(gis1, gis2):
+    try:
+        # EPSG:5514 axis order: Southing (X), Westing (Y); API provides absolute values
+        lat, lng = _jtsk_to_wgs84.transform(-float(gis2), -float(gis1))
+        if abs(lat) > 90 or abs(lng) > 180:
+            return None, None
+        return lat, lng
+    except Exception:
+        return None, None
 
 
 def build_map_url(event):
+    gis1 = event.get("gis1")
+    gis2 = event.get("gis2")
+    if gis1 and gis2:
+        lat, lng = jtsk_to_wgs84(gis1, gis2)
+        if lat and lng:
+            return f"https://mapy.cz/zakladni?x={lng:.6f}&y={lat:.6f}&z=17"
     parts = [p for p in [event.get("ulice"), event.get("obec")] if p]
-    if not parts:
-        return None
-    return "https://mapy.cz/zakladni?q=" + urllib.parse.quote(", ".join(parts))
+    if parts:
+        return "https://mapy.cz/zakladni?q=" + urllib.parse.quote(", ".join(parts))
+    return None
 
 
 def fetch_technics(event_id):
@@ -291,6 +300,8 @@ def fetch_events():
         podtyp_id = pick_value(raw_event, "podtypId", "PodtypId")
         obec = str(pick_value(raw_event, "obec", "Obec") or "").strip()
         ulice = str(pick_value(raw_event, "ulice", "Ulice") or "").strip()
+        gis1 = pick_value(raw_event, "gis1")
+        gis2 = pick_value(raw_event, "gis2")
 
         events.append(
             {
@@ -301,6 +312,8 @@ def fetch_events():
                 "podtypId": int(podtyp_id) if podtyp_id is not None else None,
                 "obec": obec,
                 "ulice": ulice,
+                "gis1": gis1,
+                "gis2": gis2,
                 "misto": misto,
                 "popis": str(
                     pick_value(
