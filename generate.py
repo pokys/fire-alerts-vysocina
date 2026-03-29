@@ -374,7 +374,7 @@ def build_ics(events, name="Hasiči Vysočina - okres"):
     lines = [
         "BEGIN:VCALENDAR",
         "VERSION:2.0",
-        "PRODID:-//fire-alerts-vysocina//MVP//EN",
+        "PRODID:-//pokys//hasici-vysocina//CS",
         "CALSCALE:GREGORIAN",
         "METHOD:PUBLISH",
         f"X-WR-CALNAME:{name}",
@@ -510,13 +510,13 @@ def main():
     try:
         events_okres = fetch_events(okres_id=OKRES_ID)
         write_calendar(
-            build_ics(events_okres, name="Hasiči Vysočina - okres"),
+            build_ics(events_okres, name="Hasiči - Pelhřimov"),
             CALENDAR_PATH,
         )
 
         events_kraj = fetch_events(okres_id=None)
         write_calendar(
-            build_ics(events_kraj, name="Hasiči Vysočina - kraj"),
+            build_ics(events_kraj, name="Hasiči - Vysočina"),
             CALENDAR_VYSOCINA_PATH,
         )
     except requests.RequestException as exc:
