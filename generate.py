@@ -2,6 +2,7 @@
 
 import json
 import sys
+import urllib.parse
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
@@ -46,12 +47,12 @@ TYPE_EMOJIS = {
 }
 
 TYPE_LABELS = {
-    3100: "Požár",
+    3100: "POŽ",
     3200: "DN",
-    3400: "Únik látek",
-    3500: "Technická pomoc",
-    3550: "Záchrana",
-    3800: "Planý poplach",
+    3400: "ÚNK",
+    3500: "TECH",
+    3550: "ZÁC",
+    3800: "PP",
 }
 
 SUBTYPE_LABELS = {
@@ -174,12 +175,32 @@ def build_summary(event):
     obec = event.get("obec") or event["misto"]
 
     emoji = TYPE_EMOJIS.get(typ_id, "🚨")
-    type_label = TYPE_LABELS.get(typ_id, event["typ"])
-    subtype_label = SUBTYPE_LABELS.get(podtyp_id)
+    short_label = TYPE_LABELS.get(typ_id, "")
+    subtype_label = SUBTYPE_LABELS.get(podtyp_id, "")
+
+    prefix = f"{emoji} {short_label}".rstrip() if short_label else emoji
 
     if subtype_label:
-        return f"{emoji} {type_label}: {subtype_label} - {obec}"
-    return f"{emoji} {type_label} - {obec}"
+        return f"{prefix} - {subtype_label} - {obec}"
+    return f"{prefix} - {obec}"
+
+
+def build_map_url(event):
+    parts = [p for p in [event.get("ulice"), event.get("obec")] if p]
+    if not parts:
+        return None
+    return "https://mapy.cz/zakladni?q=" + urllib.parse.quote(", ".join(parts))
+
+
+def fetch_technics(event_id):
+    try:
+        url = f"http://webohled.hasici-vysocina.cz/udalosti/api/udalosti/{event_id}/technika"
+        response = requests.get(url, timeout=5)
+        response.raise_for_status()
+        data = response.json()
+        return data if isinstance(data, list) else []
+    except Exception:
+        return []
 
 
 def escape_ics_text(value):
@@ -269,6 +290,7 @@ def fetch_events():
         typ_id = pick_value(raw_event, "typId", "TypId")
         podtyp_id = pick_value(raw_event, "podtypId", "PodtypId")
         obec = str(pick_value(raw_event, "obec", "Obec") or "").strip()
+        ulice = str(pick_value(raw_event, "ulice", "Ulice") or "").strip()
 
         events.append(
             {
@@ -278,6 +300,7 @@ def fetch_events():
                 "typId": int(typ_id) if typ_id is not None else None,
                 "podtypId": int(podtyp_id) if podtyp_id is not None else None,
                 "obec": obec,
+                "ulice": ulice,
                 "misto": misto,
                 "popis": str(
                     pick_value(
@@ -289,6 +312,7 @@ def fetch_events():
                     )
                     or ""
                 ).strip(),
+                "technika": fetch_technics(event_id),
             }
         )
 
@@ -340,6 +364,25 @@ def build_ics(events):
             desc_parts.append(event["misto"])
         if event["popis"]:
             desc_parts.append(event["popis"])
+        map_url = build_map_url(event)
+        if map_url:
+            desc_parts.append(f"Mapa: {map_url}")
+        tech_items = event.get("technika") or []
+        if tech_items:
+            tech_lines = []
+            for t in tech_items:
+                typ_t = t.get("typ", "")
+                jednotka = t.get("jednotka", "")
+                pocet = t.get("pocet", 1)
+                if typ_t:
+                    line = typ_t
+                    if jednotka:
+                        line += f" ({jednotka})"
+                    if pocet and pocet > 1:
+                        line += f" ×{pocet}"
+                    tech_lines.append(line)
+            if tech_lines:
+                desc_parts.append("Technika: " + ", ".join(tech_lines))
         if desc_parts:
             lines.append(fold_ics_line(f"DESCRIPTION:{escape_ics_text(chr(10).join(desc_parts))}"))
 
