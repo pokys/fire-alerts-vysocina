@@ -8,41 +8,49 @@ BEGIN:VEVENT
 UID:408886061
 DTSTART:20260328T064244Z
 DTSTAMP:20260328T064244Z
-SUMMARY:🚗 DN: dopravní nehoda - Dubovice
+SUMMARY:🚗 DN - dopravní nehoda - Dubovice
 DESCRIPTION:Dubovice\, Pelhřimov\nDN 1 OA bez zranění. Provedeno protipožár
- ní opatření a zabezpečení místa nehody.
+ ní opatření a zabezpečení místa nehody.\nMapa: https://mapy.cz/zakladni?q=
+ Dubovice\nTechnika: cisternová automobilová stříkačka < 30 (CHS Pelhřimov)
+ \, vyprošťovací automobil (CHS Pelhřimov)
 END:VEVENT
 BEGIN:VEVENT
 UID:408892061
 DTSTART:20260328T100944Z
 DTSTAMP:20260328T100944Z
-SUMMARY:🚑 Záchrana: transport pacienta - Pacov
+SUMMARY:🚑 ZÁC - transport pacienta - Pacov
 DESCRIPTION:Na Blatech\, Pacov\, Pelhřimov\nTransport pacienta na žádost ZZ
- S.
+ S.\nMapa: https://mapy.cz/zakladni?q=Na%20Blatech%2C%20Pacov\nTechnika: ci
+ sternová automobilová stříkačka < 30 (HS Pacov)
 END:VEVENT
 BEGIN:VEVENT
 UID:408894061
 DTSTART:20260328T103730Z
 DTSTAMP:20260328T103730Z
-SUMMARY:🛠️ Technická pomoc: otevření bytu/auta - Pacov
-DESCRIPTION:Za Branou\, Pacov\, Pelhřimov\nOtevření bytu.
+SUMMARY:🛠️ TECH - otevření bytu/auta - Pacov
+DESCRIPTION:Za Branou\, Pacov\, Pelhřimov\nOtevření bytu.\nMapa: https://ma
+ py.cz/zakladni?q=Za%20Branou%2C%20Pacov\nTechnika: cisternová automobilová
+  stříkačka < 30 (HS Pacov)
 END:VEVENT
 BEGIN:VEVENT
 UID:408910061
 DTSTART:20260329T143122Z
 DTSTAMP:20260329T143122Z
-SUMMARY:🚗 DN: dopravní nehoda - Košetice
+SUMMARY:🚗 DN - dopravní nehoda - Košetice
 DESCRIPTION:5. května\, Košetice\, Pelhřimov\nDN 2 OA. 1 lehce zraněná osob
  a v péči ZZS. Provedeno protipožární opatření. Úklid vozovky. Řízení provo
- zu.
+ zu.\nMapa: https://mapy.cz/zakladni?q=5.%20kv%C4%9Btna%2C%20Ko%C5%A1etice\
+ nTechnika: cisternová automobilová stříkačka < 30 (CHS Pelhřimov)\, cister
+ nová automobilová stříkačka < 30 (Onšov)
 END:VEVENT
 BEGIN:VEVENT
 UID:408912061
 DTSTART:20260329T145304Z
 DTSTAMP:20260329T145304Z
-SUMMARY:🚗 DN: dopravní nehoda - Pošná
+SUMMARY:🚗 DN - dopravní nehoda - Pošná
 DESCRIPTION:Pošná\, Pelhřimov\nDN OA do stromu. 1 zraněná osoba předána do 
  péče ZZS. Poskytnuta předlékařská pomoc. Provedeno protipožární opatření. 
- Úklid vozovky\, řízení provozu.
+ Úklid vozovky\, řízení provozu.\nMapa: https://mapy.cz/zakladni?q=Po%C5%A1
+ n%C3%A1\nTechnika: cisternová automobilová stříkačka < 30 (HS Pacov)
 END:VEVENT
 END:VCALENDAR
