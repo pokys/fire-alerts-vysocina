@@ -11,11 +11,11 @@ DTEND:20260328T074244Z
 DTSTAMP:20260328T064244Z
 SUMMARY:🚗 dopravní nehoda - Dubovice
 LOCATION:Dubovice
-GEO:52.526022;8.199939
+GEO:49.440679;15.164158
+URL:geo:49.440679,15.164158
 DESCRIPTION:Dubovice\, Pelhřimov\nDN 1 OA bez zranění. Provedeno protipožár
- ní opatření a zabezpečení místa nehody.\nMapa: https://mapy.cz/zakladni?x=
- 8.199939&y=52.526022&z=17\nTechnika: cisternová automobilová stříkačka < 3
- 0 (CHS Pelhřimov)\, vyprošťovací automobil (CHS Pelhřimov)
+ ní opatření a zabezpečení místa nehody.\nTechnika: cisternová automobilová
+  stříkačka < 30 (CHS Pelhřimov)\, vyprošťovací automobil (CHS Pelhřimov)
 END:VEVENT
 BEGIN:VEVENT
 UID:408892061
@@ -24,10 +24,10 @@ DTEND:20260328T110944Z
 DTSTAMP:20260328T100944Z
 SUMMARY:🚑 transport pacienta - Pacov
 LOCATION:Na Blatech\, Pacov
-GEO:52.441448;8.311547
+GEO:49.475862;15.006438
+URL:geo:49.475862,15.006438
 DESCRIPTION:Na Blatech\, Pacov\, Pelhřimov\nTransport pacienta na žádost ZZ
- S.\nMapa: https://mapy.cz/zakladni?x=8.311547&y=52.441448&z=17\nTechnika: 
- cisternová automobilová stříkačka < 30 (HS Pacov)
+ S.\nTechnika: cisternová automobilová stříkačka < 30 (HS Pacov)
 END:VEVENT
 BEGIN:VEVENT
 UID:408894061
@@ -36,10 +36,10 @@ DTEND:20260328T113730Z
 DTSTAMP:20260328T103730Z
 SUMMARY:🛠️ otevření bytu/auta - Pacov
 LOCATION:Za Branou\, Pacov
-GEO:52.440079;8.315679
-DESCRIPTION:Za Branou\, Pacov\, Pelhřimov\nOtevření bytu.\nMapa: https://ma
- py.cz/zakladni?x=8.315679&y=52.440079&z=17\nTechnika: cisternová automobil
- ová stříkačka < 30 (HS Pacov)
+GEO:49.477768;15.003136
+URL:geo:49.477768,15.003136
+DESCRIPTION:Za Branou\, Pacov\, Pelhřimov\nOtevření bytu.\nTechnika: cister
+ nová automobilová stříkačka < 30 (HS Pacov)
 END:VEVENT
 BEGIN:VEVENT
 UID:408910061
@@ -48,12 +48,12 @@ DTEND:20260329T153122Z
 DTSTAMP:20260329T143122Z
 SUMMARY:🚗 dopravní nehoda - Košetice
 LOCATION:5. května\, Košetice
-GEO:52.536991;8.405307
+GEO:49.562247;15.114553
+URL:geo:49.562247,15.114553
 DESCRIPTION:5. května\, Košetice\, Pelhřimov\nDN 2 OA. 1 lehce zraněná osob
  a v péči ZZS. Provedeno protipožární opatření. Úklid vozovky. Řízení provo
- zu.\nMapa: https://mapy.cz/zakladni?x=8.405307&y=52.536991&z=17\nTechnika:
-  cisternová automobilová stříkačka < 30 (CHS Pelhřimov)\, cisternová autom
- obilová stříkačka < 30 (Onšov)
+ zu.\nTechnika: cisternová automobilová stříkačka < 30 (CHS Pelhřimov)\, ci
+ sternová automobilová stříkačka < 30 (Onšov)
 END:VEVENT
 BEGIN:VEVENT
 UID:408912061
@@ -62,11 +62,11 @@ DTEND:20260329T155304Z
 DTSTAMP:20260329T145304Z
 SUMMARY:🚗 dopravní nehoda - Pošná
 LOCATION:Pošná
-GEO:52.458186;8.261855
+GEO:49.453038;15.046513
+URL:geo:49.453038,15.046513
 DESCRIPTION:Pošná\, Pelhřimov\nDN OA do stromu. 1 zraněná osoba předána do 
  péče ZZS. Poskytnuta předlékařská pomoc. Provedeno protipožární opatření. 
- Úklid vozovky\, řízení provozu.\nMapa: https://mapy.cz/zakladni?x=8.261855
- &y=52.458186&z=17\nTechnika: cisternová automobilová stříkačka < 30 (HS Pa
- cov)
+ Úklid vozovky\, řízení provozu.\nTechnika: cisternová automobilová stříkač
+ ka < 30 (HS Pacov)
 END:VEVENT
 END:VCALENDAR
