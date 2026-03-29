@@ -2,6 +2,8 @@
 
 Minimal MVP script that fetches recent fire incident events from the Vysocina API and generates `calendar.ics`.
 
+Calendar file: [calendar.ics](./calendar.ics)
+
 ## What it does
 
 - fetches events for the last 24 hours in UTC
