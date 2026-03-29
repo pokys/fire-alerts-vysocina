@@ -7,50 +7,66 @@ X-WR-CALNAME:Fire Alerts Vysocina
 BEGIN:VEVENT
 UID:408886061
 DTSTART:20260328T064244Z
+DTEND:20260328T074244Z
 DTSTAMP:20260328T064244Z
-SUMMARY:🚗 DN - dopravní nehoda - Dubovice
+SUMMARY:🚗 dopravní nehoda - Dubovice
+LOCATION:Dubovice
+GEO:52.526022;8.199939
 DESCRIPTION:Dubovice\, Pelhřimov\nDN 1 OA bez zranění. Provedeno protipožár
- ní opatření a zabezpečení místa nehody.\nMapa: https://mapy.cz/zakladni?q=
- Dubovice\nTechnika: cisternová automobilová stříkačka < 30 (CHS Pelhřimov)
- \, vyprošťovací automobil (CHS Pelhřimov)
+ ní opatření a zabezpečení místa nehody.\nMapa: https://mapy.cz/zakladni?x=
+ 8.199939&y=52.526022&z=17\nTechnika: cisternová automobilová stříkačka < 3
+ 0 (CHS Pelhřimov)\, vyprošťovací automobil (CHS Pelhřimov)
 END:VEVENT
 BEGIN:VEVENT
 UID:408892061
 DTSTART:20260328T100944Z
+DTEND:20260328T110944Z
 DTSTAMP:20260328T100944Z
-SUMMARY:🚑 ZÁC - transport pacienta - Pacov
+SUMMARY:🚑 transport pacienta - Pacov
+LOCATION:Na Blatech\, Pacov
+GEO:52.441448;8.311547
 DESCRIPTION:Na Blatech\, Pacov\, Pelhřimov\nTransport pacienta na žádost ZZ
- S.\nMapa: https://mapy.cz/zakladni?q=Na%20Blatech%2C%20Pacov\nTechnika: ci
- sternová automobilová stříkačka < 30 (HS Pacov)
+ S.\nMapa: https://mapy.cz/zakladni?x=8.311547&y=52.441448&z=17\nTechnika: 
+ cisternová automobilová stříkačka < 30 (HS Pacov)
 END:VEVENT
 BEGIN:VEVENT
 UID:408894061
 DTSTART:20260328T103730Z
+DTEND:20260328T113730Z
 DTSTAMP:20260328T103730Z
-SUMMARY:🛠️ TECH - otevření bytu/auta - Pacov
+SUMMARY:🛠️ otevření bytu/auta - Pacov
+LOCATION:Za Branou\, Pacov
+GEO:52.440079;8.315679
 DESCRIPTION:Za Branou\, Pacov\, Pelhřimov\nOtevření bytu.\nMapa: https://ma
- py.cz/zakladni?q=Za%20Branou%2C%20Pacov\nTechnika: cisternová automobilová
-  stříkačka < 30 (HS Pacov)
+ py.cz/zakladni?x=8.315679&y=52.440079&z=17\nTechnika: cisternová automobil
+ ová stříkačka < 30 (HS Pacov)
 END:VEVENT
 BEGIN:VEVENT
 UID:408910061
 DTSTART:20260329T143122Z
+DTEND:20260329T153122Z
 DTSTAMP:20260329T143122Z
-SUMMARY:🚗 DN - dopravní nehoda - Košetice
+SUMMARY:🚗 dopravní nehoda - Košetice
+LOCATION:5. května\, Košetice
+GEO:52.536991;8.405307
 DESCRIPTION:5. května\, Košetice\, Pelhřimov\nDN 2 OA. 1 lehce zraněná osob
  a v péči ZZS. Provedeno protipožární opatření. Úklid vozovky. Řízení provo
- zu.\nMapa: https://mapy.cz/zakladni?q=5.%20kv%C4%9Btna%2C%20Ko%C5%A1etice\
- nTechnika: cisternová automobilová stříkačka < 30 (CHS Pelhřimov)\, cister
- nová automobilová stříkačka < 30 (Onšov)
+ zu.\nMapa: https://mapy.cz/zakladni?x=8.405307&y=52.536991&z=17\nTechnika:
+  cisternová automobilová stříkačka < 30 (CHS Pelhřimov)\, cisternová autom
+ obilová stříkačka < 30 (Onšov)
 END:VEVENT
 BEGIN:VEVENT
 UID:408912061
 DTSTART:20260329T145304Z
+DTEND:20260329T155304Z
 DTSTAMP:20260329T145304Z
-SUMMARY:🚗 DN - dopravní nehoda - Pošná
+SUMMARY:🚗 dopravní nehoda - Pošná
+LOCATION:Pošná
+GEO:52.458186;8.261855
 DESCRIPTION:Pošná\, Pelhřimov\nDN OA do stromu. 1 zraněná osoba předána do 
  péče ZZS. Poskytnuta předlékařská pomoc. Provedeno protipožární opatření. 
- Úklid vozovky\, řízení provozu.\nMapa: https://mapy.cz/zakladni?q=Po%C5%A1
- n%C3%A1\nTechnika: cisternová automobilová stříkačka < 30 (HS Pacov)
+ Úklid vozovky\, řízení provozu.\nMapa: https://mapy.cz/zakladni?x=8.261855
+ &y=52.458186&z=17\nTechnika: cisternová automobilová stříkačka < 30 (HS Pa
+ cov)
 END:VEVENT
 END:VCALENDAR
