@@ -36,6 +36,63 @@ STAV_IDS = [
     800,
 ]
 
+TYPE_EMOJIS = {
+    3100: "🔥",
+    3200: "🚗",
+    3400: "☣️",
+    3500: "🛠️",
+    3550: "🚑",
+    3800: "⚠️",
+}
+
+TYPE_LABELS = {
+    3100: "Požár",
+    3200: "DN",
+    3400: "Únik látek",
+    3500: "Technická pomoc",
+    3550: "Záchrana",
+    3800: "Planý poplach",
+}
+
+SUBTYPE_LABELS = {
+    3101: "budova",
+    3103: "technologie",
+    3105: "cvičení",
+    3106: "tráva/plocha",
+    3107: "trafostanice",
+    3108: "vozidlo",
+    3109: "odpad",
+    3110: "les",
+    3111: "venkovní požár",
+    3112: "kůlna/přístřešek",
+    3117: "saze v komíně",
+    3211: "se zraněním",
+    3212: "bez zranění",
+    3213: "úklid místa",
+    3214: "dopravní nehoda",
+    3401: "olej/PHM",
+    3403: "neznámá látka",
+    3404: "plyn",
+    3501: "ostatní",
+    3502: "spolupráce IZS",
+    3504: "dovoz vody",
+    3505: "strom",
+    3521: "záchrana na vodě",
+    3522: "záchrana ze stromu",
+    3523: "otevření/asistence",
+    3524: "vyproštění osoby",
+    3525: "otevření bytu/auta",
+    3526: "odstranění překážky",
+    3527: "čerpání vody",
+    3528: "měření koncentrace",
+    3530: "spolupráce ZZS",
+    3531: "záchrana zvířete",
+    3541: "monitoring",
+    3542: "obtížný hmyz",
+    3543: "transport pacienta",
+    3811: "planý poplach",
+}
+
 
 def utc_now():
     return datetime.now(timezone.utc).replace(microsecond=0)
@@ -111,6 +168,20 @@ def build_type(raw_event):
     return "Incident"
 
 
+def build_summary(event):
+    typ_id = event.get("typId")
+    podtyp_id = event.get("podtypId")
+    obec = event.get("obec") or event["misto"]
+
+    emoji = TYPE_EMOJIS.get(typ_id, "🚨")
+    type_label = TYPE_LABELS.get(typ_id, event["typ"])
+    subtype_label = SUBTYPE_LABELS.get(podtyp_id)
+
+    if subtype_label:
+        return f"{emoji} {type_label}: {subtype_label} - {obec}"
+    return f"{emoji} {type_label} - {obec}"
+
+
 def escape_ics_text(value):
     if value is None:
         return ""
@@ -137,7 +208,7 @@ def fold_ics_line(line, limit=75):
 
 def fetch_events():
     now = utc_now()
-    since = now - timedelta(hours=24)
+    since = now - timedelta(hours=48)
 
     params = {
         "krajId": KRAJ_ID,
@@ -194,11 +265,19 @@ def fetch_events():
 
         event_dt = parse_event_datetime(cas_vzniku)
         seen_ids.add(event_id)
+
+        typ_id = pick_value(raw_event, "typId", "TypId")
+        podtyp_id = pick_value(raw_event, "podtypId", "PodtypId")
+        obec = str(pick_value(raw_event, "obec", "Obec") or "").strip()
+
         events.append(
             {
                 "id": event_id,
                 "casVzniku": event_dt,
                 "typ": typ,
+                "typId": int(typ_id) if typ_id is not None else None,
+                "podtypId": int(podtyp_id) if podtyp_id is not None else None,
+                "obec": obec,
                 "misto": misto,
                 "popis": str(
                     pick_value(
@@ -244,7 +323,7 @@ def build_ics(events):
 
     for event in events:
         dt = format_ics_datetime(event["casVzniku"])
-        summary = escape_ics_text(f'{event["typ"]} - {event["misto"]}')
+        summary = escape_ics_text(build_summary(event))
 
         lines.extend(
             [
@@ -256,8 +335,13 @@ def build_ics(events):
             ]
         )
 
+        desc_parts = []
+        if event["misto"] and event["misto"] != event.get("obec", ""):
+            desc_parts.append(event["misto"])
         if event["popis"]:
-            lines.append(fold_ics_line(f"DESCRIPTION:{escape_ics_text(event['popis'])}"))
+            desc_parts.append(event["popis"])
+        if desc_parts:
+            lines.append(fold_ics_line(f"DESCRIPTION:{escape_ics_text(chr(10).join(desc_parts))}"))
 
         lines.append("END:VEVENT")
 
