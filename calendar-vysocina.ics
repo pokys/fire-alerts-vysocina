@@ -5,22 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:408897061
-DTSTART:20260328T165418Z
-DTEND:20260328T175418Z
-DTSTAMP:20260328T165418Z
-SUMMARY:🔥 budova - Světlá nad Sázavou
-LOCATION:Světlá nad Sázavou
-GEO:49.650476;15.409899
-URL:geo:49.650476,15.409899
-DESCRIPTION:📍 Závidkovice\, Světlá nad Sázavou\, Havlíčkův Brod\n💬 Požár st
- řechy RD. Provedena lokalizace a likvidace požáru.\n\n🚒 CAS (HS Ledeč nad 
- Sázavou)\n🚒 CAS (HS Světlá nad Sázavou) ×2\n🚒 čerpadlo plovoucí (HS Světlá
-  nad Sázavou)\n🚒 DA (Dolní Město)\n🚒 CAS (Dolní Město)\n🚒 DA (Světlá nad S
- ázavou)\n🚒 CAS (Světlá nad Sázavou) ×2\n🚒 vyšetřovací automobil (ÚO Havlíč
- kův Brod) ×3
-END:VEVENT
-BEGIN:VEVENT
 UID:408901061
 DTSTART:20260328T191015Z
 DTEND:20260328T201015Z
@@ -213,8 +197,8 @@ DTEND:20260330T124004Z
 DTSTAMP:20260330T114004Z
 SUMMARY:🔥 vozidlo - Jemnice
 LOCATION:Tyršova\, Jemnice
-GEO:49.017291;15.576379
-URL:geo:49.017291,15.576379
+GEO:49.017439;15.576076
+URL:geo:49.017439,15.576076
 DESCRIPTION:📍 Tyršova\, Jemnice\, Třebíč\n💬 Požár OA. Jednotka provedla lok
  alizaci a likvidaci požáru.\n\n🚒 CAS (HS Jemnice)\n🚒 vyšetřovací automobil
   (ÚO Třebíč)
@@ -289,5 +273,41 @@ LOCATION:Sobíňov
 GEO:49.700995;15.766872
 URL:geo:49.700995,15.766872
 DESCRIPTION:📍 Sobíňov\, Havlíčkův Brod\n💬 ZOČ.\n\n🚒 CAS (Sobíňov)
+END:VEVENT
+BEGIN:VEVENT
+UID:408957061
+DTSTART:20260330T162816Z
+DTEND:20260330T172816Z
+DTSTAMP:20260330T162816Z
+SUMMARY:🛠️ otevření bytu/auta - Třešť
+LOCATION:Nádražní\, Třešť
+GEO:49.295929;15.478079
+URL:geo:49.295929,15.478079
+DESCRIPTION:📍 Nádražní\, Třešť\, Jihlava\n💬 Otevření bytu.\n\n🚒 CAS (HS Tře
+ šť)
+END:VEVENT
+BEGIN:VEVENT
+UID:408958061
+DTSTART:20260330T171700Z
+DTEND:20260330T181700Z
+DTSTAMP:20260330T171700Z
+SUMMARY:🔥 saze v komíně - Jamné
+LOCATION:Jamné
+GEO:49.431206;15.717400
+URL:geo:49.431206,15.717400
+DESCRIPTION:📍 Jamné\, Jihlava\n\n🚒 CAS (HS Polná)\n🚒 CAS (Zhoř (JI))\n🚒 DA 
+ (Jamné)\n🚒 DA (Polná)\n🚒 CAS (Polná)
+END:VEVENT
+BEGIN:VEVENT
+UID:408959061
+DTSTART:20260330T172958Z
+DTEND:20260330T182958Z
+DTSTAMP:20260330T172958Z
+SUMMARY:☣️ olej/PHM - Třebíč
+LOCATION:Třebíč
+GEO:49.218506;15.871543
+URL:geo:49.218506,15.871543
+DESCRIPTION:📍 Podklášteří\, Třebíč\n\n🚒 CAS (CHS Třebíč)\n🚒 VEA (CHS Třebíč
+ )
 END:VEVENT
 END:VCALENDAR
