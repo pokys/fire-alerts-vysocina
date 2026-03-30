@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:408896061
-DTSTART:20260328T143429Z
-DTEND:20260328T153429Z
-DTSTAMP:20260328T143429Z
-SUMMARY:🛠️ ostatní - Blízkov
-LOCATION:Blízkov
-GEO:49.401005;15.908306
-URL:geo:49.401005,15.908306
-DESCRIPTION:📍 Blízkov\, Žďár nad Sázavou\n💬 ZOČ\n\n🚒 DA (Blízkov)\n🚒 přívěs
-  motorová stříkačka (Blízkov)
-END:VEVENT
-BEGIN:VEVENT
 UID:408897061
 DTSTART:20260328T165418Z
 DTEND:20260328T175418Z
@@ -239,7 +227,8 @@ SUMMARY:🚗 úklid místa - Havlíčkův Brod
 LOCATION:Havlíčkův Brod
 GEO:49.575909;15.579890
 URL:geo:49.575909,15.579890
-DESCRIPTION:🚒 CAS (CHS Havlíčkův Brod)
+DESCRIPTION:💬 DN dodávky a NA\, bez zranění\, s únikem provozních kapalin. 
+ Provedena PPO. Zajištění místa události.\n\n🚒 CAS (CHS Havlíčkův Brod)
 END:VEVENT
 BEGIN:VEVENT
 UID:408950061
@@ -250,7 +239,8 @@ SUMMARY:🚑 spolupráce ZZS - Pavlov
 LOCATION:Pavlov
 GEO:49.242544;15.555728
 URL:geo:49.242544,15.555728
-DESCRIPTION:📍 Pavlov\, Jihlava\n\n🚒 CAS (HS Třešť)
+DESCRIPTION:📍 Pavlov\, Jihlava\n💬 Pomoc s resuscitací na žádost ZZS.\n\n🚒 C
+ AS (HS Třešť)
 END:VEVENT
 BEGIN:VEVENT
 UID:408951061
@@ -261,7 +251,30 @@ SUMMARY:🛠️ otevření bytu/auta - Velké Meziříčí
 LOCATION:Velké Meziříčí
 GEO:49.345765;16.039956
 URL:geo:49.345765,16.039956
-DESCRIPTION:📍 Velké Meziříčí\, Žďár nad Sázavou\n\n🚒 RZA (HS Velké Meziříčí
- )
+DESCRIPTION:📍 Velké Meziříčí\, Žďár nad Sázavou\n💬 Otevření OA.\n\n🚒 RZA (H
+ S Velké Meziříčí)
+END:VEVENT
+BEGIN:VEVENT
+UID:408953061
+DTSTART:20260330T141231Z
+DTEND:20260330T151231Z
+DTSTAMP:20260330T141231Z
+SUMMARY:🛠️ ostatní - Jihlava
+LOCATION:Hamerníkova\, Jihlava
+GEO:49.399732;15.575409
+URL:geo:49.399732,15.575409
+DESCRIPTION:📍 Hamerníkova\, Jihlava\n💬 Pomoc imobilní osobě z vany.\n\n🚒 CA
+ S (CHS Jihlava)
+END:VEVENT
+BEGIN:VEVENT
+UID:408954061
+DTSTART:20260330T141335Z
+DTEND:20260330T151335Z
+DTSTAMP:20260330T141335Z
+SUMMARY:🛠️ ostatní - Hrotovice
+LOCATION:Lidická\, Hrotovice
+GEO:49.102504;16.057823
+URL:geo:49.102504,16.057823
+DESCRIPTION:📍 Lidická\, Hrotovice\, Třebíč\n\n🚒 CAS (HS Hrotovice)
 END:VEVENT
 END:VCALENDAR
