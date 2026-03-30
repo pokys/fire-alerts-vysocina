@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:408891061
-DTSTART:20260328T092958Z
-DTEND:20260328T102958Z
-DTSTAMP:20260328T092958Z
-SUMMARY:🛠️ ostatní - Jihlava
-LOCATION:Za Prachárnou\, Jihlava
-GEO:49.396990;15.565317
-URL:geo:49.396990,15.565317
-DESCRIPTION:📍 Za Prachárnou\, Jihlava\n💬 Otevření bytu.\n\n🚒 CAS (CHS Jihla
- va)
-END:VEVENT
-BEGIN:VEVENT
 UID:408892061
 DTSTART:20260328T100944Z
 DTEND:20260328T110944Z
@@ -90,7 +78,7 @@ DESCRIPTION:📍 Závidkovice\, Světlá nad Sázavou\, Havlíčkův Brod\n💬 
  Sázavou)\n🚒 CAS (HS Světlá nad Sázavou) ×2\n🚒 čerpadlo plovoucí (HS Světlá
   nad Sázavou)\n🚒 DA (Dolní Město)\n🚒 CAS (Dolní Město)\n🚒 DA (Světlá nad S
  ázavou)\n🚒 CAS (Světlá nad Sázavou) ×2\n🚒 vyšetřovací automobil (ÚO Havlíč
- kův Brod) ×2
+ kův Brod) ×3
 END:VEVENT
 BEGIN:VEVENT
 UID:408901061
@@ -239,7 +227,7 @@ LOCATION:Jamné
 GEO:49.448922;15.744517
 URL:geo:49.448922,15.744517
 DESCRIPTION:📍 Lipina\, Jamné\, Jihlava\n💬 Odstranění stromu.\n\n🚒 automobil
- ová plošina do 30 m (HS Polná)
+ ová plošina do 30 m (HS Polná)\n🚒 pila řetězová (HS Polná)
 END:VEVENT
 BEGIN:VEVENT
 UID:408934061
@@ -250,7 +238,7 @@ SUMMARY:🚑 transport pacienta - Velké Meziříčí
 LOCATION:Hornoměstská\, Velké Meziříčí
 GEO:49.355843;16.004148
 URL:geo:49.355843,16.004148
-DESCRIPTION:📍 Hornoměstská\, Velké Meziříčí\, Žďár nad Sázavou\n\n🚒 CAS (HS
-  Velké Meziříčí)
+DESCRIPTION:📍 Hornoměstská\, Velké Meziříčí\, Žďár nad Sázavou\n💬 Transport
+  pacienta pro ZZS.\n\n🚒 CAS (HS Velké Meziříčí)
 END:VEVENT
 END:VCALENDAR
