@@ -380,7 +380,8 @@ SUMMARY:🛠️ ostatní - Dalešice
 LOCATION:Dalešice
 GEO:49.130879;16.079894
 URL:geo:49.130879,16.079894
-DESCRIPTION:📍 Dalešice\, Třebíč\n\n🚒 CAS (HS Hrotovice)
+DESCRIPTION:📍 Dalešice\, Třebíč\n💬 Pročištění kanalizace.\n\n🚒 CAS (HS Hrot
+ ovice)
 END:VEVENT
 BEGIN:VEVENT
 UID:408985061
@@ -393,5 +394,17 @@ GEO:49.178742;15.454136
 URL:geo:49.178742,15.454136
 DESCRIPTION:📍 Luční\, Telč-Staré Město\, Telč\, Jihlava\n💬 Čerpání vody.\n\
  n🚒 CAS (HS Telč)\n🚒 elektrocentrála přenosná (HS Telč)
+END:VEVENT
+BEGIN:VEVENT
+UID:408987061
+DTSTART:20260331T080832Z
+DTEND:20260331T090832Z
+DTSTAMP:20260331T080832Z
+SUMMARY:🚗 se zraněním - Světlá nad Sázavou
+LOCATION:Nádražní\, Světlá nad Sázavou
+GEO:49.670843;15.413470
+URL:geo:49.670843,15.413470
+DESCRIPTION:📍 Nádražní\, Světlá nad Sázavou\, Havlíčkův Brod\n\n🚒 CAS (HS S
+ větlá nad Sázavou)
 END:VEVENT
 END:VCALENDAR
