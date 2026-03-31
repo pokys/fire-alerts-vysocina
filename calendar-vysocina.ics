@@ -395,4 +395,29 @@ URL:geo:49.178742,15.454136
 DESCRIPTION:📍 Luční\, Telč-Staré Město\, Telč\, Jihlava\n💬 Čerpání vody.\n\
  n🚒 CAS (HS Telč)\n🚒 elektrocentrála přenosná (HS Telč)
 END:VEVENT
+BEGIN:VEVENT
+UID:408991061
+DTSTART:20260331T091329Z
+DTEND:20260331T101329Z
+DTSTAMP:20260331T091329Z
+SUMMARY:🔥 budova - Bystřice nad Pernštejnem
+LOCATION:Višňová\, Bystřice nad Pernštejnem
+GEO:49.519514;16.261435
+URL:geo:49.519514,16.261435
+DESCRIPTION:📍 Višňová\, Bystřice nad Pernštejnem\, Žďár nad Sázavou\n\n🚒 CA
+ S (HS Bystřice nad Pernštejnem)\n🚒 CAS (Bystřice nad Pernštejnem)\n🚒 CAS (
+ Dolní Rožínka)\n🚒 CAS (Rožná)\n🚒 vyšetřovací automobil (ÚO Žďár nad Sázavo
+ u)
+END:VEVENT
+BEGIN:VEVENT
+UID:408993061
+DTSTART:20260331T091745Z
+DTEND:20260331T101745Z
+DTSTAMP:20260331T091745Z
+SUMMARY:☣️ olej/PHM - Třebíč
+LOCATION:Třebíč
+GEO:49.214929;15.944113
+URL:geo:49.214929,15.944113
+DESCRIPTION:🚒 CAS (CHS Třebíč)
+END:VEVENT
 END:VCALENDAR
