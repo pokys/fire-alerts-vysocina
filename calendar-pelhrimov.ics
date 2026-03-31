@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Pelhřimov
 BEGIN:VEVENT
-UID:408910061
-DTSTART:20260329T143122Z
-DTEND:20260329T153122Z
-DTSTAMP:20260329T143122Z
-SUMMARY:🚗 dopravní nehoda - Košetice
-LOCATION:5. května\, Košetice
-GEO:49.562247;15.114553
-URL:geo:49.562247,15.114553
-DESCRIPTION:📍 5. května\, Košetice\, Pelhřimov\n💬 DN 2 OA. 1 lehce zraněná 
- osoba v péči ZZS. Provedeno protipožární opatření. Úklid vozovky. Řízení p
- rovozu.\n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (Onšov)
-END:VEVENT
-BEGIN:VEVENT
 UID:408912061
 DTSTART:20260329T145304Z
 DTEND:20260329T155304Z
