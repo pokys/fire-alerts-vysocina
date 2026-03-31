@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:408912061
-DTSTART:20260329T145304Z
-DTEND:20260329T155304Z
-DTSTAMP:20260329T145304Z
-SUMMARY:🚗 dopravní nehoda - Pošná
-LOCATION:Pošná
-GEO:49.453038;15.046513
-URL:geo:49.453038,15.046513
-DESCRIPTION:📍 Pošná\, Pelhřimov\n💬 DN 1 OA\, náraz do stromu. 1 zraněná oso
- ba předána do péče ZZS. Poskytnuta předlékařská pomoc. Provedeno protipožá
- rní opatření. Úklid vozovky\, řízení provozu.\n\n🚒 CAS (HS Pacov)
-END:VEVENT
-BEGIN:VEVENT
 UID:408914061
 DTSTART:20260329T160126Z
 DTEND:20260329T170126Z
@@ -355,9 +342,9 @@ LOCATION:Višňová\, Bystřice nad Pernštejnem
 GEO:49.519514;16.261435
 URL:geo:49.519514,16.261435
 DESCRIPTION:📍 Višňová\, Bystřice nad Pernštejnem\, Žďár nad Sázavou\n💬 Požá
- r garáže. Jednotky provedly jeho likvidaci.\n\n🚒 CAS (HS Bystřice nad Pern
- štejnem)\n🚒 CAS (Bystřice nad Pernštejnem)\n🚒 CAS (Dolní Rožínka)\n🚒 CAS (
- Rožná)\n🚒 vyšetřovací automobil (ÚO Žďár nad Sázavou)
+ r garáže. Jednotky provedly lokalizaci a likvidaci požáru.\n\n🚒 CAS (HS By
+ střice nad Pernštejnem)\n🚒 CAS (Bystřice nad Pernštejnem)\n🚒 CAS (Dolní Ro
+ žínka)\n🚒 CAS (Rožná)\n🚒 vyšetřovací automobil (ÚO Žďár nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:408993061
