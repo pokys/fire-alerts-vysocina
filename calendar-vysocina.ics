@@ -348,7 +348,8 @@ SUMMARY:🚗 se zraněním - Telč
 LOCATION:Telč
 GEO:49.174439;15.476202
 URL:geo:49.174439,15.476202
-DESCRIPTION:📍 Telč-Podolí\, Telč\, Jihlava\n\n🚒 CAS (HS Telč)
+DESCRIPTION:📍 Telč-Podolí\, Telč\, Jihlava\n💬 DN 1 OA bez zranění. Proveden
+ a PPO. Zajištění místa události.\n\n🚒 CAS (HS Telč)
 END:VEVENT
 BEGIN:VEVENT
 UID:409061061
@@ -371,6 +372,7 @@ SUMMARY:🚑 transport pacienta - Kozlany
 LOCATION:Kozlany
 GEO:49.177875;16.053893
 URL:geo:49.177875,16.053893
-DESCRIPTION:📍 Kozlany\, Třebíč\n\n🚒 CAS (HS Náměšť nad Oslavou)
+DESCRIPTION:📍 Kozlany\, Třebíč\n💬 Transport pacienta na žádost ZZS.\n\n🚒 CA
+ S (HS Náměšť nad Oslavou)
 END:VEVENT
 END:VCALENDAR
