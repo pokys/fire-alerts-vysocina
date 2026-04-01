@@ -49,25 +49,31 @@ Zkopíruj URL a vlož ji do své kalendářové aplikace (Přidat kalendář →
 
 ## 🔔 Telegram notifikace
 
-Při každém novém zásahu v okrese Pelhřimov přijde zpráva do Telegram chatu.
+Při každém novém zásahu přijde zpráva do Telegram chatu. Podporovány jsou dva nezávislé kanály:
+
+| Secret | Popis |
+|---|---|
+| `TELEGRAM_CHAT_ID` | Zásahy v **okrese Pelhřimov** |
+| `TELEGRAM_CHAT_ID_VYSOCINA` | Zásahy v **celém kraji Vysočina** |
 
 **Nastavení:**
 1. Vytvoř bota přes [@BotFather](https://t.me/BotFather) → `/newbot` → zkopíruj token
-2. Zjisti své Chat ID — pošli botovi zprávu a otevři `https://api.telegram.org/bot<TOKEN>/getUpdates`
-3. V GitHub repozitáři přidej dvě secrets (`Settings → Secrets → Actions`):
-   - `TELEGRAM_BOT_TOKEN`
-   - `TELEGRAM_CHAT_ID`
+2. Zjisti Chat ID — pošli botovi zprávu a otevři `https://api.telegram.org/bot<TOKEN>/getUpdates`
+3. V GitHub repozitáři přidej secrets (`Settings → Secrets → Actions`):
+   - `TELEGRAM_BOT_TOKEN` — token bota (povinné)
+   - `TELEGRAM_CHAT_ID` — chat ID pro Pelhřimov (volitelné)
+   - `TELEGRAM_CHAT_ID_VYSOCINA` — chat ID pro Vysočinu (volitelné)
 
 Bez nakonfigurovaných secrets se notifikace tiše přeskočí. Lokálně v Dockeru:
 ```bash
-TELEGRAM_BOT_TOKEN=... TELEGRAM_CHAT_ID=... docker compose up
+TELEGRAM_BOT_TOKEN=... TELEGRAM_CHAT_ID=... TELEGRAM_CHAT_ID_VYSOCINA=... docker compose up
 ```
 
 ---
 
 ## ⚙️ Technické detaily
 
-- Data se aktualizují přibližně každých 10 minut přes GitHub Actions
+- Data se aktualizují přibližně každých 30 minut přes GitHub Actions
 - Zobrazují se události za posledních **48 hodin**
 - Souřadnice jsou převáděny z S-JTSK (gis1/gis2) na WGS84
 - Technika (vozidla) se načítá z doplňkového API endpointu
@@ -85,7 +91,7 @@ python3 generate.py
 
 **Docker:**
 ```bash
-docker compose up          # spustí generátor, každých 10 minut přegeneruje kalendáře
+docker compose up          # spustí generátor, každých 30 minut přegeneruje kalendáře
 docker compose up -d       # na pozadí
 INTERVAL=300 docker compose up  # vlastní interval v sekundách
 ```
