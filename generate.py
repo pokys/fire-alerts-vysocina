@@ -5,6 +5,7 @@ import os
 import sys
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
+from zoneinfo import ZoneInfo
 
 import requests
 from pyproj import Transformer
@@ -452,8 +453,13 @@ def save_notified_ids(ids):
     NOTIFIED_PATH.write_text(json.dumps(sorted(ids)), encoding="utf-8")
 
 
+_PRAGUE_TZ = ZoneInfo("Europe/Prague")
+
+
 def format_telegram_message(event):
+    cas = event["casVzniku"].astimezone(_PRAGUE_TZ)
     lines = [f"<b>{build_summary(event)}</b>"]
+    lines.append(f"🕐 {cas.strftime('%-d. %-m. %H:%M')}")
     if event["misto"] and event["misto"] != event.get("obec", ""):
         lines.append(f"📍 {event['misto']}")
     if event["popis"]:
