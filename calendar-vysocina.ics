@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:408922061
-DTSTART:20260330T041219Z
-DTEND:20260330T051219Z
-DTSTAMP:20260330T041219Z
-SUMMARY:🛠️ ostatní - Jihlava
-LOCATION:Zahradní\, Jihlava
-GEO:49.392584;15.585530
-URL:geo:49.392584,15.585530
-DESCRIPTION:📍 Zahradní\, Jihlava\n💬 Pomoc imobilní osobě.\n\n🚒 CAS (CHS Jih
- lava)
-END:VEVENT
-BEGIN:VEVENT
 UID:408923061
 DTSTART:20260330T055648Z
 DTEND:20260330T065648Z
@@ -418,5 +406,18 @@ GEO:49.222009;15.892519
 URL:geo:49.222009,15.892519
 DESCRIPTION:📍 C. Boudy\, Nové Dvory\, Třebíč\n💬 Transport pacienta na žádos
  t ZZS.\n\n🚒 CAS (CHS Třebíč)
+END:VEVENT
+BEGIN:VEVENT
+UID:409021061
+DTSTART:20260401T035418Z
+DTEND:20260401T045418Z
+DTSTAMP:20260401T035418Z
+SUMMARY:🚗 úklid místa - Bystřice nad Pernštejnem
+LOCATION:Na Kameníku\, Bystřice nad Pernštejnem
+GEO:49.523629;16.273246
+URL:geo:49.523629,16.273246
+DESCRIPTION:📍 Na Kameníku\, Bystřice nad Pernštejnem\, Žďár nad Sázavou\n💬 
+ DN 1 NA a 1 OA\, bez zranění\, provedení protipožárního opatření a úklidu 
+ vozovky.\n\n🚒 CAS (HS Bystřice nad Pernštejnem)
 END:VEVENT
 END:VCALENDAR
