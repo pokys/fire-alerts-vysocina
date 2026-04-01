@@ -17,6 +17,7 @@ API_URL = "http://webohled.hasici-vysocina.cz/udalosti/api/"
 CALENDAR_PATH = Path("calendar-pelhrimov.ics")
 CALENDAR_VYSOCINA_PATH = Path("calendar-vysocina.ics")
 NOTIFIED_PATH = Path("notified.json")
+NOTIFIED_VYSOCINA_PATH = Path("notified-vysocina.json")
 RAW_RESPONSE_PATH = Path("last_response.json")
 MAX_EVENTS = 100
 TIMEOUT_SECONDS = 30
@@ -442,15 +443,15 @@ def write_calendar(content, path):
     path.write_text(content, encoding="utf-8", newline="")
 
 
-def load_notified_ids():
+def load_notified_ids(path=NOTIFIED_PATH):
     try:
-        return set(json.loads(NOTIFIED_PATH.read_text(encoding="utf-8")))
+        return set(json.loads(path.read_text(encoding="utf-8")))
     except Exception:
         return set()
 
 
-def save_notified_ids(ids):
-    NOTIFIED_PATH.write_text(json.dumps(sorted(ids)), encoding="utf-8")
+def save_notified_ids(ids, path=NOTIFIED_PATH):
+    path.write_text(json.dumps(sorted(ids)), encoding="utf-8")
 
 
 _PRAGUE_TZ = ZoneInfo("Europe/Prague")
@@ -501,15 +502,15 @@ def send_telegram(token, chat_id, text):
         print(f"Telegram notification failed: {exc}", file=sys.stderr)
 
 
-def notify_new_events(events, token, chat_id):
-    notified = load_notified_ids()
+def notify_new_events(events, token, chat_id, notified_path=NOTIFIED_PATH):
+    notified = load_notified_ids(notified_path)
     new_events = [e for e in events if e["id"] not in notified]
     for event in new_events:
         send_telegram(token, chat_id, format_telegram_message(event))
         notified.add(event["id"])
         print(f"Telegram: notified event {event['id']}", file=sys.stderr)
     if new_events:
-        save_notified_ids(notified)
+        save_notified_ids(notified, notified_path)
 
 
 def main():
@@ -540,10 +541,13 @@ def main():
 
     tg_token = os.environ.get("TELEGRAM_BOT_TOKEN")
     tg_chat = os.environ.get("TELEGRAM_CHAT_ID")
+    tg_chat_vysocina = os.environ.get("TELEGRAM_CHAT_ID_VYSOCINA")
     if tg_token and tg_chat:
         notify_new_events(events_okres, tg_token, tg_chat)
     else:
         print("Telegram not configured, skipping notifications.", file=sys.stderr)
+    if tg_token and tg_chat_vysocina:
+        notify_new_events(events_kraj, tg_token, tg_chat_vysocina, NOTIFIED_VYSOCINA_PATH)
 
     return 0
 
