@@ -394,9 +394,9 @@ SUMMARY:🔥 les - Bohdalov
 LOCATION:Bohdalov
 GEO:49.490266;15.850618
 URL:geo:49.490266,15.850618
-DESCRIPTION:📍 Bohdalov\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad Sázavou)\n
- 🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (Bohdalov)\n🚒 CAS (Nové Veselí)\n🚒 vyš
- etřovací automobil (ÚO Žďár nad Sázavou)
+DESCRIPTION:📍 Bohdalov\, Žďár nad Sázavou\n💬 Požár lesního porostu a auta.\
+ n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (Bohd
+ alov)\n🚒 CAS (Nové Veselí)\n🚒 vyšetřovací automobil (ÚO Žďár nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:409058061
@@ -407,7 +407,7 @@ SUMMARY:🛠️ strom - Golčův Jeníkov
 LOCATION:Golčův Jeníkov
 GEO:49.799660;15.489430
 URL:geo:49.799660,15.489430
-DESCRIPTION:📍 Nasavrky\, Golčův Jeníkov\, Havlíčkův Brod\n\n🚒 CAS (Golčův J
- eníkov)
+DESCRIPTION:📍 Nasavrky\, Golčův Jeníkov\, Havlíčkův Brod\n💬 Odstranění stro
+ mu\n\n🚒 CAS (Golčův Jeníkov)
 END:VEVENT
 END:VCALENDAR
