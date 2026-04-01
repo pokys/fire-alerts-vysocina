@@ -370,8 +370,8 @@ SUMMARY:🛠️ strom - Ledeč nad Sázavou
 LOCATION:Na Rámech\, Ledeč nad Sázavou
 GEO:49.698401;15.279147
 URL:geo:49.698401,15.279147
-DESCRIPTION:📍 Na Rámech\, Ledeč nad Sázavou\, Havlíčkův Brod\n\n🚒 CAS (HS L
- edeč nad Sázavou)\n🚒 AŽ (HS Ledeč nad Sázavou)
+DESCRIPTION:📍 Na Rámech\, Ledeč nad Sázavou\, Havlíčkův Brod\n💬 Odstranění 
+ stromu.\n\n🚒 CAS (HS Ledeč nad Sázavou)\n🚒 AŽ (HS Ledeč nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:409053061
@@ -407,6 +407,19 @@ LOCATION:Bohdalov
 GEO:49.490266;15.850618
 URL:geo:49.490266,15.850618
 DESCRIPTION:📍 Bohdalov\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad Sázavou)\n
- 🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (Bohdalov)\n🚒 CAS (Nové Veselí)
+ 🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (Bohdalov)\n🚒 CAS (Nové Veselí)\n🚒 vyš
+ etřovací automobil (ÚO Žďár nad Sázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:409058061
+DTSTART:20260401T150243Z
+DTEND:20260401T160243Z
+DTSTAMP:20260401T150243Z
+SUMMARY:🛠️ strom - Golčův Jeníkov
+LOCATION:Golčův Jeníkov
+GEO:49.799660;15.489430
+URL:geo:49.799660,15.489430
+DESCRIPTION:📍 Nasavrky\, Golčův Jeníkov\, Havlíčkův Brod\n\n🚒 CAS (Golčův J
+ eníkov)
 END:VEVENT
 END:VCALENDAR
