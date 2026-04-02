@@ -420,7 +420,8 @@ SUMMARY:🛠️ ostatní - Želetava
 LOCATION:Znojemská\, Želetava
 GEO:49.139710;15.673492
 URL:geo:49.139710,15.673492
-DESCRIPTION:📍 Znojemská\, Želetava\, Třebíč\n\n🚒 CAS (Želetava)
+DESCRIPTION:📍 Znojemská\, Želetava\, Třebíč\n💬 Pročištění kanalizace.\n\n🚒 
+ CAS (Želetava)
 END:VEVENT
 BEGIN:VEVENT
 UID:409121061
@@ -444,8 +445,8 @@ SUMMARY:🔥 vozidlo - Žďár nad Sázavou
 LOCATION:Žďár nad Sázavou
 GEO:49.548759;15.956305
 URL:geo:49.548759,15.956305
-DESCRIPTION:📍 Žďár nad Sázavou 1\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad 
- Sázavou)\n🚒 vyšetřovací automobil (ÚO Žďár nad Sázavou)
+DESCRIPTION:📍 Žďár nad Sázavou 1\, Žďár nad Sázavou\n💬 Požár OA.\n\n🚒 CAS (
+ CHS Žďár nad Sázavou)\n🚒 vyšetřovací automobil (ÚO Žďár nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:409125061
