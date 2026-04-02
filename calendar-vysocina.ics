@@ -377,4 +377,15 @@ URL:geo:49.095133,15.893544
 DESCRIPTION:📍 Žerotínova\, Jaroměřice nad Rokytnou\, Třebíč\n💬 Pomoc se zve
  dnutím osoby.\n\n🚒 CAS (HS Moravské Budějovice)
 END:VEVENT
+BEGIN:VEVENT
+UID:409106061
+DTSTART:20260402T112946Z
+DTEND:20260402T122946Z
+DTSTAMP:20260402T112946Z
+SUMMARY:☣️ neznámá látka - Batelov
+LOCATION:U Kulturního domu\, Batelov
+GEO:49.314969;15.395765
+URL:geo:49.314969,15.395765
+DESCRIPTION:📍 U Kulturního domu\, Batelov\, Jihlava\n\n🚒 CAS (HS Třešť)
+END:VEVENT
 END:VCALENDAR
