@@ -38,7 +38,8 @@ SUMMARY:🚑 transport pacienta - Pelhřimov
 LOCATION:Dolnokubínská\, Pelhřimov
 GEO:49.435326;15.211309
 URL:geo:49.435326,15.211309
-DESCRIPTION:📍 Dolnokubínská\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)
+DESCRIPTION:📍 Dolnokubínská\, Pelhřimov\n💬 Transport pacienta na žádost ZZS
+ .\n\n🚒 CAS (CHS Pelhřimov)
 END:VEVENT
 BEGIN:VEVENT
 UID:409075061
