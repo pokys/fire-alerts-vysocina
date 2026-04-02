@@ -459,4 +459,17 @@ URL:geo:49.102891,15.984556
 DESCRIPTION:📍 Myslibořice\, Třebíč\n💬 Odstranění stromu.\n\n🚒 CAS (Mysliboř
  ice)
 END:VEVENT
+BEGIN:VEVENT
+UID:409126061
+DTSTART:20260402T151026Z
+DTEND:20260402T161026Z
+DTSTAMP:20260402T151026Z
+SUMMARY:🔥 tráva/plocha - Kralice nad Oslavou
+LOCATION:Kralice nad Oslavou
+GEO:49.197388;16.176530
+URL:geo:49.197388,16.176530
+DESCRIPTION:📍 Kralice nad Oslavou\, Třebíč\n\n🚒 CAS (HS Náměšť nad Oslavou)
+ \n🚒 CAS (HS Velká Bíteš)\n🚒 DA (Kralice nad Oslavou-Horní Lhotice)\n🚒 DA (
+ Kralice nad Oslavou)
+END:VEVENT
 END:VCALENDAR
