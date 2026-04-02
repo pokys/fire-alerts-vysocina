@@ -360,7 +360,8 @@ SUMMARY:☣️ neznámá látka - Batelov
 LOCATION:U Kulturního domu\, Batelov
 GEO:49.314969;15.395765
 URL:geo:49.314969,15.395765
-DESCRIPTION:📍 U Kulturního domu\, Batelov\, Jihlava\n\n🚒 CAS (HS Třešť)
+DESCRIPTION:📍 U Kulturního domu\, Batelov\, Jihlava\n\n🚒 CAS (HS Třešť)\n🚒 
+ CAS (Batelov)
 END:VEVENT
 BEGIN:VEVENT
 UID:409115061
@@ -395,8 +396,8 @@ SUMMARY:🛠️ otevření bytu/auta - Žďár nad Sázavou
 LOCATION:Haškova\, Žďár nad Sázavou
 GEO:49.553773;15.944383
 URL:geo:49.553773,15.944383
-DESCRIPTION:📍 Haškova\, Žďár nad Sázavou 6\, Žďár nad Sázavou\n\n🚒 CAS (CHS
-  Žďár nad Sázavou)
+DESCRIPTION:📍 Haškova\, Žďár nad Sázavou 6\, Žďár nad Sázavou\n💬 Otevření b
+ ytu.\n\n🚒 CAS (CHS Žďár nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:409119061
@@ -430,7 +431,32 @@ SUMMARY:🚗 se zraněním - Úsobí
 LOCATION:Úsobí
 GEO:49.489446;15.506862
 URL:geo:49.489446,15.506862
-DESCRIPTION:📍 Kosovy\, Úsobí\, Havlíčkův Brod\n\n🚒 CAS (HS Humpolec)\n🚒 RZA
-  (HS Humpolec)
+DESCRIPTION:📍 Kosovy\, Úsobí\, Havlíčkův Brod\n💬 DN 2 OA\, bez zranění\, pr
+ ovedeno protipožární opatření a zajištění místa nehody.\n\n🚒 CAS (HS Humpo
+ lec)\n🚒 RZA (HS Humpolec)
+END:VEVENT
+BEGIN:VEVENT
+UID:409124061
+DTSTART:20260402T144025Z
+DTEND:20260402T154025Z
+DTSTAMP:20260402T144025Z
+SUMMARY:🔥 vozidlo - Žďár nad Sázavou
+LOCATION:Žďár nad Sázavou
+GEO:49.548759;15.956305
+URL:geo:49.548759,15.956305
+DESCRIPTION:📍 Žďár nad Sázavou 1\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad 
+ Sázavou)\n🚒 vyšetřovací automobil (ÚO Žďár nad Sázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:409125061
+DTSTART:20260402T144412Z
+DTEND:20260402T154412Z
+DTSTAMP:20260402T144412Z
+SUMMARY:🛠️ strom - Myslibořice
+LOCATION:Myslibořice
+GEO:49.102891;15.984556
+URL:geo:49.102891,15.984556
+DESCRIPTION:📍 Myslibořice\, Třebíč\n💬 Odstranění stromu.\n\n🚒 CAS (Mysliboř
+ ice)
 END:VEVENT
 END:VCALENDAR
