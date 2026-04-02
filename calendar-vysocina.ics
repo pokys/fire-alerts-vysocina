@@ -335,8 +335,8 @@ SUMMARY:🚗 se zraněním - Telč
 LOCATION:Telč
 GEO:49.174439;15.476202
 URL:geo:49.174439,15.476202
-DESCRIPTION:📍 Telč-Podolí\, Telč\, Jihlava\n💬 DN 1 OA bez zranění. Proveden
- a PPO. Zajištění místa události.\n\n🚒 CAS (HS Telč)
+DESCRIPTION:📍 Telč-Podolí\, Telč\, Jihlava\n💬 DN OA bez zranění. Zajištění 
+ místa události.\n\n🚒 CAS (HS Telč)
 END:VEVENT
 BEGIN:VEVENT
 UID:409061061
@@ -373,6 +373,7 @@ GEO:49.514865;16.242629
 URL:geo:49.514865,16.242629
 DESCRIPTION:📍 Průmyslová\, Bystřice nad Pernštejnem\, Žďár nad Sázavou\n💬 D
  N 2 OA. Bez zranění. Úklid vozovky.\n\n🚒 CAS (HS Bystřice nad Pernštejnem)
+ \n🚒 vyšetřovací automobil (HS Bystřice nad Pernštejnem)
 END:VEVENT
 BEGIN:VEVENT
 UID:409064061
