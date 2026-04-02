@@ -365,4 +365,16 @@ DESCRIPTION:📍 U Jatek\, Nové Město na Moravě\, Žďár nad Sázavou\n💬 
  že se jedná o planý poplach.\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (CHS Ž
  ďár nad Sázavou)\n🚒 CAS (Nové Město na Moravě)
 END:VEVENT
+BEGIN:VEVENT
+UID:409100061
+DTSTART:20260402T103004Z
+DTEND:20260402T113004Z
+DTSTAMP:20260402T103004Z
+SUMMARY:🛠️ ostatní - Jaroměřice nad Rokytnou
+LOCATION:Žerotínova\, Jaroměřice nad Rokytnou
+GEO:49.095133;15.893544
+URL:geo:49.095133,15.893544
+DESCRIPTION:📍 Žerotínova\, Jaroměřice nad Rokytnou\, Třebíč\n\n🚒 CAS (HS Mo
+ ravské Budějovice)
+END:VEVENT
 END:VCALENDAR
