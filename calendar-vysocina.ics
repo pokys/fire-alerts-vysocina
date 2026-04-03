@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:409058061
-DTSTART:20260401T150243Z
-DTEND:20260401T160243Z
-DTSTAMP:20260401T150243Z
-SUMMARY:🛠️ strom - Golčův Jeníkov
-LOCATION:Golčův Jeníkov
-GEO:49.799660;15.489430
-URL:geo:49.799660,15.489430
-DESCRIPTION:📍 Nasavrky\, Golčův Jeníkov\, Havlíčkův Brod\n💬 Odstranění stro
- mu.\n\n🚒 CAS (Golčův Jeníkov)
-END:VEVENT
-BEGIN:VEVENT
 UID:409059061
 DTSTART:20260401T172551Z
 DTEND:20260401T182551Z
@@ -421,7 +409,8 @@ SUMMARY:🛠️ otevření bytu/auta - Polná
 LOCATION:Palackého\, Polná
 GEO:49.486081;15.728167
 URL:geo:49.486081,15.728167
-DESCRIPTION:📍 Palackého\, Polná\, Jihlava\n\n🚒 CAS (HS Polná)
+DESCRIPTION:📍 Palackého\, Polná\, Jihlava\n💬 Otevření bytu.\n\n🚒 CAS (HS Po
+ lná)
 END:VEVENT
 BEGIN:VEVENT
 UID:409149061
@@ -430,9 +419,23 @@ DTEND:20260403T155043Z
 DTSTAMP:20260403T145043Z
 SUMMARY:🚗 úklid místa - Světlá nad Sázavou
 LOCATION:Jelenova\, Světlá nad Sázavou
-GEO:49.666407;15.404756
-URL:geo:49.666407,15.404756
-DESCRIPTION:📍 Jelenova\, Světlá nad Sázavou\, Havlíčkův Brod\n\n🚒 CAS (HS S
- větlá nad Sázavou)
+GEO:49.667301;15.404152
+URL:geo:49.667301,15.404152
+DESCRIPTION:📍 Jelenova\, Světlá nad Sázavou\, Havlíčkův Brod\n💬 DN 2x OA be
+ z zranění osob. Únik provozních kapalin odstraněn za pomoci sorbentu.\n\n🚒
+  CAS (HS Světlá nad Sázavou)\n🚒 DA (Ždírec (JI))\n🚒 CAS (Světlá nad Sázavo
+ u)
+END:VEVENT
+BEGIN:VEVENT
+UID:409150061
+DTSTART:20260403T150214Z
+DTEND:20260403T160214Z
+DTSTAMP:20260403T150214Z
+SUMMARY:🚗 dopravní nehoda - Dlouhá Brtnice
+LOCATION:Dlouhá Brtnice
+GEO:49.224258;15.608904
+URL:geo:49.224258,15.608904
+DESCRIPTION:📍 Dlouhá Brtnice\, Jihlava\n\n🚒 CAS (HS Třešť)\n🚒 CAS (Stonařov
+ )
 END:VEVENT
 END:VCALENDAR
