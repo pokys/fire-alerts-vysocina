@@ -440,4 +440,15 @@ DESCRIPTION:📍 Myslibořice\, Třebíč\n💬 Likvidace požáru sazí v komí
  n🚒 CAS (HS Hrotovice)\n🚒 CAS (Jaroměřice nad Rokytnou)\n🚒 CAS (Jaroměřice 
  nad Rokytnou)\n🚒 CAS (Myslibořice)\n🚒 vyšetřovací automobil (ÚO Třebíč)
 END:VEVENT
+BEGIN:VEVENT
+UID:409157061
+DTSTART:20260403T203658Z
+DTEND:20260403T213658Z
+DTSTAMP:20260403T203658Z
+SUMMARY:🚑 spolupráce ZZS - Dobroutov
+LOCATION:Dobroutov
+GEO:49.466329;15.729801
+URL:geo:49.466329,15.729801
+DESCRIPTION:📍 Dobroutov\, Jihlava\n\n🚒 CAS (HS Polná)
+END:VEVENT
 END:VCALENDAR
