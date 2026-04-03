@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:409052061
-DTSTART:20260401T114834Z
-DTEND:20260401T124834Z
-DTSTAMP:20260401T114834Z
-SUMMARY:🛠️ strom - Ledeč nad Sázavou
-LOCATION:Na Rámech\, Ledeč nad Sázavou
-GEO:49.698401;15.279147
-URL:geo:49.698401,15.279147
-DESCRIPTION:📍 Na Rámech\, Ledeč nad Sázavou\, Havlíčkův Brod\n💬 Odstranění 
- stromu.\n\n🚒 CAS (HS Ledeč nad Sázavou)\n🚒 AŽ (HS Ledeč nad Sázavou)\n🚒 pi
- la řetězová (HS Ledeč nad Sázavou)
-END:VEVENT
-BEGIN:VEVENT
 UID:409053061
 DTSTART:20260401T130223Z
 DTEND:20260401T140223Z
@@ -447,6 +434,7 @@ SUMMARY:🛠️ ostatní - Želetava
 LOCATION:Šašovská\, Želetava
 GEO:49.139662;15.673004
 URL:geo:49.139662,15.673004
-DESCRIPTION:📍 Šašovská\, Želetava\, Třebíč\n\n🚒 CAS (Želetava)
+DESCRIPTION:📍 Šašovská\, Želetava\, Třebíč\n💬 Pročištění kanalizace.\n\n🚒 C
+ AS (Želetava)
 END:VEVENT
 END:VCALENDAR
