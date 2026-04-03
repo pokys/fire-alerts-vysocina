@@ -396,7 +396,19 @@ SUMMARY:🚑 transport pacienta - Herálec
 LOCATION:Herálec
 GEO:49.529682;15.460903
 URL:geo:49.529682,15.460903
-DESCRIPTION:📍 Herálec\, Havlíčkův Brod\n\n🚒 CAS (HS Humpolec)\n🚒 CAS (Herál
- ec (HB))
+DESCRIPTION:📍 Herálec\, Havlíčkův Brod\n💬 Transport pacienta na žádost ZZS.
+ \n\n🚒 CAS (HS Humpolec)\n🚒 CAS (Herálec (HB))
+END:VEVENT
+BEGIN:VEVENT
+UID:409140061
+DTSTART:20260403T075435Z
+DTEND:20260403T085435Z
+DTSTAMP:20260403T075435Z
+SUMMARY:🚗 úklid místa - Velká Bíteš
+LOCATION:Velká Bíteš
+GEO:49.300016;16.159444
+URL:geo:49.300016,16.159444
+DESCRIPTION:📍 Holubí Zhoř\, Velká Bíteš\, Žďár nad Sázavou\n\n🚒 CAS (HS Vel
+ ká Bíteš)\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)
 END:VEVENT
 END:VCALENDAR
