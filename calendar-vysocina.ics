@@ -372,4 +372,16 @@ URL:geo:49.218541,15.891469
 DESCRIPTION:📍 Jelínkova\, Nové Dvory\, Třebíč\n💬 DN 1 OA a chodce\, zajiště
  ní místa nehody a protipožární opatření.\n\n🚒 CAS (CHS Třebíč)
 END:VEVENT
+BEGIN:VEVENT
+UID:409177061
+DTSTART:20260404T200450Z
+DTEND:20260404T210450Z
+DTSTAMP:20260404T200450Z
+SUMMARY:🚑 otevření/asistence - Havlíčkův Brod
+LOCATION:Sídliště Pražská\, Havlíčkův Brod
+GEO:49.613300;15.576080
+URL:geo:49.613300,15.576080
+DESCRIPTION:📍 Sídliště Pražská\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Bro
+ d)
+END:VEVENT
 END:VCALENDAR
