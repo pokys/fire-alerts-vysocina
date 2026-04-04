@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:409115061
-DTSTART:20260402T122530Z
-DTEND:20260402T132530Z
-DTSTAMP:20260402T122530Z
-SUMMARY:🚗 se zraněním - Chotěboř
-LOCATION:Chotěboř
-GEO:49.683823;15.683759
-URL:geo:49.683823,15.683759
-DESCRIPTION:📍 Počátky\, Chotěboř\, Havlíčkův Brod\n💬 DN 1 OA s jednou zraně
- nou osobou. Vyproštění osoby\, zajištění místa nehody a protipožární opatř
- ení.\n\n🚒 CAS (HS Chotěboř)\n🚒 HVZ - jednotka pohonná (HS Chotěboř)
-END:VEVENT
-BEGIN:VEVENT
 UID:409116061
 DTSTART:20260402T123949Z
 DTEND:20260402T133949Z
