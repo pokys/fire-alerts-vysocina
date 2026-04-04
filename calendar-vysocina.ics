@@ -408,4 +408,16 @@ URL:geo:49.292107,16.229469
 DESCRIPTION:📍 Sadová\, Velká Bíteš\, Žďár nad Sázavou\n💬 Transport pacienta
   na žádost ZZS.\n\n🚒 CAS (HS Velká Bíteš)
 END:VEVENT
+BEGIN:VEVENT
+UID:409180061
+DTSTART:20260404T220556Z
+DTEND:20260404T230556Z
+DTSTAMP:20260404T220556Z
+SUMMARY:🚑 transport pacienta - Počátky
+LOCATION:Rudé armády\, Počátky
+GEO:49.258046;15.239723
+URL:geo:49.258046,15.239723
+DESCRIPTION:📍 Rudé armády\, Počátky\, Pelhřimov\n\n🚒 CAS (HS Kamenice nad L
+ ipou)\n🚒 CAS (Počátky)
+END:VEVENT
 END:VCALENDAR
