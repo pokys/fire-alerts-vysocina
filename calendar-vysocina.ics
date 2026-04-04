@@ -435,7 +435,8 @@ SUMMARY:🛠️ strom - Horní Ves
 LOCATION:Horní Ves
 GEO:49.294835;15.309310
 URL:geo:49.294835,15.309310
-DESCRIPTION:📍 Horní Ves\, Pelhřimov\n\n🚒 DA (Horní Ves)
+DESCRIPTION:📍 Horní Ves\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 DA (Horní Ve
+ s)
 END:VEVENT
 BEGIN:VEVENT
 UID:409161061
@@ -446,7 +447,7 @@ SUMMARY:🛠️ otevření bytu/auta - Kamenice nad Lipou
 LOCATION:Na Besídce\, Kamenice nad Lipou
 GEO:49.300942;15.069846
 URL:geo:49.300942,15.069846
-DESCRIPTION:📍 Na Besídce\, Kamenice nad Lipou\, Pelhřimov\n\n🚒 CAS (HS Kame
- nice nad Lipou)
+DESCRIPTION:📍 Na Besídce\, Kamenice nad Lipou\, Pelhřimov\n💬 Otevření rodin
+ ného domu.\n\n🚒 CAS (HS Kamenice nad Lipou)
 END:VEVENT
 END:VCALENDAR
