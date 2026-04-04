@@ -381,7 +381,31 @@ SUMMARY:🚑 otevření/asistence - Havlíčkův Brod
 LOCATION:Sídliště Pražská\, Havlíčkův Brod
 GEO:49.613300;15.576080
 URL:geo:49.613300,15.576080
-DESCRIPTION:📍 Sídliště Pražská\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Bro
- d)
+DESCRIPTION:📍 Sídliště Pražská\, Havlíčkův Brod\n💬 Otevření bytu.\n\n🚒 CAS 
+ (CHS Havlíčkův Brod)
+END:VEVENT
+BEGIN:VEVENT
+UID:409178061
+DTSTART:20260404T201631Z
+DTEND:20260404T211631Z
+DTSTAMP:20260404T201631Z
+SUMMARY:🚑 transport pacienta - Radkovice u Budče
+LOCATION:Radkovice u Budče
+GEO:49.083215;15.620366
+URL:geo:49.083215,15.620366
+DESCRIPTION:📍 Radkovice u Budče\, Třebíč\n💬 Transport pacienta na žádost ZZ
+ S.\n\n🚒 CAS (HS Jemnice)
+END:VEVENT
+BEGIN:VEVENT
+UID:409179061
+DTSTART:20260404T203043Z
+DTEND:20260404T213043Z
+DTSTAMP:20260404T203043Z
+SUMMARY:🚑 transport pacienta - Velká Bíteš
+LOCATION:Sadová\, Velká Bíteš
+GEO:49.292107;16.229469
+URL:geo:49.292107,16.229469
+DESCRIPTION:📍 Sadová\, Velká Bíteš\, Žďár nad Sázavou\n\n🚒 CAS (HS Velká Bí
+ teš)
 END:VEVENT
 END:VCALENDAR
