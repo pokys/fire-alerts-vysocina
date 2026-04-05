@@ -462,9 +462,10 @@ SUMMARY:🔥 saze v komíně - Jakubov u Moravských Budějovic
 LOCATION:Jakubov u Moravských Budějovic
 GEO:49.083081;15.756628
 URL:geo:49.083081,15.756628
-DESCRIPTION:📍 Jakubov u Moravských Budějovic\, Třebíč\n\n🚒 CAS (HS Moravské
-  Budějovice)\n🚒 AŽ (HS Moravské Budějovice)\n🚒 DA (Jakubov u Moravských Bu
- dějovic)\n🚒 CAS (Lesonice)\n🚒 CAS (Moravské Budějovice)
+DESCRIPTION:📍 Jakubov u Moravských Budějovic\, Třebíč\n💬 Požár kotelny v RD
+ \, uhašeno před naším příjezdem.\n\n🚒 CAS (HS Moravské Budějovice)\n🚒 AŽ (
+ HS Moravské Budějovice)\n🚒 DA (Jakubov u Moravských Budějovic)\n🚒 CAS (Les
+ onice)\n🚒 CAS (Moravské Budějovice)
 END:VEVENT
 BEGIN:VEVENT
 UID:409204061
@@ -477,5 +478,17 @@ GEO:49.222112;15.881414
 URL:geo:49.222112,15.881414
 DESCRIPTION:📍 Nové Dvory\, Třebíč\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (CHS Třebíč)
  \n🚒 vyšetřovací automobil (ÚO Třebíč)
+END:VEVENT
+BEGIN:VEVENT
+UID:409205061
+DTSTART:20260405T150810Z
+DTEND:20260405T160810Z
+DTSTAMP:20260405T150810Z
+SUMMARY:🚗 dopravní nehoda - Jaroměřice nad Rokytnou
+LOCATION:Dobrovského\, Jaroměřice nad Rokytnou
+GEO:49.092788;15.893082
+URL:geo:49.092788,15.893082
+DESCRIPTION:📍 Dobrovského\, Jaroměřice nad Rokytnou\, Třebíč\n\n🚒 CAS (HS M
+ oravské Budějovice)
 END:VEVENT
 END:VCALENDAR
