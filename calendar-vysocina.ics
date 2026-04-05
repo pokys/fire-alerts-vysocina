@@ -428,8 +428,8 @@ SUMMARY:🛠️ otevření bytu/auta - Velké Meziříčí
 LOCATION:Jiřího Michlíčka\, Velké Meziříčí
 GEO:49.345266;16.008399
 URL:geo:49.345266,16.008399
-DESCRIPTION:📍 Jiřího Michlíčka\, Velké Meziříčí\, Žďár nad Sázavou\n\n🚒 RZA
-  (HS Velké Meziříčí)
+DESCRIPTION:📍 Jiřího Michlíčka\, Velké Meziříčí\, Žďár nad Sázavou\n💬 Otevř
+ ení bytu.\n\n🚒 RZA (HS Velké Meziříčí)
 END:VEVENT
 BEGIN:VEVENT
 UID:409196061
@@ -443,5 +443,16 @@ URL:geo:49.609689,15.594308
 DESCRIPTION:📍 Žižkov II\, Havlíčkův Brod\n💬 Požár digestoře\, uhašeno před 
  naším příjezdem.\n\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 CAS (CHS Havlíčkův Brod)
  \n🚒 vyšetřovací automobil (ÚO Havlíčkův Brod)
+END:VEVENT
+BEGIN:VEVENT
+UID:409197061
+DTSTART:20260405T111555Z
+DTEND:20260405T121555Z
+DTSTAMP:20260405T111555Z
+SUMMARY:🛠️ měření koncentrace - Jemnice
+LOCATION:náměstí Svobody\, Jemnice
+GEO:49.019304;15.569394
+URL:geo:49.019304,15.569394
+DESCRIPTION:📍 náměstí Svobody\, Jemnice\, Třebíč
 END:VEVENT
 END:VCALENDAR
