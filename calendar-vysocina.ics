@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:409145061
-DTSTART:20260403T110543Z
-DTEND:20260403T120543Z
-DTSTAMP:20260403T110543Z
-SUMMARY:🛠️ ostatní - Želetava
-LOCATION:Šašovská\, Želetava
-GEO:49.139662;15.673004
-URL:geo:49.139662,15.673004
-DESCRIPTION:📍 Šašovská\, Želetava\, Třebíč\n💬 Pročištění kanalizace.\n\n🚒 C
- AS (Želetava)
-END:VEVENT
-BEGIN:VEVENT
 UID:409147061
 DTSTART:20260403T123533Z
 DTEND:20260403T133533Z
@@ -418,5 +406,42 @@ GEO:49.716142;15.711567
 URL:geo:49.716142,15.711567
 DESCRIPTION:📍 Dolní Sokolovec\, Havlíčkův Brod\n💬 Transport pacienta na žád
  ost ZZS.\n\n🚒 CAS (HS Chotěboř)
+END:VEVENT
+BEGIN:VEVENT
+UID:409194061
+DTSTART:20260405T105324Z
+DTEND:20260405T115324Z
+DTSTAMP:20260405T105324Z
+SUMMARY:☣️ olej/PHM - Třebíč
+LOCATION:Družstevní\, Třebíč
+GEO:49.205855;15.876682
+URL:geo:49.205855,15.876682
+DESCRIPTION:📍 Družstevní\, Horka-Domky\, Třebíč\n💬 Odstranění uniklé nafty 
+ z vozovky pomocí sorbentu.\n\n🚒 CAS (CHS Třebíč)
+END:VEVENT
+BEGIN:VEVENT
+UID:409195061
+DTSTART:20260405T105352Z
+DTEND:20260405T115352Z
+DTSTAMP:20260405T105352Z
+SUMMARY:🛠️ otevření bytu/auta - Velké Meziříčí
+LOCATION:Jiřího Michlíčka\, Velké Meziříčí
+GEO:49.345266;16.008399
+URL:geo:49.345266,16.008399
+DESCRIPTION:📍 Jiřího Michlíčka\, Velké Meziříčí\, Žďár nad Sázavou\n\n🚒 RZA
+  (HS Velké Meziříčí)
+END:VEVENT
+BEGIN:VEVENT
+UID:409196061
+DTSTART:20260405T105802Z
+DTEND:20260405T115802Z
+DTSTAMP:20260405T105802Z
+SUMMARY:🔥 budova - Havlíčkův Brod
+LOCATION:Žižkov II\, Havlíčkův Brod
+GEO:49.609689;15.594308
+URL:geo:49.609689,15.594308
+DESCRIPTION:📍 Žižkov II\, Havlíčkův Brod\n💬 Požár digestoře\, uhašeno před 
+ naším příjezdem.\n\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 CAS (CHS Havlíčkův Brod)
+ \n🚒 vyšetřovací automobil (ÚO Havlíčkův Brod)
 END:VEVENT
 END:VCALENDAR
