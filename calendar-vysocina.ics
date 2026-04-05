@@ -5,20 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:409149061
-DTSTART:20260403T145043Z
-DTEND:20260403T155043Z
-DTSTAMP:20260403T145043Z
-SUMMARY:🚗 úklid místa - Světlá nad Sázavou
-LOCATION:Jelenova\, Světlá nad Sázavou
-GEO:49.667301;15.404152
-URL:geo:49.667301,15.404152
-DESCRIPTION:📍 Jelenova\, Světlá nad Sázavou\, Havlíčkův Brod\n💬 DN 2x OA be
- z zranění osob. Únik provozních kapalin odstraněn za pomoci sorbentu.\n\n🚒
-  CAS (HS Světlá nad Sázavou)\n🚒 DA (Ždírec (JI))\n🚒 CAS (Světlá nad Sázavo
- u)
-END:VEVENT
-BEGIN:VEVENT
 UID:409150061
 DTSTART:20260403T150214Z
 DTEND:20260403T160214Z
