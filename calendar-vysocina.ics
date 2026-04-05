@@ -493,4 +493,16 @@ DESCRIPTION:📍 Jakubov u Moravských Budějovic\, Třebíč\n\n🚒 CAS (HS Mo
   Budějovice)\n🚒 AŽ (HS Moravské Budějovice)\n🚒 DA (Jakubov u Moravských Bu
  dějovic)\n🚒 CAS (Lesonice)\n🚒 CAS (Moravské Budějovice)
 END:VEVENT
+BEGIN:VEVENT
+UID:409204061
+DTSTART:20260405T141521Z
+DTEND:20260405T151521Z
+DTSTAMP:20260405T141521Z
+SUMMARY:🔥 vozidlo - Třebíč
+LOCATION:Třebíč
+GEO:49.222112;15.881414
+URL:geo:49.222112,15.881414
+DESCRIPTION:📍 Nové Dvory\, Třebíč\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (CHS Třebíč)
+ \n🚒 vyšetřovací automobil (ÚO Třebíč)
+END:VEVENT
 END:VCALENDAR
