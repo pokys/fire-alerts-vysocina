@@ -392,8 +392,8 @@ SUMMARY:🛠️ otevření bytu/auta - Žďár nad Sázavou
 LOCATION:Vančurova\, Žďár nad Sázavou
 GEO:49.561366;15.945787
 URL:geo:49.561366,15.945787
-DESCRIPTION:📍 Vančurova\, Žďár nad Sázavou 4\, Žďár nad Sázavou\n\n🚒 CAS (C
- HS Žďár nad Sázavou)
+DESCRIPTION:📍 Vančurova\, Žďár nad Sázavou 4\, Žďár nad Sázavou\n💬 Otevření
+  bytu.\n\n🚒 CAS (CHS Žďár nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:409191061
@@ -416,6 +416,7 @@ SUMMARY:🚑 transport pacienta - Dolní Sokolovec
 LOCATION:Dolní Sokolovec
 GEO:49.716142;15.711567
 URL:geo:49.716142,15.711567
-DESCRIPTION:📍 Dolní Sokolovec\, Havlíčkův Brod\n\n🚒 CAS (HS Chotěboř)
+DESCRIPTION:📍 Dolní Sokolovec\, Havlíčkův Brod\n💬 Transport pacienta na žád
+ ost ZZS.\n\n🚒 CAS (HS Chotěboř)
 END:VEVENT
 END:VCALENDAR
