@@ -480,4 +480,28 @@ URL:geo:49.397929,15.570624
 DESCRIPTION:📍 Vrchlického\, Jihlava\n💬 Sundání prstýnku z ruky.\n\n🚒 CAS (C
  HS Jihlava)
 END:VEVENT
+BEGIN:VEVENT
+UID:409202061
+DTSTART:20260405T134718Z
+DTEND:20260405T144718Z
+DTSTAMP:20260405T134718Z
+SUMMARY:🚗 bez zranění - Třebíč
+LOCATION:Třebíč
+GEO:49.181010;15.889010
+URL:geo:49.181010,15.889010
+DESCRIPTION:📍 Slavice\, Třebíč\n\n🚒 CAS (CHS Třebíč)
+END:VEVENT
+BEGIN:VEVENT
+UID:409203061
+DTSTART:20260405T135033Z
+DTEND:20260405T145033Z
+DTSTAMP:20260405T135033Z
+SUMMARY:🔥 saze v komíně - Jakubov u Moravských Budějovic
+LOCATION:Jakubov u Moravských Budějovic
+GEO:49.083081;15.756628
+URL:geo:49.083081,15.756628
+DESCRIPTION:📍 Jakubov u Moravských Budějovic\, Třebíč\n\n🚒 CAS (HS Moravské
+  Budějovice)\n🚒 AŽ (HS Moravské Budějovice)\n🚒 DA (Jakubov u Moravských Bu
+ dějovic)\n🚒 CAS (Lesonice)\n🚒 CAS (Moravské Budějovice)
+END:VEVENT
 END:VCALENDAR
