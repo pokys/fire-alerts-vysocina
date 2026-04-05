@@ -367,8 +367,8 @@ SUMMARY:🛠️ otevření bytu/auta - Nové Město na Moravě
 LOCATION:Křenkova\, Nové Město na Moravě
 GEO:49.564464;16.076695
 URL:geo:49.564464,16.076695
-DESCRIPTION:📍 Křenkova\, Nové Město na Moravě\, Žďár nad Sázavou\n\n🚒 CAS (
- CHS Žďár nad Sázavou)
+DESCRIPTION:📍 Křenkova\, Nové Město na Moravě\, Žďár nad Sázavou\n💬 Otevřen
+ í bytu.\n\n🚒 CAS (CHS Žďár nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:409186061
@@ -391,8 +391,32 @@ SUMMARY:🔥 tráva/plocha - Bobrůvka
 LOCATION:Bobrůvka
 GEO:49.452924;16.066365
 URL:geo:49.452924,16.066365
-DESCRIPTION:📍 Bobrůvka\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad Sázavou)\n
- 🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (Bobrová)\n🚒 DA (Bobrůvka)\n🚒 CAS (Kři
- žanov)
+DESCRIPTION:📍 Bobrůvka\, Žďár nad Sázavou\n💬 Jednotka provedela prolití ned
+ ohašeného ohniště.\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (CHS Žďár nad Sá
+ zavou)\n🚒 CAS (Bobrová)\n🚒 DA (Bobrůvka)\n🚒 CAS (Křižanov)
+END:VEVENT
+BEGIN:VEVENT
+UID:409189061
+DTSTART:20260405T094129Z
+DTEND:20260405T104129Z
+DTSTAMP:20260405T094129Z
+SUMMARY:🛠️ otevření bytu/auta - Žďár nad Sázavou
+LOCATION:Vančurova\, Žďár nad Sázavou
+GEO:49.561366;15.945787
+URL:geo:49.561366,15.945787
+DESCRIPTION:📍 Vančurova\, Žďár nad Sázavou 4\, Žďár nad Sázavou\n\n🚒 CAS (C
+ HS Žďár nad Sázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:409191061
+DTSTART:20260405T094329Z
+DTEND:20260405T104329Z
+DTSTAMP:20260405T094329Z
+SUMMARY:🚑 transport pacienta - Počátky
+LOCATION:Žirovnická\, Počátky
+GEO:49.258949;15.231807
+URL:geo:49.258949,15.231807
+DESCRIPTION:📍 Žirovnická\, Počátky\, Pelhřimov\n💬 Transport pacienta na žád
+ ost ZZS.\n\n🚒 CAS (HS Kamenice nad Lipou)\n🚒 CAS (Počátky)
 END:VEVENT
 END:VCALENDAR
