@@ -441,7 +441,8 @@ SUMMARY:🛠️ měření koncentrace - Jemnice
 LOCATION:náměstí Svobody\, Jemnice
 GEO:49.019304;15.569394
 URL:geo:49.019304,15.569394
-DESCRIPTION:📍 náměstí Svobody\, Jemnice\, Třebíč\n\n🚒 CAS (HS Jemnice)
+DESCRIPTION:📍 náměstí Svobody\, Jemnice\, Třebíč\n💬 Měření koncentrace.\n\n
+ 🚒 CAS (HS Jemnice)
 END:VEVENT
 BEGIN:VEVENT
 UID:409198061
@@ -454,5 +455,16 @@ GEO:49.613561;15.577662
 URL:geo:49.613561,15.577662
 DESCRIPTION:📍 Kokořínská\, Havlíčkův Brod\n💬 Požár odpadu. Beze škody.\n\n🚒
   CAS (CHS Havlíčkův Brod)
+END:VEVENT
+BEGIN:VEVENT
+UID:409199061
+DTSTART:20260405T124933Z
+DTEND:20260405T134933Z
+DTSTAMP:20260405T124933Z
+SUMMARY:🚑 otevření/asistence - Jihlava
+LOCATION:Královský vršek\, Jihlava
+GEO:49.409198;15.587134
+URL:geo:49.409198,15.587134
+DESCRIPTION:📍 Královský vršek\, Jihlava\n\n🚒 CAS (CHS Jihlava)
 END:VEVENT
 END:VCALENDAR
