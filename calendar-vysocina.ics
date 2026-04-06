@@ -494,8 +494,8 @@ URL:geo:49.675314,15.988633
 DESCRIPTION:📍 Kocanda\, Herálec\, Žďár nad Sázavou\n💬 Požár elektroinstalac
  e k fotovoltaické elektrárně. Byla provedena lokalizace a likvidace požáru
  .\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 DA (Her
- álec (ZR))\n🚒 CAS (Herálec (ZR))\n🚒 CAS (Svratka)\n🚒 vyšetřovací automobil
-  (ÚO Žďár nad Sázavou)
+ álec (ZR))\n🚒 CAS (Herálec (ZR))\n🚒 CAS (Svratka)\n🚒 CAS (HS Hlinsko)\n🚒 v
+ yšetřovací automobil (ÚO Žďár nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:409231061
@@ -538,7 +538,7 @@ DESCRIPTION:📍 Vítochov\, Bystřice nad Pernštejnem\, Žďár nad Sázavou\n
  otorová stříkačka (Bystřice nad Pernštejnem-Vítochov)\n🚒 CAS (Dolní Rožínk
  a)\n🚒 CAS (Nové Město na Moravě)\n🚒 DA (Rožná)\n🚒 CAS (Rožná)\n🚒 CAS (Vír)
  \n🚒 DA (Štěpánov nad Svratkou)\n🚒 CAS (Štěpánov nad Svratkou)\n🚒 vyšetřova
- cí automobil (ÚO Žďár nad Sázavou)
+ cí automobil (ÚO Žďár nad Sázavou)\n🚒 CAS (CHS Žďár nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:409235061
