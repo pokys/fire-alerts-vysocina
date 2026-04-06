@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:409160061
-DTSTART:20260404T053836Z
-DTEND:20260404T063836Z
-DTSTAMP:20260404T053836Z
-SUMMARY:🛠️ strom - Horní Ves
-LOCATION:Horní Ves
-GEO:49.294835;15.309310
-URL:geo:49.294835,15.309310
-DESCRIPTION:📍 Horní Ves\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 DA (Horní Ve
- s)
-END:VEVENT
-BEGIN:VEVENT
 UID:409161061
 DTSTART:20260404T063210Z
 DTEND:20260404T073210Z
@@ -254,9 +242,9 @@ SUMMARY:🔥 tráva/plocha - Bobrůvka
 LOCATION:Bobrůvka
 GEO:49.452924;16.066365
 URL:geo:49.452924,16.066365
-DESCRIPTION:📍 Bobrůvka\, Žďár nad Sázavou\n💬 Jednotka provedela prolití ned
- ohašeného ohniště.\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (CHS Žďár nad Sá
- zavou)\n🚒 CAS (Bobrová)\n🚒 DA (Bobrůvka)\n🚒 CAS (Křižanov)
+DESCRIPTION:📍 Bobrůvka\, Žďár nad Sázavou\n💬 Jednotka provedla prolití nedo
+ hašeného ohniště.\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (CHS Žďár nad Sáz
+ avou)\n🚒 CAS (Bobrová)\n🚒 DA (Bobrůvka)\n🚒 CAS (Křižanov)
 END:VEVENT
 BEGIN:VEVENT
 UID:409189061
