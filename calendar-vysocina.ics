@@ -491,9 +491,11 @@ SUMMARY:🔥 budova - Herálec
 LOCATION:Herálec
 GEO:49.675314;15.988633
 URL:geo:49.675314,15.988633
-DESCRIPTION:📍 Kocanda\, Herálec\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad S
- ázavou)\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 DA (Herálec (ZR))\n🚒 CAS (Herálec
-  (ZR))\n🚒 CAS (Svratka)\n🚒 vyšetřovací automobil (ÚO Žďár nad Sázavou)
+DESCRIPTION:📍 Kocanda\, Herálec\, Žďár nad Sázavou\n💬 Požár elektroinstalac
+ e k fotovoltaické elektrárně. Byla provedena lokalizace a likvidace požáru
+ .\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 DA (Her
+ álec (ZR))\n🚒 CAS (Herálec (ZR))\n🚒 CAS (Svratka)\n🚒 vyšetřovací automobil
+  (ÚO Žďár nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:409231061
@@ -532,7 +534,21 @@ GEO:49.563506;16.245475
 URL:geo:49.563506,16.245475
 DESCRIPTION:📍 Vítochov\, Bystřice nad Pernštejnem\, Žďár nad Sázavou\n\n🚒 C
  AS (HS Bystřice nad Pernštejnem)\n🚒 CAS (HS Bystřice nad Pernštejnem)\n🚒 C
- AS (Bystřice nad Pernštejnem)\n🚒 CAS (Dalečín)\n🚒 přívěs motorová stříkačk
- a (Bystřice nad Pernštejnem-Vítochov)
+ AS (Bystřice nad Pernštejnem)\n🚒 DA (Dalečín)\n🚒 CAS (Dalečín)\n🚒 přívěs m
+ otorová stříkačka (Bystřice nad Pernštejnem-Vítochov)\n🚒 CAS (Dolní Rožínk
+ a)\n🚒 CAS (Nové Město na Moravě)\n🚒 DA (Rožná)\n🚒 CAS (Rožná)\n🚒 CAS (Vír)
+ \n🚒 DA (Štěpánov nad Svratkou)\n🚒 CAS (Štěpánov nad Svratkou)\n🚒 vyšetřova
+ cí automobil (ÚO Žďár nad Sázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:409235061
+DTSTART:20260406T134505Z
+DTEND:20260406T144505Z
+DTSTAMP:20260406T134505Z
+SUMMARY:🚑 spolupráce ZZS - Černovice
+LOCATION:Černovice
+GEO:49.375444;14.980705
+URL:geo:49.375444,14.980705
+DESCRIPTION:📍 Vackov\, Černovice\, Pelhřimov\n\n🚒 CAS (HS Pacov)
 END:VEVENT
 END:VCALENDAR

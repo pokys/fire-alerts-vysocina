@@ -53,4 +53,15 @@ DESCRIPTION:📍 Jiřice\, Pelhřimov\n💬 Požár části dřevěné lavice a 
  se. Byla provedena lokalizace a likvidace požáru. Beze škody.\n\n🚒 CAS (HS
   Humpolec)\n🚒 CAS (Humpolec)\n🚒 DA (Želiv)\n🚒 CAS (Želiv)\n🚒 CAS (Jiřice)
 END:VEVENT
+BEGIN:VEVENT
+UID:409235061
+DTSTART:20260406T134505Z
+DTEND:20260406T144505Z
+DTSTAMP:20260406T134505Z
+SUMMARY:🚑 spolupráce ZZS - Černovice
+LOCATION:Černovice
+GEO:49.375444;14.980705
+URL:geo:49.375444,14.980705
+DESCRIPTION:📍 Vackov\, Černovice\, Pelhřimov\n\n🚒 CAS (HS Pacov)
+END:VEVENT
 END:VCALENDAR
