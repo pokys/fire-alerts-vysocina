@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:409170061
-DTSTART:20260404T125920Z
-DTEND:20260404T135920Z
-DTSTAMP:20260404T125920Z
-SUMMARY:🔥 tráva/plocha - Kožlí
-LOCATION:Kožlí
-GEO:49.701195;15.254249
-URL:geo:49.701195,15.254249
-DESCRIPTION:📍 Bohumilice\, Kožlí\, Havlíčkův Brod\n💬 Dohašení ohniště po př
- edchozím pálení. Beze škody.\n\n🚒 CAS (HS Ledeč nad Sázavou)
-END:VEVENT
-BEGIN:VEVENT
 UID:409171061
 DTSTART:20260404T142434Z
 DTEND:20260404T152434Z
@@ -505,5 +493,17 @@ URL:geo:49.675314,15.988633
 DESCRIPTION:📍 Kocanda\, Herálec\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad S
  ázavou)\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 DA (Herálec (ZR))\n🚒 CAS (Herálec
   (ZR))\n🚒 CAS (Svratka)\n🚒 vyšetřovací automobil (ÚO Žďár nad Sázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:409231061
+DTSTART:20260406T122927Z
+DTEND:20260406T132927Z
+DTSTAMP:20260406T122927Z
+SUMMARY:🔥 kůlna/přístřešek - Jiřice
+LOCATION:Jiřice
+GEO:49.568005;15.314522
+URL:geo:49.568005,15.314522
+DESCRIPTION:📍 Jiřice\, Pelhřimov\n\n🚒 CAS (HS Humpolec)\n🚒 CAS (Humpolec)\n
+ 🚒 DA (Želiv)\n🚒 CAS (Želiv)\n🚒 CAS (Jiřice)
 END:VEVENT
 END:VCALENDAR
