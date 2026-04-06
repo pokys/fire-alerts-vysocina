@@ -455,4 +455,28 @@ URL:geo:49.410537,15.529515
 DESCRIPTION:📍 Vyskytná nad Jihlavou\, Jihlava\n💬 Vyproštění zapadlého vozid
  la ZZS.\n\n🚒 VYA (CHS Jihlava)
 END:VEVENT
+BEGIN:VEVENT
+UID:409219061
+DTSTART:20260406T080241Z
+DTEND:20260406T090241Z
+DTSTAMP:20260406T080241Z
+SUMMARY:🛠️ otevření bytu/auta - Hrotovice
+LOCATION:F. B. Zvěřiny\, Hrotovice
+GEO:49.107962;16.058407
+URL:geo:49.107962,16.058407
+DESCRIPTION:📍 F. B. Zvěřiny\, Hrotovice\, Třebíč\n💬 Otevření bytu.\n\n🚒 CAS
+  (HS Hrotovice)
+END:VEVENT
+BEGIN:VEVENT
+UID:409220061
+DTSTART:20260406T080307Z
+DTEND:20260406T090307Z
+DTSTAMP:20260406T080307Z
+SUMMARY:🚗 dopravní nehoda - Moravské Budějovice
+LOCATION:Sokolská\, Moravské Budějovice
+GEO:49.053689;15.810227
+URL:geo:49.053689,15.810227
+DESCRIPTION:📍 Sokolská\, Moravské Budějovice\, Třebíč\n\n🚒 CAS (HS Moravské
+  Budějovice)
+END:VEVENT
 END:VCALENDAR
