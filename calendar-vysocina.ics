@@ -545,4 +545,18 @@ DESCRIPTION:📍 Starý Pelhřimov\, Pelhřimov\n💬 Požár stromu a trávy. B
  \n🚒 CAS (CHS Pelhřimov)\n🚒 pila řetězová (CHS Pelhřimov)\n🚒 DA (Olešná (PE
  ))\n🚒 CAS (Olešná (PE))\n🚒 DA (Pelhřimov-Starý Pelhřimov)
 END:VEVENT
+BEGIN:VEVENT
+UID:409241061
+DTSTART:20260406T163521Z
+DTEND:20260406T173521Z
+DTSTAMP:20260406T163521Z
+SUMMARY:🚗 úklid místa - Třebíč
+LOCATION:Koželužská\, Třebíč
+GEO:49.205064;15.847278
+URL:geo:49.205064,15.847278
+DESCRIPTION:📍 Koželužská\, Borovina\, Třebíč\n💬 Dopravní nehoda osobního au
+ tomobilu a motocyklu\, bez zranění\, provedeno protipožární opatření a zab
+ ezpečení místa nehody. Likvidace úniku pohonných hmot.\n\n🚒 CAS (CHS Třebí
+ č)
+END:VEVENT
 END:VCALENDAR
