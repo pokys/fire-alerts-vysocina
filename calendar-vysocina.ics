@@ -504,7 +504,35 @@ SUMMARY:🔥 kůlna/přístřešek - Jiřice
 LOCATION:Jiřice
 GEO:49.568005;15.314522
 URL:geo:49.568005,15.314522
-DESCRIPTION:📍 Jiřice\, Pelhřimov\n\n🚒 CAS (HS Humpolec)\n🚒 CAS (Humpolec)\n
- 🚒 DA (Želiv)\n🚒 CAS (Želiv)\n🚒 CAS (Jiřice)
+DESCRIPTION:📍 Jiřice\, Pelhřimov\n💬 Požár části dřevěné lavice a trávy v le
+ se. Byla provedena lokalizace a likvidace požáru. Beze škody.\n\n🚒 CAS (HS
+  Humpolec)\n🚒 CAS (Humpolec)\n🚒 DA (Želiv)\n🚒 CAS (Želiv)\n🚒 CAS (Jiřice)
+END:VEVENT
+BEGIN:VEVENT
+UID:409233061
+DTSTART:20260406T131247Z
+DTEND:20260406T141247Z
+DTSTAMP:20260406T131247Z
+SUMMARY:🔥 les - Borovnice
+LOCATION:Borovnice
+GEO:49.645954;16.194590
+URL:geo:49.645954,16.194590
+DESCRIPTION:📍 Borovnice\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad Sázavou)\
+ n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (Borovnice)\n🚒 DA (Jimramov)\n🚒 CAS (
+ Jimramov)
+END:VEVENT
+BEGIN:VEVENT
+UID:409234061
+DTSTART:20260406T131739Z
+DTEND:20260406T141739Z
+DTSTAMP:20260406T131739Z
+SUMMARY:🔥 les - Bystřice nad Pernštejnem
+LOCATION:Bystřice nad Pernštejnem
+GEO:49.563506;16.245475
+URL:geo:49.563506,16.245475
+DESCRIPTION:📍 Vítochov\, Bystřice nad Pernštejnem\, Žďár nad Sázavou\n\n🚒 C
+ AS (HS Bystřice nad Pernštejnem)\n🚒 CAS (HS Bystřice nad Pernštejnem)\n🚒 C
+ AS (Bystřice nad Pernštejnem)\n🚒 CAS (Dalečín)\n🚒 přívěs motorová stříkačk
+ a (Bystřice nad Pernštejnem-Vítochov)
 END:VEVENT
 END:VCALENDAR
