@@ -525,4 +525,16 @@ URL:geo:49.286839,15.600864
 DESCRIPTION:📍 Stonařov\, Jihlava\n💬 DN autobusu a 2 OA\, bez zranění. Prove
  dena PPO. Zajištění místa události.\n\n🚒 CAS (HS Třešť)\n🚒 CAS (Stonařov)
 END:VEVENT
+BEGIN:VEVENT
+UID:409254061
+DTSTART:20260407T061516Z
+DTEND:20260407T071516Z
+DTSTAMP:20260407T061516Z
+SUMMARY:🚑 otevření/asistence - Havlíčkův Brod
+LOCATION:Havlíčkovo náměstí\, Havlíčkův Brod
+GEO:49.607467;15.579754
+URL:geo:49.607467,15.579754
+DESCRIPTION:📍 Havlíčkovo náměstí\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův B
+ rod)
+END:VEVENT
 END:VCALENDAR
