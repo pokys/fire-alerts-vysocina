@@ -401,10 +401,10 @@ SUMMARY:🔥 les - Borovnice
 LOCATION:Borovnice
 GEO:49.646272;16.195705
 URL:geo:49.646272,16.195705
-DESCRIPTION:📍 Borovnice\, Žďár nad Sázavou\n💬 Požár hrabanky\, Jednotky pro
- vedly uhašení. Beze škody.\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (CHS Žďá
- r nad Sázavou)\n🚒 CAS (Borovnice)\n🚒 DA (Jimramov)\n🚒 CAS (Jimramov)\n🚒 CA
- S (HS Polička)\n🚒 CAS (HS Polička)
+DESCRIPTION:📍 Borovnice\, Žďár nad Sázavou\n💬 Požár hrabanky. Jednotky prov
+ edly uhašení. Beze škody.\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (CHS Žďár
+  nad Sázavou)\n🚒 CAS (Borovnice)\n🚒 DA (Jimramov)\n🚒 CAS (Jimramov)\n🚒 CAS
+  (HS Polička)\n🚒 CAS (HS Polička)
 END:VEVENT
 BEGIN:VEVENT
 UID:409234061
@@ -416,13 +416,13 @@ LOCATION:Bystřice nad Pernštejnem
 GEO:49.563506;16.245475
 URL:geo:49.563506,16.245475
 DESCRIPTION:📍 Vítochov\, Bystřice nad Pernštejnem\, Žďár nad Sázavou\n💬 Pož
- ár lesa. Provedena lokalizace a likvidace.\n\n🚒 CAS (HS Bystřice nad Pernš
- tejnem)\n🚒 CAS (HS Bystřice nad Pernštejnem)\n🚒 CAS (Bystřice nad Pernštej
- nem)\n🚒 DA (Dalečín)\n🚒 CAS (Dalečín)\n🚒 přívěs motorová stříkačka (Bystři
- ce nad Pernštejnem-Vítochov)\n🚒 CAS (Dolní Rožínka)\n🚒 CAS (Nové Město na 
- Moravě)\n🚒 DA (Rožná)\n🚒 CAS (Rožná)\n🚒 CAS (Vír)\n🚒 DA (Štěpánov nad Svra
- tkou)\n🚒 CAS (Štěpánov nad Svratkou)\n🚒 vyšetřovací automobil (ÚO Žďár nad
-  Sázavou)\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 DA (Písečné)
+ ár lesa. Provedena lokalizace a likvidace požáru.\n\n🚒 CAS (HS Bystřice na
+ d Pernštejnem)\n🚒 CAS (HS Bystřice nad Pernštejnem)\n🚒 CAS (Bystřice nad P
+ ernštejnem)\n🚒 DA (Dalečín)\n🚒 CAS (Dalečín)\n🚒 přívěs motorová stříkačka 
+ (Bystřice nad Pernštejnem-Vítochov)\n🚒 CAS (Dolní Rožínka)\n🚒 CAS (Nové Mě
+ sto na Moravě)\n🚒 DA (Rožná)\n🚒 CAS (Rožná)\n🚒 CAS (Vír)\n🚒 DA (Štěpánov n
+ ad Svratkou)\n🚒 CAS (Štěpánov nad Svratkou)\n🚒 vyšetřovací automobil (ÚO Ž
+ ďár nad Sázavou)\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 DA (Písečné)
 END:VEVENT
 BEGIN:VEVENT
 UID:409235061
@@ -457,10 +457,10 @@ SUMMARY:🔥 tráva/plocha - Pelhřimov
 LOCATION:Pelhřimov
 GEO:49.435909;15.204774
 URL:geo:49.435909,15.204774
-DESCRIPTION:📍 Starý Pelhřimov\, Pelhřimov\n💬 Požár stromu a trávy. Byla pro
- vedena lokalizace a likvidace požáru. Beze škody.\n\n🚒 CAS (CHS Pelhřimov)
- \n🚒 CAS (CHS Pelhřimov)\n🚒 pila řetězová (CHS Pelhřimov)\n🚒 DA (Olešná (PE
- ))\n🚒 CAS (Olešná (PE))\n🚒 DA (Pelhřimov-Starý Pelhřimov)
+DESCRIPTION:📍 Starý Pelhřimov\, Pelhřimov\n💬 Požár stromu a suché trávy. By
+ la provedena lokalizace a likvidace požáru. Beze škody.\n\n🚒 CAS (CHS Pelh
+ řimov)\n🚒 CAS (CHS Pelhřimov)\n🚒 pila řetězová (CHS Pelhřimov)\n🚒 DA (Oleš
+ ná (PE))\n🚒 CAS (Olešná (PE))\n🚒 DA (Pelhřimov-Starý Pelhřimov)
 END:VEVENT
 BEGIN:VEVENT
 UID:409241061
@@ -510,8 +510,8 @@ LOCATION:Písečné
 GEO:49.563589;16.245377
 URL:geo:49.563589,16.245377
 DESCRIPTION:📍 Písečné\, Žďár nad Sázavou\n💬 Dohašení ohnisek po předchozím 
- požáru\n\n🚒 CAS (HS Bystřice nad Pernštejnem)\n🚒 CAS (HS Bystřice nad Pern
- štejnem)
+ požáru.\n\n🚒 CAS (HS Bystřice nad Pernštejnem)\n🚒 CAS (HS Bystřice nad Per
+ nštejnem)
 END:VEVENT
 BEGIN:VEVENT
 UID:409250061
@@ -522,6 +522,7 @@ SUMMARY:🚗 dopravní nehoda - Stonařov
 LOCATION:Stonařov
 GEO:49.286839;15.600864
 URL:geo:49.286839,15.600864
-DESCRIPTION:📍 Stonařov\, Jihlava\n\n🚒 CAS (HS Třešť)\n🚒 CAS (Stonařov)
+DESCRIPTION:📍 Stonařov\, Jihlava\n💬 DN autobusu a 2 OA\, bez zranění. Prove
+ dena PPO. Zajištění místa události.\n\n🚒 CAS (HS Třešť)\n🚒 CAS (Stonařov)
 END:VEVENT
 END:VCALENDAR
