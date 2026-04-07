@@ -5,32 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:409202061
-DTSTART:20260405T134718Z
-DTEND:20260405T144718Z
-DTSTAMP:20260405T134718Z
-SUMMARY:🚗 bez zranění - Třebíč
-LOCATION:Třebíč
-GEO:49.181010;15.889010
-URL:geo:49.181010,15.889010
-DESCRIPTION:📍 Slavice\, Třebíč\n💬 DN 2 OA bez zranění. Zajištění místa neho
- dy proti požáru a úniku provozních kapalin.\n\n🚒 CAS (CHS Třebíč)
-END:VEVENT
-BEGIN:VEVENT
-UID:409203061
-DTSTART:20260405T135033Z
-DTEND:20260405T145033Z
-DTSTAMP:20260405T135033Z
-SUMMARY:🔥 saze v komíně - Jakubov u Moravských Budějovic
-LOCATION:Jakubov u Moravských Budějovic
-GEO:49.083081;15.756628
-URL:geo:49.083081,15.756628
-DESCRIPTION:📍 Jakubov u Moravských Budějovic\, Třebíč\n💬 Požár kotelny v RD
- \, uhašeno před naším příjezdem.\n\n🚒 CAS (HS Moravské Budějovice)\n🚒 AŽ (
- HS Moravské Budějovice)\n🚒 DA (Jakubov u Moravských Budějovic)\n🚒 CAS (Les
- onice)\n🚒 CAS (Moravské Budějovice)
-END:VEVENT
-BEGIN:VEVENT
 UID:409204061
 DTSTART:20260405T141521Z
 DTEND:20260405T151521Z
@@ -302,7 +276,8 @@ URL:geo:49.435909,15.204774
 DESCRIPTION:📍 Starý Pelhřimov\, Pelhřimov\n💬 Požár stromu a suché trávy. By
  la provedena lokalizace a likvidace požáru. Beze škody.\n\n🚒 CAS (CHS Pelh
  řimov)\n🚒 CAS (CHS Pelhřimov)\n🚒 pila řetězová (CHS Pelhřimov)\n🚒 DA (Oleš
- ná (PE))\n🚒 CAS (Olešná (PE))\n🚒 DA (Pelhřimov-Starý Pelhřimov)
+ ná (PE))\n🚒 CAS (Olešná (PE))\n🚒 přívěs nákladní (Olešná (PE))\n🚒 DA (Pelh
+ řimov-Starý Pelhřimov)
 END:VEVENT
 BEGIN:VEVENT
 UID:409241061
@@ -473,7 +448,7 @@ SUMMARY:🚑 spolupráce ZZS - Vojnův Městec
 LOCATION:Vojnův Městec
 GEO:49.680943;15.875613
 URL:geo:49.680943,15.875613
-DESCRIPTION:📍 Vojnův Městec\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad Sázav
- ou)\n🚒 CAS (Ždírec nad Doubravou)
+DESCRIPTION:📍 Vojnův Městec\, Žďár nad Sázavou\n💬 Spolupráce se ZZS.\n\n🚒 C
+ AS (CHS Žďár nad Sázavou)\n🚒 CAS (Ždírec nad Doubravou)
 END:VEVENT
 END:VCALENDAR
