@@ -513,4 +513,15 @@ DESCRIPTION:📍 Písečné\, Žďár nad Sázavou\n💬 Dohašení ohnisek po p
  požáru\n\n🚒 CAS (HS Bystřice nad Pernštejnem)\n🚒 CAS (HS Bystřice nad Pern
  štejnem)
 END:VEVENT
+BEGIN:VEVENT
+UID:409250061
+DTSTART:20260407T045115Z
+DTEND:20260407T055115Z
+DTSTAMP:20260407T045115Z
+SUMMARY:🚗 dopravní nehoda - Stonařov
+LOCATION:Stonařov
+GEO:49.286839;15.600864
+URL:geo:49.286839,15.600864
+DESCRIPTION:📍 Stonařov\, Jihlava\n\n🚒 CAS (HS Třešť)\n🚒 CAS (Stonařov)
+END:VEVENT
 END:VCALENDAR
