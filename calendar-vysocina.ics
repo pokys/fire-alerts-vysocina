@@ -487,7 +487,8 @@ SUMMARY:🔥 venkovní požár - Hodice
 LOCATION:Hodice
 GEO:49.272009;15.469210
 URL:geo:49.272009,15.469210
-DESCRIPTION:📍 Hodice\, Jihlava\n\n🚒 vyšetřovací automobil (ÚO Jihlava)
+DESCRIPTION:📍 Hodice\, Jihlava\n💬 Došetření požáru z předchozího dne.\n\n🚒 
+ vyšetřovací automobil (ÚO Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:409305061
@@ -498,6 +499,32 @@ SUMMARY:🔥 venkovní požár - Jihlava
 LOCATION:Jihlava
 GEO:49.414294;15.607730
 URL:geo:49.414294,15.607730
-DESCRIPTION:📍 Hruškové Dvory\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+DESCRIPTION:📍 Hruškové Dvory\, Jihlava\n\n🚒 CAS (CHS Jihlava)\n🚒 vyšetřovac
+ í automobil (ÚO Jihlava)
+END:VEVENT
+BEGIN:VEVENT
+UID:409312061
+DTSTART:20260408T072953Z
+DTEND:20260408T082953Z
+DTSTAMP:20260408T072953Z
+SUMMARY:🔥 budova - Vícenice u Náměště nad Oslavou
+LOCATION:Vícenice u Náměště nad Oslavou
+GEO:49.188924;16.123925
+URL:geo:49.188924,16.123925
+DESCRIPTION:📍 Vícenice u Náměště nad Oslavou\, Třebíč\n\n🚒 CAS (HS Náměšť n
+ ad Oslavou)\n🚒 CAS (VHJ 2427 Náměšť nad Oslavou)\n🚒 osobní automobil (VHJ 
+ 2427 Náměšť nad Oslavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:409314061
+DTSTART:20260408T074032Z
+DTEND:20260408T084032Z
+DTSTAMP:20260408T074032Z
+SUMMARY:🛠️ otevření bytu/auta - Žďár nad Sázavou
+LOCATION:Palachova\, Žďár nad Sázavou
+GEO:49.557292;15.943764
+URL:geo:49.557292,15.943764
+DESCRIPTION:📍 Palachova\, Žďár nad Sázavou 6\, Žďár nad Sázavou\n\n🚒 CAS (C
+ HS Žďár nad Sázavou)
 END:VEVENT
 END:VCALENDAR
