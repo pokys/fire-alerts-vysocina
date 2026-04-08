@@ -5,21 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Pelhřimov
 BEGIN:VEVENT
-UID:409240061
-DTSTART:20260406T145418Z
-DTEND:20260406T155418Z
-DTSTAMP:20260406T145418Z
-SUMMARY:🔥 tráva/plocha - Pelhřimov
-LOCATION:Pelhřimov
-GEO:49.435909;15.204774
-URL:geo:49.435909,15.204774
-DESCRIPTION:📍 Starý Pelhřimov\, Pelhřimov\n💬 Požár stromu a suché trávy. By
- la provedena lokalizace a likvidace požáru. Beze škody.\n\n🚒 CAS (CHS Pelh
- řimov)\n🚒 CAS (CHS Pelhřimov)\n🚒 pila řetězová (CHS Pelhřimov)\n🚒 DA (Oleš
- ná (PE))\n🚒 CAS (Olešná (PE))\n🚒 přívěs nákladní (Olešná (PE))\n🚒 DA (Pelh
- řimov-Starý Pelhřimov)
-END:VEVENT
-BEGIN:VEVENT
 UID:409242061
 DTSTART:20260406T165801Z
 DTEND:20260406T175801Z
