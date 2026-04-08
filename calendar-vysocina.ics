@@ -459,9 +459,9 @@ SUMMARY:🚗 dopravní nehoda - Veselý Žďár
 LOCATION:Veselý Žďár
 GEO:49.624551;15.530474
 URL:geo:49.624551,15.530474
-DESCRIPTION:📍 Veselý Žďár\, Havlíčkův Brod\n💬 DN 2x OA a 1x NA. 1 zraněná o
- soba. Zajištění místa nehody proti požáru a úniku provozních kapalin.\n\n🚒
-  CAS (CHS Havlíčkův Brod)
+DESCRIPTION:📍 Veselý Žďár\, Havlíčkův Brod\n💬 DN 2 OA a 1 NA. 1 zraněná oso
+ ba. Zajištění vozidel proti požáru a úniku provozních kapalin.\n\n🚒 CAS (C
+ HS Havlíčkův Brod)
 END:VEVENT
 BEGIN:VEVENT
 UID:409293061
@@ -473,8 +473,9 @@ LOCATION:Stránecká Zhoř
 GEO:49.378042;15.947798
 URL:geo:49.378042,15.947798
 DESCRIPTION:📍 Kochánov\, Stránecká Zhoř\, Žďár nad Sázavou\n💬 DN 1 OA a kam
- ionu\, 1 zraněná osoba. Předlékařská první pomoc zraněné osobě do příjezdu
-  ZZS. Zabezpečení havarovaného OA proti požáru a proti úniku provozních ka
- palin.\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)
+ ionu\, 1 zraněná osoba. Poskytnuta předlékařská první pomoc zraněné osobě 
+ do příjezdu ZZS. Zabezpečení havarovaného OA proti požáru a proti úniku pr
+ ovozních kapalin.\n\n🚒 DA (HS Velké Meziříčí)\n🚒 CAS (HS Velké Meziříčí)\n
+ 🚒 RZA (HS Velké Meziříčí)
 END:VEVENT
 END:VCALENDAR
