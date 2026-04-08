@@ -5,31 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:409219061
-DTSTART:20260406T080241Z
-DTEND:20260406T090241Z
-DTSTAMP:20260406T080241Z
-SUMMARY:🛠️ otevření bytu/auta - Hrotovice
-LOCATION:F. B. Zvěřiny\, Hrotovice
-GEO:49.107962;16.058407
-URL:geo:49.107962,16.058407
-DESCRIPTION:📍 F. B. Zvěřiny\, Hrotovice\, Třebíč\n💬 Otevření bytu.\n\n🚒 CAS
-  (HS Hrotovice)
-END:VEVENT
-BEGIN:VEVENT
-UID:409220061
-DTSTART:20260406T080307Z
-DTEND:20260406T090307Z
-DTSTAMP:20260406T080307Z
-SUMMARY:🚗 dopravní nehoda - Moravské Budějovice
-LOCATION:Sokolská\, Moravské Budějovice
-GEO:49.053689;15.810227
-URL:geo:49.053689,15.810227
-DESCRIPTION:📍 Sokolská\, Moravské Budějovice\, Třebíč\n💬 Dopravní nehoda dv
- ou osobních vozidel. Provedeno protipožární opatření a zabezpečení místa n
- ehody\, dvě zraněné osoby.\n\n🚒 CAS (HS Moravské Budějovice)
-END:VEVENT
-BEGIN:VEVENT
 UID:409223061
 DTSTART:20260406T102244Z
 DTEND:20260406T112244Z
@@ -495,7 +470,7 @@ UID:409305061
 DTSTART:20260408T065024Z
 DTEND:20260408T075024Z
 DTSTAMP:20260408T065024Z
-SUMMARY:🔥 venkovní požár - Jihlava
+SUMMARY:🔥 technologie - Jihlava
 LOCATION:Jihlava
 GEO:49.414294;15.607730
 URL:geo:49.414294,15.607730
@@ -511,9 +486,9 @@ SUMMARY:🔥 budova - Vícenice u Náměště nad Oslavou
 LOCATION:Vícenice u Náměště nad Oslavou
 GEO:49.188924;16.123925
 URL:geo:49.188924,16.123925
-DESCRIPTION:📍 Vícenice u Náměště nad Oslavou\, Třebíč\n\n🚒 CAS (HS Náměšť n
- ad Oslavou)\n🚒 CAS (VHJ 2427 Náměšť nad Oslavou)\n🚒 osobní automobil (VHJ 
- 2427 Náměšť nad Oslavou)
+DESCRIPTION:📍 Vícenice u Náměště nad Oslavou\, Třebíč\n💬 Taktické cvičení.\
+ n\n🚒 CAS (HS Náměšť nad Oslavou)\n🚒 CAS (VHJ 2427 Náměšť nad Oslavou)\n🚒 o
+ sobní automobil (VHJ 2427 Náměšť nad Oslavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:409314061
@@ -524,7 +499,7 @@ SUMMARY:🛠️ otevření bytu/auta - Žďár nad Sázavou
 LOCATION:Palachova\, Žďár nad Sázavou
 GEO:49.557292;15.943764
 URL:geo:49.557292,15.943764
-DESCRIPTION:📍 Palachova\, Žďár nad Sázavou 6\, Žďár nad Sázavou\n\n🚒 CAS (C
- HS Žďár nad Sázavou)
+DESCRIPTION:📍 Palachova\, Žďár nad Sázavou 6\, Žďár nad Sázavou\n💬 Otevření
+  dvěří.\n\n🚒 CAS (CHS Žďár nad Sázavou)
 END:VEVENT
 END:VCALENDAR
