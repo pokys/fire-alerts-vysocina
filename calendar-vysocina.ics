@@ -495,4 +495,17 @@ URL:geo:49.354187,16.014420
 DESCRIPTION:📍 Kostelní\, Velké Meziříčí\, Žďár nad Sázavou\n💬 Otevření bytu
  .\n\n🚒 RZA (HS Velké Meziříčí)
 END:VEVENT
+BEGIN:VEVENT
+UID:409339061
+DTSTART:20260408T123127Z
+DTEND:20260408T133127Z
+DTSTAMP:20260408T123127Z
+SUMMARY:🔥 les - Moravské Budějovice
+LOCATION:Moravské Budějovice
+GEO:49.073007;15.716650
+URL:geo:49.073007,15.716650
+DESCRIPTION:📍 Vranín\, Moravské Budějovice\, Třebíč\n\n🚒 CAS (HS Moravské B
+ udějovice)\n🚒 CAS (HS Moravské Budějovice)\n🚒 CAS (Lesonice)\n🚒 CAS (Morav
+ ské Budějovice)\n🚒 přívěs motorová stříkačka (Moravské Budějovice-Vranín)
+END:VEVENT
 END:VCALENDAR
