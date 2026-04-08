@@ -5,20 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:409233061
-DTSTART:20260406T131247Z
-DTEND:20260406T141247Z
-DTSTAMP:20260406T131247Z
-SUMMARY:🔥 les - Borovnice
-LOCATION:Borovnice
-GEO:49.646272;16.195705
-URL:geo:49.646272,16.195705
-DESCRIPTION:📍 Borovnice\, Žďár nad Sázavou\n💬 Požár hrabanky. Jednotky prov
- edly uhašení. Beze škody.\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (CHS Žďár
-  nad Sázavou)\n🚒 CAS (Borovnice)\n🚒 DA (Jimramov)\n🚒 CAS (Jimramov)\n🚒 CAS
-  (HS Polička)\n🚒 CAS (HS Polička)
-END:VEVENT
-BEGIN:VEVENT
 UID:409234061
 DTSTART:20260406T131739Z
 DTEND:20260406T141739Z
@@ -507,6 +493,6 @@ URL:geo:49.073007,15.716650
 DESCRIPTION:📍 Vranín\, Moravské Budějovice\, Třebíč\n\n🚒 CAS (HS Moravské B
  udějovice)\n🚒 CAS (HS Moravské Budějovice)\n🚒 CAS (Lesonice)\n🚒 DA (Moravs
  ké Budějovice)\n🚒 CAS (Moravské Budějovice)\n🚒 přívěs motorová stříkačka (
- Moravské Budějovice-Vranín)
+ Moravské Budějovice-Vranín)\n🚒 vyšetřovací automobil (ÚO Třebíč)
 END:VEVENT
 END:VCALENDAR
