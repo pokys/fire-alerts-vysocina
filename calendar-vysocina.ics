@@ -465,4 +465,16 @@ DESCRIPTION:📍 Vranín\, Moravské Budějovice\, Třebíč\n\n🚒 CAS (HS Mor
  ké Budějovice)\n🚒 CAS (Moravské Budějovice)\n🚒 přívěs motorová stříkačka (
  Moravské Budějovice-Vranín)\n🚒 vyšetřovací automobil (ÚO Třebíč)
 END:VEVENT
+BEGIN:VEVENT
+UID:409349061
+DTSTART:20260408T140348Z
+DTEND:20260408T150348Z
+DTSTAMP:20260408T140348Z
+SUMMARY:🛠️ ostatní - Svratka
+LOCATION:Rekreační\, Svratka
+GEO:49.706758;16.031005
+URL:geo:49.706758,16.031005
+DESCRIPTION:📍 Rekreační\, Moravská Svratka\, Svratka\, Žďár nad Sázavou\n\n
+ 🚒 CAS (Svratka)
+END:VEVENT
 END:VCALENDAR
