@@ -367,7 +367,7 @@ UID:409285061
 DTSTART:20260407T160339Z
 DTEND:20260407T170339Z
 DTSTAMP:20260407T160339Z
-SUMMARY:🛠️ ostatní - Havlíčkův Brod
+SUMMARY:🔥 Havlíčkův Brod
 LOCATION:Na Výšině\, Havlíčkův Brod
 GEO:49.617374;15.578104
 URL:geo:49.617374,15.578104
@@ -474,8 +474,9 @@ SUMMARY:🔥 technologie - Jihlava
 LOCATION:Jihlava
 GEO:49.414294;15.607730
 URL:geo:49.414294,15.607730
-DESCRIPTION:📍 Hruškové Dvory\, Jihlava\n\n🚒 CAS (CHS Jihlava)\n🚒 vyšetřovac
- í automobil (ÚO Jihlava)
+DESCRIPTION:📍 Hruškové Dvory\, Jihlava\n💬 Požár olepovacího stroje. Uhašeno
+  před příjezdem JPO.\n\n🚒 CAS (CHS Jihlava)\n🚒 vyšetřovací automobil (ÚO J
+ ihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:409312061
