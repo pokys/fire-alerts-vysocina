@@ -487,4 +487,15 @@ DESCRIPTION:📍 Chyška\, Úsobí\, Havlíčkův Brod\n💬 Požár suché trá
   2x15 m. Provedena lokalizace a likvidace požáru.\n\n🚒 CAS (CHS Havlíčkův 
  Brod)\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 CAS (Štoky)
 END:VEVENT
+BEGIN:VEVENT
+UID:409359061
+DTSTART:20260408T174839Z
+DTEND:20260408T184839Z
+DTSTAMP:20260408T174839Z
+SUMMARY:🛠️ otevření bytu/auta - Havlíčkův Brod
+LOCATION:Kokořínská\, Havlíčkův Brod
+GEO:49.613937;15.577717
+URL:geo:49.613937,15.577717
+DESCRIPTION:📍 Kokořínská\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)
+END:VEVENT
 END:VCALENDAR
