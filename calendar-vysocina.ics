@@ -497,8 +497,8 @@ SUMMARY:🔥 odpad - Žďár nad Sázavou
 LOCATION:Žďár nad Sázavou
 GEO:49.569999;15.940976
 URL:geo:49.569999,15.940976
-DESCRIPTION:📍 Žďár nad Sázavou 1\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad 
- Sázavou)
+DESCRIPTION:📍 Žďár nad Sázavou 1\, Žďár nad Sázavou\n💬 Požár odpadu v plast
+ ovém kontejneru.\n\n🚒 CAS (CHS Žďár nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:409357061
@@ -509,7 +509,8 @@ SUMMARY:🔥 tráva/plocha - Úsobí
 LOCATION:Úsobí
 GEO:49.519207;15.528853
 URL:geo:49.519207,15.528853
-DESCRIPTION:📍 Chyška\, Úsobí\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)
- \n🚒 CAS (CHS Havlíčkův Brod)\n🚒 CAS (Štoky)
+DESCRIPTION:📍 Chyška\, Úsobí\, Havlíčkův Brod\n💬 Požár suché trávy na ploše
+  2x15 m. Provedena lokalizace a likvidace požáru.\n\n🚒 CAS (CHS Havlíčkův 
+ Brod)\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 CAS (Štoky)
 END:VEVENT
 END:VCALENDAR
