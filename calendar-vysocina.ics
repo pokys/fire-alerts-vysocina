@@ -515,4 +515,16 @@ URL:geo:49.567163,15.372103
 DESCRIPTION:📍 Čejov\, Pelhřimov\n💬 Transport pacienta na žádost ZZS.\n\n🚒 C
  AS (HS Humpolec)
 END:VEVENT
+BEGIN:VEVENT
+UID:409326061
+DTSTART:20260408T093234Z
+DTEND:20260408T103234Z
+DTSTAMP:20260408T093234Z
+SUMMARY:🛠️ otevření bytu/auta - Jimramov
+LOCATION:Jimramov
+GEO:49.641552;16.228442
+URL:geo:49.641552,16.228442
+DESCRIPTION:📍 Sedliště\, Jimramov\, Žďár nad Sázavou\n💬 Otevření bytu.\n\n🚒
+  CAS (HS Bystřice nad Pernštejnem)
+END:VEVENT
 END:VCALENDAR
