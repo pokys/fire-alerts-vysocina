@@ -433,11 +433,11 @@ SUMMARY:🔥 les - Moravské Budějovice
 LOCATION:Moravské Budějovice
 GEO:49.073007;15.716650
 URL:geo:49.073007,15.716650
-DESCRIPTION:📍 Vranín\, Moravské Budějovice\, Třebíč\n💬 Požár hrabanky a trá
- vy. Jednotky provedly lokalizaci a likvidaci.\n\n🚒 CAS (HS Moravské Budějo
- vice)\n🚒 CAS (HS Moravské Budějovice)\n🚒 CAS (Lesonice)\n🚒 DA (Moravské Bu
- dějovice)\n🚒 CAS (Moravské Budějovice)\n🚒 přívěs motorová stříkačka (Morav
- ské Budějovice-Vranín)\n🚒 vyšetřovací automobil (ÚO Třebíč)
+DESCRIPTION:📍 Vranín\, Moravské Budějovice\, Třebíč\n💬 Požár hrabanky a suc
+ hé trávy. Jednotky provedly lokalizaci a likvidaci požáru.\n\n🚒 CAS (HS Mo
+ ravské Budějovice)\n🚒 CAS (HS Moravské Budějovice)\n🚒 CAS (Lesonice)\n🚒 DA
+  (Moravské Budějovice)\n🚒 CAS (Moravské Budějovice)\n🚒 přívěs motorová stř
+ íkačka (Moravské Budějovice-Vranín)\n🚒 vyšetřovací automobil (ÚO Třebíč)
 END:VEVENT
 BEGIN:VEVENT
 UID:409349061
@@ -448,8 +448,8 @@ SUMMARY:🛠️ ostatní - Svratka
 LOCATION:Rekreační\, Svratka
 GEO:49.706758;16.031005
 URL:geo:49.706758,16.031005
-DESCRIPTION:📍 Rekreační\, Moravská Svratka\, Svratka\, Žďár nad Sázavou\n\n
- 🚒 CAS (Svratka)
+DESCRIPTION:📍 Rekreační\, Moravská Svratka\, Svratka\, Žďár nad Sázavou\n💬 
+ ZOČ proplach kanalizace.\n\n🚒 CAS (Svratka)
 END:VEVENT
 BEGIN:VEVENT
 UID:409352061
@@ -472,7 +472,9 @@ SUMMARY:🚗 bez zranění - Třebíč
 LOCATION:Pražská\, Třebíč
 GEO:49.210764;15.863581
 URL:geo:49.210764,15.863581
-DESCRIPTION:📍 Pražská\, Borovina\, Třebíč\n\n🚒 CAS (CHS Třebíč)
+DESCRIPTION:📍 Pražská\, Borovina\, Třebíč\n💬 DN 2 OA bez zranění. Jednotka 
+ provedla zajištění místa nehody a zlikvidovala únik provozních kapalin.\n\
+ n🚒 CAS (CHS Třebíč)
 END:VEVENT
 BEGIN:VEVENT
 UID:409355061
@@ -485,5 +487,29 @@ GEO:49.459023;15.611035
 URL:geo:49.459023,15.611035
 DESCRIPTION:📍 Střítež\, Jihlava\n💬 Likvidace uniklého oleje z pozemní komun
  ikace pomocí sorbentu.\n\n🚒 CAS (CHS Jihlava)
+END:VEVENT
+BEGIN:VEVENT
+UID:409356061
+DTSTART:20260408T152532Z
+DTEND:20260408T162532Z
+DTSTAMP:20260408T152532Z
+SUMMARY:🔥 odpad - Žďár nad Sázavou
+LOCATION:Žďár nad Sázavou
+GEO:49.569999;15.940976
+URL:geo:49.569999,15.940976
+DESCRIPTION:📍 Žďár nad Sázavou 1\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad 
+ Sázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:409357061
+DTSTART:20260408T152823Z
+DTEND:20260408T162823Z
+DTSTAMP:20260408T152823Z
+SUMMARY:🔥 tráva/plocha - Úsobí
+LOCATION:Úsobí
+GEO:49.519207;15.528853
+URL:geo:49.519207,15.528853
+DESCRIPTION:📍 Chyška\, Úsobí\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)
+ \n🚒 CAS (CHS Havlíčkův Brod)\n🚒 CAS (Štoky)
 END:VEVENT
 END:VCALENDAR
