@@ -65,19 +65,6 @@ DESCRIPTION:📍 Na Tržišti\, Kamenice nad Lipou\, Pelhřimov\n💬 Měření 
  rací.\n\n🚒 CAS (HS Kamenice nad Lipou)
 END:VEVENT
 BEGIN:VEVENT
-UID:409380061
-DTSTART:20260409T064952Z
-DTEND:20260409T074952Z
-DTSTAMP:20260409T064952Z
-SUMMARY:🚑 záchrana ze stromu - Rodinov
-LOCATION:Rodinov
-GEO:49.280412;15.107757
-URL:geo:49.280412,15.107757
-DESCRIPTION:📍 Rodinov\, Pelhřimov\n💬 Prověřovací cvičení.\n\n🚒 CAS (HS Kame
- nice nad Lipou)\n🚒 automobilová plošina nad 30 m (CHS Pelhřimov)\n🚒 VEA (C
- HS Pelhřimov)
-END:VEVENT
-BEGIN:VEVENT
 UID:409389061
 DTSTART:20260409T072457Z
 DTEND:20260409T082457Z
