@@ -474,4 +474,16 @@ DESCRIPTION:📍 Jánská\, Nové Město na Moravě\, Žďár nad Sázavou\n💬
  n🚒 CAS (Nové Město na Moravě)\n🚒 CAS (Žďár nad Sázavou-Zámek) ×2\n🚒 vyšetř
  ovací automobil (ÚO Žďár nad Sázavou)
 END:VEVENT
+BEGIN:VEVENT
+UID:409417061
+DTSTART:20260409T204851Z
+DTEND:20260409T214851Z
+DTSTAMP:20260409T204851Z
+SUMMARY:🚗 dopravní nehoda - Měřín
+LOCATION:Měřín
+GEO:49.400835;15.858529
+URL:geo:49.400835,15.858529
+DESCRIPTION:📍 Měřín\, Žďár nad Sázavou\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS J
+ ihlava)
+END:VEVENT
 END:VCALENDAR
