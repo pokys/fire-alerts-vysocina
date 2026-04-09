@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:409273061
-DTSTART:20260407T133120Z
-DTEND:20260407T143120Z
-DTSTAMP:20260407T133120Z
-SUMMARY:🚑 spolupráce ZZS - Vojnův Městec
-LOCATION:Vojnův Městec
-GEO:49.680943;15.875613
-URL:geo:49.680943,15.875613
-DESCRIPTION:📍 Vojnův Městec\, Žďár nad Sázavou\n💬 Spolupráce se ZZS.\n\n🚒 C
- AS (CHS Žďár nad Sázavou)\n🚒 CAS (Ždírec nad Doubravou)
-END:VEVENT
-BEGIN:VEVENT
 UID:409278061
 DTSTART:20260407T141327Z
 DTEND:20260407T151327Z
@@ -520,7 +508,18 @@ SUMMARY:🚑 spolupráce ZZS - Bystřice nad Pernštejnem
 LOCATION:Bystřice nad Pernštejnem
 GEO:49.526223;16.260620
 URL:geo:49.526223,16.260620
-DESCRIPTION:📍 Bystřice nad Pernštejnem\, Žďár nad Sázavou\n\n🚒 CAS (HS Byst
- řice nad Pernštejnem)
+DESCRIPTION:📍 Bystřice nad Pernštejnem\, Žďár nad Sázavou\n💬 Pomoc ZZS s re
+ suscitací.\n\n🚒 CAS (HS Bystřice nad Pernštejnem)
+END:VEVENT
+BEGIN:VEVENT
+UID:409408061
+DTSTART:20260409T131646Z
+DTEND:20260409T141646Z
+DTSTAMP:20260409T131646Z
+SUMMARY:🚗 se zraněním - Jamné
+LOCATION:Jamné
+GEO:49.423711;15.687082
+URL:geo:49.423711,15.687082
+DESCRIPTION:📍 Jamné\, Jihlava\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihlava)
 END:VEVENT
 END:VCALENDAR
