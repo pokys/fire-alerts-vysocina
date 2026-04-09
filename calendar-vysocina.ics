@@ -484,7 +484,8 @@ SUMMARY:🛠️ ostatní - Batelov
 LOCATION:náměstí Míru\, Batelov
 GEO:49.314620;15.393933
 URL:geo:49.314620,15.393933
-DESCRIPTION:📍 náměstí Míru\, Batelov\, Jihlava\n\n🚒 CAS (Batelov)
+DESCRIPTION:📍 náměstí Míru\, Batelov\, Jihlava\n💬 Pročištění kanalizace.\n\
+ n🚒 CAS (Batelov)
 END:VEVENT
 BEGIN:VEVENT
 UID:409402061
@@ -495,7 +496,8 @@ SUMMARY:🛠️ ostatní - Batelov
 LOCATION:Lovětínská\, Batelov
 GEO:49.310477;15.395802
 URL:geo:49.310477,15.395802
-DESCRIPTION:📍 Lovětínská\, Batelov\, Jihlava\n\n🚒 CAS (Batelov)
+DESCRIPTION:📍 Lovětínská\, Batelov\, Jihlava\n💬 Pročištění kanalizace.\n\n🚒
+  CAS (Batelov)
 END:VEVENT
 BEGIN:VEVENT
 UID:409404061
