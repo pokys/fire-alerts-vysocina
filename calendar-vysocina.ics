@@ -411,9 +411,9 @@ SUMMARY:⚠️ planý poplach - Havlíčkův Brod
 LOCATION:Baštínov\, Havlíčkův Brod
 GEO:49.584617;15.607153
 URL:geo:49.584617,15.607153
-DESCRIPTION:📍 Baštínov\, Mírovka\, Havlíčkův Brod\n💬 Požár ohlášený systéme
- m elektrické požární signalizace. Průzkumem bylo zjištěno\, že se jedná o 
- planý poplach.\n\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 CAS (CHS Havlíčkův Brod)
+DESCRIPTION:📍 Baštínov\, Mírovka\, Havlíčkův Brod\n💬 Požár ohlášený čidlem 
+ EPS na PCO - planý poplach.\n\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 CAS (CHS Havl
+ íčkův Brod)
 END:VEVENT
 BEGIN:VEVENT
 UID:409374061
@@ -424,8 +424,8 @@ SUMMARY:🚗 dopravní nehoda - Nejepín
 LOCATION:Nejepín
 GEO:49.742875;15.607463
 URL:geo:49.742875,15.607463
-DESCRIPTION:📍 Nejepín\, Havlíčkův Brod\n💬 DN 2 OA\, 2 zraněné osoby. Zajišt
- ění místa nehody\, provední protipožární opatření.\n\n🚒 CAS (HS Chotěboř)
+DESCRIPTION:📍 Nejepín\, Havlíčkův Brod\n💬 DN 2 x OA\, dvě zraněné osoby. Za
+ jištění místa nehody.\n\n🚒 CAS (HS Chotěboř)
 END:VEVENT
 BEGIN:VEVENT
 UID:409378061
@@ -496,5 +496,29 @@ LOCATION:Lovětínská\, Batelov
 GEO:49.310477;15.395802
 URL:geo:49.310477,15.395802
 DESCRIPTION:📍 Lovětínská\, Batelov\, Jihlava\n\n🚒 CAS (Batelov)
+END:VEVENT
+BEGIN:VEVENT
+UID:409404061
+DTSTART:20260409T124029Z
+DTEND:20260409T134029Z
+DTSTAMP:20260409T124029Z
+SUMMARY:🚑 otevření/asistence - Náměšť nad Oslavou
+LOCATION:Husova\, Náměšť nad Oslavou
+GEO:49.209083;16.154259
+URL:geo:49.209083,16.154259
+DESCRIPTION:📍 Husova\, Náměšť nad Oslavou\, Třebíč\n💬 Otevření bytu.\n\n🚒 C
+ AS (HS Náměšť nad Oslavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:409405061
+DTSTART:20260409T125106Z
+DTEND:20260409T135106Z
+DTSTAMP:20260409T125106Z
+SUMMARY:🚑 spolupráce ZZS - Bystřice nad Pernštejnem
+LOCATION:Bystřice nad Pernštejnem
+GEO:49.526223;16.260620
+URL:geo:49.526223,16.260620
+DESCRIPTION:📍 Bystřice nad Pernštejnem\, Žďár nad Sázavou\n\n🚒 CAS (HS Byst
+ řice nad Pernštejnem)
 END:VEVENT
 END:VCALENDAR
