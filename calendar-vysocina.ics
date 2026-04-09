@@ -472,4 +472,17 @@ DESCRIPTION:📍 Nová Ves u Světlé\, Havlíčkův Brod\n💬 Požár sazí v 
  nad Sázavou)\n🚒 DA (Nová Ves u Světlé)\n🚒 DA (Světlá nad Sázavou)\n🚒 CAS (
  Světlá nad Sázavou)
 END:VEVENT
+BEGIN:VEVENT
+UID:409416061
+DTSTART:20260409T185013Z
+DTEND:20260409T195013Z
+DTSTAMP:20260409T185013Z
+SUMMARY:🔥 saze v komíně - Nové Město na Moravě
+LOCATION:Jánská\, Nové Město na Moravě
+GEO:49.560497;16.077258
+URL:geo:49.560497,16.077258
+DESCRIPTION:📍 Jánská\, Nové Město na Moravě\, Žďár nad Sázavou\n\n🚒 CAS (CH
+ S Žďár nad Sázavou)\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (Nové Město na Mo
+ ravě)\n🚒 CAS (Žďár nad Sázavou-Zámek)
+END:VEVENT
 END:VCALENDAR
