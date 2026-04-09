@@ -5,25 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:409278061
-DTSTART:20260407T141327Z
-DTEND:20260407T151327Z
-DTSTAMP:20260407T141327Z
-SUMMARY:🔥 les - Žďár nad Sázavou
-LOCATION:Žďár nad Sázavou
-GEO:49.568218;15.963151
-URL:geo:49.568218,15.963151
-DESCRIPTION:📍 Mělkovice\, Žďár nad Sázavou\n💬 Požár lesního porostu\, bez z
- ranění. Provedena lokalizace a likvidace požáru.\n\n🚒 CAS (CHS Žďár nad Sá
- zavou) ×2\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 VEA (CHS Žďár nad Sázavou)\n🚒 C
- AS (Žďár nad Sázavou-Zámek) ×2\n🚒 DA (Hamry nad Sázavou-Najdek)\n🚒 CAS (Ha
- mry nad Sázavou-Najdek)\n🚒 CAS (Nové Město na Moravě)\n🚒 CAS (Nové Veselí)
-  ×2\n🚒 DA (Polnička)\n🚒 CAS (Polnička)\n🚒 CAS (Bohdalov)\n🚒 CAS (Ostrov na
- d Oslavou)\n🚒 CAS (Radostín nad Oslavou)\n🚒 CAS (Velká Losenice)\n🚒 CAS (Š
- krdlovice)\n🚒 osobní automobil (Škrdlovice)\n🚒 vyšetřovací automobil (ÚO Ž
- ďár nad Sázavou)
-END:VEVENT
-BEGIN:VEVENT
 UID:409281061
 DTSTART:20260407T145531Z
 DTEND:20260407T155531Z
