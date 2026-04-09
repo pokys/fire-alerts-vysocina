@@ -508,6 +508,42 @@ SUMMARY:🚗 dopravní nehoda - Nejepín
 LOCATION:Nejepín
 GEO:49.742875;15.607463
 URL:geo:49.742875,15.607463
-DESCRIPTION:📍 Nejepín\, Havlíčkův Brod\n\n🚒 CAS (HS Chotěboř)
+DESCRIPTION:📍 Nejepín\, Havlíčkův Brod\n💬 DN 2 OA\, 2 zraněné osoby. Zajišt
+ ění místa nehody\, provední protipožární opatření.\n\n🚒 CAS (HS Chotěboř)
+END:VEVENT
+BEGIN:VEVENT
+UID:409378061
+DTSTART:20260409T064134Z
+DTEND:20260409T074134Z
+DTSTAMP:20260409T064134Z
+SUMMARY:🚑 transport pacienta - Kralice nad Oslavou
+LOCATION:Třebíčská\, Kralice nad Oslavou
+GEO:49.197839;16.202498
+URL:geo:49.197839,16.202498
+DESCRIPTION:📍 Třebíčská\, Kralice nad Oslavou\, Třebíč\n\n🚒 CAS (HS Náměšť 
+ nad Oslavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:409379061
+DTSTART:20260409T064627Z
+DTEND:20260409T074627Z
+DTSTAMP:20260409T064627Z
+SUMMARY:🛠️ měření koncentrace - Kamenice nad Lipou
+LOCATION:Na Tržišti\, Kamenice nad Lipou
+GEO:49.305443;15.073452
+URL:geo:49.305443,15.073452
+DESCRIPTION:📍 Na Tržišti\, Kamenice nad Lipou\, Pelhřimov\n\n🚒 CAS (HS Kame
+ nice nad Lipou)
+END:VEVENT
+BEGIN:VEVENT
+UID:409381061
+DTSTART:20260409T065238Z
+DTEND:20260409T075238Z
+DTSTAMP:20260409T065238Z
+SUMMARY:🚗 se zraněním - Pacov
+LOCATION:Pacov
+GEO:49.459944;14.991590
+URL:geo:49.459944,14.991590
+DESCRIPTION:📍 Pacov\, Pelhřimov\n\n🚒 CAS (HS Pacov)\n🚒 CAS (HS Pacov)
 END:VEVENT
 END:VCALENDAR
