@@ -5,23 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:409281061
-DTSTART:20260407T145531Z
-DTEND:20260407T155531Z
-DTSTAMP:20260407T145531Z
-SUMMARY:🔥 les - Žďár nad Sázavou
-LOCATION:Žďár nad Sázavou
-GEO:49.570544;15.953017
-URL:geo:49.570544,15.953017
-DESCRIPTION:📍 Žďár nad Sázavou 5\, Žďár nad Sázavou\n💬 Požár lesního porost
- u\, bez zranění. Provedena lokalizace a likvidace požáru.\n\n🚒 CAS (CHS Žď
- ár nad Sázavou)\n🚒 VEA (CHS Žďár nad Sázavou)\n🚒 CAS (Škrdlovice)\n🚒 osobn
- í automobil (Škrdlovice)\n🚒 CAS (Radostín nad Oslavou)\n🚒 CAS (Velká Losen
- ice)\n🚒 vyšetřovací automobil (ÚO Žďár nad Sázavou)\n🚒 CAS (Žďár nad Sázav
- ou-Zámek)\n🚒 CAS (Žďár nad Sázavou-Zámek)\n🚒 DA (Hamry nad Sázavou-Najdek)
- \n🚒 stříkačka přenosná (Hamry nad Sázavou-Najdek)
-END:VEVENT
-BEGIN:VEVENT
 UID:409283061
 DTSTART:20260407T150216Z
 DTEND:20260407T160216Z
@@ -512,6 +495,6 @@ SUMMARY:🔥 venkovní požár - Hořice
 LOCATION:Hořice
 GEO:49.602180;15.190126
 URL:geo:49.602180,15.190126
-DESCRIPTION:📍 Hořice\, Pelhřimov\n\n🚒 CAS (Hořice)
+DESCRIPTION:📍 Hořice\, Pelhřimov\n💬 Dohašení ohniště.\n\n🚒 CAS (Hořice)
 END:VEVENT
 END:VCALENDAR
