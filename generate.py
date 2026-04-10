@@ -296,7 +296,10 @@ def fetch_events(okres_id=OKRES_ID):
 
     response = _get_with_retry(API_URL, params=params)
 
-    data = response.json()
+    try:
+        data = response.json()
+    except ValueError as exc:
+        raise requests.RequestException(f"Invalid JSON from API: {exc}") from exc
     if isinstance(data, list):
         raw_events = data
     elif isinstance(data, dict):
