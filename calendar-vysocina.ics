@@ -352,7 +352,30 @@ SUMMARY:🛠️ ostatní - Bystřice nad Pernštejnem
 LOCATION:Na Kameníku\, Bystřice nad Pernštejnem
 GEO:49.523614;16.273290
 URL:geo:49.523614,16.273290
-DESCRIPTION:📍 Na Kameníku\, Bystřice nad Pernštejnem\, Žďár nad Sázavou\n\n
- 🚒 CAS (HS Bystřice nad Pernštejnem)
+DESCRIPTION:📍 Na Kameníku\, Bystřice nad Pernštejnem\, Žďár nad Sázavou\n💬 
+ Úklid vozovky.\n\n🚒 CAS (HS Bystřice nad Pernštejnem)
+END:VEVENT
+BEGIN:VEVENT
+UID:409452061
+DTSTART:20260410T170147Z
+DTEND:20260410T180147Z
+DTSTAMP:20260410T170147Z
+SUMMARY:🛠️ monitoring - Kamenice nad Lipou
+LOCATION:Kamenice nad Lipou
+GEO:49.305097;15.101472
+URL:geo:49.305097,15.101472
+DESCRIPTION:📍 Antonka\, Kamenice nad Lipou\, Pelhřimov\n\n🚒 CAS (HS Kamenic
+ e nad Lipou)
+END:VEVENT
+BEGIN:VEVENT
+UID:409453061
+DTSTART:20260410T170639Z
+DTEND:20260410T180639Z
+DTSTAMP:20260410T170639Z
+SUMMARY:🛠️ ostatní - Herálec
+LOCATION:Herálec
+GEO:49.531178;15.450332
+URL:geo:49.531178,15.450332
+DESCRIPTION:📍 Herálec\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)
 END:VEVENT
 END:VCALENDAR
