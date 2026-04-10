@@ -367,4 +367,16 @@ URL:geo:49.531178,15.450332
 DESCRIPTION:📍 Herálec\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 vyš
  etřovací automobil (ÚO Havlíčkův Brod)
 END:VEVENT
+BEGIN:VEVENT
+UID:409455061
+DTSTART:20260410T175753Z
+DTEND:20260410T185753Z
+DTSTAMP:20260410T175753Z
+SUMMARY:🚑 otevření/asistence - Velká Bíteš
+LOCATION:Velká Bíteš
+GEO:49.277810;16.226437
+URL:geo:49.277810,16.226437
+DESCRIPTION:📍 Janovice\, Velká Bíteš\, Žďár nad Sázavou\n\n🚒 CAS (HS Velká 
+ Bíteš)
+END:VEVENT
 END:VCALENDAR
