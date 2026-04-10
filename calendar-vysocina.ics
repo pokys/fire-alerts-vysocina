@@ -5,21 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:409339061
-DTSTART:20260408T123127Z
-DTEND:20260408T133127Z
-DTSTAMP:20260408T123127Z
-SUMMARY:🔥 les - Moravské Budějovice
-LOCATION:Moravské Budějovice
-GEO:49.073007;15.716650
-URL:geo:49.073007,15.716650
-DESCRIPTION:📍 Vranín\, Moravské Budějovice\, Třebíč\n💬 Požár hrabanky a suc
- hé trávy. Jednotky provedly lokalizaci a likvidaci požáru.\n\n🚒 CAS (HS Mo
- ravské Budějovice)\n🚒 CAS (HS Moravské Budějovice)\n🚒 CAS (Lesonice)\n🚒 DA
-  (Moravské Budějovice)\n🚒 CAS (Moravské Budějovice)\n🚒 přívěs motorová stř
- íkačka (Moravské Budějovice-Vranín)\n🚒 vyšetřovací automobil (ÚO Třebíč)
-END:VEVENT
-BEGIN:VEVENT
 UID:409349061
 DTSTART:20260408T140348Z
 DTEND:20260408T150348Z
@@ -381,5 +366,18 @@ SUMMARY:☣️ olej/PHM - Radotice
 LOCATION:Radotice
 DESCRIPTION:📍 Radotice\, Třebíč\n💬 Likvidace úniku nafty z NA pomocí sorben
  tu.\n\n🚒 CAS (HS Jemnice)
+END:VEVENT
+BEGIN:VEVENT
+UID:409442061
+DTSTART:20260410T121944Z
+DTEND:20260410T131944Z
+DTSTAMP:20260410T121944Z
+SUMMARY:🔥 saze v komíně - Velké Meziříčí
+LOCATION:Pod Lesem\, Velké Meziříčí
+GEO:49.361829;16.007629
+URL:geo:49.361829,16.007629
+DESCRIPTION:📍 Pod Lesem\, Velké Meziříčí\, Žďár nad Sázavou\n\n🚒 CAS (HS Ve
+ lké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)\n🚒 CAS (Měřín)\n🚒 CAS (Velké Mezi
+ říčí)
 END:VEVENT
 END:VCALENDAR
