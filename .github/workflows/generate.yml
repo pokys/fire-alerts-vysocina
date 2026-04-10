@@ -5,6 +5,10 @@ on:
     - cron: "*/30 * * * *"
   workflow_dispatch:
 
+concurrency:
+  group: generate-calendar
+  cancel-in-progress: false
+
 permissions:
   contents: write
 
@@ -42,4 +46,10 @@ jobs:
           git add notified-vysocina.json 2>/dev/null || true
           git diff --cached --quiet && exit 0
           git commit -m "Update calendar"
-          git push
+          for i in 1 2 3; do
+            git pull --rebase origin main
+            git push origin main && exit 0
+            echo "Push attempt $i failed, retrying in $((i * 2))s..."
+            sleep $((i * 2))
+          done
+          exit 1
