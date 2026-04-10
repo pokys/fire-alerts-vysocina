@@ -7,6 +7,8 @@ from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
+import time
+
 import requests
 from pyproj import Transformer
 
@@ -224,6 +226,25 @@ def build_geo(event):
     return None, None
 
 
+def _get_with_retry(url, params=None, timeout=TIMEOUT_SECONDS, max_retries=3):
+    last_exc = None
+    for attempt in range(max_retries):
+        try:
+            response = requests.get(url, params=params, timeout=timeout)
+            response.raise_for_status()
+            return response
+        except requests.RequestException as exc:
+            last_exc = exc
+            if attempt < max_retries - 1:
+                wait = 10 * (attempt + 1)
+                print(
+                    f"Request failed (attempt {attempt + 1}/{max_retries}), retrying in {wait}s: {exc}",
+                    file=sys.stderr,
+                )
+                time.sleep(wait)
+    raise last_exc
+
+
 def fetch_technics(event_id):
     try:
         url = f"http://webohled.hasici-vysocina.cz/udalosti/api/udalosti/{event_id}/technika"
@@ -273,8 +294,7 @@ def fetch_events(okres_id=OKRES_ID):
     for stav_id in STAV_IDS:
         params.setdefault("stavIds", []).append(stav_id)
 
-    response = requests.get(API_URL, params=params, timeout=TIMEOUT_SECONDS)
-    response.raise_for_status()
+    response = _get_with_retry(API_URL, params=params)
 
     data = response.json()
     if isinstance(data, list):
@@ -527,8 +547,8 @@ def main():
             CALENDAR_VYSOCINA_PATH,
         )
     except requests.RequestException as exc:
-        print(f"API request failed: {exc}", file=sys.stderr)
-        return 1
+        print(f"API request failed after retries: {exc}", file=sys.stderr)
+        return 0
     except (ValueError, json.JSONDecodeError) as exc:
         print(f"Invalid API response: {exc}", file=sys.stderr)
         return 1
