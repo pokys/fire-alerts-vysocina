@@ -376,9 +376,9 @@ SUMMARY:🔥 saze v komíně - Velké Meziříčí
 LOCATION:Pod Lesem\, Velké Meziříčí
 GEO:49.361829;16.007629
 URL:geo:49.361829,16.007629
-DESCRIPTION:📍 Pod Lesem\, Velké Meziříčí\, Žďár nad Sázavou\n\n🚒 CAS (HS Ve
- lké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)\n🚒 CAS (Měřín)\n🚒 CAS (Velké Mezi
- říčí)
+DESCRIPTION:📍 Pod Lesem\, Velké Meziříčí\, Žďár nad Sázavou\n💬 Likvidace po
+ žáru sazí v komíně RD.\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (HS Velké Meziř
+ íčí)\n🚒 CAS (Měřín)\n🚒 CAS (Velké Meziříčí)
 END:VEVENT
 BEGIN:VEVENT
 UID:409443061
@@ -391,5 +391,16 @@ GEO:49.210215;16.148950
 URL:geo:49.210215,16.148950
 DESCRIPTION:📍 Husova\, Náměšť nad Oslavou\, Třebíč\n💬 Otevření bytu.\n\n🚒 C
  AS (HS Náměšť nad Oslavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:409448061
+DTSTART:20260410T133022Z
+DTEND:20260410T143022Z
+DTSTAMP:20260410T133022Z
+SUMMARY:🛠️ ostatní - Stropešín
+LOCATION:Stropešín
+GEO:49.154207;16.079896
+URL:geo:49.154207,16.079896
+DESCRIPTION:📍 Stropešín\, Třebíč\n\n🚒 CAS (HS Hrotovice)
 END:VEVENT
 END:VCALENDAR
