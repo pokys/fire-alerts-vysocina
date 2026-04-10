@@ -392,4 +392,17 @@ URL:geo:49.277807,16.226272
 DESCRIPTION:📍 Janovice\, Velká Bíteš\, Žďár nad Sázavou\n\n🚒 CAS (HS Velká 
  Bíteš)
 END:VEVENT
+BEGIN:VEVENT
+UID:409458061
+DTSTART:20260410T195917Z
+DTEND:20260410T205917Z
+DTSTAMP:20260410T195917Z
+SUMMARY:🔥 budova - Humpolec
+LOCATION:Rašínova\, Humpolec
+GEO:49.542582;15.354854
+URL:geo:49.542582,15.354854
+DESCRIPTION:📍 Rašínova\, Humpolec\, Pelhřimov\n💬 Požár udírny.\n\n🚒 CAS (HS
+  Humpolec)\n🚒 RZA (HS Humpolec)\n🚒 CAS (Humpolec)\n🚒 CAS (Humpolec)\n🚒 CAS
+  (Kejžlice)
+END:VEVENT
 END:VCALENDAR
