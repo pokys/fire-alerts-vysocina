@@ -361,4 +361,16 @@ DESCRIPTION:📍 Hilbertova\, Podklášteří\, Třebíč\n💬 Požár RD\, jed
   vyšetřovací automobil (ÚO Žďár nad Sázavou)\n🚒 vyšetřovací automobil (ÚO 
  Třebíč)
 END:VEVENT
+BEGIN:VEVENT
+UID:409465061
+DTSTART:20260411T061616Z
+DTEND:20260411T071616Z
+DTSTAMP:20260411T061616Z
+SUMMARY:🛠️ ostatní - Škrdlovice
+LOCATION:Škrdlovice
+GEO:49.634672;15.925933
+URL:geo:49.634672,15.925933
+DESCRIPTION:📍 Škrdlovice\, Žďár nad Sázavou\n💬 ZOČ.\n\n🚒 CAS (Škrdlovice)\n
+ 🚒 DA (Karlov)
+END:VEVENT
 END:VCALENDAR
