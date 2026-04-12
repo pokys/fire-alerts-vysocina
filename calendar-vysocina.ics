@@ -400,11 +400,13 @@ UID:409500061
 DTSTART:20260412T100944Z
 DTEND:20260412T110944Z
 DTSTAMP:20260412T100944Z
-SUMMARY:🛠️ otevření bytu/auta - Golčův Jeníkov
+SUMMARY:⚠️ planý poplach - Golčův Jeníkov
 LOCATION:V Zahradách\, Golčův Jeníkov
 GEO:49.816548;15.479103
 URL:geo:49.816548,15.479103
-DESCRIPTION:📍 V Zahradách\, Golčův Jeníkov\, Havlíčkův Brod\n\n🚒 CAS (HS Le
- deč nad Sázavou)\n🚒 CAS (Golčův Jeníkov)
+DESCRIPTION:📍 V Zahradách\, Golčův Jeníkov\, Havlíčkův Brod\n💬 Požár ohláše
+ ný systémem elektrické požární signalizace. Průzkumem bylo zjištěno\, že s
+ e jedná o planý poplach.\n\n🚒 CAS (HS Ledeč nad Sázavou)\n🚒 CAS (Golčův Je
+ níkov)
 END:VEVENT
 END:VCALENDAR
