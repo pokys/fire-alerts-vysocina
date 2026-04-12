@@ -393,4 +393,15 @@ URL:geo:49.544809,15.351265
 DESCRIPTION:📍 Na Skalce\, Humpolec\, Pelhřimov\n💬 Prasklé vodovodní potrubí
  . Zajištění místa události.\n\n🚒 CAS (HS Humpolec)
 END:VEVENT
+BEGIN:VEVENT
+UID:409496061
+DTSTART:20260412T051627Z
+DTEND:20260412T061627Z
+DTSTAMP:20260412T051627Z
+SUMMARY:🛠️ ostatní - Přibyslavice
+LOCATION:Petrovická\, Přibyslavice
+GEO:49.255727;15.780055
+URL:geo:49.255727,15.780055
+DESCRIPTION:📍 Petrovická\, Přibyslavice\, Třebíč\n\n🚒 CAS (Přibyslavice)
+END:VEVENT
 END:VCALENDAR
