@@ -322,4 +322,16 @@ URL:geo:49.223223,15.454941
 DESCRIPTION:📍 Studnice\, Telč\, Jihlava\n\n🚒 CAS (HS Telč)\n🚒 CAS (HS Telč)
  \n🚒 přívěs motorová stříkačka (Telč-Studnice)
 END:VEVENT
+BEGIN:VEVENT
+UID:409510061
+DTSTART:20260412T200639Z
+DTEND:20260412T210639Z
+DTSTAMP:20260412T200639Z
+SUMMARY:⚠️ planý poplach - Jihlava
+LOCATION:Havlíčkova\, Jihlava
+GEO:49.402029;15.588000
+URL:geo:49.402029,15.588000
+DESCRIPTION:📍 Havlíčkova\, Jihlava\n\n🚒 CAS (CHS Jihlava) ×2\n🚒 CAS (CHS Ji
+ hlava) ×2
+END:VEVENT
 END:VCALENDAR
