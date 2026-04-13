@@ -351,9 +351,9 @@ SUMMARY:🔥 les - Jedlá
 LOCATION:Jedlá
 GEO:49.723531;15.254637
 URL:geo:49.723531,15.254637
-DESCRIPTION:📍 Dobrá Voda\, Jedlá\, Havlíčkův Brod\n💬 Požár pařezů 10x10m. L
- okalizace a likvidace.\n\n🚒 CAS (HS Ledeč nad Sázavou)\n🚒 CAS (Jedlá)\n🚒 C
- AS (Ledeč nad Sázavou)
+DESCRIPTION:📍 Dobrá Voda\, Jedlá\, Havlíčkův Brod\n💬 Požár lesa.  Lokalizac
+ e a likvidace události.\n\n🚒 CAS (HS Ledeč nad Sázavou)\n🚒 CAS (Jedlá)\n🚒 
+ CAS (Ledeč nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:409546061
@@ -387,11 +387,11 @@ LOCATION:Batelov
 GEO:49.292916;15.346591
 URL:geo:49.292916,15.346591
 DESCRIPTION:📍 Nová Ves\, Batelov\, Jihlava\n💬 Požár lesa. Likvidace a lokal
- izace události.\n\n🚒 CAS (HS Třešť)\n🚒 CAS (Batelov)\n🚒 CAS (Horní Dubenky
- )\n🚒 přívěs motorová stříkačka (Batelov-Nová Ves)\n🚒 CAS (HS Telč)\n🚒 DA (
- Horní Cerekev)\n🚒 CAS (Horní Cerekev)\n🚒 CAS (Dolní Cerekev)\n🚒 DA (Počátk
- y)\n🚒 CAS (Počátky)\n🚒 CAS (Mrákotín)\n🚒 CAS (Mrákotín)\n🚒 přívěs motorová
-  stříkačka (Švábov)\n🚒 vyšetřovací automobil (ÚO Jihlava)
+ izace události.\n\n🚒 CAS (HS Třešť)\n🚒 DA (Batelov)\n🚒 CAS (Batelov)\n🚒 CA
+ S (Horní Dubenky)\n🚒 přívěs motorová stříkačka (Batelov-Nová Ves)\n🚒 CAS (
+ HS Telč)\n🚒 DA (Horní Cerekev)\n🚒 CAS (Horní Cerekev)\n🚒 CAS (Dolní Cereke
+ v)\n🚒 DA (Počátky)\n🚒 CAS (Počátky)\n🚒 CAS (Mrákotín)\n🚒 CAS (Mrákotín)\n🚒
+  přívěs motorová stříkačka (Švábov)\n🚒 vyšetřovací automobil (ÚO Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:409554061
@@ -440,11 +440,12 @@ SUMMARY:🔥 les - Zbilidy
 LOCATION:Zbilidy
 GEO:49.434097;15.430062
 URL:geo:49.434097,15.430062
-DESCRIPTION:📍 Zbilidy\, Jihlava\n\n🚒 CAS (CHS Jihlava)\n🚒 CAS (Opatov (JI))
- \n🚒 CAS (Větrný Jeníkov)\n🚒 CAS (Zbilidy)\n🚒 CAS (Hojkov)\n🚒 CAS (Nový Ryc
- hnov)\n🚒 CAS (Herálec (HB))\n🚒 DA (Jihlava-Bedřichov)\n🚒 CAS (Jihlava-Bedř
- ichov)\n🚒 přívěs skříňový (Jihlava-Bedřichov)\n🚒 CAS (Dolní Cerekev)\n🚒 vy
- šetřovací automobil (KŘ HZS VYS)
+DESCRIPTION:📍 Zbilidy\, Jihlava\n💬 Požár lesa. Likvidace a lokalizace událo
+ sti.\n\n🚒 CAS (CHS Jihlava)\n🚒 CAS (Opatov (JI))\n🚒 CAS (Větrný Jeníkov)\n
+ 🚒 CAS (Zbilidy)\n🚒 CAS (Hojkov)\n🚒 CAS (Nový Rychnov)\n🚒 CAS (Herálec (HB)
+ )\n🚒 DA (Jihlava-Bedřichov)\n🚒 CAS (Jihlava-Bedřichov)\n🚒 přívěs skříňový 
+ (Jihlava-Bedřichov)\n🚒 CAS (Dolní Cerekev)\n🚒 vyšetřovací automobil (KŘ HZ
+ S VYS)
 END:VEVENT
 BEGIN:VEVENT
 UID:409562061
@@ -455,7 +456,7 @@ SUMMARY:🛠️ strom - Samšín
 LOCATION:Samšín
 GEO:49.492522;15.074679
 URL:geo:49.492522,15.074679
-DESCRIPTION:📍 Samšín\, Pelhřimov\n\n🚒 CAS (HS Pacov)
+DESCRIPTION:📍 Samšín\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 CAS (HS Pacov)
 END:VEVENT
 BEGIN:VEVENT
 UID:409566061
@@ -466,7 +467,7 @@ SUMMARY:🛠️ strom - Pelhřimov
 LOCATION:Pelhřimov
 GEO:49.444752;15.225656
 URL:geo:49.444752,15.225656
-DESCRIPTION:🚒 CAS (CHS Pelhřimov)
+DESCRIPTION:💬 Odstranění stromu.\n\n🚒 CAS (CHS Pelhřimov)
 END:VEVENT
 BEGIN:VEVENT
 UID:409567061
@@ -477,6 +478,7 @@ SUMMARY:🛠️ strom - Batelov
 LOCATION:Batelov
 GEO:49.297314;15.336438
 URL:geo:49.297314,15.336438
-DESCRIPTION:📍 Nová Ves\, Batelov\, Jihlava\n\n🚒 CAS (HS Třešť)
+DESCRIPTION:📍 Nová Ves\, Batelov\, Jihlava\n💬 Odstranění stromu.\n\n🚒 CAS (
+ HS Třešť)
 END:VEVENT
 END:VCALENDAR

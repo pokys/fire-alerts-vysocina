@@ -97,7 +97,7 @@ SUMMARY:🛠️ strom - Samšín
 LOCATION:Samšín
 GEO:49.492522;15.074679
 URL:geo:49.492522,15.074679
-DESCRIPTION:📍 Samšín\, Pelhřimov\n\n🚒 CAS (HS Pacov)
+DESCRIPTION:📍 Samšín\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 CAS (HS Pacov)
 END:VEVENT
 BEGIN:VEVENT
 UID:409566061
@@ -108,6 +108,6 @@ SUMMARY:🛠️ strom - Pelhřimov
 LOCATION:Pelhřimov
 GEO:49.444752;15.225656
 URL:geo:49.444752,15.225656
-DESCRIPTION:🚒 CAS (CHS Pelhřimov)
+DESCRIPTION:💬 Odstranění stromu.\n\n🚒 CAS (CHS Pelhřimov)
 END:VEVENT
 END:VCALENDAR
