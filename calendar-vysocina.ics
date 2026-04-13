@@ -528,4 +528,16 @@ URL:geo:49.429997,15.231594
 DESCRIPTION:📍 Jiráskova\, Pelhřimov\n💬 Otevření bytu.\n\n🚒 CAS (CHS Pelhřim
  ov)
 END:VEVENT
+BEGIN:VEVENT
+UID:409574061
+DTSTART:20260413T150513Z
+DTEND:20260413T160513Z
+DTSTAMP:20260413T150513Z
+SUMMARY:🛠️ ostatní - Ždírec nad Doubravou
+LOCATION:Luční\, Ždírec nad Doubravou
+GEO:49.693975;15.810209
+URL:geo:49.693975,15.810209
+DESCRIPTION:📍 Luční\, Ždírec nad Doubravou\, Havlíčkův Brod\n💬 Pročištění k
+ analizace.\n\n🚒 CAS (Ždírec nad Doubravou)
+END:VEVENT
 END:VCALENDAR
