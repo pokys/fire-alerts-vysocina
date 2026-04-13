@@ -423,8 +423,9 @@ URL:geo:49.292916,15.346591
 DESCRIPTION:📍 Nová Ves\, Batelov\, Jihlava\n\n🚒 CAS (HS Třešť)\n🚒 CAS (Bate
  lov)\n🚒 CAS (Horní Dubenky)\n🚒 přívěs motorová stříkačka (Batelov-Nová Ves
  )\n🚒 CAS (HS Telč)\n🚒 DA (Horní Cerekev)\n🚒 CAS (Horní Cerekev)\n🚒 CAS (Do
- lní Cerekev)\n🚒 CAS (Počátky)\n🚒 CAS (Mrákotín)\n🚒 CAS (Mrákotín)\n🚒 přívě
- s motorová stříkačka (Švábov)\n🚒 vyšetřovací automobil (ÚO Jihlava)
+ lní Cerekev)\n🚒 DA (Počátky)\n🚒 CAS (Počátky)\n🚒 CAS (Mrákotín)\n🚒 CAS (Mr
+ ákotín)\n🚒 přívěs motorová stříkačka (Švábov)\n🚒 vyšetřovací automobil (ÚO
+  Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:409554061
@@ -446,7 +447,7 @@ SUMMARY:🛠️ strom - Rohozná
 LOCATION:Rohozná
 GEO:49.364210;15.380725
 URL:geo:49.364210,15.380725
-DESCRIPTION:📍 Rohozná\, Jihlava\n\n🚒 CAS (Rohozná)
+DESCRIPTION:📍 Rohozná\, Jihlava\n💬 Odstranění stromu.\n\n🚒 CAS (Rohozná)
 END:VEVENT
 BEGIN:VEVENT
 UID:409559061
