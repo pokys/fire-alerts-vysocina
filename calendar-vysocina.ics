@@ -340,7 +340,7 @@ LOCATION:Batelov
 GEO:49.290918;15.392747
 URL:geo:49.290918,15.392747
 DESCRIPTION:📍 Rácov\, Batelov\, Jihlava\n💬 Odstranění stromu.\n\n🚒 CAS (Bat
- elov)
+ elov)\n🚒 pila řetězová (Batelov)
 END:VEVENT
 BEGIN:VEVENT
 UID:409552061
@@ -542,5 +542,17 @@ GEO:49.304433;15.070712
 URL:geo:49.304433,15.070712
 DESCRIPTION:📍 Pod Vodojemem\, Kamenice nad Lipou\, Pelhřimov\n💬 Tlakování k
  analizace.\n\n🚒 CAS (Kamenice nad Lipou)
+END:VEVENT
+BEGIN:VEVENT
+UID:409579061
+DTSTART:20260413T183046Z
+DTEND:20260413T193046Z
+DTSTAMP:20260413T183046Z
+SUMMARY:🔥 tráva/plocha - Rokytnice nad Rokytnou
+LOCATION:Rokytnice nad Rokytnou
+GEO:49.163186;15.804350
+URL:geo:49.163186,15.804350
+DESCRIPTION:📍 Rokytnice nad Rokytnou\, Třebíč\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS 
+ (CHS Třebíč)\n🚒 CAS (Čáslavice)\n🚒 CAS (Rokytnice nad Rokytnou)
 END:VEVENT
 END:VCALENDAR
