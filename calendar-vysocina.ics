@@ -468,7 +468,7 @@ LOCATION:Batelov
 GEO:49.297314;15.336438
 URL:geo:49.297314,15.336438
 DESCRIPTION:📍 Nová Ves\, Batelov\, Jihlava\n💬 Odstranění stromu.\n\n🚒 CAS (
- HS Třešť)
+ HS Třešť)\n🚒 pila řetězová (HS Třešť)
 END:VEVENT
 BEGIN:VEVENT
 UID:409570061
@@ -479,7 +479,8 @@ SUMMARY:🚗 dopravní nehoda - Pacov
 LOCATION:Pacov
 GEO:49.471988;15.003410
 URL:geo:49.471988,15.003410
-DESCRIPTION:📍 Pacov\, Pelhřimov\n\n🚒 CAS (HS Pacov)
+DESCRIPTION:📍 Pacov\, Pelhřimov\n💬 DN cyklisty a OA\, 1 zraněná osoba. Zabe
+ zpečení místa DN.\n\n🚒 CAS (HS Pacov)
 END:VEVENT
 BEGIN:VEVENT
 UID:409571061
@@ -502,7 +503,7 @@ SUMMARY:🛠️ strom - Slavětice
 LOCATION:Slavětice
 GEO:49.103535;16.107370
 URL:geo:49.103535,16.107370
-DESCRIPTION:📍 Slavětice\, Třebíč\n\n🚒 CAS (Slavětice)
+DESCRIPTION:📍 Slavětice\, Třebíč\n💬 Odstranění stromu.\n\n🚒 CAS (Slavětice)
 END:VEVENT
 BEGIN:VEVENT
 UID:409573061
