@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:409479061
-DTSTART:20260411T104803Z
-DTEND:20260411T114803Z
-DTSTAMP:20260411T104803Z
-SUMMARY:🚑 otevření/asistence - Třebíč
-LOCATION:Družstevní\, Třebíč
-GEO:49.205979;15.877931
-URL:geo:49.205979,15.877931
-DESCRIPTION:📍 Družstevní\, Horka-Domky\, Třebíč\n💬 Otevření bytu.\n\n🚒 CAS 
- (CHS Třebíč)
-END:VEVENT
-BEGIN:VEVENT
 UID:409481061
 DTSTART:20260411T114537Z
 DTEND:20260411T124537Z
@@ -435,7 +423,8 @@ URL:geo:49.292916,15.346591
 DESCRIPTION:📍 Nová Ves\, Batelov\, Jihlava\n\n🚒 CAS (HS Třešť)\n🚒 CAS (Bate
  lov)\n🚒 CAS (Horní Dubenky)\n🚒 přívěs motorová stříkačka (Batelov-Nová Ves
  )\n🚒 CAS (HS Telč)\n🚒 DA (Horní Cerekev)\n🚒 CAS (Horní Cerekev)\n🚒 CAS (Do
- lní Cerekev)\n🚒 CAS (Počátky)\n🚒 CAS (Mrákotín)\n🚒 CAS (Mrákotín)
+ lní Cerekev)\n🚒 CAS (Počátky)\n🚒 CAS (Mrákotín)\n🚒 CAS (Mrákotín)\n🚒 přívě
+ s motorová stříkačka (Švábov)
 END:VEVENT
 BEGIN:VEVENT
 UID:409554061
@@ -447,5 +436,16 @@ LOCATION:Havlíčkova Borová
 GEO:49.629862;15.778777
 URL:geo:49.629862,15.778777
 DESCRIPTION:📍 Havlíčkova Borová\, Havlíčkův Brod\n\n🚒 CAS (HS Chotěboř)
+END:VEVENT
+BEGIN:VEVENT
+UID:409556061
+DTSTART:20260413T103705Z
+DTEND:20260413T113705Z
+DTSTAMP:20260413T103705Z
+SUMMARY:🛠️ strom - Rohozná
+LOCATION:Rohozná
+GEO:49.364210;15.380725
+URL:geo:49.364210,15.380725
+DESCRIPTION:📍 Rohozná\, Jihlava\n\n🚒 CAS (Rohozná)
 END:VEVENT
 END:VCALENDAR
