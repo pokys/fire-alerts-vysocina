@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:409477061
-DTSTART:20260411T094920Z
-DTEND:20260411T104920Z
-DTSTAMP:20260411T094920Z
-SUMMARY:🛠️ ostatní - Stařeč
-LOCATION:Niva\, Stařeč
-GEO:49.196502;15.830184
-URL:geo:49.196502,15.830184
-DESCRIPTION:📍 Niva\, Stařeč\, Třebíč\n💬 Oplach komunikace.\n\n🚒 CAS (Stařeč
- )
-END:VEVENT
-BEGIN:VEVENT
 UID:409478061
 DTSTART:20260411T100102Z
 DTEND:20260411T110102Z
@@ -363,8 +351,8 @@ SUMMARY:🛠️ ostatní - Habry
 LOCATION:Habry
 GEO:49.756027;15.484858
 URL:geo:49.756027,15.484858
-DESCRIPTION:📍 Habry\, Havlíčkův Brod\n💬 Kropení komunikace.\n\n🚒 CAS (Habry
- )
+DESCRIPTION:📍 Habry\, Havlíčkův Brod\n💬 ZOČ. Kropení komunikace.\n\n🚒 CAS (
+ Habry)
 END:VEVENT
 BEGIN:VEVENT
 UID:409541061
@@ -431,7 +419,8 @@ DTEND:20260413T101351Z
 DTSTAMP:20260413T091351Z
 SUMMARY:🚗 se zraněním - Dešov
 LOCATION:Dešov
-DESCRIPTION:📍 Dešov\, Třebíč\n\n🚒 CAS (HS Jemnice)
+DESCRIPTION:📍 Dešov\, Třebíč\n💬 DN 1x OA se zraněním 1 osoby. Zajištění mís
+ ta nehody proti požáru a úniku provozních kapalin.\n\n🚒 CAS (HS Jemnice)
 END:VEVENT
 BEGIN:VEVENT
 UID:409550061
