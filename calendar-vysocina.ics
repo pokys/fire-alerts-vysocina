@@ -434,6 +434,18 @@ GEO:49.292916;15.346591
 URL:geo:49.292916,15.346591
 DESCRIPTION:📍 Nová Ves\, Batelov\, Jihlava\n\n🚒 CAS (HS Třešť)\n🚒 CAS (Bate
  lov)\n🚒 CAS (Horní Dubenky)\n🚒 přívěs motorová stříkačka (Batelov-Nová Ves
- )
+ )\n🚒 CAS (HS Telč)\n🚒 DA (Horní Cerekev)\n🚒 CAS (Horní Cerekev)\n🚒 CAS (Do
+ lní Cerekev)\n🚒 CAS (Počátky)\n🚒 CAS (Mrákotín)\n🚒 CAS (Mrákotín)
+END:VEVENT
+BEGIN:VEVENT
+UID:409554061
+DTSTART:20260413T103218Z
+DTEND:20260413T113218Z
+DTSTAMP:20260413T103218Z
+SUMMARY:🚗 bez zranění - Havlíčkova Borová
+LOCATION:Havlíčkova Borová
+GEO:49.629862;15.778777
+URL:geo:49.629862,15.778777
+DESCRIPTION:📍 Havlíčkova Borová\, Havlíčkův Brod\n\n🚒 CAS (HS Chotěboř)
 END:VEVENT
 END:VCALENDAR
