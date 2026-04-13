@@ -134,4 +134,17 @@ URL:geo:49.429997,15.231594
 DESCRIPTION:📍 Jiráskova\, Pelhřimov\n💬 Otevření bytu.\n\n🚒 CAS (CHS Pelhřim
  ov)
 END:VEVENT
+BEGIN:VEVENT
+UID:409576061
+DTSTART:20260413T162407Z
+DTEND:20260413T172407Z
+DTSTAMP:20260413T162407Z
+SUMMARY:🔥 budova - Černovice
+LOCATION:Jirákova\, Černovice
+GEO:49.373841;14.964610
+URL:geo:49.373841,14.964610
+DESCRIPTION:📍 Jirákova\, Černovice\, Pelhřimov\n\n🚒 CAS (HS Kamenice nad Li
+ pou)\n🚒 CAS (HS Kamenice nad Lipou)\n🚒 CAS (HS Pacov)\n🚒 CAS (HS Pacov)\n🚒
+  CAS (Černovice)
+END:VEVENT
 END:VCALENDAR
