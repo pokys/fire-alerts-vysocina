@@ -543,4 +543,16 @@ DESCRIPTION:📍 Rokytnice nad Rokytnou\, Třebíč\n💬 Požár hrabanky. Loka
   a likvidace.\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (CHS Třebíč)\n🚒 CAS (Čáslavice)
  \n🚒 CAS (Rokytnice nad Rokytnou)
 END:VEVENT
+BEGIN:VEVENT
+UID:409580061
+DTSTART:20260413T210614Z
+DTEND:20260413T220614Z
+DTSTAMP:20260413T210614Z
+SUMMARY:🔥 les - Chýstovice
+LOCATION:Chýstovice
+GEO:49.581869;15.067739
+URL:geo:49.581869,15.067739
+DESCRIPTION:📍 Jedlina\, Chýstovice\, Pelhřimov\n\n🚒 CAS (HS Pacov)\n🚒 CAS (
+ Košetice)\n🚒 osobní automobil (Chýstovice)
+END:VEVENT
 END:VCALENDAR
