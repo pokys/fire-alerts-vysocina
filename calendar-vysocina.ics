@@ -600,8 +600,9 @@ SUMMARY:🚗 se zraněním - Jihlava
 LOCATION:Fritzova\, Jihlava
 GEO:49.403188;15.587881
 URL:geo:49.403188,15.587881
-DESCRIPTION:📍 Fritzova\, Jihlava\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihlava
- )
+DESCRIPTION:📍 Fritzova\, Jihlava\n💬 Dopravní nehoda 2 OA\, dvě zraněné osob
+ y. Zajištění místa nehody a úklid komunikace.\n\n🚒 CAS (CHS Jihlava)\n🚒 RZ
+ A (CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:409612061
@@ -612,6 +613,7 @@ SUMMARY:🚗 dopravní nehoda - Rousměrov
 LOCATION:Rousměrov
 GEO:49.452503;16.037351
 URL:geo:49.452503,16.037351
-DESCRIPTION:📍 Rousměrov\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad Sázavou)
+DESCRIPTION:📍 Rousměrov\, Žďár nad Sázavou\n💬 DN motorky. 2 zraněné osoby v
+  péči ZZS. Zajištění místa nehody.\n\n🚒 CAS (CHS Žďár nad Sázavou)
 END:VEVENT
 END:VCALENDAR
