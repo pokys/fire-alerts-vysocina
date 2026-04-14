@@ -659,7 +659,8 @@ SUMMARY:🚑 spolupráce ZZS - Sazomín
 LOCATION:Sazomín
 GEO:49.504077;15.979725
 URL:geo:49.504077,15.979725
-DESCRIPTION:📍 Sazomín\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad Sázavou) ×2
+DESCRIPTION:📍 Sazomín\, Žďár nad Sázavou\n💬 Součinnost s PČR.\n\n🚒 CAS (CHS
+  Žďár nad Sázavou) ×2
 END:VEVENT
 BEGIN:VEVENT
 UID:409645061
@@ -697,5 +698,17 @@ URL:geo:49.633471,16.168099
 DESCRIPTION:📍 Široké Pole\, Nový Jimramov\, Žďár nad Sázavou\n\n🚒 CAS (CHS 
  Žďár nad Sázavou)\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (Jimramov)\n🚒 DA (N
  ový Jimramov)\n🚒 CAS (Sněžné)
+END:VEVENT
+BEGIN:VEVENT
+UID:409655061
+DTSTART:20260414T142318Z
+DTEND:20260414T152318Z
+DTSTAMP:20260414T142318Z
+SUMMARY:🛠️ ostatní - Bystřice nad Pernštejnem
+LOCATION:Hornická\, Bystřice nad Pernštejnem
+GEO:49.525218;16.250021
+URL:geo:49.525218,16.250021
+DESCRIPTION:📍 Hornická\, Bystřice nad Pernštejnem\, Žďár nad Sázavou\n\n🚒 C
+ AS (HS Bystřice nad Pernštejnem)
 END:VEVENT
 END:VCALENDAR
