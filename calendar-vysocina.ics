@@ -749,8 +749,8 @@ SUMMARY:🔥 venkovní požár - Mysliboř
 LOCATION:Mysliboř
 GEO:49.207900;15.462755
 URL:geo:49.207900,15.462755
-DESCRIPTION:📍 Mysliboř\, Jihlava\n\n🚒 CAS (HS Telč)\n🚒 CAS (HS Telč)\n🚒 CAS
-  (Mrákotín)\n🚒 CAS (Telč)
+DESCRIPTION:📍 Mysliboř\, Jihlava\n💬 Prolití nedohašeného ohniště.\n\n🚒 CAS 
+ (HS Telč)\n🚒 CAS (HS Telč)\n🚒 CAS (Mrákotín)\n🚒 CAS (Telč)
 END:VEVENT
 BEGIN:VEVENT
 UID:409664061
@@ -761,6 +761,7 @@ SUMMARY:🚑 otevření/asistence - Chotěboř
 LOCATION:Březová\, Chotěboř
 GEO:49.721028;15.675306
 URL:geo:49.721028,15.675306
-DESCRIPTION:📍 Březová\, Chotěboř\, Havlíčkův Brod\n\n🚒 CAS (HS Chotěboř)
+DESCRIPTION:📍 Březová\, Chotěboř\, Havlíčkův Brod\n💬 Otevření bytu.\n\n🚒 CA
+ S (HS Chotěboř)
 END:VEVENT
 END:VCALENDAR
