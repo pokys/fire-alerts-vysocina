@@ -751,4 +751,16 @@ DESCRIPTION:📍 Havlíčkova\, Chotěboř\, Havlíčkův Brod\n💬 Požár saz
  vém tělese.\n\n🚒 CAS (HS Chotěboř)\n🚒 CAS (Chotěboř)\n🚒 CAS (Libice nad Do
  ubravou)
 END:VEVENT
+BEGIN:VEVENT
+UID:409661061
+DTSTART:20260414T171147Z
+DTEND:20260414T181147Z
+DTSTAMP:20260414T171147Z
+SUMMARY:☣️ olej/PHM - Luka nad Jihlavou
+LOCATION:U Cihelny\, Luka nad Jihlavou
+GEO:49.382359;15.698888
+URL:geo:49.382359,15.698888
+DESCRIPTION:📍 U Cihelny\, Luka nad Jihlavou\, Jihlava\n\n🚒 CAS (Luka nad Ji
+ hlavou)
+END:VEVENT
 END:VCALENDAR
