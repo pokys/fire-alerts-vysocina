@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:409494061
-DTSTART:20260412T045003Z
-DTEND:20260412T055003Z
-DTSTAMP:20260412T045003Z
-SUMMARY:🛠️ ostatní - Humpolec
-LOCATION:Na Skalce\, Humpolec
-GEO:49.544809;15.351265
-URL:geo:49.544809,15.351265
-DESCRIPTION:📍 Na Skalce\, Humpolec\, Pelhřimov\n💬 Prasklé vodovodní potrubí
- . Zajištění místa události.\n\n🚒 CAS (HS Humpolec)
-END:VEVENT
-BEGIN:VEVENT
 UID:409496061
 DTSTART:20260412T051627Z
 DTEND:20260412T061627Z
@@ -580,5 +568,18 @@ URL:geo:49.400313,15.589195
 DESCRIPTION:📍 Havlíčkova\, Jihlava\n💬 Požár ohlášený systémem elektrické po
  žární signalizace. Průzkumem bylo zjištěno\, že se jedná o planý poplach.\
  n\n🚒 CAS (CHS Jihlava) ×2
+END:VEVENT
+BEGIN:VEVENT
+UID:409583061
+DTSTART:20260414T043535Z
+DTEND:20260414T053535Z
+DTSTAMP:20260414T043535Z
+SUMMARY:🚗 dopravní nehoda - Velké Meziříčí
+LOCATION:Velké Meziříčí
+GEO:49.356035;16.028172
+URL:geo:49.356035,16.028172
+DESCRIPTION:📍 Velké Meziříčí\, Žďár nad Sázavou\n💬 DN kamionu a OA se zraně
+ ním. Zajištění místa události.\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (HS Vel
+ ké Meziříčí)
 END:VEVENT
 END:VCALENDAR
