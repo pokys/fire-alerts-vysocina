@@ -564,7 +564,7 @@ SUMMARY:🛠️ ostatní - Dolní Cerekev
 LOCATION:Dolní Cerekev
 GEO:49.344486;15.456546
 URL:geo:49.344486,15.456546
-DESCRIPTION:📍 Dolní Cerekev\, Jihlava\n\n🚒 CAS (Dolní Cerekev)
+DESCRIPTION:📍 Dolní Cerekev\, Jihlava\n💬 ZOČ.\n\n🚒 CAS (Dolní Cerekev)
 END:VEVENT
 BEGIN:VEVENT
 UID:409605061
@@ -642,12 +642,12 @@ UID:409638061
 DTSTART:20260414T114206Z
 DTEND:20260414T124206Z
 DTSTAMP:20260414T114206Z
-SUMMARY:🔥 vozidlo - Velké Meziříčí
+SUMMARY:⚠️ planý poplach - Velké Meziříčí
 LOCATION:Velké Meziříčí
 GEO:49.363364;15.997681
 URL:geo:49.363364,15.997681
-DESCRIPTION:📍 Velké Meziříčí\, Žďár nad Sázavou\n\n🚒 CAS (HS Velká Bíteš)\n
- 🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)
+DESCRIPTION:📍 Velké Meziříčí\, Žďár nad Sázavou\n💬 Planý poplach.\n\n🚒 CAS 
+ (HS Velká Bíteš)\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)
 END:VEVENT
 BEGIN:VEVENT
 UID:409639061
@@ -660,5 +660,16 @@ GEO:49.609486;15.571276
 URL:geo:49.609486,15.571276
 DESCRIPTION:📍 Husova\, Havlíčkův Brod\n💬 taktické cvičení\n\n🚒 CAS (CHS Hav
  líčkův Brod)\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 AŽ (CHS Havlíčkův Brod)
+END:VEVENT
+BEGIN:VEVENT
+UID:409642061
+DTSTART:20260414T122836Z
+DTEND:20260414T132836Z
+DTSTAMP:20260414T122836Z
+SUMMARY:🚑 spolupráce ZZS - Sazomín
+LOCATION:Sazomín
+GEO:49.504077;15.979725
+URL:geo:49.504077,15.979725
+DESCRIPTION:📍 Sazomín\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad Sázavou)
 END:VEVENT
 END:VCALENDAR
