@@ -681,7 +681,20 @@ SUMMARY:🛠️ otevření bytu/auta - Telč
 LOCATION:U Horní brány\, Telč
 GEO:49.182005;15.454931
 URL:geo:49.182005,15.454931
-DESCRIPTION:📍 U Horní brány\, Telč-Podolí\, Telč\, Jihlava\n\n🚒 CAS (HS Tel
- č)
+DESCRIPTION:📍 U Horní brány\, Telč-Podolí\, Telč\, Jihlava\n💬 Otevření bytu
+ .\n\n🚒 CAS (HS Telč)
+END:VEVENT
+BEGIN:VEVENT
+UID:409651061
+DTSTART:20260414T133208Z
+DTEND:20260414T143208Z
+DTSTAMP:20260414T133208Z
+SUMMARY:🔥 les - Nový Jimramov
+LOCATION:Nový Jimramov
+GEO:49.633471;16.168099
+URL:geo:49.633471,16.168099
+DESCRIPTION:📍 Široké Pole\, Nový Jimramov\, Žďár nad Sázavou\n\n🚒 CAS (CHS 
+ Žďár nad Sázavou)\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (Jimramov)\n🚒 DA (N
+ ový Jimramov)\n🚒 CAS (Sněžné)
 END:VEVENT
 END:VCALENDAR
