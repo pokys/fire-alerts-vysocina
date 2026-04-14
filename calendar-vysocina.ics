@@ -564,7 +564,8 @@ SUMMARY:🛠️ strom - Kostelec
 LOCATION:Kostelec
 GEO:49.365854;15.462756
 URL:geo:49.365854,15.462756
-DESCRIPTION:📍 Kostelec\, Jihlava\n💬 Odstranění stromu.\n\n🚒 CAS (HS Třešť)
+DESCRIPTION:📍 Kostelec\, Jihlava\n💬 Odstranění stromu.\n\n🚒 CAS (HS Třešť)\
+ n🚒 pila řetězová (HS Třešť)
 END:VEVENT
 BEGIN:VEVENT
 UID:409601061
@@ -623,6 +624,7 @@ SUMMARY:🛠️ otevření bytu/auta - Třešť
 LOCATION:Nerudova\, Třešť
 GEO:49.290146;15.480859
 URL:geo:49.290146,15.480859
-DESCRIPTION:📍 Nerudova\, Třešť\, Jihlava\n\n🚒 CAS (HS Třešť)
+DESCRIPTION:📍 Nerudova\, Třešť\, Jihlava\n💬 Otevření bytu.\n\n🚒 CAS (HS Tře
+ šť)
 END:VEVENT
 END:VCALENDAR
