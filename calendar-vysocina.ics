@@ -309,7 +309,7 @@ GEO:49.434097;15.430062
 URL:geo:49.434097,15.430062
 DESCRIPTION:📍 Zbilidy\, Jihlava\n💬 Požár lesa. Likvidace a lokalizace událo
  sti.\n\n🚒 CAS (CHS Jihlava)\n🚒 CAS (Opatov (JI))\n🚒 CAS (Větrný Jeníkov)\n
- 🚒 CAS (Zbilidy) ×2\n🚒 CAS (Hojkov)\n🚒 CAS (Nový Rychnov)\n🚒 CAS (Herálec (
+ 🚒 CAS (Zbilidy) ×3\n🚒 CAS (Hojkov)\n🚒 CAS (Nový Rychnov)\n🚒 CAS (Herálec (
  HB))\n🚒 DA (Jihlava-Bedřichov)\n🚒 CAS (Jihlava-Bedřichov)\n🚒 přívěs skříňo
  vý (Jihlava-Bedřichov)\n🚒 CAS (Dolní Cerekev)\n🚒 vyšetřovací automobil (KŘ
   HZS VYS)
@@ -722,7 +722,8 @@ SUMMARY:☣️ olej/PHM - Okříšky
 LOCATION:Okříšky
 GEO:49.244180;15.772282
 URL:geo:49.244180,15.772282
-DESCRIPTION:📍 Okříšky\, Třebíč\n\n🚒 CAS (CHS Třebíč)
+DESCRIPTION:📍 Okříšky\, Třebíč\n💬 Odstranění uniklé nafty z komunikace pomo
+ cí sorbentu.\n\n🚒 CAS (CHS Třebíč)
 END:VEVENT
 BEGIN:VEVENT
 UID:409657061
@@ -733,7 +734,8 @@ SUMMARY:🔥 saze v komíně - Jezdovice
 LOCATION:Jezdovice
 GEO:49.321810;15.482526
 URL:geo:49.321810,15.482526
-DESCRIPTION:📍 Jezdovice\, Jihlava\n\n🚒 CAS (HS Třešť)\n🚒 CAS (Batelov)\n🚒 C
- AS (Dolní Cerekev)\n🚒 CAS (Jezdovice)
+DESCRIPTION:📍 Jezdovice\, Jihlava\n💬 Požár sazí v komíně.  Lokalizace a lik
+ vidace události.\n\n🚒 CAS (HS Třešť)\n🚒 CAS (Batelov)\n🚒 CAS (Dolní Cereke
+ v)\n🚒 CAS (Jezdovice)
 END:VEVENT
 END:VCALENDAR
