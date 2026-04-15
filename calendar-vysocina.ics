@@ -5,24 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:409552061
-DTSTART:20260413T095304Z
-DTEND:20260413T105304Z
-DTSTAMP:20260413T095304Z
-SUMMARY:🔥 les - Batelov
-LOCATION:Batelov
-GEO:49.292916;15.346591
-URL:geo:49.292916,15.346591
-DESCRIPTION:📍 Nová Ves\, Batelov\, Jihlava\n💬 Požár lesa. Likvidace a lokal
- izace události.\n\n🚒 CAS (HS Třešť)\n🚒 CAS (HS Třešť)\n🚒 pila řetězová (HS
-  Třešť)\n🚒 DA (Batelov)\n🚒 CAS (Batelov)\n🚒 CAS (Horní Dubenky)\n🚒 přívěs 
- motorová stříkačka (Batelov-Nová Ves)\n🚒 CAS (HS Telč)\n🚒 DA (Horní Cereke
- v)\n🚒 CAS (Horní Cerekev)\n🚒 CAS (Dolní Cerekev)\n🚒 DA (Počátky)\n🚒 CAS (P
- očátky)\n🚒 CAS (Mrákotín)\n🚒 CAS (Mrákotín)\n🚒 CAS (Studená)\n🚒 vrtulník (
- CHS Brno - Lidická vrtulník)\n🚒 přívěs motorová stříkačka (Švábov)\n🚒 vyše
- třovací automobil (ÚO Jihlava)
-END:VEVENT
-BEGIN:VEVENT
 UID:409554061
 DTSTART:20260413T103218Z
 DTEND:20260413T113218Z
