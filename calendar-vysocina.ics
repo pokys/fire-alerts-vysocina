@@ -605,4 +605,16 @@ DESCRIPTION:📍 Těmice\, Pelhřimov\n\n🚒 CAS (HS Kamenice nad Lipou)\n🚒 
  S Kamenice nad Lipou)\n🚒 CAS (Černovice)\n🚒 CAS (Kamenice nad Lipou)\n🚒 CA
  S (Těmice)
 END:VEVENT
+BEGIN:VEVENT
+UID:409696061
+DTSTART:20260415T104422Z
+DTEND:20260415T114422Z
+DTSTAMP:20260415T104422Z
+SUMMARY:🔥 venkovní požár - Velké Meziříčí
+LOCATION:Velké Meziříčí
+GEO:49.348370;16.018890
+URL:geo:49.348370,16.018890
+DESCRIPTION:📍 Velké Meziříčí\, Žďár nad Sázavou\n\n🚒 CAS (HS Velké Meziříčí
+ )\n🚒 RZA (HS Velké Meziříčí)
+END:VEVENT
 END:VCALENDAR
