@@ -725,8 +725,8 @@ SUMMARY:🔥 venkovní požár - Mysliboř
 LOCATION:Mysliboř
 GEO:49.207900;15.462755
 URL:geo:49.207900,15.462755
-DESCRIPTION:📍 Mysliboř\, Jihlava\n💬 Prolití nedohašeného ohniště.\n\n🚒 CAS 
- (HS Telč)\n🚒 CAS (HS Telč)\n🚒 CAS (Mrákotín)\n🚒 CAS (Telč)
+DESCRIPTION:📍 Mysliboř\, Jihlava\n💬 Prolití nedohašeného ohniště. Beze škod
+ y.\n\n🚒 CAS (HS Telč)\n🚒 CAS (HS Telč)\n🚒 CAS (Mrákotín)\n🚒 CAS (Telč)
 END:VEVENT
 BEGIN:VEVENT
 UID:409664061
@@ -761,7 +761,8 @@ SUMMARY:🔥 vozidlo - Jamné
 LOCATION:Jamné
 GEO:49.429721;15.715091
 URL:geo:49.429721,15.715091
-DESCRIPTION:📍 Jamné\, Jihlava\n\n🚒 CAS (HS Polná)\n🚒 DA (Jamné)\n🚒 vyšetřov
- ací automobil (ÚO Jihlava)
+DESCRIPTION:📍 Jamné\, Jihlava\n💬 Požár OA\, škoda 3000\, uhašeno před příje
+ zdem jednotky.\n\n🚒 CAS (HS Polná)\n🚒 DA (Jamné)\n🚒 vyšetřovací automobil 
+ (ÚO Jihlava)
 END:VEVENT
 END:VCALENDAR
