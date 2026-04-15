@@ -137,4 +137,16 @@ DESCRIPTION:📍 Těmice\, Pelhřimov\n\n🚒 CAS (HS Kamenice nad Lipou)\n🚒 
  S Kamenice nad Lipou)\n🚒 CAS (Černovice)\n🚒 CAS (Kamenice nad Lipou)\n🚒 CA
  S (Těmice)
 END:VEVENT
+BEGIN:VEVENT
+UID:409704061
+DTSTART:20260415T111732Z
+DTEND:20260415T121732Z
+DTSTAMP:20260415T111732Z
+SUMMARY:🛠️ ostatní - Kamenice nad Lipou
+LOCATION:Masarykova\, Kamenice nad Lipou
+GEO:49.294024;15.076948
+URL:geo:49.294024,15.076948
+DESCRIPTION:📍 Masarykova\, Kamenice nad Lipou\, Pelhřimov\n\n🚒 CAS (Kamenic
+ e nad Lipou)
+END:VEVENT
 END:VCALENDAR
