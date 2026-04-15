@@ -5,42 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:409536061
-DTSTART:20260413T080502Z
-DTEND:20260413T090502Z
-DTSTAMP:20260413T080502Z
-SUMMARY:🛠️ strom - Těmice
-LOCATION:Těmice
-GEO:49.360933;15.085250
-URL:geo:49.360933,15.085250
-DESCRIPTION:📍 Drahoňov\, Těmice\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 CAS 
- (HS Kamenice nad Lipou)
-END:VEVENT
-BEGIN:VEVENT
-UID:409537061
-DTSTART:20260413T080519Z
-DTEND:20260413T090519Z
-DTSTAMP:20260413T080519Z
-SUMMARY:🛠️ strom - Kamenná Lhota
-LOCATION:Kamenná Lhota
-GEO:49.642032;15.262687
-URL:geo:49.642032,15.262687
-DESCRIPTION:📍 Dolní Paseka\, Kamenná Lhota\, Havlíčkův Brod\n💬 Odstranění s
- tromu.\n\n🚒 CAS (HS Ledeč nad Sázavou)
-END:VEVENT
-BEGIN:VEVENT
-UID:409538061
-DTSTART:20260413T080916Z
-DTEND:20260413T090916Z
-DTSTAMP:20260413T080916Z
-SUMMARY:🛠️ ostatní - Habry
-LOCATION:Habry
-GEO:49.756027;15.484858
-URL:geo:49.756027,15.484858
-DESCRIPTION:📍 Habry\, Havlíčkův Brod\n💬 ZOČ. Kropení komunikace.\n\n🚒 CAS (
- Habry)
-END:VEVENT
-BEGIN:VEVENT
 UID:409541061
 DTSTART:20260413T082405Z
 DTEND:20260413T092405Z
@@ -713,8 +677,8 @@ SUMMARY:🛠️ strom - Polná
 LOCATION:Polná
 GEO:49.492243;15.771911
 URL:geo:49.492243,15.771911
-DESCRIPTION:📍 Skrýšov\, Polná\, Jihlava\n\n🚒 automobilová plošina do 30 m (
- HS Polná)
+DESCRIPTION:📍 Skrýšov\, Polná\, Jihlava\n💬 Odstranění stromu.\n\n🚒 automobi
+ lová plošina do 30 m (HS Polná)
 END:VEVENT
 BEGIN:VEVENT
 UID:409681061
@@ -723,9 +687,9 @@ DTEND:20260415T084821Z
 DTSTAMP:20260415T074821Z
 SUMMARY:🛠️ strom - Pavlov
 LOCATION:Pavlov
-GEO:49.689695;15.333013
-URL:geo:49.689695,15.333013
-DESCRIPTION:📍 Pavlov\, Havlíčkův Brod\n\n🚒 CAS (HS Ledeč nad Sázavou)\n🚒 au
- tomobilová plošina do 30 m (HS Světlá nad Sázavou)
+GEO:49.692841;15.341066
+URL:geo:49.692841,15.341066
+DESCRIPTION:📍 Pavlov\, Havlíčkův Brod\n💬 Odstranění stromu.\n\n🚒 CAS (HS Le
+ deč nad Sázavou)\n🚒 automobilová plošina do 30 m (HS Světlá nad Sázavou)
 END:VEVENT
 END:VCALENDAR
