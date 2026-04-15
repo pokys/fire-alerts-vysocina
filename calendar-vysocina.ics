@@ -566,6 +566,19 @@ DESCRIPTION:📍 Těmice\, Pelhřimov\n💬 Požár lesního porostu. Provedena 
  ce)
 END:VEVENT
 BEGIN:VEVENT
+UID:409696061
+DTSTART:20260415T104422Z
+DTEND:20260415T114422Z
+DTSTAMP:20260415T104422Z
+SUMMARY:🔥 venkovní požár - Velké Meziříčí
+LOCATION:Velké Meziříčí
+GEO:49.348370;16.018890
+URL:geo:49.348370,16.018890
+DESCRIPTION:📍 Velké Meziříčí\, Žďár nad Sázavou\n💬 Požár odpadu.\n\n🚒 CAS (
+ HS Velké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)\n🚒 vyšetřovací automobil (ÚO
+  Žďár nad Sázavou)\n🚒 DA (SŽ Havlíčkův Brod)
+END:VEVENT
+BEGIN:VEVENT
 UID:409704061
 DTSTART:20260415T111732Z
 DTEND:20260415T121732Z
@@ -574,8 +587,8 @@ SUMMARY:🛠️ ostatní - Kamenice nad Lipou
 LOCATION:Masarykova\, Kamenice nad Lipou
 GEO:49.294024;15.076948
 URL:geo:49.294024,15.076948
-DESCRIPTION:📍 Masarykova\, Kamenice nad Lipou\, Pelhřimov\n\n🚒 CAS (Kamenic
- e nad Lipou)
+DESCRIPTION:📍 Masarykova\, Kamenice nad Lipou\, Pelhřimov\n💬 Oplach komunik
+ ace.\n\n🚒 CAS (Kamenice nad Lipou)
 END:VEVENT
 BEGIN:VEVENT
 UID:409705061
