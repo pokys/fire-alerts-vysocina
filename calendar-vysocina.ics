@@ -553,6 +553,19 @@ SUMMARY:☣️ olej/PHM - Chotěboř
 LOCATION:Palackého\, Chotěboř
 GEO:49.722646;15.671792
 URL:geo:49.722646,15.671792
-DESCRIPTION:📍 Palackého\, Chotěboř\, Havlíčkův Brod\n\n🚒 CAS (HS Chotěboř)
+DESCRIPTION:📍 Palackého\, Chotěboř\, Havlíčkův Brod\n💬 Úklid oleje z komuni
+ kace.\n\n🚒 CAS (HS Chotěboř)
+END:VEVENT
+BEGIN:VEVENT
+UID:409729061
+DTSTART:20260415T174657Z
+DTEND:20260415T184657Z
+DTSTAMP:20260415T174657Z
+SUMMARY:🚑 Chotěboř
+LOCATION:Větrná\, Chotěboř
+GEO:49.711781;15.665699
+URL:geo:49.711781,15.665699
+DESCRIPTION:📍 Větrná\, Chotěboř\, Havlíčkův Brod\n💬 Odchyt ptáka.\n\n🚒 CAS 
+ (HS Chotěboř)
 END:VEVENT
 END:VCALENDAR
