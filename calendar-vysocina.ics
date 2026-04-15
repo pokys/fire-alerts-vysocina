@@ -5,20 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:409559061
-DTSTART:20260413T110634Z
-DTEND:20260413T120634Z
-DTSTAMP:20260413T110634Z
-SUMMARY:🔥 budova - Česká Bělá
-LOCATION:Česká Bělá
-GEO:49.643665;15.738212
-URL:geo:49.643665,15.738212
-DESCRIPTION:📍 Cibotín\, Česká Bělá\, Havlíčkův Brod\n💬 Požár přístřešku. Pr
- ovedena lokalizace a likvidace.\n\n🚒 CAS (HS Chotěboř)\n🚒 CAS (HS Chotěboř
- )\n🚒 CAS (Česká Bělá)\n🚒 CAS (Havlíčkova Borová)\n🚒 vyšetřovací automobil 
- (ÚO Havlíčkův Brod)
-END:VEVENT
-BEGIN:VEVENT
 UID:409561061
 DTSTART:20260413T114303Z
 DTEND:20260413T124303Z
@@ -615,6 +601,7 @@ LOCATION:Velké Meziříčí
 GEO:49.348370;16.018890
 URL:geo:49.348370,16.018890
 DESCRIPTION:📍 Velké Meziříčí\, Žďár nad Sázavou\n\n🚒 CAS (HS Velké Meziříčí
- )\n🚒 RZA (HS Velké Meziříčí)
+ )\n🚒 RZA (HS Velké Meziříčí)\n🚒 vyšetřovací automobil (ÚO Žďár nad Sázavou
+ )
 END:VEVENT
 END:VCALENDAR
