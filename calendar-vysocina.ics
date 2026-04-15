@@ -645,4 +645,16 @@ URL:geo:49.692841,15.341066
 DESCRIPTION:📍 Pavlov\, Havlíčkův Brod\n💬 Odstranění stromu.\n\n🚒 CAS (HS Le
  deč nad Sázavou)\n🚒 automobilová plošina do 30 m (HS Světlá nad Sázavou)
 END:VEVENT
+BEGIN:VEVENT
+UID:409683061
+DTSTART:20260415T084322Z
+DTEND:20260415T094322Z
+DTSTAMP:20260415T084322Z
+SUMMARY:🛠️ ostatní - Žďár nad Sázavou
+LOCATION:Strojírenská\, Žďár nad Sázavou
+GEO:49.561050;15.931049
+URL:geo:49.561050,15.931049
+DESCRIPTION:📍 Strojírenská\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n\n🚒 CAS
+  (CHS Žďár nad Sázavou)
+END:VEVENT
 END:VCALENDAR
