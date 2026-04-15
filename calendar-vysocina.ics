@@ -5,29 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:409545061
-DTSTART:20260413T090648Z
-DTEND:20260413T100648Z
-DTSTAMP:20260413T090648Z
-SUMMARY:🔥 les - Jedlá
-LOCATION:Jedlá
-GEO:49.723531;15.254637
-URL:geo:49.723531,15.254637
-DESCRIPTION:📍 Dobrá Voda\, Jedlá\, Havlíčkův Brod\n💬 Požár lesa.  Lokalizac
- e a likvidace události.\n\n🚒 CAS (HS Ledeč nad Sázavou)\n🚒 CAS (Jedlá)\n🚒 
- CAS (Ledeč nad Sázavou)
-END:VEVENT
-BEGIN:VEVENT
-UID:409546061
-DTSTART:20260413T091351Z
-DTEND:20260413T101351Z
-DTSTAMP:20260413T091351Z
-SUMMARY:🚗 se zraněním - Dešov
-LOCATION:Dešov
-DESCRIPTION:📍 Dešov\, Třebíč\n💬 DN 1 OA\, jedna zraněná osoba. Zajištění mí
- sta nehody proti požáru a úniku provozních kapalin.\n\n🚒 CAS (HS Jemnice)
-END:VEVENT
-BEGIN:VEVENT
 UID:409550061
 DTSTART:20260413T092459Z
 DTEND:20260413T102459Z
@@ -631,7 +608,7 @@ LOCATION:Polná
 GEO:49.492243;15.771911
 URL:geo:49.492243,15.771911
 DESCRIPTION:📍 Skrýšov\, Polná\, Jihlava\n💬 Odstranění stromu.\n\n🚒 automobi
- lová plošina do 30 m (HS Polná)
+ lová plošina do 30 m (HS Polná)\n🚒 pila řetězová (HS Polná)
 END:VEVENT
 BEGIN:VEVENT
 UID:409681061
@@ -654,7 +631,7 @@ SUMMARY:🛠️ ostatní - Žďár nad Sázavou
 LOCATION:Strojírenská\, Žďár nad Sázavou
 GEO:49.561050;15.931049
 URL:geo:49.561050,15.931049
-DESCRIPTION:📍 Strojírenská\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n\n🚒 CAS
-  (CHS Žďár nad Sázavou)
+DESCRIPTION:📍 Strojírenská\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n💬 Techn
+ ická pomoc.\n\n🚒 CAS (CHS Žďár nad Sázavou)
 END:VEVENT
 END:VCALENDAR
