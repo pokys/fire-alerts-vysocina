@@ -453,7 +453,8 @@ LOCATION:Jihlava
 GEO:49.449746;15.610791
 URL:geo:49.449746,15.610791
 DESCRIPTION:📍 Pávov\, Jihlava\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihlava)\n
- 🚒 HVZ - nástroj střihací (CHS Jihlava)
+ 🚒 HVZ - nástroj střihací (CHS Jihlava)\n🚒 HVZ - nástroj rozpínací s čelist
+ mi (CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:409739061
@@ -464,12 +465,12 @@ SUMMARY:☣️ neznámá látka - Havlíčkův Brod
 LOCATION:Mírová\, Havlíčkův Brod
 GEO:49.596363;15.603688
 URL:geo:49.596363,15.603688
-DESCRIPTION:📍 Mírová\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 auto
- mobilový nosič kontejnerů (CHS Havlíčkův Brod) ×2\n🚒 účelový automobil do 
- 3500 kg (CHS Havlíčkův Brod) ×2\n🚒 přívěs lodní (CHS Havlíčkův Brod)\n🚒 ko
- ntejner technický - chemický (CHS Havlíčkův Brod)\n🚒 kontejner nákladní (C
- HS Havlíčkův Brod)\n🚒 CAS (CHS Jihlava)\n🚒 automobilový nosič kontejnerů (
- CHS Jihlava)\n🚒 kontejner povodňový (CHS Jihlava)\n🚒 DA (Havlíčkův Brod-Pe
- rknov)
+DESCRIPTION:📍 Mírová\, Havlíčkův Brod\n💬 Taktické cvičení.\n\n🚒 CAS (CHS Ha
+ vlíčkův Brod)\n🚒 automobilový nosič kontejnerů (CHS Havlíčkův Brod) ×2\n🚒 
+ účelový automobil do 3500 kg (CHS Havlíčkův Brod) ×2\n🚒 přívěs lodní (CHS 
+ Havlíčkův Brod)\n🚒 kontejner technický - chemický (CHS Havlíčkův Brod)\n🚒 
+ kontejner nákladní (CHS Havlíčkův Brod)\n🚒 CAS (CHS Jihlava)\n🚒 automobilo
+ vý nosič kontejnerů (CHS Jihlava)\n🚒 kontejner povodňový (CHS Jihlava)\n🚒 
+ DA (Havlíčkův Brod-Perknov)
 END:VEVENT
 END:VCALENDAR
