@@ -352,8 +352,9 @@ GEO:49.471095;15.003685
 URL:geo:49.471095,15.003685
 DESCRIPTION:📍 Hronova\, Pacov\, Pelhřimov\n💬 Požár tělocvičny v rekonstrukc
  i\, bez zranění. Provedena lokalizace a likvidace požáru.\n\n🚒 CAS (HS Pac
- ov)\n🚒 CAS (HS Pacov)\n🚒 CAS (Pacov)\n🚒 osobní automobil (Pacov)\n🚒 CAS (O
- brataň)\n🚒 CAS (Pacov-Jetřichovec)\n🚒 vyšetřovací automobil (ÚO Pelhřimov)
+ ov)\n🚒 CAS (HS Pacov)\n🚒 přetlakový ventilátor (HS Pacov)\n🚒 CAS (Pacov)\n
+ 🚒 osobní automobil (Pacov)\n🚒 CAS (Obrataň)\n🚒 CAS (Pacov-Jetřichovec)\n🚒 
+ vyšetřovací automobil (ÚO Pelhřimov)
 END:VEVENT
 BEGIN:VEVENT
 UID:409753061
@@ -366,5 +367,16 @@ GEO:49.207263;16.158485
 URL:geo:49.207263,16.158485
 DESCRIPTION:📍 Náměšť nad Oslavou\, Třebíč\n💬 Dohašení ohniště po pálení. Lo
  kalizace a likvidace.\n\n🚒 CAS (HS Náměšť nad Oslavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:409755061
+DTSTART:20260416T181512Z
+DTEND:20260416T191512Z
+DTSTAMP:20260416T181512Z
+SUMMARY:🚑 spolupráce ZZS - Nížkov
+LOCATION:Nížkov
+GEO:49.529599;15.809777
+URL:geo:49.529599,15.809777
+DESCRIPTION:📍 Nížkov\, Žďár nad Sázavou\n\n🚒 CAS (HS Polná)
 END:VEVENT
 END:VCALENDAR
