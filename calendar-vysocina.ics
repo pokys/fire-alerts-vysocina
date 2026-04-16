@@ -337,9 +337,9 @@ DESCRIPTION:📍 Masarykova\, Kamenice nad Lipou\, Pelhřimov\n💬 Oplach komun
 END:VEVENT
 BEGIN:VEVENT
 UID:409705061
-DTSTART:20260415T114359Z
-DTEND:20260415T124359Z
-DTSTAMP:20260415T114359Z
+DTSTART:20260415T114551Z
+DTEND:20260415T124551Z
+DTSTAMP:20260415T114551Z
 SUMMARY:🚑 transport pacienta - Jihlava
 LOCATION:Březinova\, Jihlava
 GEO:49.399198;15.607100
@@ -452,9 +452,10 @@ SUMMARY:🚗 se zraněním - Jihlava
 LOCATION:Jihlava
 GEO:49.449746;15.610791
 URL:geo:49.449746,15.610791
-DESCRIPTION:📍 Pávov\, Jihlava\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihlava)\n
- 🚒 HVZ - nástroj střihací (CHS Jihlava)\n🚒 HVZ - nástroj rozpínací s čelist
- mi (CHS Jihlava)
+DESCRIPTION:📍 Pávov\, Jihlava\n💬 DN 1 NA se zraněním jedné osoby. Vyproštěn
+ í řidiče z kabiny. Zajištění místa události.\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA
+  (CHS Jihlava)\n🚒 HVZ - nástroj střihací (CHS Jihlava)\n🚒 HVZ - nástroj ro
+ zpínací s čelistmi (CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:409739061
