@@ -377,7 +377,8 @@ SUMMARY:🚑 spolupráce ZZS - Nížkov
 LOCATION:Nížkov
 GEO:49.529599;15.809777
 URL:geo:49.529599,15.809777
-DESCRIPTION:📍 Nížkov\, Žďár nad Sázavou\n\n🚒 CAS (HS Polná)
+DESCRIPTION:📍 Nížkov\, Žďár nad Sázavou\n💬 Spolupráce se ZZS.\n\n🚒 CAS (HS 
+ Polná)
 END:VEVENT
 BEGIN:VEVENT
 UID:409757061
@@ -388,7 +389,7 @@ SUMMARY:🛠️ otevření bytu/auta - Velké Meziříčí
 LOCATION:Zdenky Vorlové\, Velké Meziříčí
 GEO:49.345808;16.008496
 URL:geo:49.345808,16.008496
-DESCRIPTION:📍 Zdenky Vorlové\, Velké Meziříčí\, Žďár nad Sázavou\n\n🚒 RZA (
- HS Velké Meziříčí)
+DESCRIPTION:📍 Zdenky Vorlové\, Velké Meziříčí\, Žďár nad Sázavou\n💬 Otevřen
+ í bytu.\n\n🚒 RZA (HS Velké Meziříčí)
 END:VEVENT
 END:VCALENDAR
