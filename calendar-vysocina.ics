@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:409660061
-DTSTART:20260414T165823Z
-DTEND:20260414T175823Z
-DTSTAMP:20260414T165823Z
-SUMMARY:🔥 saze v komíně - Chotěboř
-LOCATION:Havlíčkova\, Chotěboř
-GEO:49.714057;15.665736
-URL:geo:49.714057,15.665736
-DESCRIPTION:📍 Havlíčkova\, Chotěboř\, Havlíčkův Brod\n💬 Požár sazí v komíno
- vém tělese.\n\n🚒 CAS (HS Chotěboř)\n🚒 CAS (Chotěboř)\n🚒 CAS (Libice nad Do
- ubravou)
-END:VEVENT
-BEGIN:VEVENT
 UID:409661061
 DTSTART:20260414T171147Z
 DTEND:20260414T181147Z
@@ -389,7 +376,18 @@ GEO:49.471095;15.003685
 URL:geo:49.471095,15.003685
 DESCRIPTION:📍 Hronova\, Pacov\, Pelhřimov\n💬 Požár tělocvičny v rekonstrukc
  i\, bez zranění. Provedena lokalizace a likvidace požáru.\n\n🚒 CAS (HS Pac
- ov)\n🚒 CAS (HS Pacov)\n🚒 CAS (Pacov)\n🚒 CAS (Obrataň)\n🚒 CAS (Pacov-Jetřic
- hovec)\n🚒 vyšetřovací automobil (ÚO Pelhřimov)
+ ov)\n🚒 CAS (HS Pacov)\n🚒 CAS (Pacov)\n🚒 osobní automobil (Pacov)\n🚒 CAS (O
+ brataň)\n🚒 CAS (Pacov-Jetřichovec)\n🚒 vyšetřovací automobil (ÚO Pelhřimov)
+END:VEVENT
+BEGIN:VEVENT
+UID:409753061
+DTSTART:20260416T164456Z
+DTEND:20260416T174456Z
+DTSTAMP:20260416T164456Z
+SUMMARY:🔥 les - Náměšť nad Oslavou
+LOCATION:Náměšť nad Oslavou
+GEO:49.207263;16.158485
+URL:geo:49.207263,16.158485
+DESCRIPTION:📍 Náměšť nad Oslavou\, Třebíč\n\n🚒 CAS (HS Náměšť nad Oslavou)
 END:VEVENT
 END:VCALENDAR
