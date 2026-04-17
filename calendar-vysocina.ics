@@ -368,4 +368,17 @@ URL:geo:49.313656,15.398454
 DESCRIPTION:📍 Třešťská\, Batelov\, Jihlava\n💬 Transport pacienta pro ZZS.\n
  \n🚒 CAS (HS Třešť)\n🚒 CAS (Batelov)
 END:VEVENT
+BEGIN:VEVENT
+UID:409760061
+DTSTART:20260417T002156Z
+DTEND:20260417T012156Z
+DTSTAMP:20260417T002156Z
+SUMMARY:🔥 vozidlo - Štoky
+LOCATION:Štoky
+GEO:49.506111;15.586267
+URL:geo:49.506111,15.586267
+DESCRIPTION:📍 Štoky\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 CAS (
+ CHS Havlíčkův Brod)\n🚒 CAS (Štoky)\n🚒 vyšetřovací automobil (ÚO Havlíčkův 
+ Brod)
+END:VEVENT
 END:VCALENDAR
