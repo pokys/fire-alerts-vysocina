@@ -329,8 +329,8 @@ SUMMARY:🔥 venkovní požár - Náměšť nad Oslavou
 LOCATION:Náměšť nad Oslavou
 GEO:49.207263;16.158485
 URL:geo:49.207263,16.158485
-DESCRIPTION:📍 Náměšť nad Oslavou\, Třebíč\n💬 Dohašení ohniště po pálení. Lo
- kalizace a likvidace.\n\n🚒 CAS (HS Náměšť nad Oslavou)
+DESCRIPTION:📍 Náměšť nad Oslavou\, Třebíč\n💬 Dohašení ohniště po pálení.\n\
+ n🚒 CAS (HS Náměšť nad Oslavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:409755061
@@ -377,9 +377,9 @@ SUMMARY:🔥 vozidlo - Štoky
 LOCATION:Štoky
 GEO:49.506111;15.586267
 URL:geo:49.506111,15.586267
-DESCRIPTION:📍 Štoky\, Havlíčkův Brod\n💬 Požár OA. Lokalizace a  likvidace.\
- n\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 CAS (Štoky)\n
- 🚒 vyšetřovací automobil (ÚO Havlíčkův Brod)
+DESCRIPTION:📍 Štoky\, Havlíčkův Brod\n💬 Požár OA.\n\n🚒 CAS (CHS Havlíčkův B
+ rod)\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 CAS (Štoky)\n🚒 vyšetřovací automobil (
+ ÚO Havlíčkův Brod)
 END:VEVENT
 BEGIN:VEVENT
 UID:409761061
