@@ -5,34 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:409691061
-DTSTART:20260415T103118Z
-DTEND:20260415T113118Z
-DTSTAMP:20260415T103118Z
-SUMMARY:🔥 les - Těmice
-LOCATION:Těmice
-GEO:49.330207;15.022654
-URL:geo:49.330207,15.022654
-DESCRIPTION:📍 Těmice\, Pelhřimov\n💬 Požár lesního porostu. Provedena lokali
- zace a likvidace požáru.\n\n🚒 CAS (HS Kamenice nad Lipou)\n🚒 CAS (HS Kamen
- ice nad Lipou)\n🚒 CAS (Černovice)\n🚒 CAS (Kamenice nad Lipou)\n🚒 CAS (Těmi
- ce)
-END:VEVENT
-BEGIN:VEVENT
-UID:409696061
-DTSTART:20260415T104422Z
-DTEND:20260415T114422Z
-DTSTAMP:20260415T104422Z
-SUMMARY:🔥 venkovní požár - Velké Meziříčí
-LOCATION:Velké Meziříčí
-GEO:49.348370;16.018890
-URL:geo:49.348370,16.018890
-DESCRIPTION:📍 Velké Meziříčí\, Žďár nad Sázavou\n💬 Požár odpadu.\n\n🚒 CAS (
- HS Velké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)\n🚒 zařízení hasicí kontinuel
- ní vysokotlaké (HS Velké Meziříčí)\n🚒 vyšetřovací automobil (ÚO Žďár nad S
- ázavou)\n🚒 DA (SŽ Havlíčkův Brod)
-END:VEVENT
-BEGIN:VEVENT
 UID:409704061
 DTSTART:20260415T111732Z
 DTEND:20260415T121732Z
@@ -416,7 +388,8 @@ LOCATION:Sušilova\, Moravské Budějovice
 GEO:49.056722;15.815204
 URL:geo:49.056722,15.815204
 DESCRIPTION:📍 Sušilova\, Moravské Budějovice\, Třebíč\n💬 Čerpání vody ze sk
- lepa RD.\n\n🚒 CAS (HS Moravské Budějovice)
+ lepa RD.\n\n🚒 CAS (HS Moravské Budějovice)\n🚒 elektrocentrála přenosná (HS
+  Moravské Budějovice)
 END:VEVENT
 BEGIN:VEVENT
 UID:409778061
