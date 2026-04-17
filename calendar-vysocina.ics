@@ -525,4 +525,17 @@ URL:geo:49.752129,15.236318
 DESCRIPTION:📍 Bělá\, Havlíčkův Brod\n💬 Otevření bytu.\n\n🚒 CAS (HS Ledeč na
  d Sázavou)
 END:VEVENT
+BEGIN:VEVENT
+UID:409810061
+DTSTART:20260417T211003Z
+DTEND:20260417T221003Z
+DTSTAMP:20260417T211003Z
+SUMMARY:🔥 budova - Ledeč nad Sázavou
+LOCATION:Poděbradova\, Ledeč nad Sázavou
+GEO:49.699425;15.270272
+URL:geo:49.699425,15.270272
+DESCRIPTION:📍 Poděbradova\, Ledeč nad Sázavou\, Havlíčkův Brod\n\n🚒 CAS (HS
+  Ledeč nad Sázavou)\n🚒 CAS (HS Světlá nad Sázavou)\n🚒 CAS (Kožlí)\n🚒 CAS (
+ Ledeč nad Sázavou)
+END:VEVENT
 END:VCALENDAR
