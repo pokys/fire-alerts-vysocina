@@ -485,9 +485,9 @@ SUMMARY:🚗 dopravní nehoda - Vlachovice
 LOCATION:Vlachovice
 GEO:49.593572;16.036527
 URL:geo:49.593572,16.036527
-DESCRIPTION:📍 Vlachovice\, Žďár nad Sázavou\n💬 DN OA\, 1 zraněná osoba\,  z
- ajištění místa nehody.\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 TA (Nové Město n
- a Moravě)
+DESCRIPTION:📍 Vlachovice\, Žďár nad Sázavou\n💬 DN OA\, 1 zraněná osoba\, za
+ jištění místa nehody.\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 TA (Nové Město na
+  Moravě)
 END:VEVENT
 BEGIN:VEVENT
 UID:409805061
@@ -511,5 +511,16 @@ GEO:49.555845;15.112582
 URL:geo:49.555845,15.112582
 DESCRIPTION:📍 Velká Strana\, Košetice\, Pelhřimov\n💬 Pročištění kanalizace.
  \n\n🚒 CAS (Košetice)
+END:VEVENT
+BEGIN:VEVENT
+UID:409807061
+DTSTART:20260417T165345Z
+DTEND:20260417T175345Z
+DTSTAMP:20260417T165345Z
+SUMMARY:🚗 dopravní nehoda - Havlíčkův Brod
+LOCATION:P. F. Ledvinky\, Havlíčkův Brod
+GEO:49.611104;15.579810
+URL:geo:49.611104,15.579810
+DESCRIPTION:📍 P. F. Ledvinky\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)
 END:VEVENT
 END:VCALENDAR
