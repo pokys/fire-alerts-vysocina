@@ -318,7 +318,7 @@ DESCRIPTION:📍 Hronova\, Pacov\, Pelhřimov\n💬 Požár tělocvičny v rekon
  i\, bez zranění. Provedena lokalizace a likvidace požáru.\n\n🚒 CAS (HS Pac
  ov)\n🚒 CAS (HS Pacov)\n🚒 přetlakový ventilátor (HS Pacov)\n🚒 CAS (Pacov)\n
  🚒 osobní automobil (Pacov)\n🚒 CAS (Obrataň)\n🚒 CAS (Pacov-Jetřichovec)\n🚒 
- vyšetřovací automobil (ÚO Pelhřimov)
+ vyšetřovací automobil (ÚO Pelhřimov) ×2
 END:VEVENT
 BEGIN:VEVENT
 UID:409753061
@@ -393,5 +393,27 @@ URL:geo:49.629818,16.116476
 DESCRIPTION:📍 Kuklík\, Žďár nad Sázavou\n💬 Požár kovového kontejneru. Prove
  dena likvidace požáru. Beze škody.\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 DA (
  Kuklík)\n🚒 CAS (Kuklík)
+END:VEVENT
+BEGIN:VEVENT
+UID:409763061
+DTSTART:20260417T053329Z
+DTEND:20260417T063329Z
+DTSTAMP:20260417T053329Z
+SUMMARY:🚗 úklid místa - Třešť
+LOCATION:Malé nám.\, Třešť
+GEO:49.292969;15.484067
+URL:geo:49.292969,15.484067
+DESCRIPTION:📍 Malé nám.\, Třešť\, Jihlava\n\n🚒 CAS (HS Třešť)
+END:VEVENT
+BEGIN:VEVENT
+UID:409764061
+DTSTART:20260417T053932Z
+DTEND:20260417T063932Z
+DTSTAMP:20260417T053932Z
+SUMMARY:🛠️ otevření bytu/auta - Třebíč
+LOCATION:Václavské nám.\, Třebíč
+GEO:49.206834;15.880099
+URL:geo:49.206834,15.880099
+DESCRIPTION:📍 Václavské nám.\, Horka-Domky\, Třebíč\n\n🚒 CAS (CHS Třebíč)
 END:VEVENT
 END:VCALENDAR
