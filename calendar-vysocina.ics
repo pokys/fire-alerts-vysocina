@@ -601,7 +601,20 @@ SUMMARY:🚗 dopravní nehoda - Velké Meziříčí
 LOCATION:U Cihelny\, Velké Meziříčí
 GEO:49.369034;16.026614
 URL:geo:49.369034,16.026614
-DESCRIPTION:📍 U Cihelny\, Velké Meziříčí\, Žďár nad Sázavou\n\n🚒 CAS (HS Ve
- lké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)
+DESCRIPTION:📍 U Cihelny\, Velké Meziříčí\, Žďár nad Sázavou\n💬 DN 2 OA a mo
+ tocyklu\, se zraněním jedné osoby\, provedeno PPO\, zajištění místa událos
+ ti.\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)
+END:VEVENT
+BEGIN:VEVENT
+UID:409842061
+DTSTART:20260418T152617Z
+DTEND:20260418T162617Z
+DTSTAMP:20260418T152617Z
+SUMMARY:🚗 dopravní nehoda - Dalečín
+LOCATION:Dalečín
+GEO:49.594600;16.254744
+URL:geo:49.594600,16.254744
+DESCRIPTION:📍 Dalečín\, Žďár nad Sázavou\n\n🚒 CAS (HS Bystřice nad Pernštej
+ nem)
 END:VEVENT
 END:VCALENDAR
