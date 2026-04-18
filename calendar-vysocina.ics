@@ -5,22 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:409752061
-DTSTART:20260416T145722Z
-DTEND:20260416T155722Z
-DTSTAMP:20260416T145722Z
-SUMMARY:🔥 budova - Pacov
-LOCATION:Hronova\, Pacov
-GEO:49.471095;15.003685
-URL:geo:49.471095,15.003685
-DESCRIPTION:📍 Hronova\, Pacov\, Pelhřimov\n💬 Požár tělocvičny v rekonstrukc
- i\, bez zranění. Provedena lokalizace a likvidace požáru.\n\n🚒 CAS (HS Pac
- ov)\n🚒 CAS (HS Pacov)\n🚒 přetlakový ventilátor (HS Pacov)\n🚒 CAS (Pacov)\n
- 🚒 osobní automobil (Pacov)\n🚒 CAS (Obrataň)\n🚒 CAS (Pacov-Jetřichovec)\n🚒 
- vyšetřovací automobil (ÚO Pelhřimov) ×2\n🚒 vyšetřovací automobil (KŘ HZS V
- YS)
-END:VEVENT
-BEGIN:VEVENT
 UID:409753061
 DTSTART:20260416T164456Z
 DTEND:20260416T174456Z
@@ -600,10 +584,23 @@ DTEND:20260418T152544Z
 DTSTAMP:20260418T142544Z
 SUMMARY:🔥 les - Pavlov
 LOCATION:Pavlov
-GEO:49.451269;15.899747
-URL:geo:49.451269,15.899747
-DESCRIPTION:📍 Pavlov\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 
- CAS (CHS Žďár nad Sázavou)\n🚒 CAS (Bohdalov)\n🚒 CAS (Pavlov (ZR))\n🚒 CAS (
- Radostín nad Oslavou)
+GEO:49.452962;15.897275
+URL:geo:49.452962,15.897275
+DESCRIPTION:📍 Starý Telečkov\, Pavlov\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár
+  nad Sázavou)\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (Bohdalov)\n🚒 DA (Pavlo
+ v (ZR))\n🚒 CAS (Pavlov (ZR))\n🚒 CAS (Radostín nad Oslavou)\n🚒 CAS (Krásněv
+ es)\n🚒 CAS (Měřín)\n🚒 CAS (Nové Veselí)\n🚒 CAS (Ostrov nad Oslavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:409840061
+DTSTART:20260418T144302Z
+DTEND:20260418T154302Z
+DTSTAMP:20260418T144302Z
+SUMMARY:🚗 dopravní nehoda - Velké Meziříčí
+LOCATION:U Cihelny\, Velké Meziříčí
+GEO:49.369034;16.026614
+URL:geo:49.369034,16.026614
+DESCRIPTION:📍 U Cihelny\, Velké Meziříčí\, Žďár nad Sázavou\n\n🚒 CAS (HS Ve
+ lké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)
 END:VEVENT
 END:VCALENDAR

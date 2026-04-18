@@ -5,22 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Pelhřimov
 BEGIN:VEVENT
-UID:409752061
-DTSTART:20260416T145722Z
-DTEND:20260416T155722Z
-DTSTAMP:20260416T145722Z
-SUMMARY:🔥 budova - Pacov
-LOCATION:Hronova\, Pacov
-GEO:49.471095;15.003685
-URL:geo:49.471095,15.003685
-DESCRIPTION:📍 Hronova\, Pacov\, Pelhřimov\n💬 Požár tělocvičny v rekonstrukc
- i\, bez zranění. Provedena lokalizace a likvidace požáru.\n\n🚒 CAS (HS Pac
- ov)\n🚒 CAS (HS Pacov)\n🚒 přetlakový ventilátor (HS Pacov)\n🚒 CAS (Pacov)\n
- 🚒 osobní automobil (Pacov)\n🚒 CAS (Obrataň)\n🚒 CAS (Pacov-Jetřichovec)\n🚒 
- vyšetřovací automobil (ÚO Pelhřimov) ×2\n🚒 vyšetřovací automobil (KŘ HZS V
- YS)
-END:VEVENT
-BEGIN:VEVENT
 UID:409767061
 DTSTART:20260417T064210Z
 DTEND:20260417T074210Z
