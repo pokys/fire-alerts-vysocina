@@ -647,11 +647,12 @@ UID:409853061
 DTSTART:20260418T180011Z
 DTEND:20260418T190011Z
 DTSTAMP:20260418T180011Z
-SUMMARY:🔥 les - Rovečné
+SUMMARY:🔥 venkovní požár - Rovečné
 LOCATION:Rovečné
 GEO:49.585158;16.354304
 URL:geo:49.585158,16.354304
-DESCRIPTION:📍 Rovečné\, Žďár nad Sázavou\n\n🚒 CAS (HS Bystřice nad Pernštej
- nem)\n🚒 CAS (HS Bystřice nad Pernštejnem)\n🚒 DA (Rovečné)\n🚒 CAS (Vír)
+DESCRIPTION:📍 Rovečné\, Žďár nad Sázavou\n💬 Dohašení ohniště.\n\n🚒 CAS (HS 
+ Bystřice nad Pernštejnem)\n🚒 CAS (HS Bystřice nad Pernštejnem)\n🚒 DA (Rove
+ čné)\n🚒 CAS (Vír)
 END:VEVENT
 END:VCALENDAR
