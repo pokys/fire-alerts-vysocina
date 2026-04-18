@@ -578,7 +578,8 @@ SUMMARY:🚗 dopravní nehoda - Polná
 LOCATION:Polná
 GEO:49.493558;15.699650
 URL:geo:49.493558,15.699650
-DESCRIPTION:📍 Polná\, Jihlava\n\n🚒 CAS (HS Polná)
+DESCRIPTION:📍 Polná\, Jihlava\n💬 DN 1 OA\, 1 zraněná osoba. Zajištění místa
+  nehody.\n\n🚒 CAS (HS Polná)
 END:VEVENT
 BEGIN:VEVENT
 UID:409830061
@@ -589,18 +590,19 @@ SUMMARY:🔥 tráva/plocha - Pavlov
 LOCATION:Pavlov
 GEO:49.243329;15.563620
 URL:geo:49.243329,15.563620
-DESCRIPTION:📍 Pavlov\, Jihlava\n\n🚒 CAS (HS Třešť)\n🚒 CAS (Dlouhá Brtnice)\
- n🚒 CAS (Stonařov)\n🚒 CAS (Pavlov (JI))
+DESCRIPTION:📍 Pavlov\, Jihlava\n💬 Požár stromu.\n\n🚒 CAS (HS Třešť)\n🚒 CAS 
+ (Dlouhá Brtnice)\n🚒 CAS (Stonařov)\n🚒 CAS (Pavlov (JI))
 END:VEVENT
 BEGIN:VEVENT
 UID:409831061
 DTSTART:20260418T095209Z
 DTEND:20260418T105209Z
 DTSTAMP:20260418T095209Z
-SUMMARY:🔥 les - Třebíč
+SUMMARY:🔥 tráva/plocha - Třebíč
 LOCATION:Třebíč
 GEO:49.222376;15.886840
 URL:geo:49.222376,15.886840
-DESCRIPTION:📍 Nové Dvory\, Třebíč\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (CHS Třebíč)
+DESCRIPTION:📍 Nové Dvory\, Třebíč\n💬 Dohašení doutnajícího ohniště.\n\n🚒 CA
+ S (CHS Třebíč)\n🚒 CAS (CHS Třebíč)
 END:VEVENT
 END:VCALENDAR
