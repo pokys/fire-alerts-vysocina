@@ -5,20 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:409735061
-DTSTART:20260416T062300Z
-DTEND:20260416T072300Z
-DTSTAMP:20260416T062300Z
-SUMMARY:🚗 se zraněním - Jihlava
-LOCATION:Jihlava
-GEO:49.449746;15.610791
-URL:geo:49.449746,15.610791
-DESCRIPTION:📍 Pávov\, Jihlava\n💬 DN 1 NA se zraněním jedné osoby. Vyproštěn
- í řidiče z kabiny. Zajištění místa události.\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA
-  (CHS Jihlava)\n🚒 HVZ - nástroj střihací (CHS Jihlava)\n🚒 HVZ - nástroj ro
- zpínací s čelistmi (CHS Jihlava)\n🚒 pila řetězová (CHS Jihlava)
-END:VEVENT
-BEGIN:VEVENT
 UID:409739061
 DTSTART:20260416T065932Z
 DTEND:20260416T075932Z
