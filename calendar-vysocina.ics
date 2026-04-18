@@ -5,23 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:409739061
-DTSTART:20260416T065932Z
-DTEND:20260416T075932Z
-DTSTAMP:20260416T065932Z
-SUMMARY:☣️ neznámá látka - Havlíčkův Brod
-LOCATION:Mírová\, Havlíčkův Brod
-GEO:49.596363;15.603688
-URL:geo:49.596363,15.603688
-DESCRIPTION:📍 Mírová\, Havlíčkův Brod\n💬 Taktické cvičení.\n\n🚒 CAS (CHS Ha
- vlíčkův Brod)\n🚒 automobilový nosič kontejnerů (CHS Havlíčkův Brod) ×2\n🚒 
- účelový automobil do 3500 kg (CHS Havlíčkův Brod) ×2\n🚒 přívěs lodní (CHS 
- Havlíčkův Brod)\n🚒 kontejner technický - chemický (CHS Havlíčkův Brod)\n🚒 
- kontejner nákladní (CHS Havlíčkův Brod)\n🚒 CAS (CHS Jihlava)\n🚒 automobilo
- vý nosič kontejnerů (CHS Jihlava)\n🚒 elektrocentrála přenosná (CHS Jihlava
- ) ×2\n🚒 kontejner povodňový (CHS Jihlava)\n🚒 DA (Havlíčkův Brod-Perknov)
-END:VEVENT
-BEGIN:VEVENT
 UID:409745061
 DTSTART:20260416T093907Z
 DTEND:20260416T103907Z
@@ -547,5 +530,17 @@ GEO:49.297986;16.166082
 URL:geo:49.297986,16.166082
 DESCRIPTION:📍 Bezděkov\, Velká Bíteš\, Žďár nad Sázavou\n\n🚒 CAS (HS Velká 
  Bíteš)\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)
+END:VEVENT
+BEGIN:VEVENT
+UID:409820061
+DTSTART:20260418T063102Z
+DTEND:20260418T073102Z
+DTSTAMP:20260418T063102Z
+SUMMARY:🛠️ ostatní - Bory
+LOCATION:Bory
+GEO:49.428618;16.017885
+URL:geo:49.428618,16.017885
+DESCRIPTION:📍 Dolní Bory\, Bory\, Žďár nad Sázavou\n\n🚒 AŽ (CHS Žďár nad Sá
+ zavou)
 END:VEVENT
 END:VCALENDAR
