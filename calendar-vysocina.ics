@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:409758061
-DTSTART:20260416T203742Z
-DTEND:20260416T213742Z
-DTSTAMP:20260416T203742Z
-SUMMARY:🚑 transport pacienta - Batelov
-LOCATION:Třešťská\, Batelov
-GEO:49.313656;15.398454
-URL:geo:49.313656,15.398454
-DESCRIPTION:📍 Třešťská\, Batelov\, Jihlava\n💬 Transport pacienta pro ZZS.\n
- \n🚒 CAS (HS Třešť)\n🚒 CAS (Batelov)
-END:VEVENT
-BEGIN:VEVENT
 UID:409760061
 DTSTART:20260417T002156Z
 DTEND:20260417T012156Z
@@ -640,7 +628,8 @@ SUMMARY:🚗 bez zranění - Pelhřimov
 LOCATION:Pelhřimov
 GEO:49.413158;15.224387
 URL:geo:49.413158,15.224387
-DESCRIPTION:💬 DN elektrokola.\n\n🚒 CAS (CHS Pelhřimov)
+DESCRIPTION:💬 DN elektrokola\, bez zranění. Zajištění místa události.\n\n🚒 
+ CAS (CHS Pelhřimov)
 END:VEVENT
 BEGIN:VEVENT
 UID:409853061
@@ -654,5 +643,18 @@ URL:geo:49.585158,16.354304
 DESCRIPTION:📍 Rovečné\, Žďár nad Sázavou\n💬 Dohašení ohniště.\n\n🚒 CAS (HS 
  Bystřice nad Pernštejnem)\n🚒 CAS (HS Bystřice nad Pernštejnem)\n🚒 DA (Rove
  čné)\n🚒 CAS (Vír)\n🚒 DA (Bystré)\n🚒 CAS (Bystré)
+END:VEVENT
+BEGIN:VEVENT
+UID:409863061
+DTSTART:20260418T201424Z
+DTEND:20260418T211424Z
+DTSTAMP:20260418T201424Z
+SUMMARY:🔥 budova - Golčův Jeníkov
+LOCATION:Havlíčkovo náměstí\, Golčův Jeníkov
+GEO:49.815522;15.476232
+URL:geo:49.815522,15.476232
+DESCRIPTION:📍 Havlíčkovo náměstí\, Golčův Jeníkov\, Havlíčkův Brod\n\n🚒 CAS
+  (CHS Havlíčkův Brod)\n🚒 CAS (HS Ledeč nad Sázavou)\n🚒 CAS (Golčův Jeníkov
+ )\n🚒 CAS (Golčův Jeníkov)\n🚒 vyšetřovací automobil (ÚO Havlíčkův Brod)
 END:VEVENT
 END:VCALENDAR
