@@ -658,4 +658,16 @@ DESCRIPTION:📍 Havlíčkovo náměstí\, Golčův Jeníkov\, Havlíčkův Brod
   (CHS Havlíčkův Brod)\n🚒 CAS (HS Ledeč nad Sázavou)\n🚒 CAS (Golčův Jeníkov
  )\n🚒 CAS (Golčův Jeníkov)\n🚒 vyšetřovací automobil (ÚO Havlíčkův Brod)
 END:VEVENT
+BEGIN:VEVENT
+UID:409864061
+DTSTART:20260418T213337Z
+DTEND:20260418T223337Z
+DTSTAMP:20260418T213337Z
+SUMMARY:🚑 spolupráce ZZS - Světlá nad Sázavou
+LOCATION:Světlá nad Sázavou
+GEO:49.676091;15.379262
+URL:geo:49.676091,15.379262
+DESCRIPTION:📍 Horní Březinka\, Světlá nad Sázavou\, Havlíčkův Brod\n\n🚒 CAS
+  (HS Světlá nad Sázavou)
+END:VEVENT
 END:VCALENDAR
