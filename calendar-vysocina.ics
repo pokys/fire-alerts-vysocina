@@ -586,11 +586,11 @@ SUMMARY:🔥 les - Pavlov
 LOCATION:Pavlov
 GEO:49.452962;15.897275
 URL:geo:49.452962,15.897275
-DESCRIPTION:📍 Starý Telečkov\, Pavlov\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár
-  nad Sázavou)\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (Bohdalov)\n🚒 DA (Pavlo
- v (ZR))\n🚒 CAS (Pavlov (ZR))\n🚒 CAS (Radostín nad Oslavou)\n🚒 CAS (Krásněv
- es)\n🚒 CAS (Měřín)\n🚒 CAS (Nové Veselí) ×2\n🚒 CAS (Ostrov nad Oslavou)\n🚒 
- vyšetřovací automobil (ÚO Žďár nad Sázavou)
+DESCRIPTION:📍 Starý Telečkov\, Pavlov\, Žďár nad Sázavou\n💬 Požár lesního p
+ orostu.\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 C
+ AS (Bohdalov)\n🚒 DA (Pavlov (ZR))\n🚒 CAS (Pavlov (ZR))\n🚒 CAS (Radostín na
+ d Oslavou)\n🚒 CAS (Krásněves)\n🚒 CAS (Měřín)\n🚒 CAS (Nové Veselí) ×2\n🚒 CA
+ S (Ostrov nad Oslavou)\n🚒 vyšetřovací automobil (ÚO Žďár nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:409840061
@@ -614,7 +614,19 @@ SUMMARY:🚗 dopravní nehoda - Dalečín
 LOCATION:Dalečín
 GEO:49.594600;16.254744
 URL:geo:49.594600,16.254744
-DESCRIPTION:📍 Dalečín\, Žďár nad Sázavou\n\n🚒 CAS (HS Bystřice nad Pernštej
- nem)
+DESCRIPTION:📍 Dalečín\, Žďár nad Sázavou\n💬 DN motocyklu se zraněním jedné 
+ osoby\, zajištění místa nehody.\n\n🚒 CAS (HS Bystřice nad Pernštejnem)
+END:VEVENT
+BEGIN:VEVENT
+UID:409843061
+DTSTART:20260418T153608Z
+DTEND:20260418T163608Z
+DTSTAMP:20260418T153608Z
+SUMMARY:🚑 otevření/asistence - Jihlava
+LOCATION:Březinova\, Jihlava
+GEO:49.400726;15.601360
+URL:geo:49.400726,15.601360
+DESCRIPTION:📍 Březinova\, Jihlava\n💬 Otevření výtahu.\n\n🚒 CAS (CHS Jihlava
+ )
 END:VEVENT
 END:VCALENDAR
