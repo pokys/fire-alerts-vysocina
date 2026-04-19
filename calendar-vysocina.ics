@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:409792061
-DTSTART:20260417T131638Z
-DTEND:20260417T141638Z
-DTSTAMP:20260417T131638Z
-SUMMARY:🚗 dopravní nehoda - Knyk
-LOCATION:Knyk
-GEO:49.644498;15.560204
-URL:geo:49.644498,15.560204
-DESCRIPTION:📍 Rozňák\, Knyk\, Havlíčkův Brod\n💬 DN OA a motocyklu\, jedna z
- raněná osoba\, poskytnuta první pomoc\, provedeno protipožární opatření  a
-  řízení provozu. Zajištění místa události.\n\n🚒 CAS (CHS Havlíčkův Brod)
-END:VEVENT
-BEGIN:VEVENT
 UID:409793061
 DTSTART:20260417T134209Z
 DTEND:20260417T144209Z
