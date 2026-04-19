@@ -618,7 +618,18 @@ SUMMARY:🛠️ otevření bytu/auta - Bystřice nad Pernštejnem
 LOCATION:Starý dvůr\, Bystřice nad Pernštejnem
 GEO:49.525582;16.245857
 URL:geo:49.525582,16.245857
-DESCRIPTION:📍 Starý dvůr\, Bystřice nad Pernštejnem\, Žďár nad Sázavou\n\n🚒
-  CAS (HS Bystřice nad Pernštejnem)
+DESCRIPTION:📍 Starý dvůr\, Bystřice nad Pernštejnem\, Žďár nad Sázavou\n💬 O
+ tevření rodinného domu.\n\n🚒 CAS (HS Bystřice nad Pernštejnem)
+END:VEVENT
+BEGIN:VEVENT
+UID:409869061
+DTSTART:20260419T081320Z
+DTEND:20260419T091320Z
+DTSTAMP:20260419T081320Z
+SUMMARY:🛠️ strom - Dlouhá Brtnice
+LOCATION:Dlouhá Brtnice
+GEO:49.255274;15.593873
+URL:geo:49.255274,15.593873
+DESCRIPTION:📍 Dlouhá Brtnice\, Jihlava\n\n🚒 CAS (Dlouhá Brtnice)
 END:VEVENT
 END:VCALENDAR
