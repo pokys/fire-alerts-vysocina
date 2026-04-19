@@ -502,4 +502,15 @@ DESCRIPTION:📍 Olbrachtova\, Jihlava\n💬 Požár kuchyně v bytě. 1 zraněn
  a. Uhašeno před příjezdem jednotky. Provedena kontrola.\n\n🚒 CAS (CHS Jihl
  ava) ×2\n🚒 vyšetřovací automobil (ÚO Jihlava)
 END:VEVENT
+BEGIN:VEVENT
+UID:409873061
+DTSTART:20260419T151341Z
+DTEND:20260419T161341Z
+DTSTAMP:20260419T151341Z
+SUMMARY:🛠️ otevření bytu/auta - Jihlava
+LOCATION:Březinova\, Jihlava
+GEO:49.402311;15.597817
+URL:geo:49.402311,15.597817
+DESCRIPTION:📍 Březinova\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+END:VEVENT
 END:VCALENDAR
