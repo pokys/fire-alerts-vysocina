@@ -606,7 +606,19 @@ SUMMARY:🔥 budova - Havlíčkův Brod
 LOCATION:Havlíčkův Brod
 GEO:49.657652;15.565696
 URL:geo:49.657652,15.565696
-DESCRIPTION:📍 Zbožice\, Havlíčkův Brod\n\n🚒 vyšetřovací automobil (ÚO Havlí
- čkův Brod)
+DESCRIPTION:📍 Zbožice\, Havlíčkův Brod\n💬 Požár garáže. Škoda vzniklá požár
+ em 700 000kč.\n\n🚒 vyšetřovací automobil (ÚO Havlíčkův Brod)
+END:VEVENT
+BEGIN:VEVENT
+UID:409868061
+DTSTART:20260419T075743Z
+DTEND:20260419T085743Z
+DTSTAMP:20260419T075743Z
+SUMMARY:🛠️ otevření bytu/auta - Bystřice nad Pernštejnem
+LOCATION:Starý dvůr\, Bystřice nad Pernštejnem
+GEO:49.525582;16.245857
+URL:geo:49.525582,16.245857
+DESCRIPTION:📍 Starý dvůr\, Bystřice nad Pernštejnem\, Žďár nad Sázavou\n\n🚒
+  CAS (HS Bystřice nad Pernštejnem)
 END:VEVENT
 END:VCALENDAR
