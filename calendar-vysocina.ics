@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:409773061
-DTSTART:20260417T074316Z
-DTEND:20260417T084316Z
-DTSTAMP:20260417T074316Z
-SUMMARY:🚗 úklid místa - Bystřice nad Pernštejnem
-LOCATION:Nádražní\, Bystřice nad Pernštejnem
-GEO:49.513402;16.253251
-URL:geo:49.513402,16.253251
-DESCRIPTION:📍 Nádražní\, Bystřice nad Pernštejnem\, Žďár nad Sázavou\n💬 DN 
- 2 x OA\, bez zranění. Zajištění místa nehody\, úklid komunikace.\n\n🚒 CAS 
- (HS Bystřice nad Pernštejnem)
-END:VEVENT
-BEGIN:VEVENT
 UID:409777061
 DTSTART:20260417T091149Z
 DTEND:20260417T101149Z
