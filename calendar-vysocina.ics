@@ -5,22 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:409839061
-DTSTART:20260418T142544Z
-DTEND:20260418T152544Z
-DTSTAMP:20260418T142544Z
-SUMMARY:🔥 les - Pavlov
-LOCATION:Pavlov
-GEO:49.452962;15.897275
-URL:geo:49.452962,15.897275
-DESCRIPTION:📍 Starý Telečkov\, Pavlov\, Žďár nad Sázavou\n💬 Požár lesního p
- orostu.\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 C
- AS (Bohdalov)\n🚒 DA (Pavlov (ZR))\n🚒 CAS (Pavlov (ZR))\n🚒 CAS (Radostín na
- d Oslavou)\n🚒 CAS (Krásněves)\n🚒 CAS (Měřín)\n🚒 DA (Nové Veselí)\n🚒 CAS (N
- ové Veselí) ×2\n🚒 DA (Ostrov nad Oslavou)\n🚒 CAS (Ostrov nad Oslavou)\n🚒 v
- yšetřovací automobil (ÚO Žďár nad Sázavou)
-END:VEVENT
-BEGIN:VEVENT
 UID:409840061
 DTSTART:20260418T144302Z
 DTEND:20260418T154302Z
