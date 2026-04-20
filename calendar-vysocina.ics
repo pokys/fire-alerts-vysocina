@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:409823061
-DTSTART:20260418T091133Z
-DTEND:20260418T101133Z
-DTSTAMP:20260418T091133Z
-SUMMARY:🚗 dopravní nehoda - Prosetín
-LOCATION:Prosetín
-GEO:49.492353;16.375719
-URL:geo:49.492353,16.375719
-DESCRIPTION:📍 Čtyři Dvory\, Prosetín\, Žďár nad Sázavou\n💬 DN motorky\, se 
- zraněním. Zajištění místa nehody.\n\n🚒 CAS (HS Kunštát)\n🚒 TA (HS Kunštát)
- \n🚒 DA (Olešnice)\n🚒 CAS (Olešnice)
-END:VEVENT
-BEGIN:VEVENT
 UID:409828061
 DTSTART:20260418T093226Z
 DTEND:20260418T103226Z
@@ -459,8 +446,8 @@ SUMMARY:🛠️ ostatní - Nové Město na Moravě
 LOCATION:Nové Město na Moravě
 GEO:49.585679;16.040021
 URL:geo:49.585679,16.040021
-DESCRIPTION:📍 Nové Město na Moravě\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár na
- d Sázavou)
+DESCRIPTION:📍 Nové Město na Moravě\, Žďár nad Sázavou\n💬 Kamion hrozící pře
+ vrácením. Zajištění místa události.\n\n🚒 CAS (CHS Žďár nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:409907061
@@ -471,6 +458,7 @@ SUMMARY:🛠️ ostatní - Jimramov
 LOCATION:Pavlovická\, Jimramov
 GEO:49.634713;16.223420
 URL:geo:49.634713,16.223420
-DESCRIPTION:📍 Pavlovická\, Jimramov\, Žďár nad Sázavou\n\n🚒 CAS (Jimramov)
+DESCRIPTION:📍 Pavlovická\, Jimramov\, Žďár nad Sázavou\n💬 ZOČ-proplach kana
+ lizace.\n\n🚒 CAS (Jimramov)
 END:VEVENT
 END:VCALENDAR
