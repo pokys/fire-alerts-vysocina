@@ -52,4 +52,16 @@ URL:geo:49.424626,14.941847
 DESCRIPTION:📍 Obrataň\, Pelhřimov\n💬 Transport pacienta.Transport pacienta 
  na žádost ZZS.\n\n🚒 CAS (HS Pacov)\n🚒 CAS (Obrataň)
 END:VEVENT
+BEGIN:VEVENT
+UID:409899061
+DTSTART:20260420T074931Z
+DTEND:20260420T084931Z
+DTSTAMP:20260420T074931Z
+SUMMARY:🔥 vozidlo - Kamenice nad Lipou
+LOCATION:Kamenice nad Lipou
+GEO:49.312699;15.081453
+URL:geo:49.312699,15.081453
+DESCRIPTION:📍 Johanka\, Kamenice nad Lipou\, Pelhřimov\n\n🚒 CAS (HS Kamenic
+ e nad Lipou)
+END:VEVENT
 END:VCALENDAR
