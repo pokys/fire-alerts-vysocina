@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:409840061
-DTSTART:20260418T144302Z
-DTEND:20260418T154302Z
-DTSTAMP:20260418T144302Z
-SUMMARY:🚗 dopravní nehoda - Velké Meziříčí
-LOCATION:U Cihelny\, Velké Meziříčí
-GEO:49.369034;16.026614
-URL:geo:49.369034,16.026614
-DESCRIPTION:📍 U Cihelny\, Velké Meziříčí\, Žďár nad Sázavou\n💬 DN 2 OA a mo
- tocyklu\, se zraněním jedné osoby\, provedeno PPO\, zajištění místa událos
- ti.\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)
-END:VEVENT
-BEGIN:VEVENT
 UID:409842061
 DTSTART:20260418T152617Z
 DTEND:20260418T162617Z
