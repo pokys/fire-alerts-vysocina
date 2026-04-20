@@ -461,4 +461,17 @@ GEO:49.429497;15.656684
 URL:geo:49.429497,15.656684
 DESCRIPTION:📍 Měšín\, Jihlava\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihlava)
 END:VEVENT
+BEGIN:VEVENT
+UID:409916061
+DTSTART:20260420T111416Z
+DTEND:20260420T121416Z
+DTSTAMP:20260420T111416Z
+SUMMARY:🚗 bez zranění - Martínkov
+LOCATION:Martínkov
+GEO:49.100148;15.730873
+URL:geo:49.100148,15.730873
+DESCRIPTION:📍 Martínkov\, Třebíč\n💬 Dopravní nehoda 2 OA se zraněním. Likvi
+ dace úniku provozních kapalin\, zajištění místa zásahu.\n\n🚒 CAS (HS Morav
+ ské Budějovice)\n🚒 CAS (Želetava)
+END:VEVENT
 END:VCALENDAR
