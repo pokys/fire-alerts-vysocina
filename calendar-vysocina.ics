@@ -435,7 +435,30 @@ SUMMARY:🛠️ čerpání vody - Jaroměřice nad Rokytnou
 LOCATION:Jaroměřice nad Rokytnou
 GEO:49.128636;15.902589
 URL:geo:49.128636,15.902589
-DESCRIPTION:📍 Ratibořice\, Jaroměřice nad Rokytnou\, Třebíč\n\n🚒 CAS (CHS T
- řebíč)
+DESCRIPTION:📍 Ratibořice\, Jaroměřice nad Rokytnou\, Třebíč\n💬 Čerpání vody
+  ve sklepě rodinného domu.\n\n🚒 CAS (CHS Třebíč)
+END:VEVENT
+BEGIN:VEVENT
+UID:409904061
+DTSTART:20260420T081523Z
+DTEND:20260420T091523Z
+DTSTAMP:20260420T081523Z
+SUMMARY:🚗 dopravní nehoda - Salačova Lhota
+LOCATION:Salačova Lhota
+GEO:49.521968;14.974898
+URL:geo:49.521968,14.974898
+DESCRIPTION:📍 Salačova Lhota\, Pelhřimov\n\n🚒 CAS (HS Pacov)
+END:VEVENT
+BEGIN:VEVENT
+UID:409906061
+DTSTART:20260420T082730Z
+DTEND:20260420T092730Z
+DTSTAMP:20260420T082730Z
+SUMMARY:🛠️ ostatní - Nové Město na Moravě
+LOCATION:Nové Město na Moravě
+GEO:49.585679;16.040021
+URL:geo:49.585679,16.040021
+DESCRIPTION:📍 Nové Město na Moravě\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár na
+ d Sázavou)
 END:VEVENT
 END:VCALENDAR
