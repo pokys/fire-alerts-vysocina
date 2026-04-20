@@ -386,8 +386,8 @@ DTEND:20260420T091523Z
 DTSTAMP:20260420T081523Z
 SUMMARY:🚗 dopravní nehoda - Salačova Lhota
 LOCATION:Salačova Lhota
-GEO:49.521968;14.974898
-URL:geo:49.521968,14.974898
+GEO:49.521116;14.975542
+URL:geo:49.521116,14.975542
 DESCRIPTION:📍 Salačova Lhota\, Pelhřimov\n💬 DN 2 OA. 1 zraněná osoba. Zajiš
  tění místa události.\n\n🚒 CAS (HS Pacov)
 END:VEVENT
@@ -448,7 +448,9 @@ SUMMARY:🚗 bez zranění - Měšín
 LOCATION:Měšín
 GEO:49.429497;15.656684
 URL:geo:49.429497,15.656684
-DESCRIPTION:📍 Měšín\, Jihlava\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihlava)
+DESCRIPTION:📍 Měšín\, Jihlava\n💬 DN NA - OA na D1 se zraněním osob. ZZS tra
+ nsportovala dvě zraněné osoby k dalšímu ošetření do KN. Zajištění místa ud
+ álosti.\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:409916061
