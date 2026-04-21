@@ -423,4 +423,17 @@ DESCRIPTION:📍 Březinova\, Horní Cerekev\, Pelhřimov\n💬 Požár el. zás
  yla provedena lokalizace a likvidace PO.\n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (
  CHS Pelhřimov)\n🚒 CAS (Horní Cerekev)\n🚒 CAS (Počátky)\n🚒 CAS (Batelov)
 END:VEVENT
+BEGIN:VEVENT
+UID:409968061
+DTSTART:20260421T155631Z
+DTEND:20260421T165631Z
+DTSTAMP:20260421T155631Z
+SUMMARY:🔥 trafostanice - Bohdalov
+LOCATION:Bohdalov
+GEO:49.479351;15.877864
+URL:geo:49.479351,15.877864
+DESCRIPTION:📍 Bohdalov\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad Sázavou)\n
+ 🚒 CAS (CHS Žďár nad Sázavou)\n🚒 DA (Bohdalov)\n🚒 CAS (Bohdalov)\n🚒 CAS (No
+ vé Veselí)
+END:VEVENT
 END:VCALENDAR
