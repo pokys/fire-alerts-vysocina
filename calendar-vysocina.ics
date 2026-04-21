@@ -294,8 +294,8 @@ SUMMARY:🚑 transport pacienta - Počátky
 LOCATION:Žirovnická\, Počátky
 GEO:49.259911;15.235651
 URL:geo:49.259911,15.235651
-DESCRIPTION:📍 Žirovnická\, Počátky\, Pelhřimov\n\n🚒 CAS (HS Kamenice nad Li
- pou)\n🚒 CAS (Počátky)
+DESCRIPTION:📍 Žirovnická\, Počátky\, Pelhřimov\n💬 Transport pacienta na žád
+ ost ZZS.\n\n🚒 CAS (HS Kamenice nad Lipou)\n🚒 CAS (Počátky)
 END:VEVENT
 BEGIN:VEVENT
 UID:409933061
@@ -308,5 +308,30 @@ GEO:49.200910;15.890270
 URL:geo:49.200910,15.890270
 DESCRIPTION:📍 Střítež\, Třebíč\n💬 Planý poplach.\n\n🚒 CAS (CHS Třebíč) ×2\n
  🚒 CAS (CHS Třebíč) ×2
+END:VEVENT
+BEGIN:VEVENT
+UID:409935061
+DTSTART:20260421T061354Z
+DTEND:20260421T071354Z
+DTSTAMP:20260421T061354Z
+SUMMARY:🚑 transport pacienta - Nové Město na Moravě
+LOCATION:Radnická\, Nové Město na Moravě
+GEO:49.561467;16.072091
+URL:geo:49.561467,16.072091
+DESCRIPTION:📍 Radnická\, Nové Město na Moravě\, Žďár nad Sázavou\n💬 Transpo
+ rt pacienta na žádost ZZS.\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (Nové Mě
+ sto na Moravě)\n🚒 TA (Nové Město na Moravě)
+END:VEVENT
+BEGIN:VEVENT
+UID:409936061
+DTSTART:20260421T061741Z
+DTEND:20260421T071741Z
+DTSTAMP:20260421T061741Z
+SUMMARY:🚑 spolupráce ZZS - Kožlí
+LOCATION:Kožlí
+GEO:49.668473;15.254878
+URL:geo:49.668473,15.254878
+DESCRIPTION:📍 Kožlí\, Havlíčkův Brod\n\n🚒 CAS (HS Ledeč nad Sázavou)\n🚒 VEA
+  (HS Ledeč nad Sázavou)
 END:VEVENT
 END:VCALENDAR
