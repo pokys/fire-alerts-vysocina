@@ -310,7 +310,9 @@ LOCATION:Na Výšině\, Havlíčkův Brod
 GEO:49.616792;15.577056
 URL:geo:49.616792,15.577056
 DESCRIPTION:📍 Na Výšině\, Havlíčkův Brod\n💬 Spolupráce s ZZS.\n\n🚒 CAS (CHS
-  Havlíčkův Brod)\n🚒 účelový automobil do 3500 kg (CHS Havlíčkův Brod)
+  Havlíčkův Brod)\n🚒 účelový automobil do 3500 kg (CHS Havlíčkův Brod)\n🚒 H
+ VZ - nástroj střihací (CHS Havlíčkův Brod)\n🚒 pila kotoučová (CHS Havlíčků
+ v Brod)
 END:VEVENT
 BEGIN:VEVENT
 UID:409950061
@@ -417,8 +419,8 @@ SUMMARY:🔥 budova - Horní Cerekev
 LOCATION:Březinova\, Horní Cerekev
 GEO:49.317597;15.327271
 URL:geo:49.317597,15.327271
-DESCRIPTION:📍 Březinova\, Horní Cerekev\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov
- )\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (Horní Cerekev)\n🚒 CAS (Počátky)\n🚒 CAS (B
- atelov)
+DESCRIPTION:📍 Březinova\, Horní Cerekev\, Pelhřimov\n💬 Požár el. zásuvky. B
+ yla provedena lokalizace a likvidace PO.\n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (
+ CHS Pelhřimov)\n🚒 CAS (Horní Cerekev)\n🚒 CAS (Počátky)\n🚒 CAS (Batelov)
 END:VEVENT
 END:VCALENDAR
