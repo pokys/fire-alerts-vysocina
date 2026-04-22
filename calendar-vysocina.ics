@@ -386,4 +386,16 @@ URL:geo:49.412502,15.576506
 DESCRIPTION:📍 Romana Havelky\, Jihlava\n💬 DN 2 OA\, jedna zraněná osoba. Za
  jištění místa nehody.\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihlava)
 END:VEVENT
+BEGIN:VEVENT
+UID:410000061
+DTSTART:20260422T130241Z
+DTEND:20260422T140241Z
+DTSTAMP:20260422T130241Z
+SUMMARY:🛠️ otevření bytu/auta - Třebíč
+LOCATION:V. Nezvala\, Třebíč
+GEO:49.215269;15.875471
+URL:geo:49.215269,15.875471
+DESCRIPTION:📍 V. Nezvala\, Stařečka\, Třebíč\n💬 Otevření bytu.\n\n🚒 CAS (CH
+ S Třebíč)
+END:VEVENT
 END:VCALENDAR
