@@ -421,7 +421,7 @@ SUMMARY:🛠️ dovoz vody - Horní Cerekev
 LOCATION:Horní Cerekev
 GEO:49.320260;15.327690
 URL:geo:49.320260,15.327690
-DESCRIPTION:📍 Horní Cerekev\, Pelhřimov\n\n🚒 CAS (Horní Cerekev)
+DESCRIPTION:📍 Horní Cerekev\, Pelhřimov\n💬 ZOČ.\n\n🚒 CAS (Horní Cerekev)
 END:VEVENT
 BEGIN:VEVENT
 UID:410006061
@@ -432,7 +432,8 @@ SUMMARY:🔥 odpad - Jihlava
 LOCATION:Masarykovo náměstí\, Jihlava
 GEO:49.395809;15.591118
 URL:geo:49.395809,15.591118
-DESCRIPTION:📍 Masarykovo náměstí\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+DESCRIPTION:📍 Masarykovo náměstí\, Jihlava\n💬 Požár odpadkového koše. Lokal
+ izace a likvidace.\n\n🚒 CAS (CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:410007061
@@ -443,6 +444,8 @@ SUMMARY:🚗 dopravní nehoda - Veselý Žďár
 LOCATION:Veselý Žďár
 GEO:49.647595;15.513036
 URL:geo:49.647595,15.513036
-DESCRIPTION:📍 Veselý Žďár\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)
+DESCRIPTION:📍 Veselý Žďár\, Havlíčkův Brod\n💬 DN OA a cyklisty. 1 zraněná o
+ soba. Zajištění místa nehody proti požáru a úniku provozních kapalin.\n\n🚒
+  CAS (CHS Havlíčkův Brod)
 END:VEVENT
 END:VCALENDAR
