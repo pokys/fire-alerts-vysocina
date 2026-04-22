@@ -395,7 +395,9 @@ SUMMARY:🚗 bez zranění - Puklice
 LOCATION:Puklice
 GEO:49.373872;15.614311
 URL:geo:49.373872,15.614311
-DESCRIPTION:📍 Puklice\, Jihlava\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihlava)
+DESCRIPTION:📍 Puklice\, Jihlava\n💬 Dopravní nehoda 2 OA bez zranění. Likvid
+ ace úniku PK a zajištění místa události.\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CH
+ S Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:410004061
@@ -408,5 +410,16 @@ GEO:49.277122;16.217773
 URL:geo:49.277122,16.217773
 DESCRIPTION:📍 Velká Bíteš\, Žďár nad Sázavou\n\n🚒 CAS (HS Velká Bíteš)\n🚒 C
  AS (HS Velké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)
+END:VEVENT
+BEGIN:VEVENT
+UID:410005061
+DTSTART:20260422T143342Z
+DTEND:20260422T153342Z
+DTSTAMP:20260422T143342Z
+SUMMARY:🛠️ dovoz vody - Horní Cerekev
+LOCATION:Horní Cerekev
+GEO:49.320260;15.327690
+URL:geo:49.320260,15.327690
+DESCRIPTION:📍 Horní Cerekev\, Pelhřimov\n\n🚒 CAS (Horní Cerekev)
 END:VEVENT
 END:VCALENDAR
