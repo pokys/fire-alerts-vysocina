@@ -468,8 +468,8 @@ SUMMARY:🚑 otevření/asistence - Žirovnice
 LOCATION:Nerudova\, Žirovnice
 GEO:49.253964;15.187947
 URL:geo:49.253964,15.187947
-DESCRIPTION:📍 Nerudova\, Žirovnice\, Pelhřimov\n\n🚒 CAS (HS Kamenice nad Li
- pou)\n🚒 CAS (Žirovnice)
+DESCRIPTION:📍 Nerudova\, Žirovnice\, Pelhřimov\n💬 Otevření bytu.\n\n🚒 CAS (
+ HS Kamenice nad Lipou)\n🚒 CAS (Žirovnice)
 END:VEVENT
 BEGIN:VEVENT
 UID:410013061
@@ -480,7 +480,19 @@ SUMMARY:☣️ olej/PHM - Křižanov
 LOCATION:Křižanov
 GEO:49.393753;16.101190
 URL:geo:49.393753,16.101190
-DESCRIPTION:📍 Křižanov\, Žďár nad Sázavou\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 R
- ZA (HS Velké Meziříčí)
+DESCRIPTION:📍 Křižanov\, Žďár nad Sázavou\n💬 Zasypání a úklid úniku provozn
+ ích kapalin na komunikaci.\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (HS Velké M
+ eziříčí)
+END:VEVENT
+BEGIN:VEVENT
+UID:410014061
+DTSTART:20260422T183816Z
+DTEND:20260422T193816Z
+DTSTAMP:20260422T183816Z
+SUMMARY:🚗 úklid místa - Třebelovice
+LOCATION:Třebelovice
+GEO:49.022153;15.666232
+URL:geo:49.022153,15.666232
+DESCRIPTION:📍 Třebelovice\, Třebíč\n\n🚒 CAS (HS Jemnice)
 END:VEVENT
 END:VCALENDAR
