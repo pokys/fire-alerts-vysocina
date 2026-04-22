@@ -448,4 +448,15 @@ DESCRIPTION:📍 Veselý Žďár\, Havlíčkův Brod\n💬 DN OA a cyklisty. 1 z
  soba. Zajištění místa nehody proti požáru a úniku provozních kapalin.\n\n🚒
   CAS (CHS Havlíčkův Brod)
 END:VEVENT
+BEGIN:VEVENT
+UID:410009061
+DTSTART:20260422T170221Z
+DTEND:20260422T180221Z
+DTSTAMP:20260422T170221Z
+SUMMARY:🛠️ otevření bytu/auta - Jihlava
+LOCATION:Rokycanova\, Jihlava
+GEO:49.404586;15.588828
+URL:geo:49.404586,15.588828
+DESCRIPTION:📍 Rokycanova\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+END:VEVENT
 END:VCALENDAR
