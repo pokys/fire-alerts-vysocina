@@ -358,9 +358,9 @@ SUMMARY:🔥 saze v komíně - Suchá
 LOCATION:Suchá
 GEO:49.317944;15.570133
 URL:geo:49.317944,15.570133
-DESCRIPTION:📍 Beranovec\, Suchá\, Jihlava\n\n🚒 CAS (CHS Jihlava)\n🚒 CAS (CH
- S Jihlava)\n🚒 CAS (Dlouhá Brtnice)\n🚒 CAS (Stonařov)\n🚒 stříkačka přenosná
-  (Suchá)
+DESCRIPTION:📍 Beranovec\, Suchá\, Jihlava\n💬 Požár sazí v komíně. Lokalizac
+ e a likvidace.\n\n🚒 CAS (CHS Jihlava)\n🚒 CAS (CHS Jihlava)\n🚒 CAS (Dlouhá 
+ Brtnice)\n🚒 CAS (Stonařov)\n🚒 stříkačka přenosná (Suchá)
 END:VEVENT
 BEGIN:VEVENT
 UID:409994061
@@ -373,5 +373,17 @@ GEO:49.555776;15.958704
 URL:geo:49.555776,15.958704
 DESCRIPTION:📍 Jamská\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n💬 Planý popla
  ch.\n\n🚒 CAS (CHS Žďár nad Sázavou) ×2
+END:VEVENT
+BEGIN:VEVENT
+UID:409995061
+DTSTART:20260422T111400Z
+DTEND:20260422T121400Z
+DTSTAMP:20260422T111400Z
+SUMMARY:🚗 dopravní nehoda - Jihlava
+LOCATION:Romana Havelky\, Jihlava
+GEO:49.412502;15.576506
+URL:geo:49.412502,15.576506
+DESCRIPTION:📍 Romana Havelky\, Jihlava\n💬 Dopravní nehoda 2 OA. Zajištění m
+ ísta nehody.\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihlava)
 END:VEVENT
 END:VCALENDAR
