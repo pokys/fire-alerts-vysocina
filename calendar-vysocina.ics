@@ -477,8 +477,8 @@ SUMMARY:🚑 spolupráce ZZS - Bohdalov
 LOCATION:Bohdalov
 GEO:49.455177;15.856707
 URL:geo:49.455177,15.856707
-DESCRIPTION:📍 Chroustov\, Bohdalov\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár na
- d Sázavou)\n🚒 CAS (Bohdalov)
+DESCRIPTION:📍 Chroustov\, Bohdalov\, Žďár nad Sázavou\n💬 AED.\n\n🚒 CAS (CHS
+  Žďár nad Sázavou)\n🚒 CAS (Bohdalov)
 END:VEVENT
 BEGIN:VEVENT
 UID:410060061
@@ -490,6 +490,30 @@ LOCATION:Sídliště Pražská\, Havlíčkův Brod
 GEO:49.613515;15.574339
 URL:geo:49.613515,15.574339
 DESCRIPTION:📍 Sídliště Pražská\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Bro
- d)
+ d)\n🚒 AŽ (CHS Havlíčkův Brod)
+END:VEVENT
+BEGIN:VEVENT
+UID:410061061
+DTSTART:20260423T175329Z
+DTEND:20260423T185329Z
+DTSTAMP:20260423T175329Z
+SUMMARY:🔥 vozidlo - Velké Meziříčí
+LOCATION:Velké Meziříčí
+GEO:49.339768;16.054040
+URL:geo:49.339768,16.054040
+DESCRIPTION:📍 Dolní Radslavice\, Velké Meziříčí\, Žďár nad Sázavou\n\n🚒 CAS
+  (HS Velké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)\n🚒 vyšetřovací automobil (
+ ÚO Žďár nad Sázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:410062061
+DTSTART:20260423T175417Z
+DTEND:20260423T185417Z
+DTSTAMP:20260423T175417Z
+SUMMARY:🔥 odpad - Třebíč
+LOCATION:Táborská\, Třebíč
+GEO:49.223651;15.871335
+URL:geo:49.223651,15.871335
+DESCRIPTION:📍 Táborská\, Týn\, Třebíč\n\n🚒 CAS (CHS Třebíč)
 END:VEVENT
 END:VCALENDAR
