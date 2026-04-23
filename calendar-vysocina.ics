@@ -495,4 +495,16 @@ URL:geo:49.287098,16.223916
 DESCRIPTION:📍 Jihlavská\, Velká Bíteš\, Žďár nad Sázavou\n💬 Planý poplach.\
  n\n🚒 CAS (HS Velká Bíteš)
 END:VEVENT
+BEGIN:VEVENT
+UID:410019061
+DTSTART:20260423T050322Z
+DTEND:20260423T060322Z
+DTSTAMP:20260423T050322Z
+SUMMARY:🔥 venkovní požár - Moravské Budějovice
+LOCATION:Moravské Budějovice
+GEO:49.036638;15.765264
+URL:geo:49.036638,15.765264
+DESCRIPTION:📍 Jackov\, Moravské Budějovice\, Třebíč\n\n🚒 CAS (HS Moravské B
+ udějovice)
+END:VEVENT
 END:VCALENDAR
