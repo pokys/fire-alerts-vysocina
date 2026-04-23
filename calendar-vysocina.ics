@@ -514,6 +514,19 @@ SUMMARY:🔥 odpad - Třebíč
 LOCATION:Táborská\, Třebíč
 GEO:49.223651;15.871335
 URL:geo:49.223651,15.871335
-DESCRIPTION:📍 Táborská\, Týn\, Třebíč\n\n🚒 CAS (CHS Třebíč)
+DESCRIPTION:📍 Táborská\, Týn\, Třebíč\n💬 Požár odpadu. Beze škody.\n\n🚒 CAS
+  (CHS Třebíč)
+END:VEVENT
+BEGIN:VEVENT
+UID:410063061
+DTSTART:20260423T181950Z
+DTEND:20260423T191950Z
+DTSTAMP:20260423T181950Z
+SUMMARY:🛠️ otevření bytu/auta - Klučov
+LOCATION:Klučov
+GEO:49.166051;15.931076
+URL:geo:49.166051,15.931076
+DESCRIPTION:📍 Klučov\, Třebíč\n💬 Otevření rodinného domu.\n\n🚒 CAS (CHS Tře
+ bíč)
 END:VEVENT
 END:VCALENDAR
