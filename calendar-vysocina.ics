@@ -532,4 +532,17 @@ DESCRIPTION:📍 Jindřichov\, Velká Bíteš\, Žďár nad Sázavou\n\n🚒 CAS
  otorová stříkačka (Velká Bíteš-Jindřichov)\n🚒 CAS (Velká Bíteš)\n🚒 vyšetřo
  vací automobil (ÚO Žďár nad Sázavou)
 END:VEVENT
+BEGIN:VEVENT
+UID:410066061
+DTSTART:20260423T225900Z
+DTEND:20260423T235900Z
+DTSTAMP:20260423T225900Z
+SUMMARY:🔥 les - Kozlany
+LOCATION:Kozlany
+GEO:49.178984;16.046904
+URL:geo:49.178984,16.046904
+DESCRIPTION:📍 Kozlany\, Třebíč\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (CHS Třebíč)\n🚒
+  CAS (HS Hrotovice)\n🚒 CAS (HS Hrotovice)\n🚒 CAS (HS Náměšť nad Oslavou)\n
+ 🚒 přívěs motorová stříkačka (Kozlany)
+END:VEVENT
 END:VCALENDAR
