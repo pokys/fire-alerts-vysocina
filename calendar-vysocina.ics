@@ -479,4 +479,16 @@ URL:geo:49.286922,15.477727
 DESCRIPTION:📍 Jiráskova\, Třešť\, Jihlava\n💬 Otevření bytu.\n\n🚒 CAS (HS Tř
  ešť)
 END:VEVENT
+BEGIN:VEVENT
+UID:410042061
+DTSTART:20260423T102429Z
+DTEND:20260423T112429Z
+DTSTAMP:20260423T102429Z
+SUMMARY:🔥 venkovní požár - Černovice
+LOCATION:Mírová\, Černovice
+GEO:49.376816;14.965155
+URL:geo:49.376816,14.965155
+DESCRIPTION:📍 Mírová\, Černovice\, Pelhřimov\n\n🚒 CAS (HS Pacov)\n🚒 CAS (HS
+  Pacov)\n🚒 CAS (Černovice)\n🚒 CAS (Černovice)
+END:VEVENT
 END:VCALENDAR
