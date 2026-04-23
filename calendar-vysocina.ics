@@ -518,4 +518,29 @@ URL:geo:49.637368,15.401175
 DESCRIPTION:📍 Radostovice\, Světlá nad Sázavou\, Havlíčkův Brod\n\n🚒 CAS (S
  větlá nad Sázavou)
 END:VEVENT
+BEGIN:VEVENT
+UID:410055061
+DTSTART:20260423T133604Z
+DTEND:20260423T143604Z
+DTSTAMP:20260423T133604Z
+SUMMARY:🛠️ strom - Vysoká
+LOCATION:Nový Svět\, Vysoká
+GEO:49.566760;15.603457
+URL:geo:49.566760,15.603457
+DESCRIPTION:📍 Nový Svět\, Vysoká\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův B
+ rod)
+END:VEVENT
+BEGIN:VEVENT
+UID:410057061
+DTSTART:20260423T134647Z
+DTEND:20260423T144647Z
+DTSTAMP:20260423T134647Z
+SUMMARY:🔥 saze v komíně - Havlíčkův Brod
+LOCATION:Sokolovská\, Havlíčkův Brod
+GEO:49.596725;15.594757
+URL:geo:49.596725,15.594757
+DESCRIPTION:📍 Sokolovská\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 
+ CAS (CHS Havlíčkův Brod)\n🚒 CAS (Havlíčkův Brod-Perknov)\n🚒 DA (Havlíčkův 
+ Brod-Mírovka)
+END:VEVENT
 END:VCALENDAR
