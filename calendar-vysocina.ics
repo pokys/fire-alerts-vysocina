@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:409935061
-DTSTART:20260421T061354Z
-DTEND:20260421T071354Z
-DTSTAMP:20260421T061354Z
-SUMMARY:🚑 transport pacienta - Nové Město na Moravě
-LOCATION:Radnická\, Nové Město na Moravě
-GEO:49.561467;16.072091
-URL:geo:49.561467,16.072091
-DESCRIPTION:📍 Radnická\, Nové Město na Moravě\, Žďár nad Sázavou\n💬 Transpo
- rt pacienta na žádost ZZS.\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (Nové Mě
- sto na Moravě)\n🚒 TA (Nové Město na Moravě)
-END:VEVENT
-BEGIN:VEVENT
 UID:409936061
 DTSTART:20260421T061741Z
 DTEND:20260421T071741Z
@@ -481,8 +468,9 @@ SUMMARY:🔥 venkovní požár - Moravské Budějovice
 LOCATION:Moravské Budějovice
 GEO:49.036638;15.765264
 URL:geo:49.036638,15.765264
-DESCRIPTION:📍 Jackov\, Moravské Budějovice\, Třebíč\n\n🚒 CAS (HS Moravské B
- udějovice)
+DESCRIPTION:📍 Jackov\, Moravské Budějovice\, Třebíč\n💬 Požár velkoobjemovéh
+ o kontejneru. Jednotka provedla lokalizaci a likvidaci požáru.\n\n🚒 CAS (H
+ S Moravské Budějovice)
 END:VEVENT
 BEGIN:VEVENT
 UID:410020061
@@ -491,8 +479,8 @@ DTEND:20260423T061659Z
 DTSTAMP:20260423T051659Z
 SUMMARY:🛠️ dovoz vody - Vysoké Studnice
 LOCATION:Vysoké Studnice
-GEO:49.394010;15.730126
-URL:geo:49.394010,15.730126
+GEO:49.393060;15.722960
+URL:geo:49.393060,15.722960
 DESCRIPTION:📍 Vysoké Studnice\, Jihlava\n\n🚒 DA (Vysoké Studnice)
 END:VEVENT
 BEGIN:VEVENT
@@ -504,6 +492,18 @@ SUMMARY:🚑 Jihlava
 LOCATION:Vrchlického\, Jihlava
 GEO:49.397587;15.570883
 URL:geo:49.397587,15.570883
-DESCRIPTION:📍 Vrchlického\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+DESCRIPTION:📍 Vrchlického\, Jihlava\n💬 Sundání prstýnku.\n\n🚒 CAS (CHS Jihl
+ ava)
+END:VEVENT
+BEGIN:VEVENT
+UID:410024061
+DTSTART:20260423T060254Z
+DTEND:20260423T070254Z
+DTSTAMP:20260423T060254Z
+SUMMARY:🚗 dopravní nehoda - Krokočín
+LOCATION:Krokočín
+GEO:49.251600;16.214588
+URL:geo:49.251600,16.214588
+DESCRIPTION:📍 Krokočín\, Třebíč\n\n🚒 CAS (HS Velká Bíteš)
 END:VEVENT
 END:VCALENDAR
