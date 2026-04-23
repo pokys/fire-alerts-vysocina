@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:409965061
-DTSTART:20260421T143402Z
-DTEND:20260421T153402Z
-DTSTAMP:20260421T143402Z
-SUMMARY:🚑 vyproštění osoby - Pokojovice
-LOCATION:Pokojovice
-GEO:49.229218;15.750739
-URL:geo:49.229218,15.750739
-DESCRIPTION:📍 Pokojovice\, Třebíč\n💬 Vytažení zapadlých ovcí z bahna.\n\n🚒 
- CAS (CHS Třebíč)\n🚒 CAS (Okříšky)
-END:VEVENT
-BEGIN:VEVENT
 UID:409966061
 DTSTART:20260421T144059Z
 DTEND:20260421T154059Z
@@ -527,8 +515,8 @@ SUMMARY:🛠️ strom - Vysoká
 LOCATION:Nový Svět\, Vysoká
 GEO:49.566760;15.603457
 URL:geo:49.566760,15.603457
-DESCRIPTION:📍 Nový Svět\, Vysoká\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův B
- rod)
+DESCRIPTION:📍 Nový Svět\, Vysoká\, Havlíčkův Brod\n💬 Odstranění stromu.\n\n
+ 🚒 CAS (CHS Havlíčkův Brod)
 END:VEVENT
 BEGIN:VEVENT
 UID:410057061
@@ -552,6 +540,7 @@ SUMMARY:🛠️ strom - Stříbrné Hory
 LOCATION:Stříbrné Hory
 GEO:49.602268;15.676056
 URL:geo:49.602268,15.676056
-DESCRIPTION:📍 Stříbrné Hory\, Havlíčkův Brod\n\n🚒 CAS (Přibyslav)
+DESCRIPTION:📍 Stříbrné Hory\, Havlíčkův Brod\n💬 Odstranění stromu.\n\n🚒 CAS
+  (Přibyslav)
 END:VEVENT
 END:VCALENDAR
