@@ -482,18 +482,6 @@ DESCRIPTION:📍 Kostelec\, Jihlava\n💬 DN 1 OA bez zranění. Provedena PPO. 
  ištění místa události.\n\n🚒 RZA (CHS Jihlava)\n🚒 CAS (HS Třešť)
 END:VEVENT
 BEGIN:VEVENT
-UID:410048061
-DTSTART:20260423T115958Z
-DTEND:20260423T125958Z
-DTSTAMP:20260423T115958Z
-SUMMARY:🚑 záchrana ze stromu - Havlíčkův Brod
-LOCATION:Humpolecká\, Havlíčkův Brod
-GEO:49.597410;15.561794
-URL:geo:49.597410,15.561794
-DESCRIPTION:📍 Humpolecká\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 
- AŽ (CHS Havlíčkův Brod)
-END:VEVENT
-BEGIN:VEVENT
 UID:410049061
 DTSTART:20260423T120333Z
 DTEND:20260423T130333Z
@@ -509,11 +497,23 @@ UID:410050061
 DTSTART:20260423T120525Z
 DTEND:20260423T130525Z
 DTSTAMP:20260423T120525Z
-SUMMARY:🔥 vozidlo - Velká Bíteš
+SUMMARY:⚠️ planý poplach - Velká Bíteš
 LOCATION:Velká Bíteš
 GEO:49.272153;16.243667
 URL:geo:49.272153,16.243667
-DESCRIPTION:📍 Velká Bíteš\, Žďár nad Sázavou\n\n🚒 CAS (HS Velká Bíteš)\n🚒 R
- ZA (HS Velké Meziříčí)
+DESCRIPTION:📍 Velká Bíteš\, Žďár nad Sázavou\n💬 Planý poplach.\n\n🚒 CAS (HS
+  Velká Bíteš)\n🚒 RZA (HS Velké Meziříčí)
+END:VEVENT
+BEGIN:VEVENT
+UID:410052061
+DTSTART:20260423T122632Z
+DTEND:20260423T132632Z
+DTSTAMP:20260423T122632Z
+SUMMARY:☣️ plyn - Kamenice nad Lipou
+LOCATION:Na Tržišti\, Kamenice nad Lipou
+GEO:49.305443;15.073452
+URL:geo:49.305443,15.073452
+DESCRIPTION:📍 Na Tržišti\, Kamenice nad Lipou\, Pelhřimov\n\n🚒 CAS (HS Kame
+ nice nad Lipou)
 END:VEVENT
 END:VCALENDAR
