@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:409992061
-DTSTART:20260422T093949Z
-DTEND:20260422T103949Z
-DTSTAMP:20260422T093949Z
-SUMMARY:🔥 saze v komíně - Suchá
-LOCATION:Suchá
-GEO:49.317944;15.570133
-URL:geo:49.317944,15.570133
-DESCRIPTION:📍 Beranovec\, Suchá\, Jihlava\n💬 Požár sazí v komíně. Lokalizac
- e a likvidace.\n\n🚒 CAS (CHS Jihlava)\n🚒 CAS (CHS Jihlava)\n🚒 CAS (Dlouhá 
- Brtnice)\n🚒 CAS (Stonařov)\n🚒 stříkačka přenosná (Suchá)
-END:VEVENT
-BEGIN:VEVENT
 UID:409994061
 DTSTART:20260422T104510Z
 DTEND:20260422T114510Z
@@ -63,8 +50,7 @@ LOCATION:Puklice
 GEO:49.373872;15.614311
 URL:geo:49.373872,15.614311
 DESCRIPTION:📍 Puklice\, Jihlava\n💬 Dopravní nehoda 2 OA bez zranění. Likvid
- ace úniku PK a zajištění místa události.\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CH
- S Jihlava)
+ ace úniku PK a zajištění místa události.
 END:VEVENT
 BEGIN:VEVENT
 UID:410004061
