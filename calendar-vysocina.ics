@@ -490,7 +490,8 @@ DESCRIPTION:📍 Skřinářov\, Žďár nad Sázavou\n💬 Požár suché trávy
  CAS (Jabloňov)\n🚒 DA (Bory)\n🚒 CAS (Bory)\n🚒 přívěs technický (Bory)\n🚒 CA
  S (Nárameč)\n🚒 DA (Pikárec)\n🚒 CAS (Pikárec)\n🚒 přívěs motorová stříkačka 
  (Milešín)\n🚒 vyšetřovací automobil (KŘ HZS VYS)\n🚒 automobilový nosič kont
- ejnerů (CHS Havlíčkův Brod)\n🚒 kontejner týlový (CHS Havlíčkův Brod)
+ ejnerů (CHS Havlíčkův Brod)\n🚒 kontejner týlový (CHS Havlíčkův Brod)\n🚒 DA
+  (Heřmanov)
 END:VEVENT
 BEGIN:VEVENT
 UID:410133061
@@ -665,7 +666,7 @@ SUMMARY:🚑 transport pacienta - Rokytnice nad Rokytnou
 LOCATION:Rokytnice nad Rokytnou
 GEO:49.186880;15.746486
 URL:geo:49.186880,15.746486
-DESCRIPTION:📍 Rokytnice nad Rokytnou\, Třebíč\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS 
- (Rokytnice nad Rokytnou)
+DESCRIPTION:📍 Rokytnice nad Rokytnou\, Třebíč\n💬 Transport pacienta na žádo
+ st ZZS.\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (Rokytnice nad Rokytnou)
 END:VEVENT
 END:VCALENDAR
