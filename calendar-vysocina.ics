@@ -534,4 +534,15 @@ DESCRIPTION:📍 Kozlany\, Třebíč\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (CHS 
   CAS (HS Hrotovice)\n🚒 CAS (HS Hrotovice)\n🚒 CAS (HS Náměšť nad Oslavou)\n
  🚒 přívěs motorová stříkačka (Kozlany)
 END:VEVENT
+BEGIN:VEVENT
+UID:410067061
+DTSTART:20260424T010132Z
+DTEND:20260424T020132Z
+DTSTAMP:20260424T010132Z
+SUMMARY:🚑 transport pacienta - Netín
+LOCATION:Netín
+GEO:49.411595;15.952079
+URL:geo:49.411595,15.952079
+DESCRIPTION:📍 Netín\, Žďár nad Sázavou\n\n🚒 CAS (HS Velké Meziříčí)
+END:VEVENT
 END:VCALENDAR
