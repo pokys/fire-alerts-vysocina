@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:409994061
-DTSTART:20260422T104510Z
-DTEND:20260422T114510Z
-DTSTAMP:20260422T104510Z
-SUMMARY:⚠️ planý poplach - Žďár nad Sázavou
-LOCATION:Jamská\, Žďár nad Sázavou
-GEO:49.555776;15.958704
-URL:geo:49.555776,15.958704
-DESCRIPTION:📍 Jamská\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n💬 Planý popla
- ch.\n\n🚒 CAS (CHS Žďár nad Sázavou) ×2
-END:VEVENT
-BEGIN:VEVENT
 UID:409995061
 DTSTART:20260422T111400Z
 DTEND:20260422T121400Z
@@ -534,8 +522,8 @@ SUMMARY:🚗 bez zranění - Jihlava
 LOCATION:Jihlava
 GEO:49.468705;15.570492
 URL:geo:49.468705,15.570492
-DESCRIPTION:📍 Antonínův Důl\, Jihlava\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Ji
- hlava)
+DESCRIPTION:📍 Antonínův Důl\, Jihlava\n💬 DN 2 OA bez zranění. Zajištění mís
+ ta události.\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:410111061
