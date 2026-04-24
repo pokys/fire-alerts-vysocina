@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:410014061
-DTSTART:20260422T183816Z
-DTEND:20260422T193816Z
-DTSTAMP:20260422T183816Z
-SUMMARY:🚗 úklid místa - Třebelovice
-LOCATION:Třebelovice
-GEO:49.022153;15.666232
-URL:geo:49.022153,15.666232
-DESCRIPTION:📍 Třebelovice\, Třebíč\n💬 DN vozu ZZS se srnou. Zajištění místa
-  události.\n\n🚒 CAS (HS Jemnice)
-END:VEVENT
-BEGIN:VEVENT
 UID:410017061
 DTSTART:20260422T211346Z
 DTEND:20260422T221346Z
@@ -525,7 +513,8 @@ LOCATION:Moravské Budějovice
 GEO:49.038951;15.758852
 URL:geo:49.038951,15.758852
 DESCRIPTION:📍 Jackov\, Moravské Budějovice\, Třebíč\n💬 Odstranění stromu.\n
- \n🚒 CAS (HS Moravské Budějovice)\n🚒 AŽ (HS Moravské Budějovice)
+ \n🚒 CAS (HS Moravské Budějovice)\n🚒 AŽ (HS Moravské Budějovice)\n🚒 pila ře
+ tězová (HS Moravské Budějovice)
 END:VEVENT
 BEGIN:VEVENT
 UID:410138061
@@ -614,7 +603,8 @@ LOCATION:Koroužné
 GEO:49.528881;16.349322
 URL:geo:49.528881,16.349322
 DESCRIPTION:📍 Koroužné\, Žďár nad Sázavou\n\n🚒 CAS (HS Bystřice nad Pernšte
- jnem)\n🚒 DA (Štěpánov nad Svratkou)\n🚒 CAS (Štěpánov nad Svratkou)
+ jnem)\n🚒 DA (Štěpánov nad Svratkou)\n🚒 CAS (Štěpánov nad Svratkou)\n🚒 DA (
+ Koroužné)
 END:VEVENT
 BEGIN:VEVENT
 UID:410146061
