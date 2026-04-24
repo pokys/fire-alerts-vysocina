@@ -520,23 +520,24 @@ UID:410129061
 DTSTART:20260424T133413Z
 DTEND:20260424T143413Z
 DTSTAMP:20260424T133413Z
-SUMMARY:🔥 tráva/plocha - Skřinářov
+SUMMARY:🔥 les - Skřinářov
 LOCATION:Skřinářov
 GEO:49.356340;16.181831
 URL:geo:49.356340,16.181831
-DESCRIPTION:📍 Skřinářov\, Žďár nad Sázavou\n💬 Požár pole a lesa o rozsahu 4
- 00x400 m\, bez zranění. Vyhlášen 3. stupeň požárního poplachu. Na místo po
- volán vrtulník pro hašení lesních požárů. Provedena lokalizace a likvidace
-  požáru.\n\n🚒 CAS (HS Velká Bíteš)\n🚒 DA (Křižanov)\n🚒 CAS (Křižanov)\n🚒 C
- AS (Osová Bítýška)\n🚒 automobilová stříkačka (Skřinářov)\n🚒 účelový automo
- bil do 3500 kg (ÚO Žďár nad Sázavou)\n🚒 DA (Velká Bíteš)\n🚒 CAS (Velká Bít
- eš)\n🚒 osobní automobil (Velká Bíteš)\n🚒 DA (Budišov)\n🚒 CAS (Budišov)\n🚒 
- CAS (Velké Meziříčí)\n🚒 CAS (Velké Meziříčí)\n🚒 CAS (Tasov)\n🚒 DA (CHS Žďá
- r nad Sázavou)\n🚒 VEA (CHS Žďár nad Sázavou)\n🚒 vozidlo účelové - SxS (CHS
-  Žďár nad Sázavou)\n🚒 přívěs nákladní (CHS Žďár nad Sázavou)\n🚒 CAS (HS Ve
- lké Meziříčí)\n🚒 CAS (Jabloňov)\n🚒 DA (Bory)\n🚒 CAS (Bory)\n🚒 přívěs techn
- ický (Bory)\n🚒 CAS (Nárameč)\n🚒 DA (Pikárec)\n🚒 CAS (Pikárec)\n🚒 přívěs mo
- torová stříkačka (Milešín)\n🚒 vyšetřovací automobil (KŘ HZS VYS)
+DESCRIPTION:📍 Skřinářov\, Žďár nad Sázavou\n💬 Požár suché trávy a lesního p
+ orostu na ploše 400x400 m\, bez zranění. Vyhlášen 3. stupeň požárního popl
+ achu. Na místo povolán vrtulník pro hašení lesních požárů. Provedena lokal
+ izace a likvidace požáru.\n\n🚒 CAS (HS Velká Bíteš)\n🚒 DA (Křižanov)\n🚒 CA
+ S (Křižanov)\n🚒 CAS (Osová Bítýška)\n🚒 automobilová stříkačka (Skřinářov)\
+ n🚒 účelový automobil do 3500 kg (ÚO Žďár nad Sázavou)\n🚒 DA (Velká Bíteš)\
+ n🚒 CAS (Velká Bíteš)\n🚒 osobní automobil (Velká Bíteš)\n🚒 DA (Budišov)\n🚒 
+ CAS (Budišov)\n🚒 CAS (Velké Meziříčí)\n🚒 CAS (Velké Meziříčí)\n🚒 DA (Tasov
+ )\n🚒 CAS (Tasov)\n🚒 DA (CHS Žďár nad Sázavou)\n🚒 VEA (CHS Žďár nad Sázavou
+ )\n🚒 vozidlo účelové - SxS (CHS Žďár nad Sázavou)\n🚒 přívěs nákladní (CHS 
+ Žďár nad Sázavou)\n🚒 CAS (HS Velké Meziříčí)\n🚒 CAS (Jabloňov)\n🚒 DA (Bory
+ )\n🚒 CAS (Bory)\n🚒 přívěs technický (Bory)\n🚒 CAS (Nárameč)\n🚒 DA (Pikárec
+ )\n🚒 CAS (Pikárec)\n🚒 přívěs motorová stříkačka (Milešín)\n🚒 vyšetřovací a
+ utomobil (KŘ HZS VYS)
 END:VEVENT
 BEGIN:VEVENT
 UID:410133061
@@ -571,9 +572,10 @@ SUMMARY:🔥 budova - Druhanov
 LOCATION:Druhanov
 GEO:49.696320;15.410968
 URL:geo:49.696320,15.410968
-DESCRIPTION:📍 Druhanov\, Havlíčkův Brod\n\n🚒 CAS (HS Ledeč nad Sázavou)\n🚒 
- CAS (HS Světlá nad Sázavou)\n🚒 CAS (Druhanov)\n🚒 DA (Světlá nad Sázavou)\n
- 🚒 CAS (Světlá nad Sázavou)\n🚒 vyšetřovací automobil (ÚO Havlíčkův Brod)
+DESCRIPTION:📍 Druhanov\, Havlíčkův Brod\n💬 Požár podkroví v RD. Provedena l
+ okalizace a likvidace požáru.\n\n🚒 CAS (HS Ledeč nad Sázavou)\n🚒 CAS (HS S
+ větlá nad Sázavou)\n🚒 CAS (Druhanov)\n🚒 DA (Světlá nad Sázavou)\n🚒 CAS (Sv
+ ětlá nad Sázavou)\n🚒 vyšetřovací automobil (ÚO Havlíčkův Brod)
 END:VEVENT
 BEGIN:VEVENT
 UID:410139061
@@ -624,5 +626,16 @@ URL:geo:49.536626,15.334122
 DESCRIPTION:📍 Nádražní\, Humpolec\, Pelhřimov\n💬 Hlášený kouř z OA. Průzkum
  em na místě jednotka zjistila\, že se jednalo o technickou závadu.\n\n🚒 CA
  S (HS Humpolec)
+END:VEVENT
+BEGIN:VEVENT
+UID:410144061
+DTSTART:20260424T164503Z
+DTEND:20260424T174503Z
+DTSTAMP:20260424T164503Z
+SUMMARY:🛠️ ostatní - Humpolec
+LOCATION:Školní\, Humpolec
+GEO:49.539734;15.354272
+URL:geo:49.539734,15.354272
+DESCRIPTION:📍 Školní\, Humpolec\, Pelhřimov\n\n🚒 CAS (HS Humpolec)
 END:VEVENT
 END:VCALENDAR
