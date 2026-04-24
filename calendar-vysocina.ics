@@ -525,4 +525,16 @@ DESCRIPTION:📍 Velká Bíteš\, Žďár nad Sázavou\n💬 Úklid komunikace p
  ké závadě převozového vozu.\n\n🚒 CAS (HS Velká Bíteš)\n🚒 RZA (HS Velké Mez
  iříčí)
 END:VEVENT
+BEGIN:VEVENT
+UID:410102061
+DTSTART:20260424T084624Z
+DTEND:20260424T094624Z
+DTSTAMP:20260424T084624Z
+SUMMARY:🚗 dopravní nehoda - Jihlava
+LOCATION:Jihlava
+GEO:49.462868;15.580827
+URL:geo:49.462868,15.580827
+DESCRIPTION:📍 Antonínův Důl\, Jihlava\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Ji
+ hlava)
+END:VEVENT
 END:VCALENDAR
