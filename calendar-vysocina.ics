@@ -547,10 +547,11 @@ SUMMARY:🔥 les - Vepřová
 LOCATION:Vepřová
 GEO:49.627370;15.810265
 URL:geo:49.627370,15.810265
-DESCRIPTION:📍 Vepřová\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒
-  CAS (CHS Žďár nad Sázavou)\n🚒 CAS (Havlíčkova Borová)\n🚒 CAS (Velká Losen
- ice)\n🚒 DA (Vepřová)\n🚒 CAS (Vepřová)\n🚒 účelový automobil do 3500 kg (ÚO 
- Žďár nad Sázavou)
+DESCRIPTION:📍 Vepřová\, Žďár nad Sázavou\n💬 Požár lesního porostu. Proveden
+ a lokalizace a likvidace požáru\,\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (
+ CHS Žďár nad Sázavou)\n🚒 CAS (Havlíčkova Borová)\n🚒 CAS (Velká Losenice)\n
+ 🚒 DA (Vepřová)\n🚒 CAS (Vepřová)\n🚒 účelový automobil do 3500 kg (ÚO Žďár n
+ ad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:410114061
@@ -563,5 +564,16 @@ GEO:49.596354;15.603690
 URL:geo:49.596354,15.603690
 DESCRIPTION:📍 Mírová\, Havlíčkův Brod\n💬 Odstranění olejové skvrny z pozemn
  í komunikace pomocí sorbentu.\n\n🚒 CAS (CHS Havlíčkův Brod)
+END:VEVENT
+BEGIN:VEVENT
+UID:410125061
+DTSTART:20260424T124955Z
+DTEND:20260424T134955Z
+DTSTAMP:20260424T124955Z
+SUMMARY:🔥 les - Pacov
+LOCATION:Pacov
+GEO:49.475496;14.995462
+URL:geo:49.475496,14.995462
+DESCRIPTION:📍 Pacov\, Pelhřimov\n\n🚒 CAS (HS Pacov)
 END:VEVENT
 END:VCALENDAR
