@@ -5,30 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:410004061
-DTSTART:20260422T143141Z
-DTEND:20260422T153141Z
-DTSTAMP:20260422T143141Z
-SUMMARY:🚗 úklid místa - Velká Bíteš
-LOCATION:Velká Bíteš
-GEO:49.277122;16.217773
-URL:geo:49.277122,16.217773
-DESCRIPTION:📍 Velká Bíteš\, Žďár nad Sázavou\n💬 DN 2 OA. Bez zranění. Jedno
- tka provedla úklid komunikace.\n\n🚒 CAS (HS Velká Bíteš)\n🚒 CAS (HS Velké 
- Meziříčí)\n🚒 RZA (HS Velké Meziříčí)
-END:VEVENT
-BEGIN:VEVENT
-UID:410005061
-DTSTART:20260422T143342Z
-DTEND:20260422T153342Z
-DTSTAMP:20260422T143342Z
-SUMMARY:🛠️ dovoz vody - Horní Cerekev
-LOCATION:Horní Cerekev
-GEO:49.320260;15.327690
-URL:geo:49.320260,15.327690
-DESCRIPTION:📍 Horní Cerekev\, Pelhřimov\n💬 ZOČ.\n\n🚒 CAS (Horní Cerekev)
-END:VEVENT
-BEGIN:VEVENT
 UID:410006061
 DTSTART:20260422T155723Z
 DTEND:20260422T165723Z
@@ -576,8 +552,8 @@ URL:geo:49.356340,16.181831
 DESCRIPTION:📍 Skřinářov\, Žďár nad Sázavou\n\n🚒 CAS (HS Velká Bíteš)\n🚒 CAS
   (Křižanov)\n🚒 CAS (Osová Bítýška)\n🚒 automobilová stříkačka (Skřinářov)\n
  🚒 účelový automobil do 3500 kg (ÚO Žďár nad Sázavou)\n🚒 CAS (Velká Bíteš)\
- n🚒 CAS (Budišov)\n🚒 CAS (Velké Meziříčí)\n🚒 CAS (Tasov)\n🚒 VEA (CHS Žďár n
- ad Sázavou)
+ n🚒 DA (Budišov)\n🚒 CAS (Budišov)\n🚒 CAS (Velké Meziříčí)\n🚒 CAS (Tasov)\n🚒
+  VEA (CHS Žďár nad Sázavou)\n🚒 CAS (HS Velké Meziříčí)\n🚒 CAS (Jabloňov)
 END:VEVENT
 BEGIN:VEVENT
 UID:410133061
@@ -600,6 +576,6 @@ LOCATION:Moravské Budějovice
 GEO:49.038951;15.758852
 URL:geo:49.038951,15.758852
 DESCRIPTION:📍 Jackov\, Moravské Budějovice\, Třebíč\n\n🚒 CAS (HS Moravské B
- udějovice)
+ udějovice)\n🚒 AŽ (HS Moravské Budějovice)
 END:VEVENT
 END:VCALENDAR
