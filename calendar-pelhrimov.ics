@@ -103,4 +103,16 @@ URL:geo:49.539734,15.354272
 DESCRIPTION:📍 Školní\, Humpolec\, Pelhřimov\n💬 Pomoc s imobilní osobou\, be
  z zranění.\n\n🚒 CAS (HS Humpolec)
 END:VEVENT
+BEGIN:VEVENT
+UID:410147061
+DTSTART:20260424T174649Z
+DTEND:20260424T184649Z
+DTSTAMP:20260424T174649Z
+SUMMARY:🚗 dopravní nehoda - Těmice
+LOCATION:Těmice
+GEO:49.365879;15.052652
+URL:geo:49.365879,15.052652
+DESCRIPTION:📍 Těmice\, Pelhřimov\n💬 SN 1 OA\, se zraněním.\n\n🚒 CAS (HS Kam
+ enice nad Lipou)
+END:VEVENT
 END:VCALENDAR
