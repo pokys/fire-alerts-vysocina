@@ -470,9 +470,9 @@ GEO:49.267643;16.199928
 URL:geo:49.267643,16.199928
 DESCRIPTION:📍 Jindřichov\, Velká Bíteš\, Žďár nad Sázavou\n💬 Zahoření venti
  lace. Jednotka provedla rozebrání a prolití konstrukce sila.\n\n🚒 CAS (HS 
- Náměšť nad Oslavou)\n🚒 CAS (HS Velká Bíteš)\n🚒 AŽ (HS Velká Bíteš)\n🚒 přív
- ěs motorová stříkačka (Velká Bíteš-Jindřichov)\n🚒 CAS (Velká Bíteš)\n🚒 vyš
- etřovací automobil (ÚO Žďár nad Sázavou)
+ Náměšť nad Oslavou) ×2\n🚒 CAS (HS Velká Bíteš) ×2\n🚒 AŽ (HS Velká Bíteš)\n
+ 🚒 přívěs motorová stříkačka (Velká Bíteš-Jindřichov)\n🚒 CAS (Velká Bíteš)\
+ n🚒 vyšetřovací automobil (ÚO Žďár nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:410066061
@@ -519,9 +519,10 @@ DTEND:20260424T083756Z
 DTSTAMP:20260424T073756Z
 SUMMARY:☣️ olej/PHM - Velká Bíteš
 LOCATION:Velká Bíteš
-GEO:49.272643;16.237566
-URL:geo:49.272643,16.237566
-DESCRIPTION:📍 Janovice\, Velká Bíteš\, Žďár nad Sázavou\n\n🚒 CAS (HS Velká 
- Bíteš)\n🚒 RZA (HS Velké Meziříčí)
+GEO:49.273051;16.235379
+URL:geo:49.273051,16.235379
+DESCRIPTION:📍 Velká Bíteš\, Žďár nad Sázavou\n💬 Úklid komunikace po technic
+ ké závadě převozového vozu.\n\n🚒 CAS (HS Velká Bíteš)\n🚒 RZA (HS Velké Mez
+ iříčí)
 END:VEVENT
 END:VCALENDAR
