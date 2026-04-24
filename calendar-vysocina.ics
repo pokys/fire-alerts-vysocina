@@ -552,8 +552,11 @@ URL:geo:49.356340,16.181831
 DESCRIPTION:📍 Skřinářov\, Žďár nad Sázavou\n\n🚒 CAS (HS Velká Bíteš)\n🚒 CAS
   (Křižanov)\n🚒 CAS (Osová Bítýška)\n🚒 automobilová stříkačka (Skřinářov)\n
  🚒 účelový automobil do 3500 kg (ÚO Žďár nad Sázavou)\n🚒 CAS (Velká Bíteš)\
- n🚒 DA (Budišov)\n🚒 CAS (Budišov)\n🚒 CAS (Velké Meziříčí)\n🚒 CAS (Tasov)\n🚒
-  VEA (CHS Žďár nad Sázavou)\n🚒 CAS (HS Velké Meziříčí)\n🚒 CAS (Jabloňov)
+ n🚒 DA (Budišov)\n🚒 CAS (Budišov)\n🚒 CAS (Velké Meziříčí)\n🚒 CAS (Velké Mez
+ iříčí)\n🚒 CAS (Tasov)\n🚒 VEA (CHS Žďár nad Sázavou) ×2\n🚒 vozidlo účelové 
+ - SxS (CHS Žďár nad Sázavou)\n🚒 přívěs nákladní (CHS Žďár nad Sázavou)\n🚒 
+ CAS (HS Velké Meziříčí)\n🚒 CAS (Jabloňov)\n🚒 CAS (Bory)\n🚒 CAS (Nárameč)\n
+ 🚒 CAS (Pikárec)\n🚒 přívěs motorová stříkačka (Milešín)
 END:VEVENT
 BEGIN:VEVENT
 UID:410133061
@@ -577,5 +580,28 @@ GEO:49.038951;15.758852
 URL:geo:49.038951,15.758852
 DESCRIPTION:📍 Jackov\, Moravské Budějovice\, Třebíč\n\n🚒 CAS (HS Moravské B
  udějovice)\n🚒 AŽ (HS Moravské Budějovice)
+END:VEVENT
+BEGIN:VEVENT
+UID:410138061
+DTSTART:20260424T145003Z
+DTEND:20260424T155003Z
+DTSTAMP:20260424T145003Z
+SUMMARY:🔥 budova - Druhanov
+LOCATION:Druhanov
+GEO:49.696320;15.410968
+URL:geo:49.696320,15.410968
+DESCRIPTION:📍 Druhanov\, Havlíčkův Brod\n\n🚒 CAS (HS Ledeč nad Sázavou)\n🚒 
+ CAS (HS Světlá nad Sázavou)\n🚒 CAS (Druhanov)\n🚒 CAS (Světlá nad Sázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:410139061
+DTSTART:20260424T145145Z
+DTEND:20260424T155145Z
+DTSTAMP:20260424T145145Z
+SUMMARY:🚗 se zraněním - Kostelec
+LOCATION:Kostelec
+GEO:49.373665;15.502959
+URL:geo:49.373665,15.502959
+DESCRIPTION:📍 Kostelec\, Jihlava\n\n🚒 RZA (CHS Jihlava)\n🚒 CAS (HS Třešť)
 END:VEVENT
 END:VCALENDAR
