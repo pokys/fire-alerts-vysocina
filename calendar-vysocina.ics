@@ -615,8 +615,8 @@ SUMMARY:🛠️ ostatní - Jimramov
 LOCATION:Kostelní\, Jimramov
 GEO:49.636555;16.224841
 URL:geo:49.636555,16.224841
-DESCRIPTION:📍 Kostelní\, Jimramov\, Žďár nad Sázavou\n\n🚒 DA (Jimramov)\n🚒 
- CAS (Jimramov)
+DESCRIPTION:📍 Kostelní\, Jimramov\, Žďár nad Sázavou\n💬 ZOČ\n\n🚒 DA (Jimram
+ ov)\n🚒 CAS (Jimramov)
 END:VEVENT
 BEGIN:VEVENT
 UID:410147061
@@ -639,7 +639,7 @@ SUMMARY:🚗 bez zranění - Meziříčko
 LOCATION:Meziříčko
 GEO:49.404787;15.831852
 URL:geo:49.404787,15.831852
-DESCRIPTION:📍 Meziříčko\, Žďár nad Sázavou\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (C
- HS Jihlava)
+DESCRIPTION:📍 Meziříčko\, Žďár nad Sázavou\n💬 DN dodávky a kamionu\, bez zr
+ anění. Zabezpečení místa DN.\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihlava)
 END:VEVENT
 END:VCALENDAR
