@@ -111,7 +111,7 @@ SUMMARY:🛠️ ostatní - Pelhřimov
 LOCATION:Pelhřimov
 GEO:49.445150;15.232891
 URL:geo:49.445150,15.232891
-DESCRIPTION:💬 Vyproštění OA.\n\n🚒 CAS (CHS Pelhřimov)
+DESCRIPTION:💬 Vyproštění uvízlého OA z příkopu.\n\n🚒 CAS (CHS Pelhřimov)
 END:VEVENT
 BEGIN:VEVENT
 UID:410208061
@@ -122,7 +122,7 @@ SUMMARY:🔥 odpad - Pelhřimov
 LOCATION:Pražská\, Pelhřimov
 GEO:49.436710;15.211930
 URL:geo:49.436710,15.211930
-DESCRIPTION:📍 Pražská\, Pelhřimov\n💬 Požár odpadkového koše.\n\n🚒 CAS (CHS 
- Pelhřimov)
+DESCRIPTION:📍 Pražská\, Pelhřimov\n💬 Požár odpadkového koše. Provedena loka
+ lizace a likvidace požáru.\n\n🚒 CAS (CHS Pelhřimov)
 END:VEVENT
 END:VCALENDAR
