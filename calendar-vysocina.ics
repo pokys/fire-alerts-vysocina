@@ -595,8 +595,8 @@ SUMMARY:🚗 dopravní nehoda - Kamenice nad Lipou
 LOCATION:Kamenice nad Lipou
 GEO:49.308000;15.074099
 URL:geo:49.308000,15.074099
-DESCRIPTION:📍 Kamenice nad Lipou\, Pelhřimov\n💬 DN 1 OA\, 1 zraněná osoba.\
- n\n🚒 CAS (HS Kamenice nad Lipou)
+DESCRIPTION:📍 Kamenice nad Lipou\, Pelhřimov\n💬 DN 1 OA\, jedna zraněná oso
+ ba. Zajištění místa události.\n\n🚒 CAS (HS Kamenice nad Lipou)
 END:VEVENT
 BEGIN:VEVENT
 UID:410168061
@@ -619,8 +619,8 @@ SUMMARY:🚗 bez zranění - Jihlava
 LOCATION:Vrchlického\, Jihlava
 GEO:49.397338;15.574122
 URL:geo:49.397338,15.574122
-DESCRIPTION:📍 Vrchlického\, Jihlava\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihl
- ava)
+DESCRIPTION:📍 Vrchlického\, Jihlava\n💬 DN OA a vozidla ZZS\, bez zranění. Z
+ ajištění místa události.\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:410174061
@@ -655,7 +655,19 @@ SUMMARY:🛠️ otevření bytu/auta - Moravské Budějovice
 LOCATION:Funtíčkova\, Moravské Budějovice
 GEO:49.057289;15.810637
 URL:geo:49.057289,15.810637
-DESCRIPTION:📍 Funtíčkova\, Moravské Budějovice\, Třebíč\n\n🚒 CAS (HS Moravs
- ké Budějovice)
+DESCRIPTION:📍 Funtíčkova\, Moravské Budějovice\, Třebíč\n💬 Zabouchnutý byt.
+ \n\n🚒 CAS (HS Moravské Budějovice)
+END:VEVENT
+BEGIN:VEVENT
+UID:410180061
+DTSTART:20260425T103614Z
+DTEND:20260425T113614Z
+DTSTAMP:20260425T103614Z
+SUMMARY:🛠️ ostatní - Náměšť nad Oslavou
+LOCATION:Husova\, Náměšť nad Oslavou
+GEO:49.209075;16.154274
+URL:geo:49.209075,16.154274
+DESCRIPTION:📍 Husova\, Náměšť nad Oslavou\, Třebíč\n💬 Pomoc se zvednutím im
+ obilní osoby.\n\n🚒 CAS (HS Náměšť nad Oslavou)
 END:VEVENT
 END:VCALENDAR
