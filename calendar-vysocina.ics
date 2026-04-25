@@ -5,31 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:410049061
-DTSTART:20260423T120333Z
-DTEND:20260423T130333Z
-DTSTAMP:20260423T120333Z
-SUMMARY:🚗 dopravní nehoda - Smrčná
-LOCATION:Smrčná
-GEO:49.476242;15.563324
-URL:geo:49.476242,15.563324
-DESCRIPTION:📍 Smrčná\, Jihlava\n💬 DN 1 OA a NA se zraněním jedné osoby. Pro
- vedena PPO. Zajištění místa události.\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS J
- ihlava)
-END:VEVENT
-BEGIN:VEVENT
-UID:410050061
-DTSTART:20260423T120525Z
-DTEND:20260423T130525Z
-DTSTAMP:20260423T120525Z
-SUMMARY:⚠️ planý poplach - Velká Bíteš
-LOCATION:Velká Bíteš
-GEO:49.272153;16.243667
-URL:geo:49.272153,16.243667
-DESCRIPTION:📍 Velká Bíteš\, Žďár nad Sázavou\n💬 Planý poplach.\n\n🚒 CAS (HS
-  Velká Bíteš)\n🚒 RZA (HS Velké Meziříčí)\n🚒 CAS (HS Rosice)
-END:VEVENT
-BEGIN:VEVENT
 UID:410052061
 DTSTART:20260423T122632Z
 DTEND:20260423T132632Z
@@ -664,12 +639,12 @@ UID:410182061
 DTSTART:20260425T110038Z
 DTEND:20260425T120038Z
 DTSTAMP:20260425T110038Z
-SUMMARY:🚗 se zraněním - Třebíč
+SUMMARY:🚗 dopravní nehoda - Třebíč
 LOCATION:Vaňkovo nám.\, Třebíč
 GEO:49.210856;15.883632
 URL:geo:49.210856,15.883632
-DESCRIPTION:📍 Vaňkovo nám.\, Horka-Domky\, Třebíč\n💬 DN 1 OA a motocyklu s 
- 1 zraněnou osobou.\n\n🚒 CAS (CHS Třebíč)
+DESCRIPTION:📍 Vaňkovo nám.\, Horka-Domky\, Třebíč\n💬 DN motocyklu s 1 zraně
+ nou osobou. Zajištění místa nehody a řízení dopravy.\n\n🚒 CAS (CHS Třebíč)
 END:VEVENT
 BEGIN:VEVENT
 UID:410186061
@@ -691,6 +666,31 @@ SUMMARY:🚗 dopravní nehoda - Jemnice
 LOCATION:Jemnice
 GEO:49.034863;15.564935
 URL:geo:49.034863,15.564935
-DESCRIPTION:📍 Jemnice\, Třebíč\n\n🚒 CAS (HS Jemnice)
+DESCRIPTION:📍 Jemnice\, Třebíč\n💬 DN 1 OA a motocyklu s 1 zraněnou osobou.\
+ n\n🚒 CAS (HS Jemnice)
+END:VEVENT
+BEGIN:VEVENT
+UID:410192061
+DTSTART:20260425T115347Z
+DTEND:20260425T125347Z
+DTSTAMP:20260425T115347Z
+SUMMARY:🔥 venkovní požár - Černovice
+LOCATION:Černovice
+GEO:49.378400;14.972797
+URL:geo:49.378400,14.972797
+DESCRIPTION:📍 Černovice\, Pelhřimov\n\n🚒 CAS (HS Pacov)\n🚒 CAS (HS Pacov)\n
+ 🚒 CAS (Černovice)\n🚒 CAS (Černovice)
+END:VEVENT
+BEGIN:VEVENT
+UID:410194061
+DTSTART:20260425T115916Z
+DTEND:20260425T125916Z
+DTSTAMP:20260425T115916Z
+SUMMARY:🔥 odpad - Žďár nad Sázavou
+LOCATION:Žďár nad Sázavou
+GEO:49.562851;15.939604
+URL:geo:49.562851,15.939604
+DESCRIPTION:📍 Žďár nad Sázavou 1\, Žďár nad Sázavou\n💬 Prolití doutnajícího
+  odpadkového koše.\n\n🚒 CAS (CHS Žďár nad Sázavou)
 END:VEVENT
 END:VCALENDAR
