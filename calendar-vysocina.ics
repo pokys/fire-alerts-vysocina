@@ -647,4 +647,16 @@ URL:geo:49.308000,15.074099
 DESCRIPTION:📍 Kamenice nad Lipou\, Pelhřimov\n\n🚒 CAS (HS Kamenice nad Lipo
  u)
 END:VEVENT
+BEGIN:VEVENT
+UID:410168061
+DTSTART:20260425T072111Z
+DTEND:20260425T082111Z
+DTSTAMP:20260425T072111Z
+SUMMARY:🛠️ otevření bytu/auta - Žďár nad Sázavou
+LOCATION:Libušínská\, Žďár nad Sázavou
+GEO:49.568164;15.937673
+URL:geo:49.568164,15.937673
+DESCRIPTION:📍 Libušínská\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n\n🚒 CAS (
+ CHS Žďár nad Sázavou)
+END:VEVENT
 END:VCALENDAR
