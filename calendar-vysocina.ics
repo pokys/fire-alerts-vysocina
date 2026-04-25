@@ -5,20 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:410066061
-DTSTART:20260423T225900Z
-DTEND:20260423T235900Z
-DTSTAMP:20260423T225900Z
-SUMMARY:🔥 les - Kozlany
-LOCATION:Kozlany
-GEO:49.179582;16.042725
-URL:geo:49.179582,16.042725
-DESCRIPTION:📍 Kozlany\, Třebíč\n💬 Požár listí a trávy v lese\, 5x10m\, loka
- lizace a likvidace.\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (CHS Třebíč)\n🚒 CAS (HS H
- rotovice)\n🚒 CAS (HS Hrotovice)\n🚒 CAS (HS Náměšť nad Oslavou)\n🚒 přívěs m
- otorová stříkačka (Kozlany)
-END:VEVENT
-BEGIN:VEVENT
 UID:410067061
 DTSTART:20260424T010132Z
 DTEND:20260424T020132Z
