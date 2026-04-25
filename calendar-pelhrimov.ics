@@ -102,4 +102,16 @@ URL:geo:49.254695,15.194881
 DESCRIPTION:📍 Počátecká\, Žirovnice\, Pelhřimov\n💬 Otevření dveří.\n\n🚒 CAS
   (HS Kamenice nad Lipou)\n🚒 CAS (Žirovnice)
 END:VEVENT
+BEGIN:VEVENT
+UID:410192061
+DTSTART:20260425T115347Z
+DTEND:20260425T125347Z
+DTSTAMP:20260425T115347Z
+SUMMARY:🔥 venkovní požár - Černovice
+LOCATION:Černovice
+GEO:49.378400;14.972797
+URL:geo:49.378400,14.972797
+DESCRIPTION:📍 Černovice\, Pelhřimov\n\n🚒 CAS (HS Pacov)\n🚒 CAS (HS Pacov)\n
+ 🚒 CAS (Černovice)\n🚒 CAS (Černovice)
+END:VEVENT
 END:VCALENDAR
