@@ -5,45 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:410060061
-DTSTART:20260423T174935Z
-DTEND:20260423T184935Z
-DTSTAMP:20260423T174935Z
-SUMMARY:🚑 otevření/asistence - Havlíčkův Brod
-LOCATION:Sídliště Pražská\, Havlíčkův Brod
-GEO:49.613515;15.574339
-URL:geo:49.613515,15.574339
-DESCRIPTION:📍 Sídliště Pražská\, Havlíčkův Brod\n💬 Otevření bytu.\n\n🚒 CAS 
- (CHS Havlíčkův Brod)\n🚒 AŽ (CHS Havlíčkův Brod)
-END:VEVENT
-BEGIN:VEVENT
-UID:410061061
-DTSTART:20260423T175329Z
-DTEND:20260423T185329Z
-DTSTAMP:20260423T175329Z
-SUMMARY:🔥 vozidlo - Velké Meziříčí
-LOCATION:Velké Meziříčí
-GEO:49.339768;16.054040
-URL:geo:49.339768,16.054040
-DESCRIPTION:📍 Dolní Radslavice\, Velké Meziříčí\, Žďár nad Sázavou\n💬 Požár
-  NA v motorovém prostoru. Lokalizace a likvidace události.\n\n🚒 CAS (HS Ve
- lké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)\n🚒 zařízení hasicí kontinuelní vy
- sokotlaké (HS Velké Meziříčí)\n🚒 vyšetřovací automobil (ÚO Žďár nad Sázavo
- u)
-END:VEVENT
-BEGIN:VEVENT
-UID:410062061
-DTSTART:20260423T175417Z
-DTEND:20260423T185417Z
-DTSTAMP:20260423T175417Z
-SUMMARY:🔥 odpad - Třebíč
-LOCATION:Táborská\, Třebíč
-GEO:49.223651;15.871335
-URL:geo:49.223651,15.871335
-DESCRIPTION:📍 Táborská\, Týn\, Třebíč\n💬 Požár odpadkového koše. Beze škody
- .\n\n🚒 CAS (CHS Třebíč)
-END:VEVENT
-BEGIN:VEVENT
 UID:410063061
 DTSTART:20260423T181950Z
 DTEND:20260423T191950Z
