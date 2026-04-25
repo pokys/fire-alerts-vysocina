@@ -546,8 +546,8 @@ LOCATION:Habry
 GEO:49.770923;15.483409
 URL:geo:49.770923,15.483409
 DESCRIPTION:📍 Frýdnava\, Habry\, Havlíčkův Brod\n💬 DN motocyklu se zvěří\, 
- se zraněním jedné osoby\, zajíštění místa nehody\, řízení dopravy.\n\n🚒 CA
- S (HS Světlá nad Sázavou)\n🚒 CAS (Golčův Jeníkov)
+ jedna zraněná osoba\, zajíštění místa nehody\, řízení dopravy.\n\n🚒 CAS (H
+ S Světlá nad Sázavou)\n🚒 CAS (Golčův Jeníkov)
 END:VEVENT
 BEGIN:VEVENT
 UID:410178061
@@ -570,8 +570,8 @@ SUMMARY:🛠️ ostatní - Náměšť nad Oslavou
 LOCATION:Husova\, Náměšť nad Oslavou
 GEO:49.209075;16.154274
 URL:geo:49.209075,16.154274
-DESCRIPTION:📍 Husova\, Náměšť nad Oslavou\, Třebíč\n💬 Pomoc se zvednutím im
- obilní osoby.\n\n🚒 CAS (HS Náměšť nad Oslavou)
+DESCRIPTION:📍 Husova\, Náměšť nad Oslavou\, Třebíč\n💬 Pomoc imobilní osobě.
+ \n\n🚒 CAS (HS Náměšť nad Oslavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:410182061
@@ -582,8 +582,8 @@ SUMMARY:🚗 dopravní nehoda - Třebíč
 LOCATION:Vaňkovo nám.\, Třebíč
 GEO:49.210856;15.883632
 URL:geo:49.210856,15.883632
-DESCRIPTION:📍 Vaňkovo nám.\, Horka-Domky\, Třebíč\n💬 DN motocyklu s 1 zraně
- nou osobou. Zajištění místa nehody a řízení dopravy.\n\n🚒 CAS (CHS Třebíč)
+DESCRIPTION:📍 Vaňkovo nám.\, Horka-Domky\, Třebíč\n💬 DN motocyklu jedna zra
+ něná osoba. Zajištění místa nehody a řízení dopravy.\n\n🚒 CAS (CHS Třebíč)
 END:VEVENT
 BEGIN:VEVENT
 UID:410186061
@@ -606,9 +606,9 @@ SUMMARY:🚗 dopravní nehoda - Jemnice
 LOCATION:Jemnice
 GEO:49.034863;15.564935
 URL:geo:49.034863,15.564935
-DESCRIPTION:📍 Jemnice\, Třebíč\n💬 DN 1 OA a motocyklu se 2 zraněnými osobam
- i. Protipožární opatření a pomoc ZZS s transportem zraněné osoby.\n\n🚒 CAS
-  (HS Jemnice)
+DESCRIPTION:📍 Jemnice\, Třebíč\n💬 DN OA a motocyklu\, dvě zraněné osoby. Po
+ moc ZZS s transportem zraněné osoby. Zajištění místa události.\n\n🚒 CAS (H
+ S Jemnice)
 END:VEVENT
 BEGIN:VEVENT
 UID:410192061
@@ -617,8 +617,8 @@ DTEND:20260425T125347Z
 DTSTAMP:20260425T115347Z
 SUMMARY:🔥 venkovní požár - Černovice
 LOCATION:Černovice
-GEO:49.377567;14.973880
-URL:geo:49.377567,14.973880
+GEO:49.377461;14.974026
+URL:geo:49.377461,14.974026
 DESCRIPTION:📍 Černovice\, Pelhřimov\n💬 Požár kompostu.\n\n🚒 CAS (HS Pacov)\
  n🚒 CAS (HS Pacov)\n🚒 CAS (Černovice)\n🚒 CAS (Černovice)
 END:VEVENT
@@ -631,8 +631,8 @@ SUMMARY:🔥 odpad - Žďár nad Sázavou
 LOCATION:Žďár nad Sázavou
 GEO:49.562851;15.939604
 URL:geo:49.562851,15.939604
-DESCRIPTION:📍 Žďár nad Sázavou 1\, Žďár nad Sázavou\n💬 Prolití doutnajícího
-  odpadkového koše.\n\n🚒 CAS (CHS Žďár nad Sázavou)
+DESCRIPTION:📍 Žďár nad Sázavou 1\, Žďár nad Sázavou\n💬 Požár odpadkového ko
+ še.\n\n🚒 CAS (CHS Žďár nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:410197061
@@ -643,8 +643,8 @@ SUMMARY:🔥 odpad - Lipnice nad Sázavou
 LOCATION:Lipnice nad Sázavou
 GEO:49.613023;15.413559
 URL:geo:49.613023,15.413559
-DESCRIPTION:📍 Lipnice nad Sázavou\, Havlíčkův Brod\n\n🚒 VEA (Lipnice nad Sá
- zavou)
+DESCRIPTION:📍 Lipnice nad Sázavou\, Havlíčkův Brod\n💬 požár odpadkového koš
+ e.\n\n🚒 VEA (Lipnice nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:410198061
@@ -715,5 +715,28 @@ GEO:49.530868;16.280030
 URL:geo:49.530868,16.280030
 DESCRIPTION:📍 Bystřice nad Pernštejnem\, Žďár nad Sázavou\n💬 DN motocyklu\,
   lékař kostatoval exitus.\n\n🚒 CAS (HS Bystřice nad Pernštejnem)
+END:VEVENT
+BEGIN:VEVENT
+UID:410205061
+DTSTART:20260425T153312Z
+DTEND:20260425T163312Z
+DTSTAMP:20260425T153312Z
+SUMMARY:🚗 dopravní nehoda - Stáj
+LOCATION:Stáj
+GEO:49.459337;15.812791
+URL:geo:49.459337,15.812791
+DESCRIPTION:📍 Stáj\, Jihlava\n\n🚒 RZA (CHS Jihlava)\n🚒 CAS (HS Polná)
+END:VEVENT
+BEGIN:VEVENT
+UID:410206061
+DTSTART:20260425T153927Z
+DTEND:20260425T163927Z
+DTSTAMP:20260425T153927Z
+SUMMARY:🔥 odpad - Moravské Budějovice
+LOCATION:Moravské Budějovice
+GEO:49.038373;15.760706
+URL:geo:49.038373,15.760706
+DESCRIPTION:📍 Jackov\, Moravské Budějovice\, Třebíč\n\n🚒 CAS (HS Moravské B
+ udějovice)
 END:VEVENT
 END:VCALENDAR
