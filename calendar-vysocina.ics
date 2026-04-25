@@ -654,8 +654,9 @@ SUMMARY:🚗 dopravní nehoda - Jemnice
 LOCATION:Jemnice
 GEO:49.034863;15.564935
 URL:geo:49.034863,15.564935
-DESCRIPTION:📍 Jemnice\, Třebíč\n💬 DN 1 OA a motocyklu s 1 zraněnou osobou.\
- n\n🚒 CAS (HS Jemnice)
+DESCRIPTION:📍 Jemnice\, Třebíč\n💬 DN 1 OA a motocyklu se 2 zraněnými osobam
+ i. Protipožární opatření a pomoc ZZS s transportem zraněné osoby.\n\n🚒 CAS
+  (HS Jemnice)
 END:VEVENT
 BEGIN:VEVENT
 UID:410192061
