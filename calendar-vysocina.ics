@@ -476,10 +476,10 @@ DESCRIPTION:📍 Skřinářov\, Žďár nad Sázavou\n💬 Požár suché trávy
  )\n🚒 DA (CHS Žďár nad Sázavou)\n🚒 VEA (CHS Žďár nad Sázavou) ×2\n🚒 vozidlo
   účelové - SxS (CHS Žďár nad Sázavou)\n🚒 přívěs nákladní (CHS Žďár nad Sáz
  avou)\n🚒 CAS (HS Velké Meziříčí)\n🚒 CAS (Jabloňov)\n🚒 DA (Bory)\n🚒 CAS (Bo
- ry)\n🚒 přívěs technický (Bory)\n🚒 CAS (Nárameč)\n🚒 DA (Pikárec)\n🚒 CAS (Pi
- kárec)\n🚒 přívěs motorová stříkačka (Milešín)\n🚒 vyšetřovací automobil (KŘ
-  HZS VYS)\n🚒 automobilový nosič kontejnerů (CHS Havlíčkův Brod)\n🚒 kontejn
- er týlový (CHS Havlíčkův Brod)\n🚒 DA (Heřmanov)
+ ry)\n🚒 přívěs technický (Bory)\n🚒 DA (Nárameč)\n🚒 CAS (Nárameč)\n🚒 DA (Pik
+ árec)\n🚒 CAS (Pikárec)\n🚒 přívěs motorová stříkačka (Milešín)\n🚒 vyšetřova
+ cí automobil (KŘ HZS VYS)\n🚒 automobilový nosič kontejnerů (CHS Havlíčkův 
+ Brod)\n🚒 kontejner týlový (CHS Havlíčkův Brod)\n🚒 DA (Heřmanov)
 END:VEVENT
 BEGIN:VEVENT
 UID:410133061
@@ -592,9 +592,9 @@ SUMMARY:🔥 venkovní požár - Koroužné
 LOCATION:Koroužné
 GEO:49.528881;16.349322
 URL:geo:49.528881,16.349322
-DESCRIPTION:📍 Koroužné\, Žďár nad Sázavou\n\n🚒 CAS (HS Bystřice nad Pernšte
- jnem)\n🚒 DA (Štěpánov nad Svratkou)\n🚒 CAS (Štěpánov nad Svratkou)\n🚒 DA (
- Koroužné)
+DESCRIPTION:📍 Koroužné\, Žďár nad Sázavou\n💬 Požárr túje. Byla provedena lo
+ kalizace a likvidace požáru.\n\n🚒 CAS (HS Bystřice nad Pernštejnem)\n🚒 DA 
+ (Štěpánov nad Svratkou)\n🚒 CAS (Štěpánov nad Svratkou)\n🚒 DA (Koroužné)
 END:VEVENT
 BEGIN:VEVENT
 UID:410146061
@@ -617,7 +617,8 @@ SUMMARY:🚗 dopravní nehoda - Těmice
 LOCATION:Těmice
 GEO:49.365879;15.052652
 URL:geo:49.365879,15.052652
-DESCRIPTION:📍 Těmice\, Pelhřimov\n💬 DN 1 OA\, se zraněním.\n\n🚒 CAS (HS Kam
+DESCRIPTION:📍 Těmice\, Pelhřimov\n💬 DN 1 OA se zraněním. Zabezpečení havaro
+ vaných vozidel proto PO a proti úniku provozních kapalin.\n\n🚒 CAS (HS Kam
  enice nad Lipou)
 END:VEVENT
 BEGIN:VEVENT
@@ -679,8 +680,8 @@ SUMMARY:🛠️ ostatní - Havlíčkův Brod
 LOCATION:Pražská\, Havlíčkův Brod
 GEO:49.617525;15.574297
 URL:geo:49.617525,15.574297
-DESCRIPTION:📍 Pražská\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 úče
- lový automobil do 3500 kg (CHS Havlíčkův Brod)
+DESCRIPTION:📍 Pražská\, Havlíčkův Brod\n💬 Pomoc imobilní osobě.\n\n🚒 CAS (C
+ HS Havlíčkův Brod)\n🚒 účelový automobil do 3500 kg (CHS Havlíčkův Brod)
 END:VEVENT
 BEGIN:VEVENT
 UID:410160061
