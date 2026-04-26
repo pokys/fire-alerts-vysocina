@@ -669,10 +669,24 @@ DTEND:20260426T110317Z
 DTSTAMP:20260426T100317Z
 SUMMARY:🔥 tráva/plocha - Kamenice nad Lipou
 LOCATION:Kamenice nad Lipou
-GEO:49.321640;15.102952
-URL:geo:49.321640,15.102952
+GEO:49.322195;15.103620
+URL:geo:49.322195,15.103620
 DESCRIPTION:📍 Pravíkov\, Kamenice nad Lipou\, Pelhřimov\n\n🚒 CAS (HS Kameni
  ce nad Lipou)\n🚒 CAS (HS Kamenice nad Lipou)\n🚒 CAS (Kamenice nad Lipou)\n
- 🚒 CAS (Kamenice nad Lipou) ×2\n🚒 CAS (Těmice)
+ 🚒 CAS (Kamenice nad Lipou) ×2\n🚒 CAS (Těmice)\n🚒 vyšetřovací automobil (ÚO
+  Pelhřimov)
+END:VEVENT
+BEGIN:VEVENT
+UID:410222061
+DTSTART:20260426T102025Z
+DTEND:20260426T112025Z
+DTSTAMP:20260426T102025Z
+SUMMARY:🚗 dopravní nehoda - Polnička
+LOCATION:Polnička
+GEO:49.612334;15.931831
+URL:geo:49.612334,15.931831
+DESCRIPTION:📍 Polnička\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad Sázavou)\n
+ 🚒 CAS (Žďár nad Sázavou-Zámek)\n🚒 osobní automobil (Žďár nad Sázavou-Zámek
+ )
 END:VEVENT
 END:VCALENDAR
