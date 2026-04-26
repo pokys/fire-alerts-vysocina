@@ -5,34 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:410129061
-DTSTART:20260424T133413Z
-DTEND:20260424T143413Z
-DTSTAMP:20260424T133413Z
-SUMMARY:🔥 les - Skřinářov
-LOCATION:Skřinářov
-GEO:49.356340;16.181831
-URL:geo:49.356340,16.181831
-DESCRIPTION:📍 Skřinářov\, Žďár nad Sázavou\n💬 Požár suché trávy a lesního p
- orostu na ploše 400x400 m\, bez zranění. Vyhlášen 3. stupeň požárního popl
- achu. Provedena likvidace požáru.\n\n🚒 DA (HS Velká Bíteš) ×2\n🚒 CAS (HS V
- elká Bíteš)\n🚒 přívěs nákladní (HS Velká Bíteš)\n🚒 DA (Křižanov) ×2\n🚒 CAS
-  (Křižanov) ×2\n🚒 DA (Osová Bítýška)\n🚒 CAS (Osová Bítýška) ×2\n🚒 automobi
- lová stříkačka (Skřinářov)\n🚒 účelový automobil do 3500 kg (ÚO Žďár nad Sá
- zavou) ×2\n🚒 DA (Velká Bíteš)\n🚒 CAS (Velká Bíteš) ×2\n🚒 osobní automobil 
- (Velká Bíteš)\n🚒 DA (Budišov)\n🚒 CAS (Budišov) ×2\n🚒 DA (Velké Meziříčí)\n
- 🚒 CAS (Velké Meziříčí) ×2\n🚒 CAS (Velké Meziříčí)\n🚒 DA (Tasov) ×2\n🚒 CAS 
- (Tasov)\n🚒 DA (CHS Žďár nad Sázavou)\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 VEA 
- (CHS Žďár nad Sázavou) ×3\n🚒 vozidlo účelové - SxS (CHS Žďár nad Sázavou)\
- n🚒 přívěs nákladní (CHS Žďár nad Sázavou)\n🚒 CAS (HS Velké Meziříčí)\n🚒 os
- obní automobil (HS Velké Meziříčí)\n🚒 DA (Jabloňov)\n🚒 CAS (Jabloňov)\n🚒 D
- A (Bory) ×2\n🚒 CAS (Bory)\n🚒 přívěs technický (Bory)\n🚒 DA (Nárameč)\n🚒 CA
- S (Nárameč)\n🚒 DA (Pikárec) ×2\n🚒 CAS (Pikárec)\n🚒 přívěs motorová stříkač
- ka (Milešín) ×2\n🚒 vyšetřovací automobil (KŘ HZS VYS) ×2\n🚒 automobilový n
- osič kontejnerů (CHS Havlíčkův Brod) ×2\n🚒 kontejner týlový (CHS Havlíčkův
-  Brod)\n🚒 DA (Heřmanov)
-END:VEVENT
-BEGIN:VEVENT
 UID:410133061
 DTSTART:20260424T140709Z
 DTEND:20260424T150709Z
