@@ -646,8 +646,9 @@ SUMMARY:🛠️ ostatní - Nový Jimramov
 LOCATION:Nový Jimramov
 GEO:49.634467;16.179238
 URL:geo:49.634467,16.179238
-DESCRIPTION:📍 Nový Jimramov\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad Sázav
- ou)\n🚒 DA (Jimramov)\n🚒 CAS (Jimramov)
+DESCRIPTION:📍 Nový Jimramov\, Žďár nad Sázavou\n💬 Kontrola kuchyně po výbuc
+ hu tlakového hrnce s potravinami.\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 DA (J
+ imramov)\n🚒 CAS (Jimramov)
 END:VEVENT
 BEGIN:VEVENT
 UID:410219061
@@ -655,10 +656,10 @@ DTSTART:20260426T091659Z
 DTEND:20260426T101659Z
 DTSTAMP:20260426T091659Z
 SUMMARY:🛠️ ostatní - Světlá nad Sázavou
-LOCATION:Vodárenská\, Světlá nad Sázavou
-GEO:49.676491;15.399683
-URL:geo:49.676491,15.399683
-DESCRIPTION:📍 Vodárenská\, Světlá nad Sázavou\, Havlíčkův Brod\n\n🚒 CAS (Sv
- ětlá nad Sázavou)
+LOCATION:Panuškova\, Světlá nad Sázavou
+GEO:49.675916;15.395144
+URL:geo:49.675916,15.395144
+DESCRIPTION:📍 Panuškova\, Světlá nad Sázavou\, Havlíčkův Brod\n💬 Čištění st
+ udny.\n\n🚒 CAS (Světlá nad Sázavou)
 END:VEVENT
 END:VCALENDAR
