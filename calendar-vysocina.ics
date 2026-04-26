@@ -5,33 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:410113061
-DTSTART:20260424T110642Z
-DTEND:20260424T120642Z
-DTSTAMP:20260424T110642Z
-SUMMARY:🔥 les - Vepřová
-LOCATION:Vepřová
-GEO:49.627370;15.810265
-URL:geo:49.627370,15.810265
-DESCRIPTION:📍 Vepřová\, Žďár nad Sázavou\n💬 Požár lesního porostu. Proveden
- a lokalizace a likvidace požáru.\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (C
- HS Žďár nad Sázavou)\n🚒 CAS (Havlíčkova Borová)\n🚒 CAS (Velká Losenice)\n🚒
-  DA (Vepřová)\n🚒 CAS (Vepřová)\n🚒 účelový automobil do 3500 kg (ÚO Žďár na
- d Sázavou)
-END:VEVENT
-BEGIN:VEVENT
-UID:410114061
-DTSTART:20260424T111135Z
-DTEND:20260424T121135Z
-DTSTAMP:20260424T111135Z
-SUMMARY:☣️ olej/PHM - Havlíčkův Brod
-LOCATION:Mírová\, Havlíčkův Brod
-GEO:49.596354;15.603690
-URL:geo:49.596354,15.603690
-DESCRIPTION:📍 Mírová\, Havlíčkův Brod\n💬 Odstranění olejové skvrny z pozemn
- í komunikace pomocí sorbentu.\n\n🚒 CAS (CHS Havlíčkův Brod)
-END:VEVENT
-BEGIN:VEVENT
 UID:410125061
 DTSTART:20260424T124955Z
 DTEND:20260424T134955Z
