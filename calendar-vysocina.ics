@@ -432,7 +432,18 @@ SUMMARY:🚑 transport pacienta - Bobrůvka
 LOCATION:Bobrůvka
 GEO:49.449117;16.093056
 URL:geo:49.449117,16.093056
-DESCRIPTION:📍 Bobrůvka\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad Sázavou)\n
- 🚒 CAS (Bobrová)
+DESCRIPTION:📍 Bobrůvka\, Žďár nad Sázavou\n💬 Transport pacienta na žádost Z
+ ZS.\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (Bobrová)
+END:VEVENT
+BEGIN:VEVENT
+UID:410236061
+DTSTART:20260427T054441Z
+DTEND:20260427T064441Z
+DTSTAMP:20260427T054441Z
+SUMMARY:🚑 transport pacienta - Humpolec
+LOCATION:Humpolec
+GEO:49.527352;15.399123
+URL:geo:49.527352,15.399123
+DESCRIPTION:📍 Plačkov\, Humpolec\, Pelhřimov\n\n🚒 CAS (HS Humpolec)
 END:VEVENT
 END:VCALENDAR
