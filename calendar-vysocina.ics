@@ -446,7 +446,8 @@ SUMMARY:🚗 dopravní nehoda - Čížkov
 LOCATION:Čížkov
 GEO:49.430602;15.099579
 URL:geo:49.430602,15.099579
-DESCRIPTION:📍 Čížkov\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)
+DESCRIPTION:📍 Čížkov\, Pelhřimov\n💬 DN 1 OA. Zraněná osoba. Zajistění místa
+  události.\n\n🚒 CAS (CHS Pelhřimov)
 END:VEVENT
 BEGIN:VEVENT
 UID:410248061
@@ -469,6 +470,8 @@ SUMMARY:🚗 dopravní nehoda - Šebkovice
 LOCATION:Šebkovice
 GEO:49.107019;15.822893
 URL:geo:49.107019,15.822893
-DESCRIPTION:📍 Šebkovice\, Třebíč\n\n🚒 CAS (HS Moravské Budějovice)
+DESCRIPTION:📍 Šebkovice\, Třebíč\n💬 Dopravní nehoda 1 OA se zraněním\, prot
+ ipožární opatření\, zajištění místa události.\n\n🚒 CAS (HS Moravské Budějo
+ vice)
 END:VEVENT
 END:VCALENDAR
