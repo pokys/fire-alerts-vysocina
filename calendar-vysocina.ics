@@ -412,6 +412,20 @@ DESCRIPTION:📍 Václavské nám.\, Horka-Domky\, Třebíč\n💬 Pomoc imobiln
  .\n\n🚒 CAS (CHS Třebíč)
 END:VEVENT
 BEGIN:VEVENT
+UID:410234061
+DTSTART:20260427T050601Z
+DTEND:20260427T060601Z
+DTSTAMP:20260427T050601Z
+SUMMARY:🔥 budova - Chotěboř
+LOCATION:Hradební\, Chotěboř
+GEO:49.723072;15.674451
+URL:geo:49.723072,15.674451
+DESCRIPTION:📍 Hradební\, Chotěboř\, Havlíčkův Brod\n\n🚒 osobní automobil (C
+ HS Havlíčkův Brod)\n🚒 CAS (HS Chotěboř)\n🚒 CAS (HS Chotěboř)\n🚒 CAS (Chotě
+ boř)\n🚒 DA (Libice nad Doubravou)\n🚒 CAS (Libice nad Doubravou)\n🚒 CAS (Žd
+ írec nad Doubravou)
+END:VEVENT
+BEGIN:VEVENT
 UID:410235061
 DTSTART:20260427T052809Z
 DTEND:20260427T062809Z
@@ -445,5 +459,17 @@ LOCATION:Čížkov
 GEO:49.430602;15.099579
 URL:geo:49.430602,15.099579
 DESCRIPTION:📍 Čížkov\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)
+END:VEVENT
+BEGIN:VEVENT
+UID:410248061
+DTSTART:20260427T075904Z
+DTEND:20260427T085904Z
+DTSTAMP:20260427T075904Z
+SUMMARY:🔥 kůlna/přístřešek - Dolní Cerekev
+LOCATION:Dolní Cerekev
+GEO:49.341183;15.463439
+URL:geo:49.341183,15.463439
+DESCRIPTION:📍 Nový Svět\, Dolní Cerekev\, Jihlava\n\n🚒 vyšetřovací automobi
+ l (ÚO Jihlava)
 END:VEVENT
 END:VCALENDAR
