@@ -5,32 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:410205061
-DTSTART:20260425T153312Z
-DTEND:20260425T163312Z
-DTSTAMP:20260425T153312Z
-SUMMARY:🚗 dopravní nehoda - Stáj
-LOCATION:Stáj
-GEO:49.459337;15.812791
-URL:geo:49.459337,15.812791
-DESCRIPTION:📍 Stáj\, Jihlava\n💬 DN motorkáře\, jedna zraněná osoba. Řízení 
- dopravy. Zajištění místa události.\n\n🚒 RZA (CHS Jihlava)\n🚒 CAS (HS Polná
- )
-END:VEVENT
-BEGIN:VEVENT
-UID:410206061
-DTSTART:20260425T153927Z
-DTEND:20260425T163927Z
-DTSTAMP:20260425T153927Z
-SUMMARY:🔥 odpad - Moravské Budějovice
-LOCATION:Moravské Budějovice
-GEO:49.038373;15.760706
-URL:geo:49.038373,15.760706
-DESCRIPTION:📍 Jackov\, Moravské Budějovice\, Třebíč\n💬 Požár velkoobjemovéh
- o kontejneru. Jednotka provedla lokalizaci a likvidaci požáru.\n\n🚒 CAS (H
- S Moravské Budějovice)
-END:VEVENT
-BEGIN:VEVENT
 UID:410207061
 DTSTART:20260425T161423Z
 DTEND:20260425T171423Z
