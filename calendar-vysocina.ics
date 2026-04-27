@@ -5,42 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:410192061
-DTSTART:20260425T115347Z
-DTEND:20260425T125347Z
-DTSTAMP:20260425T115347Z
-SUMMARY:🔥 venkovní požár - Černovice
-LOCATION:Černovice
-GEO:49.377450;14.974000
-URL:geo:49.377450,14.974000
-DESCRIPTION:📍 Černovice\, Pelhřimov\n💬 Požár kompostu.\n\n🚒 CAS (HS Pacov)\
- n🚒 CAS (HS Pacov)\n🚒 CAS (Černovice)
-END:VEVENT
-BEGIN:VEVENT
-UID:410194061
-DTSTART:20260425T115916Z
-DTEND:20260425T125916Z
-DTSTAMP:20260425T115916Z
-SUMMARY:🔥 odpad - Žďár nad Sázavou
-LOCATION:Žďár nad Sázavou
-GEO:49.562851;15.939604
-URL:geo:49.562851,15.939604
-DESCRIPTION:📍 Žďár nad Sázavou 1\, Žďár nad Sázavou\n💬 Požár odpadkového ko
- še.\n\n🚒 CAS (CHS Žďár nad Sázavou)
-END:VEVENT
-BEGIN:VEVENT
-UID:410197061
-DTSTART:20260425T120045Z
-DTEND:20260425T130045Z
-DTSTAMP:20260425T120045Z
-SUMMARY:🔥 odpad - Lipnice nad Sázavou
-LOCATION:Lipnice nad Sázavou
-GEO:49.613023;15.413559
-URL:geo:49.613023,15.413559
-DESCRIPTION:📍 Lipnice nad Sázavou\, Havlíčkův Brod\n💬 požár odpadkového koš
- e.\n\n🚒 VEA (Lipnice nad Sázavou)
-END:VEVENT
-BEGIN:VEVENT
 UID:410198061
 DTSTART:20260425T122633Z
 DTEND:20260425T132633Z
@@ -300,6 +264,18 @@ DESCRIPTION:📍 Vysoké\, Žďár nad Sázavou\n💬 Požár mladého lesa 50 x
  )\n🚒 CAS (Polnička)\n🚒 přívěs motorová stříkačka (Vysoké)\n🚒 CAS (Žďár nad
   Sázavou-Zámek) ×2\n🚒 osobní automobil (Žďár nad Sázavou-Zámek) ×2\n🚒 účel
  ový automobil do 3500 kg (ÚO Žďár nad Sázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:410272061
+DTSTART:20260426T200547Z
+DTEND:20260426T210547Z
+DTSTAMP:20260426T200547Z
+SUMMARY:🔥 budova - Polnička
+LOCATION:Polnička
+GEO:49.605099;15.910442
+URL:geo:49.605099,15.910442
+DESCRIPTION:📍 Polnička\, Žďár nad Sázavou\n💬 Požár krytiny bez účasti jedno
+ tek.
 END:VEVENT
 BEGIN:VEVENT
 UID:410233061
