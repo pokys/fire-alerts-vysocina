@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:410200061
-DTSTART:20260425T130126Z
-DTEND:20260425T140126Z
-DTSTAMP:20260425T130126Z
-SUMMARY:🚗 dopravní nehoda - Telč
-LOCATION:Masarykova\, Telč
-GEO:49.183505;15.459804
-URL:geo:49.183505,15.459804
-DESCRIPTION:📍 Masarykova\, Telč-Podolí\, Telč\, Jihlava\n💬 DN 2 x OA\, bez 
- zranění. Zajištění místa události.\n\n🚒 CAS (HS Telč)
-END:VEVENT
-BEGIN:VEVENT
 UID:410202061
 DTSTART:20260425T133225Z
 DTEND:20260425T143225Z
@@ -363,6 +351,8 @@ SUMMARY:🚗 dopravní nehoda - Ocmanice
 LOCATION:Ocmanice
 GEO:49.232548;16.120257
 URL:geo:49.232548,16.120257
-DESCRIPTION:📍 Ocmanice\, Třebíč\n\n🚒 CAS (HS Náměšť nad Oslavou)
+DESCRIPTION:📍 Ocmanice\, Třebíč\n💬 Dopravní nehoda 2 OA se zraněním\, proti
+ požární opatření\, zajíštění místa zásahu.\n\n🚒 CAS (HS Náměšť nad Oslavou
+ )
 END:VEVENT
 END:VCALENDAR
