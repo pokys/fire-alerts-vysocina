@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:410165061
-DTSTART:20260425T054413Z
-DTEND:20260425T064413Z
-DTSTAMP:20260425T054413Z
-SUMMARY:🚗 dopravní nehoda - Kamenice nad Lipou
-LOCATION:Kamenice nad Lipou
-GEO:49.308000;15.074099
-URL:geo:49.308000,15.074099
-DESCRIPTION:📍 Kamenice nad Lipou\, Pelhřimov\n💬 DN 1 OA\, jedna zraněná oso
- ba. Zajištění místa události.\n\n🚒 CAS (HS Kamenice nad Lipou)
-END:VEVENT
-BEGIN:VEVENT
 UID:410168061
 DTSTART:20260425T072111Z
 DTEND:20260425T082111Z
@@ -432,6 +420,19 @@ SUMMARY:🛠️ ostatní - Třebíč
 LOCATION:Václavské nám.\, Třebíč
 GEO:49.206584;15.880144
 URL:geo:49.206584,15.880144
-DESCRIPTION:📍 Václavské nám.\, Horka-Domky\, Třebíč\n\n🚒 CAS (CHS Třebíč)
+DESCRIPTION:📍 Václavské nám.\, Horka-Domky\, Třebíč\n💬 Pomoc imobilní osobě
+ .\n\n🚒 CAS (CHS Třebíč)
+END:VEVENT
+BEGIN:VEVENT
+UID:410235061
+DTSTART:20260427T052809Z
+DTEND:20260427T062809Z
+DTSTAMP:20260427T052809Z
+SUMMARY:🚑 transport pacienta - Bobrůvka
+LOCATION:Bobrůvka
+GEO:49.449117;16.093056
+URL:geo:49.449117,16.093056
+DESCRIPTION:📍 Bobrůvka\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad Sázavou)\n
+ 🚒 CAS (Bobrová)
 END:VEVENT
 END:VCALENDAR
