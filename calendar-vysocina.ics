@@ -420,10 +420,10 @@ SUMMARY:🔥 budova - Chotěboř
 LOCATION:Hradební\, Chotěboř
 GEO:49.723072;15.674451
 URL:geo:49.723072,15.674451
-DESCRIPTION:📍 Hradební\, Chotěboř\, Havlíčkův Brod\n\n🚒 osobní automobil (C
- HS Havlíčkův Brod)\n🚒 CAS (HS Chotěboř)\n🚒 CAS (HS Chotěboř)\n🚒 CAS (Chotě
- boř)\n🚒 DA (Libice nad Doubravou)\n🚒 CAS (Libice nad Doubravou)\n🚒 CAS (Žd
- írec nad Doubravou)
+DESCRIPTION:📍 Hradební\, Chotěboř\, Havlíčkův Brod\n💬 Taktické cvičení.\n\n
+ 🚒 osobní automobil (CHS Havlíčkův Brod)\n🚒 CAS (HS Chotěboř)\n🚒 CAS (HS Ch
+ otěboř)\n🚒 CAS (Chotěboř)\n🚒 DA (Libice nad Doubravou)\n🚒 CAS (Libice nad 
+ Doubravou)\n🚒 CAS (Ždírec nad Doubravou)
 END:VEVENT
 BEGIN:VEVENT
 UID:410235061
@@ -471,5 +471,16 @@ GEO:49.341183;15.463439
 URL:geo:49.341183,15.463439
 DESCRIPTION:📍 Nový Svět\, Dolní Cerekev\, Jihlava\n\n🚒 vyšetřovací automobi
  l (ÚO Jihlava)
+END:VEVENT
+BEGIN:VEVENT
+UID:410252061
+DTSTART:20260427T083145Z
+DTEND:20260427T093145Z
+DTSTAMP:20260427T083145Z
+SUMMARY:🚗 dopravní nehoda - Šebkovice
+LOCATION:Šebkovice
+GEO:49.107019;15.822893
+URL:geo:49.107019,15.822893
+DESCRIPTION:📍 Šebkovice\, Třebíč\n\n🚒 CAS (HS Moravské Budějovice)
 END:VEVENT
 END:VCALENDAR
