@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:410202061
-DTSTART:20260425T133225Z
-DTEND:20260425T143225Z
-DTSTAMP:20260425T133225Z
-SUMMARY:🔥 kůlna/přístřešek - Havlíčkův Brod
-LOCATION:Dlouhá\, Havlíčkův Brod
-GEO:49.613727;15.547685
-URL:geo:49.613727,15.547685
-DESCRIPTION:📍 Dlouhá\, Havlíčkův Brod\n💬 Požár skleníku.\n\n🚒 CAS (CHS Havl
- íčkův Brod)\n🚒 vyšetřovací automobil (ÚO Havlíčkův Brod)
-END:VEVENT
-BEGIN:VEVENT
 UID:410203061
 DTSTART:20260425T135427Z
 DTEND:20260425T145427Z
@@ -354,5 +342,16 @@ URL:geo:49.232548,16.120257
 DESCRIPTION:📍 Ocmanice\, Třebíč\n💬 Dopravní nehoda 2 OA se zraněním\, proti
  požární opatření\, zajíštění místa zásahu.\n\n🚒 CAS (HS Náměšť nad Oslavou
  )
+END:VEVENT
+BEGIN:VEVENT
+UID:410277061
+DTSTART:20260427T132037Z
+DTEND:20260427T142037Z
+DTSTAMP:20260427T132037Z
+SUMMARY:🚗 dopravní nehoda - Pelhřimov
+LOCATION:Křemešnická\, Pelhřimov
+GEO:49.426885;15.227723
+URL:geo:49.426885,15.227723
+DESCRIPTION:📍 Křemešnická\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)
 END:VEVENT
 END:VCALENDAR
