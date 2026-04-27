@@ -5,31 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:410174061
-DTSTART:20260425T100456Z
-DTEND:20260425T110456Z
-DTSTAMP:20260425T100456Z
-SUMMARY:🚑 otevření/asistence - Žirovnice
-LOCATION:Počátecká\, Žirovnice
-GEO:49.254695;15.194881
-URL:geo:49.254695,15.194881
-DESCRIPTION:📍 Počátecká\, Žirovnice\, Pelhřimov\n💬 Otevření dveří.\n\n🚒 CAS
-  (HS Kamenice nad Lipou)\n🚒 CAS (Žirovnice)
-END:VEVENT
-BEGIN:VEVENT
-UID:410176061
-DTSTART:20260425T101522Z
-DTEND:20260425T111522Z
-DTSTAMP:20260425T101522Z
-SUMMARY:🚗 dopravní nehoda - Habry
-LOCATION:Habry
-GEO:49.770923;15.483409
-URL:geo:49.770923,15.483409
-DESCRIPTION:📍 Frýdnava\, Habry\, Havlíčkův Brod\n💬 DN motocyklu se zvěří\, 
- jedna zraněná osoba\, zajíštění místa nehody\, řízení dopravy.\n\n🚒 CAS (H
- S Světlá nad Sázavou)\n🚒 CAS (Golčův Jeníkov)
-END:VEVENT
-BEGIN:VEVENT
 UID:410178061
 DTSTART:20260425T102525Z
 DTEND:20260425T112525Z
@@ -473,5 +448,16 @@ URL:geo:49.107019,15.822893
 DESCRIPTION:📍 Šebkovice\, Třebíč\n💬 Dopravní nehoda 1 OA se zraněním\, prot
  ipožární opatření\, zajištění místa události\, řízení dopravy.\n\n🚒 CAS (H
  S Moravské Budějovice)
+END:VEVENT
+BEGIN:VEVENT
+UID:410267061
+DTSTART:20260427T095929Z
+DTEND:20260427T105929Z
+DTSTAMP:20260427T095929Z
+SUMMARY:🛠️ strom - Velký Beranov
+LOCATION:Velký Beranov
+GEO:49.381558;15.659942
+URL:geo:49.381558,15.659942
+DESCRIPTION:📍 Bradlo\, Velký Beranov\, Jihlava\n\n🚒 CAS (CHS Jihlava)
 END:VEVENT
 END:VCALENDAR
