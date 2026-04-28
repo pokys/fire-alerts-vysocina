@@ -76,10 +76,10 @@ LOCATION:nám. Svobody\, Pacov
 GEO:49.471859;15.003714
 URL:geo:49.471859,15.003714
 DESCRIPTION:📍 nám. Svobody\, Pacov\, Pelhřimov\n💬 Požár střechy přístavku d
- omu.\n\n🚒 CAS (HS Pacov)\n🚒 CAS (HS Pacov)\n🚒 CAS (Pacov)\n🚒 CAS (Obrataň)
- \n🚒 CAS (Pacov-Jetřichovec)\n🚒 AŽ (CHS Pelhřimov)\n🚒 DA (Hořepník)\n🚒 CAS 
- (Hořepník)\n🚒 DA (Lukavec)\n🚒 CAS (Lukavec)\n🚒 vyšetřovací automobil (ÚO P
- elhřimov) ×2
+ omu.\n\n🚒 CAS (HS Pacov) ×2\n🚒 CAS (HS Pacov)\n🚒 CAS (Pacov)\n🚒 CAS (Obrat
+ aň)\n🚒 CAS (Pacov-Jetřichovec)\n🚒 AŽ (CHS Pelhřimov)\n🚒 DA (Hořepník)\n🚒 C
+ AS (Hořepník)\n🚒 DA (Lukavec)\n🚒 CAS (Lukavec)\n🚒 vyšetřovací automobil (Ú
+ O Pelhřimov) ×2
 END:VEVENT
 BEGIN:VEVENT
 UID:410300061
@@ -90,8 +90,8 @@ SUMMARY:🔥 Pelhřimov
 LOCATION:K Silu\, Pelhřimov
 GEO:49.409236;15.221453
 URL:geo:49.409236,15.221453
-DESCRIPTION:📍 K Silu\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (CHS Pelhř
- imov)\n🚒 AŽ (CHS Pelhřimov)\n🚒 automobilová plošina nad 30 m (CHS Pelhřimo
- v)
+DESCRIPTION:📍 K Silu\, Pelhřimov\n💬 TC - Požár hlášený EPS\n\n🚒 CAS (CHS Pe
+ lhřimov)\n🚒 CAS (CHS Pelhřimov)\n🚒 AŽ (CHS Pelhřimov)\n🚒 automobilová ploš
+ ina nad 30 m (CHS Pelhřimov)
 END:VEVENT
 END:VCALENDAR
