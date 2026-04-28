@@ -66,4 +66,17 @@ URL:geo:49.476608,15.256184
 DESCRIPTION:📍 Kojčice\, Pelhřimov\n💬 Proplach technologie.\n\n🚒 CAS (Olešná
   (PE))
 END:VEVENT
+BEGIN:VEVENT
+UID:410286061
+DTSTART:20260427T234906Z
+DTEND:20260428T004906Z
+DTSTAMP:20260427T234906Z
+SUMMARY:🔥 budova - Pacov
+LOCATION:nám. Svobody\, Pacov
+GEO:49.471859;15.003714
+URL:geo:49.471859,15.003714
+DESCRIPTION:📍 nám. Svobody\, Pacov\, Pelhřimov\n\n🚒 CAS (HS Pacov)\n🚒 CAS (
+ HS Pacov)\n🚒 CAS (Pacov)\n🚒 CAS (Obrataň)\n🚒 CAS (Pacov-Jetřichovec)\n🚒 AŽ
+  (CHS Pelhřimov)
+END:VEVENT
 END:VCALENDAR
