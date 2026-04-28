@@ -403,4 +403,16 @@ URL:geo:49.692310,15.276810
 DESCRIPTION:📍 Julia Fučíka\, Ledeč nad Sázavou\, Havlíčkův Brod\n💬 Pomoc im
  obilní osobě.\n\n🚒 CAS (HS Ledeč nad Sázavou)
 END:VEVENT
+BEGIN:VEVENT
+UID:410314061
+DTSTART:20260428T111442Z
+DTEND:20260428T121442Z
+DTSTAMP:20260428T111442Z
+SUMMARY:🛠️ otevření bytu/auta - Chotěboř
+LOCATION:Dlouhá\, Chotěboř
+GEO:49.722143;15.675196
+URL:geo:49.722143,15.675196
+DESCRIPTION:📍 Dlouhá\, Chotěboř\, Havlíčkův Brod\n💬 Otevření bytu.\n\n🚒 CAS
+  (HS Chotěboř)
+END:VEVENT
 END:VCALENDAR
