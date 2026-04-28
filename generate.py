@@ -1,13 +1,13 @@
 #!/usr/bin/env python3
 
+import hashlib
 import json
 import os
 import sys
+import time
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from zoneinfo import ZoneInfo
-
-import time
 
 import requests
 from pyproj import Transformer
@@ -466,15 +466,41 @@ def write_calendar(content, path):
     path.write_text(content, encoding="utf-8", newline="")
 
 
-def load_notified_ids(path=NOTIFIED_PATH):
+def load_notified(path=NOTIFIED_PATH):
     try:
-        return set(json.loads(path.read_text(encoding="utf-8")))
+        data = json.loads(path.read_text(encoding="utf-8"))
     except Exception:
-        return set()
+        return {}
+    if isinstance(data, list):
+        return {eid: {"message_id": None, "chat_id": None, "sent_at": None, "content_hash": None} for eid in data}
+    if isinstance(data, dict):
+        return data
+    return {}
 
 
-def save_notified_ids(ids, path=NOTIFIED_PATH):
-    path.write_text(json.dumps(sorted(ids)), encoding="utf-8")
+def save_notified(records, path=NOTIFIED_PATH):
+    path.write_text(json.dumps(records, sort_keys=True), encoding="utf-8")
+
+
+def _parse_sent_at(value):
+    if not value:
+        return None
+    try:
+        return datetime.fromisoformat(value)
+    except (ValueError, TypeError):
+        return None
+
+
+def compute_content_hash(event):
+    tech_items = event.get("technika") or []
+    tech_key = "|".join(
+        sorted(
+            f"{t.get('typ', '')}:{t.get('jednotka', '')}:{t.get('pocet', 1)}"
+            for t in tech_items
+        )
+    )
+    raw = f"{event.get('popis', '')}||{tech_key}"
+    return hashlib.sha1(raw.encode()).hexdigest()[:12]
 
 
 _PRAGUE_TZ = ZoneInfo("Europe/Prague")
@@ -521,19 +547,78 @@ def send_telegram(token, chat_id, text):
             "disable_web_page_preview": True,
         }, timeout=10)
         response.raise_for_status()
+        return response.json()["result"]["message_id"]
     except Exception as exc:
         print(f"Telegram notification failed: {exc}", file=sys.stderr)
+        return None
+
+
+def edit_telegram(token, chat_id, message_id, text):
+    try:
+        url = f"https://api.telegram.org/bot{token}/editMessageText"
+        response = requests.post(url, json={
+            "chat_id": chat_id,
+            "message_id": message_id,
+            "text": text + "\n✏️ <i>aktualizováno</i>",
+            "parse_mode": "HTML",
+            "disable_web_page_preview": True,
+        }, timeout=10)
+        response.raise_for_status()
+        return True
+    except Exception as exc:
+        print(f"Telegram edit failed (msg {message_id}): {exc}", file=sys.stderr)
+        return False
+
+
+EDIT_WINDOW = timedelta(hours=3)
+PRUNE_AGE = timedelta(hours=6)
 
 
 def notify_new_events(events, token, chat_id, notified_path=NOTIFIED_PATH):
-    notified = load_notified_ids(notified_path)
-    new_events = [e for e in events if e["id"] not in notified]
-    for event in new_events:
-        send_telegram(token, chat_id, format_telegram_message(event))
-        notified.add(event["id"])
-        print(f"Telegram: notified event {event['id']}", file=sys.stderr)
-    if new_events:
-        save_notified_ids(notified, notified_path)
+    records = load_notified(notified_path)
+    now = utc_now()
+    changed = False
+
+    for event in events:
+        eid = event["id"]
+        new_hash = compute_content_hash(event)
+        text = format_telegram_message(event)
+
+        if eid not in records:
+            msg_id = send_telegram(token, chat_id, text)
+            records[eid] = {
+                "message_id": msg_id,
+                "chat_id": str(chat_id),
+                "sent_at": now.isoformat(),
+                "content_hash": new_hash,
+            }
+            print(f"Telegram: notified event {eid}", file=sys.stderr)
+            changed = True
+        else:
+            rec = records[eid]
+            msg_id = rec.get("message_id")
+            sent_at = _parse_sent_at(rec.get("sent_at"))
+
+            if msg_id is None or sent_at is None:
+                continue
+            if now - sent_at > EDIT_WINDOW:
+                continue
+            if rec.get("content_hash") == new_hash:
+                continue
+
+            if edit_telegram(token, chat_id, msg_id, text):
+                rec["content_hash"] = new_hash
+                print(f"Telegram: edited event {eid}", file=sys.stderr)
+                changed = True
+
+    for eid in list(records.keys()):
+        sent_at = _parse_sent_at(records[eid].get("sent_at"))
+        if sent_at is not None and now - sent_at > PRUNE_AGE:
+            del records[eid]
+            changed = True
+
+    if changed:
+        save_notified(records, notified_path)
 
 
 def main():
