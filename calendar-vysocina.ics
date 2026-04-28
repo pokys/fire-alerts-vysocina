@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:410272061
-DTSTART:20260426T200547Z
-DTEND:20260426T210547Z
-DTSTAMP:20260426T200547Z
-SUMMARY:🔥 budova - Polnička
-LOCATION:Polnička
-GEO:49.605099;15.910442
-URL:geo:49.605099,15.910442
-DESCRIPTION:📍 Polnička\, Žďár nad Sázavou\n💬 Požár krytiny bez účasti jedno
- tek.
-END:VEVENT
-BEGIN:VEVENT
 UID:410233061
 DTSTART:20260427T050209Z
 DTEND:20260427T060209Z
@@ -410,7 +398,7 @@ LOCATION:Herálec
 GEO:49.508162;15.443558
 URL:geo:49.508162,15.443558
 DESCRIPTION:📍 Pavlov u Herálce\, Herálec\, Havlíčkův Brod\n💬 Odstranění str
- omu.\n\n🚒 CAS (Herálec (HB))
+ omu z komunikace.\n\n🚒 CAS (Herálec (HB))
 END:VEVENT
 BEGIN:VEVENT
 UID:410326061
@@ -421,6 +409,7 @@ SUMMARY:🔥 odpad - Jihlava
 LOCATION:Masarykovo náměstí\, Jihlava
 GEO:49.396809;15.589682
 URL:geo:49.396809,15.589682
-DESCRIPTION:📍 Masarykovo náměstí\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+DESCRIPTION:📍 Masarykovo náměstí\, Jihlava\n💬 Požár odpadkového koše.\n\n🚒 
+ CAS (CHS Jihlava)
 END:VEVENT
 END:VCALENDAR
