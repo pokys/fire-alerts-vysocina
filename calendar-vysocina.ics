@@ -5,21 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:410228061
-DTSTART:20260426T145048Z
-DTEND:20260426T155048Z
-DTSTAMP:20260426T145048Z
-SUMMARY:🔥 les - Vysoké
-LOCATION:Vysoké
-GEO:49.569545;15.964653
-URL:geo:49.569545,15.964653
-DESCRIPTION:📍 Vysoké\, Žďár nad Sázavou\n💬 Požár mladého lesa 50 x 50m.\n\n
- 🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 DA (Polnička
- )\n🚒 CAS (Polnička)\n🚒 přívěs motorová stříkačka (Vysoké)\n🚒 CAS (Žďár nad
-  Sázavou-Zámek) ×2\n🚒 osobní automobil (Žďár nad Sázavou-Zámek) ×2\n🚒 účel
- ový automobil do 3500 kg (ÚO Žďár nad Sázavou)
-END:VEVENT
-BEGIN:VEVENT
 UID:410272061
 DTSTART:20260426T200547Z
 DTEND:20260426T210547Z
