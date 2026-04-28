@@ -571,7 +571,7 @@ def edit_telegram(token, chat_id, message_id, text):
 
 
 EDIT_WINDOW = timedelta(hours=3)
-PRUNE_AGE = timedelta(hours=6)
+PRUNE_AGE = timedelta(hours=50)
 
 
 def notify_new_events(events, token, chat_id, notified_path=NOTIFIED_PATH):
