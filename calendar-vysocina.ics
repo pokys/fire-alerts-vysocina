@@ -498,8 +498,9 @@ SUMMARY:🔥 trafostanice - Jihlava
 LOCATION:Polní\, Jihlava
 GEO:49.389334;15.597405
 URL:geo:49.389334,15.597405
-DESCRIPTION:📍 Polní\, Jihlava\n\n🚒 CAS (CHS Jihlava)\n🚒 CAS (CHS Jihlava)\n
- 🚒 vyšetřovací automobil (ÚO Jihlava)
+DESCRIPTION:📍 Polní\, Jihlava\n💬 Požár el. zásuvky\, Uhašeno pomocí přenosn
+ ého hasícího přístroje.\n\n🚒 CAS (CHS Jihlava)\n🚒 CAS (CHS Jihlava)\n🚒 vyš
+ etřovací automobil (ÚO Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:410389061
@@ -513,5 +514,16 @@ URL:geo:49.266983,16.007160
 DESCRIPTION:📍 Budišov\, Třebíč\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (CHS Třebíč)\n🚒
   CAS (HS Velké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)\n🚒 CAS (Budišov)\n🚒 CA
  S (Budišov-Mihoukovice)
+END:VEVENT
+BEGIN:VEVENT
+UID:410390061
+DTSTART:20260429T210813Z
+DTEND:20260429T220813Z
+DTSTAMP:20260429T210813Z
+SUMMARY:🚑 otevření/asistence - Jihlava
+LOCATION:Březinova\, Jihlava
+GEO:49.401531;15.598836
+URL:geo:49.401531,15.598836
+DESCRIPTION:📍 Březinova\, Jihlava\n\n🚒 CAS (CHS Jihlava)
 END:VEVENT
 END:VCALENDAR
