@@ -406,9 +406,10 @@ SUMMARY:🛠️ ostatní - Havlíčkův Brod
 LOCATION:Havlíčkův Brod
 GEO:49.600384;15.618935
 URL:geo:49.600384,15.618935
-DESCRIPTION:📍 Termesivy\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 C
- AS (CHS Havlíčkův Brod)\n🚒 CAS (Havlíčkův Brod-Perknov)\n🚒 DA (Havlíčkův B
- rod-Mírovka)\n🚒 vyšetřovací automobil (ÚO Havlíčkův Brod)
+DESCRIPTION:📍 Termesivy\, Havlíčkův Brod\n💬 Ohlášen požár RD\, na místě zji
+ štěno\, že nejde o požár ale o zakouřený RD.\n\n🚒 CAS (CHS Havlíčkův Brod)
+ \n🚒 CAS (CHS Havlíčkův Brod)\n🚒 CAS (Havlíčkův Brod-Perknov)\n🚒 DA (Havlíč
+ kův Brod-Mírovka)\n🚒 vyšetřovací automobil (ÚO Havlíčkův Brod)
 END:VEVENT
 BEGIN:VEVENT
 UID:410351061
@@ -421,5 +422,17 @@ GEO:49.813894;15.477284
 URL:geo:49.813894,15.477284
 DESCRIPTION:📍 Pod Vyšehradem\, Golčův Jeníkov\, Havlíčkův Brod\n\n🚒 CAS (HS
   Ledeč nad Sázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:410353061
+DTSTART:20260429T085017Z
+DTEND:20260429T095017Z
+DTSTAMP:20260429T085017Z
+SUMMARY:🛠️ strom - Leština u Světlé
+LOCATION:Leština u Světlé
+GEO:49.771295;15.399220
+URL:geo:49.771295,15.399220
+DESCRIPTION:📍 Leština u Světlé\, Havlíčkův Brod\n💬 Odstranění stromu.\n\n🚒 
+ CAS (Leština u Světlé)
 END:VEVENT
 END:VCALENDAR
