@@ -5,32 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:410233061
-DTSTART:20260427T050209Z
-DTEND:20260427T060209Z
-DTSTAMP:20260427T050209Z
-SUMMARY:🛠️ ostatní - Třebíč
-LOCATION:Václavské nám.\, Třebíč
-GEO:49.206584;15.880144
-URL:geo:49.206584,15.880144
-DESCRIPTION:📍 Václavské nám.\, Horka-Domky\, Třebíč\n💬 Pomoc imobilní osobě
- .\n\n🚒 CAS (CHS Třebíč)
-END:VEVENT
-BEGIN:VEVENT
-UID:410234061
-DTSTART:20260427T050601Z
-DTEND:20260427T060601Z
-DTSTAMP:20260427T050601Z
-SUMMARY:🔥 budova - Chotěboř
-LOCATION:Hradební\, Chotěboř
-GEO:49.723072;15.674451
-URL:geo:49.723072,15.674451
-DESCRIPTION:📍 Hradební\, Chotěboř\, Havlíčkův Brod\n💬 Taktické cvičení.\n\n
- 🚒 osobní automobil (CHS Havlíčkův Brod)\n🚒 CAS (HS Chotěboř)\n🚒 CAS (HS Ch
- otěboř)\n🚒 CAS (Chotěboř)\n🚒 DA (Libice nad Doubravou)\n🚒 CAS (Libice nad 
- Doubravou)\n🚒 CAS (Ždírec nad Doubravou)
-END:VEVENT
-BEGIN:VEVENT
 UID:410235061
 DTSTART:20260427T052809Z
 DTEND:20260427T062809Z
@@ -263,8 +237,7 @@ SUMMARY:🛠️ ostatní - Jihlava
 LOCATION:Jihlava
 GEO:49.394128;15.561689
 URL:geo:49.394128,15.561689
-DESCRIPTION:📍 Pístov\, Jihlava\n💬 Odstranění nečistot z pozemní komunikace.
- \n\n🚒 CAS (CHS Jihlava)
+DESCRIPTION:📍 Pístov\, Jihlava\n💬 Oplach komunikace.\n\n🚒 CAS (CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:410300061
@@ -288,7 +261,7 @@ SUMMARY:🚗 bez zranění - Jamné
 LOCATION:Jamné
 GEO:49.429484;15.701776
 URL:geo:49.429484,15.701776
-DESCRIPTION:📍 Jamné\, Jihlava\n💬 DN OA - dodávka bez zranění. Odstranění ná
+DESCRIPTION:📍 Jamné\, Jihlava\n💬 DN OA a dodávka bez zranění. Odstranění ná
  sledků po DN.\n\n🚒 RZA (CHS Jihlava)\n🚒 CAS (HS Polná)
 END:VEVENT
 BEGIN:VEVENT
@@ -398,7 +371,7 @@ LOCATION:Herálec
 GEO:49.508162;15.443558
 URL:geo:49.508162,15.443558
 DESCRIPTION:📍 Pavlov u Herálce\, Herálec\, Havlíčkův Brod\n💬 Odstranění str
- omu z komunikace.\n\n🚒 CAS (Herálec (HB))
+ omu.\n\n🚒 CAS (Herálec (HB))
 END:VEVENT
 BEGIN:VEVENT
 UID:410326061
@@ -445,7 +418,8 @@ SUMMARY:🛠️ ostatní - Dolní Cerekev
 LOCATION:Dolní Cerekev
 GEO:49.346572;15.451742
 URL:geo:49.346572,15.451742
-DESCRIPTION:📍 Dolní Cerekev\, Jihlava\n\n🚒 CAS (Dolní Cerekev)
+DESCRIPTION:📍 Dolní Cerekev\, Jihlava\n💬 Pročištění ucpané kanaliázace.\n\n
+ 🚒 CAS (Dolní Cerekev)
 END:VEVENT
 BEGIN:VEVENT
 UID:410330061
@@ -456,6 +430,8 @@ SUMMARY:🚗 dopravní nehoda - Bělá
 LOCATION:Bělá
 GEO:49.310368;15.248342
 URL:geo:49.310368,15.248342
-DESCRIPTION:📍 Bělá\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (Počátky)
+DESCRIPTION:📍 Bělá\, Pelhřimov\n💬 DN 1 OA\, 1 zraněná osoba. Zabezpečení ha
+ varovaného vozidla proti PO a proti úniku provozních kapalin.\n\n🚒 CAS (CH
+ S Pelhřimov)\n🚒 CAS (Počátky)
 END:VEVENT
 END:VCALENDAR
