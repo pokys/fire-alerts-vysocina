@@ -397,4 +397,17 @@ DESCRIPTION:📍 Kolovratova\, Světlá nad Sázavou\, Havlíčkův Brod\n💬 Z
  í ohrožujícího hromosvodu.\n\n🚒 CAS (HS Světlá nad Sázavou)\n🚒 automobilov
  á plošina do 30 m (HS Světlá nad Sázavou)
 END:VEVENT
+BEGIN:VEVENT
+UID:410347061
+DTSTART:20260429T080136Z
+DTEND:20260429T090136Z
+DTSTAMP:20260429T080136Z
+SUMMARY:🔥 venkovní požár - Horní Cerekev
+LOCATION:Tyršova\, Horní Cerekev
+GEO:49.323317;15.322085
+URL:geo:49.323317,15.322085
+DESCRIPTION:📍 Tyršova\, Horní Cerekev\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)\
+ n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (Horní Cerekev)\n🚒 CAS (Batelov)\n🚒 CAS (Poč
+ átky)
+END:VEVENT
 END:VCALENDAR
