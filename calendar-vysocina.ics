@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:410280061
-DTSTART:20260427T143443Z
-DTEND:20260427T153443Z
-DTSTAMP:20260427T143443Z
-SUMMARY:🛠️ strom - Větrný Jeníkov
-LOCATION:Větrný Jeníkov
-GEO:49.458349;15.502969
-URL:geo:49.458349,15.502969
-DESCRIPTION:📍 Větrný Jeníkov\, Jihlava\n💬 Odstranění stromu.\n\n🚒 DA (Větrn
- ý Jeníkov)\n🚒 CAS (Větrný Jeníkov)
-END:VEVENT
-BEGIN:VEVENT
 UID:410281061
 DTSTART:20260427T145224Z
 DTEND:20260427T155224Z
@@ -398,10 +386,10 @@ SUMMARY:🔥 budova - Stonařov
 LOCATION:Stonařov
 GEO:49.278731;15.583804
 URL:geo:49.278731,15.583804
-DESCRIPTION:📍 Stonařov\, Jihlava\n\n🚒 CAS (HS Třešť)\n🚒 CAS (Dlouhá Brtnice
- )\n🚒 CAS (Stonařov)\n🚒 CAS (CHS Jihlava)\n🚒 CAS (CHS Jihlava)\n🚒 CAS (Brtn
- ice)\n🚒 CAS (Opatov (TR))\n🚒 CAS (Kněžice)\n🚒 vyšetřovací automobil (ÚO Ji
- hlava)
+DESCRIPTION:📍 Stonařov\, Jihlava\n💬 Požár rodinného domu. Lokalizace a likv
+ idace události.\n\n🚒 CAS (HS Třešť)\n🚒 CAS (Dlouhá Brtnice)\n🚒 CAS (Stonař
+ ov)\n🚒 CAS (CHS Jihlava)\n🚒 CAS (CHS Jihlava)\n🚒 CAS (Brtnice)\n🚒 CAS (Opa
+ tov (TR))\n🚒 CAS (Kněžice)\n🚒 vyšetřovací automobil (ÚO Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:410357061
@@ -468,18 +456,5 @@ GEO:49.206880;15.556671
 URL:geo:49.206880,15.556671
 DESCRIPTION:📍 Olšany\, Jihlava\n\n🚒 CAS (HS Telč)\n🚒 CAS (Nová Říše)\n🚒 CAS
   (Stará Říše)\n🚒 osobní automobil (Olšany)
-END:VEVENT
-BEGIN:VEVENT
-UID:410374061
-DTSTART:20260429T135603Z
-DTEND:20260429T145603Z
-DTSTAMP:20260429T135603Z
-SUMMARY:🔥 Velké Meziříčí
-LOCATION:Bezručova\, Velké Meziříčí
-GEO:49.352006;16.004761
-URL:geo:49.352006,16.004761
-DESCRIPTION:📍 Bezručova\, Velké Meziříčí\, Žďár nad Sázavou\n\n🚒 CAS (HS Ve
- lké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)\n🚒 AŽ (HS Velké Meziříčí)\n🚒 CAS 
- (Měřín)\n🚒 CAS (Velké Meziříčí)
 END:VEVENT
 END:VCALENDAR
