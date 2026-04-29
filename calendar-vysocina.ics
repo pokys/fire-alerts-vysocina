@@ -369,8 +369,8 @@ LOCATION:Kolovratova\, Světlá nad Sázavou
 GEO:49.670937;15.406988
 URL:geo:49.670937,15.406988
 DESCRIPTION:📍 Kolovratova\, Světlá nad Sázavou\, Havlíčkův Brod\n💬 Zajištěn
- í ohrožujícího hromosvodu.\n\n🚒 CAS (HS Světlá nad Sázavou)\n🚒 automobilov
- á plošina do 30 m (HS Světlá nad Sázavou)
+ í hromosvodu.\n\n🚒 CAS (HS Světlá nad Sázavou)\n🚒 automobilová plošina do 
+ 30 m (HS Světlá nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:410347061
@@ -395,9 +395,10 @@ LOCATION:Havlíčkův Brod
 GEO:49.600384;15.618935
 URL:geo:49.600384,15.618935
 DESCRIPTION:📍 Termesivy\, Havlíčkův Brod\n💬 Ohlášen požár RD\, na místě zji
- štěno\, že nejde o požár ale o zakouřený RD.\n\n🚒 CAS (CHS Havlíčkův Brod)
- \n🚒 CAS (CHS Havlíčkův Brod)\n🚒 CAS (Havlíčkův Brod-Perknov)\n🚒 DA (Havlíč
- kův Brod-Mírovka)\n🚒 vyšetřovací automobil (ÚO Havlíčkův Brod)
+ štěno\, že se nejedná o požár ale o zakouření prostor RD od krbových kamen
+ .\n\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 CAS (Havlíč
+ kův Brod-Perknov)\n🚒 DA (Havlíčkův Brod-Mírovka)\n🚒 vyšetřovací automobil 
+ (ÚO Havlíčkův Brod)
 END:VEVENT
 BEGIN:VEVENT
 UID:410351061
@@ -422,5 +423,16 @@ GEO:49.771295;15.399220
 URL:geo:49.771295,15.399220
 DESCRIPTION:📍 Leština u Světlé\, Havlíčkův Brod\n💬 Odstranění stromu.\n\n🚒 
  CAS (Leština u Světlé)
+END:VEVENT
+BEGIN:VEVENT
+UID:410354061
+DTSTART:20260429T101619Z
+DTEND:20260429T111619Z
+DTSTAMP:20260429T101619Z
+SUMMARY:🚑 spolupráce ZZS - Dalešice
+LOCATION:Dalešice
+GEO:49.126908;16.081005
+URL:geo:49.126908,16.081005
+DESCRIPTION:📍 Dalešice\, Třebíč\n\n🚒 CAS (HS Hrotovice)
 END:VEVENT
 END:VCALENDAR
