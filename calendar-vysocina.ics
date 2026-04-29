@@ -341,8 +341,9 @@ GEO:49.278731;15.583804
 URL:geo:49.278731,15.583804
 DESCRIPTION:📍 Stonařov\, Jihlava\n💬 Požár rodinného domu a garáže. Lokaliza
  ce a likvidace události.\n\n🚒 CAS (HS Třešť)\n🚒 CAS (Dlouhá Brtnice)\n🚒 CA
- S (Stonařov)\n🚒 CAS (CHS Jihlava)\n🚒 CAS (CHS Jihlava)\n🚒 CAS (Brtnice)\n🚒
-  CAS (Opatov (TR))\n🚒 CAS (Kněžice)\n🚒 vyšetřovací automobil (ÚO Jihlava)
+ S (Stonařov)\n🚒 CAS (CHS Jihlava)\n🚒 CAS (CHS Jihlava)\n🚒 zařízení hasicí 
+ a řezací vysokotlaké (CHS Jihlava)\n🚒 CAS (Brtnice)\n🚒 CAS (Opatov (TR))\n
+ 🚒 CAS (Kněžice)\n🚒 vyšetřovací automobil (ÚO Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:410357061
@@ -434,8 +435,8 @@ SUMMARY:🛠️ otevření bytu/auta - Velké Meziříčí
 LOCATION:U Statku\, Velké Meziříčí
 GEO:49.357346;15.992821
 URL:geo:49.357346,15.992821
-DESCRIPTION:📍 U Statku\, Velké Meziříčí\, Žďár nad Sázavou\n\n🚒 RZA (HS Vel
- ké Meziříčí)
+DESCRIPTION:📍 U Statku\, Velké Meziříčí\, Žďár nad Sázavou\n💬 Otevření rodi
+ nného domu.\n\n🚒 RZA (HS Velké Meziříčí)
 END:VEVENT
 BEGIN:VEVENT
 UID:410384061
