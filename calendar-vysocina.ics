@@ -461,6 +461,18 @@ GEO:49.286722;15.524468
 URL:geo:49.286722,15.524468
 DESCRIPTION:📍 Třešť\, Jihlava\n\n🚒 CAS (Batelov)\n🚒 CAS (HS Třešť)\n🚒 CAS (
  Třešť)\n🚒 CAS (HS Telč)\n🚒 CAS (Horní Cerekev)\n🚒 CAS (Dolní Cerekev)\n🚒 C
- AS (Jezdovice)
+ AS (Jezdovice)\n🚒 osobní automobil (CHS Jihlava)
+END:VEVENT
+BEGIN:VEVENT
+UID:410360061
+DTSTART:20260429T110834Z
+DTEND:20260429T120834Z
+DTSTAMP:20260429T110834Z
+SUMMARY:🛠️ otevření bytu/auta - Telč
+LOCATION:Radkovská\, Telč
+GEO:49.174048;15.456596
+URL:geo:49.174048,15.456596
+DESCRIPTION:📍 Radkovská\, Telč-Staré Město\, Telč\, Jihlava\n\n🚒 CAS (HS Te
+ lč)
 END:VEVENT
 END:VCALENDAR
