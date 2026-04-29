@@ -409,7 +409,7 @@ SUMMARY:🔥 les - Olšany
 LOCATION:Olšany
 GEO:49.206880;15.556671
 URL:geo:49.206880,15.556671
-DESCRIPTION:📍 Olšany\, Jihlava\n💬 Požár lesa. Lokalizace a livkdiace událos
+DESCRIPTION:📍 Olšany\, Jihlava\n💬 Požár lesa. Lokalizace a likvidace událos
  ti.\n\n🚒 CAS (HS Telč)\n🚒 CAS (Nová Říše)\n🚒 CAS (Stará Říše)\n🚒 osobní au
  tomobil (Olšany)
 END:VEVENT
@@ -436,5 +436,17 @@ GEO:49.357346;15.992821
 URL:geo:49.357346,15.992821
 DESCRIPTION:📍 U Statku\, Velké Meziříčí\, Žďár nad Sázavou\n\n🚒 RZA (HS Vel
  ké Meziříčí)
+END:VEVENT
+BEGIN:VEVENT
+UID:410384061
+DTSTART:20260429T161737Z
+DTEND:20260429T171737Z
+DTSTAMP:20260429T161737Z
+SUMMARY:🛠️ ostatní - Borek
+LOCATION:Borek
+GEO:49.789719;15.594080
+URL:geo:49.789719,15.594080
+DESCRIPTION:📍 Borek\, Havlíčkův Brod\n💬 Odstranění skla z vozovky.\n\n🚒 CAS
+  (HS Chotěboř)
 END:VEVENT
 END:VCALENDAR
