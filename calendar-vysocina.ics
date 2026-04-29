@@ -357,11 +357,11 @@ URL:geo:49.286722,15.524468
 DESCRIPTION:📍 Třešť\, Jihlava\n💬 Požár lesa. Lokalizace a likvidace událost
  i.\n\n🚒 DA (Batelov)\n🚒 CAS (Batelov)\n🚒 CAS (HS Třešť)\n🚒 CAS (HS Třešť)\
  n🚒 CAS (Třešť)\n🚒 CAS (HS Telč)\n🚒 DA (Horní Cerekev)\n🚒 CAS (Horní Cereke
- v)\n🚒 CAS (Dolní Cerekev)\n🚒 CAS (Jezdovice)\n🚒 automobilový nosič kontejn
- erů (CHS Jihlava)\n🚒 osobní automobil (CHS Jihlava)\n🚒 účelový automobil d
- o 3500 kg (CHS Jihlava)\n🚒 vozidlo účelové - SxS (CHS Jihlava)\n🚒 přívěs n
- ákladní (CHS Jihlava)\n🚒 kontejner protiplynový (CHS Jihlava)\n🚒 osobní au
- tomobil (KŘ HZS VYS)
+ v)\n🚒 CAS (Dolní Cerekev)\n🚒 CAS (Jezdovice)\n🚒 vrtulník (CHS Brno - Lidic
+ ká vrtulník)\n🚒 automobilový nosič kontejnerů (CHS Jihlava)\n🚒 osobní auto
+ mobil (CHS Jihlava)\n🚒 účelový automobil do 3500 kg (CHS Jihlava)\n🚒 vozid
+ lo účelové - SxS (CHS Jihlava)\n🚒 přívěs nákladní (CHS Jihlava)\n🚒 kontejn
+ er protiplynový (CHS Jihlava)\n🚒 osobní automobil (KŘ HZS VYS)
 END:VEVENT
 BEGIN:VEVENT
 UID:410360061
@@ -461,8 +461,9 @@ GEO:49.558584;15.489802
 URL:geo:49.558584,15.489802
 DESCRIPTION:📍 Radňov\, Květinov\, Havlíčkův Brod\n💬 Požár mítiny po těžbě d
  řeva. Požárem nedošlo ke škodě na majetku. Uchráněné hodnoty 200 000Kč.\n\
- n🚒 CAS (CHS Havlíčkův Brod)\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 CAS (Herálec (H
- B))\n🚒 CAS (HS Humpolec)\n🚒 vyšetřovací automobil (ÚO Havlíčkův Brod)
+ n🚒 CAS (CHS Havlíčkův Brod)\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 čerpadlo plovou
+ cí (CHS Havlíčkův Brod)\n🚒 CAS (Herálec (HB))\n🚒 CAS (HS Humpolec)\n🚒 vyše
+ třovací automobil (ÚO Havlíčkův Brod)
 END:VEVENT
 BEGIN:VEVENT
 UID:410386061
@@ -485,7 +486,8 @@ SUMMARY:🚑 transport pacienta - Velký Beranov
 LOCATION:Velký Beranov
 GEO:49.402517;15.671661
 URL:geo:49.402517,15.671661
-DESCRIPTION:📍 Velký Beranov\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+DESCRIPTION:📍 Velký Beranov\, Jihlava\n💬 Transport pacienta na žádost ZZS.\
+ n\n🚒 CAS (CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:410388061
