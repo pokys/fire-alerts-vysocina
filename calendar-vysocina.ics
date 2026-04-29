@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:410274061
-DTSTART:20260427T123755Z
-DTEND:20260427T133755Z
-DTSTAMP:20260427T123755Z
-SUMMARY:🚗 dopravní nehoda - Ocmanice
-LOCATION:Ocmanice
-GEO:49.232548;16.120257
-URL:geo:49.232548,16.120257
-DESCRIPTION:📍 Ocmanice\, Třebíč\n💬 Dopravní nehoda 2 OA se zraněním\, proti
- požární opatření\, zajíštění místa zásahu.\n\n🚒 CAS (HS Náměšť nad Oslavou
- )
-END:VEVENT
-BEGIN:VEVENT
 UID:410277061
 DTSTART:20260427T132037Z
 DTEND:20260427T142037Z
@@ -382,8 +369,9 @@ LOCATION:Tyršova\, Horní Cerekev
 GEO:49.323317;15.322085
 URL:geo:49.323317,15.322085
 DESCRIPTION:📍 Tyršova\, Horní Cerekev\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)\
- n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (Horní Cerekev)\n🚒 CAS (Batelov)\n🚒 CAS (Poč
- átky)\n🚒 vyšetřovací automobil (ÚO Pelhřimov)
+ n🚒 CAS (CHS Pelhřimov)\n🚒 přetlakový ventilátor (CHS Pelhřimov)\n🚒 CAS (Ho
+ rní Cerekev)\n🚒 CAS (Batelov)\n🚒 CAS (Počátky)\n🚒 vyšetřovací automobil (Ú
+ O Pelhřimov)
 END:VEVENT
 BEGIN:VEVENT
 UID:410350061
@@ -494,8 +482,8 @@ DTEND:20260429T130401Z
 DTSTAMP:20260429T120401Z
 SUMMARY:🔥 les - Horní Cerekev
 LOCATION:Horní Cerekev
-GEO:49.341048;15.344951
-URL:geo:49.341048,15.344951
+GEO:49.328005;15.346254
+URL:geo:49.328005,15.346254
 DESCRIPTION:📍 Těšenov\, Horní Cerekev\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)\
  n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (Nový Rychnov)
 END:VEVENT
