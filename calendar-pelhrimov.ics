@@ -74,7 +74,7 @@ UID:410347061
 DTSTART:20260429T080136Z
 DTEND:20260429T090136Z
 DTSTAMP:20260429T080136Z
-SUMMARY:🔥 venkovní požár - Horní Cerekev
+SUMMARY:🔥 budova - Horní Cerekev
 LOCATION:Tyršova\, Horní Cerekev
 GEO:49.323317;15.322085
 URL:geo:49.323317,15.322085
@@ -93,7 +93,9 @@ SUMMARY:🚗 dopravní nehoda - Humpolec
 LOCATION:Humpolec
 GEO:49.522518;15.379613
 URL:geo:49.522518,15.379613
-DESCRIPTION:📍 Humpolec\, Pelhřimov\n\n🚒 CAS (HS Humpolec)
+DESCRIPTION:📍 Humpolec\, Pelhřimov\n💬 DN 2 OA bez zranění. Zabezpečení hava
+ rovaných vozidel proti PO a proti úniku provozních kapalin. Úklid vozovky.
+ \n\n🚒 CAS (HS Humpolec)
 END:VEVENT
 BEGIN:VEVENT
 UID:410370061
