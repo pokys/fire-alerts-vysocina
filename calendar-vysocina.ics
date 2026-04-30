@@ -551,4 +551,16 @@ URL:geo:49.130879,16.079894
 DESCRIPTION:📍 Dalešice\, Třebíč\n💬 Odstranění znečištěné vozovky provozními
   kapalinami.\n\n🚒 CAS (HS Hrotovice)
 END:VEVENT
+BEGIN:VEVENT
+UID:410404061
+DTSTART:20260430T063023Z
+DTEND:20260430T073023Z
+DTSTAMP:20260430T063023Z
+SUMMARY:🛠️ čerpání vody - Telč
+LOCATION:Luční\, Telč
+GEO:49.178799;15.453835
+URL:geo:49.178799,15.453835
+DESCRIPTION:📍 Luční\, Telč-Staré Město\, Telč\, Jihlava\n💬 Čerpání vody z v
+ odoměřné šachty.\n\n🚒 CAS (HS Telč)
+END:VEVENT
 END:VCALENDAR
