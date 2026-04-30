@@ -574,7 +574,9 @@ SUMMARY:🚗 dopravní nehoda - Humpolec
 LOCATION:Nerudova\, Humpolec
 GEO:49.543144;15.353743
 URL:geo:49.543144,15.353743
-DESCRIPTION:📍 Nerudova\, Humpolec\, Pelhřimov\n\n🚒 CAS (HS Humpolec)
+DESCRIPTION:📍 Nerudova\, Humpolec\, Pelhřimov\n💬 Dopravní nehoda motocyklu\
+ , jedna zraněná osoba\, provedeno zabezpečení místa nehody.\n\n🚒 CAS (HS H
+ umpolec)
 END:VEVENT
 BEGIN:VEVENT
 UID:410418061
@@ -583,13 +585,14 @@ DTEND:20260430T095906Z
 DTSTAMP:20260430T085906Z
 SUMMARY:🔥 les - Cejle
 LOCATION:Cejle
-GEO:49.368727;15.430578
-URL:geo:49.368727,15.430578
+GEO:49.366573;15.427366
+URL:geo:49.366573,15.427366
 DESCRIPTION:📍 Hutě\, Cejle\, Jihlava\n\n🚒 CAS (CHS Jihlava)\n🚒 CAS (CHS Jih
  lava)\n🚒 CAS (Dolní Cerekev)\n🚒 CAS (HS Třešť)\n🚒 DA (Hojkov)\n🚒 CAS (Hojk
  ov)\n🚒 přívěs motorová stříkačka (Hojkov)\n🚒 CAS (Batelov)\n🚒 CAS (Opatov 
  (JI))\n🚒 CAS (Nový Rychnov)\n🚒 CAS (Rohozná)\n🚒 CAS (Rohozná)\n🚒 osobní au
- tomobil (KŘ HZS VYS)\n🚒 vyšetřovací automobil (ÚO Jihlava)
+ tomobil (KŘ HZS VYS)\n🚒 vyšetřovací automobil (ÚO Jihlava)\n🚒 DA (Kostelec
+ )
 END:VEVENT
 BEGIN:VEVENT
 UID:410419061
@@ -625,6 +628,18 @@ LOCATION:U Kapličky\, Nové Veselí
 GEO:49.515587;15.901381
 URL:geo:49.515587,15.901381
 DESCRIPTION:📍 U Kapličky\, Nové Veselí\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďá
- r nad Sázavou)
+ r nad Sázavou)\n🚒 VEA (CHS Žďár nad Sázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:410424061
+DTSTART:20260430T094927Z
+DTEND:20260430T104927Z
+DTSTAMP:20260430T094927Z
+SUMMARY:🚑 otevření/asistence - Velké Meziříčí
+LOCATION:Novosady\, Velké Meziříčí
+GEO:49.352965;16.015732
+URL:geo:49.352965,16.015732
+DESCRIPTION:📍 Novosady\, Velké Meziříčí\, Žďár nad Sázavou\n\n🚒 RZA (HS Vel
+ ké Meziříčí)
 END:VEVENT
 END:VCALENDAR
