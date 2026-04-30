@@ -341,8 +341,8 @@ GEO:49.266983;16.007160
 URL:geo:49.266983,16.007160
 DESCRIPTION:📍 Budišov\, Třebíč\n💬 Požár sazí v komíně rodinného domu. Lokal
  izace a likvidace.\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (CHS Třebíč)\n🚒 CAS (HS Ve
- lké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)\n🚒 CAS (Budišov)\n🚒 CAS (Budišov-
- Mihoukovice)
+ lké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)\n🚒 DA (Budišov)\n🚒 CAS (Budišov)\
+ n🚒 CAS (Budišov-Mihoukovice)
 END:VEVENT
 BEGIN:VEVENT
 UID:410390061
@@ -811,5 +811,41 @@ GEO:49.359749;16.025933
 URL:geo:49.359749,16.025933
 DESCRIPTION:📍 Fajtův kopec\, Velké Meziříčí\, Žďár nad Sázavou\n\n🚒 CAS (Ve
  lké Meziříčí)
+END:VEVENT
+BEGIN:VEVENT
+UID:410453061
+DTSTART:20260430T171438Z
+DTEND:20260430T181438Z
+DTSTAMP:20260430T171438Z
+SUMMARY:🛠️ ostatní - Žďár nad Sázavou
+LOCATION:Libušínská\, Žďár nad Sázavou
+GEO:49.569274;15.939896
+URL:geo:49.569274,15.939896
+DESCRIPTION:📍 Libušínská\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n\n🚒 CAS (
+ Žďár nad Sázavou-Zámek)
+END:VEVENT
+BEGIN:VEVENT
+UID:410454061
+DTSTART:20260430T172143Z
+DTEND:20260430T182143Z
+DTSTAMP:20260430T172143Z
+SUMMARY:🔥 les - Ruda
+LOCATION:Ruda
+GEO:49.317455;16.110198
+URL:geo:49.317455,16.110198
+DESCRIPTION:📍 Lhotka\, Ruda\, Žďár nad Sázavou\n\n🚒 CAS (HS Velká Bíteš)\n🚒
+  CAS (HS Velké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)\n🚒 CAS (Osová Bítýška)
+ \n🚒 DA (Ruda)
+END:VEVENT
+BEGIN:VEVENT
+UID:410456061
+DTSTART:20260430T172527Z
+DTEND:20260430T182527Z
+DTSTAMP:20260430T172527Z
+SUMMARY:☣️ olej/PHM - Třebenice
+LOCATION:Třebenice
+GEO:49.171823;15.984324
+URL:geo:49.171823,15.984324
+DESCRIPTION:📍 Třebenice\, Třebíč\n\n🚒 CAS (HS Hrotovice)
 END:VEVENT
 END:VCALENDAR
