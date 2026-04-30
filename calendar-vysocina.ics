@@ -775,7 +775,7 @@ SUMMARY:🛠️ ostatní - Trnava
 LOCATION:Trnava
 GEO:49.250936;15.927940
 URL:geo:49.250936,15.927940
-DESCRIPTION:📍 Trnava\, Třebíč\n\n🚒 CAS (Trnava)
+DESCRIPTION:📍 Trnava\, Třebíč\n💬 ZOČ\n\n🚒 CAS (Trnava)
 END:VEVENT
 BEGIN:VEVENT
 UID:410446061
@@ -821,21 +821,21 @@ SUMMARY:🛠️ ostatní - Žďár nad Sázavou
 LOCATION:Libušínská\, Žďár nad Sázavou
 GEO:49.569274;15.939896
 URL:geo:49.569274,15.939896
-DESCRIPTION:📍 Libušínská\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n\n🚒 CAS (
- Žďár nad Sázavou-Zámek)
+DESCRIPTION:📍 Libušínská\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n💬 ZOČ.\n\
+ n🚒 CAS (Žďár nad Sázavou-Zámek)
 END:VEVENT
 BEGIN:VEVENT
 UID:410454061
 DTSTART:20260430T172143Z
 DTEND:20260430T182143Z
 DTSTAMP:20260430T172143Z
-SUMMARY:🔥 les - Ruda
+SUMMARY:⚠️ planý poplach - Ruda
 LOCATION:Ruda
 GEO:49.317455;16.110198
 URL:geo:49.317455,16.110198
-DESCRIPTION:📍 Lhotka\, Ruda\, Žďár nad Sázavou\n\n🚒 CAS (HS Velká Bíteš)\n🚒
-  CAS (HS Velké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)\n🚒 CAS (Osová Bítýška)
- \n🚒 DA (Ruda)
+DESCRIPTION:📍 Lhotka\, Ruda\, Žďár nad Sázavou\n💬 Planý poplach.\n\n🚒 CAS (
+ HS Velká Bíteš)\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)\n🚒 C
+ AS (Osová Bítýška)\n🚒 DA (Ruda)
 END:VEVENT
 BEGIN:VEVENT
 UID:410456061
@@ -847,5 +847,16 @@ LOCATION:Třebenice
 GEO:49.171823;15.984324
 URL:geo:49.171823,15.984324
 DESCRIPTION:📍 Třebenice\, Třebíč\n\n🚒 CAS (HS Hrotovice)
+END:VEVENT
+BEGIN:VEVENT
+UID:410457061
+DTSTART:20260430T173422Z
+DTEND:20260430T183422Z
+DTSTAMP:20260430T173422Z
+SUMMARY:🛠️ ostatní - Vladislav
+LOCATION:Vladislav
+GEO:49.215806;15.990158
+URL:geo:49.215806,15.990158
+DESCRIPTION:📍 Vladislav\, Třebíč\n💬 ZOČ\n\n🚒 DA (Vladislav)
 END:VEVENT
 END:VCALENDAR
