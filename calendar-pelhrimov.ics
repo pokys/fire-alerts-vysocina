@@ -83,4 +83,15 @@ DESCRIPTION:📍 Těšenov\, Horní Cerekev\, Pelhřimov\n💬 Požár lesa. Lok
   a likvidace události.\n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (CHS Pelhřimov)\n🚒 
  CAS (Nový Rychnov)\n🚒 CAS (Hojkov)\n🚒 vyšetřovací automobil (ÚO Pelhřimov)
 END:VEVENT
+BEGIN:VEVENT
+UID:410393061
+DTSTART:20260430T035705Z
+DTEND:20260430T045705Z
+DTSTAMP:20260430T035705Z
+SUMMARY:🚗 úklid místa - Věžná
+LOCATION:Věžná
+GEO:49.422456;14.979801
+URL:geo:49.422456,14.979801
+DESCRIPTION:📍 Věžná\, Pelhřimov\n\n🚒 CAS (HS Pacov)
+END:VEVENT
 END:VCALENDAR
