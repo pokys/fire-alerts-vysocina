@@ -567,8 +567,7 @@ LOCATION:U Kapličky\, Nové Veselí
 GEO:49.515587;15.901381
 URL:geo:49.515587,15.901381
 DESCRIPTION:📍 U Kapličky\, Nové Veselí\, Žďár nad Sázavou\n💬 Spolupráce se 
- ZZS.\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 VEA (CHS Žďár nad Sázavou)\n🚒 VEA 
- (KŘ HZS VYS)
+ ZZS.\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 VEA (KŘ HZS VYS)
 END:VEVENT
 BEGIN:VEVENT
 UID:410424061
@@ -778,5 +777,16 @@ LOCATION:Trnava
 GEO:49.250936;15.927940
 URL:geo:49.250936,15.927940
 DESCRIPTION:📍 Trnava\, Třebíč\n\n🚒 CAS (Trnava)
+END:VEVENT
+BEGIN:VEVENT
+UID:410446061
+DTSTART:20260430T154033Z
+DTEND:20260430T164033Z
+DTSTAMP:20260430T154033Z
+SUMMARY:🚑 otevření/asistence - Třebíč
+LOCATION:Bezručova\, Třebíč
+GEO:49.208489;15.882883
+URL:geo:49.208489,15.882883
+DESCRIPTION:📍 Bezručova\, Horka-Domky\, Třebíč\n\n🚒 CAS (CHS Třebíč)
 END:VEVENT
 END:VCALENDAR
