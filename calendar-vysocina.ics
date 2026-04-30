@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:410311061
-DTSTART:20260428T094500Z
-DTEND:20260428T104500Z
-DTSTAMP:20260428T094500Z
-SUMMARY:🚗 dopravní nehoda - Nové Město na Moravě
-LOCATION:Masarykova\, Nové Město na Moravě
-GEO:49.565812;16.079462
-URL:geo:49.565812,16.079462
-DESCRIPTION:📍 Masarykova\, Nové Město na Moravě\, Žďár nad Sázavou\n💬 DN cy
- klisty se zraněním. Zajištění místa události.\n\n🚒 CAS (CHS Žďár nad Sázav
- ou)\n🚒 TA (Nové Město na Moravě)
-END:VEVENT
-BEGIN:VEVENT
 UID:410312061
 DTSTART:20260428T102934Z
 DTEND:20260428T112934Z
@@ -512,8 +499,9 @@ SUMMARY:🔥 vozidlo - Horní Paseka
 LOCATION:Horní Paseka
 GEO:49.620182;15.265020
 URL:geo:49.620182,15.265020
-DESCRIPTION:📍 Horní Paseka\, Havlíčkův Brod\n\n🚒 CAS (HS Ledeč nad Sázavou)
- \n🚒 vyšetřovací automobil (ÚO Havlíčkův Brod)
+DESCRIPTION:📍 Horní Paseka\, Havlíčkův Brod\n💬 Požár OA\, lokalizace a likv
+ idace.\n\n🚒 CAS (HS Ledeč nad Sázavou)\n🚒 vyšetřovací automobil (ÚO Havlíč
+ kův Brod)
 END:VEVENT
 BEGIN:VEVENT
 UID:410411061
@@ -559,9 +547,11 @@ SUMMARY:🔥 saze v komíně - Budišov
 LOCATION:Budišov
 GEO:49.266983;16.007160
 URL:geo:49.266983,16.007160
-DESCRIPTION:📍 Budišov\, Třebíč\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (CHS Třebíč)\n🚒
-  osobní automobil (CHS Třebíč)\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (HS Velké
-  Meziříčí)\n🚒 DA (Budišov)\n🚒 CAS (Budišov)\n🚒 CAS (Budišov-Mihoukovice)
+DESCRIPTION:📍 Budišov\, Třebíč\n💬 Požár sazí v komíně\, lokalizace a likvid
+ ace.\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (CHS Třebíč)\n🚒 osobní automobil (CHS Tř
+ ebíč)\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)\n🚒 DA (Budišov
+ )\n🚒 CAS (Budišov)\n🚒 CAS (Budišov-Mihoukovice)\n🚒 vyšetřovací automobil (
+ ÚO Třebíč)
 END:VEVENT
 BEGIN:VEVENT
 UID:410416061
@@ -596,7 +586,10 @@ LOCATION:Cejle
 GEO:49.368727;15.430578
 URL:geo:49.368727,15.430578
 DESCRIPTION:📍 Hutě\, Cejle\, Jihlava\n\n🚒 CAS (CHS Jihlava)\n🚒 CAS (CHS Jih
- lava)\n🚒 CAS (Dolní Cerekev)\n🚒 CAS (HS Třešť)\n🚒 DA (Hojkov)
+ lava)\n🚒 CAS (Dolní Cerekev)\n🚒 CAS (HS Třešť)\n🚒 DA (Hojkov)\n🚒 CAS (Hojk
+ ov)\n🚒 přívěs motorová stříkačka (Hojkov)\n🚒 CAS (Batelov)\n🚒 CAS (Opatov 
+ (JI))\n🚒 CAS (Nový Rychnov)\n🚒 CAS (Rohozná)\n🚒 CAS (Rohozná)\n🚒 osobní au
+ tomobil (KŘ HZS VYS)\n🚒 vyšetřovací automobil (ÚO Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:410419061
@@ -607,7 +600,31 @@ SUMMARY:🚗 dopravní nehoda - Chotěboř
 LOCATION:Na Skřivánku\, Chotěboř
 GEO:49.718398;15.677569
 URL:geo:49.718398,15.677569
-DESCRIPTION:📍 Na Skřivánku\, Chotěboř\, Havlíčkův Brod\n\n🚒 CAS (HS Chotěbo
- ř)
+DESCRIPTION:📍 Na Skřivánku\, Chotěboř\, Havlíčkův Brod\n💬 DN cyklistky. 1 z
+ raněná osoba. Zajištění místa nehody.\n\n🚒 CAS (HS Chotěboř)
+END:VEVENT
+BEGIN:VEVENT
+UID:410422061
+DTSTART:20260430T091639Z
+DTEND:20260430T101639Z
+DTSTAMP:20260430T091639Z
+SUMMARY:🛠️ ostatní - Ledeč nad Sázavou
+LOCATION:Ledeč nad Sázavou
+GEO:49.700665;15.265266
+URL:geo:49.700665,15.265266
+DESCRIPTION:📍 Obrvaň\, Ledeč nad Sázavou\, Havlíčkův Brod\n\n🚒 CAS (HS Lede
+ č nad Sázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:410423061
+DTSTART:20260430T091745Z
+DTEND:20260430T101745Z
+DTSTAMP:20260430T091745Z
+SUMMARY:🚑 spolupráce ZZS - Nové Veselí
+LOCATION:U Kapličky\, Nové Veselí
+GEO:49.515587;15.901381
+URL:geo:49.515587,15.901381
+DESCRIPTION:📍 U Kapličky\, Nové Veselí\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďá
+ r nad Sázavou)
 END:VEVENT
 END:VCALENDAR
