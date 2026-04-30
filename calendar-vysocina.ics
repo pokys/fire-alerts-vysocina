@@ -701,7 +701,19 @@ SUMMARY:🛠️ ostatní - Třebíč
 LOCATION:Zámecká\, Třebíč
 GEO:49.220856;15.863171
 URL:geo:49.220856,15.863171
-DESCRIPTION:📍 Zámecká\, Podklášteří\, Třebíč\n💬 Vytéká voda z kanalizace.\n
- \n🚒 CAS (CHS Třebíč)
+DESCRIPTION:📍 Zámecká\, Podklášteří\, Třebíč\n💬 Vytéká voda z hydrantu.\n\n
+ 🚒 CAS (CHS Třebíč)
+END:VEVENT
+BEGIN:VEVENT
+UID:410436061
+DTSTART:20260430T122803Z
+DTEND:20260430T132803Z
+DTSTAMP:20260430T122803Z
+SUMMARY:🚑 otevření/asistence - Jimramov
+LOCATION:Dolní\, Jimramov
+GEO:49.634018;16.223945
+URL:geo:49.634018,16.223945
+DESCRIPTION:📍 Dolní\, Jimramov\, Žďár nad Sázavou\n\n🚒 CAS (HS Bystřice nad
+  Pernštejnem)
 END:VEVENT
 END:VCALENDAR
