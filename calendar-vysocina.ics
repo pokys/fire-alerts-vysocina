@@ -315,7 +315,8 @@ DESCRIPTION:📍 Stonařov\, Jihlava\n💬 Požár rodinného domu a garáže. L
  ce a likvidace události.\n\n🚒 CAS (HS Třešť)\n🚒 CAS (Dlouhá Brtnice)\n🚒 CA
  S (Stonařov)\n🚒 CAS (CHS Jihlava)\n🚒 CAS (CHS Jihlava)\n🚒 zařízení hasicí 
  a řezací vysokotlaké (CHS Jihlava)\n🚒 CAS (Brtnice)\n🚒 CAS (Opatov (TR))\n
- 🚒 CAS (Kněžice)\n🚒 vyšetřovací automobil (ÚO Jihlava)
+ 🚒 CAS (Kněžice)\n🚒 vyšetřovací automobil (ÚO Jihlava)\n🚒 vyšetřovací autom
+ obil (KŘ HZS VYS)
 END:VEVENT
 BEGIN:VEVENT
 UID:410357061
@@ -333,7 +334,8 @@ DESCRIPTION:📍 Třešť\, Jihlava\n💬 Požár lesa. Lokalizace a likvidace u
  ká vrtulník)\n🚒 automobilový nosič kontejnerů (CHS Jihlava)\n🚒 osobní auto
  mobil (CHS Jihlava)\n🚒 účelový automobil do 3500 kg (CHS Jihlava)\n🚒 vozid
  lo účelové - SxS (CHS Jihlava)\n🚒 přívěs nákladní (CHS Jihlava)\n🚒 kontejn
- er protiplynový (CHS Jihlava)\n🚒 osobní automobil (KŘ HZS VYS)
+ er protiplynový (CHS Jihlava)\n🚒 vyšetřovací automobil (KŘ HZS VYS)\n🚒 oso
+ bní automobil (KŘ HZS VYS)
 END:VEVENT
 BEGIN:VEVENT
 UID:410360061
@@ -538,5 +540,17 @@ GEO:49.422456;14.979801
 URL:geo:49.422456,14.979801
 DESCRIPTION:📍 Věžná\, Pelhřimov\n💬 DN NA se srnou. Zajištění místa události
  .\n\n🚒 CAS (HS Pacov)
+END:VEVENT
+BEGIN:VEVENT
+UID:410395061
+DTSTART:20260430T050725Z
+DTEND:20260430T060725Z
+DTSTAMP:20260430T050725Z
+SUMMARY:🛠️ otevření bytu/auta - Velké Meziříčí
+LOCATION:Bezručova\, Velké Meziříčí
+GEO:49.352193;16.005435
+URL:geo:49.352193,16.005435
+DESCRIPTION:📍 Bezručova\, Velké Meziříčí\, Žďár nad Sázavou\n\n🚒 RZA (HS Ve
+ lké Meziříčí)
 END:VEVENT
 END:VCALENDAR
