@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:410319061
-DTSTART:20260428T134259Z
-DTEND:20260428T144259Z
-DTSTAMP:20260428T134259Z
-SUMMARY:🛠️ strom - Větrný Jeníkov
-LOCATION:Větrný Jeníkov
-GEO:49.454210;15.507169
-URL:geo:49.454210,15.507169
-DESCRIPTION:📍 Větrný Jeníkov\, Jihlava\n💬 Odstranění stromu.\n\n🚒 DA (Větrn
- ý Jeníkov)\n🚒 CAS (Větrný Jeníkov)
-END:VEVENT
-BEGIN:VEVENT
 UID:410321061
 DTSTART:20260428T154417Z
 DTEND:20260428T164417Z
@@ -590,8 +578,8 @@ SUMMARY:🚑 spolupráce ZZS - Nové Veselí
 LOCATION:U Kapličky\, Nové Veselí
 GEO:49.515587;15.901381
 URL:geo:49.515587,15.901381
-DESCRIPTION:📍 U Kapličky\, Nové Veselí\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďá
- r nad Sázavou)\n🚒 VEA (CHS Žďár nad Sázavou)
+DESCRIPTION:📍 U Kapličky\, Nové Veselí\, Žďár nad Sázavou\n💬 AED.\n\n🚒 CAS 
+ (CHS Žďár nad Sázavou)\n🚒 VEA (CHS Žďár nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:410424061
@@ -701,7 +689,19 @@ SUMMARY:🚑 otevření/asistence - Jimramov
 LOCATION:Dolní\, Jimramov
 GEO:49.634018;16.223945
 URL:geo:49.634018,16.223945
-DESCRIPTION:📍 Dolní\, Jimramov\, Žďár nad Sázavou\n\n🚒 CAS (HS Bystřice nad
-  Pernštejnem)
+DESCRIPTION:📍 Dolní\, Jimramov\, Žďár nad Sázavou\n💬 Otevření bytu.\n\n🚒 CA
+ S (HS Bystřice nad Pernštejnem)
+END:VEVENT
+BEGIN:VEVENT
+UID:410437061
+DTSTART:20260430T131513Z
+DTEND:20260430T141513Z
+DTSTAMP:20260430T131513Z
+SUMMARY:🔥 tráva/plocha - Česká Bělá
+LOCATION:Česká Bělá
+GEO:49.638911;15.701158
+URL:geo:49.638911,15.701158
+DESCRIPTION:📍 Česká Bělá\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 
+ CAS (CHS Havlíčkův Brod)\n🚒 CAS (Česká Bělá)
 END:VEVENT
 END:VCALENDAR
