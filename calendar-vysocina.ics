@@ -298,7 +298,7 @@ DESCRIPTION:📍 Třešť\, Jihlava\n💬 Požár lesa. Lokalizace a likvidace u
  utomobil (CHS Jihlava)\n🚒 účelový automobil do 3500 kg (CHS Jihlava)\n🚒 vo
  zidlo účelové - SxS (CHS Jihlava)\n🚒 přívěs nákladní (CHS Jihlava)\n🚒 kont
  ejner protiplynový (CHS Jihlava)\n🚒 vyšetřovací automobil (KŘ HZS VYS)\n🚒 
- osobní automobil (KŘ HZS VYS)
+ osobní automobil (KŘ HZS VYS) ×2
 END:VEVENT
 BEGIN:VEVENT
 UID:410360061
@@ -537,7 +537,7 @@ LOCATION:Luční\, Telč
 GEO:49.178799;15.453835
 URL:geo:49.178799,15.453835
 DESCRIPTION:📍 Luční\, Telč-Staré Město\, Telč\, Jihlava\n💬 Čerpání vody z v
- odoměřné šachty.\n\n🚒 CAS (HS Telč)
+ odoměřné šachty.\n\n🚒 CAS (HS Telč)\n🚒 elektrocentrála přenosná (HS Telč)
 END:VEVENT
 BEGIN:VEVENT
 UID:410407061
@@ -550,5 +550,39 @@ GEO:49.620182;15.265020
 URL:geo:49.620182,15.265020
 DESCRIPTION:📍 Horní Paseka\, Havlíčkův Brod\n\n🚒 CAS (HS Ledeč nad Sázavou)
  \n🚒 vyšetřovací automobil (ÚO Havlíčkův Brod)
+END:VEVENT
+BEGIN:VEVENT
+UID:410411061
+DTSTART:20260430T074309Z
+DTEND:20260430T084309Z
+DTSTAMP:20260430T074309Z
+SUMMARY:☣️ olej/PHM - Dobroutov
+LOCATION:Dobroutov
+GEO:49.469063;15.780574
+URL:geo:49.469063,15.780574
+DESCRIPTION:📍 Dobroutov\, Jihlava\n\n🚒 CAS (HS Polná)
+END:VEVENT
+BEGIN:VEVENT
+UID:410412061
+DTSTART:20260430T074523Z
+DTEND:20260430T084523Z
+DTSTAMP:20260430T074523Z
+SUMMARY:🛠️ ostatní - Putimov
+LOCATION:Putimov
+GEO:49.412901;15.265098
+URL:geo:49.412901,15.265098
+DESCRIPTION:📍 Putimov\, Pelhřimov\n\n🚒 DA (Putimov)
+END:VEVENT
+BEGIN:VEVENT
+UID:410413061
+DTSTART:20260430T074622Z
+DTEND:20260430T084622Z
+DTSTAMP:20260430T074622Z
+SUMMARY:🛠️ ostatní - Jimramov
+LOCATION:Dolní\, Jimramov
+GEO:49.634028;16.223957
+URL:geo:49.634028,16.223957
+DESCRIPTION:📍 Dolní\, Jimramov\, Žďár nad Sázavou\n\n🚒 CAS (HS Bystřice nad
+  Pernštejnem)
 END:VEVENT
 END:VCALENDAR
