@@ -727,8 +727,9 @@ SUMMARY:🚗 dopravní nehoda - Kamenice
 LOCATION:Kamenice
 GEO:49.349597;15.801529
 URL:geo:49.349597,15.801529
-DESCRIPTION:📍 Kamenice\, Jihlava\n💬 DN 2 OA\, bez zranění. Zajištění místa 
- události.\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihlava)\n🚒 CAS (HS Polná)
+DESCRIPTION:📍 Kamenice\, Jihlava\n💬 DN 2 OA\, 1 zraněná osoba. Zajištění mí
+ sta události.\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihlava)\n🚒 CAS (HS Polná
+ )
 END:VEVENT
 BEGIN:VEVENT
 UID:410441061
@@ -752,5 +753,28 @@ LOCATION:Komenského\, Žirovnice
 GEO:49.255345;15.191902
 URL:geo:49.255345,15.191902
 DESCRIPTION:📍 Komenského\, Žirovnice\, Pelhřimov\n\n🚒 CAS (Žirovnice)
+END:VEVENT
+BEGIN:VEVENT
+UID:410443061
+DTSTART:20260430T143345Z
+DTEND:20260430T153345Z
+DTSTAMP:20260430T143345Z
+SUMMARY:🛠️ ostatní - Těmice
+LOCATION:Těmice
+GEO:49.328517;15.066770
+URL:geo:49.328517,15.066770
+DESCRIPTION:📍 Dráchov\, Těmice\, Pelhřimov\n\n🚒 CAS (Těmice)
+END:VEVENT
+BEGIN:VEVENT
+UID:410444061
+DTSTART:20260430T143927Z
+DTEND:20260430T153927Z
+DTSTAMP:20260430T143927Z
+SUMMARY:🛠️ ostatní - Pelhřimov
+LOCATION:U Stráže\, Pelhřimov
+GEO:49.424840;15.208805
+URL:geo:49.424840,15.208805
+DESCRIPTION:📍 U Stráže\, Pelhřimov\n\n🚒 DA (Pelhřimov-Čakovice)\n🚒 přívěs m
+ otorová stříkačka (Pelhřimov-Čakovice)
 END:VEVENT
 END:VCALENDAR
