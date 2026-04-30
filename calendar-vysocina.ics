@@ -291,14 +291,14 @@ LOCATION:Třešť
 GEO:49.286722;15.524468
 URL:geo:49.286722,15.524468
 DESCRIPTION:📍 Třešť\, Jihlava\n💬 Požár lesa. Lokalizace a likvidace událost
- i.\n\n🚒 DA (Batelov)\n🚒 CAS (Batelov)\n🚒 CAS (HS Třešť)\n🚒 CAS (HS Třešť)\
- n🚒 CAS (Třešť)\n🚒 CAS (HS Telč)\n🚒 DA (Horní Cerekev)\n🚒 CAS (Horní Cereke
- v)\n🚒 CAS (Dolní Cerekev)\n🚒 CAS (Jezdovice)\n🚒 vrtulník (CHS Brno - Lidic
- ká vrtulník)\n🚒 automobilový nosič kontejnerů (CHS Jihlava)\n🚒 osobní auto
- mobil (CHS Jihlava)\n🚒 účelový automobil do 3500 kg (CHS Jihlava)\n🚒 vozid
- lo účelové - SxS (CHS Jihlava)\n🚒 přívěs nákladní (CHS Jihlava)\n🚒 kontejn
- er protiplynový (CHS Jihlava)\n🚒 vyšetřovací automobil (KŘ HZS VYS)\n🚒 oso
- bní automobil (KŘ HZS VYS)
+ i.\n\n🚒 DA (Batelov)\n🚒 CAS (Batelov)\n🚒 CAS (HS Třešť)\n🚒 CAS (HS Třešť) 
+ ×2\n🚒 CAS (Třešť)\n🚒 CAS (HS Telč)\n🚒 DA (Horní Cerekev)\n🚒 CAS (Horní Cer
+ ekev)\n🚒 CAS (Dolní Cerekev)\n🚒 CAS (Jezdovice)\n🚒 vrtulník (CHS Brno - Li
+ dická vrtulník)\n🚒 automobilový nosič kontejnerů (CHS Jihlava)\n🚒 osobní a
+ utomobil (CHS Jihlava)\n🚒 účelový automobil do 3500 kg (CHS Jihlava)\n🚒 vo
+ zidlo účelové - SxS (CHS Jihlava)\n🚒 přívěs nákladní (CHS Jihlava)\n🚒 kont
+ ejner protiplynový (CHS Jihlava)\n🚒 vyšetřovací automobil (KŘ HZS VYS)\n🚒 
+ osobní automobil (KŘ HZS VYS)
 END:VEVENT
 BEGIN:VEVENT
 UID:410360061
@@ -538,5 +538,16 @@ GEO:49.178799;15.453835
 URL:geo:49.178799,15.453835
 DESCRIPTION:📍 Luční\, Telč-Staré Město\, Telč\, Jihlava\n💬 Čerpání vody z v
  odoměřné šachty.\n\n🚒 CAS (HS Telč)
+END:VEVENT
+BEGIN:VEVENT
+UID:410407061
+DTSTART:20260430T070525Z
+DTEND:20260430T080525Z
+DTSTAMP:20260430T070525Z
+SUMMARY:🔥 vozidlo - Horní Paseka
+LOCATION:Horní Paseka
+GEO:49.620182;15.265020
+URL:geo:49.620182,15.265020
+DESCRIPTION:📍 Horní Paseka\, Havlíčkův Brod\n\n🚒 CAS (HS Ledeč nad Sázavou)
 END:VEVENT
 END:VCALENDAR
