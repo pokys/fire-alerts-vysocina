@@ -562,12 +562,12 @@ SUMMARY:🔥 les - Cejle
 LOCATION:Cejle
 GEO:49.366573;15.427366
 URL:geo:49.366573,15.427366
-DESCRIPTION:📍 Hutě\, Cejle\, Jihlava\n💬 Požár lesa.\n\n🚒 CAS (CHS Jihlava)\
- n🚒 CAS (CHS Jihlava)\n🚒 CAS (Dolní Cerekev)\n🚒 CAS (HS Třešť)\n🚒 DA (Hojko
- v)\n🚒 CAS (Hojkov)\n🚒 přívěs motorová stříkačka (Hojkov)\n🚒 CAS (Batelov)\
- n🚒 CAS (Opatov (JI))\n🚒 CAS (Nový Rychnov)\n🚒 CAS (Rohozná)\n🚒 CAS (Rohozn
- á)\n🚒 osobní automobil (KŘ HZS VYS)\n🚒 vyšetřovací automobil (ÚO Jihlava)\
- n🚒 DA (Kostelec)
+DESCRIPTION:📍 Hutě\, Cejle\, Jihlava\n💬 Požár lesa. Lokalizace a likvidace 
+ události.\n\n🚒 CAS (CHS Jihlava)\n🚒 CAS (CHS Jihlava)\n🚒 CAS (Dolní Cereke
+ v)\n🚒 CAS (HS Třešť)\n🚒 DA (Hojkov)\n🚒 CAS (Hojkov)\n🚒 přívěs motorová stř
+ íkačka (Hojkov)\n🚒 CAS (Batelov)\n🚒 CAS (Opatov (JI))\n🚒 CAS (Nový Rychnov
+ )\n🚒 CAS (Rohozná)\n🚒 CAS (Rohozná)\n🚒 osobní automobil (KŘ HZS VYS)\n🚒 vy
+ šetřovací automobil (ÚO Jihlava)\n🚒 DA (Kostelec)
 END:VEVENT
 BEGIN:VEVENT
 UID:410419061
@@ -640,7 +640,9 @@ SUMMARY:🚗 dopravní nehoda - Vladislav
 LOCATION:Vladislav
 GEO:49.210336;15.987523
 URL:geo:49.210336,15.987523
-DESCRIPTION:📍 Vladislav\, Třebíč\n\n🚒 CAS (CHS Třebíč)
+DESCRIPTION:📍 Vladislav\, Třebíč\n💬 DN 2 dodávky se zraněním 1 osoby. Zajiš
+ tění místa nehody proti požáru a úniku provozních kapalin.\n\n🚒 CAS (CHS T
+ řebíč)
 END:VEVENT
 BEGIN:VEVENT
 UID:410427061
@@ -676,5 +678,28 @@ LOCATION:Havlíčkův Brod
 GEO:49.598384;15.609553
 URL:geo:49.598384,15.609553
 DESCRIPTION:📍 Termesivy\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)
+END:VEVENT
+BEGIN:VEVENT
+UID:410432061
+DTSTART:20260430T113729Z
+DTEND:20260430T123729Z
+DTSTAMP:20260430T113729Z
+SUMMARY:🛠️ ostatní - Moravské Budějovice
+LOCATION:Miličova\, Moravské Budějovice
+GEO:49.047912;15.806876
+URL:geo:49.047912,15.806876
+DESCRIPTION:📍 Miličova\, Moravské Budějovice\, Třebíč\n\n🚒 CAS (HS Moravské
+  Budějovice)
+END:VEVENT
+BEGIN:VEVENT
+UID:410433061
+DTSTART:20260430T114521Z
+DTEND:20260430T124521Z
+DTSTAMP:20260430T114521Z
+SUMMARY:🛠️ ostatní - Třebíč
+LOCATION:Zámecká\, Třebíč
+GEO:49.220856;15.863171
+URL:geo:49.220856,15.863171
+DESCRIPTION:📍 Zámecká\, Podklášteří\, Třebíč\n\n🚒 CAS (CHS Třebíč)
 END:VEVENT
 END:VCALENDAR
