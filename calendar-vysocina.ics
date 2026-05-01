@@ -936,7 +936,9 @@ SUMMARY:🚗 dopravní nehoda - Knínice
 LOCATION:Knínice
 GEO:49.091992;15.600826
 URL:geo:49.091992,15.600826
-DESCRIPTION:📍 Knínice\, Jihlava\n\n🚒 CAS (HS Jemnice)\n🚒 CAS (Želetava)
+DESCRIPTION:📍 Knínice\, Jihlava\n💬 DN 1 OA se zraněním 1 osoby. Zajištění m
+ ísta nehody proti požáru a úniku provozních kapalin.\n\n🚒 CAS (HS Jemnice)
+ \n🚒 CAS (Želetava)
 END:VEVENT
 BEGIN:VEVENT
 UID:410517061
@@ -984,7 +986,8 @@ SUMMARY:🔥 venkovní požár - Jihlava
 LOCATION:Jihlava
 GEO:49.394829;15.553216
 URL:geo:49.394829,15.553216
-DESCRIPTION:📍 Horní Kosov\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+DESCRIPTION:📍 Horní Kosov\, Jihlava\n💬 Požár květináče. Lokalizace a likvid
+ ace události.\n\n🚒 CAS (CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:410523061
@@ -993,8 +996,8 @@ DTEND:20260501T194148Z
 DTSTAMP:20260501T184148Z
 SUMMARY:☣️ olej/PHM - Koroužné
 LOCATION:Koroužné
-GEO:49.522332;16.356699
-URL:geo:49.522332,16.356699
+GEO:49.522425;16.358726
+URL:geo:49.522425,16.358726
 DESCRIPTION:📍 Švařec\, Koroužné\, Žďár nad Sázavou\n\n🚒 CAS (HS Bystřice na
  d Pernštejnem)
 END:VEVENT
@@ -1007,7 +1010,7 @@ SUMMARY:🔥 les - Třešť
 LOCATION:Třešť
 GEO:49.288601;15.530943
 URL:geo:49.288601,15.530943
-DESCRIPTION:📍 Třešť\, Jihlava\n\n🚒 CAS (HS Třešť)\n🚒 CAS (Batelov)\n🚒 CAS (
- Třešť)
+DESCRIPTION:📍 Třešť\, Jihlava\n💬 Požár lesa. Lokalizace a likvidace událost
+ i.\n\n🚒 CAS (HS Třešť)\n🚒 CAS (Batelov)\n🚒 CAS (Třešť)
 END:VEVENT
 END:VCALENDAR
