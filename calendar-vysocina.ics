@@ -893,18 +893,30 @@ SUMMARY:🚑 spolupráce ZZS - Stránecká Zhoř
 LOCATION:Stránecká Zhoř
 GEO:49.376073;15.924177
 URL:geo:49.376073,15.924177
-DESCRIPTION:📍 Stránecká Zhoř\, Žďár nad Sázavou\n\n🚒 CAS (HS Velké Meziříčí
- )\n🚒 RZA (HS Velké Meziříčí)
+DESCRIPTION:📍 Stránecká Zhoř\, Žďár nad Sázavou\n💬 Spolupráce se ZZS.\n\n🚒 
+ CAS (HS Velké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)
 END:VEVENT
 BEGIN:VEVENT
 UID:410502061
 DTSTART:20260501T124723Z
 DTEND:20260501T134723Z
 DTSTAMP:20260501T124723Z
-SUMMARY:🚗 dopravní nehoda - Rybné
+SUMMARY:⚠️ planý poplach - Rybné
 LOCATION:Rybné
 GEO:49.423177;15.736899
 URL:geo:49.423177,15.736899
-DESCRIPTION:📍 Rybné\, Jihlava\n\n🚒 RZA (CHS Jihlava)\n🚒 CAS (HS Polná)
+DESCRIPTION:📍 Rybné\, Jihlava\n💬 Planý poplach.\n\n🚒 RZA (CHS Jihlava)\n🚒 C
+ AS (HS Polná)
+END:VEVENT
+BEGIN:VEVENT
+UID:410503061
+DTSTART:20260501T130625Z
+DTEND:20260501T140625Z
+DTSTAMP:20260501T130625Z
+SUMMARY:🚗 dopravní nehoda - Havlíčkův Brod
+LOCATION:Kyjovská\, Havlíčkův Brod
+GEO:49.609948;15.597354
+URL:geo:49.609948,15.597354
+DESCRIPTION:📍 Kyjovská\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)
 END:VEVENT
 END:VCALENDAR
