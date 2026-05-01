@@ -904,7 +904,8 @@ SUMMARY:🚗 dopravní nehoda - Veselý Žďár
 LOCATION:Veselý Žďár
 GEO:49.647457;15.512783
 URL:geo:49.647457,15.512783
-DESCRIPTION:📍 Veselý Žďár\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)
+DESCRIPTION:📍 Veselý Žďár\, Havlíčkův Brod\n💬 DN 2 OA se zraněním jedné oso
+ by. Provedeno PPO. Zajištění místa události.\n\n🚒 CAS (CHS Havlíčkův Brod)
 END:VEVENT
 BEGIN:VEVENT
 UID:410511061
@@ -915,7 +916,8 @@ SUMMARY:🚑 transport pacienta - Jabloňov
 LOCATION:Jabloňov
 GEO:49.325546;16.087769
 URL:geo:49.325546,16.087769
-DESCRIPTION:📍 Jabloňov\, Žďár nad Sázavou\n\n🚒 CAS (HS Velké Meziříčí)
+DESCRIPTION:📍 Jabloňov\, Žďár nad Sázavou\n💬 Transport pacienta na žádost Z
+ ZS.\n\n🚒 CAS (HS Velké Meziříčí)
 END:VEVENT
 BEGIN:VEVENT
 UID:410512061
@@ -926,6 +928,7 @@ SUMMARY:🛠️ obtížný hmyz - Mohelno
 LOCATION:Mohelno
 GEO:49.099291;16.204571
 URL:geo:49.099291,16.204571
-DESCRIPTION:📍 Mohelno\, Třebíč\n\n🚒 nákladní automobil do 3500 kg (Mohelno)
+DESCRIPTION:📍 Mohelno\, Třebíč\n💬 Odstranění obtížného hmyzu.\n\n🚒 nákladní
+  automobil do 3500 kg (Mohelno)
 END:VEVENT
 END:VCALENDAR
