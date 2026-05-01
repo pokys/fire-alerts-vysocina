@@ -42,13 +42,17 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config merge.notified-json.name "JSON deep merge for notified records"
+          git config merge.notified-json.driver "python3 merge_notified.py %O %A %B"
           git add calendar-pelhrimov.ics calendar-vysocina.ics notified.json
           git add notified-vysocina.json 2>/dev/null || true
           git diff --cached --quiet && exit 0
           git commit -m "Update calendar"
           for i in 1 2 3; do
-            git pull --rebase origin main
-            git push origin main && exit 0
+            if git pull --rebase origin main && git push origin main; then
+              exit 0
+            fi
+            git rebase --abort 2>/dev/null || true
             echo "Push attempt $i failed, retrying in $((i * 2))s..."
             sleep $((i * 2))
           done
