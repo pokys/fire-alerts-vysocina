@@ -5,21 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:410385061
-DTSTART:20260429T171955Z
-DTEND:20260429T181955Z
-DTSTAMP:20260429T171955Z
-SUMMARY:🔥 tráva/plocha - Květinov
-LOCATION:Květinov
-GEO:49.558584;15.489802
-URL:geo:49.558584,15.489802
-DESCRIPTION:📍 Radňov\, Květinov\, Havlíčkův Brod\n💬 Požár mýtiny po těžbě d
- řeva.Lokalizace a likvidace události.\n\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 CAS
-  (CHS Havlíčkův Brod)\n🚒 čerpadlo plovoucí (CHS Havlíčkův Brod)\n🚒 CAS (He
- rálec (HB))\n🚒 CAS (HS Humpolec)\n🚒 vyšetřovací automobil (ÚO Havlíčkův Br
- od)
-END:VEVENT
-BEGIN:VEVENT
 UID:410386061
 DTSTART:20260429T182437Z
 DTEND:20260429T192437Z
