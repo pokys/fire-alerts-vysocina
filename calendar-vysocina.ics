@@ -865,11 +865,12 @@ UID:410498061
 DTSTART:20260501T113120Z
 DTEND:20260501T123120Z
 DTSTAMP:20260501T113120Z
-SUMMARY:🚗 dopravní nehoda - Mrákotín
+SUMMARY:🚗 bez zranění - Mrákotín
 LOCATION:Mrákotín
 GEO:49.191889;15.384381
 URL:geo:49.191889,15.384381
-DESCRIPTION:📍 Mrákotín\, Jihlava\n\n🚒 CAS (HS Telč)
+DESCRIPTION:📍 Mrákotín\, Jihlava\n💬 DN 1 OA\, náraz do stromu\, bez zranění
+ . Provedena PPO. Zajištění místa události.\n\n🚒 CAS (HS Telč)
 END:VEVENT
 BEGIN:VEVENT
 UID:410500061
@@ -880,6 +881,30 @@ SUMMARY:🔥 venkovní požár - Humpolec
 LOCATION:Humpolec
 GEO:49.532540;15.380395
 URL:geo:49.532540,15.380395
-DESCRIPTION:📍 Plačkov\, Humpolec\, Pelhřimov\n\n🚒 CAS (HS Humpolec)
+DESCRIPTION:📍 Plačkov\, Humpolec\, Pelhřimov\n💬 Požár hrabanky. Provedena l
+ okalizace a likvidace požáru.\n\n🚒 CAS (HS Humpolec)
+END:VEVENT
+BEGIN:VEVENT
+UID:410501061
+DTSTART:20260501T124003Z
+DTEND:20260501T134003Z
+DTSTAMP:20260501T124003Z
+SUMMARY:🚑 spolupráce ZZS - Stránecká Zhoř
+LOCATION:Stránecká Zhoř
+GEO:49.376073;15.924177
+URL:geo:49.376073,15.924177
+DESCRIPTION:📍 Stránecká Zhoř\, Žďár nad Sázavou\n\n🚒 CAS (HS Velké Meziříčí
+ )\n🚒 RZA (HS Velké Meziříčí)
+END:VEVENT
+BEGIN:VEVENT
+UID:410502061
+DTSTART:20260501T124723Z
+DTEND:20260501T134723Z
+DTSTAMP:20260501T124723Z
+SUMMARY:🚗 dopravní nehoda - Rybné
+LOCATION:Rybné
+GEO:49.423177;15.736899
+URL:geo:49.423177,15.736899
+DESCRIPTION:📍 Rybné\, Jihlava\n\n🚒 RZA (CHS Jihlava)\n🚒 CAS (HS Polná)
 END:VEVENT
 END:VCALENDAR
