@@ -904,7 +904,8 @@ SUMMARY:🚗 dopravní nehoda - Havlíčkův Brod
 LOCATION:Kyjovská\, Havlíčkův Brod
 GEO:49.609948;15.597354
 URL:geo:49.609948,15.597354
-DESCRIPTION:📍 Kyjovská\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)
+DESCRIPTION:📍 Kyjovská\, Havlíčkův Brod\n💬 DN 2 OA se zraněním dvou osob. P
+ rovedena PPO. Zajištění místa události.\n\n🚒 CAS (CHS Havlíčkův Brod)
 END:VEVENT
 BEGIN:VEVENT
 UID:410505061
@@ -916,5 +917,17 @@ LOCATION:Uhřínov
 GEO:49.352182;15.932125
 URL:geo:49.352182,15.932125
 DESCRIPTION:📍 Uhřínov\, Žďár nad Sázavou\n\n🚒 RZA (HS Velké Meziříčí)
+END:VEVENT
+BEGIN:VEVENT
+UID:410506061
+DTSTART:20260501T135540Z
+DTEND:20260501T145540Z
+DTSTAMP:20260501T135540Z
+SUMMARY:🛠️ otevření bytu/auta - Polná
+LOCATION:Žejdlicova\, Polná
+GEO:49.485213;15.714286
+URL:geo:49.485213,15.714286
+DESCRIPTION:📍 Žejdlicova\, Polná\, Jihlava\n💬 Otevření bytu.\n\n🚒 CAS (HS P
+ olná)
 END:VEVENT
 END:VCALENDAR
