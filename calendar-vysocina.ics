@@ -959,7 +959,8 @@ SUMMARY:🚑 Velká Bíteš
 LOCATION:Velká Bíteš
 GEO:49.287790;16.230562
 URL:geo:49.287790,16.230562
-DESCRIPTION:📍 Velká Bíteš\, Žďár nad Sázavou\n\n🚒 CAS (HS Velká Bíteš)
+DESCRIPTION:📍 Velká Bíteš\, Žďár nad Sázavou\n💬 Záchrana kačenek z vodní ná
+ drže.\n\n🚒 CAS (HS Velká Bíteš)
 END:VEVENT
 BEGIN:VEVENT
 UID:410518061
@@ -973,5 +974,16 @@ URL:geo:49.207044,15.896423
 DESCRIPTION:📍 Jejkov\, Třebíč\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (CHS Třebíč)\n🚒 
  CAS (Jaroměřice nad Rokytnou)\n🚒 CAS (Jaroměřice nad Rokytnou)\n🚒 CAS (Sta
  řeč)
+END:VEVENT
+BEGIN:VEVENT
+UID:410519061
+DTSTART:20260501T174223Z
+DTEND:20260501T184223Z
+DTSTAMP:20260501T174223Z
+SUMMARY:🔥 les - Třebíč
+LOCATION:Třebíč
+GEO:49.222497;15.878662
+URL:geo:49.222497,15.878662
+DESCRIPTION:📍 Týn\, Třebíč\n\n🚒 CAS (CHS Třebíč)
 END:VEVENT
 END:VCALENDAR
