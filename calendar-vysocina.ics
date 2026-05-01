@@ -931,4 +931,27 @@ URL:geo:49.099291,16.204571
 DESCRIPTION:📍 Mohelno\, Třebíč\n💬 Odstranění obtížného hmyzu.\n\n🚒 nákladní
   automobil do 3500 kg (Mohelno)
 END:VEVENT
+BEGIN:VEVENT
+UID:410513061
+DTSTART:20260501T164954Z
+DTEND:20260501T174954Z
+DTSTAMP:20260501T164954Z
+SUMMARY:🛠️ ostatní - Nový Rychnov
+LOCATION:Nový Rychnov
+GEO:49.383515;15.366186
+URL:geo:49.383515,15.366186
+DESCRIPTION:📍 Nový Rychnov\, Pelhřimov\n💬 ZOČ.\n\n🚒 CAS (Nový Rychnov)
+END:VEVENT
+BEGIN:VEVENT
+UID:410514061
+DTSTART:20260501T170753Z
+DTEND:20260501T180753Z
+DTSTAMP:20260501T170753Z
+SUMMARY:🚑 transport pacienta - Žďár nad Sázavou
+LOCATION:Veselská\, Žďár nad Sázavou
+GEO:49.562050;15.937647
+URL:geo:49.562050,15.937647
+DESCRIPTION:📍 Veselská\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n💬 Transport
+  pacienta na žádost ZZS.\n\n🚒 CAS (CHS Žďár nad Sázavou)
+END:VEVENT
 END:VCALENDAR
