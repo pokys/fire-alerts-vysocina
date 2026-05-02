@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:410439061
-DTSTART:20260430T135931Z
-DTEND:20260430T145931Z
-DTSTAMP:20260430T135931Z
-SUMMARY:🚗 dopravní nehoda - Kamenice
-LOCATION:Kamenice
-GEO:49.349597;15.801529
-URL:geo:49.349597,15.801529
-DESCRIPTION:📍 Kamenice\, Jihlava\n💬 DN 2 OA\, 1 zraněná osoba. Zajištění mí
- sta události.\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihlava)\n🚒 CAS (HS Polná
- )
-END:VEVENT
-BEGIN:VEVENT
 UID:410441061
 DTSTART:20260430T140939Z
 DTEND:20260430T150939Z
@@ -823,9 +810,10 @@ SUMMARY:🔥 tráva/plocha - Javorek
 LOCATION:Javorek
 GEO:49.646336;16.171708
 URL:geo:49.646336,16.171708
-DESCRIPTION:📍 Javorek\, Žďár nad Sázavou\n\n🚒 CAS (HS Bystřice nad Pernštej
- nem)\n🚒 DA (Jimramov)\n🚒 CAS (Jimramov)\n🚒 DA (Javorek)\n🚒 DA (Sněžné)\n🚒 
- CAS (Sněžné)\n🚒 účelový automobil do 3500 kg (ÚO Žďár nad Sázavou)
+DESCRIPTION:📍 Javorek\, Žďár nad Sázavou\n💬 Požár trávy\, bez zranění. Prov
+ edena lokalizace a likvidace požáru.\n\n🚒 CAS (HS Bystřice nad Pernštejnem
+ )\n🚒 DA (Jimramov)\n🚒 CAS (Jimramov)\n🚒 DA (Javorek)\n🚒 DA (Sněžné)\n🚒 CAS
+  (Sněžné)\n🚒 účelový automobil do 3500 kg (ÚO Žďár nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:410570061
@@ -891,6 +879,30 @@ SUMMARY:☣️ plyn - Jihlava
 LOCATION:Havlíčkova\, Jihlava
 GEO:49.411805;15.594741
 URL:geo:49.411805,15.594741
-DESCRIPTION:📍 Havlíčkova\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+DESCRIPTION:📍 Havlíčkova\, Jihlava\n💬 Únik plynu z poškozené karmy. Zajiště
+ ní místa události.\n\n🚒 CAS (CHS Jihlava)
+END:VEVENT
+BEGIN:VEVENT
+UID:410578061
+DTSTART:20260502T133816Z
+DTEND:20260502T143816Z
+DTSTAMP:20260502T133816Z
+SUMMARY:🔥 les - Pelhřimov
+LOCATION:Pelhřimov
+GEO:49.455681;15.165353
+URL:geo:49.455681,15.165353
+DESCRIPTION:📍 Lipice\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (CHS Pelhř
+ imov)\n🚒 CAS (Nová Cerekev)\n🚒 DA (Pelhřimov-Lipice)
+END:VEVENT
+BEGIN:VEVENT
+UID:410580061
+DTSTART:20260502T134936Z
+DTEND:20260502T144936Z
+DTSTAMP:20260502T134936Z
+SUMMARY:🛠️ ostatní - Nová Cerekev
+LOCATION:Nová Cerekev
+GEO:49.441002;15.150833
+URL:geo:49.441002,15.150833
+DESCRIPTION:📍 Nová Cerekev\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)
 END:VEVENT
 END:VCALENDAR
