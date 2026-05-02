@@ -110,10 +110,10 @@ SUMMARY:🔥 les - Žirovnice
 LOCATION:Žirovnice
 GEO:49.285449;15.149938
 URL:geo:49.285449,15.149938
-DESCRIPTION:📍 Stranná\, Žirovnice\, Pelhřimov\n\n🚒 CAS (HS Kamenice nad Lip
- ou)\n🚒 CAS (HS Kamenice nad Lipou)\n🚒 CAS (Počátky) ×2\n🚒 DA (Žirovnice)\n
- 🚒 CAS (Žirovnice)\n🚒 CAS (Žirovnice)\n🚒 vyšetřovací automobil (ÚO Pelhřimo
- v)
+DESCRIPTION:📍 Stranná\, Žirovnice\, Pelhřimov\n💬 Požár lesního porostu. Pro
+ vedena lokalizace a likvidace požáru.\n\n🚒 CAS (HS Kamenice nad Lipou)\n🚒 
+ CAS (HS Kamenice nad Lipou)\n🚒 CAS (Počátky) ×2\n🚒 DA (Žirovnice)\n🚒 CAS (
+ Žirovnice)\n🚒 CAS (Žirovnice)\n🚒 vyšetřovací automobil (ÚO Pelhřimov)
 END:VEVENT
 BEGIN:VEVENT
 UID:410578061
@@ -125,10 +125,10 @@ LOCATION:Pelhřimov
 GEO:49.455681;15.165353
 URL:geo:49.455681,15.165353
 DESCRIPTION:📍 Lipice\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (CHS Pelhř
- imov)\n🚒 CAS (Nová Cerekev)\n🚒 DA (Pelhřimov-Lipice)\n🚒 CAS (HS Pacov)\n🚒 
- DA (Červená Řečice)\n🚒 CAS (Červená Řečice)\n🚒 DA (Olešná (PE))\n🚒 CAS (Ol
- ešná (PE))\n🚒 přívěs nákladní (Olešná (PE))\n🚒 přívěs motorová stříkačka (
- Olešná (PE))\n🚒 DA (Pelhřimov-Čakovice)
+ imov)\n🚒 VEA (CHS Pelhřimov)\n🚒 CAS (Nová Cerekev)\n🚒 DA (Pelhřimov-Lipice
+ )\n🚒 CAS (HS Pacov)\n🚒 DA (Červená Řečice)\n🚒 CAS (Červená Řečice)\n🚒 DA (
+ Olešná (PE))\n🚒 CAS (Olešná (PE))\n🚒 přívěs nákladní (Olešná (PE))\n🚒 přív
+ ěs motorová stříkačka (Olešná (PE))\n🚒 DA (Pelhřimov-Čakovice)
 END:VEVENT
 BEGIN:VEVENT
 UID:410580061
