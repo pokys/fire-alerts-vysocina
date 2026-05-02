@@ -5,31 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:410429061
-DTSTART:20260430T110300Z
-DTEND:20260430T120300Z
-DTSTAMP:20260430T110300Z
-SUMMARY:🚗 úklid místa - Pelhřimov
-LOCATION:Nádražní\, Pelhřimov
-GEO:49.420801;15.223416
-URL:geo:49.420801,15.223416
-DESCRIPTION:📍 Nádražní\, Pelhřimov\n💬 DN 2 OA\, provedena likvidace uniklýc
- h provozních kapalin.\n\n🚒 CAS (CHS Pelhřimov)
-END:VEVENT
-BEGIN:VEVENT
-UID:410430061
-DTSTART:20260430T110727Z
-DTEND:20260430T120727Z
-DTSTAMP:20260430T110727Z
-SUMMARY:🚗 se zraněním - Havlíčkův Brod
-LOCATION:Havlíčkův Brod
-GEO:49.598384;15.609553
-URL:geo:49.598384,15.609553
-DESCRIPTION:📍 Termesivy\, Havlíčkův Brod\n💬 DN 2 OA se zraněním 2 osob. Zaj
- ištění místa nehody proti požáru a úniku provozních kapalin.\n\n🚒 CAS (CHS
-  Havlíčkův Brod)
-END:VEVENT
-BEGIN:VEVENT
 UID:410432061
 DTSTART:20260430T113729Z
 DTEND:20260430T123729Z
@@ -797,7 +772,7 @@ GEO:49.640209;16.233442
 URL:geo:49.640209,16.233442
 DESCRIPTION:📍 Sedliště\, Jimramov\, Žďár nad Sázavou\n💬 DN 1 OA\, na místě 
  jedna zraněná osoba. Zajištění místa nehody. Spolupráce se složkami IZS.\n
- \n🚒 CAS (HS Bystřice nad Pernštejnem)
+ \n🚒 CAS (HS Bystřice nad Pernštejnem)\n🚒 CAS (HS Polička)
 END:VEVENT
 BEGIN:VEVENT
 UID:410551061
@@ -871,7 +846,8 @@ SUMMARY:🛠️ strom - Píšť
 LOCATION:Píšť
 GEO:49.606524;15.212219
 URL:geo:49.606524,15.212219
-DESCRIPTION:📍 Vranice\, Píšť\, Pelhřimov\n\n🚒 CAS (Píšť)
+DESCRIPTION:📍 Vranice\, Píšť\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 CAS (Pí
+ šť)
 END:VEVENT
 BEGIN:VEVENT
 UID:410563061
@@ -897,5 +873,17 @@ GEO:49.102627;16.180768
 URL:geo:49.102627,16.180768
 DESCRIPTION:📍 Mohelno\, Třebíč\n\n🚒 CAS (HS Hrotovice)\n🚒 CAS (HS Náměšť na
  d Oslavou)\n🚒 CAS (Mohelno)
+END:VEVENT
+BEGIN:VEVENT
+UID:410568061
+DTSTART:20260502T105810Z
+DTEND:20260502T115810Z
+DTSTAMP:20260502T105810Z
+SUMMARY:🔥 tráva/plocha - Javorek
+LOCATION:Javorek
+GEO:49.646336;16.171708
+URL:geo:49.646336,16.171708
+DESCRIPTION:📍 Javorek\, Žďár nad Sázavou\n\n🚒 CAS (HS Bystřice nad Pernštej
+ nem)\n🚒 CAS (Jimramov)\n🚒 DA (Javorek)\n🚒 CAS (Sněžné)
 END:VEVENT
 END:VCALENDAR
