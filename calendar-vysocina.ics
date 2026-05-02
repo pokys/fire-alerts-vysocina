@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:410441061
-DTSTART:20260430T140939Z
-DTEND:20260430T150939Z
-DTSTAMP:20260430T140939Z
-SUMMARY:🛠️ ostatní - Velká Bíteš
-LOCATION:Vlkovská\, Velká Bíteš
-GEO:49.293408;16.223944
-URL:geo:49.293408,16.223944
-DESCRIPTION:📍 Vlkovská\, Velká Bíteš\, Žďár nad Sázavou\n💬 ZOČ.\n\n🚒 CAS (V
- elká Bíteš)
-END:VEVENT
-BEGIN:VEVENT
 UID:410442061
 DTSTART:20260430T142627Z
 DTEND:20260430T152627Z
@@ -855,7 +843,9 @@ DESCRIPTION:📍 Šašovice\, Želetava\, Třebíč\n\n🚒 CAS (HS Moravské Bu
   DA (Želetava-Šašovice)\n🚒 CAS (Želetava)\n🚒 CAS (Babice (TR))\n🚒 CAS (Nov
  á Říše)\n🚒 CAS (Stará Říše)\n🚒 CAS (Čáslavice)\n🚒 DA (Želetava-Horky)\n🚒 C
  AS (Předín)\n🚒 DA (Moravské Budějovice)\n🚒 CAS (Moravské Budějovice)\n🚒 vy
- šetřovací automobil (ÚO Třebíč)\n🚒 CAS (Jaroměřice nad Rokytnou)
+ šetřovací automobil (ÚO Třebíč)\n🚒 CAS (Jaroměřice nad Rokytnou)\n🚒 VEA (C
+ HS Třebíč)\n🚒 vozidlo účelové - SxS (CHS Třebíč)\n🚒 přívěs nákladní (CHS T
+ řebíč)
 END:VEVENT
 BEGIN:VEVENT
 UID:410573061
@@ -892,7 +882,10 @@ LOCATION:Pelhřimov
 GEO:49.455681;15.165353
 URL:geo:49.455681,15.165353
 DESCRIPTION:📍 Lipice\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (CHS Pelhř
- imov)\n🚒 CAS (Nová Cerekev)\n🚒 DA (Pelhřimov-Lipice)
+ imov)\n🚒 CAS (Nová Cerekev)\n🚒 DA (Pelhřimov-Lipice)\n🚒 CAS (HS Pacov)\n🚒 
+ DA (Červená Řečice)\n🚒 CAS (Červená Řečice)\n🚒 DA (Olešná (PE))\n🚒 CAS (Ol
+ ešná (PE))\n🚒 přívěs nákladní (Olešná (PE))\n🚒 přívěs motorová stříkačka (
+ Olešná (PE))\n🚒 DA (Pelhřimov-Čakovice)
 END:VEVENT
 BEGIN:VEVENT
 UID:410580061
@@ -903,6 +896,7 @@ SUMMARY:🛠️ ostatní - Nová Cerekev
 LOCATION:Nová Cerekev
 GEO:49.441002;15.150833
 URL:geo:49.441002,15.150833
-DESCRIPTION:📍 Nová Cerekev\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)
+DESCRIPTION:📍 Nová Cerekev\, Pelhřimov\n💬 Odstranění nebezpečných stavů.\n\
+ n🚒 CAS (CHS Pelhřimov)
 END:VEVENT
 END:VCALENDAR
