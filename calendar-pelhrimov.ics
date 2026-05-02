@@ -122,4 +122,15 @@ DESCRIPTION:📍 Krátká\, Kamenice nad Lipou\, Pelhřimov\n💬 DN 3 OA\, bez 
  ění. Zajištění místa nehody. Likvidace úniku PHM pomocí sorbentu.\n\n🚒 CAS
   (HS Kamenice nad Lipou)
 END:VEVENT
+BEGIN:VEVENT
+UID:410562061
+DTSTART:20260502T101206Z
+DTEND:20260502T111206Z
+DTSTAMP:20260502T101206Z
+SUMMARY:🛠️ strom - Píšť
+LOCATION:Píšť
+GEO:49.606524;15.212219
+URL:geo:49.606524,15.212219
+DESCRIPTION:📍 Vranice\, Píšť\, Pelhřimov\n\n🚒 CAS (Píšť)
+END:VEVENT
 END:VCALENDAR
