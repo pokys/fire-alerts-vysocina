@@ -783,4 +783,15 @@ URL:geo:49.469333,16.098058
 DESCRIPTION:📍 Radešín\, Žďár nad Sázavou\n💬 Dopravní nehoda elektrokoloběžk
  y. Provedeno zajištění místa události.\n\n🚒 CAS (CHS Žďár nad Sázavou)
 END:VEVENT
+BEGIN:VEVENT
+UID:410602061
+DTSTART:20260502T225944Z
+DTEND:20260502T235944Z
+DTSTAMP:20260502T225944Z
+SUMMARY:🚑 transport pacienta - Jihlava
+LOCATION:Sokolovská\, Jihlava
+GEO:49.410240;15.587134
+URL:geo:49.410240,15.587134
+DESCRIPTION:📍 Sokolovská\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+END:VEVENT
 END:VCALENDAR
