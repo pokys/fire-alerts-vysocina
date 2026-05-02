@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:410465061
-DTSTART:20260430T183433Z
-DTEND:20260430T193433Z
-DTSTAMP:20260430T183433Z
-SUMMARY:🚑 otevření/asistence - Přibyslav
-LOCATION:Tržiště\, Přibyslav
-GEO:49.578716;15.735442
-URL:geo:49.578716,15.735442
-DESCRIPTION:📍 Tržiště\, Přibyslav\, Havlíčkův Brod\n💬 Otevření bytu.\n\n🚒 C
- AS (HS Polná)\n🚒 CAS (Přibyslav)
-END:VEVENT
-BEGIN:VEVENT
 UID:410469061
 DTSTART:20260430T185655Z
 DTEND:20260430T195655Z
@@ -678,13 +666,14 @@ LOCATION:Želetava
 GEO:49.102857;15.680388
 URL:geo:49.102857,15.680388
 DESCRIPTION:📍 Šašovice\, Želetava\, Třebíč\n💬 Požár lesního porostu na ploš
- e 500x500m.\n\n🚒 CAS (HS Moravské Budějovice) ×2\n🚒 CAS (HS Moravské Buděj
- ovice)\n🚒 DA (Lesonice)\n🚒 CAS (Lesonice)\n🚒 DA (Želetava-Šašovice)\n🚒 CAS
-  (Želetava)\n🚒 CAS (Babice (TR))\n🚒 CAS (Nová Říše)\n🚒 CAS (Stará Říše)\n🚒
-  DA (Čáslavice)\n🚒 CAS (Čáslavice)\n🚒 DA (Želetava-Horky)\n🚒 CAS (Předín)\
- n🚒 DA (Moravské Budějovice)\n🚒 CAS (Moravské Budějovice)\n🚒 vyšetřovací au
- tomobil (ÚO Třebíč)\n🚒 CAS (Jaroměřice nad Rokytnou)\n🚒 VEA (CHS Třebíč)\n
- 🚒 vozidlo účelové - SxS (CHS Třebíč)\n🚒 přívěs nákladní (CHS Třebíč)
+ e 500x500m. Byla provedena lokalizace a likvidace požáru.\n\n🚒 CAS (HS Mor
+ avské Budějovice) ×2\n🚒 CAS (HS Moravské Budějovice)\n🚒 DA (Lesonice)\n🚒 C
+ AS (Lesonice)\n🚒 DA (Želetava-Šašovice)\n🚒 CAS (Želetava) ×2\n🚒 CAS (Babic
+ e (TR))\n🚒 CAS (Nová Říše)\n🚒 CAS (Stará Říše)\n🚒 DA (Čáslavice)\n🚒 CAS (Č
+ áslavice)\n🚒 DA (Želetava-Horky)\n🚒 CAS (Předín)\n🚒 DA (Moravské Budějovic
+ e)\n🚒 CAS (Moravské Budějovice)\n🚒 vyšetřovací automobil (ÚO Třebíč)\n🚒 CA
+ S (Jaroměřice nad Rokytnou)\n🚒 VEA (CHS Třebíč)\n🚒 vozidlo účelové - SxS (
+ CHS Třebíč)\n🚒 přívěs nákladní (CHS Třebíč)
 END:VEVENT
 BEGIN:VEVENT
 UID:410573061
