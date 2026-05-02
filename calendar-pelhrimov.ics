@@ -124,12 +124,13 @@ SUMMARY:🔥 les - Pelhřimov
 LOCATION:Pelhřimov
 GEO:49.455681;15.165353
 URL:geo:49.455681,15.165353
-DESCRIPTION:📍 Lipice\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (CHS Pelhř
- imov)\n🚒 VEA (CHS Pelhřimov)\n🚒 CAS (Nová Cerekev)\n🚒 DA (Pelhřimov-Lipice
- )\n🚒 CAS (HS Pacov)\n🚒 DA (Červená Řečice)\n🚒 CAS (Červená Řečice)\n🚒 DA (
- Olešná (PE))\n🚒 CAS (Olešná (PE))\n🚒 přívěs nákladní (Olešná (PE))\n🚒 přív
- ěs motorová stříkačka (Olešná (PE))\n🚒 DA (Pelhřimov-Čakovice)\n🚒 vyšetřov
- ací automobil (ÚO Pelhřimov)
+DESCRIPTION:📍 Lipice\, Pelhřimov\n💬 Požár lesa\, bez zranění. Provedena lok
+ alizace a likvidace požáru.\n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (CHS Pelhřimov
+ )\n🚒 VEA (CHS Pelhřimov)\n🚒 CAS (Nová Cerekev)\n🚒 DA (Pelhřimov-Lipice)\n🚒
+  CAS (HS Pacov)\n🚒 DA (Červená Řečice)\n🚒 CAS (Červená Řečice)\n🚒 DA (Oleš
+ ná (PE))\n🚒 CAS (Olešná (PE))\n🚒 přívěs nákladní (Olešná (PE))\n🚒 přívěs m
+ otorová stříkačka (Olešná (PE))\n🚒 DA (Pelhřimov-Čakovice)\n🚒 vyšetřovací 
+ automobil (ÚO Pelhřimov)
 END:VEVENT
 BEGIN:VEVENT
 UID:410580061
@@ -152,8 +153,9 @@ SUMMARY:🔥 les - Nový Rychnov
 LOCATION:Nový Rychnov
 GEO:49.364777;15.308241
 URL:geo:49.364777,15.308241
-DESCRIPTION:📍 Čejkov\, Nový Rychnov\, Pelhřimov\n\n🚒 CAS (Horní Cerekev)\n🚒
-  CAS (Hojkov)\n🚒 CAS (Nový Rychnov)\n🚒 osobní automobil (Nový Rychnov-Čejk
- ov)\n🚒 CAS (CHS Pelhřimov)
+DESCRIPTION:📍 Čejkov\, Nový Rychnov\, Pelhřimov\n💬 Požár lesa\, bez zranění
+ . Provedena lokalizace a likvidace požáru.\n\n🚒 CAS (Horní Cerekev)\n🚒 CAS
+  (Hojkov)\n🚒 CAS (Nový Rychnov)\n🚒 osobní automobil (Nový Rychnov-Čejkov)\
+ n🚒 CAS (CHS Pelhřimov)\n🚒 přívěs nákladní (Nová Buková)
 END:VEVENT
 END:VCALENDAR

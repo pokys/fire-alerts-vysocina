@@ -771,14 +771,14 @@ SUMMARY:🔥 les - Želetava
 LOCATION:Želetava
 GEO:49.102857;15.680388
 URL:geo:49.102857,15.680388
-DESCRIPTION:📍 Šašovice\, Želetava\, Třebíč\n\n🚒 CAS (HS Moravské Budějovice
- ) ×2\n🚒 CAS (HS Moravské Budějovice)\n🚒 DA (Lesonice)\n🚒 CAS (Lesonice)\n🚒
-  DA (Želetava-Šašovice)\n🚒 CAS (Želetava)\n🚒 CAS (Babice (TR))\n🚒 CAS (Nov
- á Říše)\n🚒 CAS (Stará Říše)\n🚒 DA (Čáslavice)\n🚒 CAS (Čáslavice)\n🚒 DA (Že
- letava-Horky)\n🚒 CAS (Předín)\n🚒 DA (Moravské Budějovice)\n🚒 CAS (Moravské
-  Budějovice)\n🚒 vyšetřovací automobil (ÚO Třebíč)\n🚒 CAS (Jaroměřice nad R
- okytnou)\n🚒 VEA (CHS Třebíč)\n🚒 vozidlo účelové - SxS (CHS Třebíč)\n🚒 přív
- ěs nákladní (CHS Třebíč)
+DESCRIPTION:📍 Šašovice\, Želetava\, Třebíč\n💬 Požár lesního porostu na ploš
+ e 500x500m.\n\n🚒 CAS (HS Moravské Budějovice) ×2\n🚒 CAS (HS Moravské Buděj
+ ovice)\n🚒 DA (Lesonice)\n🚒 CAS (Lesonice)\n🚒 DA (Želetava-Šašovice)\n🚒 CAS
+  (Želetava)\n🚒 CAS (Babice (TR))\n🚒 CAS (Nová Říše)\n🚒 CAS (Stará Říše)\n🚒
+  DA (Čáslavice)\n🚒 CAS (Čáslavice)\n🚒 DA (Želetava-Horky)\n🚒 CAS (Předín)\
+ n🚒 DA (Moravské Budějovice)\n🚒 CAS (Moravské Budějovice)\n🚒 vyšetřovací au
+ tomobil (ÚO Třebíč)\n🚒 CAS (Jaroměřice nad Rokytnou)\n🚒 VEA (CHS Třebíč)\n
+ 🚒 vozidlo účelové - SxS (CHS Třebíč)\n🚒 přívěs nákladní (CHS Třebíč)
 END:VEVENT
 BEGIN:VEVENT
 UID:410573061
@@ -814,12 +814,13 @@ SUMMARY:🔥 les - Pelhřimov
 LOCATION:Pelhřimov
 GEO:49.455681;15.165353
 URL:geo:49.455681,15.165353
-DESCRIPTION:📍 Lipice\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (CHS Pelhř
- imov)\n🚒 VEA (CHS Pelhřimov)\n🚒 CAS (Nová Cerekev)\n🚒 DA (Pelhřimov-Lipice
- )\n🚒 CAS (HS Pacov)\n🚒 DA (Červená Řečice)\n🚒 CAS (Červená Řečice)\n🚒 DA (
- Olešná (PE))\n🚒 CAS (Olešná (PE))\n🚒 přívěs nákladní (Olešná (PE))\n🚒 přív
- ěs motorová stříkačka (Olešná (PE))\n🚒 DA (Pelhřimov-Čakovice)\n🚒 vyšetřov
- ací automobil (ÚO Pelhřimov)
+DESCRIPTION:📍 Lipice\, Pelhřimov\n💬 Požár lesa\, bez zranění. Provedena lok
+ alizace a likvidace požáru.\n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (CHS Pelhřimov
+ )\n🚒 VEA (CHS Pelhřimov)\n🚒 CAS (Nová Cerekev)\n🚒 DA (Pelhřimov-Lipice)\n🚒
+  CAS (HS Pacov)\n🚒 DA (Červená Řečice)\n🚒 CAS (Červená Řečice)\n🚒 DA (Oleš
+ ná (PE))\n🚒 CAS (Olešná (PE))\n🚒 přívěs nákladní (Olešná (PE))\n🚒 přívěs m
+ otorová stříkačka (Olešná (PE))\n🚒 DA (Pelhřimov-Čakovice)\n🚒 vyšetřovací 
+ automobil (ÚO Pelhřimov)
 END:VEVENT
 BEGIN:VEVENT
 UID:410580061
@@ -855,9 +856,10 @@ SUMMARY:🔥 les - Nový Rychnov
 LOCATION:Nový Rychnov
 GEO:49.364777;15.308241
 URL:geo:49.364777,15.308241
-DESCRIPTION:📍 Čejkov\, Nový Rychnov\, Pelhřimov\n\n🚒 CAS (Horní Cerekev)\n🚒
-  CAS (Hojkov)\n🚒 CAS (Nový Rychnov)\n🚒 osobní automobil (Nový Rychnov-Čejk
- ov)\n🚒 CAS (CHS Pelhřimov)
+DESCRIPTION:📍 Čejkov\, Nový Rychnov\, Pelhřimov\n💬 Požár lesa\, bez zranění
+ . Provedena lokalizace a likvidace požáru.\n\n🚒 CAS (Horní Cerekev)\n🚒 CAS
+  (Hojkov)\n🚒 CAS (Nový Rychnov)\n🚒 osobní automobil (Nový Rychnov-Čejkov)\
+ n🚒 CAS (CHS Pelhřimov)\n🚒 přívěs nákladní (Nová Buková)
 END:VEVENT
 BEGIN:VEVENT
 UID:410589061
