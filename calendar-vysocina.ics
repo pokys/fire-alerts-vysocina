@@ -622,7 +622,7 @@ GEO:49.556060;15.922136
 URL:geo:49.556060,15.922136
 DESCRIPTION:💬 Požár lesního porostu 50x50 m\, bez zranění. Provedena lokali
  zace a likvidace požáru.\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (CHS Žďár 
- nad Sázavou)\n🚒 CAS (Žďár nad Sázavou-Zámek) ×3\n🚒 účelový automobil do 35
+ nad Sázavou)\n🚒 CAS (Žďár nad Sázavou-Zámek) ×4\n🚒 účelový automobil do 35
  00 kg (ÚO Žďár nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
@@ -825,6 +825,7 @@ SUMMARY:🛠️ otevření bytu/auta - Havlíčkův Brod
 LOCATION:Humpolecká\, Havlíčkův Brod
 GEO:49.603180;15.569212
 URL:geo:49.603180,15.569212
-DESCRIPTION:📍 Humpolecká\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)
+DESCRIPTION:📍 Humpolecká\, Havlíčkův Brod\n💬 Otevření bytu.\n\n🚒 CAS (CHS H
+ avlíčkův Brod)
 END:VEVENT
 END:VCALENDAR
