@@ -798,7 +798,7 @@ LOCATION:Jakubov u Moravských Budějovic
 GEO:49.077443;15.775493
 URL:geo:49.077443,15.775493
 DESCRIPTION:📍 Jakubov u Moravských Budějovic\, Třebíč\n💬 Znečištění potoka.
- \n\n🚒 CAS (HS Moravské Budějovice)
+  Předáno ŽP.\n\n🚒 CAS (HS Moravské Budějovice)
 END:VEVENT
 BEGIN:VEVENT
 UID:410547061
@@ -834,9 +834,9 @@ SUMMARY:🚗 dopravní nehoda - Jimramov
 LOCATION:Jimramov
 GEO:49.640209;16.233442
 URL:geo:49.640209,16.233442
-DESCRIPTION:📍 Sedliště\, Jimramov\, Žďár nad Sázavou\n💬 DN OA\, na místě je
- dna zraněná osoba. Zajištění místa nehody. Spolupráce se složkami IZS.\n\n
- 🚒 CAS (HS Bystřice nad Pernštejnem)
+DESCRIPTION:📍 Sedliště\, Jimramov\, Žďár nad Sázavou\n💬 DN 1 OA\, na místě 
+ jedna zraněná osoba. Zajištění místa nehody. Spolupráce se složkami IZS.\n
+ \n🚒 CAS (HS Bystřice nad Pernštejnem)
 END:VEVENT
 BEGIN:VEVENT
 UID:410551061
@@ -892,12 +892,13 @@ UID:410560061
 DTSTART:20260502T085157Z
 DTEND:20260502T095157Z
 DTSTAMP:20260502T085157Z
-SUMMARY:🔥 les - Bítovčice
+SUMMARY:🔥 venkovní požár - Bítovčice
 LOCATION:Bítovčice
 GEO:49.357377;15.742521
 URL:geo:49.357377,15.742521
-DESCRIPTION:📍 Bítovčice\, Jihlava\n\n🚒 CAS (CHS Jihlava)\n🚒 CAS (Luka nad J
- ihlavou)\n🚒 CAS (Luka nad Jihlavou)\n🚒 CAS (Bítovčice)\n🚒 nákladní automob
- il do 3500 kg (Bítovčice)
+DESCRIPTION:📍 Bítovčice\, Jihlava\n💬 Požár odpadu a suché trávy. Provedena 
+ lokalizace a likvidace požáru.\n\n🚒 CAS (CHS Jihlava)\n🚒 CAS (Luka nad Jih
+ lavou)\n🚒 CAS (Luka nad Jihlavou)\n🚒 CAS (Bítovčice)\n🚒 nákladní automobil
+  do 3500 kg (Bítovčice)
 END:VEVENT
 END:VCALENDAR
