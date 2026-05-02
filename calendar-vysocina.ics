@@ -5,21 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:410425061
-DTSTART:20260430T101623Z
-DTEND:20260430T111623Z
-DTSTAMP:20260430T101623Z
-SUMMARY:🔥 tráva/plocha - Jaroměřice nad Rokytnou
-LOCATION:Jaroměřice nad Rokytnou
-GEO:49.121868;15.868691
-URL:geo:49.121868,15.868691
-DESCRIPTION:📍 Vacenovice\, Jaroměřice nad Rokytnou\, Třebíč\n💬 Požár trávy 
- 20x20m. Lokalizace a likvidace.\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (CHS Třebíč)\
- n🚒 CAS (HS Moravské Budějovice)\n🚒 CAS (HS Moravské Budějovice)\n🚒 CAS (Ja
- roměřice nad Rokytnou)\n🚒 CAS (Jaroměřice nad Rokytnou)\n🚒 vyšetřovací aut
- omobil (ÚO Třebíč)
-END:VEVENT
-BEGIN:VEVENT
 UID:410426061
 DTSTART:20260430T104557Z
 DTEND:20260430T114557Z
