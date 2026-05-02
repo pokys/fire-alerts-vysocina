@@ -862,6 +862,18 @@ GEO:49.646336;16.171708
 URL:geo:49.646336,16.171708
 DESCRIPTION:📍 Javorek\, Žďár nad Sázavou\n\n🚒 CAS (HS Bystřice nad Pernštej
  nem)\n🚒 DA (Jimramov)\n🚒 CAS (Jimramov)\n🚒 DA (Javorek)\n🚒 DA (Sněžné)\n🚒 
- CAS (Sněžné)
+ CAS (Sněžné)\n🚒 účelový automobil do 3500 kg (ÚO Žďár nad Sázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:410570061
+DTSTART:20260502T115646Z
+DTEND:20260502T125646Z
+DTSTAMP:20260502T115646Z
+SUMMARY:🔥 tráva/plocha - Nová Cerekev
+LOCATION:Nová Cerekev
+GEO:49.420420;15.115702
+URL:geo:49.420420,15.115702
+DESCRIPTION:📍 Nová Cerekev\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (CHS
+  Pelhřimov)\n🚒 CAS (HS Pacov)\n🚒 CAS (Nová Cerekev)
 END:VEVENT
 END:VCALENDAR
