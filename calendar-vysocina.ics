@@ -5,29 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:410457061
-DTSTART:20260430T173422Z
-DTEND:20260430T183422Z
-DTSTAMP:20260430T173422Z
-SUMMARY:🛠️ ostatní - Vladislav
-LOCATION:Vladislav
-GEO:49.215806;15.990158
-URL:geo:49.215806,15.990158
-DESCRIPTION:📍 Vladislav\, Třebíč\n💬 ZOČ\n\n🚒 DA (Vladislav)
-END:VEVENT
-BEGIN:VEVENT
-UID:410459061
-DTSTART:20260430T174337Z
-DTEND:20260430T184337Z
-DTSTAMP:20260430T174337Z
-SUMMARY:🛠️ ostatní - Košetice
-LOCATION:Košetice
-GEO:49.561023;15.117164
-URL:geo:49.561023,15.117164
-DESCRIPTION:📍 Košetice\, Pelhřimov\n💬 ZOČ\n\n🚒 DA (Košetice)\n🚒 CAS (Košeti
- ce)
-END:VEVENT
-BEGIN:VEVENT
 UID:410460061
 DTSTART:20260430T175540Z
 DTEND:20260430T185540Z
@@ -656,7 +633,7 @@ GEO:49.556060;15.922136
 URL:geo:49.556060,15.922136
 DESCRIPTION:💬 Požár lesního porostu 50x50 m\, bez zranění. Provedena lokali
  zace a likvidace požáru.\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (CHS Žďár 
- nad Sázavou)\n🚒 CAS (Žďár nad Sázavou-Zámek) ×2\n🚒 účelový automobil do 35
+ nad Sázavou)\n🚒 CAS (Žďár nad Sázavou-Zámek) ×3\n🚒 účelový automobil do 35
  00 kg (ÚO Žďár nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
@@ -837,5 +814,17 @@ URL:geo:49.434191,15.232002
 DESCRIPTION:📍 Slovanského bratrství\, Pelhřimov\n💬 DN 2 OA\, bez zranění. L
  ikvidace úniku PHM pomocí sorbentu. Zajištění místa nehody.\n\n🚒 CAS (CHS 
  Pelhřimov)
+END:VEVENT
+BEGIN:VEVENT
+UID:410593061
+DTSTART:20260502T171627Z
+DTEND:20260502T181627Z
+DTSTAMP:20260502T171627Z
+SUMMARY:🛠️ otevření bytu/auta - Žďár nad Sázavou
+LOCATION:Brodská\, Žďár nad Sázavou
+GEO:49.564575;15.931569
+URL:geo:49.564575,15.931569
+DESCRIPTION:📍 Brodská\, Žďár nad Sázavou 3\, Žďár nad Sázavou\n💬 Otevření b
+ ytu.\n\n🚒 CAS (CHS Žďár nad Sázavou)
 END:VEVENT
 END:VCALENDAR
