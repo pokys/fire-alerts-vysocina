@@ -5,17 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:410448061
-DTSTART:20260430T160008Z
-DTEND:20260430T170008Z
-DTSTAMP:20260430T160008Z
-SUMMARY:🛠️ ostatní - Vepřová
-LOCATION:Vepřová
-GEO:49.608337;15.838115
-URL:geo:49.608337,15.838115
-DESCRIPTION:📍 Vepřová\, Žďár nad Sázavou\n💬 ZOČ.\n\n🚒 CAS (Vepřová)
-END:VEVENT
-BEGIN:VEVENT
 UID:410451061
 DTSTART:20260430T165159Z
 DTEND:20260430T175159Z
@@ -785,11 +774,11 @@ URL:geo:49.102857,15.680388
 DESCRIPTION:📍 Šašovice\, Želetava\, Třebíč\n\n🚒 CAS (HS Moravské Budějovice
  ) ×2\n🚒 CAS (HS Moravské Budějovice)\n🚒 DA (Lesonice)\n🚒 CAS (Lesonice)\n🚒
   DA (Želetava-Šašovice)\n🚒 CAS (Želetava)\n🚒 CAS (Babice (TR))\n🚒 CAS (Nov
- á Říše)\n🚒 CAS (Stará Říše)\n🚒 CAS (Čáslavice)\n🚒 DA (Želetava-Horky)\n🚒 C
- AS (Předín)\n🚒 DA (Moravské Budějovice)\n🚒 CAS (Moravské Budějovice)\n🚒 vy
- šetřovací automobil (ÚO Třebíč)\n🚒 CAS (Jaroměřice nad Rokytnou)\n🚒 VEA (C
- HS Třebíč)\n🚒 vozidlo účelové - SxS (CHS Třebíč)\n🚒 přívěs nákladní (CHS T
- řebíč)
+ á Říše)\n🚒 CAS (Stará Říše)\n🚒 DA (Čáslavice)\n🚒 CAS (Čáslavice)\n🚒 DA (Že
+ letava-Horky)\n🚒 CAS (Předín)\n🚒 DA (Moravské Budějovice)\n🚒 CAS (Moravské
+  Budějovice)\n🚒 vyšetřovací automobil (ÚO Třebíč)\n🚒 CAS (Jaroměřice nad R
+ okytnou)\n🚒 VEA (CHS Třebíč)\n🚒 vozidlo účelové - SxS (CHS Třebíč)\n🚒 přív
+ ěs nákladní (CHS Třebíč)
 END:VEVENT
 BEGIN:VEVENT
 UID:410573061
@@ -853,8 +842,9 @@ SUMMARY:🔥 les - Cejle
 LOCATION:Cejle
 GEO:49.366757;15.429523
 URL:geo:49.366757,15.429523
-DESCRIPTION:📍 Hutě\, Cejle\, Jihlava\n\n🚒 CAS (CHS Jihlava)\n🚒 CAS (CHS Jih
- lava)\n🚒 CAS (Dolní Cerekev)\n🚒 přívěs motorová stříkačka (Cejle)
+DESCRIPTION:📍 Hutě\, Cejle\, Jihlava\n💬 Dohašení požářiště.\n\n🚒 CAS (CHS J
+ ihlava)\n🚒 CAS (CHS Jihlava)\n🚒 CAS (Dolní Cerekev)\n🚒 přívěs motorová stř
+ íkačka (Cejle)
 END:VEVENT
 BEGIN:VEVENT
 UID:410587061
@@ -868,5 +858,16 @@ URL:geo:49.364777,15.308241
 DESCRIPTION:📍 Čejkov\, Nový Rychnov\, Pelhřimov\n\n🚒 CAS (Horní Cerekev)\n🚒
   CAS (Hojkov)\n🚒 CAS (Nový Rychnov)\n🚒 osobní automobil (Nový Rychnov-Čejk
  ov)\n🚒 CAS (CHS Pelhřimov)
+END:VEVENT
+BEGIN:VEVENT
+UID:410589061
+DTSTART:20260502T153854Z
+DTEND:20260502T163854Z
+DTSTAMP:20260502T153854Z
+SUMMARY:🔥 venkovní požár - Kněžice
+LOCATION:Kněžice
+GEO:49.264229;15.666078
+URL:geo:49.264229,15.666078
+DESCRIPTION:📍 Kněžice\, Jihlava\n\n🚒 CAS (Kněžice)
 END:VEVENT
 END:VCALENDAR
