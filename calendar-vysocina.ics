@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:410437061
-DTSTART:20260430T131513Z
-DTEND:20260430T141513Z
-DTSTAMP:20260430T131513Z
-SUMMARY:🔥 tráva/plocha - Česká Bělá
-LOCATION:Česká Bělá
-GEO:49.640195;15.700669
-URL:geo:49.640195,15.700669
-DESCRIPTION:📍 Česká Bělá\, Havlíčkův Brod\n💬 Požár suché trávy\, lokalizace
-  a likvidace.\n\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 CAS (CHS Havlíčkův Brod)\n🚒
-  CAS (Česká Bělá)
-END:VEVENT
-BEGIN:VEVENT
 UID:410438061
 DTSTART:20260430T135035Z
 DTEND:20260430T145035Z
@@ -862,9 +849,9 @@ SUMMARY:🔥 tráva/plocha - Nová Cerekev
 LOCATION:Nová Cerekev
 GEO:49.420420;15.115702
 URL:geo:49.420420,15.115702
-DESCRIPTION:📍 Nová Cerekev\, Pelhřimov\n💬 Požár louky\, beze škody.\n\n🚒 CA
- S (CHS Pelhřimov)\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (HS Pacov)\n🚒 CAS (Nová Ce
- rekev)
+DESCRIPTION:📍 Nová Cerekev\, Pelhřimov\n💬 Požár trávy\, beze škody\, se zra
+ něním jedné osoby. Provedena lokalizace a likvidace požáru.\n\n🚒 CAS (CHS 
+ Pelhřimov)\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (HS Pacov)\n🚒 CAS (Nová Cerekev)
 END:VEVENT
 BEGIN:VEVENT
 UID:410571061
@@ -877,7 +864,7 @@ GEO:49.285449;15.149938
 URL:geo:49.285449,15.149938
 DESCRIPTION:📍 Stranná\, Žirovnice\, Pelhřimov\n\n🚒 CAS (HS Kamenice nad Lip
  ou)\n🚒 CAS (HS Kamenice nad Lipou)\n🚒 CAS (Počátky) ×2\n🚒 CAS (Žirovnice)\
- n🚒 CAS (Žirovnice)
+ n🚒 CAS (Žirovnice)\n🚒 vyšetřovací automobil (ÚO Pelhřimov)
 END:VEVENT
 BEGIN:VEVENT
 UID:410572061
@@ -889,9 +876,11 @@ LOCATION:Želetava
 GEO:49.102857;15.680388
 URL:geo:49.102857,15.680388
 DESCRIPTION:📍 Šašovice\, Želetava\, Třebíč\n\n🚒 CAS (HS Moravské Budějovice
- )\n🚒 CAS (HS Moravské Budějovice)\n🚒 CAS (Lesonice)\n🚒 DA (Želetava-Šašovi
- ce)\n🚒 CAS (Želetava)\n🚒 CAS (Babice (TR))\n🚒 CAS (Nová Říše)\n🚒 CAS (Star
- á Říše)\n🚒 CAS (Čáslavice)\n🚒 DA (Želetava-Horky)\n🚒 CAS (Předín)
+ )\n🚒 CAS (HS Moravské Budějovice)\n🚒 DA (Lesonice)\n🚒 CAS (Lesonice)\n🚒 DA
+  (Želetava-Šašovice)\n🚒 CAS (Želetava)\n🚒 CAS (Babice (TR))\n🚒 CAS (Nová Ř
+ íše)\n🚒 CAS (Stará Říše)\n🚒 CAS (Čáslavice)\n🚒 DA (Želetava-Horky)\n🚒 CAS 
+ (Předín)\n🚒 DA (Moravské Budějovice)\n🚒 CAS (Moravské Budějovice)\n🚒 vyšet
+ řovací automobil (ÚO Třebíč)
 END:VEVENT
 BEGIN:VEVENT
 UID:410573061
@@ -905,5 +894,16 @@ URL:geo:49.094255,15.892488
 DESCRIPTION:📍 nám. Míru\, Jaroměřice nad Rokytnou\, Třebíč\n\n🚒 CAS (HS Mor
  avské Budějovice)\n🚒 CAS (Jaroměřice nad Rokytnou)\n🚒 CAS (Moravské Budějo
  vice)
+END:VEVENT
+BEGIN:VEVENT
+UID:410574061
+DTSTART:20260502T131306Z
+DTEND:20260502T141306Z
+DTSTAMP:20260502T131306Z
+SUMMARY:☣️ plyn - Jihlava
+LOCATION:Havlíčkova\, Jihlava
+GEO:49.411805;15.594741
+URL:geo:49.411805,15.594741
+DESCRIPTION:📍 Havlíčkova\, Jihlava\n\n🚒 CAS (CHS Jihlava)
 END:VEVENT
 END:VCALENDAR
