@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:410395061
-DTSTART:20260430T050725Z
-DTEND:20260430T060725Z
-DTSTAMP:20260430T050725Z
-SUMMARY:🛠️ otevření bytu/auta - Velké Meziříčí
-LOCATION:Bezručova\, Velké Meziříčí
-GEO:49.352193;16.005435
-URL:geo:49.352193,16.005435
-DESCRIPTION:📍 Bezručova\, Velké Meziříčí\, Žďár nad Sázavou\n💬 Otevření byt
- u.\n\n🚒 RZA (HS Velké Meziříčí)
-END:VEVENT
-BEGIN:VEVENT
 UID:410397061
 DTSTART:20260430T052709Z
 DTEND:20260430T062709Z
@@ -872,9 +860,9 @@ SUMMARY:🔥 tráva/plocha - Třebíč
 LOCATION:Třebíč
 GEO:49.207044;15.896423
 URL:geo:49.207044,15.896423
-DESCRIPTION:📍 Jejkov\, Třebíč\n💬 Požár keřů 20x2m. Lokalizace a likvidace.\
- n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (CHS Třebíč)\n🚒 CAS (Jaroměřice nad Rokytnou)
- \n🚒 CAS (Jaroměřice nad Rokytnou)\n🚒 CAS (Stařeč)
+DESCRIPTION:📍 Jejkov\, Třebíč\n💬 Požár keřů 2 x 20 m. Lokalizace a likvidac
+ e.\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (CHS Třebíč)\n🚒 CAS (Jaroměřice nad Rokytn
+ ou)\n🚒 CAS (Jaroměřice nad Rokytnou)\n🚒 CAS (Stařeč)
 END:VEVENT
 BEGIN:VEVENT
 UID:410519061
@@ -910,7 +898,7 @@ LOCATION:Koroužné
 GEO:49.522425;16.358726
 URL:geo:49.522425,16.358726
 DESCRIPTION:📍 Švařec\, Koroužné\, Žďár nad Sázavou\n💬 Likvidace úniku oleje
-  na komunikaci.\n\n🚒 CAS (HS Bystřice nad Pernštejnem)
+  z komunikace.\n\n🚒 CAS (HS Bystřice nad Pernštejnem)
 END:VEVENT
 BEGIN:VEVENT
 UID:410524061
@@ -921,8 +909,8 @@ SUMMARY:🔥 les - Třešť
 LOCATION:Třešť
 GEO:49.288601;15.530943
 URL:geo:49.288601,15.530943
-DESCRIPTION:📍 Třešť\, Jihlava\n💬 Požár lesa. Lokalizace a likvidace událost
- i.\n\n🚒 CAS (HS Třešť)\n🚒 CAS (Batelov)\n🚒 CAS (Třešť)
+DESCRIPTION:📍 Třešť\, Jihlava\n💬 Požár lesa. Lokalizace a likvidace požáru.
+ \n\n🚒 CAS (HS Třešť)\n🚒 CAS (Batelov)\n🚒 CAS (Třešť)
 END:VEVENT
 BEGIN:VEVENT
 UID:410525061
