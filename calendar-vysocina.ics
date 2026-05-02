@@ -876,24 +876,24 @@ LOCATION:Želetava
 GEO:49.102857;15.680388
 URL:geo:49.102857,15.680388
 DESCRIPTION:📍 Šašovice\, Želetava\, Třebíč\n\n🚒 CAS (HS Moravské Budějovice
- )\n🚒 CAS (HS Moravské Budějovice)\n🚒 DA (Lesonice)\n🚒 CAS (Lesonice)\n🚒 DA
-  (Želetava-Šašovice)\n🚒 CAS (Želetava)\n🚒 CAS (Babice (TR))\n🚒 CAS (Nová Ř
- íše)\n🚒 CAS (Stará Říše)\n🚒 CAS (Čáslavice)\n🚒 DA (Želetava-Horky)\n🚒 CAS 
- (Předín)\n🚒 DA (Moravské Budějovice)\n🚒 CAS (Moravské Budějovice)\n🚒 vyšet
- řovací automobil (ÚO Třebíč)
+ ) ×2\n🚒 CAS (HS Moravské Budějovice)\n🚒 DA (Lesonice)\n🚒 CAS (Lesonice)\n🚒
+  DA (Želetava-Šašovice)\n🚒 CAS (Želetava)\n🚒 CAS (Babice (TR))\n🚒 CAS (Nov
+ á Říše)\n🚒 CAS (Stará Říše)\n🚒 CAS (Čáslavice)\n🚒 DA (Želetava-Horky)\n🚒 C
+ AS (Předín)\n🚒 DA (Moravské Budějovice)\n🚒 CAS (Moravské Budějovice)\n🚒 vy
+ šetřovací automobil (ÚO Třebíč)\n🚒 CAS (Jaroměřice nad Rokytnou)
 END:VEVENT
 BEGIN:VEVENT
 UID:410573061
 DTSTART:20260502T124136Z
 DTEND:20260502T134136Z
 DTSTAMP:20260502T124136Z
-SUMMARY:🔥 Jaroměřice nad Rokytnou
+SUMMARY:⚠️ planý poplach - Jaroměřice nad Rokytnou
 LOCATION:nám. Míru\, Jaroměřice nad Rokytnou
 GEO:49.094255;15.892488
 URL:geo:49.094255,15.892488
-DESCRIPTION:📍 nám. Míru\, Jaroměřice nad Rokytnou\, Třebíč\n\n🚒 CAS (HS Mor
- avské Budějovice)\n🚒 CAS (Jaroměřice nad Rokytnou)\n🚒 CAS (Moravské Budějo
- vice)
+DESCRIPTION:📍 nám. Míru\, Jaroměřice nad Rokytnou\, Třebíč\n💬 Planý poplach
+ .\n\n🚒 CAS (HS Moravské Budějovice)\n🚒 CAS (Jaroměřice nad Rokytnou)\n🚒 CA
+ S (Moravské Budějovice)
 END:VEVENT
 BEGIN:VEVENT
 UID:410574061
