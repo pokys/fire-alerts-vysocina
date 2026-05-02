@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:410471061
-DTSTART:20260430T193724Z
-DTEND:20260430T203724Z
-DTSTAMP:20260430T193724Z
-SUMMARY:⚠️ planý poplach - Okrouhlice
-LOCATION:Okrouhlice
-GEO:49.634271;15.471031
-URL:geo:49.634271,15.471031
-DESCRIPTION:📍 Babice\, Okrouhlice\, Havlíčkův Brod\n💬 Planý poplach.\n\n🚒 C
- AS (HS Světlá nad Sázavou)
-END:VEVENT
-BEGIN:VEVENT
 UID:410473061
 DTSTART:20260430T195513Z
 DTEND:20260430T205513Z
@@ -646,10 +634,10 @@ DESCRIPTION:📍 Šašovice\, Želetava\, Třebíč\n💬 Požár lesního poros
  avské Budějovice) ×2\n🚒 CAS (HS Moravské Budějovice) ×2\n🚒 DA (Lesonice)\n
  🚒 CAS (Lesonice)\n🚒 DA (Želetava-Šašovice)\n🚒 CAS (Želetava) ×2\n🚒 CAS (Ba
  bice (TR))\n🚒 CAS (Nová Říše)\n🚒 CAS (Stará Říše)\n🚒 DA (Čáslavice)\n🚒 CAS
-  (Čáslavice)\n🚒 DA (Želetava-Horky)\n🚒 CAS (Předín)\n🚒 DA (Moravské Budějo
- vice)\n🚒 CAS (Moravské Budějovice)\n🚒 vyšetřovací automobil (ÚO Třebíč)\n🚒
-  CAS (Jaroměřice nad Rokytnou)\n🚒 VEA (CHS Třebíč)\n🚒 vozidlo účelové - Sx
- S (CHS Třebíč)\n🚒 přívěs nákladní (CHS Třebíč)
+  (Čáslavice)\n🚒 DA (Želetava-Horky)\n🚒 CAS (Předín) ×2\n🚒 DA (Moravské Bud
+ ějovice)\n🚒 CAS (Moravské Budějovice)\n🚒 vyšetřovací automobil (ÚO Třebíč)
+ \n🚒 CAS (Jaroměřice nad Rokytnou)\n🚒 VEA (CHS Třebíč)\n🚒 vozidlo účelové -
+  SxS (CHS Třebíč)\n🚒 přívěs nákladní (CHS Třebíč)
 END:VEVENT
 BEGIN:VEVENT
 UID:410573061
