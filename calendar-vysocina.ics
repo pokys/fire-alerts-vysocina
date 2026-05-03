@@ -785,4 +785,16 @@ DESCRIPTION:📍 Stranná\, Žirovnice\, Pelhřimov\n\n🚒 CAS (HS Kamenice nad
  ou)\n🚒 CAS (HS Kamenice nad Lipou)\n🚒 DA (Žirovnice)\n🚒 CAS (Žirovnice)\n🚒
   CAS (Žirovnice)
 END:VEVENT
+BEGIN:VEVENT
+UID:410626061
+DTSTART:20260503T120816Z
+DTEND:20260503T130816Z
+DTSTAMP:20260503T120816Z
+SUMMARY:🔥 les - Rohozná
+LOCATION:Rohozná
+GEO:49.358610;15.409608
+URL:geo:49.358610,15.409608
+DESCRIPTION:📍 Rohozná\, Jihlava\n\n🚒 CAS (HS Třešť)\n🚒 CAS (Dolní Cerekev)\
+ n🚒 CAS (Nový Rychnov)\n🚒 CAS (Rohozná)
+END:VEVENT
 END:VCALENDAR
