@@ -410,8 +410,9 @@ DESCRIPTION:📍 Šašovice\, Želetava\, Třebíč\n💬 Požár lesního poros
  ice (TR))\n🚒 CAS (Nová Říše)\n🚒 CAS (Stará Říše)\n🚒 DA (Čáslavice)\n🚒 CAS 
  (Čáslavice)\n🚒 DA (Želetava-Horky)\n🚒 CAS (Předín) ×2\n🚒 DA (Moravské Budě
  jovice)\n🚒 CAS (Moravské Budějovice)\n🚒 vyšetřovací automobil (ÚO Třebíč)\
- n🚒 CAS (Jaroměřice nad Rokytnou)\n🚒 VEA (CHS Třebíč)\n🚒 vozidlo účelové - 
- SxS (CHS Třebíč)\n🚒 přívěs nákladní (CHS Třebíč)
+ n🚒 CAS (Jaroměřice nad Rokytnou)\n🚒 vrtulník (CHS Brno - Lidická vrtulník)
+ \n🚒 VEA (CHS Třebíč)\n🚒 vozidlo účelové - SxS (CHS Třebíč)\n🚒 přívěs nákla
+ dní (CHS Třebíč)
 END:VEVENT
 BEGIN:VEVENT
 UID:410573061
@@ -739,7 +740,7 @@ SUMMARY:🔥 venkovní požár - Lipník
 LOCATION:Lipník
 GEO:49.136781;15.962948
 URL:geo:49.136781,15.962948
-DESCRIPTION:📍 Lipník\, Třebíč\n\n🚒 CAS (Lipník)
+DESCRIPTION:📍 Lipník\, Třebíč\n💬 Dohašení ohniště.\n\n🚒 CAS (Lipník)
 END:VEVENT
 BEGIN:VEVENT
 UID:410628061
