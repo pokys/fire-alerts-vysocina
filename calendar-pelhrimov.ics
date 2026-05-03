@@ -5,17 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Pelhřimov
 BEGIN:VEVENT
-UID:410513061
-DTSTART:20260501T164954Z
-DTEND:20260501T174954Z
-DTSTAMP:20260501T164954Z
-SUMMARY:🛠️ ostatní - Nový Rychnov
-LOCATION:Nový Rychnov
-GEO:49.383515;15.366186
-URL:geo:49.383515,15.366186
-DESCRIPTION:📍 Nový Rychnov\, Pelhřimov\n💬 ZOČ.\n\n🚒 CAS (Nový Rychnov)
-END:VEVENT
-BEGIN:VEVENT
 UID:410547061
 DTSTART:20260502T073642Z
 DTEND:20260502T083642Z
@@ -180,8 +169,8 @@ SUMMARY:🚗 bez zranění - Kamenice nad Lipou
 LOCATION:Kamenice nad Lipou
 GEO:49.310837;15.079254
 URL:geo:49.310837,15.079254
-DESCRIPTION:📍 Johanka\, Kamenice nad Lipou\, Pelhřimov\n💬 DN 1 OA\, bez zra
- nění.\n\n🚒 CAS (HS Kamenice nad Lipou)
+DESCRIPTION:📍 Johanka\, Kamenice nad Lipou\, Pelhřimov\n💬 DN OA\, bez zraně
+ ní. Zajištění místa události.\n\n🚒 CAS (HS Kamenice nad Lipou)
 END:VEVENT
 BEGIN:VEVENT
 UID:410656061
@@ -192,8 +181,8 @@ SUMMARY:🔥 tráva/plocha - Pelhřimov
 LOCATION:Pelhřimov
 GEO:49.394986;15.297999
 URL:geo:49.394986,15.297999
-DESCRIPTION:📍 Lešov\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (CHS Pelhři
- mov)\n🚒 DA (Rynárec)\n🚒 CAS (Rynárec)\n🚒 stříkačka přenosná (Pelhřimov-Leš
- ov)
+DESCRIPTION:📍 Lešov\, Pelhřimov\n💬 Požár louky.\n\n🚒 CAS (CHS Pelhřimov)\n🚒
+  CAS (CHS Pelhřimov)\n🚒 DA (Rynárec)\n🚒 CAS (Rynárec)\n🚒 stříkačka přenosn
+ á (Pelhřimov-Lešov)
 END:VEVENT
 END:VCALENDAR
