@@ -5,32 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:410491061
-DTSTART:20260501T092436Z
-DTEND:20260501T102436Z
-DTSTAMP:20260501T092436Z
-SUMMARY:🚗 dopravní nehoda - Přibyslav
-LOCATION:Přibyslav
-GEO:49.555262;15.740235
-URL:geo:49.555262,15.740235
-DESCRIPTION:📍 Česká Jablonná\, Přibyslav\, Havlíčkův Brod\n💬 DN motocyklu s
- e zraněním jedné osoby. Zajištění místa události.\n\n🚒 CAS (HS Polná)\n🚒 C
- AS (Přibyslav)
-END:VEVENT
-BEGIN:VEVENT
-UID:410492061
-DTSTART:20260501T092934Z
-DTEND:20260501T102934Z
-DTSTAMP:20260501T092934Z
-SUMMARY:🔥 tráva/plocha - Velké Meziříčí
-LOCATION:Družstevní\, Velké Meziříčí
-GEO:49.353589;16.005464
-URL:geo:49.353589,16.005464
-DESCRIPTION:📍 Družstevní\, Velké Meziříčí\, Žďár nad Sázavou\n💬 Požár trávy
-  a keřů. Jednotky provedly lokalizaci a likvidaci požáru.\n\n🚒 CAS (HS Vel
- ké Meziříčí)\n🚒 CAS (Velké Meziříčí)
-END:VEVENT
-BEGIN:VEVENT
 UID:410493061
 DTSTART:20260501T094808Z
 DTEND:20260501T104808Z
