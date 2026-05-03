@@ -5,17 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:410513061
-DTSTART:20260501T164954Z
-DTEND:20260501T174954Z
-DTSTAMP:20260501T164954Z
-SUMMARY:🛠️ ostatní - Nový Rychnov
-LOCATION:Nový Rychnov
-GEO:49.383515;15.366186
-URL:geo:49.383515,15.366186
-DESCRIPTION:📍 Nový Rychnov\, Pelhřimov\n💬 ZOČ.\n\n🚒 CAS (Nový Rychnov)
-END:VEVENT
-BEGIN:VEVENT
 UID:410514061
 DTSTART:20260501T170753Z
 DTEND:20260501T180753Z
@@ -370,13 +359,13 @@ URL:geo:49.102857,15.680388
 DESCRIPTION:📍 Šašovice\, Želetava\, Třebíč\n💬 Požár lesního porostu. Byla p
  rovedena lokalizace a likvidace požáru.\n\n🚒 CAS (HS Moravské Budějovice) 
  ×2\n🚒 CAS (HS Moravské Budějovice) ×2\n🚒 DA (Lesonice)\n🚒 CAS (Lesonice)\n
- 🚒 DA (Želetava-Šašovice)\n🚒 DA (Želetava)\n🚒 CAS (Želetava) ×3\n🚒 CAS (Bab
- ice (TR))\n🚒 CAS (Nová Říše)\n🚒 CAS (Stará Říše)\n🚒 DA (Čáslavice)\n🚒 CAS 
- (Čáslavice)\n🚒 DA (Želetava-Horky)\n🚒 CAS (Předín) ×2\n🚒 DA (Moravské Budě
- jovice)\n🚒 CAS (Moravské Budějovice)\n🚒 vyšetřovací automobil (ÚO Třebíč)\
- n🚒 CAS (Jaroměřice nad Rokytnou)\n🚒 vrtulník (CHS Brno - Lidická vrtulník)
- \n🚒 VEA (CHS Třebíč)\n🚒 vozidlo účelové - SxS (CHS Třebíč)\n🚒 přívěs nákla
- dní (CHS Třebíč)
+ 🚒 čerpadlo plovoucí (Lesonice)\n🚒 DA (Želetava-Šašovice)\n🚒 DA (Želetava)\
+ n🚒 CAS (Želetava) ×3\n🚒 CAS (Babice (TR))\n🚒 CAS (Nová Říše)\n🚒 CAS (Stará
+  Říše)\n🚒 DA (Čáslavice)\n🚒 CAS (Čáslavice)\n🚒 DA (Želetava-Horky)\n🚒 CAS 
+ (Předín) ×2\n🚒 DA (Moravské Budějovice)\n🚒 CAS (Moravské Budějovice)\n🚒 vy
+ šetřovací automobil (ÚO Třebíč)\n🚒 CAS (Jaroměřice nad Rokytnou)\n🚒 vrtuln
+ ík (CHS Brno - Lidická vrtulník)\n🚒 VEA (CHS Třebíč)\n🚒 vozidlo účelové - 
+ SxS (CHS Třebíč)\n🚒 přívěs nákladní (CHS Třebíč)
 END:VEVENT
 BEGIN:VEVENT
 UID:410573061
@@ -774,8 +763,8 @@ SUMMARY:🚗 úklid místa - Jihlava
 LOCATION:Jihlava
 GEO:49.460892;15.609464
 URL:geo:49.460892,15.609464
-DESCRIPTION:📍 Červený Kříž\, Jihlava\n💬 DN 2 OA\, likvidace úniku proveozní
- ch kapalin.\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihlava)
+DESCRIPTION:📍 Červený Kříž\, Jihlava\n💬 DN 2 x OA\, likvidace úniku proveoz
+ ních kapalin.\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:410636061
@@ -786,8 +775,9 @@ SUMMARY:⚠️ planý poplach - Brtnice
 LOCATION:Družstevní\, Brtnice
 GEO:49.310292;15.672573
 URL:geo:49.310292,15.672573
-DESCRIPTION:📍 Družstevní\, Brtnice\, Jihlava\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA 
- (CHS Jihlava)\n🚒 CAS (Brtnice)
+DESCRIPTION:📍 Družstevní\, Brtnice\, Jihlava\n💬 Ohlášen požár OA\, průzkume
+ m nepotvrzeno.\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihlava)\n🚒 CAS (Brtnice
+ )
 END:VEVENT
 BEGIN:VEVENT
 UID:410641061
@@ -798,8 +788,8 @@ SUMMARY:🔥 tráva/plocha - Růžená
 LOCATION:Růžená
 GEO:49.273524;15.434624
 URL:geo:49.273524,15.434624
-DESCRIPTION:📍 Růžená\, Jihlava\n\n🚒 CAS (HS Telč)\n🚒 CAS (HS Telč)\n🚒 CAS (
- Hodice)\n🚒 DA (Růžená)
+DESCRIPTION:📍 Růžená\, Jihlava\n💬 Dohašení ohniště.\n\n🚒 CAS (HS Telč)\n🚒 C
+ AS (HS Telč)\n🚒 CAS (Hodice)\n🚒 DA (Růžená)
 END:VEVENT
 BEGIN:VEVENT
 UID:410644061
@@ -811,8 +801,8 @@ LOCATION:Fryšava pod Žákovou horou
 GEO:49.637421;16.065366
 URL:geo:49.637421,16.065366
 DESCRIPTION:📍 Fryšava pod Žákovou horou\, Žďár nad Sázavou\n💬 Dohašení ohni
- ště.\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 DA (
- Sněžné)\n🚒 CAS (Sněžné)\n🚒 DA (Svratka)\n🚒 CAS (Svratka)
+ ště a suché trávy.\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (CHS Žďár nad Sá
+ zavou)\n🚒 DA (Sněžné)\n🚒 CAS (Sněžné)\n🚒 DA (Svratka)\n🚒 CAS (Svratka)
 END:VEVENT
 BEGIN:VEVENT
 UID:410645061
@@ -823,8 +813,8 @@ SUMMARY:🚗 bez zranění - Kamenice nad Lipou
 LOCATION:Kamenice nad Lipou
 GEO:49.310837;15.079254
 URL:geo:49.310837,15.079254
-DESCRIPTION:📍 Johanka\, Kamenice nad Lipou\, Pelhřimov\n💬 DN 1 OA\, bez zra
- nění.\n\n🚒 CAS (HS Kamenice nad Lipou)
+DESCRIPTION:📍 Johanka\, Kamenice nad Lipou\, Pelhřimov\n💬 DN OA\, bez zraně
+ ní. Zajištění místa události.\n\n🚒 CAS (HS Kamenice nad Lipou)
 END:VEVENT
 BEGIN:VEVENT
 UID:410646061
@@ -846,7 +836,8 @@ SUMMARY:🛠️ strom - Třešť
 LOCATION:Třešť
 GEO:49.283891;15.446165
 URL:geo:49.283891,15.446165
-DESCRIPTION:📍 Čenkov\, Třešť\, Jihlava\n\n🚒 CAS (HS Třešť)
+DESCRIPTION:📍 Čenkov\, Třešť\, Jihlava\n💬 Odstranění stromu.\n\n🚒 CAS (HS T
+ řešť)\n🚒 pila řetězová (HS Třešť)
 END:VEVENT
 BEGIN:VEVENT
 UID:410648061
@@ -893,8 +884,8 @@ SUMMARY:🔥 venkovní požár - Havlíčkův Brod
 LOCATION:Humpolecká\, Havlíčkův Brod
 GEO:49.600579;15.565533
 URL:geo:49.600579,15.565533
-DESCRIPTION:📍 Humpolecká\, Havlíčkův Brod\n💬 Požár hráze dřeva.\n\n🚒 CAS (C
- HS Havlíčkův Brod)\n🚒 CAS (CHS Havlíčkův Brod)
+DESCRIPTION:📍 Humpolecká\, Havlíčkův Brod\n💬 Požár hranice dřeva.\n\n🚒 CAS 
+ (CHS Havlíčkův Brod)\n🚒 CAS (CHS Havlíčkův Brod)
 END:VEVENT
 BEGIN:VEVENT
 UID:410655061
@@ -905,8 +896,8 @@ SUMMARY:🔥 tráva/plocha - Třebíč
 LOCATION:Koželužská\, Třebíč
 GEO:49.207522;15.859245
 URL:geo:49.207522,15.859245
-DESCRIPTION:📍 Koželužská\, Borovina\, Třebíč\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (
- CHS Třebíč)
+DESCRIPTION:📍 Koželužská\, Borovina\, Třebíč\n💬 Požár trávy na ploše 2x3m.\
+ n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (CHS Třebíč)
 END:VEVENT
 BEGIN:VEVENT
 UID:410656061
@@ -917,9 +908,9 @@ SUMMARY:🔥 tráva/plocha - Pelhřimov
 LOCATION:Pelhřimov
 GEO:49.394986;15.297999
 URL:geo:49.394986,15.297999
-DESCRIPTION:📍 Lešov\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (CHS Pelhři
- mov)\n🚒 DA (Rynárec)\n🚒 CAS (Rynárec)\n🚒 stříkačka přenosná (Pelhřimov-Leš
- ov)
+DESCRIPTION:📍 Lešov\, Pelhřimov\n💬 Požár louky.\n\n🚒 CAS (CHS Pelhřimov)\n🚒
+  CAS (CHS Pelhřimov)\n🚒 DA (Rynárec)\n🚒 CAS (Rynárec)\n🚒 stříkačka přenosn
+ á (Pelhřimov-Lešov)
 END:VEVENT
 BEGIN:VEVENT
 UID:410657061
@@ -932,5 +923,17 @@ GEO:49.356797;16.008482
 URL:geo:49.356797,16.008482
 DESCRIPTION:📍 Zámecká\, Velké Meziříčí\, Žďár nad Sázavou\n\n🚒 CAS (HS Velk
  é Meziříčí)
+END:VEVENT
+BEGIN:VEVENT
+UID:410659061
+DTSTART:20260503T163344Z
+DTEND:20260503T173344Z
+DTSTAMP:20260503T163344Z
+SUMMARY:🛠️ obtížný hmyz - Golčův Jeníkov
+LOCATION:Ráj\, Golčův Jeníkov
+GEO:49.822730;15.473696
+URL:geo:49.822730,15.473696
+DESCRIPTION:📍 Ráj\, Golčův Jeníkov\, Havlíčkův Brod\n\n🚒 CAS (Golčův Jeníko
+ v)
 END:VEVENT
 END:VCALENDAR
