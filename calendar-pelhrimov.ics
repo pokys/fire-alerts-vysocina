@@ -152,13 +152,13 @@ UID:410622061
 DTSTART:20260503T112900Z
 DTEND:20260503T122900Z
 DTSTAMP:20260503T112900Z
-SUMMARY:🔥 les - Žirovnice
+SUMMARY:🔥 venkovní požár - Žirovnice
 LOCATION:Žirovnice
 GEO:49.286151;15.150854
 URL:geo:49.286151,15.150854
-DESCRIPTION:📍 Stranná\, Žirovnice\, Pelhřimov\n\n🚒 CAS (HS Kamenice nad Lip
- ou)\n🚒 CAS (HS Kamenice nad Lipou)\n🚒 DA (Žirovnice)\n🚒 CAS (Žirovnice)\n🚒
-  CAS (Žirovnice)
+DESCRIPTION:📍 Stranná\, Žirovnice\, Pelhřimov\n💬 Dohašení ohniště.\n\n🚒 CAS
+  (HS Kamenice nad Lipou)\n🚒 CAS (HS Kamenice nad Lipou)\n🚒 DA (Žirovnice)\
+ n🚒 CAS (Žirovnice)\n🚒 CAS (Žirovnice)
 END:VEVENT
 BEGIN:VEVENT
 UID:410629061

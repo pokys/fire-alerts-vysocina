@@ -722,21 +722,21 @@ SUMMARY:🔥 technologie - Batelov
 LOCATION:Batelov
 GEO:49.320462;15.372526
 URL:geo:49.320462,15.372526
-DESCRIPTION:📍 Bezděčín\, Batelov\, Jihlava\n\n🚒 CAS (HS Třešť)\n🚒 CAS (Horn
- í Cerekev)\n🚒 CAS (Batelov)
+DESCRIPTION:📍 Bezděčín\, Batelov\, Jihlava\n💬 Požár hromady dřeva.\n\n🚒 CAS
+  (HS Třešť)\n🚒 CAS (Horní Cerekev)\n🚒 CAS (Batelov)
 END:VEVENT
 BEGIN:VEVENT
 UID:410622061
 DTSTART:20260503T112900Z
 DTEND:20260503T122900Z
 DTSTAMP:20260503T112900Z
-SUMMARY:🔥 les - Žirovnice
+SUMMARY:🔥 venkovní požár - Žirovnice
 LOCATION:Žirovnice
 GEO:49.286151;15.150854
 URL:geo:49.286151,15.150854
-DESCRIPTION:📍 Stranná\, Žirovnice\, Pelhřimov\n\n🚒 CAS (HS Kamenice nad Lip
- ou)\n🚒 CAS (HS Kamenice nad Lipou)\n🚒 DA (Žirovnice)\n🚒 CAS (Žirovnice)\n🚒
-  CAS (Žirovnice)
+DESCRIPTION:📍 Stranná\, Žirovnice\, Pelhřimov\n💬 Dohašení ohniště.\n\n🚒 CAS
+  (HS Kamenice nad Lipou)\n🚒 CAS (HS Kamenice nad Lipou)\n🚒 DA (Žirovnice)\
+ n🚒 CAS (Žirovnice)\n🚒 CAS (Žirovnice)
 END:VEVENT
 BEGIN:VEVENT
 UID:410626061
@@ -816,5 +816,29 @@ GEO:49.359208;15.995525
 URL:geo:49.359208,15.995525
 DESCRIPTION:📍 Velké Meziříčí\, Žďár nad Sázavou\n\n🚒 CAS (HS Velké Meziříčí
  )\n🚒 RZA (HS Velké Meziříčí)
+END:VEVENT
+BEGIN:VEVENT
+UID:410635061
+DTSTART:20260503T131331Z
+DTEND:20260503T141331Z
+DTSTAMP:20260503T131331Z
+SUMMARY:🚗 úklid místa - Jihlava
+LOCATION:Jihlava
+GEO:49.460892;15.609464
+URL:geo:49.460892,15.609464
+DESCRIPTION:📍 Červený Kříž\, Jihlava\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jih
+ lava) ×2
+END:VEVENT
+BEGIN:VEVENT
+UID:410636061
+DTSTART:20260503T131524Z
+DTEND:20260503T141524Z
+DTSTAMP:20260503T131524Z
+SUMMARY:🔥 vozidlo - Brtnice
+LOCATION:Družstevní\, Brtnice
+GEO:49.310292;15.672573
+URL:geo:49.310292,15.672573
+DESCRIPTION:📍 Družstevní\, Brtnice\, Jihlava\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA 
+ (CHS Jihlava)\n🚒 CAS (Brtnice)
 END:VEVENT
 END:VCALENDAR
