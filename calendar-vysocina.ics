@@ -743,8 +743,8 @@ SUMMARY:🚗 dopravní nehoda - Jihlava
 LOCATION:Jihlava
 GEO:49.452600;15.612163
 URL:geo:49.452600,15.612163
-DESCRIPTION:📍 Pávov\, Jihlava\n💬 Dopravní nehoda 1 OA\, jedna zraněná osoba
- . Zajištění místa události.\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihlava)
+DESCRIPTION:📍 Pávov\, Jihlava\n💬 DN 1 OA\, jedna zraněná osoba. Zajištění m
+ ísta události.\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:410600061
@@ -780,8 +780,8 @@ SUMMARY:🚑 transport pacienta - Jihlava
 LOCATION:Sokolovská\, Jihlava
 GEO:49.410240;15.587134
 URL:geo:49.410240,15.587134
-DESCRIPTION:📍 Sokolovská\, Jihlava\n💬 Transport pacienta pro ZZS.\n\n🚒 CAS 
- (CHS Jihlava)
+DESCRIPTION:📍 Sokolovská\, Jihlava\n💬 Transport pacienta na žádost  ZZS.\n\
+ n🚒 CAS (CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:410603061
