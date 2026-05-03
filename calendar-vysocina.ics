@@ -725,11 +725,11 @@ LOCATION:Rohozná
 GEO:49.361548;15.407732
 URL:geo:49.361548,15.407732
 DESCRIPTION:📍 Rohozná\, Jihlava\n💬 Požár lesního porostu a suché trávy.\n\n
- 🚒 CAS (HS Třešť)\n🚒 CAS (Dolní Cerekev)\n🚒 CAS (Dolní Cerekev)\n🚒 CAS (Nov
- ý Rychnov)\n🚒 CAS (Rohozná)\n🚒 CAS (Rohozná)\n🚒 CAS (CHS Jihlava)\n🚒 CAS (
- CHS Jihlava)\n🚒 CAS (Batelov)\n🚒 CAS (Hojkov)\n🚒 vyšetřovací automobil (ÚO
-  Jihlava)\n🚒 DA (Horní Cerekev)\n🚒 CAS (Horní Cerekev)\n🚒 CAS (Horní Duben
- ky)\n🚒 CAS (Opatov (JI))\n🚒 CAS (HS Telč)
+ 🚒 CAS (HS Třešť)\n🚒 DA (Dolní Cerekev)\n🚒 CAS (Dolní Cerekev)\n🚒 CAS (Doln
+ í Cerekev)\n🚒 CAS (Nový Rychnov)\n🚒 CAS (Rohozná)\n🚒 CAS (Rohozná)\n🚒 CAS 
+ (CHS Jihlava)\n🚒 CAS (CHS Jihlava)\n🚒 CAS (Batelov)\n🚒 CAS (Hojkov)\n🚒 vyš
+ etřovací automobil (ÚO Jihlava)\n🚒 DA (Horní Cerekev)\n🚒 CAS (Horní Cereke
+ v)\n🚒 CAS (Horní Dubenky)\n🚒 CAS (Opatov (JI))\n🚒 CAS (HS Telč)
 END:VEVENT
 BEGIN:VEVENT
 UID:410627061
@@ -774,7 +774,8 @@ SUMMARY:🚗 dopravní nehoda - Osová Bítýška
 LOCATION:Osová Bítýška
 GEO:49.310065;16.115330
 URL:geo:49.310065,16.115330
-DESCRIPTION:📍 Osová Bítýška\, Žďár nad Sázavou\n\n🚒 CAS (HS Velká Bíteš)
+DESCRIPTION:📍 Osová Bítýška\, Žďár nad Sázavou\n💬 DN 2 OA\, 1 zraněná osoba
+ . Zajištění místa nehody.\n\n🚒 CAS (HS Velká Bíteš)
 END:VEVENT
 BEGIN:VEVENT
 UID:410632061
@@ -856,7 +857,7 @@ SUMMARY:🚗 bez zranění - Kamenice nad Lipou
 LOCATION:Kamenice nad Lipou
 GEO:49.310837;15.079254
 URL:geo:49.310837,15.079254
-DESCRIPTION:📍 Johanka\, Kamenice nad Lipou\, Pelhřimov\n\n🚒 CAS (HS Kamenic
- e nad Lipou)
+DESCRIPTION:📍 Johanka\, Kamenice nad Lipou\, Pelhřimov\n💬 DN 1 OA\, bez zra
+ nění.\n\n🚒 CAS (HS Kamenice nad Lipou)
 END:VEVENT
 END:VCALENDAR
