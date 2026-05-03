@@ -801,11 +801,12 @@ UID:410611061
 DTSTART:20260503T083245Z
 DTEND:20260503T093245Z
 DTSTAMP:20260503T083245Z
-SUMMARY:🔥 tráva/plocha - Třebelovice
+SUMMARY:⚠️ planý poplach - Třebelovice
 LOCATION:Třebelovice
 GEO:49.015032;15.675912
 URL:geo:49.015032,15.675912
-DESCRIPTION:📍 Třebelovice\, Třebíč\n\n🚒 CAS (HS Jemnice)
+DESCRIPTION:📍 Třebelovice\, Třebíč\n💬 Ohlášeno doutnající ohniště\, průzkum
+ em zjištěno\, že se jedná o planý poplach.\n\n🚒 CAS (HS Jemnice)
 END:VEVENT
 BEGIN:VEVENT
 UID:410612061
