@@ -13,7 +13,7 @@ SUMMARY:🛠️ ostatní - Nový Rychnov
 LOCATION:Nový Rychnov
 GEO:49.383515;15.366186
 URL:geo:49.383515,15.366186
-DESCRIPTION:📍 Nový Rychnov\, Pelhřimov\n💬 ZOČ.\n\n🚒 CAS (Nový Rychnov)
+DESCRIPTION:📍 Nový Rychnov\, Pelhřimov\n💬 ZOČ.
 END:VEVENT
 BEGIN:VEVENT
 UID:410547061
@@ -25,8 +25,7 @@ LOCATION:Krátká\, Kamenice nad Lipou
 GEO:49.296893;15.076674
 URL:geo:49.296893,15.076674
 DESCRIPTION:📍 Krátká\, Kamenice nad Lipou\, Pelhřimov\n💬 DN 3 OA\, bez zran
- ění. Zajištění místa nehody. Likvidace úniku PHM pomocí sorbentu.\n\n🚒 CAS
-  (HS Kamenice nad Lipou)
+ ění. Zajištění místa nehody. Likvidace úniku PHM pomocí sorbentu.
 END:VEVENT
 BEGIN:VEVENT
 UID:410562061
@@ -37,8 +36,7 @@ SUMMARY:🛠️ strom - Píšť
 LOCATION:Píšť
 GEO:49.606524;15.212219
 URL:geo:49.606524,15.212219
-DESCRIPTION:📍 Vranice\, Píšť\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 CAS (Pí
- šť)
+DESCRIPTION:📍 Vranice\, Píšť\, Pelhřimov\n💬 Odstranění stromu.
 END:VEVENT
 BEGIN:VEVENT
 UID:410570061
@@ -50,8 +48,7 @@ LOCATION:Nová Cerekev
 GEO:49.420420;15.115702
 URL:geo:49.420420,15.115702
 DESCRIPTION:📍 Nová Cerekev\, Pelhřimov\n💬 Požár trávy\, beze škody\, se zra
- něním jedné osoby. Provedena lokalizace a likvidace požáru.\n\n🚒 CAS (CHS 
- Pelhřimov)\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (HS Pacov)\n🚒 CAS (Nová Cerekev)
+ něním jedné osoby. Provedena lokalizace a likvidace požáru.
 END:VEVENT
 BEGIN:VEVENT
 UID:410571061
@@ -63,9 +60,7 @@ LOCATION:Žirovnice
 GEO:49.285449;15.149938
 URL:geo:49.285449,15.149938
 DESCRIPTION:📍 Stranná\, Žirovnice\, Pelhřimov\n💬 Požár lesního porostu. Pro
- vedena lokalizace a likvidace požáru.\n\n🚒 CAS (HS Kamenice nad Lipou)\n🚒 
- CAS (HS Kamenice nad Lipou)\n🚒 CAS (Počátky) ×2\n🚒 DA (Žirovnice)\n🚒 CAS (
- Žirovnice)\n🚒 CAS (Žirovnice)\n🚒 vyšetřovací automobil (ÚO Pelhřimov)
+ vedena lokalizace a likvidace požáru.
 END:VEVENT
 BEGIN:VEVENT
 UID:410578061
@@ -77,12 +72,7 @@ LOCATION:Pelhřimov
 GEO:49.455681;15.165353
 URL:geo:49.455681,15.165353
 DESCRIPTION:📍 Lipice\, Pelhřimov\n💬 Požár lesa\, bez zranění. Provedena lok
- alizace a likvidace požáru.\n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (CHS Pelhřimov
- )\n🚒 VEA (CHS Pelhřimov)\n🚒 CAS (Nová Cerekev)\n🚒 DA (Pelhřimov-Lipice)\n🚒
-  CAS (HS Pacov)\n🚒 DA (Červená Řečice)\n🚒 CAS (Červená Řečice)\n🚒 DA (Oleš
- ná (PE))\n🚒 CAS (Olešná (PE))\n🚒 přívěs nákladní (Olešná (PE))\n🚒 přívěs m
- otorová stříkačka (Olešná (PE))\n🚒 DA (Pelhřimov-Čakovice)\n🚒 vyšetřovací 
- automobil (ÚO Pelhřimov)
+ alizace a likvidace požáru.
 END:VEVENT
 BEGIN:VEVENT
 UID:410580061
@@ -93,8 +83,7 @@ SUMMARY:🛠️ ostatní - Nová Cerekev
 LOCATION:Nová Cerekev
 GEO:49.441002;15.150833
 URL:geo:49.441002,15.150833
-DESCRIPTION:📍 Nová Cerekev\, Pelhřimov\n💬 Odstranění nebezpečných stavů.\n\
- n🚒 CAS (CHS Pelhřimov)
+DESCRIPTION:📍 Nová Cerekev\, Pelhřimov\n💬 Odstranění nebezpečných stavů.
 END:VEVENT
 BEGIN:VEVENT
 UID:410587061
@@ -106,10 +95,7 @@ LOCATION:Nový Rychnov
 GEO:49.364777;15.308241
 URL:geo:49.364777,15.308241
 DESCRIPTION:📍 Čejkov\, Nový Rychnov\, Pelhřimov\n💬 Požár lesa\, bez zranění
- . Provedena lokalizace a likvidace požáru.\n\n🚒 CAS (Horní Cerekev)\n🚒 CAS
-  (Hojkov)\n🚒 CAS (Nový Rychnov)\n🚒 osobní automobil (Nový Rychnov-Čejkov)\
- n🚒 CAS (CHS Pelhřimov)\n🚒 přívěs nákladní (Nová Buková)\n🚒 vyšetřovací aut
- omobil (ÚO Pelhřimov)
+ . Provedena lokalizace a likvidace požáru.
 END:VEVENT
 BEGIN:VEVENT
 UID:410591061
@@ -121,8 +107,7 @@ LOCATION:Slovanského bratrství\, Pelhřimov
 GEO:49.434191;15.232002
 URL:geo:49.434191,15.232002
 DESCRIPTION:📍 Slovanského bratrství\, Pelhřimov\n💬 DN 2 OA\, bez zranění. L
- ikvidace úniku PHM pomocí sorbentu. Zajištění místa nehody.\n\n🚒 CAS (CHS 
- Pelhřimov)
+ ikvidace úniku PHM pomocí sorbentu. Zajištění místa nehody.
 END:VEVENT
 BEGIN:VEVENT
 UID:410609061
@@ -133,8 +118,7 @@ SUMMARY:🚑 transport pacienta - Pacov
 LOCATION:Žižkova\, Pacov
 GEO:49.466940;14.997013
 URL:geo:49.466940,14.997013
-DESCRIPTION:📍 Žižkova\, Pacov\, Pelhřimov\n💬 Předlékařská pomoc.\n\n🚒 CAS (
- HS Pacov)
+DESCRIPTION:📍 Žižkova\, Pacov\, Pelhřimov\n💬 Předlékařská pomoc.
 END:VEVENT
 BEGIN:VEVENT
 UID:410610061
@@ -145,7 +129,7 @@ SUMMARY:🛠️ ostatní - Horní Cerekev
 LOCATION:Horní Cerekev
 GEO:49.320260;15.327690
 URL:geo:49.320260,15.327690
-DESCRIPTION:📍 Horní Cerekev\, Pelhřimov\n💬 ZOČ.\n\n🚒 CAS (Horní Cerekev)
+DESCRIPTION:📍 Horní Cerekev\, Pelhřimov\n💬 ZOČ.
 END:VEVENT
 BEGIN:VEVENT
 UID:410622061
@@ -156,9 +140,7 @@ SUMMARY:🔥 venkovní požár - Žirovnice
 LOCATION:Žirovnice
 GEO:49.286151;15.150854
 URL:geo:49.286151,15.150854
-DESCRIPTION:📍 Stranná\, Žirovnice\, Pelhřimov\n💬 Dohašení ohniště.\n\n🚒 CAS
-  (HS Kamenice nad Lipou)\n🚒 CAS (HS Kamenice nad Lipou)\n🚒 DA (Žirovnice)\
- n🚒 CAS (Žirovnice)\n🚒 CAS (Žirovnice)
+DESCRIPTION:📍 Stranná\, Žirovnice\, Pelhřimov\n💬 Dohašení ohniště.
 END:VEVENT
 BEGIN:VEVENT
 UID:410629061
@@ -169,6 +151,6 @@ SUMMARY:🔥 odpad - Pelhřimov
 LOCATION:Pelhřimov
 GEO:49.425654;15.223349
 URL:geo:49.425654,15.223349
-DESCRIPTION:💬 Požár odpadkového koše.\n\n🚒 CAS (CHS Pelhřimov)
+DESCRIPTION:💬 Požár odpadkového koše.
 END:VEVENT
 END:VCALENDAR
