@@ -750,6 +750,7 @@ DTSTAMP:20260503T130858Z
 SUMMARY:🛠️ strom - Dešov
 LOCATION:Dešov
 DESCRIPTION:📍 Dešov\, Třebíč\n💬 Odstranění stromu.\n\n🚒 CAS (HS Jemnice) ×2
+ \n🚒 pila řetězová (HS Jemnice)
 END:VEVENT
 BEGIN:VEVENT
 UID:410634061
@@ -809,9 +810,9 @@ SUMMARY:🔥 tráva/plocha - Fryšava pod Žákovou horou
 LOCATION:Fryšava pod Žákovou horou
 GEO:49.637421;16.065366
 URL:geo:49.637421,16.065366
-DESCRIPTION:📍 Fryšava pod Žákovou horou\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žď
- ár nad Sázavou)\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 DA (Sněžné)\n🚒 CAS (Sněžn
- é)\n🚒 DA (Svratka)\n🚒 CAS (Svratka)
+DESCRIPTION:📍 Fryšava pod Žákovou horou\, Žďár nad Sázavou\n💬 Dohašení ohni
+ ště.\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 DA (
+ Sněžné)\n🚒 CAS (Sněžné)\n🚒 DA (Svratka)\n🚒 CAS (Svratka)
 END:VEVENT
 BEGIN:VEVENT
 UID:410645061
@@ -824,6 +825,17 @@ GEO:49.310837;15.079254
 URL:geo:49.310837,15.079254
 DESCRIPTION:📍 Johanka\, Kamenice nad Lipou\, Pelhřimov\n💬 DN 1 OA\, bez zra
  nění.\n\n🚒 CAS (HS Kamenice nad Lipou)
+END:VEVENT
+BEGIN:VEVENT
+UID:410646061
+DTSTART:20260503T145544Z
+DTEND:20260503T155544Z
+DTSTAMP:20260503T145544Z
+SUMMARY:🚑 záchrana zvířete - Kuroslepy
+LOCATION:Kuroslepy
+GEO:49.143367;16.241364
+URL:geo:49.143367,16.241364
+DESCRIPTION:📍 Kuroslepy\, Třebíč\n\n🚒 CAS (HS Ivančice)
 END:VEVENT
 BEGIN:VEVENT
 UID:410647061
@@ -845,7 +857,8 @@ SUMMARY:🔥 venkovní požár - Hradec
 LOCATION:Hradec
 GEO:49.704163;15.298555
 URL:geo:49.704163,15.298555
-DESCRIPTION:📍 Hradec\, Havlíčkův Brod\n\n🚒 CAS (Hradec)
+DESCRIPTION:📍 Hradec\, Havlíčkův Brod\n💬 Dohašení ohniště.\n\n🚒 DA (Hradec)
+ \n🚒 CAS (Hradec)
 END:VEVENT
 BEGIN:VEVENT
 UID:410649061
@@ -856,8 +869,8 @@ SUMMARY:🚑 transport pacienta - Trpišovice
 LOCATION:Trpišovice
 GEO:49.660405;15.336556
 URL:geo:49.660405,15.336556
-DESCRIPTION:📍 Trpišovice\, Havlíčkův Brod\n\n🚒 CAS (HS Ledeč nad Sázavou)\n
- 🚒 CAS (HS Světlá nad Sázavou)
+DESCRIPTION:📍 Trpišovice\, Havlíčkův Brod\n💬 Transport pacienta.\n\n🚒 CAS (
+ HS Ledeč nad Sázavou)\n🚒 CAS (HS Světlá nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:410650061
@@ -868,8 +881,8 @@ SUMMARY:🛠️ otevření bytu/auta - Žďár nad Sázavou
 LOCATION:Libušínská\, Žďár nad Sázavou
 GEO:49.567203;15.938974
 URL:geo:49.567203,15.938974
-DESCRIPTION:📍 Libušínská\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n\n🚒 CAS (
- CHS Žďár nad Sázavou)
+DESCRIPTION:📍 Libušínská\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n💬 Otevřen
+ í bytu.\n\n🚒 CAS (CHS Žďár nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:410651061
@@ -877,9 +890,10 @@ DTSTART:20260503T155017Z
 DTEND:20260503T165017Z
 DTSTAMP:20260503T155017Z
 SUMMARY:🔥 venkovní požár - Havlíčkův Brod
-LOCATION:Havlíčkův Brod
-GEO:49.601422;15.566225
-URL:geo:49.601422,15.566225
-DESCRIPTION:🚒 CAS (CHS Havlíčkův Brod)\n🚒 CAS (CHS Havlíčkův Brod)
+LOCATION:Humpolecká\, Havlíčkův Brod
+GEO:49.600579;15.565533
+URL:geo:49.600579,15.565533
+DESCRIPTION:📍 Humpolecká\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 
+ CAS (CHS Havlíčkův Brod)
 END:VEVENT
 END:VCALENDAR
