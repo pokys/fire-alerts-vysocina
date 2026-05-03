@@ -14,7 +14,7 @@ LOCATION:Veselý Žďár
 GEO:49.647457;15.512783
 URL:geo:49.647457,15.512783
 DESCRIPTION:📍 Veselý Žďár\, Havlíčkův Brod\n💬 DN 2 OA se zraněním jedné oso
- by. Provedeno PPO. Zajištění místa události.\n\n🚒 CAS (CHS Havlíčkův Brod)
+ by. Provedeno PPO. Zajištění místa události.
 END:VEVENT
 BEGIN:VEVENT
 UID:410511061
@@ -26,7 +26,7 @@ LOCATION:Jabloňov
 GEO:49.325546;16.087769
 URL:geo:49.325546,16.087769
 DESCRIPTION:📍 Jabloňov\, Žďár nad Sázavou\n💬 Transport pacienta na žádost Z
- ZS.\n\n🚒 CAS (HS Velké Meziříčí)
+ ZS.
 END:VEVENT
 BEGIN:VEVENT
 UID:410512061
@@ -37,8 +37,7 @@ SUMMARY:🛠️ obtížný hmyz - Mohelno
 LOCATION:Mohelno
 GEO:49.099291;16.204571
 URL:geo:49.099291,16.204571
-DESCRIPTION:📍 Mohelno\, Třebíč\n💬 Odstranění obtížného hmyzu.\n\n🚒 nákladní
-  automobil do 3500 kg (Mohelno)
+DESCRIPTION:📍 Mohelno\, Třebíč\n💬 Odstranění obtížného hmyzu.
 END:VEVENT
 BEGIN:VEVENT
 UID:410513061
@@ -49,7 +48,7 @@ SUMMARY:🛠️ ostatní - Nový Rychnov
 LOCATION:Nový Rychnov
 GEO:49.383515;15.366186
 URL:geo:49.383515,15.366186
-DESCRIPTION:📍 Nový Rychnov\, Pelhřimov\n💬 ZOČ.\n\n🚒 CAS (Nový Rychnov)
+DESCRIPTION:📍 Nový Rychnov\, Pelhřimov\n💬 ZOČ.
 END:VEVENT
 BEGIN:VEVENT
 UID:410514061
@@ -61,7 +60,7 @@ LOCATION:Veselská\, Žďár nad Sázavou
 GEO:49.562050;15.937647
 URL:geo:49.562050,15.937647
 DESCRIPTION:📍 Veselská\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n💬 Transport
-  pacienta na žádost ZZS.\n\n🚒 CAS (CHS Žďár nad Sázavou)
+  pacienta na žádost ZZS.
 END:VEVENT
 BEGIN:VEVENT
 UID:410516061
@@ -73,8 +72,7 @@ LOCATION:Knínice
 GEO:49.091992;15.600826
 URL:geo:49.091992,15.600826
 DESCRIPTION:📍 Knínice\, Jihlava\n💬 DN 1 OA se zraněním 1 osoby. Zajištění m
- ísta nehody proti požáru a úniku provozních kapalin.\n\n🚒 CAS (HS Jemnice)
- \n🚒 CAS (Želetava)
+ ísta nehody proti požáru a úniku provozních kapalin.
 END:VEVENT
 BEGIN:VEVENT
 UID:410517061
@@ -86,7 +84,7 @@ LOCATION:Velká Bíteš
 GEO:49.287790;16.230562
 URL:geo:49.287790,16.230562
 DESCRIPTION:📍 Velká Bíteš\, Žďár nad Sázavou\n💬 Záchrana kačenek z vodní ná
- drže.\n\n🚒 CAS (HS Velká Bíteš)
+ drže.
 END:VEVENT
 BEGIN:VEVENT
 UID:410518061
@@ -98,8 +96,7 @@ LOCATION:Třebíč
 GEO:49.207044;15.896423
 URL:geo:49.207044,15.896423
 DESCRIPTION:📍 Jejkov\, Třebíč\n💬 Požár keřů 2 x 20 m. Lokalizace a likvidac
- e.\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (CHS Třebíč)\n🚒 CAS (Jaroměřice nad Rokytn
- ou)\n🚒 CAS (Jaroměřice nad Rokytnou)\n🚒 CAS (Stařeč)
+ e.
 END:VEVENT
 BEGIN:VEVENT
 UID:410519061
@@ -110,8 +107,7 @@ SUMMARY:🔥 les - Třebíč
 LOCATION:Třebíč
 GEO:49.222497;15.878662
 URL:geo:49.222497,15.878662
-DESCRIPTION:📍 Týn\, Třebíč\n💬 Požár pařezu. Lokalizace a likvidace.\n\n🚒 CA
- S (CHS Třebíč)
+DESCRIPTION:📍 Týn\, Třebíč\n💬 Požár pařezu. Lokalizace a likvidace.
 END:VEVENT
 BEGIN:VEVENT
 UID:410521061
@@ -123,7 +119,7 @@ LOCATION:Jihlava
 GEO:49.394829;15.553216
 URL:geo:49.394829,15.553216
 DESCRIPTION:📍 Horní Kosov\, Jihlava\n💬 Požár květináče. Lokalizace a likvid
- ace.\n\n🚒 CAS (CHS Jihlava)
+ ace.
 END:VEVENT
 BEGIN:VEVENT
 UID:410523061
@@ -135,7 +131,7 @@ LOCATION:Koroužné
 GEO:49.522425;16.358726
 URL:geo:49.522425,16.358726
 DESCRIPTION:📍 Švařec\, Koroužné\, Žďár nad Sázavou\n💬 Likvidace úniku oleje
-  z komunikace.\n\n🚒 CAS (HS Bystřice nad Pernštejnem)
+  z komunikace.
 END:VEVENT
 BEGIN:VEVENT
 UID:410524061
@@ -147,7 +143,6 @@ LOCATION:Třešť
 GEO:49.288601;15.530943
 URL:geo:49.288601,15.530943
 DESCRIPTION:📍 Třešť\, Jihlava\n💬 Požár lesa. Lokalizace a likvidace požáru.
- \n\n🚒 CAS (HS Třešť)\n🚒 CAS (Batelov)\n🚒 CAS (Třešť)
 END:VEVENT
 BEGIN:VEVENT
 UID:410525061
@@ -159,8 +154,7 @@ LOCATION:Stránecká Zhoř
 GEO:49.362611;15.927620
 URL:geo:49.362611,15.927620
 DESCRIPTION:📍 Frankův Zhořec\, Stránecká Zhoř\, Žďár nad Sázavou\n💬 Převrác
- ená čtyřkolka\, provedeno zabezečení místa nehody.\n\n🚒 CAS (HS Velké Mezi
- říčí)\n🚒 RZA (HS Velké Meziříčí)
+ ená čtyřkolka\, provedeno zabezečení místa nehody.
 END:VEVENT
 BEGIN:VEVENT
 UID:410535061
@@ -172,8 +166,7 @@ LOCATION:Lípová\, Jihlava
 GEO:49.402018;15.557936
 URL:geo:49.402018,15.557936
 DESCRIPTION:📍 Lípová\, Horní Kosov\, Jihlava\n💬 Požár thůjí a plotu na zahr
- adě.  Lokalizace a likvidace.\n\n🚒 CAS (CHS Jihlava) ×2\n🚒 CAS (Jihlava-Be
- dřichov)\n🚒 vyšetřovací automobil (ÚO Jihlava)
+ adě.  Lokalizace a likvidace.
 END:VEVENT
 BEGIN:VEVENT
 UID:410539061
@@ -184,8 +177,7 @@ SUMMARY:🛠️ ostatní - Jihlava
 LOCATION:Březinova\, Jihlava
 GEO:49.398927;15.606192
 URL:geo:49.398927,15.606192
-DESCRIPTION:📍 Březinova\, Jihlava\n💬 Pomoc imobilní osobě.\n\n🚒 CAS (CHS Ji
- hlava)
+DESCRIPTION:📍 Březinova\, Jihlava\n💬 Pomoc imobilní osobě.
 END:VEVENT
 BEGIN:VEVENT
 UID:410540061
@@ -197,8 +189,7 @@ LOCATION:Stránecká Zhoř
 GEO:49.378308;15.946891
 URL:geo:49.378308,15.946891
 DESCRIPTION:📍 Kochánov\, Stránecká Zhoř\, Žďár nad Sázavou\n💬 Likvidace ole
- jové skvrny po technické závadě na OA pomocí sorbentu.\n\n🚒 CAS (HS Velké 
- Meziříčí)\n🚒 RZA (HS Velké Meziříčí)
+ jové skvrny po technické závadě na OA pomocí sorbentu.
 END:VEVENT
 BEGIN:VEVENT
 UID:410545061
@@ -210,7 +201,7 @@ LOCATION:Jakubov u Moravských Budějovic
 GEO:49.077443;15.775493
 URL:geo:49.077443,15.775493
 DESCRIPTION:📍 Jakubov u Moravských Budějovic\, Třebíč\n💬 Znečištění potoka.
-  Předáno ŽP.\n\n🚒 CAS (HS Moravské Budějovice)
+  Předáno ŽP.
 END:VEVENT
 BEGIN:VEVENT
 UID:410547061
@@ -222,8 +213,7 @@ LOCATION:Krátká\, Kamenice nad Lipou
 GEO:49.296893;15.076674
 URL:geo:49.296893,15.076674
 DESCRIPTION:📍 Krátká\, Kamenice nad Lipou\, Pelhřimov\n💬 DN 3 OA\, bez zran
- ění. Zajištění místa nehody. Likvidace úniku PHM pomocí sorbentu.\n\n🚒 CAS
-  (HS Kamenice nad Lipou)
+ ění. Zajištění místa nehody. Likvidace úniku PHM pomocí sorbentu.
 END:VEVENT
 BEGIN:VEVENT
 UID:410548061
@@ -235,7 +225,7 @@ LOCATION:Hybrálec
 GEO:49.428915;15.556465
 URL:geo:49.428915,15.556465
 DESCRIPTION:📍 Hybrálec\, Jihlava\n💬 Zajištění úniku plynu z poškozeného ply
- nového potrubí.\n\n🚒 CAS (CHS Jihlava)
+ nového potrubí.
 END:VEVENT
 BEGIN:VEVENT
 UID:410550061
@@ -247,8 +237,7 @@ LOCATION:Jimramov
 GEO:49.640209;16.233442
 URL:geo:49.640209,16.233442
 DESCRIPTION:📍 Sedliště\, Jimramov\, Žďár nad Sázavou\n💬 DN 1 OA\, na místě 
- jedna zraněná osoba. Zajištění místa nehody. Spolupráce se složkami IZS.\n
- \n🚒 CAS (HS Bystřice nad Pernštejnem)\n🚒 CAS (HS Polička)
+ jedna zraněná osoba. Zajištění místa nehody. Spolupráce se složkami IZS.
 END:VEVENT
 BEGIN:VEVENT
 UID:410551061
@@ -259,8 +248,7 @@ SUMMARY:🛠️ otevření bytu/auta - Chotěboř
 LOCATION:Krále Jana\, Chotěboř
 GEO:49.716723;15.669011
 URL:geo:49.716723,15.669011
-DESCRIPTION:📍 Krále Jana\, Chotěboř\, Havlíčkův Brod\n💬 Otevření bytu.\n\n🚒
-  CAS (HS Chotěboř)
+DESCRIPTION:📍 Krále Jana\, Chotěboř\, Havlíčkův Brod\n💬 Otevření bytu.
 END:VEVENT
 BEGIN:VEVENT
 UID:410553061
@@ -272,7 +260,7 @@ LOCATION:Sněžné
 GEO:49.672325;16.106216
 URL:geo:49.672325,16.106216
 DESCRIPTION:📍 Podlesí\, Sněžné\, Žďár nad Sázavou\n💬 Transport pacienta na 
- žádost ZZS.\n\n🚒 CAS (CHS Žďár nad Sázavou)
+ žádost ZZS.
 END:VEVENT
 BEGIN:VEVENT
 UID:410557061
@@ -284,7 +272,7 @@ LOCATION:Husova\, Třebíč
 GEO:49.213150;15.884615
 URL:geo:49.213150,15.884615
 DESCRIPTION:📍 Husova\, Třebíč\n💬 DN 2 OA se zraněním dvou osob. Jednotka pr
- ovedla zajištění místa nehody.\n\n🚒 CAS (CHS Třebíč)
+ ovedla zajištění místa nehody.
 END:VEVENT
 BEGIN:VEVENT
 UID:410559061
@@ -296,8 +284,7 @@ LOCATION:Světlá nad Sázavou
 GEO:49.663059;15.351945
 URL:geo:49.663059,15.351945
 DESCRIPTION:📍 Leštinka\, Světlá nad Sázavou\, Havlíčkův Brod\n💬 Technická z
- ávada na výfukovém potrubí OA. Zajištění místa události.\n\n🚒 CAS (HS Svět
- lá nad Sázavou)
+ ávada na výfukovém potrubí OA. Zajištění místa události.
 END:VEVENT
 BEGIN:VEVENT
 UID:410560061
@@ -309,9 +296,7 @@ LOCATION:Bítovčice
 GEO:49.357377;15.742521
 URL:geo:49.357377,15.742521
 DESCRIPTION:📍 Bítovčice\, Jihlava\n💬 Požár odpadu a suché trávy. Provedena 
- lokalizace a likvidace požáru.\n\n🚒 CAS (CHS Jihlava)\n🚒 CAS (Luka nad Jih
- lavou)\n🚒 CAS (Luka nad Jihlavou)\n🚒 CAS (Bítovčice)\n🚒 nákladní automobil
-  do 3500 kg (Bítovčice)
+ lokalizace a likvidace požáru.
 END:VEVENT
 BEGIN:VEVENT
 UID:410562061
@@ -322,8 +307,7 @@ SUMMARY:🛠️ strom - Píšť
 LOCATION:Píšť
 GEO:49.606524;15.212219
 URL:geo:49.606524,15.212219
-DESCRIPTION:📍 Vranice\, Píšť\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 CAS (Pí
- šť)
+DESCRIPTION:📍 Vranice\, Píšť\, Pelhřimov\n💬 Odstranění stromu.
 END:VEVENT
 BEGIN:VEVENT
 UID:410563061
@@ -335,9 +319,7 @@ LOCATION:Žďár nad Sázavou
 GEO:49.556060;15.922136
 URL:geo:49.556060,15.922136
 DESCRIPTION:💬 Požár lesního porostu 50x50 m\, bez zranění. Provedena lokali
- zace a likvidace požáru.\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (CHS Žďár 
- nad Sázavou)\n🚒 CAS (Žďár nad Sázavou-Zámek) ×4\n🚒 účelový automobil do 35
- 00 kg (ÚO Žďár nad Sázavou)
+ zace a likvidace požáru.
 END:VEVENT
 BEGIN:VEVENT
 UID:410565061
@@ -349,9 +331,7 @@ LOCATION:Mohelno
 GEO:49.102627;16.180768
 URL:geo:49.102627,16.180768
 DESCRIPTION:📍 Mohelno\, Třebíč\n💬 Požár ohlášený systémem elektrické požárn
- í signalizace. Průzkumem bylo zjištěno\, že se jedná o planý poplach.\n\n🚒
-  CAS (HS Hrotovice)\n🚒 CAS (HS Náměšť nad Oslavou)\n🚒 CAS (Mohelno)\n🚒 nák
- ladní automobil do 3500 kg (Mohelno)
+ í signalizace. Průzkumem bylo zjištěno\, že se jedná o planý poplach.
 END:VEVENT
 BEGIN:VEVENT
 UID:410568061
@@ -363,9 +343,7 @@ LOCATION:Javorek
 GEO:49.646336;16.171708
 URL:geo:49.646336,16.171708
 DESCRIPTION:📍 Javorek\, Žďár nad Sázavou\n💬 Požár suché trávy\, bez zranění
- . Provedena lokalizace a likvidace požáru.\n\n🚒 CAS (HS Bystřice nad Pernš
- tejnem)\n🚒 DA (Jimramov)\n🚒 CAS (Jimramov)\n🚒 DA (Javorek)\n🚒 DA (Sněžné)\
- n🚒 CAS (Sněžné)\n🚒 účelový automobil do 3500 kg (ÚO Žďár nad Sázavou)
+ . Provedena lokalizace a likvidace požáru.
 END:VEVENT
 BEGIN:VEVENT
 UID:410570061
@@ -377,8 +355,7 @@ LOCATION:Nová Cerekev
 GEO:49.420420;15.115702
 URL:geo:49.420420,15.115702
 DESCRIPTION:📍 Nová Cerekev\, Pelhřimov\n💬 Požár trávy\, beze škody\, se zra
- něním jedné osoby. Provedena lokalizace a likvidace požáru.\n\n🚒 CAS (CHS 
- Pelhřimov)\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (HS Pacov)\n🚒 CAS (Nová Cerekev)
+ něním jedné osoby. Provedena lokalizace a likvidace požáru.
 END:VEVENT
 BEGIN:VEVENT
 UID:410571061
@@ -390,9 +367,7 @@ LOCATION:Žirovnice
 GEO:49.285449;15.149938
 URL:geo:49.285449,15.149938
 DESCRIPTION:📍 Stranná\, Žirovnice\, Pelhřimov\n💬 Požár lesního porostu. Pro
- vedena lokalizace a likvidace požáru.\n\n🚒 CAS (HS Kamenice nad Lipou)\n🚒 
- CAS (HS Kamenice nad Lipou)\n🚒 CAS (Počátky) ×2\n🚒 DA (Žirovnice)\n🚒 CAS (
- Žirovnice)\n🚒 CAS (Žirovnice)\n🚒 vyšetřovací automobil (ÚO Pelhřimov)
+ vedena lokalizace a likvidace požáru.
 END:VEVENT
 BEGIN:VEVENT
 UID:410572061
@@ -404,14 +379,7 @@ LOCATION:Želetava
 GEO:49.102857;15.680388
 URL:geo:49.102857,15.680388
 DESCRIPTION:📍 Šašovice\, Želetava\, Třebíč\n💬 Požár lesního porostu. Byla p
- rovedena lokalizace a likvidace požáru.\n\n🚒 CAS (HS Moravské Budějovice) 
- ×2\n🚒 CAS (HS Moravské Budějovice) ×2\n🚒 DA (Lesonice)\n🚒 CAS (Lesonice)\n
- 🚒 DA (Želetava-Šašovice)\n🚒 DA (Želetava)\n🚒 CAS (Želetava) ×3\n🚒 CAS (Bab
- ice (TR))\n🚒 CAS (Nová Říše)\n🚒 CAS (Stará Říše)\n🚒 DA (Čáslavice)\n🚒 CAS 
- (Čáslavice)\n🚒 DA (Želetava-Horky)\n🚒 CAS (Předín) ×2\n🚒 DA (Moravské Budě
- jovice)\n🚒 CAS (Moravské Budějovice)\n🚒 vyšetřovací automobil (ÚO Třebíč)\
- n🚒 CAS (Jaroměřice nad Rokytnou)\n🚒 VEA (CHS Třebíč)\n🚒 vozidlo účelové - 
- SxS (CHS Třebíč)\n🚒 přívěs nákladní (CHS Třebíč)
+ rovedena lokalizace a likvidace požáru.
 END:VEVENT
 BEGIN:VEVENT
 UID:410573061
@@ -423,8 +391,7 @@ LOCATION:nám. Míru\, Jaroměřice nad Rokytnou
 GEO:49.094255;15.892488
 URL:geo:49.094255,15.892488
 DESCRIPTION:📍 nám. Míru\, Jaroměřice nad Rokytnou\, Třebíč\n💬 Planý poplach
- .\n\n🚒 CAS (HS Moravské Budějovice)\n🚒 CAS (Jaroměřice nad Rokytnou)\n🚒 CA
- S (Moravské Budějovice)
+ .
 END:VEVENT
 BEGIN:VEVENT
 UID:410574061
@@ -436,7 +403,7 @@ LOCATION:Havlíčkova\, Jihlava
 GEO:49.411805;15.594741
 URL:geo:49.411805,15.594741
 DESCRIPTION:📍 Havlíčkova\, Jihlava\n💬 Únik plynu z poškozené karmy. Zajiště
- ní místa události.\n\n🚒 CAS (CHS Jihlava)
+ ní místa události.
 END:VEVENT
 BEGIN:VEVENT
 UID:410578061
@@ -448,12 +415,7 @@ LOCATION:Pelhřimov
 GEO:49.455681;15.165353
 URL:geo:49.455681,15.165353
 DESCRIPTION:📍 Lipice\, Pelhřimov\n💬 Požár lesa\, bez zranění. Provedena lok
- alizace a likvidace požáru.\n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (CHS Pelhřimov
- )\n🚒 VEA (CHS Pelhřimov)\n🚒 CAS (Nová Cerekev)\n🚒 DA (Pelhřimov-Lipice)\n🚒
-  CAS (HS Pacov)\n🚒 DA (Červená Řečice)\n🚒 CAS (Červená Řečice)\n🚒 DA (Oleš
- ná (PE))\n🚒 CAS (Olešná (PE))\n🚒 přívěs nákladní (Olešná (PE))\n🚒 přívěs m
- otorová stříkačka (Olešná (PE))\n🚒 DA (Pelhřimov-Čakovice)\n🚒 vyšetřovací 
- automobil (ÚO Pelhřimov)
+ alizace a likvidace požáru.
 END:VEVENT
 BEGIN:VEVENT
 UID:410580061
@@ -464,8 +426,7 @@ SUMMARY:🛠️ ostatní - Nová Cerekev
 LOCATION:Nová Cerekev
 GEO:49.441002;15.150833
 URL:geo:49.441002,15.150833
-DESCRIPTION:📍 Nová Cerekev\, Pelhřimov\n💬 Odstranění nebezpečných stavů.\n\
- n🚒 CAS (CHS Pelhřimov)
+DESCRIPTION:📍 Nová Cerekev\, Pelhřimov\n💬 Odstranění nebezpečných stavů.
 END:VEVENT
 BEGIN:VEVENT
 UID:410582061
@@ -476,9 +437,7 @@ SUMMARY:🔥 les - Cejle
 LOCATION:Cejle
 GEO:49.366757;15.429523
 URL:geo:49.366757,15.429523
-DESCRIPTION:📍 Hutě\, Cejle\, Jihlava\n💬 Dohašení požářiště.\n\n🚒 CAS (CHS J
- ihlava)\n🚒 CAS (CHS Jihlava)\n🚒 čerpadlo plovoucí (CHS Jihlava)\n🚒 CAS (Do
- lní Cerekev)\n🚒 přívěs motorová stříkačka (Cejle)
+DESCRIPTION:📍 Hutě\, Cejle\, Jihlava\n💬 Dohašení požářiště.
 END:VEVENT
 BEGIN:VEVENT
 UID:410587061
@@ -490,10 +449,7 @@ LOCATION:Nový Rychnov
 GEO:49.364777;15.308241
 URL:geo:49.364777,15.308241
 DESCRIPTION:📍 Čejkov\, Nový Rychnov\, Pelhřimov\n💬 Požár lesa\, bez zranění
- . Provedena lokalizace a likvidace požáru.\n\n🚒 CAS (Horní Cerekev)\n🚒 CAS
-  (Hojkov)\n🚒 CAS (Nový Rychnov)\n🚒 osobní automobil (Nový Rychnov-Čejkov)\
- n🚒 CAS (CHS Pelhřimov)\n🚒 přívěs nákladní (Nová Buková)\n🚒 vyšetřovací aut
- omobil (ÚO Pelhřimov)
+ . Provedena lokalizace a likvidace požáru.
 END:VEVENT
 BEGIN:VEVENT
 UID:410589061
@@ -504,8 +460,7 @@ SUMMARY:🔥 venkovní požár - Kněžice
 LOCATION:Kněžice
 GEO:49.264944;15.662749
 URL:geo:49.264944,15.662749
-DESCRIPTION:📍 Kněžice\, Jihlava\n💬 Dohašení ohniště po pálení.\n\n🚒 CAS (Kn
- ěžice)
+DESCRIPTION:📍 Kněžice\, Jihlava\n💬 Dohašení ohniště po pálení.
 END:VEVENT
 BEGIN:VEVENT
 UID:410591061
@@ -517,8 +472,7 @@ LOCATION:Slovanského bratrství\, Pelhřimov
 GEO:49.434191;15.232002
 URL:geo:49.434191,15.232002
 DESCRIPTION:📍 Slovanského bratrství\, Pelhřimov\n💬 DN 2 OA\, bez zranění. L
- ikvidace úniku PHM pomocí sorbentu. Zajištění místa nehody.\n\n🚒 CAS (CHS 
- Pelhřimov)
+ ikvidace úniku PHM pomocí sorbentu. Zajištění místa nehody.
 END:VEVENT
 BEGIN:VEVENT
 UID:410593061
@@ -530,7 +484,7 @@ LOCATION:Brodská\, Žďár nad Sázavou
 GEO:49.564575;15.931569
 URL:geo:49.564575,15.931569
 DESCRIPTION:📍 Brodská\, Žďár nad Sázavou 3\, Žďár nad Sázavou\n💬 Otevření b
- ytu.\n\n🚒 CAS (CHS Žďár nad Sázavou)
+ ytu.
 END:VEVENT
 BEGIN:VEVENT
 UID:410595061
@@ -541,8 +495,7 @@ SUMMARY:🛠️ otevření bytu/auta - Havlíčkův Brod
 LOCATION:Humpolecká\, Havlíčkův Brod
 GEO:49.603180;15.569212
 URL:geo:49.603180,15.569212
-DESCRIPTION:📍 Humpolecká\, Havlíčkův Brod\n💬 Otevření bytu.\n\n🚒 CAS (CHS H
- avlíčkův Brod)
+DESCRIPTION:📍 Humpolecká\, Havlíčkův Brod\n💬 Otevření bytu.
 END:VEVENT
 BEGIN:VEVENT
 UID:410598061
@@ -554,7 +507,7 @@ LOCATION:Jihlava
 GEO:49.452600;15.612163
 URL:geo:49.452600,15.612163
 DESCRIPTION:📍 Pávov\, Jihlava\n💬 DN 1 OA\, jedna zraněná osoba. Zajištění m
- ísta události.\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihlava)
+ ísta události.
 END:VEVENT
 BEGIN:VEVENT
 UID:410600061
@@ -565,9 +518,7 @@ SUMMARY:🔥 venkovní požár - Havlíčkův Brod
 LOCATION:Havlíčkův Brod
 GEO:49.595921;15.541239
 URL:geo:49.595921,15.541239
-DESCRIPTION:📍 Poděbaby\, Havlíčkův Brod\n💬 Dohašení doutnajícího ohniště.\n
- \n🚒 CAS (CHS Havlíčkův Brod)\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 CAS (Havlíčkův
-  Brod-Perknov)
+DESCRIPTION:📍 Poděbaby\, Havlíčkův Brod\n💬 Dohašení doutnajícího ohniště.
 END:VEVENT
 BEGIN:VEVENT
 UID:410601061
@@ -579,7 +530,7 @@ LOCATION:Radešín
 GEO:49.469333;16.098058
 URL:geo:49.469333,16.098058
 DESCRIPTION:📍 Radešín\, Žďár nad Sázavou\n💬 Dopravní nehoda elektrokoloběžk
- y. Provedeno zajištění místa události.\n\n🚒 CAS (CHS Žďár nad Sázavou)
+ y. Provedeno zajištění místa události.
 END:VEVENT
 BEGIN:VEVENT
 UID:410602061
@@ -590,8 +541,7 @@ SUMMARY:🚑 transport pacienta - Jihlava
 LOCATION:Sokolovská\, Jihlava
 GEO:49.410240;15.587134
 URL:geo:49.410240,15.587134
-DESCRIPTION:📍 Sokolovská\, Jihlava\n💬 Transport pacienta na žádost  ZZS.\n\
- n🚒 CAS (CHS Jihlava)
+DESCRIPTION:📍 Sokolovská\, Jihlava\n💬 Transport pacienta na žádost  ZZS.
 END:VEVENT
 BEGIN:VEVENT
 UID:410603061
@@ -603,7 +553,7 @@ LOCATION:Na Výšině\, Havlíčkův Brod
 GEO:49.617374;15.578104
 URL:geo:49.617374,15.578104
 DESCRIPTION:📍 Na Výšině\, Havlíčkův Brod\n💬 Otevření bytu a pomoc při zvedn
- utí imobilní osoby.\n\n🚒 CAS (CHS Havlíčkův Brod)
+ utí imobilní osoby.
 END:VEVENT
 BEGIN:VEVENT
 UID:410604061
@@ -615,8 +565,7 @@ LOCATION:Třebíč
 GEO:49.239859;15.896570
 URL:geo:49.239859,15.896570
 DESCRIPTION:📍 Pocoucov\, Třebíč\n💬 Požár rázu dřeva u RD. Byla provedena lo
- kalizace a likvidace požáru.\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (CHS Třebíč)\n🚒 
- DA (Třebíč-Pocoucov)\n🚒 CAS (Trnava)\n🚒 vyšetřovací automobil (ÚO Třebíč)
+ kalizace a likvidace požáru.
 END:VEVENT
 BEGIN:VEVENT
 UID:410606061
@@ -627,7 +576,7 @@ SUMMARY:🛠️ ostatní - Třeštice
 LOCATION:Třeštice
 GEO:49.245500;15.453212
 URL:geo:49.245500,15.453212
-DESCRIPTION:📍 Třeštice\, Jihlava\n💬 Dovoz vody.\n\n🚒 DA (Třeštice)
+DESCRIPTION:📍 Třeštice\, Jihlava\n💬 Dovoz vody.
 END:VEVENT
 BEGIN:VEVENT
 UID:410608061
@@ -639,7 +588,7 @@ LOCATION:Žďár nad Sázavou
 GEO:49.555336;15.920235
 URL:geo:49.555336,15.920235
 DESCRIPTION:📍 Žďár nad Sázavou 1\, Žďár nad Sázavou\n💬 Dohašení doutnajícíh
- o stromu.\n\n🚒 CAS (CHS Žďár nad Sázavou)
+ o stromu.
 END:VEVENT
 BEGIN:VEVENT
 UID:410609061
@@ -650,8 +599,7 @@ SUMMARY:🚑 transport pacienta - Pacov
 LOCATION:Žižkova\, Pacov
 GEO:49.466940;14.997013
 URL:geo:49.466940,14.997013
-DESCRIPTION:📍 Žižkova\, Pacov\, Pelhřimov\n💬 Předlékařská pomoc.\n\n🚒 CAS (
- HS Pacov)
+DESCRIPTION:📍 Žižkova\, Pacov\, Pelhřimov\n💬 Předlékařská pomoc.
 END:VEVENT
 BEGIN:VEVENT
 UID:410610061
@@ -662,7 +610,7 @@ SUMMARY:🛠️ ostatní - Horní Cerekev
 LOCATION:Horní Cerekev
 GEO:49.320260;15.327690
 URL:geo:49.320260,15.327690
-DESCRIPTION:📍 Horní Cerekev\, Pelhřimov\n💬 ZOČ.\n\n🚒 CAS (Horní Cerekev)
+DESCRIPTION:📍 Horní Cerekev\, Pelhřimov\n💬 ZOČ.
 END:VEVENT
 BEGIN:VEVENT
 UID:410611061
@@ -674,7 +622,7 @@ LOCATION:Třebelovice
 GEO:49.015032;15.675912
 URL:geo:49.015032,15.675912
 DESCRIPTION:📍 Třebelovice\, Třebíč\n💬 Ohlášeno doutnající ohniště\, průzkum
- em zjištěno\, že se jedná o  pálení - planý poplach.\n\n🚒 CAS (HS Jemnice)
+ em zjištěno\, že se jedná o  pálení - planý poplach.
 END:VEVENT
 BEGIN:VEVENT
 UID:410612061
@@ -686,8 +634,7 @@ LOCATION:Jabloňov
 GEO:49.318364;16.094337
 URL:geo:49.318364,16.094337
 DESCRIPTION:📍 Jabloňov\, Žďár nad Sázavou\n💬 DN 2 x OA\, jedna zraněná osob
- a. Zajištění místa nehody.\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (HS Velké M
- eziříčí)
+ a. Zajištění místa nehody.
 END:VEVENT
 BEGIN:VEVENT
 UID:410619061
@@ -698,8 +645,7 @@ SUMMARY:🔥 technologie - Batelov
 LOCATION:Batelov
 GEO:49.320462;15.372526
 URL:geo:49.320462,15.372526
-DESCRIPTION:📍 Bezděčín\, Batelov\, Jihlava\n💬 Požár hromady dřeva.\n\n🚒 CAS
-  (HS Třešť)\n🚒 CAS (Horní Cerekev)\n🚒 CAS (Batelov)
+DESCRIPTION:📍 Bezděčín\, Batelov\, Jihlava\n💬 Požár hromady dřeva.
 END:VEVENT
 BEGIN:VEVENT
 UID:410622061
@@ -710,9 +656,7 @@ SUMMARY:🔥 venkovní požár - Žirovnice
 LOCATION:Žirovnice
 GEO:49.286151;15.150854
 URL:geo:49.286151,15.150854
-DESCRIPTION:📍 Stranná\, Žirovnice\, Pelhřimov\n💬 Dohašení ohniště.\n\n🚒 CAS
-  (HS Kamenice nad Lipou)\n🚒 CAS (HS Kamenice nad Lipou)\n🚒 DA (Žirovnice)\
- n🚒 CAS (Žirovnice)\n🚒 CAS (Žirovnice)
+DESCRIPTION:📍 Stranná\, Žirovnice\, Pelhřimov\n💬 Dohašení ohniště.
 END:VEVENT
 BEGIN:VEVENT
 UID:410626061
@@ -723,10 +667,7 @@ SUMMARY:🔥 les - Rohozná
 LOCATION:Rohozná
 GEO:49.361548;15.407732
 URL:geo:49.361548,15.407732
-DESCRIPTION:📍 Rohozná\, Jihlava\n\n🚒 CAS (HS Třešť)\n🚒 CAS (Dolní Cerekev)\
- n🚒 CAS (Dolní Cerekev)\n🚒 CAS (Nový Rychnov)\n🚒 CAS (Rohozná)\n🚒 CAS (Roho
- zná)\n🚒 CAS (CHS Jihlava)\n🚒 CAS (CHS Jihlava)\n🚒 CAS (Batelov)\n🚒 CAS (Ho
- jkov)\n🚒 vyšetřovací automobil (ÚO Jihlava)
+DESCRIPTION:📍 Rohozná\, Jihlava
 END:VEVENT
 BEGIN:VEVENT
 UID:410627061
@@ -737,7 +678,7 @@ SUMMARY:🔥 venkovní požár - Lipník
 LOCATION:Lipník
 GEO:49.136781;15.962948
 URL:geo:49.136781,15.962948
-DESCRIPTION:📍 Lipník\, Třebíč\n\n🚒 CAS (Lipník)
+DESCRIPTION:📍 Lipník\, Třebíč
 END:VEVENT
 BEGIN:VEVENT
 UID:410628061
@@ -748,8 +689,7 @@ SUMMARY:🛠️ otevření bytu/auta - Škrdlovice
 LOCATION:Škrdlovice
 GEO:49.636886;15.922787
 URL:geo:49.636886,15.922787
-DESCRIPTION:📍 Škrdlovice\, Žďár nad Sázavou\n💬 Otevření RD.\n\n🚒 CAS (CHS Ž
- ďár nad Sázavou)
+DESCRIPTION:📍 Škrdlovice\, Žďár nad Sázavou\n💬 Otevření RD.
 END:VEVENT
 BEGIN:VEVENT
 UID:410629061
@@ -760,7 +700,7 @@ SUMMARY:🔥 odpad - Pelhřimov
 LOCATION:Pelhřimov
 GEO:49.425654;15.223349
 URL:geo:49.425654,15.223349
-DESCRIPTION:💬 Požár odpadkového koše.\n\n🚒 CAS (CHS Pelhřimov)
+DESCRIPTION:💬 Požár odpadkového koše.
 END:VEVENT
 BEGIN:VEVENT
 UID:410631061
@@ -771,7 +711,7 @@ SUMMARY:🚗 dopravní nehoda - Osová Bítýška
 LOCATION:Osová Bítýška
 GEO:49.310065;16.115330
 URL:geo:49.310065,16.115330
-DESCRIPTION:📍 Osová Bítýška\, Žďár nad Sázavou\n\n🚒 CAS (HS Velká Bíteš)
+DESCRIPTION:📍 Osová Bítýška\, Žďár nad Sázavou
 END:VEVENT
 BEGIN:VEVENT
 UID:410632061
@@ -780,7 +720,7 @@ DTEND:20260503T140858Z
 DTSTAMP:20260503T130858Z
 SUMMARY:🛠️ strom - Dešov
 LOCATION:Dešov
-DESCRIPTION:📍 Dešov\, Třebíč\n💬 Odstranění stromu.\n\n🚒 CAS (HS Jemnice) ×2
+DESCRIPTION:📍 Dešov\, Třebíč\n💬 Odstranění stromu.
 END:VEVENT
 BEGIN:VEVENT
 UID:410634061
@@ -792,8 +732,7 @@ LOCATION:Velké Meziříčí
 GEO:49.359208;15.995525
 URL:geo:49.359208,15.995525
 DESCRIPTION:📍 Velké Meziříčí\, Žďár nad Sázavou\n💬 DN OA a motorky\, bez zr
- anění. Zajištění místa nehody\, provedení protipožární opatření.\n\n🚒 CAS 
- (HS Velké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)
+ anění. Zajištění místa nehody\, provedení protipožární opatření.
 END:VEVENT
 BEGIN:VEVENT
 UID:410635061
@@ -804,8 +743,7 @@ SUMMARY:🚗 úklid místa - Jihlava
 LOCATION:Jihlava
 GEO:49.460892;15.609464
 URL:geo:49.460892,15.609464
-DESCRIPTION:📍 Červený Kříž\, Jihlava\n\n🚒 CAS (CHS Jihlava) ×2\n🚒 RZA (CHS 
- Jihlava) ×2
+DESCRIPTION:📍 Červený Kříž\, Jihlava
 END:VEVENT
 BEGIN:VEVENT
 UID:410636061
@@ -816,8 +754,7 @@ SUMMARY:⚠️ planý poplach - Brtnice
 LOCATION:Družstevní\, Brtnice
 GEO:49.310292;15.672573
 URL:geo:49.310292,15.672573
-DESCRIPTION:📍 Družstevní\, Brtnice\, Jihlava\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA 
- (CHS Jihlava)\n🚒 CAS (Brtnice)
+DESCRIPTION:📍 Družstevní\, Brtnice\, Jihlava
 END:VEVENT
 BEGIN:VEVENT
 UID:410641061
@@ -828,7 +765,17 @@ SUMMARY:🔥 tráva/plocha - Růžená
 LOCATION:Růžená
 GEO:49.273524;15.434624
 URL:geo:49.273524,15.434624
-DESCRIPTION:📍 Růžená\, Jihlava\n\n🚒 CAS (HS Telč)\n🚒 CAS (HS Telč)\n🚒 CAS (
- Hodice)
+DESCRIPTION:📍 Růžená\, Jihlava
+END:VEVENT
+BEGIN:VEVENT
+UID:410644061
+DTSTART:20260503T140354Z
+DTEND:20260503T150354Z
+DTSTAMP:20260503T140354Z
+SUMMARY:🔥 tráva/plocha - Fryšava pod Žákovou horou
+LOCATION:Fryšava pod Žákovou horou
+GEO:49.657143;16.035787
+URL:geo:49.657143,16.035787
+DESCRIPTION:📍 Fryšava pod Žákovou horou\, Žďár nad Sázavou
 END:VEVENT
 END:VCALENDAR
