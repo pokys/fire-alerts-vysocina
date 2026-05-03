@@ -5,30 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:410505061
-DTSTART:20260501T134650Z
-DTEND:20260501T144650Z
-DTSTAMP:20260501T134650Z
-SUMMARY:🛠️ otevření bytu/auta - Uhřínov
-LOCATION:Uhřínov
-GEO:49.352182;15.932125
-URL:geo:49.352182,15.932125
-DESCRIPTION:📍 Uhřínov\, Žďár nad Sázavou\n💬 Otevření RD.\n\n🚒 RZA (HS Velké
-  Meziříčí)
-END:VEVENT
-BEGIN:VEVENT
-UID:410506061
-DTSTART:20260501T135540Z
-DTEND:20260501T145540Z
-DTSTAMP:20260501T135540Z
-SUMMARY:🛠️ otevření bytu/auta - Polná
-LOCATION:Žejdlicova\, Polná
-GEO:49.485213;15.714286
-URL:geo:49.485213,15.714286
-DESCRIPTION:📍 Žejdlicova\, Polná\, Jihlava\n💬 Otevření bytu.\n\n🚒 CAS (HS P
- olná)
-END:VEVENT
-BEGIN:VEVENT
 UID:410509061
 DTSTART:20260501T153323Z
 DTEND:20260501T163323Z
@@ -772,7 +748,8 @@ SUMMARY:🛠️ otevření bytu/auta - Škrdlovice
 LOCATION:Škrdlovice
 GEO:49.636886;15.922787
 URL:geo:49.636886,15.922787
-DESCRIPTION:📍 Škrdlovice\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad Sázavou)
+DESCRIPTION:📍 Škrdlovice\, Žďár nad Sázavou\n💬 Otevření RD.\n\n🚒 CAS (CHS Ž
+ ďár nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:410629061
@@ -803,7 +780,7 @@ DTEND:20260503T140858Z
 DTSTAMP:20260503T130858Z
 SUMMARY:🛠️ strom - Dešov
 LOCATION:Dešov
-DESCRIPTION:📍 Dešov\, Třebíč\n\n🚒 CAS (HS Jemnice) ×2
+DESCRIPTION:📍 Dešov\, Třebíč\n💬 Odstranění stromu.\n\n🚒 CAS (HS Jemnice) ×2
 END:VEVENT
 BEGIN:VEVENT
 UID:410634061
@@ -814,8 +791,9 @@ SUMMARY:🚗 dopravní nehoda - Velké Meziříčí
 LOCATION:Velké Meziříčí
 GEO:49.359208;15.995525
 URL:geo:49.359208,15.995525
-DESCRIPTION:📍 Velké Meziříčí\, Žďár nad Sázavou\n\n🚒 CAS (HS Velké Meziříčí
- )\n🚒 RZA (HS Velké Meziříčí)
+DESCRIPTION:📍 Velké Meziříčí\, Žďár nad Sázavou\n💬 DN OA a motorky\, bez zr
+ anění. Zajištění místa nehody\, provedení protipožární opatření.\n\n🚒 CAS 
+ (HS Velké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)
 END:VEVENT
 BEGIN:VEVENT
 UID:410635061
@@ -826,19 +804,31 @@ SUMMARY:🚗 úklid místa - Jihlava
 LOCATION:Jihlava
 GEO:49.460892;15.609464
 URL:geo:49.460892,15.609464
-DESCRIPTION:📍 Červený Kříž\, Jihlava\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jih
- lava) ×2
+DESCRIPTION:📍 Červený Kříž\, Jihlava\n\n🚒 CAS (CHS Jihlava) ×2\n🚒 RZA (CHS 
+ Jihlava) ×2
 END:VEVENT
 BEGIN:VEVENT
 UID:410636061
 DTSTART:20260503T131524Z
 DTEND:20260503T141524Z
 DTSTAMP:20260503T131524Z
-SUMMARY:🔥 vozidlo - Brtnice
+SUMMARY:⚠️ planý poplach - Brtnice
 LOCATION:Družstevní\, Brtnice
 GEO:49.310292;15.672573
 URL:geo:49.310292,15.672573
 DESCRIPTION:📍 Družstevní\, Brtnice\, Jihlava\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA 
  (CHS Jihlava)\n🚒 CAS (Brtnice)
+END:VEVENT
+BEGIN:VEVENT
+UID:410641061
+DTSTART:20260503T134108Z
+DTEND:20260503T144108Z
+DTSTAMP:20260503T134108Z
+SUMMARY:🔥 tráva/plocha - Růžená
+LOCATION:Růžená
+GEO:49.273524;15.434624
+URL:geo:49.273524,15.434624
+DESCRIPTION:📍 Růžená\, Jihlava\n\n🚒 CAS (HS Telč)\n🚒 CAS (HS Telč)\n🚒 CAS (
+ Hodice)
 END:VEVENT
 END:VCALENDAR
