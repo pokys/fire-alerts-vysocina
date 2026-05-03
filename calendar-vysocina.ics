@@ -858,6 +858,21 @@ SUMMARY:🛠️ strom - Strážek
 LOCATION:Strážek
 GEO:49.439537;16.208417
 URL:geo:49.439537,16.208417
-DESCRIPTION:📍 Strážek\, Žďár nad Sázavou\n\n🚒 CAS (Strážek)
+DESCRIPTION:📍 Strážek\, Žďár nad Sázavou\n💬 Odstranění stromu.\n\n🚒 CAS (St
+ rážek)
+END:VEVENT
+BEGIN:VEVENT
+UID:410663061
+DTSTART:20260503T194057Z
+DTEND:20260503T204057Z
+DTSTAMP:20260503T194057Z
+SUMMARY:🔥 les - Havlíčkova Borová
+LOCATION:Havlíčkova Borová
+GEO:49.623080;15.756143
+URL:geo:49.623080,15.756143
+DESCRIPTION:📍 Železné Horky\, Havlíčkova Borová\, Havlíčkův Brod\n\n🚒 CAS (
+ CHS Havlíčkův Brod)\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 CAS (HS Chotěboř)\n🚒 CA
+ S (Česká Bělá)\n🚒 CAS (Havlíčkova Borová)\n🚒 CAS (Přibyslav)\n🚒 CAS (Přiby
+ slav)
 END:VEVENT
 END:VCALENDAR
