@@ -133,7 +133,8 @@ SUMMARY:🚑 transport pacienta - Pacov
 LOCATION:Žižkova\, Pacov
 GEO:49.466940;14.997013
 URL:geo:49.466940,14.997013
-DESCRIPTION:📍 Žižkova\, Pacov\, Pelhřimov\n\n🚒 CAS (HS Pacov)
+DESCRIPTION:📍 Žižkova\, Pacov\, Pelhřimov\n💬 Předlékařská pomoc.\n\n🚒 CAS (
+ HS Pacov)
 END:VEVENT
 BEGIN:VEVENT
 UID:410610061
@@ -168,6 +169,6 @@ SUMMARY:🔥 odpad - Pelhřimov
 LOCATION:Pelhřimov
 GEO:49.425654;15.223349
 URL:geo:49.425654,15.223349
-DESCRIPTION:🚒 CAS (CHS Pelhřimov)
+DESCRIPTION:💬 Požár odpadkového koše.\n\n🚒 CAS (CHS Pelhřimov)
 END:VEVENT
 END:VCALENDAR

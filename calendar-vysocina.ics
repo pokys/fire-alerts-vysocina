@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:410503061
-DTSTART:20260501T130625Z
-DTEND:20260501T140625Z
-DTSTAMP:20260501T130625Z
-SUMMARY:🚗 dopravní nehoda - Havlíčkův Brod
-LOCATION:Kyjovská\, Havlíčkův Brod
-GEO:49.609948;15.597354
-URL:geo:49.609948,15.597354
-DESCRIPTION:📍 Kyjovská\, Havlíčkův Brod\n💬 DN 2 OA se zraněním dvou osob. P
- rovedena PPO. Zajištění místa události.\n\n🚒 CAS (CHS Havlíčkův Brod)
-END:VEVENT
-BEGIN:VEVENT
 UID:410505061
 DTSTART:20260501T134650Z
 DTEND:20260501T144650Z
@@ -663,7 +651,7 @@ SUMMARY:🛠️ ostatní - Třeštice
 LOCATION:Třeštice
 GEO:49.245500;15.453212
 URL:geo:49.245500,15.453212
-DESCRIPTION:📍 Třeštice\, Jihlava\n\n🚒 DA (Třeštice)
+DESCRIPTION:📍 Třeštice\, Jihlava\n💬 Dovoz vody.\n\n🚒 DA (Třeštice)
 END:VEVENT
 BEGIN:VEVENT
 UID:410608061
@@ -686,7 +674,8 @@ SUMMARY:🚑 transport pacienta - Pacov
 LOCATION:Žižkova\, Pacov
 GEO:49.466940;14.997013
 URL:geo:49.466940,14.997013
-DESCRIPTION:📍 Žižkova\, Pacov\, Pelhřimov\n\n🚒 CAS (HS Pacov)
+DESCRIPTION:📍 Žižkova\, Pacov\, Pelhřimov\n💬 Předlékařská pomoc.\n\n🚒 CAS (
+ HS Pacov)
 END:VEVENT
 BEGIN:VEVENT
 UID:410610061
@@ -709,7 +698,7 @@ LOCATION:Třebelovice
 GEO:49.015032;15.675912
 URL:geo:49.015032,15.675912
 DESCRIPTION:📍 Třebelovice\, Třebíč\n💬 Ohlášeno doutnající ohniště\, průzkum
- em zjištěno\, že se jedná o planý poplach.\n\n🚒 CAS (HS Jemnice)
+ em zjištěno\, že se jedná o  pálení - planý poplach.\n\n🚒 CAS (HS Jemnice)
 END:VEVENT
 BEGIN:VEVENT
 UID:410612061
@@ -720,9 +709,9 @@ SUMMARY:🚗 se zraněním - Jabloňov
 LOCATION:Jabloňov
 GEO:49.318364;16.094337
 URL:geo:49.318364,16.094337
-DESCRIPTION:📍 Jabloňov\, Žďár nad Sázavou\n💬 DN 2 OA\, 1 zraněná osoba. Zaj
- ištění místa nehody\, provedení protipožární opatření.\n\n🚒 CAS (HS Velké 
- Meziříčí)\n🚒 RZA (HS Velké Meziříčí)
+DESCRIPTION:📍 Jabloňov\, Žďár nad Sázavou\n💬 DN 2 x OA\, jedna zraněná osob
+ a. Zajištění místa nehody.\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (HS Velké M
+ eziříčí)
 END:VEVENT
 BEGIN:VEVENT
 UID:410619061
@@ -761,7 +750,7 @@ URL:geo:49.361548,15.407732
 DESCRIPTION:📍 Rohozná\, Jihlava\n\n🚒 CAS (HS Třešť)\n🚒 CAS (Dolní Cerekev)\
  n🚒 CAS (Dolní Cerekev)\n🚒 CAS (Nový Rychnov)\n🚒 CAS (Rohozná)\n🚒 CAS (Roho
  zná)\n🚒 CAS (CHS Jihlava)\n🚒 CAS (CHS Jihlava)\n🚒 CAS (Batelov)\n🚒 CAS (Ho
- jkov)
+ jkov)\n🚒 vyšetřovací automobil (ÚO Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:410627061
@@ -794,6 +783,38 @@ SUMMARY:🔥 odpad - Pelhřimov
 LOCATION:Pelhřimov
 GEO:49.425654;15.223349
 URL:geo:49.425654,15.223349
-DESCRIPTION:🚒 CAS (CHS Pelhřimov)
+DESCRIPTION:💬 Požár odpadkového koše.\n\n🚒 CAS (CHS Pelhřimov)
+END:VEVENT
+BEGIN:VEVENT
+UID:410631061
+DTSTART:20260503T130348Z
+DTEND:20260503T140348Z
+DTSTAMP:20260503T130348Z
+SUMMARY:🚗 dopravní nehoda - Osová Bítýška
+LOCATION:Osová Bítýška
+GEO:49.310065;16.115330
+URL:geo:49.310065,16.115330
+DESCRIPTION:📍 Osová Bítýška\, Žďár nad Sázavou\n\n🚒 CAS (HS Velká Bíteš)
+END:VEVENT
+BEGIN:VEVENT
+UID:410632061
+DTSTART:20260503T130858Z
+DTEND:20260503T140858Z
+DTSTAMP:20260503T130858Z
+SUMMARY:🛠️ strom - Dešov
+LOCATION:Dešov
+DESCRIPTION:📍 Dešov\, Třebíč\n\n🚒 CAS (HS Jemnice) ×2
+END:VEVENT
+BEGIN:VEVENT
+UID:410634061
+DTSTART:20260503T130914Z
+DTEND:20260503T140914Z
+DTSTAMP:20260503T130914Z
+SUMMARY:🚗 dopravní nehoda - Velké Meziříčí
+LOCATION:Velké Meziříčí
+GEO:49.359208;15.995525
+URL:geo:49.359208,15.995525
+DESCRIPTION:📍 Velké Meziříčí\, Žďár nad Sázavou\n\n🚒 CAS (HS Velké Meziříčí
+ )\n🚒 RZA (HS Velké Meziříčí)
 END:VEVENT
 END:VCALENDAR
