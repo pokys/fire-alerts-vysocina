@@ -808,4 +808,15 @@ DESCRIPTION:📍 Pocoucov\, Třebíč\n💬 Požár rázu dřeva u RD. Byla prov
  kalizace a likvidace požáru.\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (CHS Třebíč)\n🚒 
  DA (Třebíč-Pocoucov)\n🚒 CAS (Trnava)\n🚒 vyšetřovací automobil (ÚO Třebíč)
 END:VEVENT
+BEGIN:VEVENT
+UID:410606061
+DTSTART:20260503T060916Z
+DTEND:20260503T070916Z
+DTSTAMP:20260503T060916Z
+SUMMARY:🛠️ ostatní - Třeštice
+LOCATION:Třeštice
+GEO:49.245500;15.453212
+URL:geo:49.245500,15.453212
+DESCRIPTION:📍 Třeštice\, Jihlava\n\n🚒 DA (Třeštice)
+END:VEVENT
 END:VCALENDAR
