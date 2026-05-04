@@ -5,21 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Pelhřimov
 BEGIN:VEVENT
-UID:410587061
-DTSTART:20260502T152350Z
-DTEND:20260502T162350Z
-DTSTAMP:20260502T152350Z
-SUMMARY:🔥 les - Nový Rychnov
-LOCATION:Nový Rychnov
-GEO:49.364777;15.308241
-URL:geo:49.364777,15.308241
-DESCRIPTION:📍 Čejkov\, Nový Rychnov\, Pelhřimov\n💬 Požár lesa\, bez zranění
- . Provedena lokalizace a likvidace požáru.\n\n🚒 CAS (Horní Cerekev)\n🚒 CAS
-  (Hojkov)\n🚒 CAS (Nový Rychnov)\n🚒 osobní automobil (Nový Rychnov-Čejkov)\
- n🚒 CAS (CHS Pelhřimov)\n🚒 přívěs nákladní (Nová Buková)\n🚒 vyšetřovací aut
- omobil (ÚO Pelhřimov)
-END:VEVENT
-BEGIN:VEVENT
 UID:410591061
 DTSTART:20260502T162227Z
 DTEND:20260502T172227Z
