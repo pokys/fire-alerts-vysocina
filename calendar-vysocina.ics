@@ -757,6 +757,19 @@ SUMMARY:🚗 dopravní nehoda - Pelhřimov
 LOCATION:Tylova\, Pelhřimov
 GEO:49.429417;15.223479
 URL:geo:49.429417,15.223479
-DESCRIPTION:📍 Tylova\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)
+DESCRIPTION:📍 Tylova\, Pelhřimov\n💬 DN cyklisty\, 1 zraněná osoba.\n\n🚒 CAS
+  (CHS Pelhřimov)
+END:VEVENT
+BEGIN:VEVENT
+UID:410707061
+DTSTART:20260504T124644Z
+DTEND:20260504T134644Z
+DTSTAMP:20260504T124644Z
+SUMMARY:🚗 úklid místa - Oudoleň
+LOCATION:Oudoleň
+GEO:49.675462;15.745795
+URL:geo:49.675462,15.745795
+DESCRIPTION:📍 Oudoleň\, Havlíčkův Brod\n\n🚒 CAS (HS Chotěboř)\n🚒 CAS (Ždíre
+ c nad Doubravou)
 END:VEVENT
 END:VCALENDAR
