@@ -875,6 +875,18 @@ SUMMARY:🛠️ strom - Oudoleň
 LOCATION:Oudoleň
 GEO:49.648344;15.752733
 URL:geo:49.648344,15.752733
-DESCRIPTION:📍 Oudoleň\, Havlíčkův Brod\n\n🚒 CAS (Havlíčkova Borová)
+DESCRIPTION:📍 Oudoleň\, Havlíčkův Brod\n💬 Odstranění stromu z komunikace.\n
+ \n🚒 CAS (Havlíčkova Borová)
+END:VEVENT
+BEGIN:VEVENT
+UID:410680061
+DTSTART:20260504T060937Z
+DTEND:20260504T070937Z
+DTSTAMP:20260504T060937Z
+SUMMARY:☣️ plyn - Humpolec
+LOCATION:U Kaštanu\, Humpolec
+GEO:49.543502;15.347115
+URL:geo:49.543502,15.347115
+DESCRIPTION:📍 U Kaštanu\, Humpolec\, Pelhřimov\n\n🚒 CAS (HS Humpolec)
 END:VEVENT
 END:VCALENDAR
