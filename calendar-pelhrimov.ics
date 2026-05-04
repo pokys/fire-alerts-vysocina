@@ -67,11 +67,11 @@ GEO:49.455681;15.165353
 URL:geo:49.455681,15.165353
 DESCRIPTION:📍 Lipice\, Pelhřimov\n💬 Požár lesa\, bez zranění. Provedena lok
  alizace a likvidace požáru.\n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (CHS Pelhřimov
- )\n🚒 VEA (CHS Pelhřimov)\n🚒 CAS (Nová Cerekev)\n🚒 DA (Pelhřimov-Lipice)\n🚒
-  CAS (HS Pacov)\n🚒 DA (Červená Řečice)\n🚒 CAS (Červená Řečice)\n🚒 DA (Oleš
- ná (PE))\n🚒 CAS (Olešná (PE))\n🚒 přívěs nákladní (Olešná (PE))\n🚒 přívěs m
- otorová stříkačka (Olešná (PE))\n🚒 DA (Pelhřimov-Čakovice)\n🚒 vyšetřovací 
- automobil (ÚO Pelhřimov)
+ )\n🚒 VEA (CHS Pelhřimov)\n🚒 CAS (Nová Cerekev)\n🚒 účelový automobil do 350
+ 0 kg (Nová Cerekev)\n🚒 DA (Pelhřimov-Lipice)\n🚒 CAS (HS Pacov)\n🚒 DA (Červ
+ ená Řečice)\n🚒 CAS (Červená Řečice)\n🚒 DA (Olešná (PE))\n🚒 CAS (Olešná (PE
+ ))\n🚒 přívěs nákladní (Olešná (PE))\n🚒 přívěs motorová stříkačka (Olešná (
+ PE))\n🚒 DA (Pelhřimov-Čakovice)\n🚒 vyšetřovací automobil (ÚO Pelhřimov)
 END:VEVENT
 BEGIN:VEVENT
 UID:410580061
@@ -206,6 +206,7 @@ SUMMARY:☣️ plyn - Humpolec
 LOCATION:U Kaštanu\, Humpolec
 GEO:49.543502;15.347115
 URL:geo:49.543502,15.347115
-DESCRIPTION:📍 U Kaštanu\, Humpolec\, Pelhřimov\n\n🚒 CAS (HS Humpolec)
+DESCRIPTION:📍 U Kaštanu\, Humpolec\, Pelhřimov\n💬 Zajištění úniku plynu.\n\
+ n🚒 CAS (HS Humpolec)
 END:VEVENT
 END:VCALENDAR
