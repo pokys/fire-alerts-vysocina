@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:410598061
-DTSTART:20260502T184635Z
-DTEND:20260502T194635Z
-DTSTAMP:20260502T184635Z
-SUMMARY:🚗 dopravní nehoda - Jihlava
-LOCATION:Jihlava
-GEO:49.452600;15.612163
-URL:geo:49.452600,15.612163
-DESCRIPTION:📍 Pávov\, Jihlava\n💬 DN 1 OA\, jedna zraněná osoba. Zajištění m
- ísta události.\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihlava)
-END:VEVENT
-BEGIN:VEVENT
 UID:410600061
 DTSTART:20260502T204748Z
 DTEND:20260502T214748Z
@@ -786,8 +774,8 @@ SUMMARY:🛠️ odstranění překážky - Žďár nad Sázavou
 LOCATION:Sychrova\, Žďár nad Sázavou
 GEO:49.580417;15.938084
 URL:geo:49.580417,15.938084
-DESCRIPTION:📍 Sychrova\, Žďár nad Sázavou 2\, Žďár nad Sázavou\n\n🚒 CAS (Žď
- ár nad Sázavou-Zámek)
+DESCRIPTION:📍 Sychrova\, Žďár nad Sázavou 2\, Žďár nad Sázavou\n💬 Odstraněn
+ í naplaveného dřeva z přelivu rybníka.\n\n🚒 CAS (Žďár nad Sázavou-Zámek)
 END:VEVENT
 BEGIN:VEVENT
 UID:410725061
@@ -810,7 +798,7 @@ SUMMARY:🛠️ otevření bytu/auta - Havlíčkův Brod
 LOCATION:Sídliště Pražská\, Havlíčkův Brod
 GEO:49.611977;15.577444
 URL:geo:49.611977,15.577444
-DESCRIPTION:📍 Sídliště Pražská\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Bro
- d)
+DESCRIPTION:📍 Sídliště Pražská\, Havlíčkův Brod\n💬 Otevření bytu.\n\n🚒 CAS 
+ (CHS Havlíčkův Brod)
 END:VEVENT
 END:VCALENDAR
