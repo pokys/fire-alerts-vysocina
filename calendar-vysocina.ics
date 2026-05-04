@@ -5,20 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:410560061
-DTSTART:20260502T085157Z
-DTEND:20260502T095157Z
-DTSTAMP:20260502T085157Z
-SUMMARY:🔥 venkovní požár - Bítovčice
-LOCATION:Bítovčice
-GEO:49.357377;15.742521
-URL:geo:49.357377,15.742521
-DESCRIPTION:📍 Bítovčice\, Jihlava\n💬 Požár odpadu a suché trávy. Provedena 
- lokalizace a likvidace požáru.\n\n🚒 CAS (CHS Jihlava)\n🚒 CAS (Luka nad Jih
- lavou)\n🚒 CAS (Luka nad Jihlavou)\n🚒 CAS (Bítovčice)\n🚒 nákladní automobil
-  do 3500 kg (Bítovčice)
-END:VEVENT
-BEGIN:VEVENT
 UID:410562061
 DTSTART:20260502T101206Z
 DTEND:20260502T111206Z
