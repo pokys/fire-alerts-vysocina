@@ -156,8 +156,9 @@ DTEND:20260504T180855Z
 DTSTAMP:20260504T170855Z
 SUMMARY:🛠️ strom - Nový Rychnov
 LOCATION:Nový Rychnov
-GEO:49.383515;15.366186
-URL:geo:49.383515,15.366186
-DESCRIPTION:📍 Nový Rychnov\, Pelhřimov\n\n🚒 DA (Nový Rychnov)
+GEO:49.387278;15.350876
+URL:geo:49.387278,15.350876
+DESCRIPTION:📍 Nový Rychnov\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 DA (Nový 
+ Rychnov)
 END:VEVENT
 END:VCALENDAR
