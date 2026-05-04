@@ -789,4 +789,16 @@ URL:geo:49.438372,14.930001
 DESCRIPTION:📍 Hrobská Zahrádka\, Obrataň\, Pelhřimov\n💬 Otevření bytu.\n\n🚒
   CAS (HS Pacov)
 END:VEVENT
+BEGIN:VEVENT
+UID:410694061
+DTSTART:20260504T091454Z
+DTEND:20260504T101454Z
+DTSTAMP:20260504T091454Z
+SUMMARY:🛠️ ostatní - Náměšť nad Oslavou
+LOCATION:Podhradí\, Náměšť nad Oslavou
+GEO:49.210200;16.160474
+URL:geo:49.210200,16.160474
+DESCRIPTION:📍 Podhradí\, Náměšť nad Oslavou\, Třebíč\n\n🚒 CAS (HS Náměšť na
+ d Oslavou)
+END:VEVENT
 END:VCALENDAR
