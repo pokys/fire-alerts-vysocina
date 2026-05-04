@@ -737,7 +737,8 @@ SUMMARY:🛠️ ostatní - Žďár nad Sázavou
 LOCATION:Žďár nad Sázavou
 GEO:49.544602;15.932745
 URL:geo:49.544602,15.932745
-DESCRIPTION:📍 Radonín\, Žďár nad Sázavou\n\n🚒 CAS (Žďár nad Sázavou-Zámek)
+DESCRIPTION:📍 Radonín\, Žďár nad Sázavou\n💬 Oplach komunikace.\n\n🚒 CAS (Žď
+ ár nad Sázavou-Zámek)
 END:VEVENT
 BEGIN:VEVENT
 UID:410718061
@@ -772,7 +773,18 @@ SUMMARY:🛠️ otevření bytu/auta - Velké Meziříčí
 LOCATION:Mírová\, Velké Meziříčí
 GEO:49.349498;16.013591
 URL:geo:49.349498,16.013591
-DESCRIPTION:📍 Mírová\, Velké Meziříčí\, Žďár nad Sázavou\n\n🚒 RZA (HS Velké
-  Meziříčí)
+DESCRIPTION:📍 Mírová\, Velké Meziříčí\, Žďár nad Sázavou\n💬 Otevření bytu.\
+ n\n🚒 RZA (HS Velké Meziříčí)
+END:VEVENT
+BEGIN:VEVENT
+UID:410721061
+DTSTART:20260504T170855Z
+DTEND:20260504T180855Z
+DTSTAMP:20260504T170855Z
+SUMMARY:🛠️ strom - Nový Rychnov
+LOCATION:Nový Rychnov
+GEO:49.383515;15.366186
+URL:geo:49.383515,15.366186
+DESCRIPTION:📍 Nový Rychnov\, Pelhřimov\n\n🚒 DA (Nový Rychnov)
 END:VEVENT
 END:VCALENDAR
