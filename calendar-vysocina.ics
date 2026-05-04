@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:410570061
-DTSTART:20260502T115646Z
-DTEND:20260502T125646Z
-DTSTAMP:20260502T115646Z
-SUMMARY:🔥 tráva/plocha - Nová Cerekev
-LOCATION:Nová Cerekev
-GEO:49.420420;15.115702
-URL:geo:49.420420,15.115702
-DESCRIPTION:📍 Nová Cerekev\, Pelhřimov\n💬 Požár trávy\, beze škody\, se zra
- něním jedné osoby. Provedena lokalizace a likvidace požáru.\n\n🚒 CAS (CHS 
- Pelhřimov)\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (HS Pacov)\n🚒 CAS (Nová Cerekev)
-END:VEVENT
-BEGIN:VEVENT
 UID:410571061
 DTSTART:20260502T123044Z
 DTEND:20260502T133044Z
@@ -769,7 +756,8 @@ SUMMARY:🚗 dopravní nehoda - Telč
 LOCATION:Masarykova\, Telč
 GEO:49.183145;15.461171
 URL:geo:49.183145,15.461171
-DESCRIPTION:📍 Masarykova\, Telč-Podolí\, Telč\, Jihlava\n\n🚒 CAS (HS Telč)
+DESCRIPTION:📍 Masarykova\, Telč-Podolí\, Telč\, Jihlava\n💬 DN motorky a cyk
+ listy\, 1 zraněná osoba. Zajištění místa nehody.\n\n🚒 CAS (HS Telč)
 END:VEVENT
 BEGIN:VEVENT
 UID:410699061
@@ -781,5 +769,28 @@ LOCATION:Brněnská\, Hrotovice
 GEO:49.106394;16.068058
 URL:geo:49.106394,16.068058
 DESCRIPTION:📍 Brněnská\, Hrotovice\, Třebíč\n\n🚒 CAS (HS Hrotovice)
+END:VEVENT
+BEGIN:VEVENT
+UID:410702061
+DTSTART:20260504T113502Z
+DTEND:20260504T123502Z
+DTSTAMP:20260504T113502Z
+SUMMARY:🚗 dopravní nehoda - Jihlava
+LOCATION:Jihlava
+GEO:49.441437;15.605616
+URL:geo:49.441437,15.605616
+DESCRIPTION:📍 Pávov\, Jihlava\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihlava)
+END:VEVENT
+BEGIN:VEVENT
+UID:410704061
+DTSTART:20260504T114009Z
+DTEND:20260504T124009Z
+DTSTAMP:20260504T114009Z
+SUMMARY:🔥 technologie - Trnava
+LOCATION:Trnava
+GEO:49.253724;15.923208
+URL:geo:49.253724,15.923208
+DESCRIPTION:📍 Trnava\, Třebíč\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (CHS Třebíč)\n🚒 
+ CAS (Rudíkov)\n🚒 CAS (Trnava)
 END:VEVENT
 END:VCALENDAR
