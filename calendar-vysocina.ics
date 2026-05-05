@@ -750,8 +750,8 @@ SUMMARY:🛠️ obtížný hmyz - Cerekvička-Rosice
 LOCATION:Cerekvička-Rosice
 GEO:49.335105;15.589163
 URL:geo:49.335105,15.589163
-DESCRIPTION:📍 Cerekvička\, Cerekvička-Rosice\, Jihlava\n\n🚒 CAS (CHS Jihlav
- a)
+DESCRIPTION:📍 Cerekvička\, Cerekvička-Rosice\, Jihlava\n💬 Odstranění obtížn
+ ého hmyzu.\n\n🚒 CAS (CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:410747061
@@ -788,5 +788,30 @@ GEO:49.363387;15.151936
 URL:geo:49.363387,15.151936
 DESCRIPTION:📍 Božejov\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (HS Kamen
  ice nad Lipou)\n🚒 CAS (HS Kamenice nad Lipou)\n🚒 CAS (Božejov)
+END:VEVENT
+BEGIN:VEVENT
+UID:410754061
+DTSTART:20260505T113927Z
+DTEND:20260505T123927Z
+DTSTAMP:20260505T113927Z
+SUMMARY:🔥 budova - Bobrůvka
+LOCATION:Bobrůvka
+GEO:49.448598;16.094828
+URL:geo:49.448598,16.094828
+DESCRIPTION:📍 Bobrůvka\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad Sázavou)\n
+ 🚒 CAS (CHS Žďár nad Sázavou)\n🚒 DA (Bobrová)\n🚒 CAS (Bobrová)\n🚒 DA (Bobrů
+ vka)\n🚒 CAS (Křižanov)
+END:VEVENT
+BEGIN:VEVENT
+UID:410755061
+DTSTART:20260505T114105Z
+DTEND:20260505T124105Z
+DTSTAMP:20260505T114105Z
+SUMMARY:⚠️ planý poplach - Velké Meziříčí
+LOCATION:Hornoměstská\, Velké Meziříčí
+GEO:49.356488;16.002273
+URL:geo:49.356488,16.002273
+DESCRIPTION:📍 Hornoměstská\, Velké Meziříčí\, Žďár nad Sázavou\n💬 Planý pop
+ lach.\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)
 END:VEVENT
 END:VCALENDAR
