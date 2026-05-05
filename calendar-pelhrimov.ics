@@ -5,17 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Pelhřimov
 BEGIN:VEVENT
-UID:410629061
-DTSTART:20260503T124238Z
-DTEND:20260503T134238Z
-DTSTAMP:20260503T124238Z
-SUMMARY:🔥 odpad - Pelhřimov
-LOCATION:Pelhřimov
-GEO:49.425654;15.223349
-URL:geo:49.425654,15.223349
-DESCRIPTION:💬 Požár odpadkového koše.\n\n🚒 CAS (CHS Pelhřimov)
-END:VEVENT
-BEGIN:VEVENT
 UID:410645061
 DTSTART:20260503T141412Z
 DTEND:20260503T151412Z
@@ -207,7 +196,21 @@ SUMMARY:🔥 tráva/plocha - Božejov
 LOCATION:Božejov
 GEO:49.363387;15.151936
 URL:geo:49.363387,15.151936
-DESCRIPTION:📍 Božejov\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (HS Kamen
- ice nad Lipou)\n🚒 CAS (HS Kamenice nad Lipou)\n🚒 CAS (Božejov)
+DESCRIPTION:📍 Božejov\, Pelhřimov\n💬 Požár suché trávy. Zajištění místa udá
+ losti. Bez vzniklé škody.\n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (HS Kamenice nad
+  Lipou)\n🚒 CAS (HS Kamenice nad Lipou)\n🚒 CAS (Božejov)
+END:VEVENT
+BEGIN:VEVENT
+UID:410759061
+DTSTART:20260505T121849Z
+DTEND:20260505T131849Z
+DTSTAMP:20260505T121849Z
+SUMMARY:🔥 venkovní požár - Pošná
+LOCATION:Pošná
+GEO:49.442622;15.064218
+URL:geo:49.442622,15.064218
+DESCRIPTION:📍 Proseč\, Pošná\, Pelhřimov\n\n🚒 CAS (HS Pacov)\n🚒 CAS (HS Pac
+ ov)\n🚒 CAS (Pacov)\n🚒 osobní automobil (Pacov)\n🚒 CAS (Nová Cerekev)\n🚒 př
+ ívěs motorová stříkačka (Pošná)
 END:VEVENT
 END:VCALENDAR
