@@ -195,8 +195,8 @@ DTEND:20260505T131849Z
 DTSTAMP:20260505T121849Z
 SUMMARY:🔥 venkovní požár - Pošná
 LOCATION:Pošná
-GEO:49.442622;15.064218
-URL:geo:49.442622,15.064218
+GEO:49.445579;15.072004
+URL:geo:49.445579,15.072004
 DESCRIPTION:📍 Proseč\, Pošná\, Pelhřimov\n💬 Požár suché trávy v oplocence. 
  Zajištění místa události. Bez vzniklé škody.\n\n🚒 CAS (HS Pacov)\n🚒 CAS (H
  S Pacov)\n🚒 pila řetězová (HS Pacov)\n🚒 CAS (Pacov)\n🚒 osobní automobil (P
@@ -223,7 +223,7 @@ SUMMARY:🛠️ ostatní - Kamenice nad Lipou
 LOCATION:Pelhřimovská\, Kamenice nad Lipou
 GEO:49.306755;15.076106
 URL:geo:49.306755,15.076106
-DESCRIPTION:📍 Pelhřimovská\, Kamenice nad Lipou\, Pelhřimov\n\n🚒 CAS (Kamen
- ice nad Lipou)
+DESCRIPTION:📍 Pelhřimovská\, Kamenice nad Lipou\, Pelhřimov\n💬 Oplach komun
+ ikace.\n\n🚒 CAS (Kamenice nad Lipou)
 END:VEVENT
 END:VCALENDAR
