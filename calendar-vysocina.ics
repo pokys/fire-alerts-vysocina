@@ -5,22 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:410626061
-DTSTART:20260503T120816Z
-DTEND:20260503T130816Z
-DTSTAMP:20260503T120816Z
-SUMMARY:🔥 les - Rohozná
-LOCATION:Rohozná
-GEO:49.361548;15.407732
-URL:geo:49.361548,15.407732
-DESCRIPTION:📍 Rohozná\, Jihlava\n💬 Požár lesního porostu a suché trávy.\n\n
- 🚒 CAS (HS Třešť)\n🚒 DA (Dolní Cerekev)\n🚒 CAS (Dolní Cerekev)\n🚒 CAS (Doln
- í Cerekev)\n🚒 CAS (Nový Rychnov)\n🚒 CAS (Rohozná)\n🚒 CAS (Rohozná)\n🚒 CAS 
- (CHS Jihlava)\n🚒 CAS (CHS Jihlava)\n🚒 CAS (Batelov)\n🚒 CAS (Hojkov)\n🚒 vyš
- etřovací automobil (ÚO Jihlava)\n🚒 DA (Horní Cerekev)\n🚒 CAS (Horní Cereke
- v)\n🚒 CAS (Horní Dubenky)\n🚒 CAS (Opatov (JI))\n🚒 CAS (HS Telč)
-END:VEVENT
-BEGIN:VEVENT
 UID:410627061
 DTSTART:20260503T122452Z
 DTEND:20260503T132452Z
@@ -775,7 +759,8 @@ SUMMARY:☣️ olej/PHM - Humpolec
 LOCATION:Humpolec
 GEO:49.524483;15.372555
 URL:geo:49.524483,15.372555
-DESCRIPTION:📍 Humpolec\, Pelhřimov\n\n🚒 CAS (HS Humpolec)
+DESCRIPTION:📍 Humpolec\, Pelhřimov\n💬 Únik nafty z dodávky po technické záv
+ adě. Zasypání pomocí sorbentu.\n\n🚒 CAS (HS Humpolec)
 END:VEVENT
 BEGIN:VEVENT
 UID:410751061
@@ -796,11 +781,12 @@ DTEND:20260505T123927Z
 DTSTAMP:20260505T113927Z
 SUMMARY:🔥 budova - Bobrůvka
 LOCATION:Bobrůvka
-GEO:49.448598;16.094828
-URL:geo:49.448598,16.094828
-DESCRIPTION:📍 Bobrůvka\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad Sázavou)\n
- 🚒 CAS (CHS Žďár nad Sázavou)\n🚒 DA (Bobrová)\n🚒 CAS (Bobrová)\n🚒 DA (Bobrů
- vka)\n🚒 CAS (Křižanov)
+GEO:49.449035;16.095098
+URL:geo:49.449035,16.095098
+DESCRIPTION:📍 Bobrůvka\, Žďár nad Sázavou\n💬 Ohlášen požár garáže. Proveden
+ a lokalizace a likvidace požáru.\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (C
+ HS Žďár nad Sázavou)\n🚒 DA (Bobrová)\n🚒 CAS (Bobrová)\n🚒 DA (Bobrůvka)\n🚒 
+ CAS (Křižanov)\n🚒 účelový automobil do 3500 kg (ÚO Žďár nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:410755061
