@@ -762,7 +762,9 @@ SUMMARY:🚗 dopravní nehoda - Číhošť
 LOCATION:Číhošť
 GEO:49.724400;15.346828
 URL:geo:49.724400,15.346828
-DESCRIPTION:📍 Číhošť\, Havlíčkův Brod\n\n🚒 CAS (HS Světlá nad Sázavou)
+DESCRIPTION:📍 Číhošť\, Havlíčkův Brod\n💬 DN OA na boku v silničním příkopu.
+  Zajištění místa události. ZZS transportovala jednu zraněnou osobu k další
+ mu ošetření do ON.\n\n🚒 CAS (HS Světlá nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:410748061
@@ -771,8 +773,20 @@ DTEND:20260505T120447Z
 DTSTAMP:20260505T110447Z
 SUMMARY:☣️ olej/PHM - Humpolec
 LOCATION:Humpolec
-GEO:49.529193;15.341441
-URL:geo:49.529193,15.341441
-DESCRIPTION:📍 Hněvkovice\, Humpolec\, Pelhřimov\n\n🚒 CAS (HS Humpolec)
+GEO:49.524483;15.372555
+URL:geo:49.524483,15.372555
+DESCRIPTION:📍 Humpolec\, Pelhřimov\n\n🚒 CAS (HS Humpolec)
+END:VEVENT
+BEGIN:VEVENT
+UID:410751061
+DTSTART:20260505T113056Z
+DTEND:20260505T123056Z
+DTSTAMP:20260505T113056Z
+SUMMARY:🔥 tráva/plocha - Božejov
+LOCATION:Božejov
+GEO:49.363387;15.151936
+URL:geo:49.363387,15.151936
+DESCRIPTION:📍 Božejov\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (HS Kamen
+ ice nad Lipou)\n🚒 CAS (HS Kamenice nad Lipou)\n🚒 CAS (Božejov)
 END:VEVENT
 END:VCALENDAR
