@@ -630,8 +630,8 @@ SUMMARY:🔥 budova - Slavníč
 LOCATION:Slavníč
 GEO:49.506375;15.451174
 URL:geo:49.506375,15.451174
-DESCRIPTION:📍 Slavníč\, Havlíčkův Brod\n\n🚒 vyšetřovací automobil (ÚO Havlí
- čkův Brod)
+DESCRIPTION:📍 Slavníč\, Havlíčkův Brod\n💬 Došetření požáru bez účasti jedno
+ tek.\n\n🚒 vyšetřovací automobil (ÚO Havlíčkův Brod)
 END:VEVENT
 BEGIN:VEVENT
 UID:410808061
@@ -679,5 +679,17 @@ GEO:49.590085;15.921789
 URL:geo:49.590085,15.921789
 DESCRIPTION:💬 ZOČ.\n\n🚒 plavidlo nafukovací (Žďár nad Sázavou-Zámek)\n🚒 oso
  bní automobil (Žďár nad Sázavou-Zámek)
+END:VEVENT
+BEGIN:VEVENT
+UID:410826061
+DTSTART:20260506T094313Z
+DTEND:20260506T104313Z
+DTSTAMP:20260506T094313Z
+SUMMARY:🔥 vozidlo - Velká Bíteš
+LOCATION:Velká Bíteš
+GEO:49.273064;16.236290
+URL:geo:49.273064,16.236290
+DESCRIPTION:📍 Janovice\, Velká Bíteš\, Žďár nad Sázavou\n\n🚒 CAS (HS Velká 
+ Bíteš)\n🚒 RZA (HS Velké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)
 END:VEVENT
 END:VCALENDAR
