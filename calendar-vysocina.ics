@@ -692,4 +692,16 @@ URL:geo:49.148795,15.776269
 DESCRIPTION:📍 Čáslavice\, Třebíč\n💬 Pročištění kanalizace v areálu ZD.\n\n🚒
   CAS (Čáslavice)
 END:VEVENT
+BEGIN:VEVENT
+UID:410813061
+DTSTART:20260506T065426Z
+DTEND:20260506T075426Z
+DTSTAMP:20260506T065426Z
+SUMMARY:🛠️ ostatní - Žďár nad Sázavou
+LOCATION:Žďár nad Sázavou
+GEO:49.590085;15.921789
+URL:geo:49.590085,15.921789
+DESCRIPTION:🚒 plavidlo nafukovací (Žďár nad Sázavou-Zámek)\n🚒 osobní automo
+ bil (Žďár nad Sázavou-Zámek)
+END:VEVENT
 END:VCALENDAR
