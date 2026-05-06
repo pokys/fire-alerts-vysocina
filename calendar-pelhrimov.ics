@@ -175,4 +175,16 @@ URL:geo:49.353720,15.058565
 DESCRIPTION:📍 Těmice\, Pelhřimov\n💬 Čištění přepadového potrubí z vodojemu.
  \n\n🚒 CAS (Těmice)
 END:VEVENT
+BEGIN:VEVENT
+UID:410852061
+DTSTART:20260506T155510Z
+DTEND:20260506T165510Z
+DTSTAMP:20260506T155510Z
+SUMMARY:🚗 bez zranění - Jiřice
+LOCATION:Jiřice
+GEO:49.563165;15.295657
+URL:geo:49.563165,15.295657
+DESCRIPTION:📍 Jiřice\, Pelhřimov\n💬 DN 3 OA. Únik PK. Zajištění místa událo
+ sti.\n\n🚒 CAS (HS Humpolec)
+END:VEVENT
 END:VCALENDAR
