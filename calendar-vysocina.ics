@@ -667,6 +667,18 @@ SUMMARY:🛠️ strom - Cidlina
 LOCATION:Cidlina
 GEO:49.146975;15.704450
 URL:geo:49.146975,15.704450
-DESCRIPTION:📍 Cidlina\, Třebíč\n\n🚒 CAS (Želetava)
+DESCRIPTION:📍 Cidlina\, Třebíč\n💬 Odstranění stromu.\n\n🚒 CAS (Želetava)
+END:VEVENT
+BEGIN:VEVENT
+UID:410805061
+DTSTART:20260506T032438Z
+DTEND:20260506T042438Z
+DTSTAMP:20260506T032438Z
+SUMMARY:🚗 dopravní nehoda - Velké Meziříčí
+LOCATION:Velké Meziříčí
+GEO:49.377302;16.017812
+URL:geo:49.377302,16.017812
+DESCRIPTION:📍 Mostiště\, Velké Meziříčí\, Žďár nad Sázavou\n\n🚒 CAS (HS Vel
+ ké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)
 END:VEVENT
 END:VCALENDAR
