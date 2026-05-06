@@ -630,8 +630,8 @@ SUMMARY:🚑 otevření/asistence - Kněžice
 LOCATION:Kněžice
 GEO:49.269559;15.671752
 URL:geo:49.269559,15.671752
-DESCRIPTION:📍 Kněžice\, Jihlava\n\n🚒 CAS (HS Třešť)\n🚒 účelový automobil do
-  3500 kg (CHS Jihlava)\n🚒 VEA (CHS Třebíč)
+DESCRIPTION:📍 Kněžice\, Jihlava\n💬 Otevření bytu.\n\n🚒 CAS (HS Třešť)\n🚒 úč
+ elový automobil do 3500 kg (CHS Jihlava)\n🚒 VEA (CHS Třebíč)
 END:VEVENT
 BEGIN:VEVENT
 UID:410803061
@@ -665,7 +665,8 @@ SUMMARY:🚗 dopravní nehoda - Velké Meziříčí
 LOCATION:Velké Meziříčí
 GEO:49.377302;16.017812
 URL:geo:49.377302,16.017812
-DESCRIPTION:📍 Mostiště\, Velké Meziříčí\, Žďár nad Sázavou\n\n🚒 CAS (HS Vel
- ké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)
+DESCRIPTION:📍 Mostiště\, Velké Meziříčí\, Žďár nad Sázavou\n💬 DN OA mimo ko
+ munikaci\, jedna zraněná osoba. Zajištění místa nehody.\n\n🚒 CAS (HS Velké
+  Meziříčí)\n🚒 RZA (HS Velké Meziříčí)
 END:VEVENT
 END:VCALENDAR
