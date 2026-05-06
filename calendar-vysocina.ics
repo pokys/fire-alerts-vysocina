@@ -5,20 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:410714061
-DTSTART:20260504T153322Z
-DTEND:20260504T163322Z
-DTSTAMP:20260504T153322Z
-SUMMARY:🚗 se zraněním - Domamil
-LOCATION:Domamil
-GEO:49.083179;15.680911
-URL:geo:49.083179,15.680911
-DESCRIPTION:📍 Domamil\, Třebíč\n💬 DN 2 OA\, jedna osoba exius\, jedna zraně
- ná osoba. Zajištění místa nehody.\n\n🚒 DA (HS Moravské Budějovice)\n🚒 CAS 
- (HS Moravské Budějovice)\n🚒 HVZ - jednotka pohonná (HS Moravské Budějovice
- )
-END:VEVENT
-BEGIN:VEVENT
 UID:410716061
 DTSTART:20260504T154715Z
 DTEND:20260504T164715Z
