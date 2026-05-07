@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:410766061
-DTSTART:20260505T133815Z
-DTEND:20260505T143815Z
-DTSTAMP:20260505T133815Z
-SUMMARY:🚗 dopravní nehoda - Havlíčkův Brod
-LOCATION:Havlíčkův Brod
-GEO:49.597365;15.560883
-URL:geo:49.597365,15.560883
-DESCRIPTION:💬 DN 2x OA se zraněním osob. ZZS transportovla celkem tři osoby
-  k dalšímu ošetření do ON. Provedeno odstranění následků po DN.\n\n🚒 CAS (
- CHS Havlíčkův Brod)
-END:VEVENT
-BEGIN:VEVENT
 UID:410768061
 DTSTART:20260505T140256Z
 DTEND:20260505T150256Z
@@ -536,8 +523,8 @@ SUMMARY:🚑 otevření/asistence - Bory
 LOCATION:Bory
 GEO:49.422700;16.029887
 URL:geo:49.422700,16.029887
-DESCRIPTION:📍 Horní Bory\, Bory\, Žďár nad Sázavou\n\n🚒 RZA (HS Velké Meziř
- íčí)
+DESCRIPTION:📍 Horní Bory\, Bory\, Žďár nad Sázavou\n💬 Otevření rodinného do
+ mu.\n\n🚒 RZA (HS Velké Meziříčí)
 END:VEVENT
 BEGIN:VEVENT
 UID:410891061
@@ -574,5 +561,16 @@ GEO:49.302295;15.006673
 URL:geo:49.302295,15.006673
 DESCRIPTION:📍 Bohdalín\, Pelhřimov\n\n🚒 CAS (HS Kamenice nad Lipou)\n🚒 CAS 
  (HS Kamenice nad Lipou)
+END:VEVENT
+BEGIN:VEVENT
+UID:410895061
+DTSTART:20260507T132509Z
+DTEND:20260507T142509Z
+DTSTAMP:20260507T132509Z
+SUMMARY:🚑 otevření/asistence - Jihlava
+LOCATION:Husova\, Jihlava
+GEO:49.396080;15.584947
+URL:geo:49.396080,15.584947
+DESCRIPTION:📍 Husova\, Jihlava\n\n🚒 CAS (CHS Jihlava)
 END:VEVENT
 END:VCALENDAR
