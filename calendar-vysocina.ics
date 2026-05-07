@@ -392,6 +392,18 @@ DESCRIPTION:📍 Cetoraz\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 CAS (HS
  \n🚒 pila řetězová (HS Pacov)
 END:VEVENT
 BEGIN:VEVENT
+UID:410862061
+DTSTART:20260507T050022Z
+DTEND:20260507T060022Z
+DTSTAMP:20260507T050022Z
+SUMMARY:🛠️ spolupráce IZS - Telč
+LOCATION:Luční\, Telč
+GEO:49.178799;15.453835
+URL:geo:49.178799,15.453835
+DESCRIPTION:📍 Luční\, Telč-Staré Město\, Telč\, Jihlava\n💬 ZOČ.\n\n🚒 TA (CH
+ L JHM Tišnov)
+END:VEVENT
+BEGIN:VEVENT
 UID:410867061
 DTSTART:20260507T063446Z
 DTEND:20260507T073446Z
@@ -474,9 +486,9 @@ SUMMARY:🚗 dopravní nehoda - Telč
 LOCATION:Slavíčkova\, Telč
 GEO:49.180259;15.463248
 URL:geo:49.180259,15.463248
-DESCRIPTION:📍 Slavíčkova\, Telč-Podolí\, Telč\, Jihlava\n💬 Dopravní nehoda 
- 2 OA\, 1 zraněná osoba. Zajištění místa události a transport pacienta.\n\n
- 🚒 CAS (HS Telč) ×2
+DESCRIPTION:📍 Slavíčkova\, Telč-Podolí\, Telč\, Jihlava\n💬 DN 2 OA\, 1 zran
+ ěná osoba. Zajištění místa události a transport pacienta.\n\n🚒 CAS (HS Tel
+ č) ×2
 END:VEVENT
 BEGIN:VEVENT
 UID:410886061
@@ -550,5 +562,17 @@ GEO:49.217724;16.072098
 URL:geo:49.217724,16.072098
 DESCRIPTION:📍 Studenec\, Třebíč\n💬 Odstranění stromu.\n\n🚒 CAS (HS Náměšť n
  ad Oslavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:410894061
+DTSTART:20260507T130718Z
+DTEND:20260507T140718Z
+DTSTAMP:20260507T130718Z
+SUMMARY:🔥 les - Bohdalín
+LOCATION:Bohdalín
+GEO:49.302295;15.006673
+URL:geo:49.302295,15.006673
+DESCRIPTION:📍 Bohdalín\, Pelhřimov\n\n🚒 CAS (HS Kamenice nad Lipou)\n🚒 CAS 
+ (HS Kamenice nad Lipou)
 END:VEVENT
 END:VCALENDAR
