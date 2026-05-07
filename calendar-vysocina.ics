@@ -549,7 +549,9 @@ SUMMARY:🚗 se zraněním - Číhošť
 LOCATION:Číhošť
 GEO:49.728989;15.344754
 URL:geo:49.728989,15.344754
-DESCRIPTION:📍 Číhošť\, Havlíčkův Brod\n\n🚒 CAS (HS Ledeč nad Sázavou)
+DESCRIPTION:📍 Číhošť\, Havlíčkův Brod\n💬 DN 2x OA s zraněním 1 osoby. Zajiš
+ tění místa nehody proti požáru a úniku provozních kapalin.\n\n🚒 CAS (HS Le
+ deč nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:410890061
@@ -562,5 +564,16 @@ GEO:49.422700;16.029887
 URL:geo:49.422700,16.029887
 DESCRIPTION:📍 Horní Bory\, Bory\, Žďár nad Sázavou\n\n🚒 RZA (HS Velké Meziř
  íčí)
+END:VEVENT
+BEGIN:VEVENT
+UID:410891061
+DTSTART:20260507T115341Z
+DTEND:20260507T125341Z
+DTSTAMP:20260507T115341Z
+SUMMARY:🚗 dopravní nehoda - Řečice
+LOCATION:Řečice
+GEO:49.603958;15.370716
+URL:geo:49.603958,15.370716
+DESCRIPTION:📍 Řečice\, Pelhřimov\n\n🚒 CAS (HS Světlá nad Sázavou)
 END:VEVENT
 END:VCALENDAR
