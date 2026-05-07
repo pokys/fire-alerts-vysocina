@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:410803061
-DTSTART:20260505T184119Z
-DTEND:20260505T194119Z
-DTSTAMP:20260505T184119Z
-SUMMARY:🔥 venkovní požár - Žďár nad Sázavou
-LOCATION:Žďár nad Sázavou
-GEO:49.574359;15.938075
-URL:geo:49.574359,15.938075
-DESCRIPTION:📍 Žďár nad Sázavou 2\, Žďár nad Sázavou\n💬 Dohašení ohniště.\n\
- n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (CHS Žďár nad Sázavou)
-END:VEVENT
-BEGIN:VEVENT
 UID:410804061
 DTSTART:20260505T222250Z
 DTEND:20260505T232250Z
@@ -525,6 +513,7 @@ SUMMARY:🚑 otevření/asistence - Pelhřimov
 LOCATION:Pražská\, Pelhřimov
 GEO:49.436310;15.213661
 URL:geo:49.436310,15.213661
-DESCRIPTION:📍 Pražská\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)
+DESCRIPTION:📍 Pražská\, Pelhřimov\n💬 Otevření bytu.\n\n🚒 CAS (CHS Pelhřimov
+ )
 END:VEVENT
 END:VCALENDAR
