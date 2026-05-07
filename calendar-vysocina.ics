@@ -549,10 +549,11 @@ UID:410870061
 DTSTART:20260507T070527Z
 DTEND:20260507T080527Z
 DTSTAMP:20260507T070527Z
-SUMMARY:🚑 otevření/asistence - Havlíčkův Brod
+SUMMARY:⚠️ planý poplach - Havlíčkův Brod
 LOCATION:Ledečská\, Havlíčkův Brod
 GEO:49.606529;15.569517
 URL:geo:49.606529,15.569517
-DESCRIPTION:📍 Ledečská\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)
+DESCRIPTION:📍 Ledečská\, Havlíčkův Brod\n💬 Planý poplach.\n\n🚒 CAS (CHS Hav
+ líčkův Brod)
 END:VEVENT
 END:VCALENDAR
