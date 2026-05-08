@@ -516,4 +516,15 @@ URL:geo:49.306735,15.999432
 DESCRIPTION:📍 Rohy\, Třebíč\n💬 Dopravní nehoda cyklisty se zraněním\, zajiš
  tění místa zásahu.\n\n🚒 CAS (CHS Třebíč)\n🚒 RZA (HS Velké Meziříčí)
 END:VEVENT
+BEGIN:VEVENT
+UID:410942061
+DTSTART:20260508T215049Z
+DTEND:20260508T225049Z
+DTSTAMP:20260508T215049Z
+SUMMARY:🚑 transport pacienta - Třebíč
+LOCATION:Kpt. Jaroše\, Třebíč
+GEO:49.223714;15.884111
+URL:geo:49.223714,15.884111
+DESCRIPTION:📍 Kpt. Jaroše\, Nové Dvory\, Třebíč\n\n🚒 CAS (CHS Třebíč)
+END:VEVENT
 END:VCALENDAR
