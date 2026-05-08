@@ -5,31 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:410846061
-DTSTART:20260506T150846Z
-DTEND:20260506T160846Z
-DTSTAMP:20260506T150846Z
-SUMMARY:🛠️ ostatní - Želetava
-LOCATION:9. května\, Želetava
-GEO:49.142787;15.678379
-URL:geo:49.142787,15.678379
-DESCRIPTION:📍 9. května\, Želetava\, Třebíč\n💬 Pročištění kanalizace.\n\n🚒 
- CAS (Želetava)
-END:VEVENT
-BEGIN:VEVENT
-UID:410847061
-DTSTART:20260506T151023Z
-DTEND:20260506T161023Z
-DTSTAMP:20260506T151023Z
-SUMMARY:🚗 dopravní nehoda - Nové Město na Moravě
-LOCATION:Nové Město na Moravě
-GEO:49.576549;16.050653
-URL:geo:49.576549,16.050653
-DESCRIPTION:📍 Nové Město na Moravě\, Žďár nad Sázavou\n💬 DN 2 OA se zranění
- m. Zajištění místa události.\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 TA (Nové M
- ěsto na Moravě)
-END:VEVENT
-BEGIN:VEVENT
 UID:410850061
 DTSTART:20260506T154457Z
 DTEND:20260506T164457Z
@@ -517,8 +492,9 @@ SUMMARY:🚑 transport pacienta - Nové Město na Moravě
 LOCATION:Tyršova\, Nové Město na Moravě
 GEO:49.566354;16.075330
 URL:geo:49.566354,16.075330
-DESCRIPTION:📍 Tyršova\, Nové Město na Moravě\, Žďár nad Sázavou\n\n🚒 CAS (C
- HS Žďár nad Sázavou)\n🚒 CAS (Nové Město na Moravě)
+DESCRIPTION:📍 Tyršova\, Nové Město na Moravě\, Žďár nad Sázavou\n💬 Transpor
+ t pacienta na žádost ZZS.\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (Nové Měs
+ to na Moravě)
 END:VEVENT
 BEGIN:VEVENT
 UID:410933061
@@ -538,11 +514,11 @@ UID:410934061
 DTSTART:20260508T141502Z
 DTEND:20260508T151502Z
 DTSTAMP:20260508T141502Z
-SUMMARY:🚗 bez zranění - Osová Bítýška
+SUMMARY:🛠️ ostatní - Osová Bítýška
 LOCATION:Osová Bítýška
 GEO:49.331830;16.195822
 URL:geo:49.331830,16.195822
-DESCRIPTION:📍 Osová\, Osová Bítýška\, Žďár nad Sázavou\n\n🚒 CAS (HS Velká B
- íteš)
+DESCRIPTION:📍 Osová\, Osová Bítýška\, Žďár nad Sázavou\n💬 Vytažení vozidla 
+ na komunikaci.\n\n🚒 CAS (HS Velká Bíteš)
 END:VEVENT
 END:VCALENDAR
