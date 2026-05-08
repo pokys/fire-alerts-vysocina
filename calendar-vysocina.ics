@@ -495,24 +495,24 @@ SUMMARY:🔥 les - Nový Rychnov
 LOCATION:Nový Rychnov
 GEO:49.394406;15.311926
 URL:geo:49.394406,15.311926
-DESCRIPTION:📍 Sázava\, Nový Rychnov\, Pelhřimov\n💬 Požár lesního porostu.\n
- \n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (Hojkov)\n🚒 CAS (Nov
- ý Rychnov)\n🚒 DA (Nový Rychnov-Sázava)\n🚒 CAS (Horní Cerekev)\n🚒 CAS (Bate
- lov)\n🚒 CAS (Dolní Cerekev)\n🚒 CAS (Dolní Cerekev)\n🚒 CAS (Opatov (JI))\n🚒
-  DA (Rynárec)\n🚒 CAS (Rynárec)\n🚒 DA (Olešná (PE))\n🚒 CAS (Olešná (PE))\n🚒
-  vyšetřovací automobil (ÚO Pelhřimov)
+DESCRIPTION:📍 Sázava\, Nový Rychnov\, Pelhřimov\n💬 Požár lesního porostu. P
+ ožárem došlo ke škodě na majetku cca\n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (CHS 
+ Pelhřimov)\n🚒 CAS (Hojkov)\n🚒 CAS (Nový Rychnov)\n🚒 DA (Nový Rychnov-Sázav
+ a)\n🚒 CAS (Horní Cerekev)\n🚒 CAS (Batelov)\n🚒 CAS (Dolní Cerekev)\n🚒 CAS (
+ Dolní Cerekev)\n🚒 CAS (Opatov (JI))\n🚒 DA (Rynárec)\n🚒 CAS (Rynárec)\n🚒 DA
+  (Olešná (PE))\n🚒 CAS (Olešná (PE))\n🚒 vyšetřovací automobil (ÚO Pelhřimov
+ )
 END:VEVENT
 BEGIN:VEVENT
-UID:410939061
-DTSTART:20260508T180517Z
-DTEND:20260508T190517Z
-DTSTAMP:20260508T180517Z
-SUMMARY:🔥 les - Žďár nad Sázavou
-LOCATION:Žďár nad Sázavou
-GEO:49.552272;15.923515
-URL:geo:49.552272,15.923515
-DESCRIPTION:📍 Žďár nad Sázavou 1\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad 
- Sázavou)\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (Žďár nad Sázavou-Zámek) ×2\
- n🚒 osobní automobil (Žďár nad Sázavou-Zámek)
+UID:410940061
+DTSTART:20260508T182304Z
+DTEND:20260508T192304Z
+DTSTAMP:20260508T182304Z
+SUMMARY:⚠️ planý poplach - Pelhřimov
+LOCATION:Pelhřimov
+GEO:49.421033;15.210560
+URL:geo:49.421033,15.210560
+DESCRIPTION:💬 Průzkumem bylo zjištěno\, že se jedná o planý poplach.\n\n🚒 C
+ AS (CHS Pelhřimov) ×2
 END:VEVENT
 END:VCALENDAR
