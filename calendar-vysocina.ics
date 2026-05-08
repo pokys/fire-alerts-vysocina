@@ -516,4 +516,16 @@ URL:geo:49.421033,15.210560
 DESCRIPTION:💬 Průzkumem bylo zjištěno\, že se jedná o planý poplach.\n\n🚒 C
  AS (CHS Pelhřimov) ×2
 END:VEVENT
+BEGIN:VEVENT
+UID:410941061
+DTSTART:20260508T193456Z
+DTEND:20260508T203456Z
+DTSTAMP:20260508T193456Z
+SUMMARY:🚗 dopravní nehoda - Rohy
+LOCATION:Rohy
+GEO:49.306735;15.999432
+URL:geo:49.306735,15.999432
+DESCRIPTION:📍 Rohy\, Třebíč\n💬 Dopravní nehoda cyklisty se zraněním\, zajiš
+ tění místa zásahu.\n\n🚒 CAS (CHS Třebíč)\n🚒 RZA (HS Velké Meziříčí)
+END:VEVENT
 END:VCALENDAR
