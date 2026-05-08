@@ -5,30 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:410838061
-DTSTART:20260506T124338Z
-DTEND:20260506T134338Z
-DTSTAMP:20260506T124338Z
-SUMMARY:🚗 úklid místa - Pelhřimov
-LOCATION:Humpolecká\, Pelhřimov
-GEO:49.438279;15.228609
-URL:geo:49.438279,15.228609
-DESCRIPTION:📍 Humpolecká\, Pelhřimov\n💬 DN 1 OA\, bez zranění\, únik provoz
- ních kapalin.\n\n🚒 CAS (CHS Pelhřimov)
-END:VEVENT
-BEGIN:VEVENT
-UID:410839061
-DTSTART:20260506T124527Z
-DTEND:20260506T134527Z
-DTSTAMP:20260506T124527Z
-SUMMARY:🚑 otevření/asistence - Velká Bíteš
-LOCATION:U Stadionu\, Velká Bíteš
-GEO:49.295334;16.220871
-URL:geo:49.295334,16.220871
-DESCRIPTION:📍 U Stadionu\, Velká Bíteš\, Žďár nad Sázavou\n💬 Otevření bytu.
- \n\n🚒 CAS (HS Velká Bíteš)
-END:VEVENT
-BEGIN:VEVENT
 UID:410840061
 DTSTART:20260506T130134Z
 DTEND:20260506T140134Z
@@ -515,9 +491,9 @@ SUMMARY:🔥 tráva/plocha - Obyčtov
 LOCATION:Obyčtov
 GEO:49.496637;16.004100
 URL:geo:49.496637,16.004100
-DESCRIPTION:📍 Obyčtov\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒
-  CAS (CHS Žďár nad Sázavou)\n🚒 účelový automobil do 3500 kg (ÚO Žďár nad S
- ázavou)
+DESCRIPTION:📍 Obyčtov\, Žďár nad Sázavou\n💬 Požár trávy\, již uhašeno. Kont
+ rola termokamerou.\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (CHS Žďár nad Sá
+ zavou)\n🚒 účelový automobil do 3500 kg (ÚO Žďár nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:410924061
