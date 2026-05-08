@@ -502,4 +502,17 @@ DESCRIPTION:📍 Sázava\, Nový Rychnov\, Pelhřimov\n💬 Požár lesního por
   DA (Rynárec)\n🚒 CAS (Rynárec)\n🚒 DA (Olešná (PE))\n🚒 CAS (Olešná (PE))\n🚒
   vyšetřovací automobil (ÚO Pelhřimov)
 END:VEVENT
+BEGIN:VEVENT
+UID:410939061
+DTSTART:20260508T180517Z
+DTEND:20260508T190517Z
+DTSTAMP:20260508T180517Z
+SUMMARY:🔥 les - Žďár nad Sázavou
+LOCATION:Žďár nad Sázavou
+GEO:49.552272;15.923515
+URL:geo:49.552272,15.923515
+DESCRIPTION:📍 Žďár nad Sázavou 1\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad 
+ Sázavou)\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (Žďár nad Sázavou-Zámek) ×2\
+ n🚒 osobní automobil (Žďár nad Sázavou-Zámek)
+END:VEVENT
 END:VCALENDAR
