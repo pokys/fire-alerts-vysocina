@@ -5,31 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:410882061
-DTSTART:20260507T105102Z
-DTEND:20260507T115102Z
-DTSTAMP:20260507T105102Z
-SUMMARY:🛠️ ostatní - Pacov
-LOCATION:Pacov
-GEO:49.479053;15.038894
-URL:geo:49.479053,15.038894
-DESCRIPTION:📍 Roučkovice\, Pacov\, Pelhřimov\n💬 Pomoc s imobilní osobou.\n\
- n🚒 CAS (HS Pacov)
-END:VEVENT
-BEGIN:VEVENT
-UID:410884061
-DTSTART:20260507T105343Z
-DTEND:20260507T115343Z
-DTSTAMP:20260507T105343Z
-SUMMARY:🚗 dopravní nehoda - Telč
-LOCATION:Slavíčkova\, Telč
-GEO:49.180259;15.463248
-URL:geo:49.180259,15.463248
-DESCRIPTION:📍 Slavíčkova\, Telč-Podolí\, Telč\, Jihlava\n💬 DN 2 OA\, 1 zran
- ěná osoba. Zajištění místa události a transport pacienta.\n\n🚒 CAS (HS Tel
- č) ×2
-END:VEVENT
-BEGIN:VEVENT
 UID:410886061
 DTSTART:20260507T112602Z
 DTEND:20260507T122602Z
@@ -337,7 +312,7 @@ GEO:49.402457;15.572193
 URL:geo:49.402457,15.572193
 DESCRIPTION:📍 Jiráskova\, Jihlava\n💬 Požár bytu. Lokalizace a likvidace pož
  áru.\n\n🚒 CAS (CHS Jihlava) ×2\n🚒 přetlakový ventilátor (CHS Jihlava)\n🚒 C
- AS (Jihlava-Bedřichov)\n🚒 vyšetřovací automobil (ÚO Jihlava)
+ AS (Jihlava-Bedřichov)\n🚒 vyšetřovací automobil (ÚO Jihlava) ×2
 END:VEVENT
 BEGIN:VEVENT
 UID:410927061
@@ -559,6 +534,7 @@ SUMMARY:🛠️ ostatní - Horní Cerekev
 LOCATION:Štítného\, Horní Cerekev
 GEO:49.320877;15.324383
 URL:geo:49.320877,15.324383
-DESCRIPTION:📍 Štítného\, Horní Cerekev\, Pelhřimov\n\n🚒 CAS (Horní Cerekev)
+DESCRIPTION:📍 Štítného\, Horní Cerekev\, Pelhřimov\n💬 Pročištění kanalizace
+ .\n\n🚒 CAS (Horní Cerekev)
 END:VEVENT
 END:VCALENDAR
