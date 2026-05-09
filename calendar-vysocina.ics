@@ -535,6 +535,18 @@ SUMMARY:🚑 transport pacienta - Pacov
 LOCATION:Pacov
 GEO:49.464649;15.015179
 URL:geo:49.464649,15.015179
-DESCRIPTION:📍 Pacov\, Pelhřimov\n\n🚒 CAS (HS Pacov)
+DESCRIPTION:📍 Pacov\, Pelhřimov\n💬 Transport pacienta na žádost ZZS.\n\n🚒 C
+ AS (HS Pacov)
+END:VEVENT
+BEGIN:VEVENT
+UID:410954061
+DTSTART:20260509T091757Z
+DTEND:20260509T101757Z
+DTSTAMP:20260509T091757Z
+SUMMARY:🚑 otevření/asistence - Havlíčkův Brod
+LOCATION:Pražská\, Havlíčkův Brod
+GEO:49.613946;15.576921
+URL:geo:49.613946,15.576921
+DESCRIPTION:📍 Pražská\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)
 END:VEVENT
 END:VCALENDAR
