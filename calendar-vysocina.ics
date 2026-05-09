@@ -561,7 +561,7 @@ UID:410980061
 DTSTART:20260509T193304Z
 DTEND:20260509T203304Z
 DTSTAMP:20260509T193304Z
-SUMMARY:🚗 dopravní nehoda - Tasov
+SUMMARY:🚗 úklid místa - Tasov
 LOCATION:Tasov
 GEO:49.305884;16.126321
 URL:geo:49.305884,16.126321
@@ -582,5 +582,17 @@ DESCRIPTION:📍 Hutě\, Cejle\, Jihlava\n\n🚒 CAS (CHS Jihlava)\n🚒 CAS (CH
  íkačka (Cejle)\n🚒 CAS (HS Třešť)\n🚒 CAS (Batelov)\n🚒 CAS (Hojkov)\n🚒 CAS (
  Opatov (JI))\n🚒 CAS (Nový Rychnov)\n🚒 DA (Rohozná)\n🚒 CAS (Rohozná)\n🚒 CAS
   (Rohozná)\n🚒 vyšetřovací automobil (ÚO Jihlava)
+END:VEVENT
+BEGIN:VEVENT
+UID:410985061
+DTSTART:20260509T203854Z
+DTEND:20260509T213854Z
+DTSTAMP:20260509T203854Z
+SUMMARY:🔥 les - Boršov
+LOCATION:Boršov
+GEO:49.389595;15.441233
+URL:geo:49.389595,15.441233
+DESCRIPTION:📍 Boršov\, Jihlava\n\n🚒 CAS (Opatov (JI))\n🚒 CAS (Nový Rychnov)
+ \n🚒 osobní automobil (Boršov)\n🚒 CAS (CHS Pelhřimov)
 END:VEVENT
 END:VCALENDAR
