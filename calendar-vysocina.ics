@@ -387,9 +387,9 @@ SUMMARY:🚗 úklid místa - Žďár nad Sázavou
 LOCATION:Revoluční\, Žďár nad Sázavou
 GEO:49.562155;15.931893
 URL:geo:49.562155,15.931893
-DESCRIPTION:📍 Revoluční\, Žďár nad Sázavou 3\, Žďár nad Sázavou\n💬 DN 2 OA.
-  Nehoda bez zranění. Provedeno protipožární opatření a úklid vozovky.\n\n🚒
-  CAS (CHS Žďár nad Sázavou)
+DESCRIPTION:📍 Revoluční\, Žďár nad Sázavou 3\, Žďár nad Sázavou\n💬 DN 2 OA 
+ bez zranění. Provedeno protipožární opatření a úklid vozovky.\n\n🚒 CAS (CH
+ S Žďár nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:410950061
@@ -543,6 +543,6 @@ SUMMARY:🔥 odpad - Jihlava
 LOCATION:Jihlava
 GEO:49.402908;15.602480
 URL:geo:49.402908,15.602480
-DESCRIPTION:🚒 CAS (CHS Jihlava)
+DESCRIPTION:💬 Požár odpadkového koše.\n\n🚒 CAS (CHS Jihlava)
 END:VEVENT
 END:VCALENDAR
