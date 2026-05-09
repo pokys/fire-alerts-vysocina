@@ -600,4 +600,15 @@ DESCRIPTION:📍 Boršov\, Jihlava\n💬 Požár lesa na ploše asi 1 ha. Byla p
  hnov)\n🚒 osobní automobil (Boršov)\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (Větrný J
  eníkov)\n🚒 CAS (Jihlava-Bedřichov)
 END:VEVENT
+BEGIN:VEVENT
+UID:410987061
+DTSTART:20260509T232733Z
+DTEND:20260510T002733Z
+DTSTAMP:20260509T232733Z
+SUMMARY:🚗 úklid místa - Humpolec
+LOCATION:Humpolec
+GEO:49.540765;15.331431
+URL:geo:49.540765,15.331431
+DESCRIPTION:📍 Humpolec\, Pelhřimov\n\n🚒 CAS (HS Humpolec)
+END:VEVENT
 END:VCALENDAR
