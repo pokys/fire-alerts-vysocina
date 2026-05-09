@@ -565,8 +565,9 @@ SUMMARY:🚗 úklid místa - Tasov
 LOCATION:Tasov
 GEO:49.305884;16.126321
 URL:geo:49.305884,16.126321
-DESCRIPTION:📍 Tasov\, Žďár nad Sázavou\n\n🚒 CAS (HS Velká Bíteš)\n🚒 CAS (HS
-  Velké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)
+DESCRIPTION:📍 Tasov\, Žďár nad Sázavou\n💬 DN 2 OA bez zranění. Jednotky pro
+ vedly protipožární opatření. Úklid komunikace.\n\n🚒 CAS (HS Velká Bíteš)\n
+ 🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)
 END:VEVENT
 BEGIN:VEVENT
 UID:410984061
@@ -578,10 +579,11 @@ LOCATION:Cejle
 GEO:49.371604;15.429519
 URL:geo:49.371604,15.429519
 DESCRIPTION:📍 Hutě\, Cejle\, Jihlava\n\n🚒 CAS (CHS Jihlava)\n🚒 CAS (CHS Jih
- lava)\n🚒 CAS (Dolní Cerekev)\n🚒 CAS (Dolní Cerekev)\n🚒 přívěs motorová stř
- íkačka (Cejle)\n🚒 CAS (HS Třešť)\n🚒 CAS (Batelov)\n🚒 CAS (Hojkov)\n🚒 CAS (
- Opatov (JI))\n🚒 CAS (Nový Rychnov)\n🚒 DA (Rohozná)\n🚒 CAS (Rohozná)\n🚒 CAS
-  (Rohozná)\n🚒 vyšetřovací automobil (ÚO Jihlava)
+ lava)\n🚒 účelový automobil do 3500 kg (CHS Jihlava)\n🚒 přívěs nákladní (CH
+ S Jihlava)\n🚒 CAS (Dolní Cerekev)\n🚒 CAS (Dolní Cerekev)\n🚒 přívěs motorov
+ á stříkačka (Cejle)\n🚒 CAS (HS Třešť)\n🚒 CAS (Batelov)\n🚒 CAS (Hojkov)\n🚒 
+ CAS (Opatov (JI))\n🚒 CAS (Nový Rychnov)\n🚒 DA (Rohozná)\n🚒 CAS (Rohozná)\n
+ 🚒 CAS (Rohozná)\n🚒 vyšetřovací automobil (ÚO Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:410985061
@@ -593,6 +595,7 @@ LOCATION:Boršov
 GEO:49.389595;15.441233
 URL:geo:49.389595,15.441233
 DESCRIPTION:📍 Boršov\, Jihlava\n\n🚒 CAS (Opatov (JI))\n🚒 CAS (Nový Rychnov)
- \n🚒 osobní automobil (Boršov)\n🚒 CAS (CHS Pelhřimov)
+ \n🚒 osobní automobil (Boršov)\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (Větrný Jeníko
+ v)\n🚒 CAS (Jihlava-Bedřichov)
 END:VEVENT
 END:VCALENDAR
