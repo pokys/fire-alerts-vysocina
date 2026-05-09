@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:410902061
-DTSTART:20260507T145930Z
-DTEND:20260507T155930Z
-DTSTAMP:20260507T145930Z
-SUMMARY:🛠️ ostatní - Mnich
-LOCATION:Mnich
-GEO:49.300656;14.962959
-URL:geo:49.300656,14.962959
-DESCRIPTION:📍 Mnich\, Pelhřimov\n💬 Odchyt hada ze sklepa RD.\n\n🚒 CAS (HS K
- amenice nad Lipou)
-END:VEVENT
-BEGIN:VEVENT
 UID:410904061
 DTSTART:20260507T181221Z
 DTEND:20260507T191221Z
@@ -350,8 +338,8 @@ SUMMARY:🛠️ ostatní - Koberovice
 LOCATION:Koberovice
 GEO:49.587568;15.262860
 URL:geo:49.587568,15.262860
-DESCRIPTION:📍 Koberovice\, Pelhřimov\n\n🚒 účelový automobil do 3500 kg (Kob
- erovice)
+DESCRIPTION:📍 Koberovice\, Pelhřimov\n💬 Řízení dopravy a požární dozor při 
+ obecní akci.\n\n🚒 účelový automobil do 3500 kg (Koberovice)
 END:VEVENT
 BEGIN:VEVENT
 UID:410952061
@@ -410,7 +398,7 @@ SUMMARY:🛠️ ostatní - Babice
 LOCATION:Babice
 GEO:49.124233;15.768852
 URL:geo:49.124233,15.768852
-DESCRIPTION:📍 Babice\, Třebíč\n\n🚒 CAS (Babice (TR))
+DESCRIPTION:📍 Babice\, Třebíč\n💬 Tlakování vodovodu.\n\n🚒 CAS (Babice (TR))
 END:VEVENT
 BEGIN:VEVENT
 UID:410957061
@@ -468,9 +456,10 @@ SUMMARY:🔥 venkovní požár - Jaroměřice nad Rokytnou
 LOCATION:Jaroměřice nad Rokytnou
 GEO:49.130307;15.915563
 URL:geo:49.130307,15.915563
-DESCRIPTION:📍 Ratibořice\, Jaroměřice nad Rokytnou\, Třebíč\n\n🚒 CAS (CHS T
- řebíč)\n🚒 CAS (CHS Třebíč)\n🚒 CAS (Jaroměřice nad Rokytnou)\n🚒 CAS (Jaromě
- řice nad Rokytnou)
+DESCRIPTION:📍 Ratibořice\, Jaroměřice nad Rokytnou\, Třebíč\n💬 Požár odpadu
+ . Jednotky provedly lokalizaci a likvidaci.\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (
+ CHS Třebíč)\n🚒 CAS (Jaroměřice nad Rokytnou)\n🚒 CAS (Jaroměřice nad Rokytn
+ ou)
 END:VEVENT
 BEGIN:VEVENT
 UID:410964061
@@ -512,11 +501,11 @@ UID:410968061
 DTSTART:20260509T141642Z
 DTEND:20260509T151642Z
 DTSTAMP:20260509T141642Z
-SUMMARY:🚗 se zraněním - Jihlava
+SUMMARY:⚠️ planý poplach - Jihlava
 LOCATION:Vrchlického\, Jihlava
 GEO:49.396842;15.579724
 URL:geo:49.396842,15.579724
-DESCRIPTION:📍 Vrchlického\, Jihlava\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihl
- ava)
+DESCRIPTION:📍 Vrchlického\, Jihlava\n💬 Planý poplach.\n\n🚒 CAS (CHS Jihlava
+ )\n🚒 RZA (CHS Jihlava)
 END:VEVENT
 END:VCALENDAR
