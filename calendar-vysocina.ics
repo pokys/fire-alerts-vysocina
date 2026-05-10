@@ -574,7 +574,7 @@ DESCRIPTION:📍 Hutě\, Cejle\, Jihlava\n💬 Požár lesa. Lokalizace a likvid
   Třešť)\n🚒 pila řetězová (HS Třešť)\n🚒 CAS (Batelov)\n🚒 CAS (Hojkov)\n🚒 CA
  S (Opatov (JI))\n🚒 CAS (Nový Rychnov)\n🚒 DA (Rohozná)\n🚒 CAS (Rohozná)\n🚒 
  CAS (Rohozná)\n🚒 přÍvěs pro hašení (Rohozná)\n🚒 vyšetřovací automobil (ÚO 
- Jihlava)
+ Jihlava) ×2
 END:VEVENT
 BEGIN:VEVENT
 UID:410985061
@@ -614,5 +614,39 @@ URL:geo:49.335121,16.065029
 DESCRIPTION:📍 Jabloňov\, Žďár nad Sázavou\n💬 Uhašení ohniště.\n\n🚒 CAS (HS 
  Velké Meziříčí)\n🚒 CAS (Jabloňov)\n🚒 CAS (Osová Bítýška)\n🚒 CAS (Velké Mez
  iříčí)\n🚒 CAS (Velké Meziříčí)
+END:VEVENT
+BEGIN:VEVENT
+UID:410990061
+DTSTART:20260510T053141Z
+DTEND:20260510T063141Z
+DTSTAMP:20260510T053141Z
+SUMMARY:🛠️ ostatní - Cejle
+LOCATION:Cejle
+GEO:49.371718;15.437753
+URL:geo:49.371718,15.437753
+DESCRIPTION:📍 Cejle\, Jihlava\n\n🚒 CAS (Dolní Cerekev)
+END:VEVENT
+BEGIN:VEVENT
+UID:410991061
+DTSTART:20260510T054149Z
+DTEND:20260510T064149Z
+DTSTAMP:20260510T054149Z
+SUMMARY:🚑 transport pacienta - Batelov
+LOCATION:Družstevní\, Batelov
+GEO:49.311509;15.392557
+URL:geo:49.311509,15.392557
+DESCRIPTION:📍 Družstevní\, Batelov\, Jihlava\n\n🚒 CAS (HS Třešť)\n🚒 CAS (Ba
+ telov)
+END:VEVENT
+BEGIN:VEVENT
+UID:410992061
+DTSTART:20260510T054236Z
+DTEND:20260510T064236Z
+DTSTAMP:20260510T054236Z
+SUMMARY:🛠️ otevření bytu/auta - Havlíčkův Brod
+LOCATION:Na Výšině\, Havlíčkův Brod
+GEO:49.617248;15.575381
+URL:geo:49.617248,15.575381
+DESCRIPTION:📍 Na Výšině\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)
 END:VEVENT
 END:VCALENDAR
