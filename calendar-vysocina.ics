@@ -685,15 +685,15 @@ SUMMARY:🚗 dopravní nehoda - Nový Rychnov
 LOCATION:Nový Rychnov
 GEO:49.360965;15.354248
 URL:geo:49.360965,15.354248
-DESCRIPTION:📍 Nový Rychnov\, Pelhřimov\n💬 DN 1 motocyklu ze zraněním. Řízen
- í dopravy.\n\n🚒 CAS (CHS Pelhřimov)
+DESCRIPTION:📍 Nový Rychnov\, Pelhřimov\n💬 DN motocyklu ze zraněním. Řízení 
+ dopravy.\n\n🚒 CAS (CHS Pelhřimov)
 END:VEVENT
 BEGIN:VEVENT
 UID:411027061
 DTSTART:20260510T163206Z
 DTEND:20260510T173206Z
 DTSTAMP:20260510T163206Z
-SUMMARY:🔥 vozidlo - Třebíč
+SUMMARY:🛠️ ostatní - Třebíč
 LOCATION:Třebíč
 GEO:49.214060;15.874472
 URL:geo:49.214060,15.874472
