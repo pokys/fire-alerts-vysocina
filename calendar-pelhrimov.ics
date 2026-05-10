@@ -132,8 +132,8 @@ LOCATION:Božejov
 GEO:49.363106;15.164010
 URL:geo:49.363106,15.164010
 DESCRIPTION:📍 Božejov\, Pelhřimov\n💬 Požár meze a křoví. Provedena likvidac
- e.\n\n🚒 CAS (HS Kamenice nad Lipou)\n🚒 CAS (HS Kamenice nad Lipou)\n🚒 DA (
- Božejov)\n🚒 CAS (Božejov)
+ e požáru.\n\n🚒 CAS (HS Kamenice nad Lipou)\n🚒 CAS (HS Kamenice nad Lipou)\
+ n🚒 DA (Božejov)\n🚒 CAS (Božejov)
 END:VEVENT
 BEGIN:VEVENT
 UID:411024061
@@ -144,6 +144,7 @@ SUMMARY:🚗 dopravní nehoda - Nový Rychnov
 LOCATION:Nový Rychnov
 GEO:49.360965;15.354248
 URL:geo:49.360965,15.354248
-DESCRIPTION:📍 Nový Rychnov\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)
+DESCRIPTION:📍 Nový Rychnov\, Pelhřimov\n💬 DN 1 motocyklu ze zraněním.\n\n🚒 
+ CAS (CHS Pelhřimov)
 END:VEVENT
 END:VCALENDAR
