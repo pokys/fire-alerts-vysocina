@@ -581,8 +581,8 @@ SUMMARY:🛠️ ostatní - Horní Cerekev
 LOCATION:Kouřimského\, Horní Cerekev
 GEO:49.321608;15.329663
 URL:geo:49.321608,15.329663
-DESCRIPTION:📍 Kouřimského\, Horní Cerekev\, Pelhřimov\n\n🚒 CAS (Horní Cerek
- ev)
+DESCRIPTION:📍 Kouřimského\, Horní Cerekev\, Pelhřimov\n💬 Proplach a čištění
+  kanalizace.\n\n🚒 CAS (Horní Cerekev)
 END:VEVENT
 BEGIN:VEVENT
 UID:411008061
@@ -613,10 +613,23 @@ UID:411010061
 DTSTART:20260510T114514Z
 DTEND:20260510T124514Z
 DTSTAMP:20260510T114514Z
-SUMMARY:☣️ plyn - Jihlava
+SUMMARY:🛠️ měření koncentrace - Jihlava
 LOCATION:Smetanova\, Jihlava
 GEO:49.393231;15.590364
 URL:geo:49.393231,15.590364
-DESCRIPTION:📍 Smetanova\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+DESCRIPTION:📍 Smetanova\, Jihlava\n💬 Měření koncentrací CO.\n\n🚒 CAS (CHS J
+ ihlava)
+END:VEVENT
+BEGIN:VEVENT
+UID:411011061
+DTSTART:20260510T115759Z
+DTEND:20260510T125759Z
+DTSTAMP:20260510T115759Z
+SUMMARY:🚗 úklid místa - Střítež
+LOCATION:Střítež
+GEO:49.432189;16.272370
+URL:geo:49.432189,16.272370
+DESCRIPTION:📍 Střítež\, Žďár nad Sázavou\n\n🚒 CAS (HS Bystřice nad Pernštej
+ nem)
 END:VEVENT
 END:VCALENDAR
