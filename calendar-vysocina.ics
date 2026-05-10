@@ -519,8 +519,8 @@ SUMMARY:🛠️ ostatní - Horní Cerekev
 LOCATION:Kouřimského\, Horní Cerekev
 GEO:49.321608;15.329663
 URL:geo:49.321608,15.329663
-DESCRIPTION:📍 Kouřimského\, Horní Cerekev\, Pelhřimov\n💬 Proplach a čištění
-  kanalizace.\n\n🚒 CAS (Horní Cerekev)
+DESCRIPTION:📍 Kouřimského\, Horní Cerekev\, Pelhřimov\n💬 Proplach kanalizac
+ e.\n\n🚒 CAS (Horní Cerekev)
 END:VEVENT
 BEGIN:VEVENT
 UID:411008061
@@ -567,8 +567,8 @@ SUMMARY:🚗 úklid místa - Střítež
 LOCATION:Střítež
 GEO:49.432189;16.272370
 URL:geo:49.432189,16.272370
-DESCRIPTION:📍 Střítež\, Žďár nad Sázavou\n💬 DN OA na střeše. Bez zranění. Z
- ajištění místa nehody.\n\n🚒 CAS (HS Bystřice nad Pernštejnem)
+DESCRIPTION:📍 Střítež\, Žďár nad Sázavou\n💬 DN 1 OA na střeše. Bez zranění.
+  Zajištění místa nehody.\n\n🚒 CAS (HS Bystřice nad Pernštejnem)
 END:VEVENT
 BEGIN:VEVENT
 UID:411012061
@@ -628,7 +628,8 @@ LOCATION:Horní Dubenky
 GEO:49.260025;15.309757
 URL:geo:49.260025,15.309757
 DESCRIPTION:📍 Horní Dubenky\, Jihlava\n💬 Požár lesního porostu. Lokalizace 
- a likvidace požáru.\n\n🚒 CAS (HS Telč)\n🚒 CAS (Horní Dubenky)
+ a likvidace požáru.\n\n🚒 CAS (HS Telč)\n🚒 CAS (Horní Dubenky)\n🚒 vyšetřova
+ cí automobil (ÚO Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:411017061
@@ -639,8 +640,8 @@ SUMMARY:☣️ olej/PHM - Jiřice
 LOCATION:Jiřice
 GEO:49.553606;15.325643
 URL:geo:49.553606,15.325643
-DESCRIPTION:📍 Jiřice\, Pelhřimov\n💬 Únik oleje na pozemní komunikaci. Likvi
- dace sorbentem a označení místa události.\n\n🚒 CAS (HS Humpolec)
+DESCRIPTION:📍 Jiřice\, Pelhřimov\n💬 Únik nafty z OA na pozemní komunikaci. 
+ Likvidace sorbentem a označení místa události.\n\n🚒 CAS (HS Humpolec)
 END:VEVENT
 BEGIN:VEVENT
 UID:411019061
@@ -665,5 +666,17 @@ GEO:49.681251;15.830290
 URL:geo:49.681251,15.830290
 DESCRIPTION:📍 Staré Ransko\, Krucemburk\, Havlíčkův Brod\n💬 Odstranění obtí
  žného hmyzu.\n\n🚒 CAS (Ždírec nad Doubravou)
+END:VEVENT
+BEGIN:VEVENT
+UID:411022061
+DTSTART:20260510T144200Z
+DTEND:20260510T154200Z
+DTSTAMP:20260510T144200Z
+SUMMARY:🔥 tráva/plocha - Božejov
+LOCATION:Božejov
+GEO:49.363106;15.164010
+URL:geo:49.363106,15.164010
+DESCRIPTION:📍 Božejov\, Pelhřimov\n\n🚒 CAS (HS Kamenice nad Lipou)\n🚒 CAS (
+ HS Kamenice nad Lipou)\n🚒 DA (Božejov)\n🚒 CAS (Božejov)
 END:VEVENT
 END:VCALENDAR
