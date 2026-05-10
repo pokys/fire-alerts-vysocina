@@ -724,20 +724,22 @@ GEO:49.713845;15.587146
 URL:geo:49.713845,15.587146
 DESCRIPTION:📍 Jilem\, Havlíčkův Brod\n\n🚒 CAS (HS Chotěboř)\n🚒 CAS (HS Chot
  ěboř)\n🚒 CAS (Habry)\n🚒 CAS (Habry)\n🚒 CAS (Horní Krupá)\n🚒 CAS (CHS Havlí
- čkův Brod)\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 DA (Chotěboř)\n🚒 CAS (Chotěboř)\
- n🚒 CAS (Libice nad Doubravou)\n🚒 DA (Lučice)\n🚒 CAS (Lučice)\n🚒 CAS (Uheln
- á Příbram)\n🚒 vyšetřovací automobil (ÚO Havlíčkův Brod)
+ čkův Brod)\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 účelový automobil do 3500 kg (CH
+ S Havlíčkův Brod)\n🚒 DA (Chotěboř)\n🚒 CAS (Chotěboř)\n🚒 CAS (Libice nad Do
+ ubravou)\n🚒 DA (Lučice)\n🚒 CAS (Lučice)\n🚒 CAS (Uhelná Příbram)\n🚒 vyšetřo
+ vací automobil (ÚO Havlíčkův Brod)\n🚒 přívěs motorová stříkačka (Čachotín)
 END:VEVENT
 BEGIN:VEVENT
 UID:411039061
 DTSTART:20260510T192520Z
 DTEND:20260510T202520Z
 DTSTAMP:20260510T192520Z
-SUMMARY:🔥 les - Vilémov
+SUMMARY:⚠️ planý poplach - Vilémov
 LOCATION:Vilémov
 GEO:49.782463;15.520136
 URL:geo:49.782463,15.520136
-DESCRIPTION:📍 Hostovlice\, Vilémov\, Havlíčkův Brod\n\n🚒 CAS (HS Světlá nad
-  Sázavou)\n🚒 CAS (Golčův Jeníkov)\n🚒 CAS (Golčův Jeníkov)
+DESCRIPTION:📍 Hostovlice\, Vilémov\, Havlíčkův Brod\n💬 Planý poplach.\n\n🚒 
+ CAS (HS Světlá nad Sázavou)\n🚒 CAS (Golčův Jeníkov)\n🚒 CAS (Golčův Jeníkov
+ )
 END:VEVENT
 END:VCALENDAR
