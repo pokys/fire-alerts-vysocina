@@ -676,7 +676,19 @@ SUMMARY:🔥 tráva/plocha - Božejov
 LOCATION:Božejov
 GEO:49.363106;15.164010
 URL:geo:49.363106,15.164010
-DESCRIPTION:📍 Božejov\, Pelhřimov\n\n🚒 CAS (HS Kamenice nad Lipou)\n🚒 CAS (
- HS Kamenice nad Lipou)\n🚒 DA (Božejov)\n🚒 CAS (Božejov)
+DESCRIPTION:📍 Božejov\, Pelhřimov\n💬 Požár meze a křoví.\n\n🚒 CAS (HS Kamen
+ ice nad Lipou)\n🚒 CAS (HS Kamenice nad Lipou)\n🚒 DA (Božejov)\n🚒 CAS (Bože
+ jov)
+END:VEVENT
+BEGIN:VEVENT
+UID:411023061
+DTSTART:20260510T150647Z
+DTEND:20260510T160647Z
+DTSTAMP:20260510T150647Z
+SUMMARY:🚗 dopravní nehoda - Čechtín
+LOCATION:Čechtín
+GEO:49.289032;15.816667
+URL:geo:49.289032,15.816667
+DESCRIPTION:📍 Čechtín\, Třebíč\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (Okříšky)
 END:VEVENT
 END:VCALENDAR
