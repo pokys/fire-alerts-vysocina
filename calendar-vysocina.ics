@@ -635,8 +635,8 @@ SUMMARY:🚑 transport pacienta - Batelov
 LOCATION:Družstevní\, Batelov
 GEO:49.311509;15.392557
 URL:geo:49.311509,15.392557
-DESCRIPTION:📍 Družstevní\, Batelov\, Jihlava\n\n🚒 CAS (HS Třešť)\n🚒 CAS (Ba
- telov)
+DESCRIPTION:📍 Družstevní\, Batelov\, Jihlava\n💬 Transport pacienta na žádos
+ t ZZS.\n\n🚒 CAS (HS Třešť)\n🚒 CAS (Batelov)
 END:VEVENT
 BEGIN:VEVENT
 UID:410992061
@@ -647,6 +647,7 @@ SUMMARY:🛠️ otevření bytu/auta - Havlíčkův Brod
 LOCATION:Na Výšině\, Havlíčkův Brod
 GEO:49.617248;15.575381
 URL:geo:49.617248,15.575381
-DESCRIPTION:📍 Na Výšině\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)
+DESCRIPTION:📍 Na Výšině\, Havlíčkův Brod\n💬 Otevření bytu.\n\n🚒 CAS (CHS Ha
+ vlíčkův Brod)
 END:VEVENT
 END:VCALENDAR
