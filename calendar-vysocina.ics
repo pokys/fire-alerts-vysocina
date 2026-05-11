@@ -659,9 +659,9 @@ SUMMARY:🚗 bez zranění - Stránecká Zhoř
 LOCATION:Stránecká Zhoř
 GEO:49.382145;15.935498
 URL:geo:49.382145,15.935498
-DESCRIPTION:📍 Stránecká Zhoř\, Žďár nad Sázavou\n💬 DN 1 OA a 1 NA\, bez zra
- nění. Zajištění místa nehody.\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (HS Velk
- é Meziříčí)
+DESCRIPTION:📍 Stránecká Zhoř\, Žďár nad Sázavou\n💬 DN OA a NA\, bez zranění
+ . Zajištění místa nehody.\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (HS Velké Me
+ ziříčí)
 END:VEVENT
 BEGIN:VEVENT
 UID:411052061
@@ -672,8 +672,8 @@ SUMMARY:🚗 dopravní nehoda - Kojčice
 LOCATION:Kojčice
 GEO:49.476716;15.273146
 URL:geo:49.476716,15.273146
-DESCRIPTION:📍 Kojčice\, Pelhřimov\n💬 DN dodávky se zraněním.\n\n🚒 CAS (CHS 
- Pelhřimov)
+DESCRIPTION:📍 Kojčice\, Pelhřimov\n💬 DN dodávky se zraněním. Zajištění míst
+ a události.\n\n🚒 CAS (CHS Pelhřimov)
 END:VEVENT
 BEGIN:VEVENT
 UID:411053061
@@ -696,9 +696,10 @@ SUMMARY:🚗 se zraněním - Věžná
 LOCATION:Věžná
 GEO:49.466701;16.266573
 URL:geo:49.466701,16.266573
-DESCRIPTION:📍 Věžná\, Žďár nad Sázavou\n\n🚒 CAS (HS Bystřice nad Pernštejne
- m)\n🚒 VEA (CHS Žďár nad Sázavou)\n🚒 VYA (CHS Žďár nad Sázavou)\n🚒 přívěs l
- odní (CHS Žďár nad Sázavou)
+DESCRIPTION:📍 Věžná\, Žďár nad Sázavou\n💬 DN OA v rybníku. Bez zranění. Zaj
+ ištění místa události.\n\n🚒 CAS (HS Bystřice nad Pernštejnem)\n🚒 VEA (CHS 
+ Žďár nad Sázavou)\n🚒 VYA (CHS Žďár nad Sázavou)\n🚒 přívěs lodní (CHS Žďár 
+ nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:411056061
@@ -709,7 +710,8 @@ SUMMARY:🚗 se zraněním - Jersín
 LOCATION:Jersín
 GEO:49.433942;15.830302
 URL:geo:49.433942,15.830302
-DESCRIPTION:📍 Jersín\, Jihlava\n\n🚒 CAS (HS Polná)
+DESCRIPTION:📍 Jersín\, Jihlava\n💬 DN náraz dodávky do stromu. Jedna zraněná
+  osoba. Zajištění místa události.\n\n🚒 CAS (HS Polná)
 END:VEVENT
 BEGIN:VEVENT
 UID:411065061
@@ -720,8 +722,8 @@ SUMMARY:🚗 bez zranění - Humpolec
 LOCATION:Humpolec
 GEO:49.506434;15.298457
 URL:geo:49.506434,15.298457
-DESCRIPTION:📍 Kletečná\, Humpolec\, Pelhřimov\n💬 DN NA bez zranění.\n\n🚒 CA
- S (HS Humpolec)
+DESCRIPTION:📍 Kletečná\, Humpolec\, Pelhřimov\n💬 DN NA\, bez zranění.\n\n🚒 
+ CAS (HS Humpolec)
 END:VEVENT
 BEGIN:VEVENT
 UID:411072061
@@ -744,6 +746,18 @@ SUMMARY:🛠️ obtížný hmyz - Jamné
 LOCATION:Jamné
 GEO:49.449216;15.743533
 URL:geo:49.449216,15.743533
-DESCRIPTION:📍 Lipina\, Jamné\, Jihlava\n\n🚒 CAS (HS Polná)
+DESCRIPTION:📍 Lipina\, Jamné\, Jihlava\n💬 Likvidace nebezpečného hmyzu.\n\n
+ 🚒 CAS (HS Polná)
+END:VEVENT
+BEGIN:VEVENT
+UID:411075061
+DTSTART:20260511T095714Z
+DTEND:20260511T105714Z
+DTSTAMP:20260511T095714Z
+SUMMARY:🛠️ strom - Humpolec
+LOCATION:Humpolec
+GEO:49.549597;15.360665
+URL:geo:49.549597,15.360665
+DESCRIPTION:📍 Humpolec\, Pelhřimov\n\n🚒 CAS (HS Humpolec)
 END:VEVENT
 END:VCALENDAR
