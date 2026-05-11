@@ -772,8 +772,8 @@ SUMMARY:🛠️ čerpání vody - Nové Město na Moravě
 LOCATION:Tyršova\, Nové Město na Moravě
 GEO:49.564844;16.075111
 URL:geo:49.564844,16.075111
-DESCRIPTION:📍 Tyršova\, Nové Město na Moravě\, Žďár nad Sázavou\n\n🚒 CAS (N
- ové Město na Moravě)
+DESCRIPTION:📍 Tyršova\, Nové Město na Moravě\, Žďár nad Sázavou\n💬 Pročiště
+ ní ucpané kanalizace.\n\n🚒 CAS (Nové Město na Moravě)
 END:VEVENT
 BEGIN:VEVENT
 UID:411107061
@@ -784,7 +784,8 @@ SUMMARY:🛠️ čerpání vody - Kuklík
 LOCATION:Kuklík
 GEO:49.625402;16.106291
 URL:geo:49.625402,16.106291
-DESCRIPTION:📍 Kuklík\, Žďár nad Sázavou\n\n🚒 DA (Kuklík)\n🚒 CAS (Kuklík)
+DESCRIPTION:📍 Kuklík\, Žďár nad Sázavou\n💬 Čerpání vody.\n\n🚒 DA (Kuklík)\n
+ 🚒 CAS (Kuklík)
 END:VEVENT
 BEGIN:VEVENT
 UID:411108061
@@ -795,8 +796,8 @@ SUMMARY:🛠️ čerpání vody - Nové Město na Moravě
 LOCATION:Soškova\, Nové Město na Moravě
 GEO:49.566174;16.080789
 URL:geo:49.566174,16.080789
-DESCRIPTION:📍 Soškova\, Nové Město na Moravě\, Žďár nad Sázavou\n\n🚒 CAS (C
- HS Žďár nad Sázavou)
+DESCRIPTION:📍 Soškova\, Nové Město na Moravě\, Žďár nad Sázavou\n💬 Čerpání 
+ vody.\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 VEA (CHS Žďár nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:411109061
@@ -819,8 +820,8 @@ SUMMARY:🛠️ ostatní - Nové Město na Moravě
 LOCATION:Nové Město na Moravě
 GEO:49.561333;16.086726
 URL:geo:49.561333,16.086726
-DESCRIPTION:📍 Nové Město na Moravě\, Žďár nad Sázavou\n\n🚒 CAS (Nové Město 
- na Moravě)
+DESCRIPTION:📍 Nové Město na Moravě\, Žďár nad Sázavou\n💬 Čištění kanalizace
+ .\n\n🚒 CAS (Nové Město na Moravě)
 END:VEVENT
 BEGIN:VEVENT
 UID:411112061
@@ -831,7 +832,8 @@ SUMMARY:🛠️ ostatní - Křídla
 LOCATION:Křídla
 GEO:49.527229;16.122346
 URL:geo:49.527229,16.122346
-DESCRIPTION:📍 Křídla\, Žďár nad Sázavou\n\n🚒 DA (Křídla)
+DESCRIPTION:📍 Křídla\, Žďár nad Sázavou\n💬 Likvidace nánosu bláta.\n\n🚒 DA 
+ (Křídla)
 END:VEVENT
 BEGIN:VEVENT
 UID:411114061
@@ -842,8 +844,9 @@ SUMMARY:🛠️ ostatní - Bystřice nad Pernštejnem
 LOCATION:Bystřice nad Pernštejnem
 GEO:49.547249;16.156376
 URL:geo:49.547249,16.156376
-DESCRIPTION:📍 Divišov\, Bystřice nad Pernštejnem\, Žďár nad Sázavou\n\n🚒 CA
- S (HS Bystřice nad Pernštejnem)\n🚒 DA (Divišov)
+DESCRIPTION:📍 Divišov\, Bystřice nad Pernštejnem\, Žďár nad Sázavou\n💬 Odst
+ ranění nánosu bláta.\n\n🚒 CAS (HS Bystřice nad Pernštejnem)\n🚒 DA (Divišov
+ )
 END:VEVENT
 BEGIN:VEVENT
 UID:411115061
@@ -854,7 +857,7 @@ SUMMARY:🛠️ čerpání vody - Kuklík
 LOCATION:Kuklík
 GEO:49.625651;16.105620
 URL:geo:49.625651,16.105620
-DESCRIPTION:📍 Kuklík\, Žďár nad Sázavou\n\n🚒 DA (Kuklík)
+DESCRIPTION:📍 Kuklík\, Žďár nad Sázavou\n💬 Čerpání vody.\n\n🚒 DA (Kuklík)
 END:VEVENT
 BEGIN:VEVENT
 UID:411116061
@@ -865,8 +868,8 @@ SUMMARY:🛠️ ostatní - Ostrov nad Oslavou
 LOCATION:Ostrov nad Oslavou
 GEO:49.486818;15.989927
 URL:geo:49.486818,15.989927
-DESCRIPTION:📍 Ostrov nad Oslavou\, Žďár nad Sázavou\n\n🚒 CAS (Ostrov nad Os
- lavou)
+DESCRIPTION:📍 Ostrov nad Oslavou\, Žďár nad Sázavou\n💬 Likvidace nánosu blá
+ ta.\n\n🚒 CAS (Ostrov nad Oslavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:411120061
@@ -877,7 +880,8 @@ SUMMARY:🛠️ ostatní - Jihlava
 LOCATION:Jihlava
 GEO:49.407736;15.609327
 URL:geo:49.407736,15.609327
-DESCRIPTION:📍 Hruškové Dvory\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+DESCRIPTION:📍 Hruškové Dvory\, Jihlava\n💬 Pročištění ucpané kanalizace.\n\n
+ 🚒 CAS (CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:411121061
@@ -910,8 +914,8 @@ SUMMARY:🛠️ čerpání vody - Nové Město na Moravě
 LOCATION:Nové Město na Moravě
 GEO:49.576996;16.094281
 URL:geo:49.576996,16.094281
-DESCRIPTION:📍 Pohledec\, Nové Město na Moravě\, Žďár nad Sázavou\n\n🚒 CAS (
- Nové Město na Moravě-Pohledec)
+DESCRIPTION:📍 Pohledec\, Nové Město na Moravě\, Žďár nad Sázavou\n💬 Čerpání
+  vody.\n\n🚒 CAS (Nové Město na Moravě-Pohledec)
 END:VEVENT
 BEGIN:VEVENT
 UID:411125061
@@ -922,7 +926,8 @@ SUMMARY:🛠️ ostatní - Polná
 LOCATION:Nerudova\, Polná
 GEO:49.488533;15.714244
 URL:geo:49.488533,15.714244
-DESCRIPTION:📍 Nerudova\, Polná\, Jihlava\n\n🚒 CAS (HS Polná)
+DESCRIPTION:📍 Nerudova\, Polná\, Jihlava\n💬 Pročištění ucpané kanalizace.\n
+ \n🚒 CAS (HS Polná)
 END:VEVENT
 BEGIN:VEVENT
 UID:411126061
@@ -933,7 +938,7 @@ SUMMARY:🛠️ ostatní - Jihlava
 LOCATION:Jihlava
 GEO:49.412349;15.599429
 URL:geo:49.412349,15.599429
-DESCRIPTION:🚒 CAS (Jihlava-Bedřichov)
+DESCRIPTION:💬 Zajištění lávky.\n\n🚒 CAS (Jihlava-Bedřichov)
 END:VEVENT
 BEGIN:VEVENT
 UID:411127061
@@ -947,6 +952,18 @@ URL:geo:49.435298,15.599927
 DESCRIPTION:🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
+UID:411129061
+DTSTART:20260511T163220Z
+DTEND:20260511T173220Z
+DTSTAMP:20260511T163220Z
+SUMMARY:🛠️ ostatní - Nové Město na Moravě
+LOCATION:Nové Město na Moravě
+GEO:49.564407;16.084025
+URL:geo:49.564407,16.084025
+DESCRIPTION:📍 Nové Město na Moravě\, Žďár nad Sázavou\n💬 Zajištění vodního 
+ toku.\n\n🚒 CAS (Nové Město na Moravě)
+END:VEVENT
+BEGIN:VEVENT
 UID:411130061
 DTSTART:20260511T163236Z
 DTEND:20260511T173236Z
@@ -957,5 +974,63 @@ GEO:49.580553;15.936305
 URL:geo:49.580553,15.936305
 DESCRIPTION:📍 Santiniho\, Žďár nad Sázavou 2\, Žďár nad Sázavou\n💬 Mytí kom
  unikace.\n\n🚒 CAS (Žďár nad Sázavou-Zámek)
+END:VEVENT
+BEGIN:VEVENT
+UID:411131061
+DTSTART:20260511T163546Z
+DTEND:20260511T173546Z
+DTSTAMP:20260511T163546Z
+SUMMARY:🛠️ čerpání vody - Nové Město na Moravě
+LOCATION:Petrovická\, Nové Město na Moravě
+GEO:49.552691;16.071295
+URL:geo:49.552691,16.071295
+DESCRIPTION:📍 Petrovická\, Nové Město na Moravě\, Žďár nad Sázavou\n💬 Čerpá
+ ní vody.\n\n🚒 DA (Sněžné)\n🚒 CAS (Sněžné)
+END:VEVENT
+BEGIN:VEVENT
+UID:411132061
+DTSTART:20260511T163643Z
+DTEND:20260511T173643Z
+DTSTAMP:20260511T163643Z
+SUMMARY:🛠️ ostatní - Jihlava
+LOCATION:Jihlava
+GEO:49.417353;15.604606
+URL:geo:49.417353,15.604606
+DESCRIPTION:📍 Hruškové Dvory\, Jihlava\n💬 Pročištění ucpané kanalizace.\n\n
+ 🚒 CAS (CHS Jihlava)
+END:VEVENT
+BEGIN:VEVENT
+UID:411133061
+DTSTART:20260511T164041Z
+DTEND:20260511T174041Z
+DTSTAMP:20260511T164041Z
+SUMMARY:🛠️ ostatní - Radešínská Svratka
+LOCATION:Radešínská Svratka
+GEO:49.508446;16.085037
+URL:geo:49.508446,16.085037
+DESCRIPTION:📍 Radešínská Svratka\, Žďár nad Sázavou\n💬 Likvidace nánosu blá
+ ta.\n\n🚒 DA (Radešínská Svratka)
+END:VEVENT
+BEGIN:VEVENT
+UID:411134061
+DTSTART:20260511T164217Z
+DTEND:20260511T174217Z
+DTSTAMP:20260511T164217Z
+SUMMARY:🛠️ otevření bytu/auta - Havlíčkův Brod
+LOCATION:Vratná\, Havlíčkův Brod
+GEO:49.615597;15.546134
+URL:geo:49.615597,15.546134
+DESCRIPTION:📍 Vratná\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)
+END:VEVENT
+BEGIN:VEVENT
+UID:411135061
+DTSTART:20260511T165252Z
+DTEND:20260511T175252Z
+DTSTAMP:20260511T165252Z
+SUMMARY:🛠️ čerpání vody - Jihlava
+LOCATION:Demlova\, Jihlava
+GEO:49.400676;15.610433
+URL:geo:49.400676,15.610433
+DESCRIPTION:📍 Demlova\, Jihlava\n\n🚒 CAS (CHS Jihlava)
 END:VEVENT
 END:VCALENDAR
