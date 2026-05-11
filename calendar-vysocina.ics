@@ -688,7 +688,8 @@ LOCATION:Vladislav
 GEO:49.212685;16.019441
 URL:geo:49.212685,16.019441
 DESCRIPTION:📍 Vladislav\, Třebíč\n💬 DN 1 OA a NA s 1 zraněnou osobou\, vypr
- oštění zaklíněné osoby a protipožární opatření.\n\n🚒 CAS (CHS Třebíč)
+ oštění zaklíněné osoby\, protipožární opatření a úklid vozovky.\n\n🚒 CAS (
+ CHS Třebíč)
 END:VEVENT
 BEGIN:VEVENT
 UID:411078061
@@ -735,5 +736,17 @@ GEO:49.573177;15.737577
 URL:geo:49.573177,15.737577
 DESCRIPTION:📍 Poříčí\, Přibyslav\, Havlíčkův Brod\n\n🚒 CAS (HS Polná)\n🚒 CA
  S (Přibyslav)
+END:VEVENT
+BEGIN:VEVENT
+UID:411088061
+DTSTART:20260511T122602Z
+DTEND:20260511T132602Z
+DTSTAMP:20260511T122602Z
+SUMMARY:🚑 transport pacienta - Černovice
+LOCATION:Tyršova\, Černovice
+GEO:49.371484;14.968787
+URL:geo:49.371484,14.968787
+DESCRIPTION:📍 Tyršova\, Černovice\, Pelhřimov\n\n🚒 CAS (HS Pacov)\n🚒 DA (Če
+ rnovice)\n🚒 CAS (Černovice)
 END:VEVENT
 END:VCALENDAR
