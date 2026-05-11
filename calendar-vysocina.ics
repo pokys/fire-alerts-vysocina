@@ -748,7 +748,7 @@ SUMMARY:🛠️ ostatní - Stařeč
 LOCATION:Niva\, Stařeč
 GEO:49.195730;15.828748
 URL:geo:49.195730,15.828748
-DESCRIPTION:📍 Niva\, Stařeč\, Třebíč\n\n🚒 CAS (Stařeč)
+DESCRIPTION:📍 Niva\, Stařeč\, Třebíč\n💬 Dovoz vody.\n\n🚒 CAS (Stařeč)
 END:VEVENT
 BEGIN:VEVENT
 UID:411101061
@@ -759,8 +759,8 @@ SUMMARY:🛠️ ostatní - Telč
 LOCATION:U Štěpnického rybníka\, Telč
 GEO:49.184187;15.462633
 URL:geo:49.184187,15.462633
-DESCRIPTION:📍 U Štěpnického rybníka\, Telč-Podolí\, Telč\, Jihlava\n\n🚒 CAS
-  (HS Telč)
+DESCRIPTION:📍 U Štěpnického rybníka\, Telč-Podolí\, Telč\, Jihlava\n💬 Pomoc
+  imobilní osobě.\n\n🚒 CAS (HS Telč)
 END:VEVENT
 BEGIN:VEVENT
 UID:411102061
@@ -771,8 +771,8 @@ SUMMARY:🛠️ ostatní - Nové Město na Moravě
 LOCATION:Žďárská\, Nové Město na Moravě
 GEO:49.562215;16.067825
 URL:geo:49.562215,16.067825
-DESCRIPTION:📍 Žďárská\, Nové Město na Moravě\, Žďár nad Sázavou\n\n🚒 CAS (N
- ové Město na Moravě)
+DESCRIPTION:📍 Žďárská\, Nové Město na Moravě\, Žďár nad Sázavou\n💬 Pročiště
+ ní kanalizace.\n\n🚒 CAS (Nové Město na Moravě)
 END:VEVENT
 BEGIN:VEVENT
 UID:411104061
@@ -783,7 +783,8 @@ SUMMARY:🛠️ ostatní - Kněžice
 LOCATION:Kněžice
 GEO:49.269788;15.671779
 URL:geo:49.269788,15.671779
-DESCRIPTION:📍 Kněžice\, Jihlava\n\n🚒 CAS (Kněžice)
+DESCRIPTION:📍 Kněžice\, Jihlava\n💬 Pročištění kanalizace.\n\n🚒 CAS (Kněžice
+ )
 END:VEVENT
 BEGIN:VEVENT
 UID:411106061
@@ -796,5 +797,74 @@ GEO:49.564844;16.075111
 URL:geo:49.564844,16.075111
 DESCRIPTION:📍 Tyršova\, Nové Město na Moravě\, Žďár nad Sázavou\n\n🚒 CAS (N
  ové Město na Moravě)
+END:VEVENT
+BEGIN:VEVENT
+UID:411107061
+DTSTART:20260511T153304Z
+DTEND:20260511T163304Z
+DTSTAMP:20260511T153304Z
+SUMMARY:🛠️ čerpání vody - Kuklík
+LOCATION:Kuklík
+GEO:49.625402;16.106291
+URL:geo:49.625402,16.106291
+DESCRIPTION:📍 Kuklík\, Žďár nad Sázavou\n\n🚒 DA (Kuklík)\n🚒 CAS (Kuklík)
+END:VEVENT
+BEGIN:VEVENT
+UID:411108061
+DTSTART:20260511T153758Z
+DTEND:20260511T163758Z
+DTSTAMP:20260511T153758Z
+SUMMARY:🛠️ čerpání vody - Nové Město na Moravě
+LOCATION:Soškova\, Nové Město na Moravě
+GEO:49.566174;16.080789
+URL:geo:49.566174,16.080789
+DESCRIPTION:📍 Soškova\, Nové Město na Moravě\, Žďár nad Sázavou\n\n🚒 CAS (C
+ HS Žďár nad Sázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:411109061
+DTSTART:20260511T153835Z
+DTEND:20260511T163835Z
+DTSTAMP:20260511T153835Z
+SUMMARY:🛠️ ostatní - Nové Město na Moravě
+LOCATION:Purkyňova\, Nové Město na Moravě
+GEO:49.564876;16.060952
+URL:geo:49.564876,16.060952
+DESCRIPTION:📍 Purkyňova\, Nové Město na Moravě\, Žďár nad Sázavou\n\n🚒 CAS 
+ (Nové Město na Moravě)
+END:VEVENT
+BEGIN:VEVENT
+UID:411112061
+DTSTART:20260511T154422Z
+DTEND:20260511T164422Z
+DTSTAMP:20260511T154422Z
+SUMMARY:🛠️ ostatní - Křídla
+LOCATION:Křídla
+GEO:49.527229;16.122346
+URL:geo:49.527229,16.122346
+DESCRIPTION:📍 Křídla\, Žďár nad Sázavou\n\n🚒 DA (Křídla)
+END:VEVENT
+BEGIN:VEVENT
+UID:411114061
+DTSTART:20260511T154842Z
+DTEND:20260511T164842Z
+DTSTAMP:20260511T154842Z
+SUMMARY:🛠️ ostatní - Bystřice nad Pernštejnem
+LOCATION:Bystřice nad Pernštejnem
+GEO:49.547249;16.156376
+URL:geo:49.547249,16.156376
+DESCRIPTION:📍 Divišov\, Bystřice nad Pernštejnem\, Žďár nad Sázavou\n\n🚒 CA
+ S (HS Bystřice nad Pernštejnem)\n🚒 DA (Divišov)
+END:VEVENT
+BEGIN:VEVENT
+UID:411115061
+DTSTART:20260511T155217Z
+DTEND:20260511T165217Z
+DTSTAMP:20260511T155217Z
+SUMMARY:🛠️ čerpání vody - Kuklík
+LOCATION:Kuklík
+GEO:49.625651;16.105620
+URL:geo:49.625651,16.105620
+DESCRIPTION:📍 Kuklík\, Žďár nad Sázavou\n\n🚒 DA (Kuklík)
 END:VEVENT
 END:VCALENDAR
