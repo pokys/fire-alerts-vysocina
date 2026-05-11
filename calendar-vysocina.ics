@@ -801,8 +801,8 @@ SUMMARY:🛠️ ostatní - Ostrov nad Oslavou
 LOCATION:Ostrov nad Oslavou
 GEO:49.486818;15.989927
 URL:geo:49.486818,15.989927
-DESCRIPTION:📍 Ostrov nad Oslavou\, Žďár nad Sázavou\n💬 Likvidace nánosu blá
- ta.\n\n🚒 CAS (Ostrov nad Oslavou)
+DESCRIPTION:📍 Ostrov nad Oslavou\, Žďár nad Sázavou\n💬 Odstranění nánosu bl
+ áta.\n\n🚒 CAS (Ostrov nad Oslavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:411120061
@@ -906,8 +906,8 @@ SUMMARY:🛠️ ostatní - Žďár nad Sázavou
 LOCATION:Santiniho\, Žďár nad Sázavou
 GEO:49.580553;15.936305
 URL:geo:49.580553,15.936305
-DESCRIPTION:📍 Santiniho\, Žďár nad Sázavou 2\, Žďár nad Sázavou\n💬 Mytí kom
- unikace.\n\n🚒 CAS (Žďár nad Sázavou-Zámek)
+DESCRIPTION:📍 Santiniho\, Žďár nad Sázavou 2\, Žďár nad Sázavou\n💬 Oplach k
+ omunikace.\n\n🚒 CAS (Žďár nad Sázavou-Zámek)
 END:VEVENT
 BEGIN:VEVENT
 UID:411131061
@@ -942,8 +942,8 @@ SUMMARY:🛠️ ostatní - Radešínská Svratka
 LOCATION:Radešínská Svratka
 GEO:49.508446;16.085037
 URL:geo:49.508446,16.085037
-DESCRIPTION:📍 Radešínská Svratka\, Žďár nad Sázavou\n💬 Likvidace nánosu blá
- ta.\n\n🚒 DA (Radešínská Svratka)
+DESCRIPTION:📍 Radešínská Svratka\, Žďár nad Sázavou\n💬 Odstranění nánosu bl
+ áta.\n\n🚒 DA (Radešínská Svratka)
 END:VEVENT
 BEGIN:VEVENT
 UID:411134061
@@ -1013,8 +1013,8 @@ SUMMARY:🛠️ ostatní - Nové Město na Moravě
 LOCATION:Nové Město na Moravě
 GEO:49.561443;16.074182
 URL:geo:49.561443,16.074182
-DESCRIPTION:📍 Nové Město na Moravě\, Žďár nad Sázavou\n💬 Mytí komunikace od
-  bláta.\n\n🚒 CAS (Nové Město na Moravě)
+DESCRIPTION:📍 Nové Město na Moravě\, Žďár nad Sázavou\n💬 Oplach komunikace.
+ \n\n🚒 CAS (Nové Město na Moravě)
 END:VEVENT
 BEGIN:VEVENT
 UID:411140061
@@ -1074,10 +1074,10 @@ SUMMARY:🛠️ ostatní - Žďár nad Sázavou
 LOCATION:Žďár nad Sázavou
 GEO:49.559522;15.947482
 URL:geo:49.559522,15.947482
-DESCRIPTION:📍 Žďár nad Sázavou 1\, Žďár nad Sázavou\n💬 Tekoucí voda z rybní
- ka.\n\n🚒 CAS (CHS Žďár nad Sázavou) ×2\n🚒 CAS (Žďár nad Sázavou-Zámek) ×2\
- n🚒 osobní automobil (Žďár nad Sázavou-Zámek)\n🚒 osobní automobil (Žďár nad
-  Sázavou-Veselíčko)
+DESCRIPTION:📍 Žďár nad Sázavou 1\, Žďár nad Sázavou\n💬 Zajištění tekoucí vo
+ dy z rybníka.\n\n🚒 CAS (CHS Žďár nad Sázavou) ×2\n🚒 CAS (Žďár nad Sázavou-
+ Zámek) ×2\n🚒 osobní automobil (Žďár nad Sázavou-Zámek)\n🚒 osobní automobil
+  (Žďár nad Sázavou-Veselíčko)
 END:VEVENT
 BEGIN:VEVENT
 UID:411147061
@@ -1148,6 +1148,6 @@ SUMMARY:🛠️ strom - Jemnice
 LOCATION:Jemnice
 GEO:49.009260;15.573048
 URL:geo:49.009260,15.573048
-DESCRIPTION:📍 Jemnice\, Třebíč\n\n🚒 CAS (HS Jemnice)
+DESCRIPTION:📍 Jemnice\, Třebíč\n💬 Odstranění stromu.\n\n🚒 CAS (HS Jemnice)
 END:VEVENT
 END:VCALENDAR
