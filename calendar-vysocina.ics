@@ -751,12 +751,11 @@ UID:411045061
 DTSTART:20260511T002304Z
 DTEND:20260511T012304Z
 DTSTAMP:20260511T002304Z
-SUMMARY:🛠️ ostatní - Kozlov
+SUMMARY:⚠️ planý poplach - Kozlov
 LOCATION:Kozlov
 GEO:49.412038;15.722441
 URL:geo:49.412038,15.722441
-DESCRIPTION:📍 Kozlov\, Jihlava\n💬 Jednalo se o defekt u kamionu. Jednotka d
- oprovodila kamion na bezpečné místo z D1.\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 
- RZA (HS Velké Meziříčí)
+DESCRIPTION:📍 Kozlov\, Jihlava\n💬 Planý poplach.\n\n🚒 CAS (HS Velké Meziříč
+ í)\n🚒 RZA (HS Velké Meziříčí)
 END:VEVENT
 END:VCALENDAR
