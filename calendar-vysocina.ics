@@ -1096,7 +1096,8 @@ SUMMARY:🛠️ ostatní - Polná
 LOCATION:Havlíčkova\, Polná
 GEO:49.487986;15.718947
 URL:geo:49.487986,15.718947
-DESCRIPTION:📍 Havlíčkova\, Polná\, Jihlava\n\n🚒 CAS (Polná)
+DESCRIPTION:📍 Havlíčkova\, Polná\, Jihlava\n💬 Pročištění kanalizace.\n\n🚒 C
+ AS (Polná)
 END:VEVENT
 BEGIN:VEVENT
 UID:411145061
@@ -1145,8 +1146,8 @@ SUMMARY:🛠️ ostatní - Telč
 LOCATION:Telč
 GEO:49.224556;15.454841
 URL:geo:49.224556,15.454841
-DESCRIPTION:📍 Studnice\, Telč\, Jihlava\n\n🚒 přívěs motorová stříkačka (Tel
- č-Studnice)
+DESCRIPTION:📍 Studnice\, Telč\, Jihlava\n💬 Oplach komunikace.\n\n🚒 přívěs m
+ otorová stříkačka (Telč-Studnice)
 END:VEVENT
 BEGIN:VEVENT
 UID:411152061
@@ -1157,6 +1158,19 @@ SUMMARY:🛠️ ostatní - Jihlava
 LOCATION:Leoše Janáčka\, Jihlava
 GEO:49.399239;15.572281
 URL:geo:49.399239,15.572281
-DESCRIPTION:📍 Leoše Janáčka\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+DESCRIPTION:📍 Leoše Janáčka\, Jihlava\n💬 Pročištění kanalizace.\n\n🚒 CAS (C
+ HS Jihlava)
+END:VEVENT
+BEGIN:VEVENT
+UID:411153061
+DTSTART:20260511T190728Z
+DTEND:20260511T200728Z
+DTSTAMP:20260511T190728Z
+SUMMARY:🛠️ strom - Jihlava
+LOCATION:Jihlava
+GEO:49.406586;15.617217
+URL:geo:49.406586,15.617217
+DESCRIPTION:📍 Hruškové Dvory\, Jihlava\n💬 Odstranění stromu.\n\n🚒 CAS (CHS 
+ Jihlava)
 END:VEVENT
 END:VCALENDAR
