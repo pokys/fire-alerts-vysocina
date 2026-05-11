@@ -730,8 +730,9 @@ SUMMARY:🚗 bez zranění - Stránecká Zhoř
 LOCATION:Stránecká Zhoř
 GEO:49.382145;15.935498
 URL:geo:49.382145,15.935498
-DESCRIPTION:📍 Stránecká Zhoř\, Žďár nad Sázavou\n\n🚒 CAS (HS Velké Meziříčí
- )\n🚒 RZA (HS Velké Meziříčí)
+DESCRIPTION:📍 Stránecká Zhoř\, Žďár nad Sázavou\n💬 DN 1 OA a 1 NA\, bez zra
+ nění. Zajištění místa nehody.\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (HS Velk
+ é Meziříčí)
 END:VEVENT
 BEGIN:VEVENT
 UID:411052061
@@ -753,8 +754,8 @@ SUMMARY:🛠️ otevření bytu/auta - Ždírec nad Doubravou
 LOCATION:nám. 9. května\, Ždírec nad Doubravou
 GEO:49.696369;15.812842
 URL:geo:49.696369,15.812842
-DESCRIPTION:📍 nám. 9. května\, Ždírec nad Doubravou\, Havlíčkův Brod\n\n🚒 C
- AS (HS Chotěboř)\n🚒 CAS (Ždírec nad Doubravou)
+DESCRIPTION:📍 nám. 9. května\, Ždírec nad Doubravou\, Havlíčkův Brod\n💬 Ote
+ vření bytu.\n\n🚒 CAS (HS Chotěboř)\n🚒 CAS (Ždírec nad Doubravou)
 END:VEVENT
 BEGIN:VEVENT
 UID:411055061
@@ -778,5 +779,16 @@ LOCATION:Jersín
 GEO:49.433942;15.830302
 URL:geo:49.433942,15.830302
 DESCRIPTION:📍 Jersín\, Jihlava\n\n🚒 CAS (HS Polná)
+END:VEVENT
+BEGIN:VEVENT
+UID:411065061
+DTSTART:20260511T073056Z
+DTEND:20260511T083056Z
+DTSTAMP:20260511T073056Z
+SUMMARY:🚗 bez zranění - Humpolec
+LOCATION:Humpolec
+GEO:49.506434;15.298457
+URL:geo:49.506434,15.298457
+DESCRIPTION:📍 Kletečná\, Humpolec\, Pelhřimov\n\n🚒 CAS (HS Humpolec)
 END:VEVENT
 END:VCALENDAR
