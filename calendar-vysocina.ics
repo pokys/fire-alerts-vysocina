@@ -5,17 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:410961061
-DTSTART:20260509T115403Z
-DTEND:20260509T125403Z
-DTSTAMP:20260509T115403Z
-SUMMARY:🛠️ ostatní - Otín
-LOCATION:Otín
-GEO:49.266499;15.569692
-URL:geo:49.266499,15.569692
-DESCRIPTION:📍 Otín\, Jihlava\n💬 Proplach kanalizace.\n\n🚒 CAS (Stonařov)
-END:VEVENT
-BEGIN:VEVENT
 UID:410962061
 DTSTART:20260509T121204Z
 DTEND:20260509T131204Z
@@ -662,9 +651,9 @@ LOCATION:Věžná
 GEO:49.466701;16.266573
 URL:geo:49.466701,16.266573
 DESCRIPTION:📍 Věžná\, Žďár nad Sázavou\n💬 DN OA v rybníku\, 1 zraněná osoba
- . Zajištění místa události.\n\n🚒 CAS (HS Bystřice nad Pernštejnem)\n🚒 VEA 
- (CHS Žďár nad Sázavou)\n🚒 VYA (CHS Žďár nad Sázavou)\n🚒 přívěs lodní (CHS 
- Žďár nad Sázavou)
+ . Zajištění místa události.\n\n🚒 CAS (HS Bystřice nad Pernštejnem)\n🚒 CAS 
+ (HS Tišnov)\n🚒 přívěs lodní (HS Tišnov)\n🚒 VEA (CHS Žďár nad Sázavou)\n🚒 V
+ YA (CHS Žďár nad Sázavou)\n🚒 přívěs lodní (CHS Žďár nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:411056061
@@ -736,7 +725,7 @@ LOCATION:Vladislav
 GEO:49.212685;16.019441
 URL:geo:49.212685,16.019441
 DESCRIPTION:📍 Vladislav\, Třebíč\n💬 DN 1 OA a NA s 1 zraněnou osobou\, vypr
- oštění zaklíněné osoby.\n\n🚒 CAS (CHS Třebíč)
+ oštění zaklíněné osoby a protipožární opatření.\n\n🚒 CAS (CHS Třebíč)
 END:VEVENT
 BEGIN:VEVENT
 UID:411078061
@@ -758,6 +747,18 @@ SUMMARY:🚑 otevření/asistence - Havlíčkův Brod
 LOCATION:Trčkova\, Havlíčkův Brod
 GEO:49.606201;15.576228
 URL:geo:49.606201,15.576228
-DESCRIPTION:📍 Trčkova\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)
+DESCRIPTION:📍 Trčkova\, Havlíčkův Brod\n💬 Pomoc imobilní osobě.\n\n🚒 CAS (C
+ HS Havlíčkův Brod)
+END:VEVENT
+BEGIN:VEVENT
+UID:411082061
+DTSTART:20260511T113433Z
+DTEND:20260511T123433Z
+DTSTAMP:20260511T113433Z
+SUMMARY:🚗 dopravní nehoda - Pelhřimov
+LOCATION:Nádražní\, Pelhřimov
+GEO:49.422658;15.223625
+URL:geo:49.422658,15.223625
+DESCRIPTION:📍 Nádražní\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)
 END:VEVENT
 END:VCALENDAR
