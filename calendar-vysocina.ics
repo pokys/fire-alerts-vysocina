@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:410962061
-DTSTART:20260509T121204Z
-DTEND:20260509T131204Z
-DTSTAMP:20260509T121204Z
-SUMMARY:🛠️ otevření bytu/auta - Žďár nad Sázavou
-LOCATION:Sázavská\, Žďár nad Sázavou
-GEO:49.570665;15.935093
-URL:geo:49.570665,15.935093
-DESCRIPTION:📍 Sázavská\, Žďár nad Sázavou 3\, Žďár nad Sázavou\n💬 Otevření 
- bytu.\n\n🚒 CAS (CHS Žďár nad Sázavou)
-END:VEVENT
-BEGIN:VEVENT
 UID:410963061
 DTSTART:20260509T121546Z
 DTEND:20260509T131546Z
@@ -712,8 +700,8 @@ SUMMARY:🛠️ strom - Humpolec
 LOCATION:Humpolec
 GEO:49.549597;15.360665
 URL:geo:49.549597,15.360665
-DESCRIPTION:📍 Humpolec\, Pelhřimov\n\n🚒 CAS (HS Humpolec)\n🚒 VYA (CHS Pelhř
- imov)
+DESCRIPTION:📍 Humpolec\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 CAS (HS Humpo
+ lec)\n🚒 VYA (CHS Pelhřimov)
 END:VEVENT
 BEGIN:VEVENT
 UID:411077061
@@ -747,8 +735,8 @@ SUMMARY:🚑 otevření/asistence - Havlíčkův Brod
 LOCATION:Trčkova\, Havlíčkův Brod
 GEO:49.606201;15.576228
 URL:geo:49.606201,15.576228
-DESCRIPTION:📍 Trčkova\, Havlíčkův Brod\n💬 Pomoc imobilní osobě.\n\n🚒 CAS (C
- HS Havlíčkův Brod)
+DESCRIPTION:📍 Trčkova\, Havlíčkův Brod\n💬 Otevření bytu.\n\n🚒 CAS (CHS Havl
+ íčkův Brod)
 END:VEVENT
 BEGIN:VEVENT
 UID:411082061
@@ -759,6 +747,18 @@ SUMMARY:🚗 dopravní nehoda - Pelhřimov
 LOCATION:Nádražní\, Pelhřimov
 GEO:49.422658;15.223625
 URL:geo:49.422658,15.223625
-DESCRIPTION:📍 Nádražní\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)
+DESCRIPTION:📍 Nádražní\, Pelhřimov\n💬 DN 2 OA.\n\n🚒 CAS (CHS Pelhřimov)
+END:VEVENT
+BEGIN:VEVENT
+UID:411086061
+DTSTART:20260511T120045Z
+DTEND:20260511T130045Z
+DTSTAMP:20260511T120045Z
+SUMMARY:🚑 otevření/asistence - Přibyslav
+LOCATION:Přibyslav
+GEO:49.573177;15.737577
+URL:geo:49.573177,15.737577
+DESCRIPTION:📍 Poříčí\, Přibyslav\, Havlíčkův Brod\n\n🚒 CAS (HS Polná)\n🚒 CA
+ S (Přibyslav)
 END:VEVENT
 END:VCALENDAR
