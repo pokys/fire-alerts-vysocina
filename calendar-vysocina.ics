@@ -811,8 +811,8 @@ SUMMARY:🛠️ ostatní - Křídla
 LOCATION:Křídla
 GEO:49.527229;16.122346
 URL:geo:49.527229,16.122346
-DESCRIPTION:📍 Křídla\, Žďár nad Sázavou\n💬 Likvidace nánosu bláta.\n\n🚒 DA 
- (Křídla)
+DESCRIPTION:📍 Křídla\, Žďár nad Sázavou\n💬 Likvidace nánosu bláta z komunik
+ ace.\n\n🚒 DA (Křídla)
 END:VEVENT
 BEGIN:VEVENT
 UID:411114061
@@ -1107,7 +1107,8 @@ SUMMARY:🛠️ otevření bytu/auta - Jihlava
 LOCATION:Lesní\, Jihlava
 GEO:49.405488;15.618116
 URL:geo:49.405488,15.618116
-DESCRIPTION:📍 Lesní\, Helenín\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+DESCRIPTION:📍 Lesní\, Helenín\, Jihlava\n💬 Otevření bytu.\n\n🚒 CAS (CHS Jih
+ lava)
 END:VEVENT
 BEGIN:VEVENT
 UID:411146061
@@ -1132,5 +1133,41 @@ GEO:49.599713;16.071169
 URL:geo:49.599713,16.071169
 DESCRIPTION:📍 Rokytno\, Nové Město na Moravě\, Žďár nad Sázavou\n💬 Čerpání 
  vody.\n\n🚒 DA (Nové Město na Moravě-Rokytno)
+END:VEVENT
+BEGIN:VEVENT
+UID:411150061
+DTSTART:20260511T181427Z
+DTEND:20260511T191427Z
+DTSTAMP:20260511T181427Z
+SUMMARY:🛠️ ostatní - Telč
+LOCATION:Telč
+GEO:49.224556;15.454841
+URL:geo:49.224556,15.454841
+DESCRIPTION:📍 Studnice\, Telč\, Jihlava\n\n🚒 přívěs motorová stříkačka (Tel
+ č-Studnice)
+END:VEVENT
+BEGIN:VEVENT
+UID:411151061
+DTSTART:20260511T181456Z
+DTEND:20260511T191456Z
+DTSTAMP:20260511T181456Z
+SUMMARY:🛠️ čerpání vody - Žďár nad Sázavou
+LOCATION:Smetanova\, Žďár nad Sázavou
+GEO:49.559161;15.942982
+URL:geo:49.559161,15.942982
+DESCRIPTION:📍 Smetanova\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n💬 Vytopené
+  sklepy v ulici.\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (Žďár nad Sázavou-
+ Zámek) ×2\n🚒 osobní automobil (Žďár nad Sázavou-Zámek)
+END:VEVENT
+BEGIN:VEVENT
+UID:411152061
+DTSTART:20260511T182027Z
+DTEND:20260511T192027Z
+DTSTAMP:20260511T182027Z
+SUMMARY:🛠️ ostatní - Jihlava
+LOCATION:Leoše Janáčka\, Jihlava
+GEO:49.399239;15.572281
+URL:geo:49.399239,15.572281
+DESCRIPTION:📍 Leoše Janáčka\, Jihlava\n\n🚒 CAS (CHS Jihlava)
 END:VEVENT
 END:VCALENDAR
