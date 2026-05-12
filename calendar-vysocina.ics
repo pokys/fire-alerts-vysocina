@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:411023061
-DTSTART:20260510T150647Z
-DTEND:20260510T160647Z
-DTSTAMP:20260510T150647Z
-SUMMARY:🚗 dopravní nehoda - Čechtín
-LOCATION:Čechtín
-GEO:49.289032;15.816667
-URL:geo:49.289032,15.816667
-DESCRIPTION:📍 Čechtín\, Třebíč\n💬 DN OA  a motocyklu se zraněním jedné osob
- y. Jednotka provedla zajištění místa nehody a likvidaci úniku provozních k
- apalin z komunikace.\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (Okříšky)
-END:VEVENT
-BEGIN:VEVENT
 UID:411024061
 DTSTART:20260510T152102Z
 DTEND:20260510T162102Z
@@ -1129,5 +1116,30 @@ GEO:49.580024;16.077668
 URL:geo:49.580024,16.077668
 DESCRIPTION:📍 Maršovice\, Nové Město na Moravě\, Žďár nad Sázavou\n💬 Pročiš
  tění kanalizace.\n\n🚒 DA (Nové Město na Moravě-Maršovice)
+END:VEVENT
+BEGIN:VEVENT
+UID:411215061
+DTSTART:20260512T150608Z
+DTEND:20260512T160608Z
+DTSTAMP:20260512T150608Z
+SUMMARY:🛠️ ostatní - Jimramov
+LOCATION:Jimramov
+GEO:49.625383;16.224782
+URL:geo:49.625383,16.224782
+DESCRIPTION:📍 Jimramov\, Žďár nad Sázavou\n\n🚒 CAS (HS Bystřice nad Pernšte
+ jnem)
+END:VEVENT
+BEGIN:VEVENT
+UID:411217061
+DTSTART:20260512T150954Z
+DTEND:20260512T160954Z
+DTSTAMP:20260512T150954Z
+SUMMARY:🔥 budova - Ždírec nad Doubravou
+LOCATION:Ždírec nad Doubravou
+GEO:49.709633;15.846031
+URL:geo:49.709633,15.846031
+DESCRIPTION:📍 Benátky\, Ždírec nad Doubravou\, Havlíčkův Brod\n\n🚒 CAS (HS 
+ Chotěboř)\n🚒 CAS (HS Chotěboř)\n🚒 CAS (Sobíňov)\n🚒 CAS (Ždírec nad Doubrav
+ ou) ×2
 END:VEVENT
 END:VCALENDAR
