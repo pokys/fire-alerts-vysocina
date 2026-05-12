@@ -1117,7 +1117,8 @@ SUMMARY:🚗 se zraněním - Růžená
 LOCATION:Růžená
 GEO:49.260742;15.427518
 URL:geo:49.260742,15.427518
-DESCRIPTION:📍 Růžená\, Jihlava\n\n🚒 CAS (HS Třešť)
+DESCRIPTION:📍 Růžená\, Jihlava\n💬 DN 1 OA\, náraz do stromu se zraněním jed
+ né osoby. Provedena PPO. Zajištění místa události.\n\n🚒 CAS (HS Třešť)
 END:VEVENT
 BEGIN:VEVENT
 UID:411225061
@@ -1128,6 +1129,19 @@ SUMMARY:🛠️ strom - Kuroslepy
 LOCATION:Kuroslepy
 GEO:49.145017;16.202191
 URL:geo:49.145017,16.202191
-DESCRIPTION:📍 Kuroslepy\, Třebíč\n\n🚒 CAS (HS Náměšť nad Oslavou)
+DESCRIPTION:📍 Kuroslepy\, Třebíč\n💬 Strom na komunikaci.\n\n🚒 CAS (HS Náměš
+ ť nad Oslavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:411227061
+DTSTART:20260512T184457Z
+DTEND:20260512T194457Z
+DTSTAMP:20260512T184457Z
+SUMMARY:🔥 vozidlo - Úsobí
+LOCATION:Úsobí
+GEO:49.489473;15.507539
+URL:geo:49.489473,15.507539
+DESCRIPTION:📍 Kosovy\, Úsobí\, Havlíčkův Brod\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA
+  (CHS Jihlava)\n🚒 CAS (HS Humpolec)\n🚒 CAS (HS Humpolec)
 END:VEVENT
 END:VCALENDAR
