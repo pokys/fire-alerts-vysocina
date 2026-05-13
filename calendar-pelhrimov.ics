@@ -149,4 +149,16 @@ URL:geo:49.263528,15.201905
 DESCRIPTION:📍 Cholunná\, Žirovnice\, Pelhřimov\n💬 Transport pacienta na žád
  ost ZZS.\n\n🚒 CAS (HS Kamenice nad Lipou)\n🚒 CAS (Žirovnice)
 END:VEVENT
+BEGIN:VEVENT
+UID:411235061
+DTSTART:20260513T050917Z
+DTEND:20260513T060917Z
+DTSTAMP:20260513T050917Z
+SUMMARY:🚑 transport pacienta - Polesí
+LOCATION:Polesí
+GEO:49.283662;15.245216
+URL:geo:49.283662,15.245216
+DESCRIPTION:📍 Polesí\, Pelhřimov\n\n🚒 CAS (HS Kamenice nad Lipou)\n🚒 CAS (P
+ očátky)
+END:VEVENT
 END:VCALENDAR
