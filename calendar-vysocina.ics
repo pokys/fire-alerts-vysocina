@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:411086061
-DTSTART:20260511T120045Z
-DTEND:20260511T130045Z
-DTSTAMP:20260511T120045Z
-SUMMARY:🚑 otevření/asistence - Přibyslav
-LOCATION:Přibyslav
-GEO:49.573177;15.737577
-URL:geo:49.573177,15.737577
-DESCRIPTION:📍 Poříčí\, Přibyslav\, Havlíčkův Brod\n💬 Otevření dveří.\n\n🚒 C
- AS (HS Polná)\n🚒 CAS (Přibyslav)
-END:VEVENT
-BEGIN:VEVENT
 UID:411088061
 DTSTART:20260511T122602Z
 DTEND:20260511T132602Z
@@ -1032,7 +1020,8 @@ SUMMARY:🛠️ ostatní - Batelov
 LOCATION:Školní\, Batelov
 GEO:49.313555;15.390753
 URL:geo:49.313555,15.390753
-DESCRIPTION:📍 Školní\, Batelov\, Jihlava\n\n🚒 CAS (Batelov)
+DESCRIPTION:📍 Školní\, Batelov\, Jihlava\n💬 Pročištění kanalizace\n\n🚒 CAS 
+ (Batelov)
 END:VEVENT
 BEGIN:VEVENT
 UID:411257061
@@ -1055,7 +1044,7 @@ SUMMARY:🛠️ spolupráce IZS - Jihlava
 LOCATION:Jihlava
 GEO:49.355428;15.547861
 URL:geo:49.355428,15.547861
-DESCRIPTION:📍 Popice\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+DESCRIPTION:📍 Popice\, Jihlava\n💬 Asistence PČR\n\n🚒 CAS (CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:411266061
@@ -1067,6 +1056,7 @@ LOCATION:Těmice
 GEO:49.341175;15.033567
 URL:geo:49.341175,15.033567
 DESCRIPTION:📍 Těmice\, Pelhřimov\n\n🚒 CAS (HS Kamenice nad Lipou)\n🚒 CAS (H
- S Kamenice nad Lipou)\n🚒 CAS (Těmice)
+ S Kamenice nad Lipou)\n🚒 CAS (Těmice)\n🚒 vyšetřovací automobil (ÚO Pelhřim
+ ov)
 END:VEVENT
 END:VCALENDAR
