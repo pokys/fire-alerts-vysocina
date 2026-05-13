@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:411065061
-DTSTART:20260511T073056Z
-DTEND:20260511T083056Z
-DTSTAMP:20260511T073056Z
-SUMMARY:🚗 bez zranění - Humpolec
-LOCATION:Humpolec
-GEO:49.506434;15.298457
-URL:geo:49.506434,15.298457
-DESCRIPTION:📍 Kletečná\, Humpolec\, Pelhřimov\n💬 DN NA\, bez zranění.\n\n🚒 
- CAS (HS Humpolec)
-END:VEVENT
-BEGIN:VEVENT
 UID:411072061
 DTSTART:20260511T084359Z
 DTEND:20260511T094359Z
@@ -676,7 +664,8 @@ LOCATION:Tolstého\, Jihlava
 GEO:49.398329;15.583166
 URL:geo:49.398329,15.583166
 DESCRIPTION:📍 Tolstého\, Jihlava\n💬 Čerpání vody.\n\n🚒 CAS (Jihlava-Bedřich
- ov)\n🚒 VEA (Jihlava-Bedřichov)
+ ov)\n🚒 VEA (Jihlava-Bedřichov)\n🚒 elektrocentrála přenosná (Jihlava-Bedřic
+ hov)
 END:VEVENT
 BEGIN:VEVENT
 UID:411156061
@@ -1091,7 +1080,8 @@ SUMMARY:🚗 dopravní nehoda - Radňovice
 LOCATION:Radňovice
 GEO:49.560455;16.048851
 URL:geo:49.560455,16.048851
-DESCRIPTION:📍 Radňovice\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad Sázavou)\
- n🚒 TA (Nové Město na Moravě)
+DESCRIPTION:📍 Radňovice\, Žďár nad Sázavou\n💬 DN 3 OA se zraněním. Zajištěn
+ í místa události.\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 TA (Nové Město na Mor
+ avě)
 END:VEVENT
 END:VCALENDAR
