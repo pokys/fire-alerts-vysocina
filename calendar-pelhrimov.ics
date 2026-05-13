@@ -114,4 +114,15 @@ DESCRIPTION:📍 Těmice\, Pelhřimov\n💬 Požár OA. Příčina nedbalost. Za
  místa události.\n\n🚒 CAS (HS Kamenice nad Lipou)\n🚒 CAS (HS Kamenice nad L
  ipou)\n🚒 CAS (Těmice)\n🚒 vyšetřovací automobil (ÚO Pelhřimov)
 END:VEVENT
+BEGIN:VEVENT
+UID:411271061
+DTSTART:20260513T141634Z
+DTEND:20260513T151634Z
+DTSTAMP:20260513T141634Z
+SUMMARY:🚑 transport pacienta - Koberovice
+LOCATION:Koberovice
+GEO:49.588612;15.267857
+URL:geo:49.588612,15.267857
+DESCRIPTION:📍 Koberovice\, Pelhřimov\n\n🚒 CAS (HS Humpolec)
+END:VEVENT
 END:VCALENDAR
