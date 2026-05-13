@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:411098061
-DTSTART:20260511T145748Z
-DTEND:20260511T155748Z
-DTSTAMP:20260511T145748Z
-SUMMARY:🛠️ čerpání vody - Havlíčkova Borová
-LOCATION:Havlíčkova Borová
-GEO:49.650382;15.774924
-URL:geo:49.650382,15.774924
-DESCRIPTION:📍 Peršíkov\, Havlíčkova Borová\, Havlíčkův Brod\n💬 Čerpání vody
- .\n\n🚒 CAS (Havlíčkova Borová)
-END:VEVENT
-BEGIN:VEVENT
 UID:411100061
 DTSTART:20260511T150246Z
 DTEND:20260511T160246Z
@@ -1020,6 +1008,7 @@ SUMMARY:🚑 transport pacienta - Koberovice
 LOCATION:Koberovice
 GEO:49.588612;15.267857
 URL:geo:49.588612,15.267857
-DESCRIPTION:📍 Koberovice\, Pelhřimov\n\n🚒 CAS (HS Humpolec)
+DESCRIPTION:📍 Koberovice\, Pelhřimov\n💬 Transport pacienta na žádost ZZS.\n
+ \n🚒 CAS (HS Humpolec)
 END:VEVENT
 END:VCALENDAR
