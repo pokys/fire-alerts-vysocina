@@ -1006,20 +1006,21 @@ SUMMARY:🔥 vozidlo - Těmice
 LOCATION:Těmice
 GEO:49.341175;15.033567
 URL:geo:49.341175,15.033567
-DESCRIPTION:📍 Těmice\, Pelhřimov\n💬 Požár OA. Příčina nedbalost.\n\n🚒 CAS (
- HS Kamenice nad Lipou)\n🚒 CAS (HS Kamenice nad Lipou)\n🚒 CAS (Těmice)\n🚒 v
- yšetřovací automobil (ÚO Pelhřimov)
+DESCRIPTION:📍 Těmice\, Pelhřimov\n💬 Požár OA. Příčina nedbalost. Zajištění 
+ místa události.\n\n🚒 CAS (HS Kamenice nad Lipou)\n🚒 CAS (HS Kamenice nad L
+ ipou)\n🚒 CAS (Těmice)\n🚒 vyšetřovací automobil (ÚO Pelhřimov)
 END:VEVENT
 BEGIN:VEVENT
 UID:411268061
 DTSTART:20260513T125036Z
 DTEND:20260513T135036Z
 DTSTAMP:20260513T125036Z
-SUMMARY:🔥 tráva/plocha - Leština u Světlé
+SUMMARY:🔥 venkovní požár - Leština u Světlé
 LOCATION:Leština u Světlé
 GEO:49.754005;15.395490
 URL:geo:49.754005,15.395490
-DESCRIPTION:📍 Vrbice\, Leština u Světlé\, Havlíčkův Brod\n\n🚒 CAS (HS Ledeč
-  nad Sázavou)\n🚒 CAS (Leština u Světlé)
+DESCRIPTION:📍 Vrbice\, Leština u Světlé\, Havlíčkův Brod\n💬 Požár odpadovéh
+ o dřeva. Beze škody.\n\n🚒 CAS (HS Ledeč nad Sázavou)\n🚒 CAS (Leština u Svě
+ tlé)
 END:VEVENT
 END:VCALENDAR
