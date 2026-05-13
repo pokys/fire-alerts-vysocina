@@ -508,4 +508,16 @@ URL:geo:49.181862,15.447245
 DESCRIPTION:📍 Komenského\, Telč-Staré Město\, Telč\, Jihlava\n💬 Transport p
  acienta na žádost ZZS.\n\n🚒 CAS (HS Telč)
 END:VEVENT
+BEGIN:VEVENT
+UID:411277061
+DTSTART:20260513T222104Z
+DTEND:20260513T232104Z
+DTSTAMP:20260513T222104Z
+SUMMARY:🚑 spolupráce ZZS - Herálec
+LOCATION:Herálec
+GEO:49.679467;15.989562
+URL:geo:49.679467,15.989562
+DESCRIPTION:📍 Kocanda\, Herálec\, Žďár nad Sázavou\n💬 Pomoc ZZS s resuscita
+ cí.\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (Herálec (ZR))
+END:VEVENT
 END:VCALENDAR
