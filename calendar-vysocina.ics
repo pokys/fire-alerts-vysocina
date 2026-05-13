@@ -5,32 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:411053061
-DTSTART:20260511T065500Z
-DTEND:20260511T075500Z
-DTSTAMP:20260511T065500Z
-SUMMARY:🛠️ otevření bytu/auta - Ždírec nad Doubravou
-LOCATION:nám. 9. května\, Ždírec nad Doubravou
-GEO:49.696369;15.812842
-URL:geo:49.696369,15.812842
-DESCRIPTION:📍 nám. 9. května\, Ždírec nad Doubravou\, Havlíčkův Brod\n💬 Ote
- vření bytu.\n\n🚒 CAS (HS Chotěboř)\n🚒 CAS (Ždírec nad Doubravou)
-END:VEVENT
-BEGIN:VEVENT
-UID:411055061
-DTSTART:20260511T070038Z
-DTEND:20260511T080038Z
-DTSTAMP:20260511T070038Z
-SUMMARY:🚗 se zraněním - Věžná
-LOCATION:Věžná
-GEO:49.466701;16.266573
-URL:geo:49.466701,16.266573
-DESCRIPTION:📍 Věžná\, Žďár nad Sázavou\n💬 DN OA v rybníku\, 1 zraněná osoba
- . Zajištění místa události.\n\n🚒 CAS (HS Bystřice nad Pernštejnem)\n🚒 CAS 
- (HS Tišnov)\n🚒 přívěs lodní (HS Tišnov)\n🚒 VEA (CHS Žďár nad Sázavou)\n🚒 V
- YA (CHS Žďár nad Sázavou)\n🚒 přívěs lodní (CHS Žďár nad Sázavou)
-END:VEVENT
-BEGIN:VEVENT
 UID:411056061
 DTSTART:20260511T070146Z
 DTEND:20260511T080146Z
