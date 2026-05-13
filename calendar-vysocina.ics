@@ -1047,4 +1047,16 @@ DESCRIPTION:📍 Těmice\, Pelhřimov\n\n🚒 CAS (HS Kamenice nad Lipou)\n🚒 
  S Kamenice nad Lipou)\n🚒 CAS (Těmice)\n🚒 vyšetřovací automobil (ÚO Pelhřim
  ov)
 END:VEVENT
+BEGIN:VEVENT
+UID:411268061
+DTSTART:20260513T125036Z
+DTEND:20260513T135036Z
+DTSTAMP:20260513T125036Z
+SUMMARY:🔥 tráva/plocha - Leština u Světlé
+LOCATION:Leština u Světlé
+GEO:49.754005;15.395490
+URL:geo:49.754005,15.395490
+DESCRIPTION:📍 Vrbice\, Leština u Světlé\, Havlíčkův Brod\n\n🚒 CAS (HS Ledeč
+  nad Sázavou)\n🚒 CAS (Leština u Světlé)
+END:VEVENT
 END:VCALENDAR
