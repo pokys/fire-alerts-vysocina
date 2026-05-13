@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:411140061
-DTSTART:20260511T172240Z
-DTEND:20260511T182240Z
-DTSTAMP:20260511T172240Z
-SUMMARY:🛠️ čerpání vody - Nové Město na Moravě
-LOCATION:Nečasova\, Nové Město na Moravě
-GEO:49.557961;16.072170
-URL:geo:49.557961,16.072170
-DESCRIPTION:📍 Nečasova\, Nové Město na Moravě\, Žďár nad Sázavou\n💬 Odstran
- ění nánosu větví pod mostem.\n\n🚒 DA (Nové Město na Moravě)\n🚒 TA (Nové Mě
- sto na Moravě)\n🚒 CAS (CHS Žďár nad Sázavou)
-END:VEVENT
-BEGIN:VEVENT
 UID:411142061
 DTSTART:20260511T174424Z
 DTEND:20260511T184424Z
