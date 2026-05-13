@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:411078061
-DTSTART:20260511T105711Z
-DTEND:20260511T115711Z
-DTSTAMP:20260511T105711Z
-SUMMARY:☣️ olej/PHM - Jihlava
-LOCATION:Jana Masaryka\, Jihlava
-GEO:49.396458;15.584349
-URL:geo:49.396458,15.584349
-DESCRIPTION:📍 Jana Masaryka\, Jihlava\n💬 Likvidace uníku nafty z NA po tech
- nické závadě na vozidle. Únik zlikvidován pomocí sorbentu.\n\n🚒 CAS (CHS J
- ihlava)
-END:VEVENT
-BEGIN:VEVENT
 UID:411081061
 DTSTART:20260511T112322Z
 DTEND:20260511T122322Z
@@ -1080,8 +1067,8 @@ SUMMARY:🚗 dopravní nehoda - Sněžné
 LOCATION:Sněžné
 GEO:49.654912;16.099189
 URL:geo:49.654912,16.099189
-DESCRIPTION:📍 Blatiny\, Sněžné\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad Sá
- zavou)\n🚒 CAS (Sněžné)
+DESCRIPTION:📍 Blatiny\, Sněžné\, Žďár nad Sázavou\n💬 DN cyklistky. Zabezpeč
+ ení místa události.\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (Sněžné)
 END:VEVENT
 BEGIN:VEVENT
 UID:411259061
