@@ -407,7 +407,8 @@ SUMMARY:🛠️ ostatní - Křižanov
 LOCATION:Budín\, Křižanov
 GEO:49.391193;16.108574
 URL:geo:49.391193,16.108574
-DESCRIPTION:📍 Budín\, Křižanov\, Žďár nad Sázavou\n\n🚒 CAS (Křižanov)
+DESCRIPTION:📍 Budín\, Křižanov\, Žďár nad Sázavou\n💬 Proplach kanalizace.\n
+ \n🚒 CAS (Křižanov)
 END:VEVENT
 BEGIN:VEVENT
 UID:411310061
@@ -418,6 +419,7 @@ SUMMARY:🛠️ strom - Želiv
 LOCATION:Želiv
 GEO:49.535972;15.258034
 URL:geo:49.535972,15.258034
-DESCRIPTION:📍 Vřesník\, Želiv\, Pelhřimov\n\n🚒 CAS (HS Humpolec)
+DESCRIPTION:📍 Vřesník\, Želiv\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 CAS (H
+ S Humpolec)
 END:VEVENT
 END:VCALENDAR
