@@ -397,4 +397,16 @@ DESCRIPTION:📍 9. května\, Svratka\, Žďár nad Sázavou\n💬 Pomoc ZZS s r
  tací\, lékařem konstatován exitus.\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS 
  (Svratka)
 END:VEVENT
+BEGIN:VEVENT
+UID:411315061
+DTSTART:20260514T231904Z
+DTEND:20260515T001904Z
+DTSTAMP:20260514T231904Z
+SUMMARY:🚗 bez zranění - Malý Beranov
+LOCATION:Malý Beranov
+GEO:49.394592;15.639752
+URL:geo:49.394592,15.639752
+DESCRIPTION:📍 Malý Beranov\, Jihlava\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jih
+ lava)
+END:VEVENT
 END:VCALENDAR
