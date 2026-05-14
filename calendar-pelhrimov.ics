@@ -107,11 +107,13 @@ UID:411282061
 DTSTART:20260514T063823Z
 DTEND:20260514T073823Z
 DTSTAMP:20260514T063823Z
-SUMMARY:🔥 Onšov
+SUMMARY:⚠️ planý poplach - Onšov
 LOCATION:Onšov
 GEO:49.578008;15.134867
 URL:geo:49.578008,15.134867
-DESCRIPTION:📍 Onšov\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (CHS Pelhři
- mov)\n🚒 CAS (Onšov)\n🚒 CAS (Senožaty)\n🚒 CAS (Senožaty)
+DESCRIPTION:📍 Onšov\, Pelhřimov\n💬 Požár ohlášený systémem elektrické požár
+ ní signalizace. Průzkumem bylo zjištěno\, že se jedná o planý poplach.\n\n
+ 🚒 CAS (CHS Pelhřimov)\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (Onšov)\n🚒 CAS (Senoža
+ ty)\n🚒 CAS (Senožaty)
 END:VEVENT
 END:VCALENDAR
