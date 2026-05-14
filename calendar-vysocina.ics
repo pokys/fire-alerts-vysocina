@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:411190061
-DTSTART:20260512T090940Z
-DTEND:20260512T100940Z
-DTSTAMP:20260512T090940Z
-SUMMARY:🛠️ ostatní - Nové Město na Moravě
-LOCATION:Nové Město na Moravě
-GEO:49.583965;16.079155
-URL:geo:49.583965,16.079155
-DESCRIPTION:📍 Maršovice\, Nové Město na Moravě\, Žďár nad Sázavou\n💬 Pročiš
- tění kanalizace.\n\n🚒 CAS (Nové Město na Moravě)
-END:VEVENT
-BEGIN:VEVENT
 UID:411191061
 DTSTART:20260512T091737Z
 DTEND:20260512T101737Z
@@ -475,12 +463,14 @@ UID:411288061
 DTSTART:20260514T080409Z
 DTEND:20260514T090409Z
 DTSTAMP:20260514T080409Z
-SUMMARY:🔥 Havlíčkův Brod
+SUMMARY:⚠️ planý poplach - Havlíčkův Brod
 LOCATION:Husova\, Havlíčkův Brod
 GEO:49.609660;15.572790
 URL:geo:49.609660,15.572790
-DESCRIPTION:📍 Husova\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 CAS 
- (CHS Havlíčkův Brod)\n🚒 vyšetřovací automobil (ÚO Havlíčkův Brod)
+DESCRIPTION:📍 Husova\, Havlíčkův Brod\n💬 Požár ohlášený systémem elektrické
+  požární signalizace. Průzkumem bylo zjištěno\, že se jedná o planý poplac
+ h.\n\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 vyšetřovac
+ í automobil (ÚO Havlíčkův Brod)
 END:VEVENT
 BEGIN:VEVENT
 UID:411289061
