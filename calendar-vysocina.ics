@@ -445,7 +445,8 @@ URL:geo:49.576771,16.263223
 DESCRIPTION:📍 Vítochov\, Bystřice nad Pernštejnem\, Žďár nad Sázavou\n\n🚒 C
  AS (HS Bystřice nad Pernštejnem)\n🚒 CAS (HS Bystřice nad Pernštejnem)\n🚒 C
  AS (Bystřice nad Pernštejnem)\n🚒 DA (Dalečín)\n🚒 přívěs motorová stříkačka
-  (Bystřice nad Pernštejnem-Vítochov)
+  (Bystřice nad Pernštejnem-Vítochov)\n🚒 účelový automobil do 3500 kg (ÚO Ž
+ ďár nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:411369061
@@ -457,5 +458,16 @@ LOCATION:Křížová\, Jihlava
 GEO:49.397957;15.590217
 URL:geo:49.397957,15.590217
 DESCRIPTION:📍 Křížová\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+END:VEVENT
+BEGIN:VEVENT
+UID:411370061
+DTSTART:20260515T173226Z
+DTEND:20260515T183226Z
+DTSTAMP:20260515T173226Z
+SUMMARY:🔥 les - Jiřice
+LOCATION:Jiřice
+GEO:49.565584;15.326163
+URL:geo:49.565584,15.326163
+DESCRIPTION:📍 Jiřice\, Pelhřimov\n\n🚒 CAS (HS Humpolec)
 END:VEVENT
 END:VCALENDAR
