@@ -468,8 +468,9 @@ SUMMARY:🔥 tráva/plocha - Chlum-Korouhvice
 LOCATION:Chlum-Korouhvice
 GEO:49.573693;16.323156
 URL:geo:49.573693,16.323156
-DESCRIPTION:📍 Chlum\, Chlum-Korouhvice\, Žďár nad Sázavou\n\n🚒 přívěs motor
- ová stříkačka (Chlum-Korouhvice)\n🚒 DA (Vír)\n🚒 CAS (Vír)
+DESCRIPTION:📍 Chlum\, Chlum-Korouhvice\, Žďár nad Sázavou\n💬 Redukce veliko
+ sti ohniště.\n\n🚒 přívěs motorová stříkačka (Chlum-Korouhvice)\n🚒 DA (Vír)
+ \n🚒 CAS (Vír)\n🚒 DA (Bystré)\n🚒 CAS (Bystré)\n🚒 CAS (Olešnice)
 END:VEVENT
 BEGIN:VEVENT
 UID:411374061
@@ -483,5 +484,17 @@ URL:geo:49.427442,15.584157
 DESCRIPTION:💬 Hlášený kouř z OA. Jednalo se o technickou závadu. Provedeno 
  odtlačení vozidla mimo komunikaci.\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihl
  ava)
+END:VEVENT
+BEGIN:VEVENT
+UID:411378061
+DTSTART:20260515T194822Z
+DTEND:20260515T204822Z
+DTSTAMP:20260515T194822Z
+SUMMARY:🛠️ ostatní - Velká Bíteš
+LOCATION:Družstevní\, Velká Bíteš
+GEO:49.292809;16.221724
+URL:geo:49.292809,16.221724
+DESCRIPTION:📍 Družstevní\, Velká Bíteš\, Žďár nad Sázavou\n\n🚒 CAS (HS Velk
+ á Bíteš)
 END:VEVENT
 END:VCALENDAR
