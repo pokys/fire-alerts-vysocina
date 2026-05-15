@@ -494,8 +494,8 @@ SUMMARY:🛠️ ostatní - Velká Bíteš
 LOCATION:Družstevní\, Velká Bíteš
 GEO:49.292809;16.221724
 URL:geo:49.292809,16.221724
-DESCRIPTION:📍 Družstevní\, Velká Bíteš\, Žďár nad Sázavou\n\n🚒 CAS (HS Velk
- á Bíteš)
+DESCRIPTION:📍 Družstevní\, Velká Bíteš\, Žďár nad Sázavou\n💬 Pomoc imobilní
+  osobě.\n\n🚒 CAS (HS Velká Bíteš)
 END:VEVENT
 BEGIN:VEVENT
 UID:411379061
@@ -506,6 +506,7 @@ SUMMARY:🚑 spolupráce ZZS - Vír
 LOCATION:Vír
 GEO:49.559926;16.309306
 URL:geo:49.559926,16.309306
-DESCRIPTION:📍 Vír\, Žďár nad Sázavou\n\n🚒 CAS (HS Bystřice nad Pernštejnem)
+DESCRIPTION:📍 Vír\, Žďár nad Sázavou\n💬 Spolupráce se ZZS.\n\n🚒 CAS (HS Bys
+ třice nad Pernštejnem)
 END:VEVENT
 END:VCALENDAR
