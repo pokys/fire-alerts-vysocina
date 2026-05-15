@@ -16,9 +16,14 @@ import sys
 def load(path):
     try:
         with open(path, encoding="utf-8") as f:
-            return json.load(f)
+            data = json.load(f)
     except (OSError, ValueError):
         return {}
+    if isinstance(data, list):
+        return {eid: {"message_id": None, "chat_id": None, "sent_at": None, "content_hash": None} for eid in data}
+    if isinstance(data, dict):
+        return data
+    return {}
 
 
 def pick(ours, theirs):
