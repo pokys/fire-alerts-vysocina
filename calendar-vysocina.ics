@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:411236061
-DTSTART:20260513T060939Z
-DTEND:20260513T070939Z
-DTSTAMP:20260513T060939Z
-SUMMARY:🚗 dopravní nehoda - Radňovice
-LOCATION:Radňovice
-GEO:49.560455;16.048851
-URL:geo:49.560455,16.048851
-DESCRIPTION:📍 Radňovice\, Žďár nad Sázavou\n💬 DN 3 OA se zraněním. Zajištěn
- í místa události.\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 TA (Nové Město na Mor
- avě)
-END:VEVENT
-BEGIN:VEVENT
 UID:411243061
 DTSTART:20260513T075751Z
 DTEND:20260513T085751Z
@@ -383,5 +370,17 @@ GEO:49.253423;15.189076
 URL:geo:49.253423,15.189076
 DESCRIPTION:📍 Počátecká\, Žirovnice\, Pelhřimov\n💬 Transport pacienta na žá
  dost ZZS.\n\n🚒 CAS (HS Kamenice nad Lipou)\n🚒 CAS (Žirovnice)
+END:VEVENT
+BEGIN:VEVENT
+UID:411327061
+DTSTART:20260515T060255Z
+DTEND:20260515T070255Z
+DTSTAMP:20260515T060255Z
+SUMMARY:🚑 otevření/asistence - Moravské Budějovice
+LOCATION:Myslbekova\, Moravské Budějovice
+GEO:49.048859;15.817024
+URL:geo:49.048859,15.817024
+DESCRIPTION:📍 Myslbekova\, Moravské Budějovice\, Třebíč\n\n🚒 CAS (HS Moravs
+ ké Budějovice)
 END:VEVENT
 END:VCALENDAR
