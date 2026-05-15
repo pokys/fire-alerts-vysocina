@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:411235061
-DTSTART:20260513T050917Z
-DTEND:20260513T060917Z
-DTSTAMP:20260513T050917Z
-SUMMARY:🚑 transport pacienta - Polesí
-LOCATION:Polesí
-GEO:49.283662;15.245216
-URL:geo:49.283662,15.245216
-DESCRIPTION:📍 Polesí\, Pelhřimov\n💬 Transport pacienta na žádost ZZS.\n\n🚒 
- CAS (HS Kamenice nad Lipou)\n🚒 CAS (Počátky)
-END:VEVENT
-BEGIN:VEVENT
 UID:411236061
 DTSTART:20260513T060939Z
 DTEND:20260513T070939Z
@@ -173,8 +161,8 @@ LOCATION:Valdíkov
 GEO:49.255939;15.983035
 URL:geo:49.255939,15.983035
 DESCRIPTION:📍 Valdíkov\, Třebíč\n💬 Dopravní nehoda 1 OA bez zranění. Likvid
- ace úniku provozních kapalin\, zajištění místa záshu.\n\n🚒 CAS (CHS Třebíč
- )
+ ace úniku provozních kapalin\, zajištění místa zásahu.\n\n🚒 CAS (CHS Třebí
+ č)
 END:VEVENT
 BEGIN:VEVENT
 UID:411280061
@@ -311,7 +299,7 @@ LOCATION:Stonařov
 GEO:49.282177;15.585322
 URL:geo:49.282177,15.585322
 DESCRIPTION:📍 Stonařov\, Jihlava\n💬 DN OA a NA\, provedeno vyproštění 1 oso
- by.\n\n🚒 CAS (HS Třešť)\n🚒 CAS (Stonařov)
+ by. Zajištění místa nehody.\n\n🚒 CAS (HS Třešť)\n🚒 CAS (Stonařov)
 END:VEVENT
 BEGIN:VEVENT
 UID:411309061
@@ -357,9 +345,8 @@ SUMMARY:🚑 spolupráce ZZS - Svratka
 LOCATION:9. května\, Svratka
 GEO:49.712476;16.034939
 URL:geo:49.712476,16.034939
-DESCRIPTION:📍 9. května\, Svratka\, Žďár nad Sázavou\n💬 Pomoc ZZS s resusci
- tací\, lékařem konstatován exitus.\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS 
- (Svratka)
+DESCRIPTION:📍 9. května\, Svratka\, Žďár nad Sázavou\n💬 Spolupráce se ZZS.\
+ n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (Svratka)
 END:VEVENT
 BEGIN:VEVENT
 UID:411315061
@@ -370,8 +357,8 @@ SUMMARY:🚗 bez zranění - Malý Beranov
 LOCATION:Malý Beranov
 GEO:49.394592;15.639752
 URL:geo:49.394592,15.639752
-DESCRIPTION:📍 Malý Beranov\, Jihlava\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jih
- lava)
+DESCRIPTION:📍 Malý Beranov\, Jihlava\n💬 DN 2 OA\, bez zranění. Zajištění mí
+ sta nehody.\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:411316061
