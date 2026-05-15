@@ -410,4 +410,16 @@ URL:geo:49.791882,15.590147
 DESCRIPTION:📍 Borek\, Havlíčkův Brod\n💬 Pomoc imobilní osobě.\n\n🚒 CAS (HS 
  Chotěboř)
 END:VEVENT
+BEGIN:VEVENT
+UID:411317061
+DTSTART:20260515T022400Z
+DTEND:20260515T032400Z
+DTSTAMP:20260515T022400Z
+SUMMARY:🚑 transport pacienta - Žirovnice
+LOCATION:Počátecká\, Žirovnice
+GEO:49.253423;15.189076
+URL:geo:49.253423,15.189076
+DESCRIPTION:📍 Počátecká\, Žirovnice\, Pelhřimov\n\n🚒 CAS (HS Kamenice nad L
+ ipou)\n🚒 CAS (Žirovnice)
+END:VEVENT
 END:VCALENDAR
