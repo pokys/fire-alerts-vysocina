@@ -433,4 +433,18 @@ URL:geo:49.613943,15.574245
 DESCRIPTION:📍 Sídliště Pražská\, Havlíčkův Brod\n💬 Transport pacienta na žá
  dost ZZS.\n\n🚒 CAS (CHS Havlíčkův Brod)
 END:VEVENT
+BEGIN:VEVENT
+UID:411366061
+DTSTART:20260515T163705Z
+DTEND:20260515T173705Z
+DTSTAMP:20260515T163705Z
+SUMMARY:🔥 les - Bystřice nad Pernštejnem
+LOCATION:Bystřice nad Pernštejnem
+GEO:49.576771;16.263223
+URL:geo:49.576771,16.263223
+DESCRIPTION:📍 Vítochov\, Bystřice nad Pernštejnem\, Žďár nad Sázavou\n\n🚒 C
+ AS (HS Bystřice nad Pernštejnem)\n🚒 CAS (HS Bystřice nad Pernštejnem)\n🚒 C
+ AS (Bystřice nad Pernštejnem)\n🚒 DA (Dalečín)\n🚒 přívěs motorová stříkačka
+  (Bystřice nad Pernštejnem-Vítochov)
+END:VEVENT
 END:VCALENDAR
