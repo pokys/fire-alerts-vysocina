@@ -225,7 +225,9 @@ LOCATION:Stonařov
 GEO:49.282177;15.585322
 URL:geo:49.282177,15.585322
 DESCRIPTION:📍 Stonařov\, Jihlava\n💬 DN OA a NA\, provedeno vyproštění 1 oso
- by. Zajištění místa nehody.\n\n🚒 CAS (HS Třešť)\n🚒 CAS (Stonařov)
+ by. Zajištění místa nehody.\n\n🚒 CAS (HS Třešť)\n🚒 CAS (Stonařov)\n🚒 HVZ -
+  jednotka pohonná (Stonařov)\n🚒 HVZ - nástroj rozpínací s čelistmi (Stonař
+ ov)
 END:VEVENT
 BEGIN:VEVENT
 UID:411309061
@@ -417,8 +419,8 @@ SUMMARY:⚠️ planý poplach - Velká Bíteš
 LOCATION:U Stadionu\, Velká Bíteš
 GEO:49.292275;16.222453
 URL:geo:49.292275,16.222453
-DESCRIPTION:📍 U Stadionu\, Velká Bíteš\, Žďár nad Sázavou\n\n🚒 CAS (HS Velk
- á Bíteš)
+DESCRIPTION:📍 U Stadionu\, Velká Bíteš\, Žďár nad Sázavou\n💬 Planý poplach.
+ \n\n🚒 CAS (HS Velká Bíteš)
 END:VEVENT
 BEGIN:VEVENT
 UID:411357061
@@ -429,6 +431,7 @@ SUMMARY:🛠️ otevření bytu/auta - Polná
 LOCATION:Palackého\, Polná
 GEO:49.485178;15.725428
 URL:geo:49.485178,15.725428
-DESCRIPTION:📍 Palackého\, Polná\, Jihlava\n\n🚒 CAS (HS Polná)
+DESCRIPTION:📍 Palackého\, Polná\, Jihlava\n💬 Otevření bytu.\n\n🚒 CAS (HS Po
+ lná)
 END:VEVENT
 END:VCALENDAR
