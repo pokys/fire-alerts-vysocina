@@ -366,7 +366,8 @@ SUMMARY:☣️ neznámá látka - Sobíňov
 LOCATION:Sobíňov
 GEO:49.698495;15.755646
 URL:geo:49.698495,15.755646
-DESCRIPTION:📍 Sobíňov\, Havlíčkův Brod\n\n🚒 CAS (HS Chotěboř)
+DESCRIPTION:📍 Sobíňov\, Havlíčkův Brod\n💬 Monitoring řeky Doubravy.\n\n🚒 CA
+ S (HS Chotěboř)
 END:VEVENT
 BEGIN:VEVENT
 UID:411331061
@@ -389,7 +390,8 @@ SUMMARY:☣️ olej/PHM - Rouchovany
 LOCATION:Rouchovany
 GEO:49.077727;16.097633
 URL:geo:49.077727,16.097633
-DESCRIPTION:📍 Rouchovany\, Třebíč\n\n🚒 CAS (HS Hrotovice)
+DESCRIPTION:📍 Rouchovany\, Třebíč\n💬 Odstranění olejové skvrny z vozovky.\n
+ \n🚒 CAS (HS Hrotovice)
 END:VEVENT
 BEGIN:VEVENT
 UID:411346061
@@ -426,6 +428,7 @@ SUMMARY:🚑 transport pacienta - Úsobí
 LOCATION:Úsobí
 GEO:49.511539;15.501162
 URL:geo:49.511539,15.501162
-DESCRIPTION:📍 Úsobí\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)
+DESCRIPTION:📍 Úsobí\, Havlíčkův Brod\n💬 Transport pacienta na žádost ZZS.\n
+ \n🚒 CAS (CHS Havlíčkův Brod)
 END:VEVENT
 END:VCALENDAR
