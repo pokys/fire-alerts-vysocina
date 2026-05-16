@@ -465,4 +465,16 @@ GEO:49.506212;15.746141
 URL:geo:49.506212,15.746141
 DESCRIPTION:📍 Hrbov\, Polná\, Jihlava\n\n🚒 CAS (HS Polná)
 END:VEVENT
+BEGIN:VEVENT
+UID:411399061
+DTSTART:20260516T143406Z
+DTEND:20260516T153406Z
+DTSTAMP:20260516T143406Z
+SUMMARY:🛠️ otevření bytu/auta - Kamenice nad Lipou
+LOCATION:Za Kult. domem\, Kamenice nad Lipou
+GEO:49.300056;15.071490
+URL:geo:49.300056,15.071490
+DESCRIPTION:📍 Za Kult. domem\, Kamenice nad Lipou\, Pelhřimov\n💬 Otevření b
+ ytu.\n\n🚒 CAS (HS Kamenice nad Lipou)
+END:VEVENT
 END:VCALENDAR
