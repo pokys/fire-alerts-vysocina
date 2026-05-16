@@ -475,8 +475,9 @@ SUMMARY:🔥 Havlíčkův Brod
 LOCATION:Na Výšině\, Havlíčkův Brod
 GEO:49.617374;15.578104
 URL:geo:49.617374,15.578104
-DESCRIPTION:📍 Na Výšině\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 C
- AS (CHS Havlíčkův Brod)
+DESCRIPTION:📍 Na Výšině\, Havlíčkův Brod\n💬 Připálené potraviny na sporáku.
+  Provedeno přirozené odvětrání.. Beze škody.\n\n🚒 CAS (CHS Havlíčkův Brod)
+ \n🚒 CAS (CHS Havlíčkův Brod)
 END:VEVENT
 BEGIN:VEVENT
 UID:411404061
@@ -487,7 +488,7 @@ SUMMARY:🚗 se zraněním - Moravské Budějovice
 LOCATION:Pražská\, Moravské Budějovice
 GEO:49.055782;15.808733
 URL:geo:49.055782,15.808733
-DESCRIPTION:📍 Pražská\, Moravské Budějovice\, Třebíč\n\n🚒 CAS (HS Moravské 
- Budějovice)
+DESCRIPTION:📍 Pražská\, Moravské Budějovice\, Třebíč\n💬 Dopravní nehoda 2 O
+ A bez zranění. Zajištění místa zásahu.\n\n🚒 CAS (HS Moravské Budějovice)
 END:VEVENT
 END:VCALENDAR
