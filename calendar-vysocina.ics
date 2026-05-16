@@ -354,8 +354,9 @@ SUMMARY:🛠️ čerpání vody - Žďár nad Sázavou
 LOCATION:Jungmannova\, Žďár nad Sázavou
 GEO:49.570094;15.941502
 URL:geo:49.570094,15.941502
-DESCRIPTION:📍 Jungmannova\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n\n🚒 CAS 
- (Žďár nad Sázavou-Zámek)\n🚒 osobní automobil (Žďár nad Sázavou-Zámek)
+DESCRIPTION:📍 Jungmannova\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n💬 ZOČ.\n
+ \n🚒 CAS (Žďár nad Sázavou-Zámek)\n🚒 osobní automobil (Žďár nad Sázavou-Zám
+ ek)
 END:VEVENT
 BEGIN:VEVENT
 UID:411390061
@@ -403,7 +404,7 @@ SUMMARY:🛠️ ostatní - Nížkov
 LOCATION:Nížkov
 GEO:49.532564;15.805841
 URL:geo:49.532564,15.805841
-DESCRIPTION:📍 Nížkov\, Žďár nad Sázavou\n\n🚒 DA (Nížkov)
+DESCRIPTION:📍 Nížkov\, Žďár nad Sázavou\n💬 ZOČ.\n\n🚒 DA (Nížkov)
 END:VEVENT
 BEGIN:VEVENT
 UID:411397061
