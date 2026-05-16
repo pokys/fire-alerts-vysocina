@@ -452,7 +452,8 @@ SUMMARY:🚗 dopravní nehoda - Urbanov
 LOCATION:Urbanov
 GEO:49.214207;15.514093
 URL:geo:49.214207,15.514093
-DESCRIPTION:📍 Urbanov\, Jihlava\n\n🚒 CAS (HS Telč)
+DESCRIPTION:📍 Urbanov\, Jihlava\n💬 Dopravní nehoda 2 OA\, čelní střet\, 2 z
+ raněné osoby. Zajištění místa nehody.\n\n🚒 CAS (HS Telč)
 END:VEVENT
 BEGIN:VEVENT
 UID:411398061
@@ -463,7 +464,8 @@ SUMMARY:🛠️ odstranění překážky - Polná
 LOCATION:Polná
 GEO:49.506212;15.746141
 URL:geo:49.506212,15.746141
-DESCRIPTION:📍 Hrbov\, Polná\, Jihlava\n\n🚒 CAS (HS Polná)
+DESCRIPTION:📍 Hrbov\, Polná\, Jihlava\n💬 Vytažení OA z příkopu.\n\n🚒 CAS (H
+ S Polná)
 END:VEVENT
 BEGIN:VEVENT
 UID:411399061
@@ -476,5 +478,16 @@ GEO:49.300056;15.071490
 URL:geo:49.300056,15.071490
 DESCRIPTION:📍 Za Kult. domem\, Kamenice nad Lipou\, Pelhřimov\n💬 Otevření b
  ytu.\n\n🚒 CAS (HS Kamenice nad Lipou)
+END:VEVENT
+BEGIN:VEVENT
+UID:411400061
+DTSTART:20260516T150103Z
+DTEND:20260516T160103Z
+DTSTAMP:20260516T150103Z
+SUMMARY:🚑 otevření/asistence - Jihlava
+LOCATION:Wolkerova\, Jihlava
+GEO:49.394597;15.581337
+URL:geo:49.394597,15.581337
+DESCRIPTION:📍 Wolkerova\, Jihlava\n\n🚒 CAS (CHS Jihlava)
 END:VEVENT
 END:VCALENDAR
