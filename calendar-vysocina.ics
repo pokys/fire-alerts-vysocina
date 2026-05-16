@@ -5,20 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:411282061
-DTSTART:20260514T063823Z
-DTEND:20260514T073823Z
-DTSTAMP:20260514T063823Z
-SUMMARY:⚠️ planý poplach - Onšov
-LOCATION:Onšov
-GEO:49.578008;15.134867
-URL:geo:49.578008,15.134867
-DESCRIPTION:📍 Onšov\, Pelhřimov\n💬 Požár ohlášený systémem elektrické požár
- ní signalizace. Průzkumem bylo zjištěno\, že se jedná o planý poplach.\n\n
- 🚒 CAS (CHS Pelhřimov)\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (Onšov)\n🚒 CAS (Senoža
- ty)\n🚒 CAS (Senožaty)
-END:VEVENT
-BEGIN:VEVENT
 UID:411287061
 DTSTART:20260514T080035Z
 DTEND:20260514T090035Z
