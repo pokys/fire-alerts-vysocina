@@ -462,8 +462,10 @@ DTEND:20260516T110412Z
 DTSTAMP:20260516T100412Z
 SUMMARY:🚗 dopravní nehoda - Nová Ves u Chotěboře
 LOCATION:Nová Ves u Chotěboře
-GEO:49.744568;15.656108
-URL:geo:49.744568,15.656108
-DESCRIPTION:📍 Nová Ves u Chotěboře\, Havlíčkův Brod\n\n🚒 CAS (HS Chotěboř)
+GEO:49.743315;15.656650
+URL:geo:49.743315,15.656650
+DESCRIPTION:📍 Nová Ves u Chotěboře\, Havlíčkův Brod\n💬 Dopravní nehoda jedn
+ oho osobního automobilu. Zajištění místa nehody\, provedeno protipožární o
+ patření.\n\n🚒 CAS (HS Chotěboř)
 END:VEVENT
 END:VCALENDAR
