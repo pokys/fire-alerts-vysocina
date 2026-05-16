@@ -443,4 +443,15 @@ URL:geo:49.570094,15.941502
 DESCRIPTION:📍 Jungmannova\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n\n🚒 CAS 
  (Žďár nad Sázavou-Zámek)\n🚒 osobní automobil (Žďár nad Sázavou-Zámek)
 END:VEVENT
+BEGIN:VEVENT
+UID:411390061
+DTSTART:20260516T095153Z
+DTEND:20260516T105153Z
+DTSTAMP:20260516T095153Z
+SUMMARY:🚗 dopravní nehoda - Kostelec
+LOCATION:Kostelec
+GEO:49.363319;15.494392
+URL:geo:49.363319,15.494392
+DESCRIPTION:📍 Kostelec\, Jihlava\n\n🚒 RZA (CHS Jihlava)\n🚒 CAS (HS Třešť)
+END:VEVENT
 END:VCALENDAR
