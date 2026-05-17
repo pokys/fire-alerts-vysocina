@@ -370,4 +370,15 @@ URL:geo:49.046104,15.816778
 DESCRIPTION:📍 Komenského\, Moravské Budějovice\, Třebíč\n💬 Čerpání vody.\n\
  n🚒 CAS (HS Moravské Budějovice)
 END:VEVENT
+BEGIN:VEVENT
+UID:411438061
+DTSTART:20260517T203054Z
+DTEND:20260517T213054Z
+DTSTAMP:20260517T203054Z
+SUMMARY:🚑 otevření/asistence - Humpolec
+LOCATION:Masarykova\, Humpolec
+GEO:49.537232;15.353806
+URL:geo:49.537232,15.353806
+DESCRIPTION:📍 Masarykova\, Humpolec\, Pelhřimov\n\n🚒 CAS (HS Humpolec)
+END:VEVENT
 END:VCALENDAR
