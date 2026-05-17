@@ -382,4 +382,16 @@ URL:geo:49.537232,15.353806
 DESCRIPTION:📍 Masarykova\, Humpolec\, Pelhřimov\n💬 Planý poplach.\n\n🚒 CAS 
  (HS Humpolec)
 END:VEVENT
+BEGIN:VEVENT
+UID:411440061
+DTSTART:20260517T214704Z
+DTEND:20260517T224704Z
+DTSTAMP:20260517T214704Z
+SUMMARY:🚗 dopravní nehoda - Světlá nad Sázavou
+LOCATION:Světlá nad Sázavou
+GEO:49.699409;15.345723
+URL:geo:49.699409,15.345723
+DESCRIPTION:📍 Benetice\, Světlá nad Sázavou\, Havlíčkův Brod\n\n🚒 CAS (HS S
+ větlá nad Sázavou)
+END:VEVENT
 END:VCALENDAR
