@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:411374061
-DTSTART:20260515T181004Z
-DTEND:20260515T191004Z
-DTSTAMP:20260515T181004Z
-SUMMARY:🛠️ ostatní - Jihlava
-LOCATION:Jihlava
-GEO:49.427442;15.584157
-URL:geo:49.427442,15.584157
-DESCRIPTION:💬 Hlášený kouř z OA. Jednalo se o technickou závadu. Odtažení v
- ozidla mimo komunikaci.\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihlava)
-END:VEVENT
-BEGIN:VEVENT
 UID:411378061
 DTSTART:20260515T194822Z
 DTEND:20260515T204822Z
@@ -391,7 +379,7 @@ SUMMARY:🚑 spolupráce ZZS - Velká Bíteš
 LOCATION:Velká Bíteš
 GEO:49.270534;16.277898
 URL:geo:49.270534,16.277898
-DESCRIPTION:📍 Velká Bíteš\, Žďár nad Sázavou\n💬 Mezikrajská výpomoc.\n\n🚒 C
- AS (HS Velká Bíteš)
+DESCRIPTION:📍 Velká Bíteš\, Žďár nad Sázavou\n💬 Spolupráce se ZZS.\n\n🚒 CAS
+  (HS Rosice)\n🚒 CAS (HS Velká Bíteš)
 END:VEVENT
 END:VCALENDAR
