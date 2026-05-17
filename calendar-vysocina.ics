@@ -382,4 +382,16 @@ URL:geo:49.270534,16.277898
 DESCRIPTION:📍 Velká Bíteš\, Žďár nad Sázavou\n💬 Spolupráce se ZZS.\n\n🚒 CAS
   (HS Rosice)\n🚒 CAS (HS Velká Bíteš)
 END:VEVENT
+BEGIN:VEVENT
+UID:411437061
+DTSTART:20260517T185329Z
+DTEND:20260517T195329Z
+DTSTAMP:20260517T185329Z
+SUMMARY:🛠️ čerpání vody - Moravské Budějovice
+LOCATION:Komenského\, Moravské Budějovice
+GEO:49.046104;15.816778
+URL:geo:49.046104,15.816778
+DESCRIPTION:📍 Komenského\, Moravské Budějovice\, Třebíč\n\n🚒 CAS (HS Moravs
+ ké Budějovice)
+END:VEVENT
 END:VCALENDAR
