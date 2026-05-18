@@ -94,12 +94,12 @@ UID:411482061
 DTSTART:20260518T154903Z
 DTEND:20260518T164903Z
 DTSTAMP:20260518T154903Z
-SUMMARY:🚗 dopravní nehoda - Pacov
+SUMMARY:🚑 záchrana zvířete - Pacov
 LOCATION:Pacov
 GEO:49.484375;14.987666
 URL:geo:49.484375,14.987666
-DESCRIPTION:📍 Pacov\, Pelhřimov\n💬 DN motorkáře se zraněním. Spoluprace se 
- ZZS. Zajištění místa nehody. Pomoc s transportem.\n\n🚒 CAS (HS Pacov)\n🚒 v
- ozidlo účelové - SxS (HS Pacov)
+DESCRIPTION:📍 Pacov\, Pelhřimov\n💬 Pomoc ZZS s ošetřením pacienta a s jeho 
+ transportem z lesa do sanitního vozu.\n\n🚒 CAS (HS Pacov)\n🚒 vozidlo účelo
+ vé - SxS (HS Pacov)
 END:VEVENT
 END:VCALENDAR
