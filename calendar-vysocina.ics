@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:411408061
-DTSTART:20260516T220521Z
-DTEND:20260516T230521Z
-DTSTAMP:20260516T220521Z
-SUMMARY:🚑 otevření/asistence - Bystřice nad Pernštejnem
-LOCATION:Višňová\, Bystřice nad Pernštejnem
-GEO:49.519631;16.261178
-URL:geo:49.519631,16.261178
-DESCRIPTION:📍 Višňová\, Bystřice nad Pernštejnem\, Žďár nad Sázavou\n💬 Otev
- ření bytu. Byt otevřen před příjezdem jednotky.\n\n🚒 CAS (HS Bystřice nad 
- Pernštejnem)
-END:VEVENT
-BEGIN:VEVENT
 UID:411409061
 DTSTART:20260517T034021Z
 DTEND:20260517T044021Z
@@ -445,7 +432,8 @@ SUMMARY:🚗 bez zranění - Jihlava
 LOCATION:Jihlava
 GEO:49.452698;15.611464
 URL:geo:49.452698,15.611464
-DESCRIPTION:🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihlava)
+DESCRIPTION:💬 Dopravní nehoda OA a NA\, bez zranění. Zajištění místa událos
+ ti.\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:411489061
