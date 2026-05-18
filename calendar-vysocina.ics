@@ -429,7 +429,18 @@ SUMMARY:🚑 Moravské Budějovice
 LOCATION:Havlíčkova\, Moravské Budějovice
 GEO:49.056195;15.805792
 URL:geo:49.056195,15.805792
-DESCRIPTION:📍 Havlíčkova\, Moravské Budějovice\, Třebíč\n\n🚒 CAS (HS Moravs
- ké Budějovice)
+DESCRIPTION:📍 Havlíčkova\, Moravské Budějovice\, Třebíč\n💬 Záchrana kachňat
+  z kanálu.\n\n🚒 CAS (HS Moravské Budějovice)
+END:VEVENT
+BEGIN:VEVENT
+UID:411457061
+DTSTART:20260518T065437Z
+DTEND:20260518T075437Z
+DTSTAMP:20260518T065437Z
+SUMMARY:☣️ olej/PHM - Batelov
+LOCATION:náměstí Míru\, Batelov
+GEO:49.314053;15.394415
+URL:geo:49.314053,15.394415
+DESCRIPTION:📍 náměstí Míru\, Batelov\, Jihlava\n\n🚒 CAS (HS Třešť)
 END:VEVENT
 END:VCALENDAR
