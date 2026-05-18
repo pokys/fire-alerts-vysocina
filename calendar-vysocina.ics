@@ -423,10 +423,11 @@ UID:411461061
 DTSTART:20260518T084924Z
 DTEND:20260518T094924Z
 DTSTAMP:20260518T084924Z
-SUMMARY:🚗 se zraněním - Nové Syrovice
+SUMMARY:⚠️ planý poplach - Nové Syrovice
 LOCATION:Nové Syrovice
 GEO:49.010238;15.746707
 URL:geo:49.010238,15.746707
-DESCRIPTION:📍 Nové Syrovice\, Třebíč\n\n🚒 CAS (HS Moravské Budějovice)
+DESCRIPTION:📍 Nové Syrovice\, Třebíč\n💬 Planý poplach.\n\n🚒 CAS (HS Moravsk
+ é Budějovice)
 END:VEVENT
 END:VCALENDAR
