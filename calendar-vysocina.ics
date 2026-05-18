@@ -454,7 +454,20 @@ SUMMARY:☣️ olej/PHM - Telč
 LOCATION:9. května\, Telč
 GEO:49.181286;15.452316
 URL:geo:49.181286,15.452316
-DESCRIPTION:📍 9. května\, Telč-Staré Město\, Telč\, Jihlava\n\n🚒 CAS (HS Te
- lč)
+DESCRIPTION:📍 9. května\, Telč-Staré Město\, Telč\, Jihlava\n💬 Likvidace ún
+ iku provozních kapalin z pozemní komunikace pomocí sorbentu.\n\n🚒 CAS (HS 
+ Telč)
+END:VEVENT
+BEGIN:VEVENT
+UID:411474061
+DTSTART:20260518T132922Z
+DTEND:20260518T142922Z
+DTSTAMP:20260518T132922Z
+SUMMARY:🚗 úklid místa - Chlumek
+LOCATION:Chlumek
+GEO:49.379878;15.867759
+URL:geo:49.379878,15.867759
+DESCRIPTION:📍 Chlumek\, Žďár nad Sázavou\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZ
+ A (HS Velké Meziříčí)
 END:VEVENT
 END:VCALENDAR
