@@ -414,8 +414,9 @@ SUMMARY:🚗 dopravní nehoda - Jaroměřice nad Rokytnou
 LOCATION:Kaunicova\, Jaroměřice nad Rokytnou
 GEO:49.081978;15.880104
 URL:geo:49.081978,15.880104
-DESCRIPTION:📍 Kaunicova\, Jaroměřice nad Rokytnou\, Třebíč\n\n🚒 CAS (HS Mor
- avské Budějovice)
+DESCRIPTION:📍 Kaunicova\, Jaroměřice nad Rokytnou\, Třebíč\n💬 DN 2 OA se zr
+ aněním dvou osob. Jednotka provedla zajištění místa nehody.\n\n🚒 CAS (HS M
+ oravské Budějovice)
 END:VEVENT
 BEGIN:VEVENT
 UID:411468061
@@ -426,7 +427,8 @@ SUMMARY:🛠️ obtížný hmyz - Humpolec
 LOCATION:Jiřická\, Humpolec
 GEO:49.543567;15.349136
 URL:geo:49.543567,15.349136
-DESCRIPTION:📍 Jiřická\, Humpolec\, Pelhřimov\n\n🚒 CAS (HS Humpolec)
+DESCRIPTION:📍 Jiřická\, Humpolec\, Pelhřimov\n💬 Odstranění obtížného hmyzu.
+ \n\n🚒 CAS (HS Humpolec)
 END:VEVENT
 BEGIN:VEVENT
 UID:411469061
@@ -449,7 +451,8 @@ SUMMARY:🚗 se zraněním - Kamenice
 LOCATION:Kamenice
 GEO:49.374337;15.805483
 URL:geo:49.374337,15.805483
-DESCRIPTION:📍 Kamenička\, Kamenice\, Jihlava\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA 
- (HS Velké Meziříčí)
+DESCRIPTION:📍 Kamenička\, Kamenice\, Jihlava\n💬 DN 1 OA se zraněním jedné o
+ soby. Osoba vyproštěna a předána do péče ZZS. Zajištění místa události.\n\
+ n🚒 CAS (CHS Jihlava)\n🚒 RZA (HS Velké Meziříčí)
 END:VEVENT
 END:VCALENDAR
