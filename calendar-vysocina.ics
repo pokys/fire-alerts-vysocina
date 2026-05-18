@@ -443,7 +443,32 @@ SUMMARY:🚗 úklid místa - Chlumek
 LOCATION:Chlumek
 GEO:49.379878;15.867759
 URL:geo:49.379878,15.867759
-DESCRIPTION:📍 Chlumek\, Žďár nad Sázavou\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZ
- A (HS Velké Meziříčí)
+DESCRIPTION:📍 Chlumek\, Žďár nad Sázavou\n💬 DN dodávky bez zranění. Zajiště
+ ní místa nehody. Úklid vozovky.\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (HS Ve
+ lké Meziříčí)
+END:VEVENT
+BEGIN:VEVENT
+UID:411477061
+DTSTART:20260518T135400Z
+DTEND:20260518T145400Z
+DTSTAMP:20260518T135400Z
+SUMMARY:🚑 transport pacienta - Humpolec
+LOCATION:Hálkova\, Humpolec
+GEO:49.535985;15.357749
+URL:geo:49.535985,15.357749
+DESCRIPTION:📍 Hálkova\, Humpolec\, Pelhřimov\n💬 Transport pacienta na žádos
+ t ZZS.\n\n🚒 CAS (HS Humpolec)
+END:VEVENT
+BEGIN:VEVENT
+UID:411478061
+DTSTART:20260518T135753Z
+DTEND:20260518T145753Z
+DTSTAMP:20260518T135753Z
+SUMMARY:🔥 venkovní požár - Moravské Budějovice
+LOCATION:Moravské Budějovice
+GEO:49.069961;15.788774
+URL:geo:49.069961,15.788774
+DESCRIPTION:📍 Moravské Budějovice\, Třebíč\n\n🚒 CAS (HS Moravské Budějovice
+ )\n🚒 CAS (HS Moravské Budějovice)
 END:VEVENT
 END:VCALENDAR
