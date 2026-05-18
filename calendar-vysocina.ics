@@ -394,4 +394,16 @@ URL:geo:49.699409,15.345723
 DESCRIPTION:📍 Benetice\, Světlá nad Sázavou\, Havlíčkův Brod\n💬 Planý popla
  ch.\n\n🚒 CAS (HS Světlá nad Sázavou)
 END:VEVENT
+BEGIN:VEVENT
+UID:411442061
+DTSTART:20260518T003104Z
+DTEND:20260518T013104Z
+DTSTAMP:20260518T003104Z
+SUMMARY:🚗 se zraněním - Jabloňov
+LOCATION:Jabloňov
+GEO:49.331333;16.071224
+URL:geo:49.331333,16.071224
+DESCRIPTION:📍 Jabloňov\, Žďár nad Sázavou\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 R
+ ZA (HS Velké Meziříčí)
+END:VEVENT
 END:VCALENDAR
