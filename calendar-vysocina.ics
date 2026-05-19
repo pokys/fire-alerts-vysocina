@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:411413061
-DTSTART:20260517T064302Z
-DTEND:20260517T074302Z
-DTSTAMP:20260517T064302Z
-SUMMARY:🛠️ čerpání vody - Nová Cerekev
-LOCATION:Nová Cerekev
-GEO:49.416991;15.115348
-URL:geo:49.416991,15.115348
-DESCRIPTION:📍 Nová Cerekev\, Pelhřimov\n💬 Čerpání vody.\n\n🚒 účelový automo
- bil do 3500 kg (Nová Cerekev)
-END:VEVENT
-BEGIN:VEVENT
 UID:411415061
 DTSTART:20260517T081037Z
 DTEND:20260517T091037Z
@@ -444,7 +432,8 @@ SUMMARY:🛠️ ostatní - Svratka
 LOCATION:Libušina\, Svratka
 GEO:49.710784;16.040377
 URL:geo:49.710784,16.040377
-DESCRIPTION:📍 Libušina\, Svratka\, Žďár nad Sázavou\n\n🚒 CAS (Svratka)
+DESCRIPTION:📍 Libušina\, Svratka\, Žďár nad Sázavou\n💬 Pročištění kanalizac
+ e.\n\n🚒 CAS (Svratka)
 END:VEVENT
 BEGIN:VEVENT
 UID:411496061
