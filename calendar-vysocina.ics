@@ -466,7 +466,8 @@ SUMMARY:🛠️ otevření bytu/auta - Vlachovice
 LOCATION:Vlachovice
 GEO:49.606198;16.035058
 URL:geo:49.606198,16.035058
-DESCRIPTION:📍 Vlachovice\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad Sázavou)
+DESCRIPTION:📍 Vlachovice\, Žďár nad Sázavou\n💬 Otevření dveří.\n\n🚒 CAS (CH
+ S Žďár nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:411517061
@@ -489,8 +490,8 @@ SUMMARY:🛠️ strom - Štěpánov nad Svratkou
 LOCATION:Štěpánov nad Svratkou
 GEO:49.514672;16.314584
 URL:geo:49.514672,16.314584
-DESCRIPTION:📍 Štěpánov nad Svratkou\, Žďár nad Sázavou\n\n🚒 CAS (Štěpánov n
- ad Svratkou)
+DESCRIPTION:📍 Štěpánov nad Svratkou\, Žďár nad Sázavou\n💬 Odstranění stromu
+ .\n\n🚒 DA (Štěpánov nad Svratkou)\n🚒 CAS (Štěpánov nad Svratkou)
 END:VEVENT
 BEGIN:VEVENT
 UID:411520061
@@ -501,6 +502,7 @@ SUMMARY:🛠️ obtížný hmyz - Myslibořice
 LOCATION:Myslibořice
 GEO:49.101065;15.986604
 URL:geo:49.101065,15.986604
-DESCRIPTION:📍 Myslibořice\, Třebíč\n\n🚒 CAS (HS Hrotovice)
+DESCRIPTION:📍 Myslibořice\, Třebíč\n💬 Odstranění obtížného hmyzu.\n\n🚒 CAS 
+ (HS Hrotovice)
 END:VEVENT
 END:VCALENDAR
