@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:411430061
-DTSTART:20260517T135700Z
-DTEND:20260517T145700Z
-DTSTAMP:20260517T135700Z
-SUMMARY:🚗 dopravní nehoda - Ždírec nad Doubravou
-LOCATION:Ždírec nad Doubravou
-GEO:49.729775;15.815227
-URL:geo:49.729775,15.815227
-DESCRIPTION:📍 Údavy\, Ždírec nad Doubravou\, Havlíčkův Brod\n💬 DN 2 OA se z
- raněním jedné osoby. Zajištění místa události.\n\n🚒 CAS (HS Chotěboř)\n🚒 C
- AS (Ždírec nad Doubravou)
-END:VEVENT
-BEGIN:VEVENT
 UID:411433061
 DTSTART:20260517T164226Z
 DTEND:20260517T174226Z
@@ -467,7 +454,7 @@ LOCATION:Štěpánov nad Svratkou
 GEO:49.514672;16.314584
 URL:geo:49.514672,16.314584
 DESCRIPTION:📍 Štěpánov nad Svratkou\, Žďár nad Sázavou\n💬 Odstranění stromu
- .\n\n🚒 DA (Štěpánov nad Svratkou)\n🚒 CAS (Štěpánov nad Svratkou)
+ .\n\n🚒 CAS (Štěpánov nad Svratkou)
 END:VEVENT
 BEGIN:VEVENT
 UID:411520061
@@ -502,7 +489,8 @@ SUMMARY:🚑 spolupráce ZZS - Řečice
 LOCATION:Řečice
 GEO:49.522420;16.068606
 URL:geo:49.522420,16.068606
-DESCRIPTION:📍 Řečice\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad Sázavou)
+DESCRIPTION:📍 Řečice\, Žďár nad Sázavou\n💬 Pomoc ZZS s resuscitací.\n\n🚒 CA
+ S (CHS Žďár nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:411534061
