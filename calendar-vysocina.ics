@@ -5,30 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:411455061
-DTSTART:20260518T064722Z
-DTEND:20260518T074722Z
-DTSTAMP:20260518T064722Z
-SUMMARY:🚑 Moravské Budějovice
-LOCATION:Havlíčkova\, Moravské Budějovice
-GEO:49.056195;15.805792
-URL:geo:49.056195,15.805792
-DESCRIPTION:📍 Havlíčkova\, Moravské Budějovice\, Třebíč\n💬 Záchrana kachňat
-  z kanálu.\n\n🚒 CAS (HS Moravské Budějovice)
-END:VEVENT
-BEGIN:VEVENT
-UID:411457061
-DTSTART:20260518T065437Z
-DTEND:20260518T075437Z
-DTSTAMP:20260518T065437Z
-SUMMARY:☣️ olej/PHM - Batelov
-LOCATION:náměstí Míru\, Batelov
-GEO:49.314053;15.394415
-URL:geo:49.314053,15.394415
-DESCRIPTION:📍 náměstí Míru\, Batelov\, Jihlava\n💬 Likvidace naftové skvrny 
- z pozemní komunikace pomocí sorbentu.\n\n🚒 CAS (HS Třešť)
-END:VEVENT
-BEGIN:VEVENT
 UID:411461061
 DTSTART:20260518T084924Z
 DTEND:20260518T094924Z
@@ -501,8 +477,9 @@ SUMMARY:🚗 úklid místa - Žirovnice
 LOCATION:Žirovnice
 GEO:49.255992;15.201969
 URL:geo:49.255992,15.201969
-DESCRIPTION:📍 Žirovnice\, Pelhřimov\n\n🚒 CAS (HS Kamenice nad Lipou)\n🚒 CAS
-  (Počátky)\n🚒 CAS (Žirovnice)
+DESCRIPTION:📍 Žirovnice\, Pelhřimov\n💬 DN osobního automobilu a traktoru\, 
+ bez zranění.\n\n🚒 CAS (HS Kamenice nad Lipou)\n🚒 CAS (Počátky)\n🚒 CAS (Žir
+ ovnice)
 END:VEVENT
 BEGIN:VEVENT
 UID:411563061
@@ -516,5 +493,17 @@ URL:geo:49.571274,15.941666
 DESCRIPTION:📍 Jungmannova\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n💬 Likvid
  ace olejové skvrny z vozovky pomocí sorbentu.\n\n🚒 CAS (CHS Žďár nad Sázav
  ou)
+END:VEVENT
+BEGIN:VEVENT
+UID:411565061
+DTSTART:20260520T063702Z
+DTEND:20260520T073702Z
+DTSTAMP:20260520T063702Z
+SUMMARY:🔥 Jihlava
+LOCATION:Tolstého\, Jihlava
+GEO:49.398996;15.585055
+URL:geo:49.398996,15.585055
+DESCRIPTION:📍 Tolstého\, Jihlava\n💬 Prověřovací cvičení.\n\n🚒 CAS (CHS Jihl
+ ava) ×2\n🚒 AŽ (CHS Jihlava)
 END:VEVENT
 END:VCALENDAR
