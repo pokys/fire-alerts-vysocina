@@ -65,4 +65,17 @@ URL:geo:49.504063,14.969912
 DESCRIPTION:📍 Jetřichovec\, Pacov\, Pelhřimov\n💬 DN OA a traktoru\, 1 zraně
  ná osoba. Zajištění místa nehody.\n\n🚒 CAS (HS Pacov)
 END:VEVENT
+BEGIN:VEVENT
+UID:411555061
+DTSTART:20260520T030253Z
+DTEND:20260520T040253Z
+DTSTAMP:20260520T030253Z
+SUMMARY:🚗 dopravní nehoda - Humpolec
+LOCATION:Pražská\, Humpolec
+GEO:49.540993;15.340899
+URL:geo:49.540993,15.340899
+DESCRIPTION:📍 Pražská\, Humpolec\, Pelhřimov\n💬 DN 1 OA\, na místě jedna zr
+ aněná osoba. Zajištění místa nehody. Spolupráce se složkami IZS.\n\n🚒 CAS 
+ (HS Humpolec)
+END:VEVENT
 END:VCALENDAR
