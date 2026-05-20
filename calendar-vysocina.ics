@@ -504,4 +504,16 @@ URL:geo:49.540989,15.353767
 DESCRIPTION:📍 Lnářská\, Humpolec\, Pelhřimov\n💬 Odstranění obtížného hmyzu.
  \n\n🚒 CAS (HS Humpolec)
 END:VEVENT
+BEGIN:VEVENT
+UID:411602061
+DTSTART:20260520T141136Z
+DTEND:20260520T151136Z
+DTSTAMP:20260520T141136Z
+SUMMARY:🛠️ ostatní - Rokytnice nad Rokytnou
+LOCATION:Rokytnice nad Rokytnou
+GEO:49.184355;15.772866
+URL:geo:49.184355,15.772866
+DESCRIPTION:📍 Rokytnice nad Rokytnou\, Třebíč\n\n🚒 DA (Rokytnice nad Rokytn
+ ou)
+END:VEVENT
 END:VCALENDAR
