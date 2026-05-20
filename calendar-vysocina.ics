@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:411467061
-DTSTART:20260518T114035Z
-DTEND:20260518T124035Z
-DTSTAMP:20260518T114035Z
-SUMMARY:🚗 dopravní nehoda - Jaroměřice nad Rokytnou
-LOCATION:Kaunicova\, Jaroměřice nad Rokytnou
-GEO:49.081978;15.880104
-URL:geo:49.081978,15.880104
-DESCRIPTION:📍 Kaunicova\, Jaroměřice nad Rokytnou\, Třebíč\n💬 DN 2 OA se zr
- aněním dvou osob. Jednotka provedla zajištění místa nehody.\n\n🚒 CAS (HS M
- oravské Budějovice) ×2
-END:VEVENT
-BEGIN:VEVENT
 UID:411468061
 DTSTART:20260518T115813Z
 DTEND:20260518T125813Z
@@ -505,7 +492,8 @@ SUMMARY:🚗 dopravní nehoda - Bojiště
 LOCATION:Bojiště
 GEO:49.663230;15.265770
 URL:geo:49.663230,15.265770
-DESCRIPTION:📍 Bojiště\, Havlíčkův Brod\n\n🚒 CAS (HS Ledeč nad Sázavou)
+DESCRIPTION:📍 Bojiště\, Havlíčkův Brod\n💬 DN OA v příkopu\, 1 zraněná osoba
+ . Zajištění místa nehody.\n\n🚒 CAS (HS Ledeč nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:411575061
@@ -529,8 +517,8 @@ LOCATION:Nová Ves u Chotěboře
 GEO:49.755733;15.648335
 URL:geo:49.755733,15.648335
 DESCRIPTION:📍 Nová Ves u Chotěboře\, Havlíčkův Brod\n💬 Záchrana čapích mláď
- at.\n\n🚒 automobilová plošina do 30 m (HS Chotěboř)\n🚒 AŽ (CHS Havlíčkův B
- rod)
+ at z komína.\n\n🚒 automobilová plošina do 30 m (HS Chotěboř)\n🚒 AŽ (CHS Ha
+ vlíčkův Brod)
 END:VEVENT
 BEGIN:VEVENT
 UID:411581061
@@ -566,6 +554,7 @@ SUMMARY:🛠️ obtížný hmyz - Panenská Rozsíčka
 LOCATION:Panenská Rozsíčka
 GEO:49.253515;15.511909
 URL:geo:49.253515,15.511909
-DESCRIPTION:📍 Panenská Rozsíčka\, Jihlava\n\n🚒 CAS (HS Třešť)
+DESCRIPTION:📍 Panenská Rozsíčka\, Jihlava\n💬 Likvidace obtížného hmyzu.\n\n
+ 🚒 CAS (HS Třešť)
 END:VEVENT
 END:VCALENDAR
