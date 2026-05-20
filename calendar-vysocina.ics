@@ -488,7 +488,7 @@ SUMMARY:🛠️ obtížný hmyz - Jihlava
 LOCATION:Jihlava
 GEO:49.401845;15.593323
 URL:geo:49.401845,15.593323
-DESCRIPTION:🚒 CAS (CHS Jihlava)
+DESCRIPTION:💬 Odstranění obtížného hmyzu.\n\n🚒 CAS (CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:411606061
@@ -525,5 +525,16 @@ GEO:49.008822;15.666944
 URL:geo:49.008822,15.666944
 DESCRIPTION:📍 Třebelovice\, Třebíč\n💬 Dohašení doutnajícího ohniště.\n\n🚒 C
  AS (HS Jemnice)\n🚒 CAS (Třebelovice)
+END:VEVENT
+BEGIN:VEVENT
+UID:411609061
+DTSTART:20260520T165359Z
+DTEND:20260520T175359Z
+DTSTAMP:20260520T165359Z
+SUMMARY:🚑 otevření/asistence - Havlíčkův Brod
+LOCATION:Ledečská\, Havlíčkův Brod
+GEO:49.606655;15.568253
+URL:geo:49.606655,15.568253
+DESCRIPTION:📍 Ledečská\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)
 END:VEVENT
 END:VCALENDAR
