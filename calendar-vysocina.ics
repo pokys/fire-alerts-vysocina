@@ -515,7 +515,8 @@ SUMMARY:🚗 dopravní nehoda - Havlíčkův Brod
 LOCATION:U Tunelu\, Havlíčkův Brod
 GEO:49.590655;15.601272
 URL:geo:49.590655,15.601272
-DESCRIPTION:📍 U Tunelu\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)
+DESCRIPTION:📍 U Tunelu\, Havlíčkův Brod\n💬 DN OA a NA\, 1 zraněná osoba.\n\
+ n🚒 CAS (CHS Havlíčkův Brod)
 END:VEVENT
 BEGIN:VEVENT
 UID:411577061
@@ -538,7 +539,9 @@ SUMMARY:⚠️ planý poplach - Jihlava
 LOCATION:Jihlava
 GEO:49.393107;15.578784
 URL:geo:49.393107,15.578784
-DESCRIPTION:🚒 CAS (CHS Jihlava) ×2
+DESCRIPTION:💬 Požár ohlášený systémem elektrické požární signalizace. Průzk
+ umem bylo zjištěno\, že se jedná o planý poplach.\n\n🚒 CAS (CHS Jihlava) ×
+ 2
 END:VEVENT
 BEGIN:VEVENT
 UID:411583061
@@ -551,5 +554,16 @@ GEO:49.202083;15.898198
 URL:geo:49.202083,15.898198
 DESCRIPTION:📍 Hrotovická\, Horka-Domky\, Třebíč\n💬 DN 3 OA s 1 zraněnou oso
  bou. Protipožární opatření.\n\n🚒 CAS (CHS Třebíč)
+END:VEVENT
+BEGIN:VEVENT
+UID:411586061
+DTSTART:20260520T101223Z
+DTEND:20260520T111223Z
+DTSTAMP:20260520T101223Z
+SUMMARY:🛠️ obtížný hmyz - Panenská Rozsíčka
+LOCATION:Panenská Rozsíčka
+GEO:49.253515;15.511909
+URL:geo:49.253515,15.511909
+DESCRIPTION:📍 Panenská Rozsíčka\, Jihlava\n\n🚒 CAS (HS Třešť)
 END:VEVENT
 END:VCALENDAR
