@@ -92,4 +92,15 @@ DESCRIPTION:📍 Žirovnice\, Pelhřimov\n💬 DN osobního automobilu a traktor
  bez zranění.\n\n🚒 CAS (HS Kamenice nad Lipou)\n🚒 CAS (Počátky)\n🚒 CAS (Žir
  ovnice)
 END:VEVENT
+BEGIN:VEVENT
+UID:411598061
+DTSTART:20260520T125016Z
+DTEND:20260520T135016Z
+DTSTAMP:20260520T125016Z
+SUMMARY:🛠️ obtížný hmyz - Humpolec
+LOCATION:Lnářská\, Humpolec
+GEO:49.540989;15.353767
+URL:geo:49.540989,15.353767
+DESCRIPTION:📍 Lnářská\, Humpolec\, Pelhřimov\n\n🚒 CAS (HS Humpolec)
+END:VEVENT
 END:VCALENDAR
