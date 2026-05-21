@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:411537061
-DTSTART:20260519T145222Z
-DTEND:20260519T155222Z
-DTSTAMP:20260519T145222Z
-SUMMARY:🚗 dopravní nehoda - Vladislav
-LOCATION:Vladislav
-GEO:49.213473;15.957958
-URL:geo:49.213473,15.957958
-DESCRIPTION:📍 Vladislav\, Třebíč\n💬 DN 1 OA a motocyklu s 1 zraněnou osobou
- . Protipožární opatření\, vytažení motocyklu z příkopu a řízení dopravy.\n
- \n🚒 CAS (CHS Třebíč)
-END:VEVENT
-BEGIN:VEVENT
 UID:411540061
 DTSTART:20260519T151423Z
 DTEND:20260519T161423Z
@@ -478,8 +465,8 @@ SUMMARY:🛠️ ostatní - Jimramov
 LOCATION:Jimramov
 GEO:49.637188;16.226318
 URL:geo:49.637188,16.226318
-DESCRIPTION:📍 Jimramov\, Žďár nad Sázavou\n\n🚒 DA (Jimramov)\n🚒 CAS (Jimram
- ov)
+DESCRIPTION:📍 Jimramov\, Žďár nad Sázavou\n💬 ZOČ.\n\n🚒 DA (Jimramov)\n🚒 CAS
+  (Jimramov)
 END:VEVENT
 BEGIN:VEVENT
 UID:411642061
@@ -502,7 +489,8 @@ SUMMARY:🛠️ otevření bytu/auta - Hrotovice
 LOCATION:Mírová\, Hrotovice
 GEO:49.109687;16.063729
 URL:geo:49.109687,16.063729
-DESCRIPTION:📍 Mírová\, Hrotovice\, Třebíč\n\n🚒 CAS (HS Hrotovice)
+DESCRIPTION:📍 Mírová\, Hrotovice\, Třebíč\n💬 Otevření bytu.\n\n🚒 CAS (HS Hr
+ otovice)
 END:VEVENT
 BEGIN:VEVENT
 UID:411644061
