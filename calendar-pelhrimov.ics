@@ -106,4 +106,15 @@ URL:geo:49.442822,15.281228
 DESCRIPTION:📍 Plevnice\, Olešná\, Pelhřimov\n💬 Únik neznámé látky do vodníh
  o toku. Místo předáno ŽP.\n\n🚒 CAS (CHS Pelhřimov)
 END:VEVENT
+BEGIN:VEVENT
+UID:411646061
+DTSTART:20260521T160619Z
+DTEND:20260521T170619Z
+DTSTAMP:20260521T160619Z
+SUMMARY:🛠️ ostatní - Rodinov
+LOCATION:Rodinov
+GEO:49.280426;15.101975
+URL:geo:49.280426,15.101975
+DESCRIPTION:📍 Rodinov\, Pelhřimov\n\n🚒 CAS (Kamenice nad Lipou)
+END:VEVENT
 END:VCALENDAR
