@@ -525,7 +525,8 @@ SUMMARY:🛠️ obtížný hmyz - Čejov
 LOCATION:Čejov
 GEO:49.565812;15.378910
 URL:geo:49.565812,15.378910
-DESCRIPTION:📍 Čejov\, Pelhřimov\n\n🚒 AŽ (HS Humpolec)
+DESCRIPTION:📍 Čejov\, Pelhřimov\n💬 Odstranění obtížného hmyzu.\n\n🚒 AŽ (HS 
+ Humpolec)
 END:VEVENT
 BEGIN:VEVENT
 UID:411648061
@@ -573,6 +574,7 @@ SUMMARY:🚑 transport pacienta - Telč
 LOCATION:Za Stínadly\, Telč
 GEO:49.184804;15.466111
 URL:geo:49.184804,15.466111
-DESCRIPTION:📍 Za Stínadly\, Telč-Podolí\, Telč\, Jihlava\n\n🚒 CAS (HS Telč)
+DESCRIPTION:📍 Za Stínadly\, Telč-Podolí\, Telč\, Jihlava\n💬 Transport pacie
+ nta pro ZZS.\n\n🚒 CAS (HS Telč)
 END:VEVENT
 END:VCALENDAR
