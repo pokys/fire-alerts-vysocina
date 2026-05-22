@@ -588,4 +588,51 @@ URL:geo:49.107637,15.756433
 DESCRIPTION:📍 Lesonice\, Třebíč\n💬 Pročištění kanalizace.\n\n🚒 CAS (Lesonic
  e)
 END:VEVENT
+BEGIN:VEVENT
+UID:411690061
+DTSTART:20260522T144134Z
+DTEND:20260522T154134Z
+DTSTAMP:20260522T144134Z
+SUMMARY:🛠️ čerpání vody - Moravské Budějovice
+LOCATION:nám. Míru\, Moravské Budějovice
+GEO:49.053533;15.809511
+URL:geo:49.053533,15.809511
+DESCRIPTION:📍 nám. Míru\, Moravské Budějovice\, Třebíč\n\n🚒 CAS (HS Moravsk
+ é Budějovice)\n🚒 CAS (HS Moravské Budějovice)
+END:VEVENT
+BEGIN:VEVENT
+UID:411692061
+DTSTART:20260522T144444Z
+DTEND:20260522T154444Z
+DTSTAMP:20260522T144444Z
+SUMMARY:🛠️ otevření bytu/auta - Nové Město na Moravě
+LOCATION:Mendlova\, Nové Město na Moravě
+GEO:49.563209;16.064420
+URL:geo:49.563209,16.064420
+DESCRIPTION:📍 Mendlova\, Nové Město na Moravě\, Žďár nad Sázavou\n💬 Otevřen
+ í bytu.\n\n🚒 CAS (CHS Žďár nad Sázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:411693061
+DTSTART:20260522T144528Z
+DTEND:20260522T154528Z
+DTSTAMP:20260522T144528Z
+SUMMARY:🛠️ ostatní - Moravské Budějovice
+LOCATION:Havlíčkova\, Moravské Budějovice
+GEO:49.055215;15.804839
+URL:geo:49.055215,15.804839
+DESCRIPTION:📍 Havlíčkova\, Moravské Budějovice\, Třebíč\n\n🚒 CAS (HS Moravs
+ ké Budějovice)
+END:VEVENT
+BEGIN:VEVENT
+UID:411694061
+DTSTART:20260522T144557Z
+DTEND:20260522T154557Z
+DTSTAMP:20260522T144557Z
+SUMMARY:🚗 dopravní nehoda - Pelhřimov
+LOCATION:Myslotínská\, Pelhřimov
+GEO:49.410893;15.212671
+URL:geo:49.410893,15.212671
+DESCRIPTION:📍 Myslotínská\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)
+END:VEVENT
 END:VCALENDAR
