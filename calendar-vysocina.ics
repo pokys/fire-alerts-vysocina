@@ -576,4 +576,16 @@ URL:geo:49.184794,15.466099
 DESCRIPTION:📍 Za Stínadly\, Telč-Podolí\, Telč\, Jihlava\n💬 Transport pacie
  nta.\n\n🚒 CAS (HS Telč)
 END:VEVENT
+BEGIN:VEVENT
+UID:411687061
+DTSTART:20260522T134757Z
+DTEND:20260522T144757Z
+DTSTAMP:20260522T134757Z
+SUMMARY:🛠️ dovoz vody - Chotěboř
+LOCATION:Hromádky z Jistebnice\, Chotěboř
+GEO:49.719329;15.666780
+URL:geo:49.719329,15.666780
+DESCRIPTION:📍 Hromádky z Jistebnice\, Chotěboř\, Havlíčkův Brod\n💬 HZS\n\n🚒
+  automobilový nosič kontejnerů (CHS Havlíčkův Brod)
+END:VEVENT
 END:VCALENDAR
