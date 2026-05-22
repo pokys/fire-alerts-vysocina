@@ -499,7 +499,19 @@ SUMMARY:🚗 dopravní nehoda - Přibyslav
 LOCATION:Přibyslav
 GEO:49.584477;15.700071
 URL:geo:49.584477,15.700071
-DESCRIPTION:📍 Přibyslav\, Havlíčkův Brod\n\n🚒 CAS (HS Polná)\n🚒 CAS (Přibys
- lav)\n🚒 CAS (CHS Havlíčkův Brod)
+DESCRIPTION:📍 Přibyslav\, Havlíčkův Brod\n💬 DN dodávky - OA\n\n🚒 CAS (HS Po
+ lná)\n🚒 CAS (Přibyslav)\n🚒 CAS (CHS Havlíčkův Brod)
+END:VEVENT
+BEGIN:VEVENT
+UID:411673061
+DTSTART:20260522T085100Z
+DTEND:20260522T095100Z
+DTSTAMP:20260522T085100Z
+SUMMARY:🚗 úklid místa - Spělkov
+LOCATION:Spělkov
+GEO:49.677426;16.161241
+URL:geo:49.677426,16.161241
+DESCRIPTION:📍 Spělkov\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒
+  DA (Sněžné)
 END:VEVENT
 END:VCALENDAR
