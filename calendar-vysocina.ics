@@ -409,6 +409,21 @@ DESCRIPTION:📍 Přibyslav\, Havlíčkův Brod\n💬 DN dodávky - OA se zraně
  avlíčkův Brod)
 END:VEVENT
 BEGIN:VEVENT
+UID:411670061
+DTSTART:20260522T082124Z
+DTEND:20260522T092124Z
+DTSTAMP:20260522T082124Z
+SUMMARY:🔥 budova - Nový Rychnov
+LOCATION:Nový Rychnov
+GEO:49.392403;15.328639
+URL:geo:49.392403,15.328639
+DESCRIPTION:📍 Sázava\, Nový Rychnov\, Pelhřimov\n💬 Taktické cvičení.\n\n🚒 D
+ A (Nový Rychnov)\n🚒 CAS (Nový Rychnov)\n🚒 osobní automobil (Nový Rychnov-Č
+ ejkov)\n🚒 přívěs nákladní (Nový Rychnov-Čejkov)\n🚒 DA (Nový Rychnov-Řeženč
+ ice)\n🚒 DA (Nový Rychnov-Sázava)\n🚒 přívěs motorová stříkačka (Nový Rychno
+ v-Sázava)
+END:VEVENT
+BEGIN:VEVENT
 UID:411673061
 DTSTART:20260522T085100Z
 DTEND:20260522T095100Z
