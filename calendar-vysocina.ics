@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:411646061
-DTSTART:20260521T160619Z
-DTEND:20260521T170619Z
-DTSTAMP:20260521T160619Z
-SUMMARY:🛠️ ostatní - Rodinov
-LOCATION:Rodinov
-GEO:49.280426;15.101975
-URL:geo:49.280426,15.101975
-DESCRIPTION:📍 Rodinov\, Pelhřimov\n💬 Pročištění ucpané kanalizace.\n\n🚒 CAS
-  (Kamenice nad Lipou)
-END:VEVENT
-BEGIN:VEVENT
 UID:411647061
 DTSTART:20260521T162859Z
 DTEND:20260521T172859Z
@@ -723,10 +711,11 @@ SUMMARY:🔥 les - Bojiště
 LOCATION:Bojiště
 GEO:49.673520;15.308639
 URL:geo:49.673520,15.308639
-DESCRIPTION:📍 Bojiště\, Havlíčkův Brod\n\n🚒 CAS (HS Ledeč nad Sázavou)\n🚒 C
- AS (Kožlí)\n🚒 CAS (Ledeč nad Sázavou)\n🚒 CAS (HS Světlá nad Sázavou)\n🚒 CA
- S (Bojiště)\n🚒 DA (Dolní Město)\n🚒 CAS (Dolní Město)\n🚒 vyšetřovací automo
- bil (ÚO Havlíčkův Brod)
+DESCRIPTION:📍 Bojiště\, Havlíčkův Brod\n💬 Požár lesního porostu\, provedena
+  lokalizace a likvidace.\n\n🚒 CAS (HS Ledeč nad Sázavou)\n🚒 CAS (Kožlí)\n🚒
+  CAS (Ledeč nad Sázavou)\n🚒 CAS (HS Světlá nad Sázavou)\n🚒 CAS (Bojiště)\n
+ 🚒 DA (Dolní Město)\n🚒 CAS (Dolní Město)\n🚒 vyšetřovací automobil (ÚO Havlí
+ čkův Brod)
 END:VEVENT
 BEGIN:VEVENT
 UID:411745061
@@ -737,7 +726,8 @@ SUMMARY:🛠️ obtížný hmyz - Havlíčkův Brod
 LOCATION:Havlíčkův Brod
 GEO:49.599593;15.615334
 URL:geo:49.599593,15.615334
-DESCRIPTION:📍 Termesivy\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)
+DESCRIPTION:📍 Termesivy\, Havlíčkův Brod\n💬 Odstranění obtížného hmyzu.\n\n
+ 🚒 CAS (CHS Havlíčkův Brod)
 END:VEVENT
 BEGIN:VEVENT
 UID:411746061
@@ -748,6 +738,19 @@ SUMMARY:🚗 dopravní nehoda - Jeřišno
 LOCATION:Jeřišno
 GEO:49.807003;15.625650
 URL:geo:49.807003,15.625650
-DESCRIPTION:📍 Chuchel\, Jeřišno\, Havlíčkův Brod\n\n🚒 CAS (HS Chotěboř)
+DESCRIPTION:📍 Chuchel\, Jeřišno\, Havlíčkův Brod\n💬 Dopravní nehoda OA a cy
+ klisty. Provedeno zabezpečení místa nehody. Na místě jedna zraněná osoba.\
+ n\n🚒 CAS (HS Chotěboř)
+END:VEVENT
+BEGIN:VEVENT
+UID:411748061
+DTSTART:20260523T155316Z
+DTEND:20260523T165316Z
+DTSTAMP:20260523T155316Z
+SUMMARY:🚑 záchrana ze stromu - Jihlava
+LOCATION:Srázná\, Jihlava
+GEO:49.400988;15.590512
+URL:geo:49.400988,15.590512
+DESCRIPTION:📍 Srázná\, Jihlava\n\n🚒 CAS (CHS Jihlava)
 END:VEVENT
 END:VCALENDAR
