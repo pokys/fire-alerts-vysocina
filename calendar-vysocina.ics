@@ -628,8 +628,8 @@ SUMMARY:🛠️ otevření bytu/auta - Velká Bíteš
 LOCATION:Strmá\, Velká Bíteš
 GEO:49.285863;16.231919
 URL:geo:49.285863,16.231919
-DESCRIPTION:📍 Strmá\, Janovice\, Velká Bíteš\, Žďár nad Sázavou\n\n🚒 CAS (H
- S Velká Bíteš)\n🚒 CAS (HS Velká Bíteš)
+DESCRIPTION:📍 Strmá\, Janovice\, Velká Bíteš\, Žďár nad Sázavou\n💬 Otevření
+  rodinného domu.\n\n🚒 CAS (HS Velká Bíteš)\n🚒 CAS (HS Velká Bíteš)
 END:VEVENT
 BEGIN:VEVENT
 UID:411724061
@@ -666,5 +666,16 @@ GEO:49.430185;15.601144
 URL:geo:49.430185,15.601144
 DESCRIPTION:📍 Pávovská\, Jihlava\n💬 Odstranění obtížného hmyzu.\n\n🚒 CAS (C
  HS Jihlava)
+END:VEVENT
+BEGIN:VEVENT
+UID:411727061
+DTSTART:20260523T100931Z
+DTEND:20260523T110931Z
+DTSTAMP:20260523T100931Z
+SUMMARY:🚗 dopravní nehoda - Radošov
+LOCATION:Radošov
+GEO:49.333862;15.797381
+URL:geo:49.333862,15.797381
+DESCRIPTION:📍 Radošov\, Třebíč\n\n🚒 CAS (CHS Třebíč)
 END:VEVENT
 END:VCALENDAR
