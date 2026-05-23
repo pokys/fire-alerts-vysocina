@@ -624,11 +624,24 @@ UID:411706061
 DTSTART:20260522T232828Z
 DTEND:20260523T002828Z
 DTSTAMP:20260522T232828Z
-SUMMARY:🚗 se zraněním - Velká Bíteš
+SUMMARY:🚗 bez zranění - Velká Bíteš
 LOCATION:Velká Bíteš
 GEO:49.301972;16.150619
 URL:geo:49.301972,16.150619
-DESCRIPTION:📍 Holubí Zhoř\, Velká Bíteš\, Žďár nad Sázavou\n\n🚒 CAS (HS Vel
- ká Bíteš)\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)
+DESCRIPTION:📍 Holubí Zhoř\, Velká Bíteš\, Žďár nad Sázavou\n💬 DN 1 OA po sr
+ ážce se zvěří\, bez zranění. Zajištění místa nehody.\n\n🚒 CAS (HS Velká Bí
+ teš)\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)
+END:VEVENT
+BEGIN:VEVENT
+UID:411708061
+DTSTART:20260522T234441Z
+DTEND:20260523T004441Z
+DTSTAMP:20260522T234441Z
+SUMMARY:🚑 transport pacienta - Věž
+LOCATION:Věž
+GEO:49.558892;15.425228
+URL:geo:49.558892,15.425228
+DESCRIPTION:📍 Leština\, Věž\, Havlíčkův Brod\n💬 Transport pacienta na žádos
+ t ZZS.\n\n🚒 CAS (HS Humpolec)
 END:VEVENT
 END:VCALENDAR
