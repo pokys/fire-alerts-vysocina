@@ -591,8 +591,9 @@ SUMMARY:🔥 tráva/plocha - Borovnice
 LOCATION:Borovnice
 GEO:49.660079;16.197010
 URL:geo:49.660079,16.197010
-DESCRIPTION:📍 Borovnice\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad Sázavou)\
- n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (Jimramov)\n🚒 CAS (Borovnice)
+DESCRIPTION:📍 Borovnice\, Žďár nad Sázavou\n💬 Požár balíků slámy. Provedeno
+  uhašení. Beze škody.\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (CHS Žďár nad
+  Sázavou)\n🚒 CAS (Jimramov)\n🚒 CAS (Borovnice)\n🚒 CAS (HS Polička)
 END:VEVENT
 BEGIN:VEVENT
 UID:411720061
@@ -605,5 +606,39 @@ GEO:49.555387;15.940850
 URL:geo:49.555387,15.940850
 DESCRIPTION:📍 Haškova\, Žďár nad Sázavou 6\, Žďár nad Sázavou\n💬 Transport 
  pacienta na žádost ZZS.\n\n🚒 CAS (CHS Žďár nad Sázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:411722061
+DTSTART:20260523T090909Z
+DTEND:20260523T100909Z
+DTSTAMP:20260523T090909Z
+SUMMARY:🛠️ obtížný hmyz - Polná
+LOCATION:Resslova\, Polná
+GEO:49.488970;15.711147
+URL:geo:49.488970,15.711147
+DESCRIPTION:📍 Resslova\, Polná\, Jihlava\n\n🚒 CAS (HS Polná)
+END:VEVENT
+BEGIN:VEVENT
+UID:411723061
+DTSTART:20260523T091039Z
+DTEND:20260523T101039Z
+DTSTAMP:20260523T091039Z
+SUMMARY:🛠️ otevření bytu/auta - Velká Bíteš
+LOCATION:Strmá\, Velká Bíteš
+GEO:49.285863;16.231919
+URL:geo:49.285863,16.231919
+DESCRIPTION:📍 Strmá\, Janovice\, Velká Bíteš\, Žďár nad Sázavou\n\n🚒 CAS (H
+ S Velká Bíteš)\n🚒 CAS (HS Velká Bíteš)
+END:VEVENT
+BEGIN:VEVENT
+UID:411725061
+DTSTART:20260523T091226Z
+DTEND:20260523T101226Z
+DTSTAMP:20260523T091226Z
+SUMMARY:🛠️ otevření bytu/auta - Ocmanice
+LOCATION:Ocmanice
+GEO:49.230575;16.127375
+URL:geo:49.230575,16.127375
+DESCRIPTION:📍 Ocmanice\, Třebíč\n\n🚒 CAS (HS Náměšť nad Oslavou)
 END:VEVENT
 END:VCALENDAR
