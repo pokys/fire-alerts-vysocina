@@ -623,11 +623,12 @@ UID:411709061
 DTSTART:20260523T034951Z
 DTEND:20260523T044951Z
 DTSTAMP:20260523T034951Z
-SUMMARY:🚗 se zraněním - Velká Bíteš
+SUMMARY:🚗 úklid místa - Velká Bíteš
 LOCATION:Velká Bíteš
-GEO:49.270096;16.276120
-URL:geo:49.270096,16.276120
-DESCRIPTION:📍 Velká Bíteš\, Žďár nad Sázavou\n\n🚒 CAS (HS Velká Bíteš)\n🚒 R
- ZA (HS Velké Meziříčí)
+GEO:49.270097;16.276134
+URL:geo:49.270097,16.276134
+DESCRIPTION:📍 Velká Bíteš\, Žďár nad Sázavou\n💬 DN dodávky s podvalníkem be
+ z zranění. Zajištění místa nehody.\n\n🚒 CAS (HS Velká Bíteš)\n🚒 RZA (HS Ve
+ lké Meziříčí)
 END:VEVENT
 END:VCALENDAR
