@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:411648061
-DTSTART:20260521T164016Z
-DTEND:20260521T174016Z
-DTSTAMP:20260521T164016Z
-SUMMARY:🚗 dopravní nehoda - Moravské Budějovice
-LOCATION:Palackého\, Moravské Budějovice
-GEO:49.053798;15.812439
-URL:geo:49.053798,15.812439
-DESCRIPTION:📍 Palackého\, Moravské Budějovice\, Třebíč\n💬 DN 1 OA a chodce 
- s 1 zraněnou osobou. Zajištění místa nehody.\n\n🚒 CAS (HS Moravské Budějov
- ice)
-END:VEVENT
-BEGIN:VEVENT
 UID:411649061
 DTSTART:20260521T170746Z
 DTEND:20260521T180746Z
@@ -568,7 +555,7 @@ SUMMARY:🛠️ ostatní - Nový Rychnov
 LOCATION:Nový Rychnov
 GEO:49.383316;15.366307
 URL:geo:49.383316,15.366307
-DESCRIPTION:📍 Nový Rychnov\, Pelhřimov\n\n🚒 DA (Nový Rychnov)
+DESCRIPTION:📍 Nový Rychnov\, Pelhřimov\n💬 ZOČ.\n\n🚒 DA (Nový Rychnov)
 END:VEVENT
 BEGIN:VEVENT
 UID:411729061
@@ -603,7 +590,7 @@ SUMMARY:🛠️ ostatní - Mladé Bříště
 LOCATION:Mladé Bříště
 GEO:49.491463;15.335167
 URL:geo:49.491463,15.335167
-DESCRIPTION:📍 Mladé Bříště\, Pelhřimov\n\n🚒 CAS (Humpolec)
+DESCRIPTION:📍 Mladé Bříště\, Pelhřimov\n💬 ZOČ.\n\n🚒 CAS (Humpolec)
 END:VEVENT
 BEGIN:VEVENT
 UID:411732061
@@ -614,8 +601,9 @@ SUMMARY:🚑 spolupráce ZZS - Pikárec
 LOCATION:Pikárec
 GEO:49.429360;16.122213
 URL:geo:49.429360,16.122213
-DESCRIPTION:📍 Pikárec\, Žďár nad Sázavou\n💬 AED.\n\n🚒 CAS (HS Velké Meziříč
- í)\n🚒 RZA (HS Velké Meziříčí)\n🚒 DA (Křižanov)\n🚒 CAS (Křižanov)
+DESCRIPTION:📍 Pikárec\, Žďár nad Sázavou\n💬 Pomoc ZZS s resuscitací.\n\n🚒 C
+ AS (HS Velké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)\n🚒 DA (Křižanov)\n🚒 CAS 
+ (Křižanov)
 END:VEVENT
 BEGIN:VEVENT
 UID:411733061
@@ -687,8 +675,9 @@ SUMMARY:🚑 spolupráce ZZS - Křižanov
 LOCATION:U Školy\, Křižanov
 GEO:49.390198;16.102551
 URL:geo:49.390198,16.102551
-DESCRIPTION:📍 U Školy\, Křižanov\, Žďár nad Sázavou\n\n🚒 CAS (HS Velké Mezi
- říčí)\n🚒 RZA (HS Velké Meziříčí)\n🚒 DA (Křižanov)
+DESCRIPTION:📍 U Školy\, Křižanov\, Žďár nad Sázavou\n💬 Pomoc ZZS s resuscit
+ ací.\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)\n🚒 DA (Křižan
+ ov)
 END:VEVENT
 BEGIN:VEVENT
 UID:411743061
@@ -740,5 +729,17 @@ LOCATION:Srázná\, Jihlava
 GEO:49.400988;15.590512
 URL:geo:49.400988,15.590512
 DESCRIPTION:📍 Srázná\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+END:VEVENT
+BEGIN:VEVENT
+UID:411753061
+DTSTART:20260523T162412Z
+DTEND:20260523T172412Z
+DTSTAMP:20260523T162412Z
+SUMMARY:🛠️ obtížný hmyz - Nížkov
+LOCATION:Nížkov
+GEO:49.531063;15.807158
+URL:geo:49.531063,15.807158
+DESCRIPTION:📍 Nížkov\, Žďár nad Sázavou\n💬 Odstranění obtížného hmyzu.\n\n🚒
+  CAS (HS Polná)
 END:VEVENT
 END:VCALENDAR
