@@ -742,4 +742,16 @@ URL:geo:49.558376,15.384653
 DESCRIPTION:📍 Čejov\, Pelhřimov\n💬 Únik plynu. Zajištění místa události. Mí
  sto zásahu předáno plynárenské pohotovostní službě.\n\n🚒 CAS (HS Humpolec)
 END:VEVENT
+BEGIN:VEVENT
+UID:411759061
+DTSTART:20260523T220522Z
+DTEND:20260523T230522Z
+DTSTAMP:20260523T220522Z
+SUMMARY:🔥 tráva/plocha - Kámen
+LOCATION:Kámen
+GEO:49.725769;15.538108
+URL:geo:49.725769,15.538108
+DESCRIPTION:📍 Jiříkov\, Kámen\, Havlíčkův Brod\n\n🚒 CAS (HS Světlá nad Sáza
+ vou)\n🚒 CAS (Habry)
+END:VEVENT
 END:VCALENDAR
