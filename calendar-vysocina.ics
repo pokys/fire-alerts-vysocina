@@ -575,11 +575,12 @@ UID:411717061
 DTSTART:20260523T064312Z
 DTEND:20260523T074312Z
 DTSTAMP:20260523T064312Z
-SUMMARY:🛠️ ostatní - Třebíč
+SUMMARY:🚗 úklid místa - Třebíč
 LOCATION:Velkomeziříčská\, Třebíč
 GEO:49.217376;15.893379
 URL:geo:49.217376,15.893379
-DESCRIPTION:📍 Velkomeziříčská\, Nové Město\, Třebíč\n\n🚒 CAS (CHS Třebíč)
+DESCRIPTION:📍 Velkomeziříčská\, Nové Město\, Třebíč\n💬 DN úklid vozovky.\n\
+ n🚒 CAS (CHS Třebíč)
 END:VEVENT
 BEGIN:VEVENT
 UID:411719061
@@ -592,5 +593,17 @@ GEO:49.660079;16.197010
 URL:geo:49.660079,16.197010
 DESCRIPTION:📍 Borovnice\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad Sázavou)\
  n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (Jimramov)\n🚒 CAS (Borovnice)
+END:VEVENT
+BEGIN:VEVENT
+UID:411720061
+DTSTART:20260523T081230Z
+DTEND:20260523T091230Z
+DTSTAMP:20260523T081230Z
+SUMMARY:🚑 transport pacienta - Žďár nad Sázavou
+LOCATION:Haškova\, Žďár nad Sázavou
+GEO:49.555387;15.940850
+URL:geo:49.555387,15.940850
+DESCRIPTION:📍 Haškova\, Žďár nad Sázavou 6\, Žďár nad Sázavou\n\n🚒 CAS (CHS
+  Žďár nad Sázavou)
 END:VEVENT
 END:VCALENDAR
