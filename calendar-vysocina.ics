@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:411645061
-DTSTART:20260521T152037Z
-DTEND:20260521T162037Z
-DTSTAMP:20260521T152037Z
-SUMMARY:⚠️ planý poplach - Třebíč
-LOCATION:Kateřiny z Valdštejna\, Třebíč
-GEO:49.213457;15.886122
-URL:geo:49.213457,15.886122
-DESCRIPTION:📍 Kateřiny z Valdštejna\, Jejkov\, Třebíč\n💬 Požár ohlášený sys
- témem elektrické požární signalizace. Průzkumem bylo zjištěno\, že se jedn
- á o planý poplach.\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (CHS Třebíč)
-END:VEVENT
-BEGIN:VEVENT
 UID:411646061
 DTSTART:20260521T160619Z
 DTEND:20260521T170619Z
