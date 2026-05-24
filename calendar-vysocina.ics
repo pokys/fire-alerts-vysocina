@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:411673061
-DTSTART:20260522T085100Z
-DTEND:20260522T095100Z
-DTSTAMP:20260522T085100Z
-SUMMARY:🚗 úklid místa - Spělkov
-LOCATION:Spělkov
-GEO:49.677426;16.161241
-URL:geo:49.677426,16.161241
-DESCRIPTION:📍 Spělkov\, Žďár nad Sázavou\n💬 DN NA bez zranění. Zajištění mí
- sta události.\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 DA (Sněžné)
-END:VEVENT
-BEGIN:VEVENT
 UID:411674061
 DTSTART:20260522T094037Z
 DTEND:20260522T104037Z
@@ -724,8 +712,9 @@ SUMMARY:🛠️ obtížný hmyz - Bystřice nad Pernštejnem
 LOCATION:Višňová\, Bystřice nad Pernštejnem
 GEO:49.519607;16.261710
 URL:geo:49.519607,16.261710
-DESCRIPTION:📍 Višňová\, Bystřice nad Pernštejnem\, Žďár nad Sázavou\n\n🚒 CA
- S (HS Bystřice nad Pernštejnem)\n🚒 AŽ (HS Bystřice nad Pernštejnem)
+DESCRIPTION:📍 Višňová\, Bystřice nad Pernštejnem\, Žďár nad Sázavou\n💬 Odst
+ ranění obtížného hmyzu.\n\n🚒 CAS (HS Bystřice nad Pernštejnem)\n🚒 AŽ (HS B
+ ystřice nad Pernštejnem)
 END:VEVENT
 BEGIN:VEVENT
 UID:411764061
@@ -737,5 +726,29 @@ LOCATION:Rynárec
 GEO:49.387104;15.239025
 URL:geo:49.387104,15.239025
 DESCRIPTION:📍 Rynárec\, Pelhřimov\n💬 Otevření RD.\n\n🚒 CAS (CHS Pelhřimov)
+END:VEVENT
+BEGIN:VEVENT
+UID:411765061
+DTSTART:20260524T083754Z
+DTEND:20260524T093754Z
+DTSTAMP:20260524T083754Z
+SUMMARY:🚗 se zraněním - Oudoleň
+LOCATION:Oudoleň
+GEO:49.675121;15.755054
+URL:geo:49.675121,15.755054
+DESCRIPTION:📍 Oudoleň\, Havlíčkův Brod\n\n🚒 CAS (HS Chotěboř)\n🚒 CAS (Ždíre
+ c nad Doubravou)
+END:VEVENT
+BEGIN:VEVENT
+UID:411767061
+DTSTART:20260524T085025Z
+DTEND:20260524T095025Z
+DTSTAMP:20260524T085025Z
+SUMMARY:🛠️ otevření bytu/auta - Pelhřimov
+LOCATION:Táborská\, Pelhřimov
+GEO:49.436357;15.207884
+URL:geo:49.436357,15.207884
+DESCRIPTION:📍 Táborská\, Pelhřimov\n💬 Otevření bytu.\n\n🚒 CAS (CHS Pelhřimo
+ v)
 END:VEVENT
 END:VCALENDAR
