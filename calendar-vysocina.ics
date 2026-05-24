@@ -550,7 +550,7 @@ LOCATION:Kamenice
 GEO:49.368230;15.765174
 URL:geo:49.368230,15.765174
 DESCRIPTION:📍 Kamenice\, Jihlava\n💬 Podezření na únik neznámé látky do poto
- ka.\n\n🚒 CAS (CHS Jihlava)
+ ka.\n\n🚒 CAS (CHS Jihlava)\n🚒 TA (CHL JHM Tišnov)
 END:VEVENT
 BEGIN:VEVENT
 UID:411776061
@@ -574,8 +574,8 @@ LOCATION:Nové Město na Moravě
 GEO:49.582337;16.048412
 URL:geo:49.582337,16.048412
 DESCRIPTION:📍 Nové Město na Moravě\, Žďár nad Sázavou\n💬 Transport pacienta
-  na žádost ZZS.\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (Nové Město na Mora
- vě)
+  na žádost ZZS.\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 TA (Nové Město na Morav
+ ě)
 END:VEVENT
 BEGIN:VEVENT
 UID:411779061
