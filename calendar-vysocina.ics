@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:411652061
-DTSTART:20260522T041210Z
-DTEND:20260522T051210Z
-DTSTAMP:20260522T041210Z
-SUMMARY:🚗 bez zranění - Velké Meziříčí
-LOCATION:Velké Meziříčí
-GEO:49.358955;16.018563
-URL:geo:49.358955,16.018563
-DESCRIPTION:📍 Velké Meziříčí\, Žďár nad Sázavou\n💬 DN dodávky s podvalníkem
-  bez zranění.\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)\n🚒 o
- sobní automobil (HS Velké Meziříčí)
-END:VEVENT
-BEGIN:VEVENT
 UID:411653061
 DTSTART:20260522T044326Z
 DTEND:20260522T054326Z
@@ -763,7 +750,7 @@ SUMMARY:🛠️ otevření bytu/auta - Žďár nad Sázavou
 LOCATION:Nádražní\, Žďár nad Sázavou
 GEO:49.556716;15.938454
 URL:geo:49.556716,15.938454
-DESCRIPTION:📍 Nádražní\, Žďár nad Sázavou 6\, Žďár nad Sázavou\n\n🚒 CAS (CH
- S Žďár nad Sázavou)
+DESCRIPTION:📍 Nádražní\, Žďár nad Sázavou 6\, Žďár nad Sázavou\n💬 Otevření 
+ bytu.\n\n🚒 CAS (CHS Žďár nad Sázavou)
 END:VEVENT
 END:VCALENDAR
