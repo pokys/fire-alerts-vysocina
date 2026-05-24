@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:411700061
-DTSTART:20260522T160405Z
-DTEND:20260522T170405Z
-DTSTAMP:20260522T160405Z
-SUMMARY:🛠️ ostatní - Kamenice nad Lipou
-LOCATION:Kamenice nad Lipou
-GEO:49.333431;15.100637
-URL:geo:49.333431,15.100637
-DESCRIPTION:📍 Pravíkov\, Kamenice nad Lipou\, Pelhřimov\n💬 Pročištění kanal
- izace.\n\n🚒 CAS (Kamenice nad Lipou)
-END:VEVENT
-BEGIN:VEVENT
 UID:411701061
 DTSTART:20260522T161859Z
 DTEND:20260522T171859Z
@@ -622,8 +610,8 @@ SUMMARY:🛠️ ostatní - Krásná Hora
 LOCATION:Krásná Hora
 GEO:49.628949;15.437143
 URL:geo:49.628949,15.437143
-DESCRIPTION:📍 Broumova Lhota\, Krásná Hora\, Havlíčkův Brod\n\n🚒 CAS (Světl
- á nad Sázavou)
+DESCRIPTION:📍 Broumova Lhota\, Krásná Hora\, Havlíčkův Brod\n💬 ZOč\n\n🚒 CAS
+  (Světlá nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:411781061
@@ -695,6 +683,7 @@ SUMMARY:🛠️ ostatní - Jiřice
 LOCATION:Jiřice
 GEO:49.549648;15.318453
 URL:geo:49.549648,15.318453
-DESCRIPTION:📍 Jiřice\, Pelhřimov\n\n🚒 CAS (HS Humpolec)
+DESCRIPTION:📍 Jiřice\, Pelhřimov\n💬 Odchyt hada u RD.\n\n🚒 CAS (HS Humpolec
+ )
 END:VEVENT
 END:VCALENDAR
