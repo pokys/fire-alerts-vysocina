@@ -710,4 +710,16 @@ URL:geo:49.307809,15.677492
 DESCRIPTION:📍 Zašpitál\, Brtnice\, Jihlava\n💬 Transport pacienta na žádost 
  ZZS.\n\n🚒 CAS (CHS Jihlava)\n🚒 CAS (Brtnice)\n🚒 osobní automobil (Brtnice)
 END:VEVENT
+BEGIN:VEVENT
+UID:411797061
+DTSTART:20260524T211610Z
+DTEND:20260524T221610Z
+DTSTAMP:20260524T211610Z
+SUMMARY:☣️ plyn - Lipnice nad Sázavou
+LOCATION:Lipnice nad Sázavou
+GEO:49.617612;15.404844
+URL:geo:49.617612,15.404844
+DESCRIPTION:📍 Lipnice nad Sázavou\, Havlíčkův Brod\n💬 Měření koncentrace.\n
+ \n🚒 CAS (HS Světlá nad Sázavou)
+END:VEVENT
 END:VCALENDAR
