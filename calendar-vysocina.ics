@@ -693,7 +693,19 @@ SUMMARY:🚑 otevření/asistence - Moravské Budějovice
 LOCATION:Chelčického\, Moravské Budějovice
 GEO:49.055714;15.811928
 URL:geo:49.055714,15.811928
-DESCRIPTION:📍 Chelčického\, Moravské Budějovice\, Třebíč\n\n🚒 CAS (HS Morav
- ské Budějovice)
+DESCRIPTION:📍 Chelčického\, Moravské Budějovice\, Třebíč\n💬 Otevření bytu.\
+ n\n🚒 CAS (HS Moravské Budějovice)
+END:VEVENT
+BEGIN:VEVENT
+UID:411799061
+DTSTART:20260525T043208Z
+DTEND:20260525T053208Z
+DTSTAMP:20260525T043208Z
+SUMMARY:🛠️ strom - Herálec
+LOCATION:Herálec
+GEO:49.546226;15.485402
+URL:geo:49.546226,15.485402
+DESCRIPTION:📍 Herálec\, Havlíčkův Brod\n💬 Odstranění stromu.\n\n🚒 CAS (Herá
+ lec (HB))
 END:VEVENT
 END:VCALENDAR
