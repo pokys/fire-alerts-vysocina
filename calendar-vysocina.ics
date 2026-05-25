@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:411720061
-DTSTART:20260523T081230Z
-DTEND:20260523T091230Z
-DTSTAMP:20260523T081230Z
-SUMMARY:🚑 transport pacienta - Žďár nad Sázavou
-LOCATION:Haškova\, Žďár nad Sázavou
-GEO:49.555387;15.940850
-URL:geo:49.555387,15.940850
-DESCRIPTION:📍 Haškova\, Žďár nad Sázavou 6\, Žďár nad Sázavou\n💬 Transport 
- pacienta na žádost ZZS.\n\n🚒 CAS (CHS Žďár nad Sázavou)
-END:VEVENT
-BEGIN:VEVENT
 UID:411722061
 DTSTART:20260523T090909Z
 DTEND:20260523T100909Z
@@ -705,5 +693,18 @@ LOCATION:Habry
 GEO:49.756027;15.484858
 URL:geo:49.756027,15.484858
 DESCRIPTION:📍 Habry\, Havlíčkův Brod\n💬 Oplach vozovky.\n\n🚒 CAS (Habry)
+END:VEVENT
+BEGIN:VEVENT
+UID:411818061
+DTSTART:20260525T075914Z
+DTEND:20260525T085914Z
+DTSTAMP:20260525T075914Z
+SUMMARY:🚗 dopravní nehoda - Nové Město na Moravě
+LOCATION:Nové Město na Moravě
+GEO:49.550606;16.041502
+URL:geo:49.550606,16.041502
+DESCRIPTION:📍 Slavkovice\, Nové Město na Moravě\, Žďár nad Sázavou\n💬 DN mo
+ torky a kamionu. Jedna lehce zraněná osoba. Úklid vozovky.\n\n🚒 CAS (CHS Ž
+ ďár nad Sázavou)
 END:VEVENT
 END:VCALENDAR
