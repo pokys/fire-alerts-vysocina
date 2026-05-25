@@ -656,6 +656,18 @@ DESCRIPTION:📍 Mánesova\, Moravské Budějovice\, Třebíč\n💬 Planý popl
  🚒 CAS (HS Moravské Budějovice)
 END:VEVENT
 BEGIN:VEVENT
+UID:411864061
+DTSTART:20260525T173951Z
+DTEND:20260525T183951Z
+DTSTAMP:20260525T173951Z
+SUMMARY:☣️ olej/PHM - Dukovany
+LOCATION:Dukovany
+GEO:49.098318;16.195050
+URL:geo:49.098318,16.195050
+DESCRIPTION:📍 Dukovany\, Třebíč\n💬 Likvidace olejové skvrny na komunikaci.\
+ n\n🚒 CAS (HS Hrotovice)
+END:VEVENT
+BEGIN:VEVENT
 UID:411865061
 DTSTART:20260525T175115Z
 DTEND:20260525T185115Z
@@ -664,8 +676,8 @@ SUMMARY:🛠️ ostatní - Hamry nad Sázavou
 LOCATION:Hamry nad Sázavou
 GEO:49.568150;15.888661
 URL:geo:49.568150,15.888661
-DESCRIPTION:📍 Najdek\, Hamry nad Sázavou\, Žďár nad Sázavou\n💬 Pročištění p
- ropustku.\n\n🚒 CAS (Hamry nad Sázavou-Najdek)
+DESCRIPTION:📍 Najdek\, Hamry nad Sázavou\, Žďár nad Sázavou\n💬 ZOČ. Pročišt
+ ění propustku.\n\n🚒 CAS (Hamry nad Sázavou-Najdek)
 END:VEVENT
 BEGIN:VEVENT
 UID:411866061
