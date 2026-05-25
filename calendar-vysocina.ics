@@ -684,4 +684,16 @@ URL:geo:49.617612,15.404844
 DESCRIPTION:📍 Lipnice nad Sázavou\, Havlíčkův Brod\n💬 Měření koncentrace.\n
  \n🚒 CAS (HS Světlá nad Sázavou)
 END:VEVENT
+BEGIN:VEVENT
+UID:411798061
+DTSTART:20260525T042413Z
+DTEND:20260525T052413Z
+DTSTAMP:20260525T042413Z
+SUMMARY:🚑 otevření/asistence - Moravské Budějovice
+LOCATION:Chelčického\, Moravské Budějovice
+GEO:49.055714;15.811928
+URL:geo:49.055714,15.811928
+DESCRIPTION:📍 Chelčického\, Moravské Budějovice\, Třebíč\n\n🚒 CAS (HS Morav
+ ské Budějovice)
+END:VEVENT
 END:VCALENDAR
