@@ -5,17 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:411728061
-DTSTART:20260523T105808Z
-DTEND:20260523T115808Z
-DTSTAMP:20260523T105808Z
-SUMMARY:🛠️ ostatní - Nový Rychnov
-LOCATION:Nový Rychnov
-GEO:49.383316;15.366307
-URL:geo:49.383316,15.366307
-DESCRIPTION:📍 Nový Rychnov\, Pelhřimov\n💬 ZOČ.\n\n🚒 DA (Nový Rychnov)
-END:VEVENT
-BEGIN:VEVENT
 UID:411729061
 DTSTART:20260523T111709Z
 DTEND:20260523T121709Z
@@ -680,7 +669,7 @@ SUMMARY:🚑 otevření/asistence - Nové Město na Moravě
 LOCATION:Kaštanová\, Nové Město na Moravě
 GEO:49.571118;16.075251
 URL:geo:49.571118,16.075251
-DESCRIPTION:📍 Kaštanová\, Nové Město na Moravě\, Žďár nad Sázavou\n\n🚒 CAS 
- (CHS Žďár nad Sázavou)
+DESCRIPTION:📍 Kaštanová\, Nové Město na Moravě\, Žďár nad Sázavou\n💬 Otevře
+ ní dveří.\n\n🚒 CAS (CHS Žďár nad Sázavou)
 END:VEVENT
 END:VCALENDAR
