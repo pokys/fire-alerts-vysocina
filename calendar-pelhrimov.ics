@@ -122,4 +122,16 @@ URL:geo:49.597767,15.186094
 DESCRIPTION:📍 Hořice\, Pelhřimov\n💬 Odstranění obtížného hmyzu.\n\n🚒 CAS (S
  enožaty)
 END:VEVENT
+BEGIN:VEVENT
+UID:411860061
+DTSTART:20260525T165159Z
+DTEND:20260525T175159Z
+DTSTAMP:20260525T165159Z
+SUMMARY:🛠️ ostatní - Kamenice nad Lipou
+LOCATION:Masarykova\, Kamenice nad Lipou
+GEO:49.299688;15.076914
+URL:geo:49.299688,15.076914
+DESCRIPTION:📍 Masarykova\, Kamenice nad Lipou\, Pelhřimov\n💬 Proplach kanal
+ izace.\n\n🚒 CAS (Kamenice nad Lipou)
+END:VEVENT
 END:VCALENDAR
