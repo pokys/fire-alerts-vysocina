@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:411746061
-DTSTART:20260523T153249Z
-DTEND:20260523T163249Z
-DTSTAMP:20260523T153249Z
-SUMMARY:🚗 dopravní nehoda - Jeřišno
-LOCATION:Jeřišno
-GEO:49.807003;15.625650
-URL:geo:49.807003,15.625650
-DESCRIPTION:📍 Chuchel\, Jeřišno\, Havlíčkův Brod\n💬 Dopravní nehoda OA a cy
- klisty. Provedeno zabezpečení místa nehody. Na místě jedna zraněná osoba.\
- n\n🚒 CAS (HS Chotěboř)\n🚒 CAS (HS Seč)
-END:VEVENT
-BEGIN:VEVENT
 UID:411748061
 DTSTART:20260523T155316Z
 DTEND:20260523T165316Z
@@ -605,8 +592,10 @@ SUMMARY:🚑 transport pacienta - Jaroměřice nad Rokytnou
 LOCATION:Chelčického\, Jaroměřice nad Rokytnou
 GEO:49.096948;15.892185
 URL:geo:49.096948,15.892185
-DESCRIPTION:📍 Chelčického\, Jaroměřice nad Rokytnou\, Třebíč\n\n🚒 CAS (HS M
- oravské Budějovice)\n🚒 CAS (Jaroměřice nad Rokytnou)
+DESCRIPTION:📍 Chelčického\, Jaroměřice nad Rokytnou\, Třebíč\n💬 Otevření by
+ tu\, uvnitř zraněná osoba. Jednotky provedly předlékařskou pomoc a pomohly
+  s transportem pacienta do vozu ZZS.\n\n🚒 CAS (HS Moravské Budějovice)\n🚒 
+ CAS (Jaroměřice nad Rokytnou)
 END:VEVENT
 BEGIN:VEVENT
 UID:411848061
@@ -618,5 +607,16 @@ LOCATION:Pohled
 GEO:49.618452;15.660338
 URL:geo:49.618452,15.660338
 DESCRIPTION:📍 Pohled\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)
+END:VEVENT
+BEGIN:VEVENT
+UID:411850061
+DTSTART:20260525T152911Z
+DTEND:20260525T162911Z
+DTSTAMP:20260525T152911Z
+SUMMARY:🛠️ obtížný hmyz - Chotěboř
+LOCATION:V Drážkách\, Chotěboř
+GEO:49.716408;15.668120
+URL:geo:49.716408,15.668120
+DESCRIPTION:📍 V Drážkách\, Chotěboř\, Havlíčkův Brod\n\n🚒 CAS (HS Chotěboř)
 END:VEVENT
 END:VCALENDAR
