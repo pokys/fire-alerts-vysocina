@@ -5,33 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:411743061
-DTSTART:20260523T150109Z
-DTEND:20260523T160109Z
-DTSTAMP:20260523T150109Z
-SUMMARY:🔥 les - Bojiště
-LOCATION:Bojiště
-GEO:49.673520;15.308639
-URL:geo:49.673520,15.308639
-DESCRIPTION:📍 Bojiště\, Havlíčkův Brod\n💬 Požár lesního porostu\, provedena
-  lokalizace a likvidace.\n\n🚒 CAS (HS Ledeč nad Sázavou)\n🚒 CAS (Kožlí)\n🚒
-  CAS (Ledeč nad Sázavou)\n🚒 CAS (HS Světlá nad Sázavou)\n🚒 CAS (Bojiště)\n
- 🚒 DA (Dolní Město)\n🚒 CAS (Dolní Město)\n🚒 vyšetřovací automobil (ÚO Havlí
- čkův Brod)
-END:VEVENT
-BEGIN:VEVENT
-UID:411745061
-DTSTART:20260523T152559Z
-DTEND:20260523T162559Z
-DTSTAMP:20260523T152559Z
-SUMMARY:🛠️ obtížný hmyz - Havlíčkův Brod
-LOCATION:Havlíčkův Brod
-GEO:49.599593;15.615334
-URL:geo:49.599593,15.615334
-DESCRIPTION:📍 Termesivy\, Havlíčkův Brod\n💬 Odstranění obtížného hmyzu.\n\n
- 🚒 CAS (CHS Havlíčkův Brod)
-END:VEVENT
-BEGIN:VEVENT
 UID:411746061
 DTSTART:20260523T153249Z
 DTEND:20260523T163249Z
@@ -620,7 +593,8 @@ SUMMARY:🛠️ obtížný hmyz - Hořice
 LOCATION:Hořice
 GEO:49.597767;15.186094
 URL:geo:49.597767,15.186094
-DESCRIPTION:📍 Hořice\, Pelhřimov\n\n🚒 CAS (Senožaty)
+DESCRIPTION:📍 Hořice\, Pelhřimov\n💬 Odstranění obtížného hmyzu.\n\n🚒 CAS (S
+ enožaty)
 END:VEVENT
 BEGIN:VEVENT
 UID:411847061
@@ -633,5 +607,16 @@ GEO:49.096948;15.892185
 URL:geo:49.096948,15.892185
 DESCRIPTION:📍 Chelčického\, Jaroměřice nad Rokytnou\, Třebíč\n\n🚒 CAS (HS M
  oravské Budějovice)\n🚒 CAS (Jaroměřice nad Rokytnou)
+END:VEVENT
+BEGIN:VEVENT
+UID:411848061
+DTSTART:20260525T150322Z
+DTEND:20260525T160322Z
+DTSTAMP:20260525T150322Z
+SUMMARY:🚗 dopravní nehoda - Pohled
+LOCATION:Pohled
+GEO:49.618452;15.660338
+URL:geo:49.618452,15.660338
+DESCRIPTION:📍 Pohled\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)
 END:VEVENT
 END:VCALENDAR
