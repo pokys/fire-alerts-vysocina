@@ -672,10 +672,23 @@ UID:411871061
 DTSTART:20260526T060038Z
 DTEND:20260526T070038Z
 DTSTAMP:20260526T060038Z
-SUMMARY:🔥 Jihlava
+SUMMARY:⚠️ planý poplach - Jihlava
 LOCATION:Humpolecká\, Jihlava
 GEO:49.414817;15.562355
 URL:geo:49.414817,15.562355
-DESCRIPTION:📍 Humpolecká\, Staré Hory\, Jihlava\n\n🚒 CAS (CHS Jihlava) ×2
+DESCRIPTION:📍 Humpolecká\, Staré Hory\, Jihlava\n💬 Požár ohlášený systémem 
+ elektrické požární signalizace. Průzkumem bylo zjištěno\, že se jedná o pl
+ aný poplach.\n\n🚒 CAS (CHS Jihlava) ×2
+END:VEVENT
+BEGIN:VEVENT
+UID:411872061
+DTSTART:20260526T062908Z
+DTEND:20260526T072908Z
+DTSTAMP:20260526T062908Z
+SUMMARY:🚗 se zraněním - Havlíčkův Brod
+LOCATION:Havlíčkův Brod
+GEO:49.610280;15.556057
+URL:geo:49.610280,15.556057
+DESCRIPTION:🚒 CAS (CHS Havlíčkův Brod)
 END:VEVENT
 END:VCALENDAR
