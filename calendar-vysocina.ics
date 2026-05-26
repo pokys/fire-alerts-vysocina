@@ -665,7 +665,8 @@ SUMMARY:🚗 se zraněním - Havlíčkův Brod
 LOCATION:Havlíčkův Brod
 GEO:49.610280;15.556057
 URL:geo:49.610280,15.556057
-DESCRIPTION:🚒 CAS (CHS Havlíčkův Brod)
+DESCRIPTION:💬 DN 2 OA se zraněním jedné osoby. Provedena PPO. Zajištění mís
+ ta události.\n\n🚒 CAS (CHS Havlíčkův Brod)
 END:VEVENT
 BEGIN:VEVENT
 UID:411876061
@@ -676,7 +677,8 @@ SUMMARY:🛠️ obtížný hmyz - Bohušice
 LOCATION:Bohušice
 GEO:49.086583;15.850740
 URL:geo:49.086583,15.850740
-DESCRIPTION:📍 Bohušice\, Třebíč\n\n🚒 CAS (Jaroměřice nad Rokytnou)
+DESCRIPTION:📍 Bohušice\, Třebíč\n💬 Odstranění obtížného hmyzu.\n\n🚒 CAS (Ja
+ roměřice nad Rokytnou)
 END:VEVENT
 BEGIN:VEVENT
 UID:411879061
@@ -689,5 +691,16 @@ GEO:49.050442;15.807260
 URL:geo:49.050442,15.807260
 DESCRIPTION:📍 Smetanova\, Moravské Budějovice\, Třebíč\n\n🚒 CAS (Moravské B
  udějovice)
+END:VEVENT
+BEGIN:VEVENT
+UID:411882061
+DTSTART:20260526T073424Z
+DTEND:20260526T083424Z
+DTSTAMP:20260526T073424Z
+SUMMARY:🚗 dopravní nehoda - Velká Bíteš
+LOCATION:Velká Bíteš
+GEO:49.299797;16.213926
+URL:geo:49.299797,16.213926
+DESCRIPTION:📍 Velká Bíteš\, Žďár nad Sázavou\n\n🚒 CAS (HS Velká Bíteš)
 END:VEVENT
 END:VCALENDAR
