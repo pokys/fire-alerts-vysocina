@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:411781061
-DTSTART:20260524T134947Z
-DTEND:20260524T144947Z
-DTSTAMP:20260524T134947Z
-SUMMARY:🚗 dopravní nehoda - Velké Meziříčí
-LOCATION:Bezděkov\, Velké Meziříčí
-GEO:49.352985;16.018861
-URL:geo:49.352985,16.018861
-DESCRIPTION:📍 Bezděkov\, Velké Meziříčí\, Žďár nad Sázavou\n💬 DN OA a cykli
- sty\, 1 zraněná osoba. Zajištění místa nehody.\n\n🚒 CAS (HS Velké Meziříčí
- )\n🚒 RZA (HS Velké Meziříčí)
-END:VEVENT
-BEGIN:VEVENT
 UID:411782061
 DTSTART:20260524T142743Z
 DTEND:20260524T152743Z
@@ -604,8 +591,8 @@ DTEND:20260526T114433Z
 DTSTAMP:20260526T104433Z
 SUMMARY:🔥 vozidlo - Kámen
 LOCATION:Kámen
-GEO:49.418065;14.997633
-URL:geo:49.418065,14.997633
+GEO:49.418740;14.997582
+URL:geo:49.418740,14.997582
 DESCRIPTION:📍 Kámen\, Pelhřimov\n💬 Požár NA\, bez zranění. Provedena lokali
  zace a likvidace požáru.\n\n🚒 CAS (HS Pacov)\n🚒 CAS (Obrataň)
 END:VEVENT
@@ -654,9 +641,9 @@ SUMMARY:🚗 úklid místa - Měřín
 LOCATION:Měřín
 GEO:49.402150;15.851867
 URL:geo:49.402150,15.851867
-DESCRIPTION:📍 Měřín\, Žďár nad Sázavou\n💬 DN OA náraz do svodidel. Bez zran
- ění. Zajištění místa nehody.\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (HS Velké
-  Meziříčí)
+DESCRIPTION:📍 Měřín\, Žďár nad Sázavou\n💬 DN NA a OA\, náraz do svodidel. N
+ a místě jedna zraněná osoba. Zajištění místa nehody.\n\n🚒 CAS (HS Velké Me
+ ziříčí)\n🚒 RZA (HS Velké Meziříčí)
 END:VEVENT
 BEGIN:VEVENT
 UID:411926061
