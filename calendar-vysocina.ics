@@ -570,7 +570,7 @@ SUMMARY:🛠️ ostatní - Pavlov
 LOCATION:Pavlov
 GEO:49.699215;15.332515
 URL:geo:49.699215,15.332515
-DESCRIPTION:📍 Pavlov\, Havlíčkův Brod\n💬 ZOČ\n\n🚒 CAS (Pavlov (HB))
+DESCRIPTION:📍 Pavlov\, Havlíčkův Brod\n💬 ZOČ.\n\n🚒 CAS (Pavlov (HB))
 END:VEVENT
 BEGIN:VEVENT
 UID:411855061
@@ -676,7 +676,7 @@ SUMMARY:🚗 úklid místa - Měšín
 LOCATION:Měšín
 GEO:49.433982;15.648325
 URL:geo:49.433982,15.648325
-DESCRIPTION:📍 Měšín\, Jihlava\n💬 DN 1 OA\, bez zranění. únik oleje na komun
- ikaci.\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihlava)
+DESCRIPTION:📍 Měšín\, Jihlava\n💬 DN 1 OA\, bez zranění. Zajištění místa udá
+ losti.\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihlava)
 END:VEVENT
 END:VCALENDAR
