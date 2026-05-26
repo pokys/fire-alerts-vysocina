@@ -641,7 +641,41 @@ SUMMARY:🛠️ obtížný hmyz - Jaroměřice nad Rokytnou
 LOCATION:Popovická\, Jaroměřice nad Rokytnou
 GEO:49.097626;15.858500
 URL:geo:49.097626,15.858500
-DESCRIPTION:📍 Popovická\, Popovice\, Jaroměřice nad Rokytnou\, Třebíč\n\n🚒 
- CAS (Jaroměřice nad Rokytnou)
+DESCRIPTION:📍 Popovická\, Popovice\, Jaroměřice nad Rokytnou\, Třebíč\n💬 Od
+ stranění obtížného hmyzu.\n\n🚒 CAS (Jaroměřice nad Rokytnou)
+END:VEVENT
+BEGIN:VEVENT
+UID:411936061
+DTSTART:20260526T174310Z
+DTEND:20260526T184310Z
+DTSTAMP:20260526T174310Z
+SUMMARY:🚗 dopravní nehoda - Jinošov
+LOCATION:Jinošov
+GEO:49.223382;16.180411
+URL:geo:49.223382,16.180411
+DESCRIPTION:📍 Jinošov\, Třebíč\n\n🚒 CAS (HS Náměšť nad Oslavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:411937061
+DTSTART:20260526T174417Z
+DTEND:20260526T184417Z
+DTSTAMP:20260526T174417Z
+SUMMARY:🛠️ čerpání vody - Havlíčkův Brod
+LOCATION:Mírová\, Havlíčkův Brod
+GEO:49.601493;15.590449
+URL:geo:49.601493,15.590449
+DESCRIPTION:📍 Mírová\, Havlíčkův Brod\n💬 Čerpání vody.\n\n🚒 CAS (CHS Havlíč
+ kův Brod)
+END:VEVENT
+BEGIN:VEVENT
+UID:411940061
+DTSTART:20260526T175130Z
+DTEND:20260526T185130Z
+DTSTAMP:20260526T175130Z
+SUMMARY:🔥 vozidlo - Třebenice
+LOCATION:Třebenice
+GEO:49.163319;16.008737
+URL:geo:49.163319,16.008737
+DESCRIPTION:📍 Třebenice\, Třebíč\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (CHS Třebíč)
 END:VEVENT
 END:VCALENDAR
