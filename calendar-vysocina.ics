@@ -736,9 +736,9 @@ SUMMARY:🔥 tráva/plocha - Horní Ves
 LOCATION:Horní Ves
 GEO:49.282377;15.312325
 URL:geo:49.282377,15.312325
-DESCRIPTION:📍 Horní Ves\, Pelhřimov\n💬 Požár trávy. Provedena lokalizace a 
- likvidace požáru.\n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (
- Horní Cerekev)\n🚒 CAS (Počátky) ×2\n🚒 DA (Horní Ves) ×2
+DESCRIPTION:📍 Horní Ves\, Pelhřimov\n💬 Požár suché trávy. Provedena lokaliz
+ ace a likvidace požáru.\n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (CHS Pelhřimov)\n🚒
+  CAS (Horní Cerekev)\n🚒 CAS (Počátky) ×2\n🚒 DA (Horní Ves) ×2
 END:VEVENT
 BEGIN:VEVENT
 UID:412011061
@@ -797,7 +797,7 @@ SUMMARY:🛠️ otevření bytu/auta - Velké Meziříčí
 LOCATION:Strmá\, Velké Meziříčí
 GEO:49.357392;15.998911
 URL:geo:49.357392,15.998911
-DESCRIPTION:📍 Strmá\, Velké Meziříčí\, Žďár nad Sázavou\n\n🚒 RZA (HS Velké 
- Meziříčí)
+DESCRIPTION:📍 Strmá\, Velké Meziříčí\, Žďár nad Sázavou\n💬 Otevření bytu.\n
+ \n🚒 RZA (HS Velké Meziříčí)
 END:VEVENT
 END:VCALENDAR
