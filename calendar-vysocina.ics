@@ -673,8 +673,8 @@ SUMMARY:🚑 transport pacienta - Lípa
 LOCATION:Lípa
 GEO:49.539231;15.514026
 URL:geo:49.539231,15.514026
-DESCRIPTION:📍 Dobrohostov\, Lípa\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův B
- rod)
+DESCRIPTION:📍 Dobrohostov\, Lípa\, Havlíčkův Brod\n💬 Transport pacienta na 
+ žádost ZZS.\n\n🚒 CAS (CHS Havlíčkův Brod)
 END:VEVENT
 BEGIN:VEVENT
 UID:411978061
@@ -685,7 +685,8 @@ SUMMARY:🛠️ ostatní - Humpolec
 LOCATION:Nádražní\, Humpolec
 GEO:49.537406;15.343037
 URL:geo:49.537406,15.343037
-DESCRIPTION:📍 Nádražní\, Humpolec\, Pelhřimov\n\n🚒 CAS (Humpolec)
+DESCRIPTION:📍 Nádražní\, Humpolec\, Pelhřimov\n💬 Oplach komunikace.\n\n🚒 CA
+ S (Humpolec)
 END:VEVENT
 BEGIN:VEVENT
 UID:411980061
@@ -697,5 +698,16 @@ LOCATION:Křeč
 GEO:49.389702;14.922158
 URL:geo:49.389702,14.922158
 DESCRIPTION:📍 Křeč\, Pelhřimov\n\n🚒 CAS (Černovice)
+END:VEVENT
+BEGIN:VEVENT
+UID:411982061
+DTSTART:20260527T105818Z
+DTEND:20260527T115818Z
+DTSTAMP:20260527T105818Z
+SUMMARY:🚗 se zraněním - Lípa
+LOCATION:Lípa
+GEO:49.550708;15.531828
+URL:geo:49.550708,15.531828
+DESCRIPTION:📍 Lípa\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)
 END:VEVENT
 END:VCALENDAR
