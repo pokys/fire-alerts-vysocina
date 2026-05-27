@@ -661,8 +661,8 @@ SUMMARY:🚗 bez zranění - Jamné
 LOCATION:Jamné
 GEO:49.423884;15.688369
 URL:geo:49.423884,15.688369
-DESCRIPTION:📍 Jamné\, Jihlava\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (HS Velké
-  Meziříčí)
+DESCRIPTION:📍 Jamné\, Jihlava\n💬 DN 1 OA v příkopu bez zranění\, zajištění 
+ místa nehody.\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)
 END:VEVENT
 BEGIN:VEVENT
 UID:411984061
@@ -685,8 +685,8 @@ SUMMARY:🛠️ ostatní - Moravské Budějovice
 LOCATION:Myslbekova\, Moravské Budějovice
 GEO:49.049516;15.817553
 URL:geo:49.049516,15.817553
-DESCRIPTION:📍 Myslbekova\, Moravské Budějovice\, Třebíč\n\n🚒 CAS (HS Moravs
- ké Budějovice)
+DESCRIPTION:📍 Myslbekova\, Moravské Budějovice\, Třebíč\n💬 Odchyt hada ze s
+ kladu.\n\n🚒 CAS (HS Moravské Budějovice)
 END:VEVENT
 BEGIN:VEVENT
 UID:411988061
@@ -711,5 +711,16 @@ GEO:49.407532;15.792621
 URL:geo:49.407532,15.792621
 DESCRIPTION:📍 Řehořov\, Kamenice\, Jihlava\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 
  RZA (HS Velké Meziříčí)
+END:VEVENT
+BEGIN:VEVENT
+UID:411992061
+DTSTART:20260527T124519Z
+DTEND:20260527T134519Z
+DTSTAMP:20260527T124519Z
+SUMMARY:🛠️ strom - Bartoušov
+LOCATION:Bartoušov
+GEO:49.578571;15.654795
+URL:geo:49.578571,15.654795
+DESCRIPTION:📍 Bartoušov\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)
 END:VEVENT
 END:VCALENDAR
