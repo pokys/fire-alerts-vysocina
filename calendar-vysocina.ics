@@ -697,8 +697,8 @@ SUMMARY:🚗 dopravní nehoda - Horní Cerekev
 LOCATION:Horní Cerekev
 GEO:49.318697;15.280742
 URL:geo:49.318697,15.280742
-DESCRIPTION:📍 Hříběcí\, Horní Cerekev\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)\
- n🚒 CAS (Horní Cerekev)
+DESCRIPTION:📍 Hříběcí\, Horní Cerekev\, Pelhřimov\n💬 DN 1 OA\, 1 zraněná os
+ oba.\n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (Horní Cerekev)
 END:VEVENT
 BEGIN:VEVENT
 UID:411991061
@@ -722,6 +722,29 @@ LOCATION:Bartoušov
 GEO:49.578571;15.654795
 URL:geo:49.578571,15.654795
 DESCRIPTION:📍 Bartoušov\, Havlíčkův Brod\n💬 Odstranění stromu.\n\n🚒 CAS (CH
- S Havlíčkův Brod)
+ S Havlíčkův Brod)\n🚒 pila řetězová (CHS Havlíčkův Brod)
+END:VEVENT
+BEGIN:VEVENT
+UID:411993061
+DTSTART:20260527T131223Z
+DTEND:20260527T141223Z
+DTSTAMP:20260527T131223Z
+SUMMARY:🛠️ strom - Česká Bělá
+LOCATION:Česká Bělá
+GEO:49.648323;15.700949
+URL:geo:49.648323,15.700949
+DESCRIPTION:📍 Česká Bělá\, Havlíčkův Brod\n\n🚒 CAS (Česká Bělá)
+END:VEVENT
+BEGIN:VEVENT
+UID:411994061
+DTSTART:20260527T132306Z
+DTEND:20260527T142306Z
+DTSTAMP:20260527T132306Z
+SUMMARY:🛠️ strom - Libice nad Doubravou
+LOCATION:Libice nad Doubravou
+GEO:49.744308;15.745839
+URL:geo:49.744308,15.745839
+DESCRIPTION:📍 Kladruby\, Libice nad Doubravou\, Havlíčkův Brod\n\n🚒 CAS (HS
+  Chotěboř)
 END:VEVENT
 END:VCALENDAR
