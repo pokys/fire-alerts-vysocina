@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:411865061
-DTSTART:20260525T175115Z
-DTEND:20260525T185115Z
-DTSTAMP:20260525T175115Z
-SUMMARY:🛠️ ostatní - Hamry nad Sázavou
-LOCATION:Hamry nad Sázavou
-GEO:49.568150;15.888661
-URL:geo:49.568150,15.888661
-DESCRIPTION:📍 Najdek\, Hamry nad Sázavou\, Žďár nad Sázavou\n💬 ZOČ. Pročišt
- ění propustku.\n\n🚒 CAS (Hamry nad Sázavou-Najdek)
-END:VEVENT
-BEGIN:VEVENT
 UID:411866061
 DTSTART:20260525T184344Z
 DTEND:20260525T194344Z
@@ -760,8 +748,9 @@ SUMMARY:🔥 tráva/plocha - Horní Ves
 LOCATION:Horní Ves
 GEO:49.282377;15.312325
 URL:geo:49.282377,15.312325
-DESCRIPTION:📍 Horní Ves\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (CHS Pe
- lhřimov)\n🚒 CAS (Horní Cerekev)\n🚒 CAS (Počátky) ×2\n🚒 DA (Horní Ves)
+DESCRIPTION:📍 Horní Ves\, Pelhřimov\n💬 Požár trávy. Provedena lokalizace a 
+ likvidace požáru.\n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (
+ Horní Cerekev)\n🚒 CAS (Počátky) ×2\n🚒 DA (Horní Ves)
 END:VEVENT
 BEGIN:VEVENT
 UID:412011061
@@ -772,7 +761,31 @@ SUMMARY:🚑 záchrana ze stromu - Světlá nad Sázavou
 LOCATION:Sázavská\, Světlá nad Sázavou
 GEO:49.666807;15.402069
 URL:geo:49.666807,15.402069
-DESCRIPTION:📍 Sázavská\, Světlá nad Sázavou\, Havlíčkův Brod\n\n🚒 CAS (HS S
- větlá nad Sázavou)
+DESCRIPTION:📍 Sázavská\, Světlá nad Sázavou\, Havlíčkův Brod\n💬 Vyproštění 
+ kočky z ventilačky.\n\n🚒 CAS (HS Světlá nad Sázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:412012061
+DTSTART:20260527T174902Z
+DTEND:20260527T184902Z
+DTSTAMP:20260527T174902Z
+SUMMARY:🛠️ ostatní - Žďár nad Sázavou
+LOCATION:Sychrova\, Žďár nad Sázavou
+GEO:49.582159;15.943841
+URL:geo:49.582159,15.943841
+DESCRIPTION:📍 Sychrova\, Žďár nad Sázavou 2\, Žďár nad Sázavou\n💬 Vyproštěn
+ í vozidla.\n\n🚒 CAS (Žďár nad Sázavou-Zámek)
+END:VEVENT
+BEGIN:VEVENT
+UID:412013061
+DTSTART:20260527T175217Z
+DTEND:20260527T185217Z
+DTSTAMP:20260527T175217Z
+SUMMARY:🚑 spolupráce ZZS - Česká Bělá
+LOCATION:Česká Bělá
+GEO:49.644837;15.689140
+URL:geo:49.644837,15.689140
+DESCRIPTION:📍 Česká Bělá\, Havlíčkův Brod\n\n🚒 CAS (HS Chotěboř)\n🚒 CAS (Če
+ ská Bělá)
 END:VEVENT
 END:VCALENDAR
