@@ -748,7 +748,8 @@ LOCATION:Dr. Drože\, Žďár nad Sázavou
 GEO:49.565152;15.937241
 URL:geo:49.565152,15.937241
 DESCRIPTION:📍 Dr. Drože\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n💬 Odstraně
- ní stromu.\n\n🚒 CAS (CHS Žďár nad Sázavou)
+ ní stromu.\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 pila řetězová (CHS Žďár nad 
+ Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:412006061
@@ -771,8 +772,8 @@ SUMMARY:☣️ olej/PHM - Světlá nad Sázavou
 LOCATION:náměstí Trčků z Lípy\, Světlá nad Sázavou
 GEO:49.667175;15.404274
 URL:geo:49.667175,15.404274
-DESCRIPTION:📍 náměstí Trčků z Lípy\, Světlá nad Sázavou\, Havlíčkův Brod\n\
- n🚒 CAS (HS Světlá nad Sázavou)
+DESCRIPTION:📍 náměstí Trčků z Lípy\, Světlá nad Sázavou\, Havlíčkův Brod\n💬
+  Likvidace úniku oleje.\n\n🚒 CAS (HS Světlá nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:412008061
@@ -783,7 +784,19 @@ SUMMARY:🛠️ strom - Jihlava
 LOCATION:Nad Jihlávkou\, Jihlava
 GEO:49.381747;15.594379
 URL:geo:49.381747,15.594379
-DESCRIPTION:📍 Nad Jihlávkou\, Jihlava\n\n🚒 CAS (CHS Jihlava)\n🚒 AŽ (CHS Jih
- lava)
+DESCRIPTION:📍 Nad Jihlávkou\, Jihlava\n💬 Odstranění stromu.\n\n🚒 CAS (CHS J
+ ihlava)\n🚒 AŽ (CHS Jihlava)
+END:VEVENT
+BEGIN:VEVENT
+UID:412010061
+DTSTART:20260527T162215Z
+DTEND:20260527T172215Z
+DTSTAMP:20260527T162215Z
+SUMMARY:🔥 tráva/plocha - Horní Ves
+LOCATION:Horní Ves
+GEO:49.282377;15.312325
+URL:geo:49.282377,15.312325
+DESCRIPTION:📍 Horní Ves\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (CHS Pe
+ lhřimov)\n🚒 CAS (Horní Cerekev)\n🚒 CAS (Počátky) ×2\n🚒 DA (Horní Ves)
 END:VEVENT
 END:VCALENDAR
