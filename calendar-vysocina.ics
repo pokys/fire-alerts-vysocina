@@ -671,7 +671,20 @@ SUMMARY:🔥 vozidlo - Želetava
 LOCATION:Želetava
 GEO:49.130755;15.690142
 URL:geo:49.130755,15.690142
-DESCRIPTION:📍 Horky\, Želetava\, Třebíč\n💬 Požár OA.\n\n🚒 CAS (HS Moravské 
- Budějovice)\n🚒 CAS (Želetava)\n🚒 vyšetřovací automobil (ÚO Třebíč)
+DESCRIPTION:📍 Horky\, Želetava\, Třebíč\n💬 Likvidace požáru dodávkového aut
+ omobilu.\n\n🚒 CAS (HS Moravské Budějovice)\n🚒 CAS (Želetava)\n🚒 vyšetřovac
+ í automobil (ÚO Třebíč)
+END:VEVENT
+BEGIN:VEVENT
+UID:411951061
+DTSTART:20260527T055157Z
+DTEND:20260527T065157Z
+DTSTAMP:20260527T055157Z
+SUMMARY:🚗 dopravní nehoda - Jihlava
+LOCATION:Znojemská\, Jihlava
+GEO:49.388039;15.593761
+URL:geo:49.388039,15.593761
+DESCRIPTION:📍 Znojemská\, Jihlava\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihlav
+ a)
 END:VEVENT
 END:VCALENDAR
