@@ -852,4 +852,16 @@ DESCRIPTION:📍 Pustina\, Měřín\, Žďár nad Sázavou\n💬 DN OA. Bez zran
  id vozovky. Likvidace úniku nafty.\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (HS
   Velké Meziříčí)\n🚒 osobní automobil (HS Velké Meziříčí)
 END:VEVENT
+BEGIN:VEVENT
+UID:412029061
+DTSTART:20260528T050434Z
+DTEND:20260528T060434Z
+DTSTAMP:20260528T050434Z
+SUMMARY:🚑 záchrana na vodě - Trpišovice
+LOCATION:Trpišovice
+GEO:49.669911;15.319182
+URL:geo:49.669911,15.319182
+DESCRIPTION:📍 Dobrovítova Lhota\, Trpišovice\, Havlíčkův Brod\n\n🚒 CAS (HS 
+ Ledeč nad Sázavou)\n🚒 přívěs lodní (HS Ledeč nad Sázavou)
+END:VEVENT
 END:VCALENDAR
