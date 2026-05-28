@@ -869,4 +869,16 @@ URL:geo:49.357956,15.990966
 DESCRIPTION:📍 Střední\, Velké Meziříčí\, Žďár nad Sázavou\n💬 Otevření zamče
  ného OA.\n\n🚒 RZA (HS Velké Meziříčí)
 END:VEVENT
+BEGIN:VEVENT
+UID:412093061
+DTSTART:20260528T153523Z
+DTEND:20260528T163523Z
+DTSTAMP:20260528T153523Z
+SUMMARY:🚗 dopravní nehoda - Bystřice nad Pernštejnem
+LOCATION:Ant. Štourače\, Bystřice nad Pernštejnem
+GEO:49.536352;16.298727
+URL:geo:49.536352,16.298727
+DESCRIPTION:📍 Ant. Štourače\, Bystřice nad Pernštejnem\, Žďár nad Sázavou\n
+ 💬 DN motocyklu s 1 zraněnou osobou.\n\n🚒 CAS (HS Bystřice nad Pernštejnem)
+END:VEVENT
 END:VCALENDAR
