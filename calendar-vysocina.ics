@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:411935061
-DTSTART:20260526T170123Z
-DTEND:20260526T180123Z
-DTSTAMP:20260526T170123Z
-SUMMARY:🛠️ obtížný hmyz - Jaroměřice nad Rokytnou
-LOCATION:Popovická\, Jaroměřice nad Rokytnou
-GEO:49.097626;15.858500
-URL:geo:49.097626,15.858500
-DESCRIPTION:📍 Popovická\, Popovice\, Jaroměřice nad Rokytnou\, Třebíč\n💬 Od
- stranění obtížného hmyzu.\n\n🚒 CAS (Jaroměřice nad Rokytnou)
-END:VEVENT
-BEGIN:VEVENT
 UID:411936061
 DTSTART:20260526T174310Z
 DTEND:20260526T184310Z
@@ -915,6 +903,7 @@ SUMMARY:🚗 dopravní nehoda - Číhalín
 LOCATION:Číhalín
 GEO:49.267054;15.811190
 URL:geo:49.267054,15.811190
-DESCRIPTION:📍 Číhalín\, Třebíč\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (Okříšky)
+DESCRIPTION:📍 Číhalín\, Třebíč\n💬 DN 1 OA a dítěte.\n\n🚒 CAS (CHS Třebíč)\n
+ 🚒 DA (Okříšky)\n🚒 CAS (Okříšky)
 END:VEVENT
 END:VCALENDAR
