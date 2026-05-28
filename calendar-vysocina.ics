@@ -818,11 +818,12 @@ UID:412017061
 DTSTART:20260528T001146Z
 DTEND:20260528T011146Z
 DTSTAMP:20260528T001146Z
-SUMMARY:🛠️ monitoring - Kladeruby nad Oslavou
+SUMMARY:🔥 les - Kladeruby nad Oslavou
 LOCATION:Kladeruby nad Oslavou
-GEO:49.135172;16.159328
-URL:geo:49.135172,16.159328
+GEO:49.128872;16.151349
+URL:geo:49.128872,16.151349
 DESCRIPTION:📍 Kladeruby nad Oslavou\, Třebíč\n\n🚒 CAS (HS Náměšť nad Oslavo
- u)
+ u)\n🚒 CAS (HS Hrotovice)\n🚒 přívěs motorová stříkačka (Kladeruby nad Oslav
+ ou)\n🚒 CAS (Mohelno)
 END:VEVENT
 END:VCALENDAR
