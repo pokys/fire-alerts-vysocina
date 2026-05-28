@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:411925061
-DTSTART:20260526T131012Z
-DTEND:20260526T141012Z
-DTSTAMP:20260526T131012Z
-SUMMARY:🚗 úklid místa - Měřín
-LOCATION:Měřín
-GEO:49.402150;15.851867
-URL:geo:49.402150,15.851867
-DESCRIPTION:📍 Měřín\, Žďár nad Sázavou\n💬 DN NA a OA\, náraz do svodidel. N
- a místě jedna zraněná osoba. Zajištění místa nehody.\n\n🚒 CAS (HS Velké Me
- ziříčí)\n🚒 RZA (HS Velké Meziříčí)
-END:VEVENT
-BEGIN:VEVENT
 UID:411926061
 DTSTART:20260526T132326Z
 DTEND:20260526T142326Z
@@ -872,7 +859,7 @@ SUMMARY:🛠️ otevření bytu/auta - Světlá nad Sázavou
 LOCATION:Dolní\, Světlá nad Sázavou
 GEO:49.667255;15.398647
 URL:geo:49.667255,15.398647
-DESCRIPTION:📍 Dolní\, Světlá nad Sázavou\, Havlíčkův Brod\n\n🚒 CAS (HS Svět
- lá nad Sázavou)
+DESCRIPTION:📍 Dolní\, Světlá nad Sázavou\, Havlíčkův Brod\n💬 Otevření dveří
+  bytu.\n\n🚒 CAS (HS Světlá nad Sázavou)
 END:VEVENT
 END:VCALENDAR
