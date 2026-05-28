@@ -822,7 +822,8 @@ SUMMARY:🚗 úklid místa - Studenec
 LOCATION:Studenec
 GEO:49.217601;16.073225
 URL:geo:49.217601,16.073225
-DESCRIPTION:📍 Studenec\, Třebíč\n\n🚒 CAS (HS Náměšť nad Oslavou)
+DESCRIPTION:📍 Studenec\, Třebíč\n💬 DN 1 OA s únikem oleje bez zranění\, lik
+ vidace sorbentem.\n\n🚒 CAS (HS Náměšť nad Oslavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:412067061
@@ -858,5 +859,16 @@ GEO:49.360774;15.226320
 URL:geo:49.360774,15.226320
 DESCRIPTION:📍 Vratišov\, Mezná\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS 
  (CHS Pelhřimov)\n🚒 CAS (Rynárec)\n🚒 přívěs motorová stříkačka (Mezná)
+END:VEVENT
+BEGIN:VEVENT
+UID:412073061
+DTSTART:20260528T103604Z
+DTEND:20260528T113604Z
+DTSTAMP:20260528T103604Z
+SUMMARY:🛠️ strom - Mikulovice
+LOCATION:Mikulovice
+GEO:49.160112;15.836748
+URL:geo:49.160112,15.836748
+DESCRIPTION:📍 Mikulovice\, Třebíč\n\n🚒 CAS (CHS Třebíč)
 END:VEVENT
 END:VCALENDAR
