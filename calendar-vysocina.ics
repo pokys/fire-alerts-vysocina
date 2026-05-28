@@ -831,10 +831,11 @@ UID:412020061
 DTSTART:20260528T013554Z
 DTEND:20260528T023554Z
 DTSTAMP:20260528T013554Z
-SUMMARY:🛠️ strom - Horní Paseka
-LOCATION:Horní Paseka
-GEO:49.633682;15.260221
-URL:geo:49.633682,15.260221
-DESCRIPTION:📍 Horní Paseka\, Havlíčkův Brod\n\n🚒 CAS (HS Ledeč nad Sázavou)
+SUMMARY:🛠️ strom - Kamenná Lhota
+LOCATION:Kamenná Lhota
+GEO:49.645636;15.267402
+URL:geo:49.645636,15.267402
+DESCRIPTION:📍 Kamenná Lhota\, Havlíčkův Brod\n💬 Odstranění stromu.\n\n🚒 CAS
+  (HS Ledeč nad Sázavou)
 END:VEVENT
 END:VCALENDAR
