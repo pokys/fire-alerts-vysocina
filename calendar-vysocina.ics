@@ -804,10 +804,10 @@ SUMMARY:🔥 vozidlo - Měřín
 LOCATION:Brněnská\, Měřín
 GEO:49.389789;15.893833
 URL:geo:49.389789,15.893833
-DESCRIPTION:📍 Brněnská\, Měřín\, Žďár nad Sázavou\n💬 Požár motocyklu.\n\n🚒 
- CAS (HS Velké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)\n🚒 CAS (Měřín)\n🚒 účelo
- vý automobil do 3500 kg (ÚO Žďár nad Sázavou)\n🚒 účelový automobil do 3500
-  kg (ÚO Žďár nad Sázavou)
+DESCRIPTION:📍 Brněnská\, Měřín\, Žďár nad Sázavou\n💬 Likvidace požáru motoc
+ yklu.\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)\n🚒 CAS (Měří
+ n)\n🚒 účelový automobil do 3500 kg (ÚO Žďár nad Sázavou)\n🚒 účelový automo
+ bil do 3500 kg (ÚO Žďár nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:412085061
@@ -879,6 +879,18 @@ LOCATION:Ant. Štourače\, Bystřice nad Pernštejnem
 GEO:49.536352;16.298727
 URL:geo:49.536352,16.298727
 DESCRIPTION:📍 Ant. Štourače\, Bystřice nad Pernštejnem\, Žďár nad Sázavou\n
- 💬 DN motocyklu s 1 zraněnou osobou.\n\n🚒 CAS (HS Bystřice nad Pernštejnem)
+ 💬 DN motocyklu s 1 zraněnou osobou. Zajištění místa nehody.\n\n🚒 CAS (HS B
+ ystřice nad Pernštejnem)
+END:VEVENT
+BEGIN:VEVENT
+UID:412094061
+DTSTART:20260528T160341Z
+DTEND:20260528T170341Z
+DTSTAMP:20260528T160341Z
+SUMMARY:🛠️ ostatní - Třešť
+LOCATION:Třešť
+GEO:49.283756;15.444833
+URL:geo:49.283756,15.444833
+DESCRIPTION:📍 Čenkov\, Třešť\, Jihlava\n\n🚒 CAS (HS Třešť)
 END:VEVENT
 END:VCALENDAR
