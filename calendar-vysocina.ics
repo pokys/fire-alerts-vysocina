@@ -763,11 +763,11 @@ SUMMARY:🔥 les - Horní Cerekev
 LOCATION:Horní Cerekev
 GEO:49.331335;15.308135
 URL:geo:49.331335,15.308135
-DESCRIPTION:📍 Horní Cerekev\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (CH
- S Pelhřimov)\n🚒 DA (Horní Cerekev)\n🚒 CAS (Horní Cerekev)\n🚒 CAS (Batelov)
- \n🚒 DA (Počátky)\n🚒 CAS (Počátky) ×2\n🚒 DA (Nový Rychnov)\n🚒 CAS (Nový Ryc
- hnov)\n🚒 vyšetřovací automobil (ÚO Pelhřimov)\n🚒 přívěs motorová stříkačka
-  (Černov)
+DESCRIPTION:📍 Horní Cerekev\, Pelhřimov\n💬 Požár lesního porostu.\n\n🚒 CAS 
+ (CHS Pelhřimov)\n🚒 CAS (CHS Pelhřimov)\n🚒 DA (Horní Cerekev)\n🚒 CAS (Horní
+  Cerekev)\n🚒 CAS (Batelov)\n🚒 DA (Počátky)\n🚒 CAS (Počátky) ×2\n🚒 DA (Nový
+  Rychnov)\n🚒 CAS (Nový Rychnov)\n🚒 vyšetřovací automobil (ÚO Pelhřimov)\n🚒
+  přívěs motorová stříkačka (Černov)
 END:VEVENT
 BEGIN:VEVENT
 UID:412078061
@@ -778,8 +778,8 @@ SUMMARY:🛠️ otevření bytu/auta - Světlá nad Sázavou
 LOCATION:Dolní\, Světlá nad Sázavou
 GEO:49.667255;15.398647
 URL:geo:49.667255,15.398647
-DESCRIPTION:📍 Dolní\, Světlá nad Sázavou\, Havlíčkův Brod\n💬 Otevření dveří
-  bytu.\n\n🚒 CAS (HS Světlá nad Sázavou)
+DESCRIPTION:📍 Dolní\, Světlá nad Sázavou\, Havlíčkův Brod\n💬 Otevření bytu.
+ \n\n🚒 CAS (HS Světlá nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:412080061
@@ -891,6 +891,30 @@ SUMMARY:🛠️ ostatní - Třešť
 LOCATION:Třešť
 GEO:49.283756;15.444833
 URL:geo:49.283756,15.444833
-DESCRIPTION:📍 Čenkov\, Třešť\, Jihlava\n\n🚒 CAS (HS Třešť)
+DESCRIPTION:📍 Čenkov\, Třešť\, Jihlava\n💬 Vytažení OA z rybníku.\n\n🚒 CAS (
+ HS Třešť)\n🚒 přívěs lodní (HS Třešť)
+END:VEVENT
+BEGIN:VEVENT
+UID:412095061
+DTSTART:20260528T163650Z
+DTEND:20260528T173650Z
+DTSTAMP:20260528T163650Z
+SUMMARY:🛠️ obtížný hmyz - Lidmaň
+LOCATION:Lidmaň
+GEO:49.380048;15.035201
+URL:geo:49.380048,15.035201
+DESCRIPTION:📍 Lidmaň\, Pelhřimov\n💬 Odstranění obtížného hmyzu.\n\n🚒 CAS (H
+ S Kamenice nad Lipou)
+END:VEVENT
+BEGIN:VEVENT
+UID:412096061
+DTSTART:20260528T164213Z
+DTEND:20260528T174213Z
+DTSTAMP:20260528T164213Z
+SUMMARY:🚗 dopravní nehoda - Číhalín
+LOCATION:Číhalín
+GEO:49.267054;15.811190
+URL:geo:49.267054,15.811190
+DESCRIPTION:📍 Číhalín\, Třebíč\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (Okříšky)
 END:VEVENT
 END:VCALENDAR
