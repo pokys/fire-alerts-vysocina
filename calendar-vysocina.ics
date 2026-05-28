@@ -5,31 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:411936061
-DTSTART:20260526T174310Z
-DTEND:20260526T184310Z
-DTSTAMP:20260526T174310Z
-SUMMARY:🚗 dopravní nehoda - Jinošov
-LOCATION:Jinošov
-GEO:49.221667;16.178539
-URL:geo:49.221667,16.178539
-DESCRIPTION:📍 Jinošov\, Třebíč\n💬 DN 1 OA\, 1 zraněná osoba. Zajištění míst
- a nehody proti požáru a úniku provozních kapalin.\n\n🚒 CAS (HS Náměšť nad 
- Oslavou)
-END:VEVENT
-BEGIN:VEVENT
-UID:411937061
-DTSTART:20260526T174417Z
-DTEND:20260526T184417Z
-DTSTAMP:20260526T174417Z
-SUMMARY:🛠️ čerpání vody - Havlíčkův Brod
-LOCATION:Mírová\, Havlíčkův Brod
-GEO:49.601493;15.590449
-URL:geo:49.601493,15.590449
-DESCRIPTION:📍 Mírová\, Havlíčkův Brod\n💬 Čerpání vody.\n\n🚒 CAS (CHS Havlíč
- kův Brod)
-END:VEVENT
-BEGIN:VEVENT
 UID:411940061
 DTSTART:20260526T175130Z
 DTEND:20260526T185130Z
@@ -903,7 +878,7 @@ SUMMARY:🚗 dopravní nehoda - Číhalín
 LOCATION:Číhalín
 GEO:49.267054;15.811190
 URL:geo:49.267054,15.811190
-DESCRIPTION:📍 Číhalín\, Třebíč\n💬 DN 1 OA a dítěte.\n\n🚒 CAS (CHS Třebíč)\n
- 🚒 DA (Okříšky)\n🚒 CAS (Okříšky)
+DESCRIPTION:📍 Číhalín\, Třebíč\n💬 DN 1 OA a dítěte. Jedna zraněná osoba.\n\
+ n🚒 CAS (CHS Třebíč)\n🚒 DA (Okříšky)\n🚒 CAS (Okříšky)
 END:VEVENT
 END:VCALENDAR
