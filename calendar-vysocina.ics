@@ -627,11 +627,10 @@ SUMMARY:🔥 les - Věž
 LOCATION:Věž
 GEO:49.559915;15.411187
 URL:geo:49.559915,15.411187
-DESCRIPTION:📍 Leština\, Věž\, Havlíčkův Brod\n💬 Požár lesa. Provedena lokal
- izace a likvidace požáru.Škoda vzniklá požárem 15 000Kč\, uchráněno 300 00
- 0Kč.\n\n🚒 CAS (HS Humpolec)\n🚒 DA (Humpolec)\n🚒 CAS (Humpolec)\n🚒 CAS (Hum
- polec)\n🚒 CAS (Kejžlice)\n🚒 nákladní automobil do 3500 kg (Čejov)\n🚒 vyšet
- řovací automobil (ÚO Havlíčkův Brod)
+DESCRIPTION:📍 Leština\, Věž\, Havlíčkův Brod\n💬 Požár lesa.\n\n🚒 CAS (HS Hu
+ mpolec)\n🚒 DA (Humpolec)\n🚒 CAS (Humpolec)\n🚒 CAS (Humpolec)\n🚒 CAS (Kejžl
+ ice)\n🚒 nákladní automobil do 3500 kg (Čejov)\n🚒 vyšetřovací automobil (ÚO
+  Havlíčkův Brod)
 END:VEVENT
 BEGIN:VEVENT
 UID:412135061
@@ -681,5 +680,17 @@ GEO:49.710394;16.041815
 URL:geo:49.710394,16.041815
 DESCRIPTION:📍 Libušina\, Svratka\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad 
  Sázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:412144061
+DTSTART:20260529T172957Z
+DTEND:20260529T182957Z
+DTSTAMP:20260529T172957Z
+SUMMARY:🚗 úklid místa - Jaroměřice nad Rokytnou
+LOCATION:Kaunicova\, Jaroměřice nad Rokytnou
+GEO:49.090084;15.888907
+URL:geo:49.090084,15.888907
+DESCRIPTION:📍 Kaunicova\, Jaroměřice nad Rokytnou\, Třebíč\n\n🚒 CAS (HS Mor
+ avské Budějovice)
 END:VEVENT
 END:VCALENDAR
