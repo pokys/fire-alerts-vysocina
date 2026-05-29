@@ -650,7 +650,7 @@ GEO:49.331335;15.308135
 URL:geo:49.331335,15.308135
 DESCRIPTION:📍 Horní Cerekev\, Pelhřimov\n💬 Požár lesního porostu.\n\n🚒 CAS 
  (CHS Pelhřimov)\n🚒 CAS (CHS Pelhřimov)\n🚒 čerpadlo plovoucí (CHS Pelhřimov
- )\n🚒 DA (Horní Cerekev) ×2\n🚒 CAS (Horní Cerekev) ×2\n🚒 CAS (Batelov)\n🚒 D
+ )\n🚒 DA (Horní Cerekev) ×3\n🚒 CAS (Horní Cerekev) ×3\n🚒 CAS (Batelov)\n🚒 D
  A (Počátky)\n🚒 CAS (Počátky) ×2\n🚒 DA (Nový Rychnov)\n🚒 CAS (Nový Rychnov)
  \n🚒 vyšetřovací automobil (ÚO Pelhřimov)\n🚒 přívěs motorová stříkačka (Čer
  nov)
@@ -861,7 +861,8 @@ SUMMARY:🚗 dopravní nehoda - Jihlava
 LOCATION:Romana Havelky\, Jihlava
 GEO:49.412854;15.576260
 URL:geo:49.412854,15.576260
-DESCRIPTION:📍 Romana Havelky\, Staré Hory\, Jihlava\n\n🚒 CAS (CHS Jihlava)\
- n🚒 RZA (CHS Jihlava)
+DESCRIPTION:📍 Romana Havelky\, Staré Hory\, Jihlava\n💬 DN motocyklu se zran
+ ěním jedné osoby. Zajištění místa události.\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA 
+ (CHS Jihlava)
 END:VEVENT
 END:VCALENDAR
