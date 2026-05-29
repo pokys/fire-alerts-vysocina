@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:412014061
-DTSTART:20260527T181502Z
-DTEND:20260527T191502Z
-DTSTAMP:20260527T181502Z
-SUMMARY:🚑 otevření/asistence - Třebíč
-LOCATION:Demlova\, Třebíč
-GEO:49.207018;15.881655
-URL:geo:49.207018,15.881655
-DESCRIPTION:📍 Demlova\, Horka-Domky\, Třebíč\n💬 Otevření bytu.\n\n🚒 CAS (CH
- S Třebíč)
-END:VEVENT
-BEGIN:VEVENT
 UID:412015061
 DTSTART:20260527T191628Z
 DTEND:20260527T201628Z
@@ -654,8 +642,9 @@ SUMMARY:🚗 bez zranění - Svratka
 LOCATION:Libušina\, Svratka
 GEO:49.710394;16.041815
 URL:geo:49.710394,16.041815
-DESCRIPTION:📍 Libušina\, Svratka\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad 
- Sázavou)
+DESCRIPTION:📍 Libušina\, Svratka\, Žďár nad Sázavou\n💬 DN 1 OA v příkopě be
+ z zranění\, likvidace úniku oleje sorbentem.\,\n\n🚒 CAS (CHS Žďár nad Sáza
+ vou)\n🚒 CAS (HS Hlinsko)
 END:VEVENT
 BEGIN:VEVENT
 UID:412144061
