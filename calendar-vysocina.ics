@@ -672,4 +672,15 @@ DESCRIPTION:📍 Stařeč\, Třebíč\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (CHS
  automobilová stříkačka (Stařeč)\n🚒 CAS (Stařeč)\n🚒 vyšetřovací automobil (
  ÚO Třebíč)
 END:VEVENT
+BEGIN:VEVENT
+UID:412154061
+DTSTART:20260529T205525Z
+DTEND:20260529T215525Z
+DTSTAMP:20260529T205525Z
+SUMMARY:🚑 spolupráce ZZS - Kouty
+LOCATION:Kouty
+GEO:49.650688;15.301484
+URL:geo:49.650688,15.301484
+DESCRIPTION:📍 Kouty\, Havlíčkův Brod\n\n🚒 CAS (HS Ledeč nad Sázavou)
+END:VEVENT
 END:VCALENDAR
