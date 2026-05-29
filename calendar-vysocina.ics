@@ -581,8 +581,8 @@ GEO:49.559915;15.411187
 URL:geo:49.559915,15.411187
 DESCRIPTION:📍 Leština\, Věž\, Havlíčkův Brod\n💬 Požár lesa.\n\n🚒 CAS (HS Hu
  mpolec)\n🚒 DA (Humpolec)\n🚒 CAS (Humpolec)\n🚒 CAS (Humpolec)\n🚒 CAS (Kejžl
- ice)\n🚒 nákladní automobil do 3500 kg (Čejov)\n🚒 vyšetřovací automobil (ÚO
-  Havlíčkův Brod)
+ ice)\n🚒 stříkačka přenosná (Čejov)\n🚒 nákladní automobil do 3500 kg (Čejov
+ )\n🚒 vyšetřovací automobil (ÚO Havlíčkův Brod)
 END:VEVENT
 BEGIN:VEVENT
 UID:412135061
@@ -658,5 +658,17 @@ GEO:49.307003;15.081534
 URL:geo:49.307003,15.081534
 DESCRIPTION:📍 Na Hamerkách\, Kamenice nad Lipou\, Pelhřimov\n💬 Dovoz vody.\
  n\n🚒 CAS (Kamenice nad Lipou)
+END:VEVENT
+BEGIN:VEVENT
+UID:412151061
+DTSTART:20260529T192656Z
+DTEND:20260529T202656Z
+DTSTAMP:20260529T192656Z
+SUMMARY:🔥 les - Stařeč
+LOCATION:Stařeč
+GEO:49.193852;15.787553
+URL:geo:49.193852,15.787553
+DESCRIPTION:📍 Stařeč\, Třebíč\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (CHS Třebíč)\n🚒 
+ automobilová stříkačka (Stařeč)\n🚒 CAS (Stařeč)
 END:VEVENT
 END:VCALENDAR
