@@ -5,31 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:411987061
-DTSTART:20260527T120939Z
-DTEND:20260527T130939Z
-DTSTAMP:20260527T120939Z
-SUMMARY:🛠️ ostatní - Moravské Budějovice
-LOCATION:Myslbekova\, Moravské Budějovice
-GEO:49.049516;15.817553
-URL:geo:49.049516,15.817553
-DESCRIPTION:📍 Myslbekova\, Moravské Budějovice\, Třebíč\n💬 Odchyt hada ze s
- kladu.\n\n🚒 CAS (HS Moravské Budějovice)
-END:VEVENT
-BEGIN:VEVENT
-UID:411988061
-DTSTART:20260527T121253Z
-DTEND:20260527T131253Z
-DTSTAMP:20260527T121253Z
-SUMMARY:🚗 dopravní nehoda - Horní Cerekev
-LOCATION:Horní Cerekev
-GEO:49.318697;15.280742
-URL:geo:49.318697,15.280742
-DESCRIPTION:📍 Hříběcí\, Horní Cerekev\, Pelhřimov\n💬 DN 1 OA\, 1 zraněná os
- oba.Zajištění místa nehody.\n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (Horní Cerekev
- )
-END:VEVENT
-BEGIN:VEVENT
 UID:411991061
 DTSTART:20260527T123119Z
 DTEND:20260527T133119Z
@@ -799,7 +774,8 @@ SUMMARY:🔥 venkovní požár - Růžená
 LOCATION:Růžená
 GEO:49.273163;15.434637
 URL:geo:49.273163,15.434637
-DESCRIPTION:📍 Růžená\, Jihlava\n\n🚒 CAS (HS Třešť)\n🚒 CAS (Batelov)
+DESCRIPTION:📍 Růžená\, Jihlava\n💬 Dohašení ohniska po pálení.\n\n🚒 CAS (HS 
+ Třešť)\n🚒 CAS (Batelov)
 END:VEVENT
 BEGIN:VEVENT
 UID:412126061
@@ -834,6 +810,18 @@ SUMMARY:🛠️ strom - Pelhřimov
 LOCATION:Pelhřimov
 GEO:49.358806;15.238039
 URL:geo:49.358806,15.238039
-DESCRIPTION:📍 Houserovka\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)
+DESCRIPTION:📍 Houserovka\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 CAS (CHS Pe
+ lhřimov)
+END:VEVENT
+BEGIN:VEVENT
+UID:412129061
+DTSTART:20260529T120325Z
+DTEND:20260529T130325Z
+DTSTAMP:20260529T120325Z
+SUMMARY:🔥 vozidlo - Jihlava
+LOCATION:Jihlava
+GEO:49.454296;15.595853
+URL:geo:49.454296,15.595853
+DESCRIPTION:📍 Pávov\, Jihlava\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihlava)
 END:VEVENT
 END:VCALENDAR
