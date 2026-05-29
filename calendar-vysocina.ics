@@ -670,4 +670,16 @@ URL:geo:49.408094,15.591477
 DESCRIPTION:📍 Havlíčkova\, Jihlava\n💬 Požár odpadkového koše. Beze škody.\n
  \n🚒 CAS (CHS Jihlava)
 END:VEVENT
+BEGIN:VEVENT
+UID:412142061
+DTSTART:20260529T170533Z
+DTEND:20260529T180533Z
+DTSTAMP:20260529T170533Z
+SUMMARY:🚗 bez zranění - Svratka
+LOCATION:Libušina\, Svratka
+GEO:49.710394;16.041815
+URL:geo:49.710394,16.041815
+DESCRIPTION:📍 Libušina\, Svratka\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad 
+ Sázavou)
+END:VEVENT
 END:VCALENDAR
