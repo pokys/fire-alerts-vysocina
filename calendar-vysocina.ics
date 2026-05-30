@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:412090061
-DTSTART:20260528T145450Z
-DTEND:20260528T155450Z
-DTSTAMP:20260528T145450Z
-SUMMARY:🛠️ otevření bytu/auta - Ledeč nad Sázavou
-LOCATION:Aloise Jiráska\, Ledeč nad Sázavou
-GEO:49.700401;15.278885
-URL:geo:49.700401,15.278885
-DESCRIPTION:📍 Aloise Jiráska\, Ledeč nad Sázavou\, Havlíčkův Brod\n💬 Otevře
- ní bytu.\n\n🚒 CAS (HS Ledeč nad Sázavou)
-END:VEVENT
-BEGIN:VEVENT
 UID:412091061
 DTSTART:20260528T150825Z
 DTEND:20260528T160825Z
@@ -613,7 +601,8 @@ GEO:49.297539;16.240637
 URL:geo:49.297539,16.240637
 DESCRIPTION:📍 Janovice\, Velká Bíteš\, Žďár nad Sázavou\n\n🚒 CAS (HS Velká 
  Bíteš)\n🚒 DA (Velká Bíteš)\n🚒 CAS (Velká Bíteš)\n🚒 CAS (HS Náměšť nad Osla
- vou)\n🚒 CAS (HS Náměšť nad Oslavou)
+ vou)\n🚒 CAS (HS Náměšť nad Oslavou)\n🚒 účelový automobil do 3500 kg (ÚO Žď
+ ár nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:412188061
@@ -626,5 +615,17 @@ GEO:49.720493;15.669971
 URL:geo:49.720493,15.669971
 DESCRIPTION:📍 Chotěboř\, Havlíčkův Brod\n💬 Zahoření odpadkového koše. Prove
  deno uhašení.\n\n🚒 CAS (HS Chotěboř)
+END:VEVENT
+BEGIN:VEVENT
+UID:412189061
+DTSTART:20260530T144656Z
+DTEND:20260530T154656Z
+DTSTAMP:20260530T144656Z
+SUMMARY:🛠️ otevření bytu/auta - Žďár nad Sázavou
+LOCATION:Revoluční\, Žďár nad Sázavou
+GEO:49.565326;15.931447
+URL:geo:49.565326,15.931447
+DESCRIPTION:📍 Revoluční\, Žďár nad Sázavou 3\, Žďár nad Sázavou\n\n🚒 CAS (C
+ HS Žďár nad Sázavou)
 END:VEVENT
 END:VCALENDAR
