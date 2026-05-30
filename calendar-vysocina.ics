@@ -580,4 +580,16 @@ URL:geo:49.540676,15.341907
 DESCRIPTION:📍 Humpolec\, Pelhřimov\n\n🚒 CAS (HS Humpolec)\n🚒 vyšetřovací au
  tomobil (ÚO Pelhřimov)
 END:VEVENT
+BEGIN:VEVENT
+UID:412169061
+DTSTART:20260530T114044Z
+DTEND:20260530T124044Z
+DTSTAMP:20260530T114044Z
+SUMMARY:🚑 transport pacienta - Žďár nad Sázavou
+LOCATION:Libušínská\, Žďár nad Sázavou
+GEO:49.568910;15.939989
+URL:geo:49.568910,15.939989
+DESCRIPTION:📍 Libušínská\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n💬 Transpo
+ rt pacienta na žádost ZZS.\n\n🚒 CAS (CHS Žďár nad Sázavou)
+END:VEVENT
 END:VCALENDAR
