@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:412093061
-DTSTART:20260528T153523Z
-DTEND:20260528T163523Z
-DTSTAMP:20260528T153523Z
-SUMMARY:🚗 dopravní nehoda - Bystřice nad Pernštejnem
-LOCATION:Ant. Štourače\, Bystřice nad Pernštejnem
-GEO:49.536352;16.298727
-URL:geo:49.536352,16.298727
-DESCRIPTION:📍 Ant. Štourače\, Bystřice nad Pernštejnem\, Žďár nad Sázavou\n
- 💬 DN motocyklu s 1 zraněnou osobou. Zajištění místa nehody.\n\n🚒 CAS (HS B
- ystřice nad Pernštejnem)
-END:VEVENT
-BEGIN:VEVENT
 UID:412094061
 DTSTART:20260528T160341Z
 DTEND:20260528T170341Z
@@ -602,7 +589,7 @@ LOCATION:Chotěboř
 GEO:49.720493;15.669971
 URL:geo:49.720493,15.669971
 DESCRIPTION:📍 Chotěboř\, Havlíčkův Brod\n💬 Zahoření odpadkového koše. Prove
- deno uhašení.\n\n🚒 CAS (HS Chotěboř)
+ deno uhašení. Beze škody.\n\n🚒 CAS (HS Chotěboř)
 END:VEVENT
 BEGIN:VEVENT
 UID:412189061
@@ -615,5 +602,16 @@ GEO:49.565326;15.931447
 URL:geo:49.565326,15.931447
 DESCRIPTION:📍 Revoluční\, Žďár nad Sázavou 3\, Žďár nad Sázavou\n💬 Otevření
   bytu.\n\n🚒 CAS (CHS Žďár nad Sázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:412190061
+DTSTART:20260530T151024Z
+DTEND:20260530T161024Z
+DTSTAMP:20260530T151024Z
+SUMMARY:🛠️ strom - Račín
+LOCATION:Račín
+GEO:49.617332;15.866912
+URL:geo:49.617332,15.866912
+DESCRIPTION:📍 Račín\, Žďár nad Sázavou\n\n🚒 CAS (Polnička)
 END:VEVENT
 END:VCALENDAR
