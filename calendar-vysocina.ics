@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:412073061
-DTSTART:20260528T103604Z
-DTEND:20260528T113604Z
-DTSTAMP:20260528T103604Z
-SUMMARY:🛠️ strom - Mikulovice
-LOCATION:Mikulovice
-GEO:49.160112;15.836748
-URL:geo:49.160112,15.836748
-DESCRIPTION:📍 Mikulovice\, Třebíč\n💬 Odstranění stromu.\n\n🚒 CAS (CHS Třebí
- č)
-END:VEVENT
-BEGIN:VEVENT
 UID:412075061
 DTSTART:20260528T110003Z
 DTEND:20260528T120003Z
@@ -569,8 +557,8 @@ SUMMARY:🔥 venkovní požár - Věž
 LOCATION:Věž
 GEO:49.560918;15.411818
 URL:geo:49.560918,15.411818
-DESCRIPTION:📍 Leština\, Věž\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)\
- n🚒 CAS (HS Humpolec)
+DESCRIPTION:📍 Leština\, Věž\, Havlíčkův Brod\n💬 Dohašení ohniště po požáru.
+ \n\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 CAS (HS Humpolec)
 END:VEVENT
 BEGIN:VEVENT
 UID:412162061
@@ -581,8 +569,8 @@ SUMMARY:🚑 otevření/asistence - Přibyslav
 LOCATION:Tržiště\, Přibyslav
 GEO:49.578875;15.736443
 URL:geo:49.578875,15.736443
-DESCRIPTION:📍 Tržiště\, Přibyslav\, Havlíčkův Brod\n\n🚒 CAS (HS Polná)\n🚒 C
- AS (Přibyslav)
+DESCRIPTION:📍 Tržiště\, Přibyslav\, Havlíčkův Brod\n💬 Otevření bytu.\n\n🚒 C
+ AS (HS Polná)\n🚒 CAS (Přibyslav)
 END:VEVENT
 BEGIN:VEVENT
 UID:412163061
@@ -591,8 +579,8 @@ DTEND:20260530T110829Z
 DTSTAMP:20260530T100829Z
 SUMMARY:🚗 dopravní nehoda - Košetice
 LOCATION:Košetice
-GEO:49.597274;15.067642
-URL:geo:49.597274,15.067642
+GEO:49.595784;15.068468
+URL:geo:49.595784,15.068468
 DESCRIPTION:📍 Košetice\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (Onšov)
 END:VEVENT
 END:VCALENDAR
