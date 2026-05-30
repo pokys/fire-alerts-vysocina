@@ -442,7 +442,8 @@ SUMMARY:🛠️ ostatní - Římov
 LOCATION:Římov
 GEO:49.169981;15.757692
 URL:geo:49.169981,15.757692
-DESCRIPTION:📍 Římov\, Třebíč\n\n🚒 CAS (Babice (TR))
+DESCRIPTION:📍 Římov\, Třebíč\n💬 Požární dohled v obci.\n\n🚒 CAS (Babice (TR
+ ))
 END:VEVENT
 BEGIN:VEVENT
 UID:412160061
@@ -575,6 +576,17 @@ LOCATION:Libice nad Doubravou
 GEO:49.740857;15.689265
 URL:geo:49.740857,15.689265
 DESCRIPTION:📍 Libice nad Doubravou\, Havlíčkův Brod\n💬 Odstranění stromu.\n
- \n🚒 CAS (HS Chotěboř)
+ \n🚒 CAS (HS Chotěboř)\n🚒 pila řetězová (HS Chotěboř)
+END:VEVENT
+BEGIN:VEVENT
+UID:412183061
+DTSTART:20260530T140047Z
+DTEND:20260530T150047Z
+DTSTAMP:20260530T140047Z
+SUMMARY:🛠️ obtížný hmyz - Třešť
+LOCATION:Třešť
+GEO:49.297643;15.539098
+URL:geo:49.297643,15.539098
+DESCRIPTION:📍 Třešť\, Jihlava\n\n🚒 CAS (HS Třešť)
 END:VEVENT
 END:VCALENDAR
