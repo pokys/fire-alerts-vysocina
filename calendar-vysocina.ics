@@ -625,10 +625,10 @@ SUMMARY:🔥 tráva/plocha - Nové Město na Moravě
 LOCATION:Čapkova\, Nové Město na Moravě
 GEO:49.574383;16.077999
 URL:geo:49.574383,16.077999
-DESCRIPTION:📍 Čapkova\, Nové Město na Moravě\, Žďár nad Sázavou\n\n🚒 CAS (C
- HS Žďár nad Sázavou)\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (Nové Město na M
- oravě)\n🚒 CAS (Žďár nad Sázavou-Zámek) ×2\n🚒 účelový automobil do 3500 kg 
- (ÚO Žďár nad Sázavou)
+DESCRIPTION:📍 Čapkova\, Nové Město na Moravě\, Žďár nad Sázavou\n💬 Požár ko
+ mpostéru.\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒
+  CAS (Nové Město na Moravě)\n🚒 CAS (Žďár nad Sázavou-Zámek) ×2\n🚒 účelový 
+ automobil do 3500 kg (ÚO Žďár nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:412202061
@@ -639,7 +639,8 @@ SUMMARY:🚗 dopravní nehoda - Pelhřimov
 LOCATION:Pelhřimov
 GEO:49.465696;15.185856
 URL:geo:49.465696,15.185856
-DESCRIPTION:📍 Hodějovice\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)
+DESCRIPTION:📍 Hodějovice\, Pelhřimov\n💬 DN motocyklu\, 1 zraněná osoba.\n\n
+ 🚒 CAS (CHS Pelhřimov)
 END:VEVENT
 BEGIN:VEVENT
 UID:412206061
@@ -662,8 +663,8 @@ SUMMARY:🔥 les - Kladeruby nad Oslavou
 LOCATION:Kladeruby nad Oslavou
 GEO:49.132050;16.152685
 URL:geo:49.132050,16.152685
-DESCRIPTION:📍 Kladeruby nad Oslavou\, Třebíč\n\n🚒 CAS (HS Hrotovice)\n🚒 CAS
-  (HS Náměšť nad Oslavou)\n🚒 přívěs motorová stříkačka (Kladeruby nad Oslav
- ou)\n🚒 CAS (Mohelno)
+DESCRIPTION:📍 Kladeruby nad Oslavou\, Třebíč\n💬 Dohašení doutnajících ohnis
+ ek po požáru z 28.5.\n\n🚒 CAS (HS Hrotovice)\n🚒 CAS (HS Náměšť nad Oslavou
+ )\n🚒 přívěs motorová stříkačka (Kladeruby nad Oslavou)\n🚒 CAS (Mohelno)
 END:VEVENT
 END:VCALENDAR
