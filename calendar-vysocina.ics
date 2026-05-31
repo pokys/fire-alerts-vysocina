@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:412138061
-DTSTART:20260529T153937Z
-DTEND:20260529T163937Z
-DTSTAMP:20260529T153937Z
-SUMMARY:🚗 dopravní nehoda - Horní Radslavice
-LOCATION:Horní Radslavice
-GEO:49.331515;15.905020
-URL:geo:49.331515,15.905020
-DESCRIPTION:📍 Horní Radslavice\, Žďár nad Sázavou\n💬 DN OA a motocyklu se z
- raněním. Zajištění místa události.\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (HS
-  Velké Meziříčí)
-END:VEVENT
-BEGIN:VEVENT
 UID:412139061
 DTSTART:20260529T161928Z
 DTEND:20260529T171928Z
@@ -655,7 +642,8 @@ LOCATION:Pavlovická\, Jimramov
 GEO:49.630646;16.220047
 URL:geo:49.630646,16.220047
 DESCRIPTION:📍 Pavlovická\, Jimramov\, Žďár nad Sázavou\n💬 DN 1 OA a motorka
- \, se zraněním.\n\n🚒 CAS (HS Bystřice nad Pernštejnem)\n🚒 CAS (HS Polička)
+ \, se zraněním. Zajištění místa DN.\n\n🚒 CAS (HS Bystřice nad Pernštejnem)
+ \n🚒 CAS (HS Polička)
 END:VEVENT
 BEGIN:VEVENT
 UID:412230061
@@ -740,9 +728,10 @@ SUMMARY:🚗 Havlíčkův Brod
 LOCATION:Lidická\, Havlíčkův Brod
 GEO:49.591610;15.579007
 URL:geo:49.591610,15.579007
-DESCRIPTION:📍 Lidická\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 CAS
-  (CHS Havlíčkův Brod)\n🚒 CAS (Havlíčkův Brod-Perknov)\n🚒 DA (Havlíčkův Bro
- d-Mírovka)
+DESCRIPTION:📍 Lidická\, Havlíčkův Brod\n💬 DN letadla\, 1 zraněná osoba. Zaj
+ ištění místa nehody proti požáru a úniku provozních kapalin.\n\n🚒 CAS (CHS
+  Havlíčkův Brod)\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 CAS (Havlíčkův Brod-Perkno
+ v)\n🚒 DA (Havlíčkův Brod-Mírovka)
 END:VEVENT
 BEGIN:VEVENT
 UID:412238061
@@ -777,8 +766,9 @@ SUMMARY:🛠️ ostatní - Golčův Jeníkov
 LOCATION:Dolík\, Golčův Jeníkov
 GEO:49.797408;15.437232
 URL:geo:49.797408,15.437232
-DESCRIPTION:📍 Dolík\, Kobylí Hlava\, Golčův Jeníkov\, Havlíčkův Brod\n\n🚒 C
- AS (HS Ledeč nad Sázavou)\n🚒 CAS (Golčův Jeníkov)
+DESCRIPTION:📍 Dolík\, Kobylí Hlava\, Golčův Jeníkov\, Havlíčkův Brod\n💬 Spa
+ dlý drát el. vedení. Zajištění místa do příjezdu technika energetických zá
+ vodů.\n\n🚒 CAS (HS Ledeč nad Sázavou)\n🚒 CAS (Golčův Jeníkov)
 END:VEVENT
 BEGIN:VEVENT
 UID:412245061
@@ -813,7 +803,9 @@ SUMMARY:🚗 dopravní nehoda - Chotěboř
 LOCATION:Chotěboř
 GEO:49.742503;15.657151
 URL:geo:49.742503,15.657151
-DESCRIPTION:📍 Chotěboř\, Havlíčkův Brod\n\n🚒 CAS (HS Chotěboř)
+DESCRIPTION:📍 Chotěboř\, Havlíčkův Brod\n💬 DN 2x OA se zraněním 2 osob. Zaj
+ ištění místa nehody proti požáru a úniku provozních kapalin.\n\n🚒 CAS (HS 
+ Chotěboř)
 END:VEVENT
 BEGIN:VEVENT
 UID:412251061
@@ -825,5 +817,40 @@ LOCATION:Příštpo
 GEO:49.069501;15.932297
 URL:geo:49.069501,15.932297
 DESCRIPTION:📍 Příštpo\, Třebíč\n\n🚒 CAS (HS Moravské Budějovice)
+END:VEVENT
+BEGIN:VEVENT
+UID:412252061
+DTSTART:20260531T150955Z
+DTEND:20260531T160955Z
+DTSTAMP:20260531T150955Z
+SUMMARY:🛠️ strom - Svratka
+LOCATION:Svratka
+GEO:49.710663;16.032136
+URL:geo:49.710663,16.032136
+DESCRIPTION:📍 Svratka\, Žďár nad Sázavou\n\n🚒 CAS (Svratka)
+END:VEVENT
+BEGIN:VEVENT
+UID:412254061
+DTSTART:20260531T152353Z
+DTEND:20260531T162353Z
+DTSTAMP:20260531T152353Z
+SUMMARY:🛠️ strom - Dlouhá Ves
+LOCATION:Dlouhá Ves
+GEO:49.593255;15.664618
+URL:geo:49.593255,15.664618
+DESCRIPTION:📍 Dlouhá Ves\, Havlíčkův Brod\n💬 Odstranění stromu.\n\n🚒 CAS (D
+ louhá Ves)
+END:VEVENT
+BEGIN:VEVENT
+UID:412255061
+DTSTART:20260531T152900Z
+DTEND:20260531T162900Z
+DTSTAMP:20260531T152900Z
+SUMMARY:🚑 otevření/asistence - Bystřice nad Pernštejnem
+LOCATION:Bystřice nad Pernštejnem
+GEO:49.525218;16.250021
+URL:geo:49.525218,16.250021
+DESCRIPTION:📍 Bystřice nad Pernštejnem\, Žďár nad Sázavou\n\n🚒 CAS (HS Byst
+ řice nad Pernštejnem)
 END:VEVENT
 END:VCALENDAR
