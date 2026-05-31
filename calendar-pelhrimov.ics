@@ -60,8 +60,8 @@ SUMMARY:🚗 dopravní nehoda - Košetice
 LOCATION:Košetice
 GEO:49.595784;15.068468
 URL:geo:49.595784,15.068468
-DESCRIPTION:📍 Košetice\, Pelhřimov\n💬 Dopravní nehoda 1 OA a cyklisty se zr
- aněním\, zajištění místa zásahu.\n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (Onšov)
+DESCRIPTION:📍 Košetice\, Pelhřimov\n💬 Dopravní nehoda 1 OA a cyklisty. Zaji
+ štění místa zásahu.\n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (Onšov)
 END:VEVENT
 BEGIN:VEVENT
 UID:412166061
@@ -96,8 +96,8 @@ SUMMARY:🚗 dopravní nehoda - Moraveč
 LOCATION:Moraveč
 GEO:49.411253;15.085059
 URL:geo:49.411253,15.085059
-DESCRIPTION:📍 Moraveč\, Pelhřimov\n💬 DN motocyklu\, 1 zraněná osoba.\n\n🚒 C
- AS (CHS Pelhřimov)
+DESCRIPTION:📍 Moraveč\, Pelhřimov\n💬 DN motocyklu\, 1 zraněná osoba.Zajiště
+ ní místa DN.\n\n🚒 CAS (CHS Pelhřimov)
 END:VEVENT
 BEGIN:VEVENT
 UID:412202061
@@ -108,7 +108,7 @@ SUMMARY:🚗 dopravní nehoda - Pelhřimov
 LOCATION:Pelhřimov
 GEO:49.465696;15.185856
 URL:geo:49.465696,15.185856
-DESCRIPTION:📍 Hodějovice\, Pelhřimov\n💬 DN motocyklu\, 1 zraněná osoba.\n\n
- 🚒 CAS (CHS Pelhřimov)
+DESCRIPTION:📍 Hodějovice\, Pelhřimov\n💬 DN motocyklu\, 1 zraněná osoba. Zaj
+ ištění místa DN.\n\n🚒 CAS (CHS Pelhřimov)
 END:VEVENT
 END:VCALENDAR
