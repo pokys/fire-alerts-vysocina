@@ -5,30 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:412127061
-DTSTART:20260529T113110Z
-DTEND:20260529T123110Z
-DTSTAMP:20260529T113110Z
-SUMMARY:🛠️ ostatní - Světlá nad Sázavou
-LOCATION:Světlá nad Sázavou
-GEO:49.661610;15.351289
-URL:geo:49.661610,15.351289
-DESCRIPTION:📍 Leštinka\, Světlá nad Sázavou\, Havlíčkův Brod\n💬 Vytažení za
- padlého OA.\n\n🚒 CAS (HS Světlá nad Sázavou)
-END:VEVENT
-BEGIN:VEVENT
-UID:412128061
-DTSTART:20260529T114158Z
-DTEND:20260529T124158Z
-DTSTAMP:20260529T114158Z
-SUMMARY:🛠️ strom - Pelhřimov
-LOCATION:Pelhřimov
-GEO:49.358806;15.238039
-URL:geo:49.358806,15.238039
-DESCRIPTION:📍 Houserovka\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 CAS (CHS Pe
- lhřimov)
-END:VEVENT
-BEGIN:VEVENT
 UID:412129061
 DTSTART:20260529T120325Z
 DTEND:20260529T130325Z
@@ -704,8 +680,8 @@ SUMMARY:🚑 spolupráce ZZS - Lipnice nad Sázavou
 LOCATION:Lipnice nad Sázavou
 GEO:49.626584;15.410144
 URL:geo:49.626584,15.410144
-DESCRIPTION:📍 Lipnice nad Sázavou\, Havlíčkův Brod\n💬 Spolupráce s ZZS.\n\n
- 🚒 CAS (HS Světlá nad Sázavou)
+DESCRIPTION:📍 Lipnice nad Sázavou\, Havlíčkův Brod\n💬 Spolupráce se ZZS.\n\
+ n🚒 CAS (HS Světlá nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:412227061
@@ -740,8 +716,8 @@ SUMMARY:🚗 dopravní nehoda - Jimramov
 LOCATION:Pavlovická\, Jimramov
 GEO:49.630646;16.220047
 URL:geo:49.630646,16.220047
-DESCRIPTION:📍 Pavlovická\, Jimramov\, Žďár nad Sázavou\n\n🚒 CAS (HS Bystřic
- e nad Pernštejnem)
+DESCRIPTION:📍 Pavlovická\, Jimramov\, Žďár nad Sázavou\n💬 DN 1 OA a motorka
+ \, se zraněním.\n\n🚒 CAS (HS Bystřice nad Pernštejnem)
 END:VEVENT
 BEGIN:VEVENT
 UID:412230061
