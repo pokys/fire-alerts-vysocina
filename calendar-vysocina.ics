@@ -559,7 +559,7 @@ LOCATION:Světlá nad Sázavou
 GEO:49.666470;15.394414
 URL:geo:49.666470,15.394414
 DESCRIPTION:📍 Světlá nad Sázavou\, Havlíčkův Brod\n💬 Odstranění stromu.\n\n
- 🚒 CAS (HS Světlá nad Sázavou)
+ 🚒 CAS (HS Světlá nad Sázavou)\n🚒 pila řetězová (HS Světlá nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:412219061
@@ -727,8 +727,9 @@ SUMMARY:🚗 úklid místa - Čížkov
 LOCATION:Čížkov
 GEO:49.440949;15.117061
 URL:geo:49.440949,15.117061
-DESCRIPTION:📍 Čížkov\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (CHS Pelhř
- imov)
+DESCRIPTION:📍 Čížkov\, Pelhřimov\n💬 DN OA. Bez zranění. Provedeno protipožá
+ rní opatření\, zajištění místa nehody\, úklid komunikace.\n\n🚒 CAS (CHS Pe
+ lhřimov)\n🚒 CAS (CHS Pelhřimov)
 END:VEVENT
 BEGIN:VEVENT
 UID:412237061
@@ -764,7 +765,8 @@ SUMMARY:🛠️ strom - Radostín
 LOCATION:Radostín
 GEO:49.661527;15.545234
 URL:geo:49.661527,15.545234
-DESCRIPTION:📍 Radostín\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)
+DESCRIPTION:📍 Radostín\, Havlíčkův Brod\n💬 Odstranění stromu.\n\n🚒 CAS (CHS
+  Havlíčkův Brod)
 END:VEVENT
 BEGIN:VEVENT
 UID:412244061
@@ -787,6 +789,18 @@ SUMMARY:🛠️ strom - Přibyslav
 LOCATION:Přibyslav
 GEO:49.591888;15.761698
 URL:geo:49.591888,15.761698
-DESCRIPTION:📍 Přibyslav\, Havlíčkův Brod\n\n🚒 CAS (Přibyslav)
+DESCRIPTION:📍 Přibyslav\, Havlíčkův Brod\n💬 Odstranění stromu.\n\n🚒 CAS (Př
+ ibyslav)
+END:VEVENT
+BEGIN:VEVENT
+UID:412246061
+DTSTART:20260531T143110Z
+DTEND:20260531T153110Z
+DTSTAMP:20260531T143110Z
+SUMMARY:🚑 otevření/asistence - Třebíč
+LOCATION:Václavské nám.\, Třebíč
+GEO:49.207552;15.879306
+URL:geo:49.207552,15.879306
+DESCRIPTION:📍 Václavské nám.\, Horka-Domky\, Třebíč\n\n🚒 CAS (CHS Třebíč)
 END:VEVENT
 END:VCALENDAR
