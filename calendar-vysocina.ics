@@ -669,7 +669,7 @@ LOCATION:Jimramov
 GEO:49.619071;16.281482
 URL:geo:49.619071,16.281482
 DESCRIPTION:📍 Ubušín\, Jimramov\, Žďár nad Sázavou\n💬 Dopravní nehoda 1 OA\
- , se zraněním.\n\n🚒 CAS (HS Bystřice nad Pernštejnem)
+ , se zraněním.\n\n🚒 CAS (HS Bystřice nad Pernštejnem)\n🚒 CAS (HS Polička)
 END:VEVENT
 BEGIN:VEVENT
 UID:412220061
@@ -706,5 +706,17 @@ GEO:49.707857;16.025993
 URL:geo:49.707857,16.025993
 DESCRIPTION:📍 Partyzánská\, Svratka\, Žďár nad Sázavou\n💬 ZOČ\n\n🚒 CAS (Svr
  atka)
+END:VEVENT
+BEGIN:VEVENT
+UID:412225061
+DTSTART:20260531T100401Z
+DTEND:20260531T110401Z
+DTSTAMP:20260531T100401Z
+SUMMARY:🚑 spolupráce ZZS - Lipnice nad Sázavou
+LOCATION:Lipnice nad Sázavou
+GEO:49.626584;15.410144
+URL:geo:49.626584,15.410144
+DESCRIPTION:📍 Lipnice nad Sázavou\, Havlíčkův Brod\n\n🚒 CAS (HS Světlá nad 
+ Sázavou)
 END:VEVENT
 END:VCALENDAR
