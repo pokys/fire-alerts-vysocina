@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:412120061
-DTSTART:20260529T080414Z
-DTEND:20260529T090414Z
-DTSTAMP:20260529T080414Z
-SUMMARY:🚑 otevření/asistence - Žďár nad Sázavou
-LOCATION:Okružní\, Žďár nad Sázavou
-GEO:49.562943;15.929399
-URL:geo:49.562943,15.929399
-DESCRIPTION:📍 Okružní\, Žďár nad Sázavou 3\, Žďár nad Sázavou\n💬 Otevření b
- ytu.\n\n🚒 CAS (CHS Žďár nad Sázavou)
-END:VEVENT
-BEGIN:VEVENT
 UID:412121061
 DTSTART:20260529T091546Z
 DTEND:20260529T101546Z
@@ -703,7 +691,30 @@ SUMMARY:🚗 dopravní nehoda - Jimramov
 LOCATION:Jimramov
 GEO:49.619071;16.281482
 URL:geo:49.619071,16.281482
-DESCRIPTION:📍 Ubušín\, Jimramov\, Žďár nad Sázavou\n\n🚒 CAS (HS Bystřice na
- d Pernštejnem)
+DESCRIPTION:📍 Ubušín\, Jimramov\, Žďár nad Sázavou\n💬 Dopravní nehoda 1 OA\
+ , se zraněním.\n\n🚒 CAS (HS Bystřice nad Pernštejnem)
+END:VEVENT
+BEGIN:VEVENT
+UID:412220061
+DTSTART:20260531T080931Z
+DTEND:20260531T090931Z
+DTSTAMP:20260531T080931Z
+SUMMARY:🛠️ obtížný hmyz - Ledeč nad Sázavou
+LOCATION:Ledeč nad Sázavou
+GEO:49.706971;15.259818
+URL:geo:49.706971,15.259818
+DESCRIPTION:📍 Obrvaň\, Ledeč nad Sázavou\, Havlíčkův Brod\n💬 Odstranění obt
+ ížného hmyzu.\n\n🚒 CAS (HS Ledeč nad Sázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:412221061
+DTSTART:20260531T080950Z
+DTEND:20260531T090950Z
+DTSTAMP:20260531T080950Z
+SUMMARY:🚑 otevření/asistence - Havlíčkův Brod
+LOCATION:Žižkov II\, Havlíčkův Brod
+GEO:49.607051;15.592000
+URL:geo:49.607051,15.592000
+DESCRIPTION:📍 Žižkov II\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)
 END:VEVENT
 END:VCALENDAR
