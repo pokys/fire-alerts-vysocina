@@ -5,17 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:412131061
-DTSTART:20260529T133216Z
-DTEND:20260529T143216Z
-DTSTAMP:20260529T133216Z
-SUMMARY:🛠️ ostatní - Nový Rychnov
-LOCATION:Nový Rychnov
-GEO:49.383507;15.364757
-URL:geo:49.383507,15.364757
-DESCRIPTION:📍 Nový Rychnov\, Pelhřimov\n💬 ZOČ.\n\n🚒 CAS (Nový Rychnov)
-END:VEVENT
-BEGIN:VEVENT
 UID:412134061
 DTSTART:20260529T142543Z
 DTEND:20260529T152543Z
@@ -739,8 +728,9 @@ SUMMARY:🔥 tráva/plocha - Útěchovičky
 LOCATION:Útěchovičky
 GEO:49.453743;15.103309
 URL:geo:49.453743,15.103309
-DESCRIPTION:📍 Útěchovičky\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (CHS 
- Pelhřimov)\n🚒 CAS (Nová Cerekev)\n🚒 DA (Útěchovičky)
+DESCRIPTION:📍 Útěchovičky\, Pelhřimov\n💬 Požár trávy 2x2m. Uhašeno vysokotl
+ akem. Beze škody.\n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (
+ Nová Cerekev)\n🚒 DA (Útěchovičky)
 END:VEVENT
 BEGIN:VEVENT
 UID:412235061
@@ -764,5 +754,18 @@ GEO:49.440949;15.117061
 URL:geo:49.440949,15.117061
 DESCRIPTION:📍 Čížkov\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (CHS Pelhř
  imov)
+END:VEVENT
+BEGIN:VEVENT
+UID:412237061
+DTSTART:20260531T133236Z
+DTEND:20260531T143236Z
+DTSTAMP:20260531T133236Z
+SUMMARY:🚗 Havlíčkův Brod
+LOCATION:Lidická\, Havlíčkův Brod
+GEO:49.591610;15.579007
+URL:geo:49.591610,15.579007
+DESCRIPTION:📍 Lidická\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 CAS
+  (CHS Havlíčkův Brod)\n🚒 CAS (Havlíčkův Brod-Perknov)\n🚒 DA (Havlíčkův Bro
+ d-Mírovka)
 END:VEVENT
 END:VCALENDAR
