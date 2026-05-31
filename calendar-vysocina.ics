@@ -816,7 +816,9 @@ SUMMARY:🚗 dopravní nehoda - Příštpo
 LOCATION:Příštpo
 GEO:49.069501;15.932297
 URL:geo:49.069501,15.932297
-DESCRIPTION:📍 Příštpo\, Třebíč\n\n🚒 CAS (HS Moravské Budějovice)
+DESCRIPTION:📍 Příštpo\, Třebíč\n💬 DN 1x OA se zraněním 1 osoby. Zajištění m
+ ísta nehody proti požáru a úniku provozních kapalin.\n\n🚒 CAS (HS Moravské
+  Budějovice)
 END:VEVENT
 BEGIN:VEVENT
 UID:412252061
@@ -825,8 +827,8 @@ DTEND:20260531T160955Z
 DTSTAMP:20260531T150955Z
 SUMMARY:🛠️ strom - Svratka
 LOCATION:Svratka
-GEO:49.710663;16.032136
-URL:geo:49.710663,16.032136
+GEO:49.707580;16.026642
+URL:geo:49.707580,16.026642
 DESCRIPTION:📍 Svratka\, Žďár nad Sázavou\n\n🚒 CAS (Svratka)
 END:VEVENT
 BEGIN:VEVENT
@@ -850,7 +852,19 @@ SUMMARY:🚑 otevření/asistence - Bystřice nad Pernštejnem
 LOCATION:Bystřice nad Pernštejnem
 GEO:49.525218;16.250021
 URL:geo:49.525218,16.250021
-DESCRIPTION:📍 Bystřice nad Pernštejnem\, Žďár nad Sázavou\n\n🚒 CAS (HS Byst
- řice nad Pernštejnem)
+DESCRIPTION:📍 Bystřice nad Pernštejnem\, Žďár nad Sázavou\n💬 Otevření bytu.
+ \n\n🚒 CAS (HS Bystřice nad Pernštejnem)
+END:VEVENT
+BEGIN:VEVENT
+UID:412257061
+DTSTART:20260531T153712Z
+DTEND:20260531T163712Z
+DTSTAMP:20260531T153712Z
+SUMMARY:🚗 se zraněním - Svojkovice
+LOCATION:Svojkovice
+GEO:49.159002;15.646395
+URL:geo:49.159002,15.646395
+DESCRIPTION:📍 Svojkovice\, Jihlava\n\n🚒 CAS (HS Telč)\n🚒 DA (Želetava)\n🚒 C
+ AS (Želetava)
 END:VEVENT
 END:VCALENDAR
