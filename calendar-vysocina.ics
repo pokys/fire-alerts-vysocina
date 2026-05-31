@@ -705,7 +705,7 @@ LOCATION:Pavlovická\, Jimramov
 GEO:49.630646;16.220047
 URL:geo:49.630646,16.220047
 DESCRIPTION:📍 Pavlovická\, Jimramov\, Žďár nad Sázavou\n💬 DN 1 OA a motorka
- \, se zraněním.\n\n🚒 CAS (HS Bystřice nad Pernštejnem)
+ \, se zraněním.\n\n🚒 CAS (HS Bystřice nad Pernštejnem)\n🚒 CAS (HS Polička)
 END:VEVENT
 BEGIN:VEVENT
 UID:412230061
@@ -728,7 +728,31 @@ SUMMARY:🛠️ otevření bytu/auta - Golčův Jeníkov
 LOCATION:Za Pivovarem\, Golčův Jeníkov
 GEO:49.813847;15.482264
 URL:geo:49.813847,15.482264
-DESCRIPTION:📍 Za Pivovarem\, Golčův Jeníkov\, Havlíčkův Brod\n\n🚒 CAS (HS L
- edeč nad Sázavou)\n🚒 CAS (Golčův Jeníkov)
+DESCRIPTION:📍 Za Pivovarem\, Golčův Jeníkov\, Havlíčkův Brod\n💬 Otevření by
+ tu.\n\n🚒 CAS (HS Ledeč nad Sázavou)\n🚒 CAS (Golčův Jeníkov)
+END:VEVENT
+BEGIN:VEVENT
+UID:412233061
+DTSTART:20260531T121340Z
+DTEND:20260531T131340Z
+DTSTAMP:20260531T121340Z
+SUMMARY:🛠️ strom - Přibyslav
+LOCATION:Přibyslav
+GEO:49.569331;15.776758
+URL:geo:49.569331,15.776758
+DESCRIPTION:📍 Ronov nad Sázavou\, Přibyslav\, Havlíčkův Brod\n💬 Odstranění 
+ stromu.\n\n🚒 CAS (Přibyslav)
+END:VEVENT
+BEGIN:VEVENT
+UID:412234061
+DTSTART:20260531T121645Z
+DTEND:20260531T131645Z
+DTSTAMP:20260531T121645Z
+SUMMARY:🔥 tráva/plocha - Útěchovičky
+LOCATION:Útěchovičky
+GEO:49.453743;15.103309
+URL:geo:49.453743,15.103309
+DESCRIPTION:📍 Útěchovičky\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (CHS 
+ Pelhřimov)\n🚒 CAS (Nová Cerekev)\n🚒 DA (Útěchovičky)
 END:VEVENT
 END:VCALENDAR
