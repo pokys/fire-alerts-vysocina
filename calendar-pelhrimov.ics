@@ -163,4 +163,16 @@ URL:geo:49.360685,15.351929
 DESCRIPTION:📍 Trsov\, Nový Rychnov\, Pelhřimov\n💬 Dohašení ohnisek po předc
  hozím požáru.\n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (Nový Rychnov)
 END:VEVENT
+BEGIN:VEVENT
+UID:412272061
+DTSTART:20260601T063244Z
+DTEND:20260601T073244Z
+DTSTAMP:20260601T063244Z
+SUMMARY:🛠️ strom - Hojanovice
+LOCATION:Hojanovice
+GEO:49.601467;15.260273
+URL:geo:49.601467,15.260273
+DESCRIPTION:📍 Hojanovice\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 DA (Hojanov
+ ice)
+END:VEVENT
 END:VCALENDAR
