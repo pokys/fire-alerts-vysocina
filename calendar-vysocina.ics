@@ -874,7 +874,8 @@ SUMMARY:🚑 transport pacienta - Opatov
 LOCATION:Opatov
 GEO:49.226879;15.658581
 URL:geo:49.226879,15.658581
-DESCRIPTION:📍 Opatov\, Třebíč\n\n🚒 CAS (HS Třešť)\n🚒 CAS (Opatov (TR))
+DESCRIPTION:📍 Opatov\, Třebíč\n💬 Transport pacienta na žádost ZZS.\n\n🚒 CAS
+  (HS Třešť)\n🚒 CAS (Opatov (TR))
 END:VEVENT
 BEGIN:VEVENT
 UID:412285061
@@ -887,5 +888,16 @@ GEO:49.303177;15.673083
 URL:geo:49.303177,15.673083
 DESCRIPTION:📍 Horní Město\, Brtnice\, Jihlava\n💬 Otevření RD.\n\n🚒 CAS (CHS
   Jihlava)
+END:VEVENT
+BEGIN:VEVENT
+UID:412288061
+DTSTART:20260601T091521Z
+DTEND:20260601T101521Z
+DTSTAMP:20260601T091521Z
+SUMMARY:🛠️ ostatní - Chotěboř
+LOCATION:Severní\, Chotěboř
+GEO:49.720620;15.674250
+URL:geo:49.720620,15.674250
+DESCRIPTION:📍 Severní\, Chotěboř\, Havlíčkův Brod\n\n🚒 CAS (HS Chotěboř)
 END:VEVENT
 END:VCALENDAR
