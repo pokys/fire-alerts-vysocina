@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:412169061
-DTSTART:20260530T114044Z
-DTEND:20260530T124044Z
-DTSTAMP:20260530T114044Z
-SUMMARY:🚑 transport pacienta - Žďár nad Sázavou
-LOCATION:Libušínská\, Žďár nad Sázavou
-GEO:49.568910;15.939989
-URL:geo:49.568910,15.939989
-DESCRIPTION:📍 Libušínská\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n💬 Transpo
- rt pacienta na žádost ZZS.\n\n🚒 CAS (CHS Žďár nad Sázavou)
-END:VEVENT
-BEGIN:VEVENT
 UID:412172061
 DTSTART:20260530T121049Z
 DTEND:20260530T131049Z
@@ -903,6 +891,17 @@ DESCRIPTION:📍 Santiniho\, Žďár nad Sázavou 2\, Žďár nad Sázavou\n\n�
  HS Žďár nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
+UID:412295061
+DTSTART:20260601T110946Z
+DTEND:20260601T120946Z
+DTSTAMP:20260601T110946Z
+SUMMARY:🛠️ strom - Olešná
+LOCATION:Olešná
+GEO:49.445745;15.263649
+URL:geo:49.445745,15.263649
+DESCRIPTION:📍 Olešná\, Pelhřimov\n\n🚒 CAS (Olešná (PE))
+END:VEVENT
+BEGIN:VEVENT
 UID:412296061
 DTSTART:20260601T110953Z
 DTEND:20260601T120953Z
@@ -913,5 +912,28 @@ GEO:49.621216;15.724146
 URL:geo:49.621216,15.724146
 DESCRIPTION:📍 Macourov\, Žižkovo Pole\, Havlíčkův Brod\n💬 Odstranění stromu
  .\n\n🚒 CAS (Přibyslav)
+END:VEVENT
+BEGIN:VEVENT
+UID:412297061
+DTSTART:20260601T111334Z
+DTEND:20260601T121334Z
+DTSTAMP:20260601T111334Z
+SUMMARY:🛠️ strom - Světlá nad Sázavou
+LOCATION:Světlá nad Sázavou
+GEO:49.665154;15.404382
+URL:geo:49.665154,15.404382
+DESCRIPTION:📍 Světlá nad Sázavou\, Havlíčkův Brod\n💬 Odstranění stromu.\n\n
+ 🚒 CAS (HS Světlá nad Sázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:412298061
+DTSTART:20260601T112204Z
+DTEND:20260601T122204Z
+DTSTAMP:20260601T112204Z
+SUMMARY:🛠️ ostatní - Herálec
+LOCATION:Herálec
+GEO:49.530833;15.457079
+URL:geo:49.530833,15.457079
+DESCRIPTION:📍 Herálec\, Havlíčkův Brod\n\n🚒 AŽ (CHS Havlíčkův Brod)
 END:VEVENT
 END:VCALENDAR
