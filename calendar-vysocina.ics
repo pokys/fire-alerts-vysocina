@@ -5,33 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:412187061
-DTSTART:20260530T142013Z
-DTEND:20260530T152013Z
-DTSTAMP:20260530T142013Z
-SUMMARY:🔥 kůlna/přístřešek - Velká Bíteš
-LOCATION:Velká Bíteš
-GEO:49.297539;16.240637
-URL:geo:49.297539,16.240637
-DESCRIPTION:📍 Janovice\, Velká Bíteš\, Žďár nad Sázavou\n💬 Požář dřevěného 
- posezení. Provedena lokalizace a likvidace požáru.\n\n🚒 CAS (HS Velká Bíte
- š)\n🚒 DA (Velká Bíteš)\n🚒 CAS (Velká Bíteš)\n🚒 CAS (HS Náměšť nad Oslavou)
- \n🚒 CAS (HS Náměšť nad Oslavou)\n🚒 účelový automobil do 3500 kg (ÚO Žďár n
- ad Sázavou)
-END:VEVENT
-BEGIN:VEVENT
-UID:412188061
-DTSTART:20260530T142508Z
-DTEND:20260530T152508Z
-DTSTAMP:20260530T142508Z
-SUMMARY:🔥 odpad - Chotěboř
-LOCATION:Chotěboř
-GEO:49.720493;15.669971
-URL:geo:49.720493,15.669971
-DESCRIPTION:📍 Chotěboř\, Havlíčkův Brod\n💬 Zahoření odpadkového koše. Prove
- deno uhašení. Beze škody.\n\n🚒 CAS (HS Chotěboř)
-END:VEVENT
-BEGIN:VEVENT
 UID:412189061
 DTSTART:20260530T144656Z
 DTEND:20260530T154656Z
