@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:412208061
-DTSTART:20260530T195650Z
-DTEND:20260530T205650Z
-DTSTAMP:20260530T195650Z
-SUMMARY:🛠️ ostatní - Třebíč
-LOCATION:Hartmannova\, Třebíč
-GEO:49.205418;15.889198
-URL:geo:49.205418,15.889198
-DESCRIPTION:📍 Hartmannova\, Horka-Domky\, Třebíč\n💬 Otevření bytu a zamezen
- í úniku vody.\n\n🚒 CAS (CHS Třebíč)
-END:VEVENT
-BEGIN:VEVENT
 UID:412209061
 DTSTART:20260531T042249Z
 DTEND:20260531T052249Z
@@ -825,7 +813,7 @@ SUMMARY:🛠️ ostatní - Nové Město na Moravě
 LOCATION:Tyršova\, Nové Město na Moravě
 GEO:49.564596;16.074459
 URL:geo:49.564596,16.074459
-DESCRIPTION:📍 Tyršova\, Nové Město na Moravě\, Žďár nad Sázavou\n\n🚒 CAS (C
- HS Žďár nad Sázavou)
+DESCRIPTION:📍 Tyršova\, Nové Město na Moravě\, Žďár nad Sázavou\n💬 Pomoc im
+ obilní osobě.\n\n🚒 CAS (CHS Žďár nad Sázavou)
 END:VEVENT
 END:VCALENDAR
