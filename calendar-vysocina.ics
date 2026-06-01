@@ -678,8 +678,8 @@ LOCATION:Dolík\, Golčův Jeníkov
 GEO:49.797408;15.437232
 URL:geo:49.797408,15.437232
 DESCRIPTION:📍 Dolík\, Kobylí Hlava\, Golčův Jeníkov\, Havlíčkův Brod\n💬 Spa
- dlý drát el. vedení. Zajištění místa do příjezdu technika energetických zá
- vodů.\n\n🚒 CAS (HS Ledeč nad Sázavou)\n🚒 CAS (Golčův Jeníkov)
+ dlé dráty el. vedení. Zajištění místa do příjezdu technika energetických z
+ ávodů.\n\n🚒 CAS (HS Ledeč nad Sázavou)\n🚒 CAS (Golčův Jeníkov)
 END:VEVENT
 BEGIN:VEVENT
 UID:412245061
@@ -714,7 +714,7 @@ SUMMARY:🚗 dopravní nehoda - Chotěboř
 LOCATION:Chotěboř
 GEO:49.742503;15.657151
 URL:geo:49.742503,15.657151
-DESCRIPTION:📍 Chotěboř\, Havlíčkův Brod\n💬 DN 2x OA se zraněním 3 osob. Zaj
+DESCRIPTION:📍 Chotěboř\, Havlíčkův Brod\n💬 DN 2 OA\,  3  zraněné osoby. Zaj
  ištění místa nehody proti požáru a úniku provozních kapalin.\n\n🚒 CAS (HS 
  Chotěboř)
 END:VEVENT
@@ -727,9 +727,9 @@ SUMMARY:🚗 dopravní nehoda - Příštpo
 LOCATION:Příštpo
 GEO:49.069501;15.932297
 URL:geo:49.069501,15.932297
-DESCRIPTION:📍 Příštpo\, Třebíč\n💬 DN 1 OA se zraněním 1 osoby. Zajištění mí
- sta nehody proti požáru a úniku provozních kapalin.\n\n🚒 CAS (HS Moravské 
- Budějovice)
+DESCRIPTION:📍 Příštpo\, Třebíč\n💬 DN 1 OA\, 1 zraněná osoba.  Zajištění mís
+ ta nehody proti požáru a úniku provozních kapalin.\n\n🚒 CAS (HS Moravské B
+ udějovice)
 END:VEVENT
 BEGIN:VEVENT
 UID:412252061
@@ -777,9 +777,8 @@ LOCATION:Svojkovice
 GEO:49.159002;15.646395
 URL:geo:49.159002,15.646395
 DESCRIPTION:📍 Svojkovice\, Jihlava\n💬 DN 1 OA\, 1 zraněná osoba. Předlékařs
- ká první pomoc zraněné osobě do příjezdu ZZS. Zabezpečení havarovaného voz
- idla proti PO a proti úniku provozních kapalin.\n\n🚒 CAS (HS Telč)\n🚒 DA (
- Želetava)\n🚒 CAS (Želetava)
+ ká pomoc\, zajištění proti PO a proti úniku provozních kapalin.\n\n🚒 CAS (
+ HS Telč)\n🚒 DA (Želetava)\n🚒 CAS (Želetava)
 END:VEVENT
 BEGIN:VEVENT
 UID:412259061
@@ -852,5 +851,16 @@ URL:geo:49.452668,15.611428
 DESCRIPTION:📍 Pávov\, Jihlava\n💬 DN OA se zraněním. Zajištění úniku provozn
  ích kapalin. ZZS transportovala jednu zraněnou osobu k dalšímu ošetření.\n
  \n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihlava)
+END:VEVENT
+BEGIN:VEVENT
+UID:412268061
+DTSTART:20260601T045926Z
+DTEND:20260601T055926Z
+DTSTAMP:20260601T045926Z
+SUMMARY:🚗 dopravní nehoda - Havlíčkův Brod
+LOCATION:Havlíčkův Brod
+GEO:49.591424;15.597589
+URL:geo:49.591424,15.597589
+DESCRIPTION:🚒 CAS (CHS Havlíčkův Brod)
 END:VEVENT
 END:VCALENDAR
