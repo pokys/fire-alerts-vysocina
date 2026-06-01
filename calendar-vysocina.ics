@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:412192061
-DTSTART:20260530T155537Z
-DTEND:20260530T165537Z
-DTSTAMP:20260530T155537Z
-SUMMARY:⚠️ planý poplach - Havlíčkův Brod
-LOCATION:Machačova\, Havlíčkův Brod
-GEO:49.613354;15.579960
-URL:geo:49.613354,15.579960
-DESCRIPTION:📍 Machačova\, Havlíčkův Brod\n💬 Planý poplach.\n\n🚒 CAS (CHS Ha
- vlíčkův Brod)
-END:VEVENT
-BEGIN:VEVENT
 UID:412193061
 DTSTART:20260530T160438Z
 DTEND:20260530T170438Z
@@ -902,6 +890,6 @@ LOCATION:Tyršova\, Přibyslav
 GEO:49.577484;15.735906
 URL:geo:49.577484,15.735906
 DESCRIPTION:📍 Tyršova\, Přibyslav\, Havlíčkův Brod\n💬 DN OA a cyklista\, se
-  zraněním\n\n🚒 CAS (HS Polná)\n🚒 CAS (Přibyslav)
+  zraněním\n\n🚒 CAS (HS Polná)\n🚒 CAS (Přibyslav)\n🚒 VEA (Přibyslav)
 END:VEVENT
 END:VCALENDAR
