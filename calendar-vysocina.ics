@@ -5,30 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:412176061
-DTSTART:20260530T124903Z
-DTEND:20260530T134903Z
-DTSTAMP:20260530T124903Z
-SUMMARY:🛠️ strom - Dyjice
-LOCATION:Dyjice
-GEO:49.191576;15.497225
-URL:geo:49.191576,15.497225
-DESCRIPTION:📍 Dolní Dvorce\, Dyjice\, Jihlava\n💬 Odstranění stromu.\n\n🚒 CA
- S (HS Telč)\n🚒 pila řetězová (HS Telč)
-END:VEVENT
-BEGIN:VEVENT
-UID:412179061
-DTSTART:20260530T125912Z
-DTEND:20260530T135912Z
-DTSTAMP:20260530T125912Z
-SUMMARY:🚗 dopravní nehoda - Ujčov
-LOCATION:Ujčov
-GEO:49.469733;16.344191
-URL:geo:49.469733,16.344191
-DESCRIPTION:📍 Ujčov\, Žďár nad Sázavou\n💬 DN OA a motocyklu se zraněním. Za
- jištění místa události.\n\n🚒 CAS (HS Bystřice nad Pernštejnem)
-END:VEVENT
-BEGIN:VEVENT
 UID:412180061
 DTSTART:20260530T131050Z
 DTEND:20260530T141050Z
@@ -945,6 +921,32 @@ SUMMARY:🚗 bez zranění - Havlíčkův Brod
 LOCATION:Okrouhlická\, Havlíčkův Brod
 GEO:49.614870;15.544514
 URL:geo:49.614870,15.544514
-DESCRIPTION:📍 Okrouhlická\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)
+DESCRIPTION:📍 Okrouhlická\, Havlíčkův Brod\n💬 DN 1x OA v řece\, bez zranění
+ . Zajištění místa nehody proti požáru a úniku provozních kapalin.\n\n🚒 CAS
+  (CHS Havlíčkův Brod)\n🚒 automobilový nosič kontejnerů (CHS Havlíčkův Brod
+ )\n🚒 kontejner technický - chemický (CHS Havlíčkův Brod)
+END:VEVENT
+BEGIN:VEVENT
+UID:412304061
+DTSTART:20260601T123708Z
+DTEND:20260601T133708Z
+DTSTAMP:20260601T123708Z
+SUMMARY:🚗 se zraněním - Dědice
+LOCATION:Dědice
+GEO:49.027335;15.724837
+URL:geo:49.027335,15.724837
+DESCRIPTION:📍 Dědice\, Třebíč\n\n🚒 CAS (HS Moravské Budějovice)
+END:VEVENT
+BEGIN:VEVENT
+UID:412305061
+DTSTART:20260601T124105Z
+DTEND:20260601T134105Z
+DTSTAMP:20260601T124105Z
+SUMMARY:🚗 dopravní nehoda - Moravské Budějovice
+LOCATION:Kozinova\, Moravské Budějovice
+GEO:49.053841;15.812294
+URL:geo:49.053841,15.812294
+DESCRIPTION:📍 Kozinova\, Moravské Budějovice\, Třebíč\n\n🚒 CAS (Moravské Bu
+ dějovice)
 END:VEVENT
 END:VCALENDAR
