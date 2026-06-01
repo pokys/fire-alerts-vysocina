@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:412172061
-DTSTART:20260530T121049Z
-DTEND:20260530T131049Z
-DTSTAMP:20260530T121049Z
-SUMMARY:🚗 dopravní nehoda - Radňovice
-LOCATION:Radňovice
-GEO:49.573983;16.030744
-URL:geo:49.573983,16.030744
-DESCRIPTION:📍 Radňovice\, Žďár nad Sázavou\n💬 DN OA a motocyklu se zraněním
- . Zajištění místa události.\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (Nové M
- ěsto na Moravě)
-END:VEVENT
-BEGIN:VEVENT
 UID:412176061
 DTSTART:20260530T124903Z
 DTEND:20260530T134903Z
@@ -923,7 +910,7 @@ LOCATION:Světlá nad Sázavou
 GEO:49.665154;15.404382
 URL:geo:49.665154,15.404382
 DESCRIPTION:📍 Světlá nad Sázavou\, Havlíčkův Brod\n💬 Odstranění stromu.\n\n
- 🚒 CAS (HS Světlá nad Sázavou)
+ 🚒 CAS (HS Světlá nad Sázavou)\n🚒 pila řetězová (HS Světlá nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:412298061
@@ -934,7 +921,8 @@ SUMMARY:🛠️ ostatní - Herálec
 LOCATION:Herálec
 GEO:49.531245;15.458031
 URL:geo:49.531245,15.458031
-DESCRIPTION:📍 Herálec\, Havlíčkův Brod\n\n🚒 AŽ (CHS Havlíčkův Brod)
+DESCRIPTION:📍 Herálec\, Havlíčkův Brod\n💬 Odstranění omítky hrozící pádem.\
+ n\n🚒 AŽ (CHS Havlíčkův Brod)
 END:VEVENT
 BEGIN:VEVENT
 UID:412299061
@@ -947,5 +935,16 @@ GEO:49.293048;15.819870
 URL:geo:49.293048,15.819870
 DESCRIPTION:📍 Čechtín\, Třebíč\n💬 Oplach znečištěné komunikace.\n\n🚒 CAS (Č
  echtín)
+END:VEVENT
+BEGIN:VEVENT
+UID:412301061
+DTSTART:20260601T121014Z
+DTEND:20260601T131014Z
+DTSTAMP:20260601T121014Z
+SUMMARY:🚗 bez zranění - Havlíčkův Brod
+LOCATION:Okrouhlická\, Havlíčkův Brod
+GEO:49.614870;15.544514
+URL:geo:49.614870,15.544514
+DESCRIPTION:📍 Okrouhlická\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)
 END:VEVENT
 END:VCALENDAR
