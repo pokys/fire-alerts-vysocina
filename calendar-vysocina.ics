@@ -815,7 +815,30 @@ SUMMARY:🛠️ ostatní - Moravské Budějovice
 LOCATION:Komenského\, Moravské Budějovice
 GEO:49.046104;15.816778
 URL:geo:49.046104,15.816778
-DESCRIPTION:📍 Komenského\, Moravské Budějovice\, Třebíč\n\n🚒 CAS (HS Moravs
- ké Budějovice)
+DESCRIPTION:📍 Komenského\, Moravské Budějovice\, Třebíč\n💬 Porušené stoupač
+ ky v domě\, zajištění místa.\n\n🚒 CAS (HS Moravské Budějovice)
+END:VEVENT
+BEGIN:VEVENT
+UID:412317061
+DTSTART:20260601T183926Z
+DTEND:20260601T193926Z
+DTSTAMP:20260601T183926Z
+SUMMARY:🛠️ měření koncentrace - Telč
+LOCATION:Tyršova\, Telč
+GEO:49.181510;15.461244
+URL:geo:49.181510,15.461244
+DESCRIPTION:📍 Tyršova\, Telč-Podolí\, Telč\, Jihlava\n\n🚒 CAS (HS Telč)
+END:VEVENT
+BEGIN:VEVENT
+UID:412318061
+DTSTART:20260601T183933Z
+DTEND:20260601T193933Z
+DTSTAMP:20260601T183933Z
+SUMMARY:🛠️ ostatní - Nové Město na Moravě
+LOCATION:Tyršova\, Nové Město na Moravě
+GEO:49.564596;16.074459
+URL:geo:49.564596,16.074459
+DESCRIPTION:📍 Tyršova\, Nové Město na Moravě\, Žďár nad Sázavou\n\n🚒 CAS (C
+ HS Žďár nad Sázavou)
 END:VEVENT
 END:VCALENDAR
