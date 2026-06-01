@@ -887,8 +887,8 @@ SUMMARY:🛠️ ostatní - Ždírec nad Doubravou
 LOCATION:Pilská\, Ždírec nad Doubravou
 GEO:49.700181;15.796047
 URL:geo:49.700181,15.796047
-DESCRIPTION:📍 Pilská\, Ždírec nad Doubravou\, Havlíčkův Brod\n\n🚒 CAS (Ždír
- ec nad Doubravou)
+DESCRIPTION:📍 Pilská\, Ždírec nad Doubravou\, Havlíčkův Brod\n💬 Čištění kan
+ alizace.\n\n🚒 CAS (Ždírec nad Doubravou)
 END:VEVENT
 BEGIN:VEVENT
 UID:412308061
@@ -900,5 +900,17 @@ LOCATION:Daňkovice
 GEO:49.654979;16.149476
 URL:geo:49.654979,16.149476
 DESCRIPTION:📍 Daňkovice\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad Sázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:412310061
+DTSTART:20260601T142619Z
+DTEND:20260601T152619Z
+DTSTAMP:20260601T142619Z
+SUMMARY:🚑 otevření/asistence - Nové Město na Moravě
+LOCATION:Mendlova\, Nové Město na Moravě
+GEO:49.563332;16.064371
+URL:geo:49.563332,16.064371
+DESCRIPTION:📍 Mendlova\, Nové Město na Moravě\, Žďár nad Sázavou\n💬 Otevřen
+ í bytu.\n\n🚒 CAS (CHS Žďár nad Sázavou)
 END:VEVENT
 END:VCALENDAR
