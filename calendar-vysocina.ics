@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:412215061
-DTSTART:20260531T055110Z
-DTEND:20260531T065110Z
-DTSTAMP:20260531T055110Z
-SUMMARY:🛠️ spolupráce IZS - Kožichovice
-LOCATION:Kožichovice
-GEO:49.198827;15.922948
-URL:geo:49.198827,15.922948
-DESCRIPTION:📍 Kožichovice\, Třebíč\n💬 Spolupráce s PČR.\n\n🚒 DA (Kožichovic
- e)\n🚒 DA (CHS Havlíčkův Brod)\n🚒 DA (Číměř)\n🚒 DA (Lipník)\n🚒 CAS (Lipník)
- \n🚒 DA (Slavičky)\n🚒 DA (Třebenice)\n🚒 DA (Vladislav)
-END:VEVENT
-BEGIN:VEVENT
 UID:412216061
 DTSTART:20260531T063639Z
 DTEND:20260531T073639Z
@@ -803,6 +790,21 @@ GEO:49.522090;15.211648
 URL:geo:49.522090,15.211648
 DESCRIPTION:📍 Brtná\, Želiv\, Pelhřimov\n\n🚒 DA (HS Kamenice nad Lipou)\n🚒 
  přívěs lodní (HS Kamenice nad Lipou)\n🚒 VEA (HS Pacov)\n🚒 přívěs lodní (HS
-  Pacov)\n🚒 DA (ÚO Pelhřimov)
+  Pacov)\n🚒 DA (ÚO Pelhřimov)\n🚒 DA (HS Humpolec)\n🚒 přívěs lodní (HS Humpo
+ lec)\n🚒 automobilový nosič kontejnerů (CHS Pelhřimov)\n🚒 autobus (CHS Pelh
+ řimov)\n🚒 přívěs technický (CHS Pelhřimov)\n🚒 kontejner technický (CHS Pel
+ hřimov)
+END:VEVENT
+BEGIN:VEVENT
+UID:412320061
+DTSTART:20260602T053939Z
+DTEND:20260602T063939Z
+DTSTAMP:20260602T053939Z
+SUMMARY:🚗 se zraněním - Velké Meziříčí
+LOCATION:Velké Meziříčí
+GEO:49.365020;16.016889
+URL:geo:49.365020,16.016889
+DESCRIPTION:📍 Velké Meziříčí\, Žďár nad Sázavou\n\n🚒 CAS (HS Velké Meziříčí
+ )\n🚒 RZA (HS Velké Meziříčí)
 END:VEVENT
 END:VCALENDAR
