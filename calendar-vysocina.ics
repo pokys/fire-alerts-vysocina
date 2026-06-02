@@ -669,9 +669,9 @@ DESCRIPTION:📍 Brtná\, Želiv\, Pelhřimov\n💬 Výcvik JPO\n\n🚒 DA (HS K
  nad Lipou)\n🚒 přívěs lodní (HS Kamenice nad Lipou)\n🚒 VEA (HS Pacov)\n🚒 př
  ívěs lodní (HS Pacov)\n🚒 DA (ÚO Pelhřimov)\n🚒 DA (HS Humpolec)\n🚒 přívěs l
  odní (HS Humpolec)\n🚒 motor lodní (CHS Pelhřimov)\n🚒 automobilový nosič ko
- ntejnerů (CHS Pelhřimov)\n🚒 autobus (CHS Pelhřimov)\n🚒 přívěs lodní (CHS P
- elhřimov)\n🚒 přívěs technický (CHS Pelhřimov)\n🚒 kontejner technický (CHS 
- Pelhřimov)
+ ntejnerů (CHS Pelhřimov)\n🚒 autobus (CHS Pelhřimov)\n🚒 elektrocentrála pře
+ nosná (CHS Pelhřimov) ×2\n🚒 přívěs lodní (CHS Pelhřimov)\n🚒 přívěs technic
+ ký (CHS Pelhřimov)\n🚒 kontejner technický (CHS Pelhřimov)
 END:VEVENT
 BEGIN:VEVENT
 UID:412320061
@@ -720,5 +720,16 @@ URL:geo:49.572356,15.939466
 DESCRIPTION:📍 Bezručova\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n💬 DN cykli
  stky a koloběžky. Jedna zraněná osoba. Poskytnuta předlékařská první pomoc
  .\n\n🚒 CAS (CHS Žďár nad Sázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:412335061
+DTSTART:20260602T103137Z
+DTEND:20260602T113137Z
+DTSTAMP:20260602T103137Z
+SUMMARY:🛠️ ostatní - Dukovany
+LOCATION:Dukovany
+GEO:49.079888;16.190041
+URL:geo:49.079888,16.190041
+DESCRIPTION:📍 Dukovany\, Třebíč\n\n🚒 CAS (HS Hrotovice)
 END:VEVENT
 END:VCALENDAR
