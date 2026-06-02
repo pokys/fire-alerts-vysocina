@@ -554,6 +554,18 @@ SUMMARY:🚑 otevření/asistence - Havlíčkův Brod
 LOCATION:Žižkov II\, Havlíčkův Brod
 GEO:49.606576;15.592285
 URL:geo:49.606576,15.592285
-DESCRIPTION:📍 Žižkov II\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)
+DESCRIPTION:📍 Žižkov II\, Havlíčkův Brod\n💬 Otevření bytu.\n\n🚒 CAS (CHS Ha
+ vlíčkův Brod)
+END:VEVENT
+BEGIN:VEVENT
+UID:412344061
+DTSTART:20260602T153219Z
+DTEND:20260602T163219Z
+DTSTAMP:20260602T153219Z
+SUMMARY:🛠️ ostatní - Kuklík
+LOCATION:Kuklík
+GEO:49.629922;16.113142
+URL:geo:49.629922,16.113142
+DESCRIPTION:📍 Kuklík\, Žďár nad Sázavou\n💬 ZOČ.\n\n🚒 CAS (Kuklík)
 END:VEVENT
 END:VCALENDAR
