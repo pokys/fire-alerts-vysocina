@@ -5,20 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:412216061
-DTSTART:20260531T063639Z
-DTEND:20260531T073639Z
-DTSTAMP:20260531T063639Z
-SUMMARY:🔥 tráva/plocha - Horní Cerekev
-LOCATION:Horní Cerekev
-GEO:49.359903;15.351010
-URL:geo:49.359903,15.351010
-DESCRIPTION:📍 Těšenov\, Horní Cerekev\, Pelhřimov\n💬 Požár trávy 2x2m. Prov
- edena lokalizace a likvidace požáru.\n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (CHS 
- Pelhřimov)\n🚒 DA (Horní Cerekev)\n🚒 CAS (Horní Cerekev)\n🚒 CAS (Nový Rychn
- ov)
-END:VEVENT
-BEGIN:VEVENT
 UID:412217061
 DTSTART:20260531T065201Z
 DTEND:20260531T075201Z
@@ -804,7 +790,42 @@ SUMMARY:🚗 se zraněním - Velké Meziříčí
 LOCATION:Velké Meziříčí
 GEO:49.365020;16.016889
 URL:geo:49.365020,16.016889
-DESCRIPTION:📍 Velké Meziříčí\, Žďár nad Sázavou\n\n🚒 CAS (HS Velké Meziříčí
- )\n🚒 RZA (HS Velké Meziříčí)
+DESCRIPTION:📍 Velké Meziříčí\, Žďár nad Sázavou\n💬 DN 2 dodávek. Jedna zran
+ ěná osoba. Zajištění místa nehody. Úklid vozovky. Protipožární opatření.\n
+ \n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)
+END:VEVENT
+BEGIN:VEVENT
+UID:412323061
+DTSTART:20260602T062037Z
+DTEND:20260602T072037Z
+DTSTAMP:20260602T062037Z
+SUMMARY:🛠️ strom - Rohozná
+LOCATION:Rohozná
+GEO:49.350214;15.399165
+URL:geo:49.350214,15.399165
+DESCRIPTION:📍 Rohozná\, Jihlava\n\n🚒 DA (Rohozná)
+END:VEVENT
+BEGIN:VEVENT
+UID:412325061
+DTSTART:20260602T062928Z
+DTEND:20260602T072928Z
+DTSTAMP:20260602T062928Z
+SUMMARY:🛠️ čerpání vody - Jihlava
+LOCATION:Březinova\, Jihlava
+GEO:49.401258;15.601094
+URL:geo:49.401258,15.601094
+DESCRIPTION:📍 Březinova\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+END:VEVENT
+BEGIN:VEVENT
+UID:412326061
+DTSTART:20260602T063116Z
+DTEND:20260602T073116Z
+DTSTAMP:20260602T063116Z
+SUMMARY:🚗 dopravní nehoda - Žďár nad Sázavou
+LOCATION:Bezručova\, Žďár nad Sázavou
+GEO:49.572356;15.939466
+URL:geo:49.572356,15.939466
+DESCRIPTION:📍 Bezručova\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n\n🚒 CAS (C
+ HS Žďár nad Sázavou)
 END:VEVENT
 END:VCALENDAR
