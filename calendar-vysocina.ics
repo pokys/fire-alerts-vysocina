@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:412217061
-DTSTART:20260531T065201Z
-DTEND:20260531T075201Z
-DTSTAMP:20260531T065201Z
-SUMMARY:🛠️ obtížný hmyz - Počátky
-LOCATION:Horní\, Počátky
-GEO:49.263713;15.244029
-URL:geo:49.263713,15.244029
-DESCRIPTION:📍 Horní\, Počátky\, Pelhřimov\n💬 Odstranění obtížného hmyzu.\n\
- n🚒 CAS (Počátky)
-END:VEVENT
-BEGIN:VEVENT
 UID:412218061
 DTSTART:20260531T073050Z
 DTEND:20260531T083050Z
@@ -825,7 +813,7 @@ SUMMARY:🚗 dopravní nehoda - Žďár nad Sázavou
 LOCATION:Bezručova\, Žďár nad Sázavou
 GEO:49.572356;15.939466
 URL:geo:49.572356,15.939466
-DESCRIPTION:📍 Bezručova\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n\n🚒 CAS (C
- HS Žďár nad Sázavou)
+DESCRIPTION:📍 Bezručova\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n💬 DN cykli
+ sty a koloběžky. Jedna zraněná osoba.\n\n🚒 CAS (CHS Žďár nad Sázavou)
 END:VEVENT
 END:VCALENDAR
