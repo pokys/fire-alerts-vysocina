@@ -5,32 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:412304061
-DTSTART:20260601T123708Z
-DTEND:20260601T133708Z
-DTSTAMP:20260601T123708Z
-SUMMARY:🚗 dopravní nehoda - Dědice
-LOCATION:Dědice
-GEO:49.027335;15.724837
-URL:geo:49.027335,15.724837
-DESCRIPTION:📍 Dědice\, Třebíč\n💬 DN 1 OA\, náraz do stromu se zraněním 2 os
- ob. Poskytnutí předlékařské první pomoci zraněným osobám do příjezdu ZZS. 
- Zabezpečení havarovaných vozidel proti PO a proti úniku provozních kapalin
- .\n\n🚒 CAS (HS Moravské Budějovice)
-END:VEVENT
-BEGIN:VEVENT
-UID:412305061
-DTSTART:20260601T124105Z
-DTEND:20260601T134105Z
-DTSTAMP:20260601T124105Z
-SUMMARY:🚗 dopravní nehoda - Moravské Budějovice
-LOCATION:Kozinova\, Moravské Budějovice
-GEO:49.053841;15.812294
-URL:geo:49.053841,15.812294
-DESCRIPTION:📍 Kozinova\, Moravské Budějovice\, Třebíč\n💬 DN autobusu\, stře
- t s chodcem. Zajištění místa události.\n\n🚒 CAS (Moravské Budějovice)
-END:VEVENT
-BEGIN:VEVENT
 UID:412307061
 DTSTART:20260601T135249Z
 DTEND:20260601T145249Z
