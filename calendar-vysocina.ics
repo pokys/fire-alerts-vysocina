@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:412291061
-DTSTART:20260601T104739Z
-DTEND:20260601T114739Z
-DTSTAMP:20260601T104739Z
-SUMMARY:🛠️ strom - Žďár nad Sázavou
-LOCATION:Žďár nad Sázavou
-GEO:49.597577;15.934324
-URL:geo:49.597577,15.934324
-DESCRIPTION:📍 Stržanov\, Žďár nad Sázavou\n💬 Odstranění stromu.\n\n🚒 CAS (Ž
- ďár nad Sázavou-Zámek)
-END:VEVENT
-BEGIN:VEVENT
 UID:412293061
 DTSTART:20260601T110422Z
 DTEND:20260601T120422Z
@@ -315,8 +303,8 @@ LOCATION:Dukovany
 GEO:49.079888;16.190041
 URL:geo:49.079888,16.190041
 DESCRIPTION:📍 Dukovany\, Třebíč\n💬 Nález tlakových lahví\, předáno chemické
-  laboratoři.\n\n🚒 CAS (HS Hrotovice)\n🚒 TA (CHL JHM Tišnov)\n🚒 přívěs nákl
- adní (CHL JHM Tišnov)
+  laboratoři.\n\n🚒 CAS (HS Hrotovice) ×2\n🚒 TA (CHL JHM Tišnov)\n🚒 přívěs n
+ ákladní (CHL JHM Tišnov)
 END:VEVENT
 BEGIN:VEVENT
 UID:412337061
