@@ -552,8 +552,9 @@ SUMMARY:🚗 dopravní nehoda - Žďár nad Sázavou
 LOCATION:Žďár nad Sázavou
 GEO:49.565022;15.947301
 URL:geo:49.565022,15.947301
-DESCRIPTION:📍 Žďár nad Sázavou 7\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad 
- Sázavou)
+DESCRIPTION:📍 Žďár nad Sázavou 7\, Žďár nad Sázavou\n💬 Pád z kola\, 1 zraně
+ ná osoba\, poskytnutí první předlékařské pomoci. Zajištění místa nehody.\n
+ \n🚒 CAS (CHS Žďár nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:412432061
@@ -564,6 +565,7 @@ SUMMARY:🚑 transport pacienta - Havlíčkův Brod
 LOCATION:Žižkova\, Havlíčkův Brod
 GEO:49.604772;15.587006
 URL:geo:49.604772,15.587006
-DESCRIPTION:📍 Žižkova\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)
+DESCRIPTION:📍 Žižkova\, Havlíčkův Brod\n💬 Transport pacienta na žádost ZZS.
+ \n\n🚒 CAS (CHS Havlíčkův Brod)
 END:VEVENT
 END:VCALENDAR
