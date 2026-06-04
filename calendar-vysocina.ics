@@ -483,7 +483,7 @@ LOCATION:Dědice
 GEO:49.026952;15.708862
 URL:geo:49.026952,15.708862
 DESCRIPTION:📍 Dědice\, Třebíč\n💬 Odstranění stromu.\n\n🚒 CAS (HS Moravské B
- udějovice)
+ udějovice)\n🚒 pila řetězová (HS Moravské Budějovice)
 END:VEVENT
 BEGIN:VEVENT
 UID:412420061
@@ -532,5 +532,16 @@ GEO:49.139484;15.563979
 URL:geo:49.139484,15.563979
 DESCRIPTION:📍 U Kláštera\, Nová Říše\, Jihlava\n\n🚒 CAS (HS Telč)\n🚒 CAS (H
  S Telč)\n🚒 CAS (Nová Říše)\n🚒 CAS (Stará Říše)
+END:VEVENT
+BEGIN:VEVENT
+UID:412424061
+DTSTART:20260604T121241Z
+DTEND:20260604T131241Z
+DTSTAMP:20260604T121241Z
+SUMMARY:🛠️ obtížný hmyz - Jihlava
+LOCATION:Mahenova\, Jihlava
+GEO:49.392124;15.575193
+URL:geo:49.392124,15.575193
+DESCRIPTION:📍 Mahenova\, Jihlava\n\n🚒 CAS (CHS Jihlava)
 END:VEVENT
 END:VCALENDAR
