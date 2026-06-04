@@ -100,13 +100,13 @@ SUMMARY:🚑 záchrana na vodě - Želiv
 LOCATION:Želiv
 GEO:49.523188;15.217379
 URL:geo:49.523188,15.217379
-DESCRIPTION:📍 Želiv\, Pelhřimov\n💬 Výcvik.\n\n🚒 automobilový nosič kontejne
- rů (CHS Pelhřimov)\n🚒 účelový automobil do 3500 kg (CHS Pelhřimov)\n🚒 auto
- bus (CHS Pelhřimov)\n🚒 přívěs lodní (CHS Pelhřimov)\n🚒 přívěs technický (C
- HS Pelhřimov)\n🚒 kontejner technický (CHS Pelhřimov)\n🚒 DA (HS Humpolec)\n
- 🚒 přívěs lodní (HS Humpolec)\n🚒 DA (HS Kamenice nad Lipou)\n🚒 přívěs lodní
-  (HS Kamenice nad Lipou)\n🚒 VEA (HS Pacov)\n🚒 přívěs lodní (HS Pacov)\n🚒 D
- A (ÚO Pelhřimov)
+DESCRIPTION:📍 Želiv\, Pelhřimov\n\n🚒 automobilový nosič kontejnerů (CHS Pel
+ hřimov)\n🚒 účelový automobil do 3500 kg (CHS Pelhřimov)\n🚒 autobus (CHS Pe
+ lhřimov)\n🚒 přívěs lodní (CHS Pelhřimov)\n🚒 přívěs technický (CHS Pelhřimo
+ v)\n🚒 kontejner technický (CHS Pelhřimov)\n🚒 DA (HS Humpolec)\n🚒 přívěs lo
+ dní (HS Humpolec)\n🚒 DA (HS Kamenice nad Lipou)\n🚒 přívěs lodní (HS Kameni
+ ce nad Lipou)\n🚒 VEA (HS Pacov)\n🚒 přívěs lodní (HS Pacov)\n🚒 DA (ÚO Pelhř
+ imov)
 END:VEVENT
 BEGIN:VEVENT
 UID:412405061
@@ -129,8 +129,9 @@ SUMMARY:🚗 dopravní nehoda - Věžná
 LOCATION:Věžná
 GEO:49.422569;14.980278
 URL:geo:49.422569,14.980278
-DESCRIPTION:📍 Věžná\, Pelhřimov\n💬 DN 5 OA\, 4 zraněné osoby.\n\n🚒 CAS (HS 
- Pacov)\n🚒 HVZ - nástroj rozpínací s čelistmi (HS Pacov)
+DESCRIPTION:📍 Věžná\, Pelhřimov\n💬 DN 5 x OA\, čtyři zraněné osoby. Zajiště
+ ní místa události.\n\n🚒 CAS (HS Pacov)\n🚒 HVZ - nástroj rozpínací s čelist
+ mi (HS Pacov)
 END:VEVENT
 BEGIN:VEVENT
 UID:412418061
@@ -165,8 +166,8 @@ SUMMARY:🚗 úklid místa - Pelhřimov
 LOCATION:Slovanského bratrství\, Pelhřimov
 GEO:49.434481;15.229917
 URL:geo:49.434481,15.229917
-DESCRIPTION:📍 Slovanského bratrství\, Pelhřimov\n💬 DN 2 OA\, 1 zraněná osob
- a.\n\n🚒 CAS (CHS Pelhřimov)
+DESCRIPTION:📍 Slovanského bratrství\, Pelhřimov\n💬 DN 2 x OA\, jedna zraněn
+ á osoba. Zajištění místa události.\n\n🚒 CAS (CHS Pelhřimov)
 END:VEVENT
 BEGIN:VEVENT
 UID:412428061
@@ -177,7 +178,7 @@ SUMMARY:🛠️ ostatní - Lukavec
 LOCATION:náměstí Sv. Václava\, Lukavec
 GEO:49.566591;14.990022
 URL:geo:49.566591,14.990022
-DESCRIPTION:📍 náměstí Sv. Václava\, Lukavec\, Pelhřimov\n💬 Tlakování kanali
- zace.\n\n🚒 CAS (Lukavec)
+DESCRIPTION:📍 náměstí Sv. Václava\, Lukavec\, Pelhřimov\n💬 Pročištění kanal
+ izace.\n\n🚒 CAS (Lukavec)
 END:VEVENT
 END:VCALENDAR
