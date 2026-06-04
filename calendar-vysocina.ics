@@ -454,4 +454,15 @@ DESCRIPTION:📍 Horní Sokolovec\, Dolní Sokolovec\, Havlíčkův Brod\n💬 D
  A se zraněním 2 osob. Zajištění místa nehody proti požáru a úniku provozní
  ch kapalin.\n\n🚒 CAS (HS Chotěboř)
 END:VEVENT
+BEGIN:VEVENT
+UID:412395061
+DTSTART:20260603T231406Z
+DTEND:20260604T001406Z
+DTSTAMP:20260603T231406Z
+SUMMARY:🚗 bez zranění - Jihlava
+LOCATION:Jihlava
+GEO:49.421345;15.628134
+URL:geo:49.421345,15.628134
+DESCRIPTION:🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihlava)
+END:VEVENT
 END:VCALENDAR
