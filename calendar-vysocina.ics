@@ -587,6 +587,19 @@ SUMMARY:🚑 otevření/asistence - Třebíč
 LOCATION:Hasskova\, Třebíč
 GEO:49.215085;15.878946
 URL:geo:49.215085,15.878946
-DESCRIPTION:📍 Hasskova\, Vnitřní Město\, Třebíč\n\n🚒 CAS (CHS Třebíč)
+DESCRIPTION:📍 Hasskova\, Vnitřní Město\, Třebíč\n💬 Otevření bytu. Byt otevř
+ en před příjezdem jednotky.\n\n🚒 CAS (CHS Třebíč)
+END:VEVENT
+BEGIN:VEVENT
+UID:412512061
+DTSTART:20260605T170844Z
+DTEND:20260605T180844Z
+DTSTAMP:20260605T170844Z
+SUMMARY:🛠️ otevření bytu/auta - Bystřice nad Pernštejnem
+LOCATION:Hornická\, Bystřice nad Pernštejnem
+GEO:49.526427;16.250339
+URL:geo:49.526427,16.250339
+DESCRIPTION:📍 Hornická\, Bystřice nad Pernštejnem\, Žďár nad Sázavou\n\n🚒 C
+ AS (HS Bystřice nad Pernštejnem)
 END:VEVENT
 END:VCALENDAR
