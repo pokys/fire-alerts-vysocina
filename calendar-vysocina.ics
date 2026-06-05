@@ -550,8 +550,8 @@ SUMMARY:🛠️ ostatní - Jinošov
 LOCATION:Jinošov
 GEO:49.226923;16.191735
 URL:geo:49.226923,16.191735
-DESCRIPTION:📍 Jinošov\, Třebíč\n\n🚒 CAS (HS Náměšť nad Oslavou)\n🚒 VYA (CHS
-  Třebíč)
+DESCRIPTION:📍 Jinošov\, Třebíč\n💬 Vytažení dodávky zpět na komunikaci.\n\n🚒
+  CAS (HS Náměšť nad Oslavou)\n🚒 VYA (CHS Třebíč)
 END:VEVENT
 BEGIN:VEVENT
 UID:412494061
@@ -573,8 +573,8 @@ SUMMARY:🚗 bez zranění - Stránecká Zhoř
 LOCATION:Stránecká Zhoř
 GEO:49.378605;15.934663
 URL:geo:49.378605,15.934663
-DESCRIPTION:📍 Stránecká Zhoř\, Žďár nad Sázavou\n\n🚒 CAS (HS Velké Meziříčí
- )\n🚒 RZA (HS Velké Meziříčí)
+DESCRIPTION:📍 Stránecká Zhoř\, Žďár nad Sázavou\n💬 DN 1 OA bez zranění.\n\n
+ 🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)
 END:VEVENT
 BEGIN:VEVENT
 UID:412496061
