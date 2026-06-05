@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:412369061
-DTSTART:20260603T075400Z
-DTEND:20260603T085400Z
-DTSTAMP:20260603T075400Z
-SUMMARY:🛠️ otevření bytu/auta - Havlíčkův Brod
-LOCATION:Beckovského\, Havlíčkův Brod
-GEO:49.608700;15.577013
-URL:geo:49.608700,15.577013
-DESCRIPTION:📍 Beckovského\, Havlíčkův Brod\n💬 Otevření bytu.\n\n🚒 CAS (CHS 
- Havlíčkův Brod)
-END:VEVENT
-BEGIN:VEVENT
 UID:412371061
 DTSTART:20260603T081107Z
 DTEND:20260603T091107Z
@@ -564,7 +552,8 @@ SUMMARY:🚗 dopravní nehoda - Třebíč
 LOCATION:Třebíč
 GEO:49.241093;15.845262
 URL:geo:49.241093,15.845262
-DESCRIPTION:📍 Račerovice\, Třebíč\n\n🚒 CAS (CHS Třebíč)
+DESCRIPTION:📍 Račerovice\, Třebíč\n💬 DN 1 OA\, 1 zraněná osoba. Zajištění m
+ ísta nehody\, postavení vozidla zpět na kola.\n\n🚒 CAS (CHS Třebíč)
 END:VEVENT
 BEGIN:VEVENT
 UID:412458061
@@ -578,5 +567,16 @@ URL:geo:49.536779,15.363515
 DESCRIPTION:📍 Jihlavská\, Humpolec\, Pelhřimov\n💬 Únik oleje z dodávky.\n\n
  🚒 CAS (HS Humpolec)\n🚒 automobilový nosič kontejnerů (CHS Pelhřimov)\n🚒 ko
  ntejner technický (CHS Pelhřimov)
+END:VEVENT
+BEGIN:VEVENT
+UID:412475061
+DTSTART:20260605T073734Z
+DTEND:20260605T083734Z
+DTSTAMP:20260605T073734Z
+SUMMARY:🛠️ strom - Dědice
+LOCATION:Dědice
+GEO:49.026872;15.712099
+URL:geo:49.026872,15.712099
+DESCRIPTION:📍 Dědice\, Třebíč\n\n🚒 CAS (HS Jemnice)
 END:VEVENT
 END:VCALENDAR
