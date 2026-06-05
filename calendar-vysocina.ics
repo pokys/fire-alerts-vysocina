@@ -514,8 +514,8 @@ LOCATION:Chrtníč
 GEO:49.754349;15.446330
 URL:geo:49.754349,15.446330
 DESCRIPTION:📍 Chrtníč\, Havlíčkův Brod\n💬 DN OA\, jedna zraněná osoba. Zaji
- štění místa události.\n\n🚒 CAS (HS Světlá nad Sázavou)\n🚒 CAS (Golčův Jení
- kov)
+ štění místa události.\n\n🚒 CAS (HS Světlá nad Sázavou)\n🚒 HVZ - nástroj st
+ řihací (HS Světlá nad Sázavou)\n🚒 CAS (Golčův Jeníkov)
 END:VEVENT
 BEGIN:VEVENT
 UID:412506061
@@ -597,7 +597,6 @@ SUMMARY:⚠️ planý poplach - Příseka
 LOCATION:Příseka
 GEO:49.671101;15.426796
 URL:geo:49.671101,15.426796
-DESCRIPTION:📍 Příseka\, Havlíčkův Brod\n💬 Planý poplach.\n\n🚒 CAS (HS Světl
- á nad Sázavou)
+DESCRIPTION:📍 Příseka\, Havlíčkův Brod\n💬 Planý poplach.
 END:VEVENT
 END:VCALENDAR
