@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:412380061
-DTSTART:20260603T135837Z
-DTEND:20260603T145837Z
-DTSTAMP:20260603T135837Z
-SUMMARY:🚑 záchrana zvířete - Červená Řečice
-LOCATION:Červená Řečice
-GEO:49.527906;15.167595
-URL:geo:49.527906,15.167595
-DESCRIPTION:📍 Červená Řečice\, Pelhřimov\n💬 Transport pacienta na žádost ZZ
- S.\n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (Červená Řečice)
-END:VEVENT
-BEGIN:VEVENT
 UID:412382061
 DTSTART:20260603T140218Z
 DTEND:20260603T150218Z
@@ -538,7 +526,8 @@ SUMMARY:🛠️ ostatní - Brtnice
 LOCATION:Zahradní\, Brtnice
 GEO:49.311710;15.672173
 URL:geo:49.311710,15.672173
-DESCRIPTION:📍 Zahradní\, Brtnice\, Jihlava\n\n🚒 CAS (Brtnice)
+DESCRIPTION:📍 Zahradní\, Brtnice\, Jihlava\n💬 Čištění kanalizace.\n\n🚒 CAS 
+ (Brtnice)
 END:VEVENT
 BEGIN:VEVENT
 UID:412495061
@@ -549,8 +538,9 @@ SUMMARY:🚗 bez zranění - Stránecká Zhoř
 LOCATION:Stránecká Zhoř
 GEO:49.378605;15.934663
 URL:geo:49.378605,15.934663
-DESCRIPTION:📍 Stránecká Zhoř\, Žďár nad Sázavou\n💬 DN 1 OA bez zranění.\n\n
- 🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)
+DESCRIPTION:📍 Stránecká Zhoř\, Žďár nad Sázavou\n💬 DN 1 OA bez zranění. Zaj
+ ištění místa nehody.\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (HS Velké Meziříč
+ í)
 END:VEVENT
 BEGIN:VEVENT
 UID:412496061
