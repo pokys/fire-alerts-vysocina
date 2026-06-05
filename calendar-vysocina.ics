@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:412360061
-DTSTART:20260603T055226Z
-DTEND:20260603T065226Z
-DTSTAMP:20260603T055226Z
-SUMMARY:🚗 se zraněním - Svratka
-LOCATION:Svratka
-GEO:49.699133;16.058100
-URL:geo:49.699133,16.058100
-DESCRIPTION:📍 Moravská Cikánka\, Svratka\, Žďár nad Sázavou\n💬 DN OA\, nára
- z do stromu. 1 zraněná osoba. Zajištění místa události. Protipožární opatř
- ení.\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (HS Hlinsko)
-END:VEVENT
-BEGIN:VEVENT
 UID:412363061
 DTSTART:20260603T065950Z
 DTEND:20260603T075950Z
@@ -579,5 +566,16 @@ URL:geo:49.663181,15.406100
 DESCRIPTION:📍 Světlá nad Sázavou\, Havlíčkův Brod\n💬 DN 1 OA\, náraz do str
  omu\, se zraněním jedné osoby. Provedena PPO. Zajištění místa události.\n\
  n🚒 CAS (HS Světlá nad Sázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:412453061
+DTSTART:20260605T054548Z
+DTEND:20260605T064548Z
+DTSTAMP:20260605T054548Z
+SUMMARY:🚑 spolupráce ZZS - Kněžice
+LOCATION:Kněžice
+GEO:49.270982;15.671877
+URL:geo:49.270982,15.671877
+DESCRIPTION:📍 Kněžice\, Jihlava\n\n🚒 CAS (Stonařov)\n🚒 CAS (HS Třešť)
 END:VEVENT
 END:VCALENDAR
