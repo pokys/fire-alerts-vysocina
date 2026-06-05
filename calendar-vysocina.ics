@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:412388061
-DTSTART:20260603T164755Z
-DTEND:20260603T174755Z
-DTSTAMP:20260603T164755Z
-SUMMARY:🚗 dopravní nehoda - Věžnice
-LOCATION:Věžnice
-GEO:49.409040;15.763464
-URL:geo:49.409040,15.763464
-DESCRIPTION:📍 Věžnice\, Jihlava\n💬 DN 2 OA\, 1 zraněná osoba. Zajištění mís
- ta události\, protipožární opatření.\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (
- HS Velké Meziříčí)
-END:VEVENT
-BEGIN:VEVENT
 UID:412390061
 DTSTART:20260603T181006Z
 DTEND:20260603T191006Z
@@ -408,7 +395,8 @@ SUMMARY:🚑 spolupráce ZZS - Kněžice
 LOCATION:Kněžice
 GEO:49.270982;15.671877
 URL:geo:49.270982,15.671877
-DESCRIPTION:📍 Kněžice\, Jihlava\n\n🚒 CAS (Stonařov)\n🚒 CAS (HS Třešť)
+DESCRIPTION:📍 Kněžice\, Jihlava\n💬 Asistence ZZS.\n\n🚒 CAS (Stonařov)\n🚒 CA
+ S (HS Třešť)
 END:VEVENT
 BEGIN:VEVENT
 UID:412456061
@@ -419,8 +407,8 @@ SUMMARY:🚗 dopravní nehoda - Třebíč
 LOCATION:Třebíč
 GEO:49.241093;15.845262
 URL:geo:49.241093,15.845262
-DESCRIPTION:📍 Račerovice\, Třebíč\n💬 DN 1 OA\, 1 zraněná osoba. Zajištění m
- ísta nehody\, postavení vozidla zpět na kola.\n\n🚒 CAS (CHS Třebíč)
+DESCRIPTION:📍 Račerovice\, Třebíč\n💬 DN OA\, jedna zraněná osoba. Zajištění
+  místa nehody\, postavení vozidla zpět na kola.\n\n🚒 CAS (CHS Třebíč)
 END:VEVENT
 BEGIN:VEVENT
 UID:412458061
@@ -455,7 +443,8 @@ SUMMARY:🚗 bez zranění - Polná
 LOCATION:Palackého\, Polná
 GEO:49.486489;15.721683
 URL:geo:49.486489,15.721683
-DESCRIPTION:📍 Palackého\, Polná\, Jihlava\n\n🚒 CAS (HS Polná)
+DESCRIPTION:📍 Palackého\, Polná\, Jihlava\n💬 DN 2 x OA\, bez zranění. Zajiš
+ tění místa události.\n\n🚒 CAS (HS Polná)
 END:VEVENT
 BEGIN:VEVENT
 UID:412491061
@@ -490,9 +479,8 @@ SUMMARY:🚗 bez zranění - Stránecká Zhoř
 LOCATION:Stránecká Zhoř
 GEO:49.378605;15.934663
 URL:geo:49.378605,15.934663
-DESCRIPTION:📍 Stránecká Zhoř\, Žďár nad Sázavou\n💬 DN 1 OA bez zranění. Zaj
- ištění místa nehody.\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (HS Velké Meziříč
- í)
+DESCRIPTION:📍 Stránecká Zhoř\, Žďár nad Sázavou\n💬 DN OA bez zranění. Zajiš
+ tění místa nehody.\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)
 END:VEVENT
 BEGIN:VEVENT
 UID:412496061
@@ -551,8 +539,9 @@ SUMMARY:🚗 dopravní nehoda - Chrtníč
 LOCATION:Chrtníč
 GEO:49.754349;15.446330
 URL:geo:49.754349,15.446330
-DESCRIPTION:📍 Chrtníč\, Havlíčkův Brod\n💬 DN 1 OA\, 1 zraněná osoba.\n\n🚒 C
- AS (HS Světlá nad Sázavou)\n🚒 CAS (Golčův Jeníkov)
+DESCRIPTION:📍 Chrtníč\, Havlíčkův Brod\n💬 DN OA\, jedna zraněná osoba. Zaji
+ štění místa události.\n\n🚒 CAS (HS Světlá nad Sázavou)\n🚒 CAS (Golčův Jení
+ kov)
 END:VEVENT
 BEGIN:VEVENT
 UID:412506061
@@ -588,5 +577,16 @@ LOCATION:Štoky
 GEO:49.513050;15.590380
 URL:geo:49.513050,15.590380
 DESCRIPTION:📍 Štoky\, Havlíčkův Brod\n💬 Odstranění stromu.\n\n🚒 CAS (Štoky)
+END:VEVENT
+BEGIN:VEVENT
+UID:412509061
+DTSTART:20260605T164258Z
+DTEND:20260605T174258Z
+DTSTAMP:20260605T164258Z
+SUMMARY:🚑 otevření/asistence - Třebíč
+LOCATION:Hasskova\, Třebíč
+GEO:49.215085;15.878946
+URL:geo:49.215085,15.878946
+DESCRIPTION:📍 Hasskova\, Vnitřní Město\, Třebíč\n\n🚒 CAS (CHS Třebíč)
 END:VEVENT
 END:VCALENDAR
