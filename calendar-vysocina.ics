@@ -520,7 +520,8 @@ LOCATION:5. května\, Chotěboř
 GEO:49.711947;15.682526
 URL:geo:49.711947,15.682526
 DESCRIPTION:📍 5. května\, Chotěboř\, Havlíčkův Brod\n💬 Doplnění vody do par
- ní lokomotivy.\n\n🚒 DA (Chotěboř)\n🚒 CAS (Chotěboř)
+ ní lokomotivy.\n\n🚒 DA (Chotěboř)\n🚒 CAS (Chotěboř)\n🚒 CAS (SŽ Havlíčkův B
+ rod)
 END:VEVENT
 BEGIN:VEVENT
 UID:412523061
@@ -539,10 +540,11 @@ UID:412524061
 DTSTART:20260606T072846Z
 DTEND:20260606T082846Z
 DTSTAMP:20260606T072846Z
-SUMMARY:🛠️ ostatní - Nová Ves u Chotěboře
+SUMMARY:🚗 bez zranění - Nová Ves u Chotěboře
 LOCATION:Nová Ves u Chotěboře
 GEO:49.749386;15.668950
 URL:geo:49.749386,15.668950
-DESCRIPTION:📍 Nová Ves u Chotěboře\, Havlíčkův Brod\n\n🚒 CAS (HS Chotěboř)
+DESCRIPTION:📍 Nová Ves u Chotěboře\, Havlíčkův Brod\n💬 DN OA v silničním př
+ íkopu bez zranění osob. Zahjištění místa události.\n\n🚒 CAS (HS Chotěboř)
 END:VEVENT
 END:VCALENDAR
