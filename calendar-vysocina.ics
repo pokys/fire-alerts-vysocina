@@ -487,4 +487,16 @@ URL:geo:49.353802,16.000755
 DESCRIPTION:📍 Družstevní\, Velké Meziříčí\, Žďár nad Sázavou\n💬 Odchyt hada
   na zahradě RD.\n\n🚒 CAS (HS Velké Meziříčí)
 END:VEVENT
+BEGIN:VEVENT
+UID:412534061
+DTSTART:20260606T143646Z
+DTEND:20260606T153646Z
+DTSTAMP:20260606T143646Z
+SUMMARY:🛠️ otevření bytu/auta - Velké Meziříčí
+LOCATION:Bezděkov\, Velké Meziříčí
+GEO:49.352738;16.019306
+URL:geo:49.352738,16.019306
+DESCRIPTION:📍 Bezděkov\, Velké Meziříčí\, Žďár nad Sázavou\n\n🚒 RZA (HS Vel
+ ké Meziříčí)
+END:VEVENT
 END:VCALENDAR
