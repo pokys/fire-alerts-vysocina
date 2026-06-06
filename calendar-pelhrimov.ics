@@ -79,4 +79,16 @@ DESCRIPTION:📍 Želiv\, Pelhřimov\n💬 Požár lesní hrabanky. Požárem ne
   škodě na majetku.\n\n🚒 CAS (HS Humpolec)\n🚒 CAS (Humpolec)\n🚒 DA (Červená
   Řečice)\n🚒 CAS (Červená Řečice)\n🚒 CAS (Želiv)
 END:VEVENT
+BEGIN:VEVENT
+UID:412531061
+DTSTART:20260606T121954Z
+DTEND:20260606T131954Z
+DTSTAMP:20260606T121954Z
+SUMMARY:🚗 dopravní nehoda - Košetice
+LOCATION:5. května\, Košetice
+GEO:49.557127;15.116858
+URL:geo:49.557127,15.116858
+DESCRIPTION:📍 5. května\, Košetice\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)\n🚒 
+ DA (Onšov)\n🚒 DA (Košetice)
+END:VEVENT
 END:VCALENDAR
