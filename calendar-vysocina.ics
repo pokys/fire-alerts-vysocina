@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:412491061
-DTSTART:20260605T095836Z
-DTEND:20260605T105836Z
-DTSTAMP:20260605T095836Z
-SUMMARY:🛠️ ostatní - Jinošov
-LOCATION:Jinošov
-GEO:49.226923;16.191735
-URL:geo:49.226923,16.191735
-DESCRIPTION:📍 Jinošov\, Třebíč\n💬 Vytažení dodávky zpět na komunikaci.\n\n🚒
-  CAS (HS Náměšť nad Oslavou)\n🚒 VYA (CHS Třebíč)
-END:VEVENT
-BEGIN:VEVENT
 UID:412494061
 DTSTART:20260605T115520Z
 DTEND:20260605T125520Z
@@ -471,7 +459,7 @@ SUMMARY:🛠️ strom - Leština u Světlé
 LOCATION:Leština u Světlé
 GEO:49.769056;15.368327
 URL:geo:49.769056,15.368327
-DESCRIPTION:📍 Dobrnice\, Leština u Světlé\, Havlíčkův Brod\n\n🚒 CAS (Leštin
- a u Světlé)
+DESCRIPTION:📍 Dobrnice\, Leština u Světlé\, Havlíčkův Brod\n💬 Odstranění st
+ romu.\n\n🚒 CAS (Leština u Světlé)
 END:VEVENT
 END:VCALENDAR
