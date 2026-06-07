@@ -447,6 +447,31 @@ SUMMARY:🚗 dopravní nehoda - Věžná
 LOCATION:Věžná
 GEO:49.422843;14.981253
 URL:geo:49.422843,14.981253
-DESCRIPTION:📍 Věžná\, Pelhřimov\n\n🚒 CAS (HS Pacov)
+DESCRIPTION:📍 Věžná\, Pelhřimov\n💬 DN 1 moto\, 2 zraněné osoby. Zajištění m
+ ísta události.\n\n🚒 CAS (HS Pacov)
+END:VEVENT
+BEGIN:VEVENT
+UID:412555061
+DTSTART:20260607T091724Z
+DTEND:20260607T101724Z
+DTSTAMP:20260607T091724Z
+SUMMARY:🛠️ otevření bytu/auta - Třebíč
+LOCATION:Nádražní\, Třebíč
+GEO:49.211621;15.884393
+URL:geo:49.211621,15.884393
+DESCRIPTION:📍 Nádražní\, Horka-Domky\, Třebíč\n💬 Otevření osobního automobi
+ lu.\n\n🚒 CAS (CHS Třebíč)
+END:VEVENT
+BEGIN:VEVENT
+UID:412556061
+DTSTART:20260607T092634Z
+DTEND:20260607T102634Z
+DTSTAMP:20260607T092634Z
+SUMMARY:🛠️ strom - Leština u Světlé
+LOCATION:Leština u Světlé
+GEO:49.769056;15.368327
+URL:geo:49.769056,15.368327
+DESCRIPTION:📍 Dobrnice\, Leština u Světlé\, Havlíčkův Brod\n\n🚒 CAS (Leštin
+ a u Světlé)
 END:VEVENT
 END:VCALENDAR
