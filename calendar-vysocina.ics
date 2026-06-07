@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:412507061
-DTSTART:20260605T151356Z
-DTEND:20260605T161356Z
-DTSTAMP:20260605T151356Z
-SUMMARY:🚑 otevření/asistence - Havlíčkův Brod
-LOCATION:Havlíčkovo náměstí\, Havlíčkův Brod
-GEO:49.606281;15.579530
-URL:geo:49.606281,15.579530
-DESCRIPTION:📍 Havlíčkovo náměstí\, Havlíčkův Brod\n💬 Otevření uzavřených pr
- ostor.\n\n🚒 CAS (CHS Havlíčkův Brod)
-END:VEVENT
-BEGIN:VEVENT
 UID:412508061
 DTSTART:20260605T153003Z
 DTEND:20260605T163003Z
@@ -437,5 +425,17 @@ GEO:49.560355;16.074041
 URL:geo:49.560355,16.074041
 DESCRIPTION:📍 Vratislavovo náměstí\, Nové Město na Moravě\, Žďár nad Sázavo
  u\n💬 Odstranění obtížného hmyzu.\n\n🚒 CAS (CHS Žďár nad Sázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:412568061
+DTSTART:20260607T145457Z
+DTEND:20260607T155457Z
+DTSTAMP:20260607T145457Z
+SUMMARY:🛠️ otevření bytu/auta - Ledeč nad Sázavou
+LOCATION:Tyršovo nábřeží\, Ledeč nad Sázavou
+GEO:49.694400;15.274434
+URL:geo:49.694400,15.274434
+DESCRIPTION:📍 Tyršovo nábřeží\, Ledeč nad Sázavou\, Havlíčkův Brod\n💬 Otevř
+ ení OA.\n\n🚒 CAS (HS Ledeč nad Sázavou)
 END:VEVENT
 END:VCALENDAR
