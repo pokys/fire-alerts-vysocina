@@ -436,7 +436,20 @@ SUMMARY:🚗 dopravní nehoda - Horní Cerekev
 LOCATION:Horní Cerekev
 GEO:49.318440;15.282025
 URL:geo:49.318440,15.282025
-DESCRIPTION:📍 Hříběcí\, Horní Cerekev\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)\
- n🚒 DA (Horní Cerekev)\n🚒 CAS (Horní Cerekev)
+DESCRIPTION:📍 Hříběcí\, Horní Cerekev\, Pelhřimov\n💬 DN\, srážka motocyklu 
+ se zvěří\, 1 zraněná osoba.\n\n🚒 CAS (CHS Pelhřimov)\n🚒 DA (Horní Cerekev)
+ \n🚒 CAS (Horní Cerekev)
+END:VEVENT
+BEGIN:VEVENT
+UID:412576061
+DTSTART:20260607T180815Z
+DTEND:20260607T190815Z
+DTSTAMP:20260607T180815Z
+SUMMARY:🚗 dopravní nehoda - Štoky
+LOCATION:Štoky
+GEO:49.488655;15.590143
+URL:geo:49.488655,15.590143
+DESCRIPTION:📍 Štoky\, Havlíčkův Brod\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jih
+ lava)
 END:VEVENT
 END:VCALENDAR
