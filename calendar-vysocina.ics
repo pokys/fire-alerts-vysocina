@@ -433,6 +433,19 @@ SUMMARY:🚗 dopravní nehoda - Třebíč
 LOCATION:Smila Osovského\, Třebíč
 GEO:49.214388;15.887392
 URL:geo:49.214388,15.887392
-DESCRIPTION:📍 Smila Osovského\, Jejkov\, Třebíč\n\n🚒 CAS (CHS Třebíč)
+DESCRIPTION:📍 Smila Osovského\, Jejkov\, Třebíč\n💬 Dopravní nehoda elektrok
+ oloběžky\, se zraněním. Zajištění místa zásahu.\n\n🚒 CAS (CHS Třebíč)
+END:VEVENT
+BEGIN:VEVENT
+UID:412566061
+DTSTART:20260607T135403Z
+DTEND:20260607T145403Z
+DTSTAMP:20260607T135403Z
+SUMMARY:🛠️ obtížný hmyz - Nové Město na Moravě
+LOCATION:Vratislavovo náměstí\, Nové Město na Moravě
+GEO:49.560355;16.074041
+URL:geo:49.560355,16.074041
+DESCRIPTION:📍 Vratislavovo náměstí\, Nové Město na Moravě\, Žďár nad Sázavo
+ u\n💬 Odstranění obtížného hmyzu.\n\n🚒 CAS (CHS Žďár nad Sázavou)
 END:VEVENT
 END:VCALENDAR
