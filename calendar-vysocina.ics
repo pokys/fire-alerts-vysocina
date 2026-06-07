@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:412509061
-DTSTART:20260605T164258Z
-DTEND:20260605T174258Z
-DTSTAMP:20260605T164258Z
-SUMMARY:🚑 otevření/asistence - Třebíč
-LOCATION:Hasskova\, Třebíč
-GEO:49.215085;15.878946
-URL:geo:49.215085,15.878946
-DESCRIPTION:📍 Hasskova\, Vnitřní Město\, Třebíč\n💬 Otevření bytu. Byt otevř
- en před příjezdem jednotky.\n\n🚒 CAS (CHS Třebíč)
-END:VEVENT
-BEGIN:VEVENT
 UID:412512061
 DTSTART:20260605T170844Z
 DTEND:20260605T180844Z
@@ -460,7 +448,7 @@ SUMMARY:🛠️ ostatní - Žďár nad Sázavou
 LOCATION:Hlohová\, Žďár nad Sázavou
 GEO:49.575321;15.945712
 URL:geo:49.575321,15.945712
-DESCRIPTION:📍 Hlohová\, Žďár nad Sázavou 5\, Žďár nad Sázavou\n\n🚒 CAS (CHS
-  Žďár nad Sázavou)
+DESCRIPTION:📍 Hlohová\, Žďár nad Sázavou 5\, Žďár nad Sázavou\n💬 Pomoc imob
+ ilní osobě.\n\n🚒 CAS (CHS Žďár nad Sázavou)
 END:VEVENT
 END:VCALENDAR
