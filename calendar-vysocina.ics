@@ -5,31 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:412522061
-DTSTART:20260606T063953Z
-DTEND:20260606T073953Z
-DTSTAMP:20260606T063953Z
-SUMMARY:🛠️ ostatní - Chotěboř
-LOCATION:5. května\, Chotěboř
-GEO:49.711947;15.682526
-URL:geo:49.711947,15.682526
-DESCRIPTION:📍 5. května\, Chotěboř\, Havlíčkův Brod\n💬 Doplnění vody do par
- ní lokomotivy.\n\n🚒 DA (Chotěboř)\n🚒 CAS (Chotěboř)\n🚒 CAS (SŽ Havlíčkův B
- rod)
-END:VEVENT
-BEGIN:VEVENT
-UID:412523061
-DTSTART:20260606T064019Z
-DTEND:20260606T074019Z
-DTSTAMP:20260606T064019Z
-SUMMARY:🛠️ ostatní - Dukovany
-LOCATION:Dukovany
-GEO:49.077730;16.189257
-URL:geo:49.077730,16.189257
-DESCRIPTION:📍 Dukovany\, Třebíč\n💬 Oplach komunikace v obci.\n\n🚒 CAS (Duko
- vany)
-END:VEVENT
-BEGIN:VEVENT
 UID:412524061
 DTSTART:20260606T072846Z
 DTEND:20260606T082846Z
@@ -488,7 +463,8 @@ SUMMARY:🚗 dopravní nehoda - Krásná Hora
 LOCATION:Krásná Hora
 GEO:49.619659;15.442735
 URL:geo:49.619659,15.442735
-DESCRIPTION:📍 Volichov\, Krásná Hora\, Havlíčkův Brod\n\n🚒 CAS (HS Světlá n
- ad Sázavou)
+DESCRIPTION:📍 Volichov\, Krásná Hora\, Havlíčkův Brod\n💬 DN 1x OA a 1x NA\,
+  se zraněním 1 osoby. Zajištění místa nehody proti požáru a úniku provozní
+ ch kapalin.\n\n🚒 CAS (HS Světlá nad Sázavou)
 END:VEVENT
 END:VCALENDAR
