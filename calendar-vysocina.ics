@@ -392,9 +392,9 @@ SUMMARY:🚗 dopravní nehoda - Jitkov
 LOCATION:Jitkov
 GEO:49.674717;15.735508
 URL:geo:49.674717,15.735508
-DESCRIPTION:📍 Jitkov\, Havlíčkův Brod\n💬 DN 1x motocyklu se zraněním 1 osob
- y. Zajištění místa nehody proti požáru a úniku provozních kapalin.\n\n🚒 CA
- S (HS Chotěboř)
+DESCRIPTION:📍 Jitkov\, Havlíčkův Brod\n💬 DN 1 motocyklu\, jedna zraněná oso
+ ba. Zajištění místa nehody proti požáru a úniku provozních kapalin.\n\n🚒 C
+ AS (HS Chotěboř)
 END:VEVENT
 BEGIN:VEVENT
 UID:412603061
@@ -431,7 +431,7 @@ SUMMARY:🚗 se zraněním - Třebíč
 LOCATION:Třebíč
 GEO:49.213727;15.871339
 URL:geo:49.213727,15.871339
-DESCRIPTION:📍 Stařečka\, Třebíč\n💬 DN 2x OA se zraněním 2 osob\, zajištění 
+DESCRIPTION:📍 Stařečka\, Třebíč\n💬 DN 2 OA\, dvě zraněné osoby.  Zajištění 
  místa nehody proti požáru a úniku provozních kapalin.\n\n🚒 CAS (CHS Třebíč
  )
 END:VEVENT
@@ -496,5 +496,17 @@ LOCATION:Humpolec
 GEO:49.535472;15.359811
 URL:geo:49.535472,15.359811
 DESCRIPTION:📍 Humpolec\, Pelhřimov\n\n🚒 CAS (HS Humpolec)
+END:VEVENT
+BEGIN:VEVENT
+UID:412637061
+DTSTART:20260608T141508Z
+DTEND:20260608T151508Z
+DTSTAMP:20260608T141508Z
+SUMMARY:🛠️ strom - Cerekvička-Rosice
+LOCATION:Cerekvička-Rosice
+GEO:49.330346;15.577063
+URL:geo:49.330346,15.577063
+DESCRIPTION:📍 Cerekvička\, Cerekvička-Rosice\, Jihlava\n\n🚒 CAS (CHS Jihlav
+ a)
 END:VEVENT
 END:VCALENDAR
