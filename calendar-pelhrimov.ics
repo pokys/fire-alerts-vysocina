@@ -51,8 +51,8 @@ SUMMARY:🚗 dopravní nehoda - Věžná
 LOCATION:Věžná
 GEO:49.422629;14.980976
 URL:geo:49.422629,14.980976
-DESCRIPTION:📍 Věžná\, Pelhřimov\n💬 DN 1 moto\, 2 zraněné osoby. Zajištění m
- ísta události.\n\n🚒 CAS (HS Pacov)
+DESCRIPTION:📍 Věžná\, Pelhřimov\n💬 DN motocyklu\, dvě zraněné osoby. Zajišt
+ ění místa události.\n\n🚒 CAS (HS Pacov)
 END:VEVENT
 BEGIN:VEVENT
 UID:412564061
@@ -76,7 +76,7 @@ LOCATION:Horní Cerekev
 GEO:49.318440;15.282025
 URL:geo:49.318440,15.282025
 DESCRIPTION:📍 Hříběcí\, Horní Cerekev\, Pelhřimov\n💬 DN\, srážka motocyklu 
- se zvěří\, 1 zraněná osoba. Zajištěníá místa události.\n\n🚒 CAS (CHS Pelhř
- imov)\n🚒 DA (Horní Cerekev)\n🚒 CAS (Horní Cerekev)
+ se zvěří\, jedna zraněná osoba. Zajištěníá místa události.\n\n🚒 CAS (CHS P
+ elhřimov)\n🚒 DA (Horní Cerekev)\n🚒 CAS (Horní Cerekev)
 END:VEVENT
 END:VCALENDAR
