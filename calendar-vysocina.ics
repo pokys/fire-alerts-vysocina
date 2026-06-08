@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:412545061
-DTSTART:20260606T201930Z
-DTEND:20260606T211930Z
-DTSTAMP:20260606T201930Z
-SUMMARY:🛠️ ostatní - Bystřice nad Pernštejnem
-LOCATION:Hornická\, Bystřice nad Pernštejnem
-GEO:49.525218;16.250021
-URL:geo:49.525218,16.250021
-DESCRIPTION:📍 Hornická\, Bystřice nad Pernštejnem\, Žďár nad Sázavou\n💬 Pom
- oc se zvednutím osoby a její transport do vozu ZZS.\n\n🚒 CAS (HS Bystřice 
- nad Pernštejnem)
-END:VEVENT
-BEGIN:VEVENT
 UID:412547061
 DTSTART:20260606T225143Z
 DTEND:20260606T235143Z
