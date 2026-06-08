@@ -439,12 +439,13 @@ UID:412613061
 DTSTART:20260608T083149Z
 DTEND:20260608T093149Z
 DTSTAMP:20260608T083149Z
-SUMMARY:🚗 dopravní nehoda - Polnička
+SUMMARY:🚗 bez zranění - Polnička
 LOCATION:Polnička
 GEO:49.616902;15.878320
 URL:geo:49.616902,15.878320
-DESCRIPTION:📍 Polnička\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad Sázavou)\n
- 🚒 CAS (Žďár nad Sázavou-Zámek)
+DESCRIPTION:📍 Polnička\, Žďár nad Sázavou\n💬 DN OA mimo komunikaci. Bez zra
+ nění. Provedeno protipožární opatření. Úklid komunikace.\n\n🚒 CAS (CHS Žďá
+ r nad Sázavou)\n🚒 CAS (Žďár nad Sázavou-Zámek)
 END:VEVENT
 BEGIN:VEVENT
 UID:412619061
@@ -495,5 +496,17 @@ DESCRIPTION:📍 Velká Černá\, Salačova Lhota\, Pelhřimov\n\n🚒 CAS (HS P
  n🚒 vozidlo účelové - SxS (HS Pacov)\n🚒 přívěs nákladní (HS Pacov)\n🚒 CAS (
  Pacov)\n🚒 CAS (Pacov-Jetřichovec)\n🚒 účelový automobil do 3500 kg (Salačov
  a Lhota)
+END:VEVENT
+BEGIN:VEVENT
+UID:412633061
+DTSTART:20260608T115255Z
+DTEND:20260608T125255Z
+DTSTAMP:20260608T115255Z
+SUMMARY:🔥 vozidlo - Chotěboř
+LOCATION:Hliněná\, Chotěboř
+GEO:49.715565;15.662438
+URL:geo:49.715565,15.662438
+DESCRIPTION:📍 Hliněná\, Chotěboř\, Havlíčkův Brod\n\n🚒 CAS (HS Chotěboř)\n🚒
+  CAS (HS Chotěboř)
 END:VEVENT
 END:VCALENDAR
