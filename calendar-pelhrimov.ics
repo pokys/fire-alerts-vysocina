@@ -79,4 +79,16 @@ DESCRIPTION:📍 Hříběcí\, Horní Cerekev\, Pelhřimov\n💬 DN\, srážka m
  se zvěří\, jedna zraněná osoba. Zajištěníá místa události.\n\n🚒 CAS (CHS P
  elhřimov)\n🚒 DA (Horní Cerekev)\n🚒 CAS (Horní Cerekev)
 END:VEVENT
+BEGIN:VEVENT
+UID:412624061
+DTSTART:20260608T090203Z
+DTEND:20260608T100203Z
+DTSTAMP:20260608T090203Z
+SUMMARY:☣️ olej/PHM - Kamenice nad Lipou
+LOCATION:nám. Husovo\, Kamenice nad Lipou
+GEO:49.302732;15.075816
+URL:geo:49.302732,15.075816
+DESCRIPTION:📍 nám. Husovo\, Kamenice nad Lipou\, Pelhřimov\n\n🚒 CAS (Kameni
+ ce nad Lipou)
+END:VEVENT
 END:VCALENDAR
