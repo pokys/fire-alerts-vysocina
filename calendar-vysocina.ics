@@ -464,8 +464,9 @@ SUMMARY:☣️ olej/PHM - Třebíč
 LOCATION:9. května\, Třebíč
 GEO:49.218893;15.870464
 URL:geo:49.218893,15.870464
-DESCRIPTION:📍 9. května\, Podklášteří\, Třebíč\n\n🚒 CAS (CHS Třebíč)\n🚒 VEA
-  (CHS Třebíč)
+DESCRIPTION:📍 9. května\, Podklášteří\, Třebíč\n💬 Únik PHM z NA na komunika
+ ci\, zasypání sorbentem a uklizení vozovky.\n\n🚒 CAS (CHS Třebíč)\n🚒 VEA (
+ CHS Třebíč)
 END:VEVENT
 BEGIN:VEVENT
 UID:412592061
@@ -501,5 +502,17 @@ GEO:49.283624;16.225998
 URL:geo:49.283624,16.225998
 DESCRIPTION:📍 Kpt. Jaroše\, Velká Bíteš\, Žďár nad Sázavou\n\n🚒 VEA (CHS Žď
  ár nad Sázavou)\n🚒 CAS (HS Velká Bíteš)\n🚒 AŽ (HS Velká Bíteš)
+END:VEVENT
+BEGIN:VEVENT
+UID:412613061
+DTSTART:20260608T083149Z
+DTEND:20260608T093149Z
+DTSTAMP:20260608T083149Z
+SUMMARY:🚗 dopravní nehoda - Polnička
+LOCATION:Polnička
+GEO:49.616902;15.878320
+URL:geo:49.616902,15.878320
+DESCRIPTION:📍 Polnička\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad Sázavou)\n
+ 🚒 CAS (Žďár nad Sázavou-Zámek)
 END:VEVENT
 END:VCALENDAR
