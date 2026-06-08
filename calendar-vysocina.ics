@@ -486,4 +486,15 @@ DESCRIPTION:📍 Hliněná\, Chotěboř\, Havlíčkův Brod\n💬 Požár bateri
  čky v OA\, lokalizace a likvidace.\n\n🚒 CAS (HS Chotěboř)\n🚒 CAS (HS Chotě
  boř)\n🚒 vyšetřovací automobil (ÚO Havlíčkův Brod)
 END:VEVENT
+BEGIN:VEVENT
+UID:412636061
+DTSTART:20260608T140948Z
+DTEND:20260608T150948Z
+DTSTAMP:20260608T140948Z
+SUMMARY:☣️ olej/PHM - Humpolec
+LOCATION:Humpolec
+GEO:49.535472;15.359811
+URL:geo:49.535472,15.359811
+DESCRIPTION:📍 Humpolec\, Pelhřimov\n\n🚒 CAS (HS Humpolec)
+END:VEVENT
 END:VCALENDAR
