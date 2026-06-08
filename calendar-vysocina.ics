@@ -463,14 +463,15 @@ UID:412631061
 DTSTART:20260608T110743Z
 DTEND:20260608T120743Z
 DTSTAMP:20260608T110743Z
-SUMMARY:🔥 les - Salačova Lhota
+SUMMARY:🔥 venkovní požár - Salačova Lhota
 LOCATION:Salačova Lhota
 GEO:49.518689;14.961667
 URL:geo:49.518689,14.961667
-DESCRIPTION:📍 Velká Černá\, Salačova Lhota\, Pelhřimov\n\n🚒 CAS (HS Pacov)\
- n🚒 vozidlo účelové - SxS (HS Pacov)\n🚒 přívěs nákladní (HS Pacov)\n🚒 CAS (
- Pacov)\n🚒 CAS (Pacov-Jetřichovec)\n🚒 účelový automobil do 3500 kg (Salačov
- a Lhota)
+DESCRIPTION:📍 Velká Černá\, Salačova Lhota\, Pelhřimov\n💬 Požár starého sen
+ a a dřevního odpadu. Byla provedena lokalizace a likvidace požáru.\n\n🚒 CA
+ S (HS Pacov)\n🚒 vozidlo účelové - SxS (HS Pacov)\n🚒 přívěs nákladní (HS Pa
+ cov)\n🚒 CAS (Pacov)\n🚒 CAS (Pacov-Jetřichovec)\n🚒 účelový automobil do 350
+ 0 kg (Salačova Lhota)
 END:VEVENT
 BEGIN:VEVENT
 UID:412633061
@@ -481,7 +482,8 @@ SUMMARY:🔥 vozidlo - Chotěboř
 LOCATION:Hliněná\, Chotěboř
 GEO:49.715565;15.662438
 URL:geo:49.715565,15.662438
-DESCRIPTION:📍 Hliněná\, Chotěboř\, Havlíčkův Brod\n\n🚒 CAS (HS Chotěboř)\n🚒
-  CAS (HS Chotěboř)\n🚒 vyšetřovací automobil (ÚO Havlíčkův Brod)
+DESCRIPTION:📍 Hliněná\, Chotěboř\, Havlíčkův Brod\n💬 Požár baterie a nabíje
+ čky v OA\, lokalizace a likvidace.\n\n🚒 CAS (HS Chotěboř)\n🚒 CAS (HS Chotě
+ boř)\n🚒 vyšetřovací automobil (ÚO Havlíčkův Brod)
 END:VEVENT
 END:VCALENDAR
