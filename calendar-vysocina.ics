@@ -495,7 +495,7 @@ SUMMARY:🛠️ odstranění překážky - Hodice
 LOCATION:Hodice
 GEO:49.268701;15.499533
 URL:geo:49.268701,15.499533
-DESCRIPTION:📍 Hodice\, Jihlava\n\n🚒 CAS (Hodice)
+DESCRIPTION:📍 Hodice\, Jihlava\n💬 Pročištění propustku.\n\n🚒 CAS (Hodice)
 END:VEVENT
 BEGIN:VEVENT
 UID:412640061
@@ -518,6 +518,30 @@ SUMMARY:🚑 otevření/asistence - Jihlava
 LOCATION:Za Prachárnou\, Jihlava
 GEO:49.397606;15.566229
 URL:geo:49.397606,15.566229
-DESCRIPTION:📍 Za Prachárnou\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+DESCRIPTION:📍 Za Prachárnou\, Jihlava\n💬 Pomoc imobilní osobě.\n\n🚒 CAS (CH
+ S Jihlava)
+END:VEVENT
+BEGIN:VEVENT
+UID:412645061
+DTSTART:20260608T164632Z
+DTEND:20260608T174632Z
+DTSTAMP:20260608T164632Z
+SUMMARY:🔥 venkovní požár - Horní Ves
+LOCATION:Horní Ves
+GEO:49.297417;15.302343
+URL:geo:49.297417,15.302343
+DESCRIPTION:📍 Horní Ves\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (CHS Pe
+ lhřimov)\n🚒 CAS (Horní Cerekev)\n🚒 CAS (Počátky) ×2\n🚒 DA (Horní Ves)
+END:VEVENT
+BEGIN:VEVENT
+UID:412646061
+DTSTART:20260608T164807Z
+DTEND:20260608T174807Z
+DTSTAMP:20260608T164807Z
+SUMMARY:🛠️ strom - Zbilidy
+LOCATION:Zbilidy
+GEO:49.456298;15.418210
+URL:geo:49.456298,15.418210
+DESCRIPTION:📍 Zbilidy\, Jihlava\n💬 Odstranění stromu.\n\n🚒 CAS (Zbilidy)
 END:VEVENT
 END:VCALENDAR
