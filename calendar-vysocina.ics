@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:412574061
-DTSTART:20260607T172759Z
-DTEND:20260607T182759Z
-DTSTAMP:20260607T172759Z
-SUMMARY:🚗 dopravní nehoda - Horní Cerekev
-LOCATION:Horní Cerekev
-GEO:49.318440;15.282025
-URL:geo:49.318440,15.282025
-DESCRIPTION:📍 Hříběcí\, Horní Cerekev\, Pelhřimov\n💬 DN\, srážka motocyklu 
- se zvěří\, jedna zraněná osoba. Zajištěníá místa události.\n\n🚒 CAS (CHS P
- elhřimov)\n🚒 DA (Horní Cerekev)\n🚒 CAS (Horní Cerekev)
-END:VEVENT
-BEGIN:VEVENT
 UID:412576061
 DTSTART:20260607T180815Z
 DTEND:20260607T190815Z
