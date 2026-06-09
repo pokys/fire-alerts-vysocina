@@ -579,7 +579,7 @@ LOCATION:Školní\, Jihlava
 GEO:49.430469;15.599008
 URL:geo:49.430469,15.599008
 DESCRIPTION:📍 Školní\, Jihlava\n💬 Zajištění překopnuté plynové přípojky u d
- omu.\n\n🚒 CAS (CHS Jihlava)
+ omu.\n\n🚒 CAS (CHS Jihlava)\n🚒 HVZ - jednotka pohonná (CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:412668061
@@ -606,5 +606,16 @@ GEO:49.431969;15.223206
 URL:geo:49.431969,15.223206
 DESCRIPTION:📍 Dr. Tyrše\, Pelhřimov\n💬 Otevření uzavřeného dodávkového vozi
  dla.\n\n🚒 CAS (CHS Pelhřimov)
+END:VEVENT
+BEGIN:VEVENT
+UID:412688061
+DTSTART:20260609T084907Z
+DTEND:20260609T094907Z
+DTSTAMP:20260609T084907Z
+SUMMARY:🛠️ ostatní - Opatov
+LOCATION:Opatov
+GEO:49.428020;15.393069
+URL:geo:49.428020,15.393069
+DESCRIPTION:📍 Opatov\, Jihlava\n\n🚒 CAS (Opatov (JI))
 END:VEVENT
 END:VCALENDAR
