@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:412560061
-DTSTART:20260607T120252Z
-DTEND:20260607T130252Z
-DTSTAMP:20260607T120252Z
-SUMMARY:🚗 dopravní nehoda - Hladov
-LOCATION:Hladov
-GEO:49.211465;15.612853
-URL:geo:49.211465,15.612853
-DESCRIPTION:📍 Hladov\, Jihlava\n💬 DN 3 OA\, 1 zraněná osoba. Poskytnuta pře
- dlékařská pomoc\, zajištění místa nehody.\n\n🚒 CAS (HS Třešť)\n🚒 CAS (Žele
- tava)
-END:VEVENT
-BEGIN:VEVENT
 UID:412561061
 DTSTART:20260607T121938Z
 DTEND:20260607T131938Z
@@ -592,8 +579,8 @@ SUMMARY:🚑 otevření/asistence - Jimramov
 LOCATION:Pavlovická\, Jimramov
 GEO:49.634284;16.223746
 URL:geo:49.634284,16.223746
-DESCRIPTION:📍 Pavlovická\, Jimramov\, Žďár nad Sázavou\n\n🚒 CAS (HS Bystřic
- e nad Pernštejnem)\n🚒 DA (Jimramov)\n🚒 CAS (Jimramov)
+DESCRIPTION:📍 Pavlovická\, Jimramov\, Žďár nad Sázavou\n💬 Otevření bytu.\n\
+ n🚒 CAS (HS Bystřice nad Pernštejnem)\n🚒 DA (Jimramov)\n🚒 CAS (Jimramov)
 END:VEVENT
 BEGIN:VEVENT
 UID:412691061
@@ -616,7 +603,8 @@ SUMMARY:🚗 se zraněním - Velká Bíteš
 LOCATION:Velká Bíteš
 GEO:49.280065;16.204868
 URL:geo:49.280065,16.204868
-DESCRIPTION:📍 Velká Bíteš\, Žďár nad Sázavou\n\n🚒 CAS (HS Velká Bíteš)\n🚒 R
- ZA (HS Velké Meziříčí)
+DESCRIPTION:📍 Velká Bíteš\, Žďár nad Sázavou\n💬 DN 1 OA mimo komunikaci. 1 
+ zraněná osoba předána do péče ZZS. Provedeno protipožární opatření. Zajišt
+ ění místa nehody.\n\n🚒 CAS (HS Velká Bíteš)\n🚒 RZA (HS Velké Meziříčí)
 END:VEVENT
 END:VCALENDAR
