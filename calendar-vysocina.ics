@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:412650061
-DTSTART:20260608T171112Z
-DTEND:20260608T181112Z
-DTSTAMP:20260608T171112Z
-SUMMARY:🛠️ ostatní - Golčův Jeníkov
-LOCATION:5. května\, Golčův Jeníkov
-GEO:49.812011;15.476621
-URL:geo:49.812011,15.476621
-DESCRIPTION:📍 5. května\, Golčův Jeníkov\, Havlíčkův Brod\n💬 Pročištění kan
- alizace.\n\n🚒 CAS (Golčův Jeníkov)
-END:VEVENT
-BEGIN:VEVENT
 UID:412651061
 DTSTART:20260608T174857Z
 DTEND:20260608T184857Z
@@ -588,7 +576,9 @@ SUMMARY:🚗 bez zranění - Vladislav
 LOCATION:Vladislav
 GEO:49.211646;15.998055
 URL:geo:49.211646,15.998055
-DESCRIPTION:📍 Vladislav\, Třebíč\n\n🚒 CAS (CHS Třebíč)
+DESCRIPTION:📍 Vladislav\, Třebíč\n💬 DN 1x OA do svodidel\, bez zranění. Zaj
+ ištění místa nehody proti požáru a úniku provozních kapalin.\n\n🚒 CAS (CHS
+  Třebíč)
 END:VEVENT
 BEGIN:VEVENT
 UID:412781061
@@ -625,5 +615,29 @@ GEO:49.604324;15.579869
 URL:geo:49.604324,15.579869
 DESCRIPTION:📍 Dolní\, Havlíčkův Brod\n💬 DN 1 OA\, sražený chodec\, se zraně
  ním jedné osoby. Zajištění místa události.\n\n🚒 CAS (CHS Havlíčkův Brod)
+END:VEVENT
+BEGIN:VEVENT
+UID:412784061
+DTSTART:20260610T170019Z
+DTEND:20260610T180019Z
+DTSTAMP:20260610T170019Z
+SUMMARY:🛠️ otevření bytu/auta - Pelhřimov
+LOCATION:Pražská\, Pelhřimov
+GEO:49.435466;15.216508
+URL:geo:49.435466,15.216508
+DESCRIPTION:📍 Pražská\, Pelhřimov\n💬 Otevření bytu.\n\n🚒 CAS (CHS Pelhřimov
+ )
+END:VEVENT
+BEGIN:VEVENT
+UID:412785061
+DTSTART:20260610T170759Z
+DTEND:20260610T180759Z
+DTSTAMP:20260610T170759Z
+SUMMARY:🚑 otevření/asistence - Nové Město na Moravě
+LOCATION:Tyršova\, Nové Město na Moravě
+GEO:49.564596;16.074459
+URL:geo:49.564596,16.074459
+DESCRIPTION:📍 Tyršova\, Nové Město na Moravě\, Žďár nad Sázavou\n\n🚒 CAS (C
+ HS Žďár nad Sázavou)
 END:VEVENT
 END:VCALENDAR
