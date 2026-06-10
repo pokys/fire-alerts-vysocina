@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:412633061
-DTSTART:20260608T115255Z
-DTEND:20260608T125255Z
-DTSTAMP:20260608T115255Z
-SUMMARY:🔥 vozidlo - Chotěboř
-LOCATION:Hliněná\, Chotěboř
-GEO:49.715565;15.662438
-URL:geo:49.715565,15.662438
-DESCRIPTION:📍 Hliněná\, Chotěboř\, Havlíčkův Brod\n💬 Požár baterie a nabíje
- čky v OA\, lokalizace a likvidace.\n\n🚒 CAS (HS Chotěboř)\n🚒 CAS (HS Chotě
- boř)\n🚒 vyšetřovací automobil (ÚO Havlíčkův Brod)
-END:VEVENT
-BEGIN:VEVENT
 UID:412636061
 DTSTART:20260608T140948Z
 DTEND:20260608T150948Z
@@ -573,10 +560,11 @@ SUMMARY:☣️ plyn - Světlá nad Sázavou
 LOCATION:Pěšinky\, Světlá nad Sázavou
 GEO:49.669978;15.410048
 URL:geo:49.669978,15.410048
-DESCRIPTION:📍 Pěšinky\, Světlá nad Sázavou\, Havlíčkův Brod\n\n🚒 CAS (HS Le
- deč nad Sázavou)\n🚒 CAS (HS Světlá nad Sázavou)\n🚒 CAS (Druhanov)\n🚒 nákla
- dní automobil do 3500 kg (Druhanov)\n🚒 DA (Světlá nad Sázavou)\n🚒 CAS (Svě
- tlá nad Sázavou)\n🚒 automobilový nosič kontejnerů (CHS Havlíčkův Brod)
+DESCRIPTION:📍 Pěšinky\, Světlá nad Sázavou\, Havlíčkův Brod\n💬 Taktické cvi
+ čení.\n\n🚒 CAS (HS Ledeč nad Sázavou)\n🚒 CAS (HS Světlá nad Sázavou)\n🚒 CA
+ S (Druhanov)\n🚒 nákladní automobil do 3500 kg (Druhanov)\n🚒 DA (Světlá nad
+  Sázavou)\n🚒 CAS (Světlá nad Sázavou)\n🚒 automobilový nosič kontejnerů (CH
+ S Havlíčkův Brod)
 END:VEVENT
 BEGIN:VEVENT
 UID:412760061
@@ -595,7 +583,7 @@ UID:412761061
 DTSTART:20260610T113330Z
 DTEND:20260610T123330Z
 DTSTAMP:20260610T113330Z
-SUMMARY:🚗 se zraněním - Ždírec nad Doubravou
+SUMMARY:⚠️ planý poplach - Ždírec nad Doubravou
 LOCATION:Ždírec nad Doubravou
 GEO:49.699101;15.797655
 URL:geo:49.699101,15.797655
