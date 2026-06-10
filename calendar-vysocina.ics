@@ -624,6 +624,18 @@ SUMMARY:🚑 otevření/asistence - Jihlava
 LOCATION:Za Prachárnou\, Jihlava
 GEO:49.397606;15.566229
 URL:geo:49.397606,15.566229
-DESCRIPTION:📍 Za Prachárnou\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+DESCRIPTION:📍 Za Prachárnou\, Jihlava\n💬 Otevření bytu.\n\n🚒 CAS (CHS Jihla
+ va)
+END:VEVENT
+BEGIN:VEVENT
+UID:412782061
+DTSTART:20260610T163046Z
+DTEND:20260610T173046Z
+DTSTAMP:20260610T163046Z
+SUMMARY:🛠️ strom - Třebíč
+LOCATION:Spojenců\, Třebíč
+GEO:49.209294;15.861316
+URL:geo:49.209294,15.861316
+DESCRIPTION:📍 Spojenců\, Borovina\, Třebíč\n\n🚒 CAS (CHS Třebíč)
 END:VEVENT
 END:VCALENDAR
