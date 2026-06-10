@@ -5,31 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:412645061
-DTSTART:20260608T164632Z
-DTEND:20260608T174632Z
-DTSTAMP:20260608T164632Z
-SUMMARY:🔥 venkovní požár - Horní Ves
-LOCATION:Horní Ves
-GEO:49.297417;15.302343
-URL:geo:49.297417,15.302343
-DESCRIPTION:📍 Horní Ves\, Pelhřimov\n💬 Požár hnojiště. Beze škody. Příčina 
- vzniku požáru součástí dalšího šetření.\n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (C
- HS Pelhřimov)\n🚒 DA (Horní Cerekev)\n🚒 CAS (Horní Cerekev)\n🚒 CAS (Počátky
- ) ×2\n🚒 DA (Horní Ves)\n🚒 vyšetřovací automobil (ÚO Pelhřimov)
-END:VEVENT
-BEGIN:VEVENT
-UID:412646061
-DTSTART:20260608T164807Z
-DTEND:20260608T174807Z
-DTSTAMP:20260608T164807Z
-SUMMARY:🛠️ strom - Zbilidy
-LOCATION:Zbilidy
-GEO:49.456298;15.418210
-URL:geo:49.456298,15.418210
-DESCRIPTION:📍 Zbilidy\, Jihlava\n💬 Odstranění stromu.\n\n🚒 CAS (Zbilidy)
-END:VEVENT
-BEGIN:VEVENT
 UID:412650061
 DTSTART:20260608T171112Z
 DTEND:20260608T181112Z
@@ -600,9 +575,9 @@ SUMMARY:🚗 dopravní nehoda - Škrdlovice
 LOCATION:Škrdlovice
 GEO:49.634629;15.921201
 URL:geo:49.634629,15.921201
-DESCRIPTION:📍 Škrdlovice\, Žďár nad Sázavou\n💬 DN 1 OA\, se zraněním jedné 
- osoby. Zajištění místo nehody. Spolupráce se složkami IZS.\n\n🚒 CAS (CHS Ž
- ďár nad Sázavou)\n🚒 CAS (Žďár nad Sázavou-Zámek)
+DESCRIPTION:📍 Škrdlovice\, Žďár nad Sázavou\n💬 DN OA se zraněním jedné osob
+ y. Zajištění místa nehody. Spolupráce se složkami IZS.\n\n🚒 CAS (CHS Žďár 
+ nad Sázavou)\n🚒 CAS (Žďár nad Sázavou-Zámek)
 END:VEVENT
 BEGIN:VEVENT
 UID:412778061
@@ -636,6 +611,19 @@ SUMMARY:🛠️ strom - Třebíč
 LOCATION:Spojenců\, Třebíč
 GEO:49.209294;15.861316
 URL:geo:49.209294,15.861316
-DESCRIPTION:📍 Spojenců\, Borovina\, Třebíč\n\n🚒 CAS (CHS Třebíč)
+DESCRIPTION:📍 Spojenců\, Borovina\, Třebíč\n💬 Odstranění stromu.\n\n🚒 CAS (
+ CHS Třebíč)
+END:VEVENT
+BEGIN:VEVENT
+UID:412783061
+DTSTART:20260610T163341Z
+DTEND:20260610T173341Z
+DTSTAMP:20260610T163341Z
+SUMMARY:🚗 dopravní nehoda - Havlíčkův Brod
+LOCATION:Dolní\, Havlíčkův Brod
+GEO:49.604324;15.579869
+URL:geo:49.604324,15.579869
+DESCRIPTION:📍 Dolní\, Havlíčkův Brod\n💬 DN 1 OA\, sražený chodec\, se zraně
+ ním jedné osoby. Zajištění místa události.\n\n🚒 CAS (CHS Havlíčkův Brod)
 END:VEVENT
 END:VCALENDAR
