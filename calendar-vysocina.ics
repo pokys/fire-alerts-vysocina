@@ -5,30 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:412636061
-DTSTART:20260608T140948Z
-DTEND:20260608T150948Z
-DTSTAMP:20260608T140948Z
-SUMMARY:☣️ olej/PHM - Humpolec
-LOCATION:Humpolec
-GEO:49.535472;15.359811
-URL:geo:49.535472,15.359811
-DESCRIPTION:📍 Humpolec\, Pelhřimov\n💬 Odstranění uniklé nafty z vozovky.\n\
- n🚒 CAS (HS Humpolec)
-END:VEVENT
-BEGIN:VEVENT
-UID:412637061
-DTSTART:20260608T141508Z
-DTEND:20260608T151508Z
-DTSTAMP:20260608T141508Z
-SUMMARY:🛠️ strom - Cerekvička-Rosice
-LOCATION:Cerekvička-Rosice
-GEO:49.330346;15.577063
-URL:geo:49.330346,15.577063
-DESCRIPTION:📍 Cerekvička\, Cerekvička-Rosice\, Jihlava\n💬 Odstranění stromu
- .\n\n🚒 CAS (CHS Jihlava)
-END:VEVENT
-BEGIN:VEVENT
 UID:412639061
 DTSTART:20260608T150733Z
 DTEND:20260608T160733Z
@@ -599,7 +575,8 @@ SUMMARY:🚗 dopravní nehoda - Telč
 LOCATION:Telč
 GEO:49.184306;15.439623
 URL:geo:49.184306,15.439623
-DESCRIPTION:📍 Telč\, Jihlava\n\n🚒 CAS (HS Telč)
+DESCRIPTION:📍 Telč\, Jihlava\n💬 DN 1 OA a motocyklu\, se zraněním jedné oso
+ by. Zajištění místa události.\n\n🚒 CAS (HS Telč)
 END:VEVENT
 BEGIN:VEVENT
 UID:412772061
@@ -622,7 +599,19 @@ SUMMARY:🛠️ otevření bytu/auta - Žďár nad Sázavou
 LOCATION:Libušínská\, Žďár nad Sázavou
 GEO:49.567817;15.938835
 URL:geo:49.567817,15.938835
-DESCRIPTION:📍 Libušínská\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n\n🚒 CAS (
- CHS Žďár nad Sázavou)
+DESCRIPTION:📍 Libušínská\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n💬 Otevřen
+ í bytu.\n\n🚒 CAS (CHS Žďár nad Sázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:412774061
+DTSTART:20260610T140849Z
+DTEND:20260610T150849Z
+DTSTAMP:20260610T140849Z
+SUMMARY:🛠️ otevření bytu/auta - Velké Meziříčí
+LOCATION:Hornoměstská\, Velké Meziříčí
+GEO:49.355141;16.006948
+URL:geo:49.355141,16.006948
+DESCRIPTION:📍 Hornoměstská\, Velké Meziříčí\, Žďár nad Sázavou\n\n🚒 RZA (HS
+  Velké Meziříčí)
 END:VEVENT
 END:VCALENDAR
