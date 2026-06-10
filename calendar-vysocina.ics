@@ -600,7 +600,8 @@ SUMMARY:🚗 dopravní nehoda - Rynárec
 LOCATION:Rynárec
 GEO:49.388058;15.247948
 URL:geo:49.388058,15.247948
-DESCRIPTION:📍 Rynárec\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)
+DESCRIPTION:📍 Rynárec\, Pelhřimov\n💬 DN 1 OA\, se zraněním jedné osoby. Spo
+ lupráce se složkami IZS. Zajištění místa nehody.\n\n🚒 CAS (CHS Pelhřimov)
 END:VEVENT
 BEGIN:VEVENT
 UID:412776061
@@ -611,7 +612,19 @@ SUMMARY:🚗 dopravní nehoda - Škrdlovice
 LOCATION:Škrdlovice
 GEO:49.634629;15.921201
 URL:geo:49.634629,15.921201
-DESCRIPTION:📍 Škrdlovice\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad Sázavou)
- \n🚒 CAS (Žďár nad Sázavou-Zámek)
+DESCRIPTION:📍 Škrdlovice\, Žďár nad Sázavou\n💬 DN 1 OA\, se zraněním jedné 
+ osoby. Zajištění místo nehody. Spolupráce se složkami IZS.\n\n🚒 CAS (CHS Ž
+ ďár nad Sázavou)\n🚒 CAS (Žďár nad Sázavou-Zámek)
+END:VEVENT
+BEGIN:VEVENT
+UID:412778061
+DTSTART:20260610T153302Z
+DTEND:20260610T163302Z
+DTSTAMP:20260610T153302Z
+SUMMARY:🚗 bez zranění - Vladislav
+LOCATION:Vladislav
+GEO:49.211646;15.998055
+URL:geo:49.211646,15.998055
+DESCRIPTION:📍 Vladislav\, Třebíč\n\n🚒 CAS (CHS Třebíč)
 END:VEVENT
 END:VCALENDAR
