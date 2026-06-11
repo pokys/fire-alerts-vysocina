@@ -682,4 +682,17 @@ URL:geo:49.613554,15.574597
 DESCRIPTION:📍 Sídliště Pražská\, Havlíčkův Brod\n💬 Otevření bytu.\n\n🚒 CAS 
  (CHS Havlíčkův Brod)
 END:VEVENT
+BEGIN:VEVENT
+UID:412830061
+DTSTART:20260611T114257Z
+DTEND:20260611T124257Z
+DTSTAMP:20260611T114257Z
+SUMMARY:🚑 transport pacienta - Štěpánov nad Svratkou
+LOCATION:Štěpánov nad Svratkou
+GEO:49.505298;16.339677
+URL:geo:49.505298,16.339677
+DESCRIPTION:📍 Štěpánov nad Svratkou\, Žďár nad Sázavou\n💬 Transport pacient
+ a na žádost ZZS.\n\n🚒 CAS (HS Bystřice nad Pernštejnem)\n🚒 DA (Štěpánov na
+ d Svratkou)\n🚒 CAS (Štěpánov nad Svratkou)
+END:VEVENT
 END:VCALENDAR
