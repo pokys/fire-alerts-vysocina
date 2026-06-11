@@ -631,7 +631,7 @@ GEO:49.505298;16.339677
 URL:geo:49.505298,16.339677
 DESCRIPTION:📍 Štěpánov nad Svratkou\, Žďár nad Sázavou\n💬 Transport pacient
  a na žádost ZZS.\n\n🚒 CAS (HS Bystřice nad Pernštejnem)\n🚒 DA (Štěpánov na
- d Svratkou)\n🚒 CAS (Štěpánov nad Svratkou)
+ d Svratkou)
 END:VEVENT
 BEGIN:VEVENT
 UID:412833061
@@ -730,5 +730,16 @@ URL:geo:49.582855,15.737423
 DESCRIPTION:📍 Dobrá\, Přibyslav\, Havlíčkův Brod\n\n🚒 CAS (HS Polná)\n🚒 VEA
   (Přibyslav-Dobrá)\n🚒 CAS (Havlíčkova Borová)\n🚒 CAS (Přibyslav)\n🚒 CAS (P
  olná)\n🚒 CAS (Šlapanov)
+END:VEVENT
+BEGIN:VEVENT
+UID:412843061
+DTSTART:20260611T144003Z
+DTEND:20260611T154003Z
+DTSTAMP:20260611T144003Z
+SUMMARY:🛠️ strom - Koroužné
+LOCATION:Koroužné
+GEO:49.531110;16.352346
+URL:geo:49.531110,16.352346
+DESCRIPTION:📍 Koroužné\, Žďár nad Sázavou\n\n🚒 DA (Koroužné)
 END:VEVENT
 END:VCALENDAR
