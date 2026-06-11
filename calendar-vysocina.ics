@@ -654,7 +654,7 @@ SUMMARY:🛠️ ostatní - Třebíč
 LOCATION:Třebíč
 GEO:49.242509;15.895236
 URL:geo:49.242509,15.895236
-DESCRIPTION:📍 Pocoucov\, Třebíč\n\n🚒 VEA (CHS Třebíč)
+DESCRIPTION:📍 Pocoucov\, Třebíč\n💬 Asistence SÚS.\n\n🚒 VEA (CHS Třebíč)
 END:VEVENT
 BEGIN:VEVENT
 UID:412813061
@@ -665,9 +665,10 @@ SUMMARY:🔥 budova - Havlíčkův Brod
 LOCATION:Žižkova\, Havlíčkův Brod
 GEO:49.605825;15.581888
 URL:geo:49.605825,15.581888
-DESCRIPTION:📍 Žižkova\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 CAS
-  (CHS Havlíčkův Brod)\n🚒 automobilový nosič kontejnerů (CHS Havlíčkův Brod
- )\n🚒 kontejner technický - chemický (CHS Havlíčkův Brod)
+DESCRIPTION:📍 Žižkova\, Havlíčkův Brod\n💬 Taktické cvičení.\n\n🚒 CAS (CHS H
+ avlíčkův Brod)\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 automobilový nosič kontejner
+ ů (CHS Havlíčkův Brod)\n🚒 kontejner technický - chemický (CHS Havlíčkův Br
+ od)
 END:VEVENT
 BEGIN:VEVENT
 UID:412815061
@@ -690,18 +691,21 @@ SUMMARY:🛠️ ostatní - Pelhřimov
 LOCATION:Pelhřimov
 GEO:49.438622;15.193098
 URL:geo:49.438622,15.193098
-DESCRIPTION:📍 Starý Pelhřimov\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (
- CHS Pelhřimov)\n🚒 VYA (CHS Pelhřimov)
+DESCRIPTION:📍 Starý Pelhřimov\, Pelhřimov\n💬 Zajištění jeřábu po technické 
+ závadě.\n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (CHS Pelhřimov)\n🚒 VYA (CHS Pelhři
+ mov)
 END:VEVENT
 BEGIN:VEVENT
 UID:412822061
 DTSTART:20260611T093048Z
 DTEND:20260611T103048Z
 DTSTAMP:20260611T093048Z
-SUMMARY:🔥 Jihlava
+SUMMARY:⚠️ planý poplach - Jihlava
 LOCATION:Jihlava
 GEO:49.442342;15.614171
 URL:geo:49.442342,15.614171
-DESCRIPTION:📍 Pávov\, Jihlava\n\n🚒 CAS (CHS Jihlava) ×2
+DESCRIPTION:📍 Pávov\, Jihlava\n💬 Požár ohlášený systémem elektrické požární
+  signalizace. Průzkumem bylo zjištěno\, že se jedná o planý poplach.\n\n🚒 
+ CAS (CHS Jihlava) ×2
 END:VEVENT
 END:VCALENDAR
