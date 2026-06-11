@@ -602,9 +602,9 @@ SUMMARY:🚗 se zraněním - Horní Heřmanice
 LOCATION:Horní Heřmanice
 GEO:49.339590;15.932388
 URL:geo:49.339590,15.932388
-DESCRIPTION:📍 Horní Heřmanice\, Třebíč\n💬 DN 1x OA bez zranění. Zajištění m
- ísta nehody proti požáru a úniku provozních kapalin.\n\n🚒 CAS (CHS Třebíč)
- \n🚒 RZA (HS Velké Meziříčí)
+DESCRIPTION:📍 Horní Heřmanice\, Třebíč\n💬 DN 1 OA bez zranění. Zajištění mí
+ sta nehody proti požáru a úniku provozních kapalin.\n\n🚒 CAS (CHS Třebíč)\
+ n🚒 RZA (HS Velké Meziříčí)
 END:VEVENT
 BEGIN:VEVENT
 UID:412790061
@@ -640,7 +640,7 @@ LOCATION:Okružní\, Jihlava
 GEO:49.405064;15.597581
 URL:geo:49.405064,15.597581
 DESCRIPTION:📍 Okružní\, Jihlava\n💬 Odstranění stromu.\n\n🚒 CAS (CHS Jihlava
- )
+ )\n🚒 pila řetězová (CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:412793061
