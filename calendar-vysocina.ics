@@ -650,10 +650,34 @@ DTSTART:20260611T063200Z
 DTEND:20260611T073200Z
 DTSTAMP:20260611T063200Z
 SUMMARY:🛠️ ostatní - Žďár nad Sázavou
-LOCATION:Luční\, Žďár nad Sázavou
-GEO:49.569734;15.944977
-URL:geo:49.569734,15.944977
-DESCRIPTION:📍 Luční\, Žďár nad Sázavou 5\, Žďár nad Sázavou\n\n🚒 CAS (CHS Ž
- ďár nad Sázavou)
+LOCATION:Hlohová\, Žďár nad Sázavou
+GEO:49.574793;15.945668
+URL:geo:49.574793,15.945668
+DESCRIPTION:📍 Hlohová\, Žďár nad Sázavou 5\, Žďár nad Sázavou\n💬 Oplach kom
+ unikace.\n\n🚒 CAS (CHS Žďár nad Sázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:412801061
+DTSTART:20260611T063535Z
+DTEND:20260611T073535Z
+DTSTAMP:20260611T063535Z
+SUMMARY:🛠️ obtížný hmyz - Telč
+LOCATION:Za Stínadly\, Telč
+GEO:49.184310;15.465941
+URL:geo:49.184310,15.465941
+DESCRIPTION:📍 Za Stínadly\, Telč-Podolí\, Telč\, Jihlava\n💬 Odstranění obtí
+ žného hmyzu.\n\n🚒 CAS (HS Telč)
+END:VEVENT
+BEGIN:VEVENT
+UID:412802061
+DTSTART:20260611T064304Z
+DTEND:20260611T074304Z
+DTSTAMP:20260611T064304Z
+SUMMARY:🔥 Bystřice nad Pernštejnem
+LOCATION:Průmyslová\, Bystřice nad Pernštejnem
+GEO:49.513812;16.241964
+URL:geo:49.513812,16.241964
+DESCRIPTION:📍 Průmyslová\, Bystřice nad Pernštejnem\, Žďár nad Sázavou\n\n🚒
+  CAS (HS Bystřice nad Pernštejnem)
 END:VEVENT
 END:VCALENDAR
