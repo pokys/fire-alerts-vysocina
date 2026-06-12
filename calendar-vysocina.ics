@@ -587,7 +587,9 @@ SUMMARY:🚗 dopravní nehoda - Kejžlice
 LOCATION:Ke Světlé\, Kejžlice
 GEO:49.591641;15.390365
 URL:geo:49.591641,15.390365
-DESCRIPTION:📍 Ke Světlé\, Kejžlice\, Pelhřimov\n\n🚒 CAS (HS Humpolec)
+DESCRIPTION:📍 Ke Světlé\, Kejžlice\, Pelhřimov\n💬 DN motocyklu\, na místě d
+ vě zraněné osoby. Likvidace úniku PHM pomocí sorbentu. Zajištění místa neh
+ ody.\n\n🚒 CAS (HS Humpolec)
 END:VEVENT
 BEGIN:VEVENT
 UID:412901061
@@ -600,5 +602,17 @@ GEO:49.693761;15.284799
 URL:geo:49.693761,15.284799
 DESCRIPTION:📍 Heroldovo nábřeží\, Ledeč nad Sázavou\, Havlíčkův Brod\n\n🚒 C
  AS (HS Ledeč nad Sázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:412902061
+DTSTART:20260612T172052Z
+DTEND:20260612T182052Z
+DTSTAMP:20260612T172052Z
+SUMMARY:🛠️ ostatní - Žďár nad Sázavou
+LOCATION:Veselská\, Žďár nad Sázavou
+GEO:49.561772;15.937683
+URL:geo:49.561772,15.937683
+DESCRIPTION:📍 Veselská\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n\n🚒 CAS (Žď
+ ár nad Sázavou-Zámek)
 END:VEVENT
 END:VCALENDAR
