@@ -5,21 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:412759061
-DTSTART:20260610T110002Z
-DTEND:20260610T120002Z
-DTSTAMP:20260610T110002Z
-SUMMARY:☣️ plyn - Světlá nad Sázavou
-LOCATION:Pěšinky\, Světlá nad Sázavou
-GEO:49.669978;15.410048
-URL:geo:49.669978,15.410048
-DESCRIPTION:📍 Pěšinky\, Světlá nad Sázavou\, Havlíčkův Brod\n💬 Taktické cvi
- čení.\n\n🚒 CAS (HS Ledeč nad Sázavou)\n🚒 CAS (HS Světlá nad Sázavou)\n🚒 CA
- S (Druhanov)\n🚒 nákladní automobil do 3500 kg (Druhanov)\n🚒 DA (Světlá nad
-  Sázavou)\n🚒 CAS (Světlá nad Sázavou)\n🚒 automobilový nosič kontejnerů (CH
- S Havlíčkův Brod)
-END:VEVENT
-BEGIN:VEVENT
 UID:412760061
 DTSTART:20260610T112350Z
 DTEND:20260610T122350Z
