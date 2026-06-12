@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:412785061
-DTSTART:20260610T170759Z
-DTEND:20260610T180759Z
-DTSTAMP:20260610T170759Z
-SUMMARY:🚑 otevření/asistence - Nové Město na Moravě
-LOCATION:Tyršova\, Nové Město na Moravě
-GEO:49.564596;16.074459
-URL:geo:49.564596,16.074459
-DESCRIPTION:📍 Tyršova\, Nové Město na Moravě\, Žďár nad Sázavou\n💬 Záchrana
-  osoby uvízlé ve výtahu. Bez zranění.\n\n🚒 CAS (CHS Žďár nad Sázavou)
-END:VEVENT
-BEGIN:VEVENT
 UID:412787061
 DTSTART:20260610T190034Z
 DTEND:20260610T200034Z
@@ -575,7 +563,8 @@ SUMMARY:🛠️ otevření bytu/auta - Třebíč
 LOCATION:Gen. Svobody\, Třebíč
 GEO:49.224549;15.883906
 URL:geo:49.224549,15.883906
-DESCRIPTION:📍 Gen. Svobody\, Nové Dvory\, Třebíč\n\n🚒 CAS (CHS Třebíč)
+DESCRIPTION:📍 Gen. Svobody\, Nové Dvory\, Třebíč\n💬 Otevření bytu na žádost
+  PČR.\n\n🚒 CAS (CHS Třebíč)
 END:VEVENT
 BEGIN:VEVENT
 UID:412898061
@@ -586,7 +575,8 @@ SUMMARY:🚑 otevření/asistence - Chotěboř
 LOCATION:Dr. Rykra\, Chotěboř
 GEO:49.714467;15.680815
 URL:geo:49.714467,15.680815
-DESCRIPTION:📍 Dr. Rykra\, Chotěboř\, Havlíčkův Brod\n\n🚒 CAS (HS Chotěboř)
+DESCRIPTION:📍 Dr. Rykra\, Chotěboř\, Havlíčkův Brod\n💬 Otevření bytu.\n\n🚒 
+ CAS (HS Chotěboř)
 END:VEVENT
 BEGIN:VEVENT
 UID:412900061
@@ -598,5 +588,17 @@ LOCATION:Ke Světlé\, Kejžlice
 GEO:49.591641;15.390365
 URL:geo:49.591641,15.390365
 DESCRIPTION:📍 Ke Světlé\, Kejžlice\, Pelhřimov\n\n🚒 CAS (HS Humpolec)
+END:VEVENT
+BEGIN:VEVENT
+UID:412901061
+DTSTART:20260612T165920Z
+DTEND:20260612T175920Z
+DTSTAMP:20260612T165920Z
+SUMMARY:🚗 bez zranění - Ledeč nad Sázavou
+LOCATION:Heroldovo nábřeží\, Ledeč nad Sázavou
+GEO:49.693761;15.284799
+URL:geo:49.693761,15.284799
+DESCRIPTION:📍 Heroldovo nábřeží\, Ledeč nad Sázavou\, Havlíčkův Brod\n\n🚒 C
+ AS (HS Ledeč nad Sázavou)
 END:VEVENT
 END:VCALENDAR
