@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:412790061
-DTSTART:20260610T200553Z
-DTEND:20260610T210553Z
-DTSTAMP:20260610T200553Z
-SUMMARY:🚑 záchrana ze stromu - Třebíč
-LOCATION:Koželužská\, Třebíč
-GEO:49.211898;15.870522
-URL:geo:49.211898,15.870522
-DESCRIPTION:📍 Koželužská\, Třebíč\n💬 Spolupráce s ZZS.\n\n🚒 CAS (CHS Třebíč
- )
-END:VEVENT
-BEGIN:VEVENT
 UID:412791061
 DTSTART:20260610T204222Z
 DTEND:20260610T214222Z
@@ -599,8 +587,9 @@ SUMMARY:☣️ olej/PHM - Havlíčkův Brod
 LOCATION:Okrouhlická\, Havlíčkův Brod
 GEO:49.618116;15.539873
 URL:geo:49.618116,15.539873
-DESCRIPTION:📍 Okrouhlická\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)\n🚒
-  automobilový nosič kontejnerů (CHS Havlíčkův Brod)\n🚒 kontejner technický
-  - chemický (CHS Havlíčkův Brod)
+DESCRIPTION:📍 Okrouhlická\, Havlíčkův Brod\n💬 Likvidace uniklého oleje z tr
+ aktoru po technické závadě. Únik z komunikace odstraněn pomocí sorbentu.\n
+ \n🚒 CAS (CHS Havlíčkův Brod)\n🚒 automobilový nosič kontejnerů (CHS Havlíčk
+ ův Brod)\n🚒 kontejner technický - chemický (CHS Havlíčkův Brod)
 END:VEVENT
 END:VCALENDAR
