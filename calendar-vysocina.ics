@@ -708,4 +708,16 @@ DESCRIPTION:📍 Horní Ves\, Pelhřimov\n💬 Požár seníku\, provedena lokal
  Cerekev)\n🚒 CAS (Horní Cerekev)\n🚒 DA (Počátky)\n🚒 CAS (Počátky)\n🚒 DA (Ho
  rní Ves)\n🚒 vyšetřovací automobil (ÚO Pelhřimov)
 END:VEVENT
+BEGIN:VEVENT
+UID:412855061
+DTSTART:20260612T025742Z
+DTEND:20260612T035742Z
+DTSTAMP:20260612T025742Z
+SUMMARY:🚗 bez zranění - Sedlec
+LOCATION:Sedlec
+GEO:49.170038;16.127957
+URL:geo:49.170038,16.127957
+DESCRIPTION:📍 Sedlec\, Třebíč\n\n🚒 CAS (HS Náměšť nad Oslavou)\n🚒 VYA (CHS 
+ Třebíč)
+END:VEVENT
 END:VCALENDAR
