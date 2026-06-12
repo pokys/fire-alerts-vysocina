@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:412776061
-DTSTART:20260610T145811Z
-DTEND:20260610T155811Z
-DTSTAMP:20260610T145811Z
-SUMMARY:🚗 dopravní nehoda - Škrdlovice
-LOCATION:Škrdlovice
-GEO:49.634629;15.921201
-URL:geo:49.634629,15.921201
-DESCRIPTION:📍 Škrdlovice\, Žďár nad Sázavou\n💬 DN OA se zraněním jedné osob
- y. Zajištění místa nehody. Spolupráce se složkami IZS.\n\n🚒 CAS (CHS Žďár 
- nad Sázavou)\n🚒 CAS (Žďár nad Sázavou-Zámek)
-END:VEVENT
-BEGIN:VEVENT
 UID:412778061
 DTSTART:20260610T153302Z
 DTEND:20260610T163302Z
@@ -549,21 +536,9 @@ SUMMARY:🚗 dopravní nehoda - Přibyslavice
 LOCATION:Petrovická\, Přibyslavice
 GEO:49.255681;15.779344
 URL:geo:49.255681,15.779344
-DESCRIPTION:📍 Petrovická\, Přibyslavice\, Třebíč\n💬 DN 1 NA s 1 zraněnou os
- obou\, předlékařská pomoc a zajištění místa nehody.\n\n🚒 CAS (CHS Třebíč) 
- ×2\n🚒 CAS (Okříšky)
-END:VEVENT
-BEGIN:VEVENT
-UID:412866061
-DTSTART:20260612T072802Z
-DTEND:20260612T082802Z
-DTSTAMP:20260612T072802Z
-SUMMARY:🚗 bez zranění - Třebíč
-LOCATION:Třebíč
-GEO:49.211440;15.892372
-URL:geo:49.211440,15.892372
-DESCRIPTION:📍 Jejkov\, Třebíč\n💬 DN 1 OA a služebního vozidla HZS bez zraně
- ní.\n\n🚒 CAS (CHS Třebíč)
+DESCRIPTION:📍 Petrovická\, Přibyslavice\, Třebíč\n💬 DN NA jedna zraněn osob
+ a\, předlékařská pomoc a zajištění místa nehody.\n\n🚒 CAS (CHS Třebíč) ×2\
+ n🚒 CAS (Okříšky)
 END:VEVENT
 BEGIN:VEVENT
 UID:412867061
@@ -613,15 +588,28 @@ URL:geo:49.320669,15.085446
 DESCRIPTION:📍 Kamenice nad Lipou\, Pelhřimov\n\n🚒 CAS (Kamenice nad Lipou)
 END:VEVENT
 BEGIN:VEVENT
+UID:412891061
+DTSTART:20260612T142755Z
+DTEND:20260612T152755Z
+DTSTAMP:20260612T142755Z
+SUMMARY:🚗 dopravní nehoda - Sejřek
+LOCATION:Sejřek
+GEO:49.448823;16.329037
+URL:geo:49.448823,16.329037
+DESCRIPTION:📍 Sejřek\, Žďár nad Sázavou\n\n🚒 CAS (HS Bystřice nad Pernštejn
+ em)
+END:VEVENT
+BEGIN:VEVENT
 UID:412893061
 DTSTART:20260612T143229Z
 DTEND:20260612T153229Z
 DTSTAMP:20260612T143229Z
 SUMMARY:🔥 vozidlo - Stařeč
 LOCATION:Červená hospoda\, Stařeč
-GEO:49.214590;15.826385
-URL:geo:49.214590,15.826385
-DESCRIPTION:📍 Červená hospoda\, Stařeč\, Třebíč\n\n🚒 CAS (CHS Třebíč)\n🚒 CA
- S (Stařeč)
+GEO:49.214625;15.826020
+URL:geo:49.214625,15.826020
+DESCRIPTION:📍 Červená hospoda\, Stařeč\, Třebíč\n\n🚒 CAS (CHS Třebíč)\n🚒 au
+ tomobilová stříkačka (Stařeč)\n🚒 CAS (Stařeč)\n🚒 vyšetřovací automobil (ÚO
+  Třebíč)
 END:VEVENT
 END:VCALENDAR
