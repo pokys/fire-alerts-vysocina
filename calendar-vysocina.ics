@@ -710,4 +710,17 @@ GEO:49.211440;15.892372
 URL:geo:49.211440,15.892372
 DESCRIPTION:📍 Jejkov\, Třebíč\n\n🚒 CAS (CHS Třebíč)
 END:VEVENT
+BEGIN:VEVENT
+UID:412867061
+DTSTART:20260612T073947Z
+DTEND:20260612T083947Z
+DTSTAMP:20260612T073947Z
+SUMMARY:🔥 budova - Ždírec nad Doubravou
+LOCATION:Chrudimská\, Ždírec nad Doubravou
+GEO:49.698048;15.815005
+URL:geo:49.698048,15.815005
+DESCRIPTION:📍 Chrudimská\, Ždírec nad Doubravou\, Havlíčkův Brod\n💬 Taktick
+ é cvičení.\n\n🚒 CAS (HS Chotěboř)\n🚒 CAS (HS Chotěboř)\n🚒 CAS (Krucemburk)
+ \n🚒 CAS (Sobíňov)\n🚒 CAS (Ždírec nad Doubravou)
+END:VEVENT
 END:VCALENDAR
