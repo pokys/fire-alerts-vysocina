@@ -525,7 +525,8 @@ LOCATION:Sejřek
 GEO:49.443759;16.326103
 URL:geo:49.443759,16.326103
 DESCRIPTION:📍 Sejřek\, Žďár nad Sázavou\n💬 DN motorky\, 1 zraněná osoba. Za
- jištění místa nehody.\n\n🚒 CAS (HS Bystřice nad Pernštejnem)
+ jištění místa nehody.\n\n🚒 CAS (HS Tišnov)\n🚒 TA (HS Tišnov)\n🚒 CAS (HS By
+ střice nad Pernštejnem)
 END:VEVENT
 BEGIN:VEVENT
 UID:412893061
@@ -600,8 +601,9 @@ SUMMARY:🚗 bez zranění - Ledeč nad Sázavou
 LOCATION:Heroldovo nábřeží\, Ledeč nad Sázavou
 GEO:49.693761;15.284799
 URL:geo:49.693761,15.284799
-DESCRIPTION:📍 Heroldovo nábřeží\, Ledeč nad Sázavou\, Havlíčkův Brod\n\n🚒 C
- AS (HS Ledeč nad Sázavou)
+DESCRIPTION:📍 Heroldovo nábřeží\, Ledeč nad Sázavou\, Havlíčkův Brod\n💬 DN 
+ 1 OA bez zranění\, s únikem provozních kapalin. Provedena PPO. Zajištění m
+ ísta události.\n\n🚒 CAS (HS Ledeč nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:412902061
@@ -610,9 +612,22 @@ DTEND:20260612T182052Z
 DTSTAMP:20260612T172052Z
 SUMMARY:🛠️ ostatní - Žďár nad Sázavou
 LOCATION:Veselská\, Žďár nad Sázavou
-GEO:49.561772;15.937683
-URL:geo:49.561772,15.937683
-DESCRIPTION:📍 Veselská\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n\n🚒 CAS (Žď
- ár nad Sázavou-Zámek)
+GEO:49.562225;15.936376
+URL:geo:49.562225,15.936376
+DESCRIPTION:📍 Veselská\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n💬 Doplnění 
+ vody.\n\n🚒 CAS (Žďár nad Sázavou-Zámek)
+END:VEVENT
+BEGIN:VEVENT
+UID:412903061
+DTSTART:20260612T175731Z
+DTEND:20260612T185731Z
+DTSTAMP:20260612T175731Z
+SUMMARY:☣️ olej/PHM - Havlíčkův Brod
+LOCATION:Okrouhlická\, Havlíčkův Brod
+GEO:49.618116;15.539873
+URL:geo:49.618116,15.539873
+DESCRIPTION:📍 Okrouhlická\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)\n🚒
+  automobilový nosič kontejnerů (CHS Havlíčkův Brod)\n🚒 kontejner technický
+  - chemický (CHS Havlíčkův Brod)
 END:VEVENT
 END:VCALENDAR
