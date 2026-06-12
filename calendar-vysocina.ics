@@ -671,7 +671,7 @@ URL:geo:49.287381,15.306169
 DESCRIPTION:📍 Horní Ves\, Pelhřimov\n💬 Požár seníku. Lokalizace a likvidace
   události.\n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (CHS Pelhřimov)\n🚒 DA (Horní Ce
  rekev)\n🚒 CAS (Horní Cerekev)\n🚒 DA (Počátky)\n🚒 CAS (Počátky)\n🚒 DA (Horn
- í Ves)\n🚒 vyšetřovací automobil (ÚO Pelhřimov)
+ í Ves)\n🚒 vyšetřovací automobil (ÚO Pelhřimov) ×2
 END:VEVENT
 BEGIN:VEVENT
 UID:412855061
@@ -696,8 +696,9 @@ SUMMARY:🚗 dopravní nehoda - Přibyslavice
 LOCATION:Petrovická\, Přibyslavice
 GEO:49.255681;15.779344
 URL:geo:49.255681,15.779344
-DESCRIPTION:📍 Petrovická\, Přibyslavice\, Třebíč\n\n🚒 CAS (CHS Třebíč) ×2\n
- 🚒 CAS (Okříšky)
+DESCRIPTION:📍 Petrovická\, Přibyslavice\, Třebíč\n💬 DN 1 NA s 1 zraněnou os
+ obou\, předlékařská pomoc a zajištění místa nehody.\n\n🚒 CAS (CHS Třebíč) 
+ ×2\n🚒 CAS (Okříšky)
 END:VEVENT
 BEGIN:VEVENT
 UID:412866061
@@ -722,5 +723,16 @@ URL:geo:49.698048,15.815005
 DESCRIPTION:📍 Chrudimská\, Ždírec nad Doubravou\, Havlíčkův Brod\n💬 Taktick
  é cvičení.\n\n🚒 CAS (HS Chotěboř)\n🚒 CAS (HS Chotěboř)\n🚒 CAS (Krucemburk)
  \n🚒 CAS (Sobíňov)\n🚒 CAS (Ždírec nad Doubravou)
+END:VEVENT
+BEGIN:VEVENT
+UID:412868061
+DTSTART:20260612T075825Z
+DTEND:20260612T085825Z
+DTSTAMP:20260612T075825Z
+SUMMARY:🛠️ ostatní - Jimramov
+LOCATION:Jimramov
+GEO:49.618801;16.259733
+URL:geo:49.618801,16.259733
+DESCRIPTION:📍 Jimramov\, Žďár nad Sázavou\n\n🚒 CAS (Jimramov)
 END:VEVENT
 END:VCALENDAR
