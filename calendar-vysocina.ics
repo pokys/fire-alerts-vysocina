@@ -363,9 +363,9 @@ SUMMARY:🚗 dopravní nehoda - Přibyslavice
 LOCATION:Petrovická\, Přibyslavice
 GEO:49.255681;15.779344
 URL:geo:49.255681,15.779344
-DESCRIPTION:📍 Petrovická\, Přibyslavice\, Třebíč\n💬 DN NA jedna zraněn osob
- a\, předlékařská pomoc a zajištění místa nehody.\n\n🚒 CAS (CHS Třebíč) ×2\
- n🚒 CAS (Okříšky)
+DESCRIPTION:📍 Petrovická\, Přibyslavice\, Třebíč\n💬 DN NA\, jedna zraněná o
+ soba\, předlékařská pomoc a zajištění místa nehody.\n\n🚒 CAS (CHS Třebíč) 
+ ×2\n🚒 CAS (Okříšky)
 END:VEVENT
 BEGIN:VEVENT
 UID:412867061
@@ -452,7 +452,7 @@ SUMMARY:🚗 dopravní nehoda - Jihlava
 LOCATION:Jihlava
 GEO:49.441662;15.563189
 URL:geo:49.441662,15.563189
-DESCRIPTION:📍 Zborná\, Jihlava\n💬 DN 2 x OA jedna zraněná osoba odvezena ZZ
+DESCRIPTION:📍 Zborná\, Jihlava\n💬 DN 2 OA\, jedna zraněná osoba odvezena ZZ
  S do nemocnice. Zajištění místa události.\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (C
  HS Jihlava)
 END:VEVENT
