@@ -5,43 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:412897061
-DTSTART:20260612T163146Z
-DTEND:20260612T173146Z
-DTSTAMP:20260612T163146Z
-SUMMARY:🛠️ otevření bytu/auta - Třebíč
-LOCATION:Gen. Svobody\, Třebíč
-GEO:49.224549;15.883906
-URL:geo:49.224549,15.883906
-DESCRIPTION:📍 Gen. Svobody\, Nové Dvory\, Třebíč\n💬 Otevření bytu na žádost
-  PČR.\n\n🚒 CAS (CHS Třebíč)
-END:VEVENT
-BEGIN:VEVENT
-UID:412898061
-DTSTART:20260612T163606Z
-DTEND:20260612T173606Z
-DTSTAMP:20260612T163606Z
-SUMMARY:🚑 otevření/asistence - Chotěboř
-LOCATION:Dr. Rykra\, Chotěboř
-GEO:49.714467;15.680815
-URL:geo:49.714467,15.680815
-DESCRIPTION:📍 Dr. Rykra\, Chotěboř\, Havlíčkův Brod\n💬 Otevření bytu.\n\n🚒 
- CAS (HS Chotěboř)
-END:VEVENT
-BEGIN:VEVENT
-UID:412900061
-DTSTART:20260612T164313Z
-DTEND:20260612T174313Z
-DTSTAMP:20260612T164313Z
-SUMMARY:🚗 dopravní nehoda - Kejžlice
-LOCATION:Ke Světlé\, Kejžlice
-GEO:49.591641;15.390365
-URL:geo:49.591641,15.390365
-DESCRIPTION:📍 Ke Světlé\, Kejžlice\, Pelhřimov\n💬 DN motocyklu\, na místě d
- vě zraněné osoby. Likvidace úniku PHM pomocí sorbentu. Zajištění místa neh
- ody.\n\n🚒 CAS (HS Humpolec)
-END:VEVENT
-BEGIN:VEVENT
 UID:412901061
 DTSTART:20260612T165920Z
 DTEND:20260612T175920Z
@@ -403,7 +366,18 @@ SUMMARY:🛠️ ostatní - Krucemburk
 LOCATION:Českobratrská\, Krucemburk
 GEO:49.688327;15.846373
 URL:geo:49.688327,15.846373
-DESCRIPTION:📍 Českobratrská\, Krucemburk\, Havlíčkův Brod\n\n🚒 CAS (Krucemb
- urk)
+DESCRIPTION:📍 Českobratrská\, Krucemburk\, Havlíčkův Brod\n💬 Pročištění kan
+ alizace\n\n🚒 CAS (Krucemburk)
+END:VEVENT
+BEGIN:VEVENT
+UID:412953061
+DTSTART:20260614T162500Z
+DTEND:20260614T172500Z
+DTSTAMP:20260614T162500Z
+SUMMARY:🛠️ ostatní - Jihlava
+LOCATION:Kollárova\, Jihlava
+GEO:49.413411;15.594317
+URL:geo:49.413411,15.594317
+DESCRIPTION:📍 Kollárova\, Jihlava\n\n🚒 CAS (CHS Jihlava)
 END:VEVENT
 END:VCALENDAR
