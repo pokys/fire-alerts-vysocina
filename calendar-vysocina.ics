@@ -5,20 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:412903061
-DTSTART:20260612T175731Z
-DTEND:20260612T185731Z
-DTSTAMP:20260612T175731Z
-SUMMARY:☣️ olej/PHM - Havlíčkův Brod
-LOCATION:Okrouhlická\, Havlíčkův Brod
-GEO:49.618116;15.539873
-URL:geo:49.618116,15.539873
-DESCRIPTION:📍 Okrouhlická\, Havlíčkův Brod\n💬 Likvidace uniklého oleje z tr
- aktoru po technické závadě. Únik z komunikace odstraněn pomocí sorbentu.\n
- \n🚒 CAS (CHS Havlíčkův Brod)\n🚒 automobilový nosič kontejnerů (CHS Havlíčk
- ův Brod)\n🚒 kontejner technický - chemický (CHS Havlíčkův Brod)
-END:VEVENT
-BEGIN:VEVENT
 UID:412904061
 DTSTART:20260612T214753Z
 DTEND:20260612T224753Z
@@ -355,5 +341,17 @@ GEO:49.413411;15.594317
 URL:geo:49.413411,15.594317
 DESCRIPTION:📍 Kollárova\, Jihlava\n\n🚒 CAS (CHS Jihlava)\n🚒 osobní automobi
  l (ÚO Jihlava)
+END:VEVENT
+BEGIN:VEVENT
+UID:412954061
+DTSTART:20260614T174542Z
+DTEND:20260614T184542Z
+DTSTAMP:20260614T174542Z
+SUMMARY:🚑 otevření/asistence - Žďár nad Sázavou
+LOCATION:U Malého lesa\, Žďár nad Sázavou
+GEO:49.558362;15.929278
+URL:geo:49.558362,15.929278
+DESCRIPTION:📍 U Malého lesa\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n\n🚒 CA
+ S (CHS Žďár nad Sázavou)
 END:VEVENT
 END:VCALENDAR
