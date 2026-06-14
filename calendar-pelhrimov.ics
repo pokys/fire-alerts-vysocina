@@ -65,4 +65,15 @@ URL:geo:49.307599,15.080099
 DESCRIPTION:📍 Pelhřimovská\, Kamenice nad Lipou\, Pelhřimov\n💬 Otevření byt
  u.\n\n🚒 CAS (HS Kamenice nad Lipou)
 END:VEVENT
+BEGIN:VEVENT
+UID:412941061
+DTSTART:20260614T072440Z
+DTEND:20260614T082440Z
+DTSTAMP:20260614T072440Z
+SUMMARY:🚑 transport pacienta - Pelhřimov
+LOCATION:Dolnokubínská\, Pelhřimov
+GEO:49.434262;15.213782
+URL:geo:49.434262,15.213782
+DESCRIPTION:📍 Dolnokubínská\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)
+END:VEVENT
 END:VCALENDAR
