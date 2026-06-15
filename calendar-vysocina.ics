@@ -378,8 +378,9 @@ LOCATION:Eš
 GEO:49.436236;15.002345
 URL:geo:49.436236,15.002345
 DESCRIPTION:📍 Eš\, Pelhřimov\n💬 Požár balíků slámy. Provedena lokalizace a 
- likvidace.\n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (HS Pacov)\n🚒 CAS (HS Pacov)\n🚒
-  CAS (Obrataň)\n🚒 vyšetřovací automobil (ÚO Pelhřimov)
+ likvidace.\n\n🚒 CAS (CHS Pelhřimov)\n🚒 čerpadlo plovoucí (CHS Pelhřimov)\n
+ 🚒 CAS (HS Pacov)\n🚒 CAS (HS Pacov)\n🚒 CAS (Obrataň)\n🚒 vyšetřovací automob
+ il (ÚO Pelhřimov)
 END:VEVENT
 BEGIN:VEVENT
 UID:412970061
@@ -397,12 +398,13 @@ UID:412974061
 DTSTART:20260615T062332Z
 DTEND:20260615T072332Z
 DTSTAMP:20260615T062332Z
-SUMMARY:🔥 budova - Žďár nad Sázavou
+SUMMARY:🛠️ ostatní - Žďár nad Sázavou
 LOCATION:Vančurova\, Žďár nad Sázavou
 GEO:49.562775;15.945144
 URL:geo:49.562775,15.945144
-DESCRIPTION:📍 Vančurova\, Žďár nad Sázavou 4\, Žďár nad Sázavou\n\n🚒 CAS (Ž
- ďár nad Sázavou-Zámek)\n🚒 CAS (Nové Město na Moravě)
+DESCRIPTION:📍 Vančurova\, Žďár nad Sázavou 4\, Žďár nad Sázavou\n💬 ZOČ - cv
+ ičný požární poplach\n\n🚒 CAS (Žďár nad Sázavou-Zámek)\n🚒 CAS (Nové Město 
+ na Moravě)
 END:VEVENT
 BEGIN:VEVENT
 UID:412976061
@@ -452,7 +454,8 @@ SUMMARY:☣️ olej/PHM - Jihlava
 LOCATION:Havířská\, Jihlava
 GEO:49.393229;15.591363
 URL:geo:49.393229,15.591363
-DESCRIPTION:📍 Havířská\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+DESCRIPTION:📍 Havířská\, Jihlava\n💬 Likvidace olejové skvrny z vozovky\n\n🚒
+  CAS (CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:412987061
@@ -465,5 +468,16 @@ GEO:49.666041;15.394608
 URL:geo:49.666041,15.394608
 DESCRIPTION:📍 Sázavská\, Světlá nad Sázavou\, Havlíčkův Brod\n\n🚒 CAS (HS S
  větlá nad Sázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:412988061
+DTSTART:20260615T093720Z
+DTEND:20260615T103720Z
+DTSTAMP:20260615T093720Z
+SUMMARY:🚗 bez zranění - Křoví
+LOCATION:Křoví
+GEO:49.307592;16.243314
+URL:geo:49.307592,16.243314
+DESCRIPTION:📍 Křoví\, Žďár nad Sázavou\n\n🚒 CAS (HS Velká Bíteš)
 END:VEVENT
 END:VCALENDAR
