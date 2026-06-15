@@ -375,7 +375,9 @@ SUMMARY:🚗 se zraněním - Jihlava
 LOCATION:Jihlava
 GEO:49.388572;15.621026
 URL:geo:49.388572,15.621026
-DESCRIPTION:📍 Kosov\, Jihlava\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihlava)
+DESCRIPTION:📍 Kosov\, Jihlava\n💬 DN 2 OA\, bez zranění\, provedena likvidac
+ e uniklých náplní a zajištění místa nehody.\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA 
+ (CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:412962061
@@ -386,8 +388,9 @@ SUMMARY:🚗 úklid místa - Velké Meziříčí
 LOCATION:Velké Meziříčí
 GEO:49.354180;16.032132
 URL:geo:49.354180,16.032132
-DESCRIPTION:📍 Velké Meziříčí\, Žďár nad Sázavou\n\n🚒 CAS (HS Velké Meziříčí
- )\n🚒 RZA (HS Velké Meziříčí)
+DESCRIPTION:📍 Velké Meziříčí\, Žďár nad Sázavou\n💬 DN 2 NA\, bez zranění\, 
+ nehoda si nevyžádala zásah HZS.\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (HS Ve
+ lké Meziříčí)
 END:VEVENT
 BEGIN:VEVENT
 UID:412966061
@@ -400,5 +403,16 @@ GEO:49.436236;15.002345
 URL:geo:49.436236,15.002345
 DESCRIPTION:📍 Eš\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (HS Pacov)\n🚒 
  CAS (HS Pacov)\n🚒 CAS (Obrataň)\n🚒 vyšetřovací automobil (ÚO Pelhřimov)
+END:VEVENT
+BEGIN:VEVENT
+UID:412970061
+DTSTART:20260615T055510Z
+DTEND:20260615T065510Z
+DTSTAMP:20260615T055510Z
+SUMMARY:🛠️ ostatní - Batelov
+LOCATION:Tkalcovská\, Batelov
+GEO:49.309598;15.392006
+URL:geo:49.309598,15.392006
+DESCRIPTION:📍 Tkalcovská\, Batelov\, Jihlava\n\n🚒 CAS (Batelov)
 END:VEVENT
 END:VCALENDAR
