@@ -377,9 +377,9 @@ SUMMARY:🔥 tráva/plocha - Eš
 LOCATION:Eš
 GEO:49.436236;15.002345
 URL:geo:49.436236,15.002345
-DESCRIPTION:📍 Eš\, Pelhřimov\n💬 Požár balíků slámy. Vzniklá škoda požárem n
- a majetku je 200 tis. Kč.\n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (HS Pacov)\n🚒 CA
- S (HS Pacov)\n🚒 CAS (Obrataň)\n🚒 vyšetřovací automobil (ÚO Pelhřimov)
+DESCRIPTION:📍 Eš\, Pelhřimov\n💬 Požár balíků slámy. Provedena lokalizace a 
+ likvidace.\n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (HS Pacov)\n🚒 CAS (HS Pacov)\n🚒
+  CAS (Obrataň)\n🚒 vyšetřovací automobil (ÚO Pelhřimov)
 END:VEVENT
 BEGIN:VEVENT
 UID:412970061
@@ -453,5 +453,17 @@ LOCATION:Havířská\, Jihlava
 GEO:49.393229;15.591363
 URL:geo:49.393229,15.591363
 DESCRIPTION:📍 Havířská\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+END:VEVENT
+BEGIN:VEVENT
+UID:412987061
+DTSTART:20260615T091417Z
+DTEND:20260615T101417Z
+DTSTAMP:20260615T091417Z
+SUMMARY:☣️ olej/PHM - Světlá nad Sázavou
+LOCATION:Sázavská\, Světlá nad Sázavou
+GEO:49.666041;15.394608
+URL:geo:49.666041,15.394608
+DESCRIPTION:📍 Sázavská\, Světlá nad Sázavou\, Havlíčkův Brod\n\n🚒 CAS (HS S
+ větlá nad Sázavou)
 END:VEVENT
 END:VCALENDAR
