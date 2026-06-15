@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:412928061
-DTSTART:20260613T174550Z
-DTEND:20260613T184550Z
-DTSTAMP:20260613T174550Z
-SUMMARY:🛠️ obtížný hmyz - Ledeč nad Sázavou
-LOCATION:Zoufalka II\, Ledeč nad Sázavou
-GEO:49.695583;15.289139
-URL:geo:49.695583,15.289139
-DESCRIPTION:📍 Zoufalka II\, Horní Ledeč\, Ledeč nad Sázavou\, Havlíčkův Bro
- d\n💬 Odstranění obtížného hmyzu.\n\n🚒 CAS (HS Ledeč nad Sázavou)
-END:VEVENT
-BEGIN:VEVENT
 UID:412929061
 DTSTART:20260613T182824Z
 DTEND:20260613T192824Z
@@ -537,11 +525,12 @@ UID:413013061
 DTSTART:20260615T170725Z
 DTEND:20260615T180725Z
 DTSTAMP:20260615T170725Z
-SUMMARY:🔥 Třebíč
+SUMMARY:⚠️ planý poplach - Třebíč
 LOCATION:Pražská\, Třebíč
 GEO:49.210377;15.857293
 URL:geo:49.210377,15.857293
-DESCRIPTION:📍 Pražská\, Borovina\, Třebíč\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (CHS
-  Třebíč)
+DESCRIPTION:📍 Pražská\, Borovina\, Třebíč\n💬 Požár ohlášený systémem elektr
+ ické požární signalizace. Průzkumem bylo zjištěno\, že se jedná o planý po
+ plach.\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (CHS Třebíč)
 END:VEVENT
 END:VCALENDAR
