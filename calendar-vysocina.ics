@@ -391,7 +391,8 @@ SUMMARY:🛠️ ostatní - Batelov
 LOCATION:Tkalcovská\, Batelov
 GEO:49.309598;15.392006
 URL:geo:49.309598,15.392006
-DESCRIPTION:📍 Tkalcovská\, Batelov\, Jihlava\n\n🚒 CAS (Batelov)
+DESCRIPTION:📍 Tkalcovská\, Batelov\, Jihlava\n💬 Proplach kanalizace v obci.
+ \n\n🚒 CAS (Batelov)
 END:VEVENT
 BEGIN:VEVENT
 UID:412974061
@@ -479,5 +480,17 @@ LOCATION:Křoví
 GEO:49.307592;16.243314
 URL:geo:49.307592,16.243314
 DESCRIPTION:📍 Křoví\, Žďár nad Sázavou\n\n🚒 CAS (HS Velká Bíteš)
+END:VEVENT
+BEGIN:VEVENT
+UID:412989061
+DTSTART:20260615T101021Z
+DTEND:20260615T111021Z
+DTSTAMP:20260615T101021Z
+SUMMARY:🔥 trafostanice - Pelhřimov
+LOCATION:U Pekárny\, Pelhřimov
+GEO:49.421555;15.224756
+URL:geo:49.421555,15.224756
+DESCRIPTION:📍 U Pekárny\, Pelhřimov\n\n🚒 vyšetřovací automobil (ÚO Pelhřimo
+ v)
 END:VEVENT
 END:VCALENDAR
