@@ -76,4 +76,15 @@ URL:geo:49.436236,15.002345
 DESCRIPTION:📍 Eš\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (HS Pacov)\n🚒 
  CAS (HS Pacov)\n🚒 CAS (Obrataň)\n🚒 vyšetřovací automobil (ÚO Pelhřimov)
 END:VEVENT
+BEGIN:VEVENT
+UID:412976061
+DTSTART:20260615T064330Z
+DTEND:20260615T074330Z
+DTSTAMP:20260615T064330Z
+SUMMARY:🚑 transport pacienta - Lukavec
+LOCATION:K Loutovci\, Lukavec
+GEO:49.567968;14.993762
+URL:geo:49.567968,14.993762
+DESCRIPTION:📍 K Loutovci\, Lukavec\, Pelhřimov\n\n🚒 CAS (Lukavec)
+END:VEVENT
 END:VCALENDAR
