@@ -468,7 +468,8 @@ SUMMARY:🚑 Jihlava
 LOCATION:U Hlavního nádraží\, Jihlava
 GEO:49.419463;15.596381
 URL:geo:49.419463,15.596381
-DESCRIPTION:📍 U Hlavního nádraží\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+DESCRIPTION:📍 U Hlavního nádraží\, Jihlava\n💬 Záchrana kachen uvízlých v ka
+ nalizační vpusti.\n\n🚒 CAS (CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:413001061
@@ -479,7 +480,9 @@ SUMMARY:🚗 se zraněním - Jihlava
 LOCATION:Jihlava
 GEO:49.390884;15.545559
 URL:geo:49.390884,15.545559
-DESCRIPTION:📍 Hosov\, Jihlava\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihlava)
+DESCRIPTION:📍 Hosov\, Jihlava\n💬 DN 2 OA\, 3 osoby zraněny\, 1 osoba z vozi
+ dla vyproštěna\, provedeno zajištění místa nehody.\n\n🚒 CAS (CHS Jihlava)\
+ n🚒 RZA (CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:413004061
@@ -502,8 +505,8 @@ SUMMARY:🚑 otevření/asistence - Chotěboř
 LOCATION:Sladovnická\, Chotěboř
 GEO:49.720554;15.669820
 URL:geo:49.720554,15.669820
-DESCRIPTION:📍 Sladovnická\, Chotěboř\, Havlíčkův Brod\n\n🚒 CAS (HS Chotěboř
- )
+DESCRIPTION:📍 Sladovnická\, Chotěboř\, Havlíčkův Brod\n💬 Otevření bytu.\n\n
+ 🚒 CAS (HS Chotěboř)
 END:VEVENT
 BEGIN:VEVENT
 UID:413007061
@@ -536,6 +539,7 @@ SUMMARY:🛠️ ostatní - Batelov
 LOCATION:Rácovská\, Batelov
 GEO:49.310914;15.392032
 URL:geo:49.310914,15.392032
-DESCRIPTION:📍 Rácovská\, Batelov\, Jihlava\n\n🚒 CAS (Batelov)
+DESCRIPTION:📍 Rácovská\, Batelov\, Jihlava\n💬 Pročištění propustku\n\n🚒 CAS
+  (Batelov)
 END:VEVENT
 END:VCALENDAR
