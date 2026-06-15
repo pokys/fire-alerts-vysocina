@@ -424,7 +424,8 @@ SUMMARY:🚑 transport pacienta - Lukavec
 LOCATION:K Loutovci\, Lukavec
 GEO:49.567968;14.993762
 URL:geo:49.567968,14.993762
-DESCRIPTION:📍 K Loutovci\, Lukavec\, Pelhřimov\n\n🚒 CAS (Lukavec)
+DESCRIPTION:📍 K Loutovci\, Lukavec\, Pelhřimov\n💬 Transport pacienta na žád
+ ost ZZS.\n\n🚒 CAS (Lukavec)
 END:VEVENT
 BEGIN:VEVENT
 UID:412977061
@@ -437,17 +438,6 @@ GEO:49.563423;15.507369
 URL:geo:49.563423,15.507369
 DESCRIPTION:📍 Květinov\, Havlíčkův Brod\n\n🚒 vyšetřovací automobil (ÚO Havl
  íčkův Brod)
-END:VEVENT
-BEGIN:VEVENT
-UID:412979061
-DTSTART:20260615T070201Z
-DTEND:20260615T080201Z
-DTSTAMP:20260615T070201Z
-SUMMARY:🛠️ ostatní - Vír
-LOCATION:Vír
-GEO:49.557384;16.323584
-URL:geo:49.557384,16.323584
-DESCRIPTION:📍 Vír\, Žďár nad Sázavou\n\n🚒 CAS (HS Bystřice nad Pernštejnem)
 END:VEVENT
 BEGIN:VEVENT
 UID:412980061
