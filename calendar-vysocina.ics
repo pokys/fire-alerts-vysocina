@@ -570,9 +570,10 @@ SUMMARY:🚗 dopravní nehoda - Moraveč
 LOCATION:Moraveč
 GEO:49.399083;15.063008
 URL:geo:49.399083,15.063008
-DESCRIPTION:📍 Moraveč\, Pelhřimov\n💬 DN motocyklu\, 1 zraněná osoba. Pomoc 
- ZZ s ošetřením zraněné osoby. Zabezpečení havarovaných vozidle proti PO a 
- proti úniku provozních kapalin.\n\n🚒 CAS (CHS Pelhřimov)
+DESCRIPTION:📍 Moraveč\, Pelhřimov\n💬 DN motocyklu a nákladního auta\, 1 zra
+ něná osoba. Pomoc ZZS s ošetřením zraněné osoby. Zabezpečení havarovaných 
+ vozidle proti PO a proti úniku provozních kapalin.\n\n🚒 CAS (CHS Pelhřimov
+ )
 END:VEVENT
 BEGIN:VEVENT
 UID:413073061
@@ -618,6 +619,7 @@ SUMMARY:🚑 transport pacienta - Třešť
 LOCATION:Váňovská\, Třešť
 GEO:49.287732;15.484403
 URL:geo:49.287732,15.484403
-DESCRIPTION:📍 Váňovská\, Třešť\, Jihlava\n\n🚒 CAS (HS Třešť)
+DESCRIPTION:📍 Váňovská\, Třešť\, Jihlava\n💬 Spolupráce se ZZS.\n\n🚒 CAS (HS
+  Třešť)
 END:VEVENT
 END:VCALENDAR
