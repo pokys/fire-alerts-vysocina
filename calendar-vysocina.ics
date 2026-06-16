@@ -458,10 +458,10 @@ SUMMARY:🔥 vozidlo - Velká Bíteš
 LOCATION:Velká Bíteš
 GEO:49.272619;16.238220
 URL:geo:49.272619,16.238220
-DESCRIPTION:📍 Janovice\, Velká Bíteš\, Žďár nad Sázavou\n💬 Likvidace požáru
-  OA pomocí vysokotlaku.\n\n🚒 RZA (HS Velké Meziříčí)\n🚒 CAS (HS Velká Bíte
- š)\n🚒 CAS (HS Rosice)\n🚒 účelový automobil do 3500 kg (KŘ HZS VYS)\n🚒 účel
- ový automobil do 3500 kg (ÚO Žďár nad Sázavou)
+DESCRIPTION:📍 Janovice\, Velká Bíteš\, Žďár nad Sázavou\n💬 Požár OA.\n\n🚒 R
+ ZA (HS Velké Meziříčí)\n🚒 CAS (HS Velká Bíteš)\n🚒 CAS (HS Rosice)\n🚒 účelo
+ vý automobil do 3500 kg (KŘ HZS VYS)\n🚒 účelový automobil do 3500 kg (ÚO Ž
+ ďár nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:413017061
@@ -472,8 +472,8 @@ SUMMARY:🔥 vozidlo - Jabloňov
 LOCATION:Jabloňov
 GEO:49.330819;16.071370
 URL:geo:49.330819,16.071370
-DESCRIPTION:📍 Jabloňov\, Žďár nad Sázavou\n💬 Likvidace požáru NA.\n\n🚒 CAS 
- (HS Velké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)\n🚒 CAS (HS Velká Bíteš)\n🚒 
- účelový automobil do 3500 kg (ÚO Žďár nad Sázavou)
+DESCRIPTION:📍 Jabloňov\, Žďár nad Sázavou\n💬 Požár NA.\n\n🚒 CAS (HS Velké M
+ eziříčí)\n🚒 RZA (HS Velké Meziříčí)\n🚒 CAS (HS Velká Bíteš)\n🚒 účelový aut
+ omobil do 3500 kg (ÚO Žďár nad Sázavou)
 END:VEVENT
 END:VCALENDAR
