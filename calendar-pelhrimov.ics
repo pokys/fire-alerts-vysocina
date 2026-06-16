@@ -100,9 +100,10 @@ SUMMARY:🔥 les - Červená Řečice
 LOCATION:Červená Řečice
 GEO:49.511831;15.152074
 URL:geo:49.511831,15.152074
-DESCRIPTION:📍 Červená Řečice\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (C
- HS Pelhřimov)\n🚒 CAS (Červená Řečice)\n🚒 DA (Želiv)\n🚒 CAS (Želiv)\n🚒 vyše
- třovací automobil (ÚO Pelhřimov)
+DESCRIPTION:📍 Červená Řečice\, Pelhřimov\n💬 Požár lesa na ploše asi 60x20 m
+ etrů. Jednotky provedly loklaizaci a likvidaci požáru.\n\n🚒 CAS (CHS Pelhř
+ imov)\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (Červená Řečice)\n🚒 DA (Želiv)\n🚒 CAS 
+ (Želiv)\n🚒 vyšetřovací automobil (ÚO Pelhřimov)
 END:VEVENT
 BEGIN:VEVENT
 UID:413072061
@@ -113,6 +114,8 @@ SUMMARY:🚗 dopravní nehoda - Moraveč
 LOCATION:Moraveč
 GEO:49.399083;15.063008
 URL:geo:49.399083,15.063008
-DESCRIPTION:📍 Moraveč\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)
+DESCRIPTION:📍 Moraveč\, Pelhřimov\n💬 DN motocyklu\, 1 zraněná osoba. Pomoc 
+ ZZ s ošetřením zraněné osoby. Zabezpečení havarovaných vozidle proti PO a 
+ proti úniku provozních kapalin.\n\n🚒 CAS (CHS Pelhřimov)
 END:VEVENT
 END:VCALENDAR

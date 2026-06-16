@@ -555,9 +555,10 @@ SUMMARY:🔥 les - Červená Řečice
 LOCATION:Červená Řečice
 GEO:49.511831;15.152074
 URL:geo:49.511831,15.152074
-DESCRIPTION:📍 Červená Řečice\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (C
- HS Pelhřimov)\n🚒 CAS (Červená Řečice)\n🚒 DA (Želiv)\n🚒 CAS (Želiv)\n🚒 vyše
- třovací automobil (ÚO Pelhřimov)
+DESCRIPTION:📍 Červená Řečice\, Pelhřimov\n💬 Požár lesa na ploše asi 60x20 m
+ etrů. Jednotky provedly loklaizaci a likvidaci požáru.\n\n🚒 CAS (CHS Pelhř
+ imov)\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (Červená Řečice)\n🚒 DA (Želiv)\n🚒 CAS 
+ (Želiv)\n🚒 vyšetřovací automobil (ÚO Pelhřimov)
 END:VEVENT
 BEGIN:VEVENT
 UID:413067061
@@ -592,7 +593,9 @@ SUMMARY:🚗 dopravní nehoda - Moraveč
 LOCATION:Moraveč
 GEO:49.399083;15.063008
 URL:geo:49.399083,15.063008
-DESCRIPTION:📍 Moraveč\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)
+DESCRIPTION:📍 Moraveč\, Pelhřimov\n💬 DN motocyklu\, 1 zraněná osoba. Pomoc 
+ ZZ s ošetřením zraněné osoby. Zabezpečení havarovaných vozidle proti PO a 
+ proti úniku provozních kapalin.\n\n🚒 CAS (CHS Pelhřimov)
 END:VEVENT
 BEGIN:VEVENT
 UID:413073061
@@ -605,5 +608,17 @@ GEO:49.464359;15.498374
 URL:geo:49.464359,15.498374
 DESCRIPTION:📍 Větrný Jeníkov\, Jihlava\n💬 Dn motorky\,  jedna zraněná osoba
  . Zajištění místa události.\n\n🚒 CAS (CHS Jihlava)
+END:VEVENT
+BEGIN:VEVENT
+UID:413074061
+DTSTART:20260616T154708Z
+DTEND:20260616T164708Z
+DTSTAMP:20260616T154708Z
+SUMMARY:🛠️ otevření bytu/auta - Velké Meziříčí
+LOCATION:Třebíčská\, Velké Meziříčí
+GEO:49.349018;16.002133
+URL:geo:49.349018,16.002133
+DESCRIPTION:📍 Třebíčská\, Velké Meziříčí\, Žďár nad Sázavou\n💬 Otevření byt
+ u.\n\n🚒 RZA (HS Velké Meziříčí)
 END:VEVENT
 END:VCALENDAR
