@@ -568,7 +568,9 @@ SUMMARY:🚗 úklid místa - Stonařov
 LOCATION:Stonařov
 GEO:49.281776;15.587793
 URL:geo:49.281776,15.587793
-DESCRIPTION:📍 Stonařov\, Jihlava\n\n🚒 CAS (HS Třešť)\n🚒 CAS (Stonařov)
+DESCRIPTION:📍 Stonařov\, Jihlava\n💬 DN 1 OA a motorky\, bez zranění. Zajišt
+ ění místa události a likvidace prozních kapalin.\n\n🚒 CAS (HS Třešť)\n🚒 CA
+ S (Stonařov)
 END:VEVENT
 BEGIN:VEVENT
 UID:413069061
@@ -601,6 +603,7 @@ SUMMARY:🚗 dopravní nehoda - Větrný Jeníkov
 LOCATION:Větrný Jeníkov
 GEO:49.464359;15.498374
 URL:geo:49.464359,15.498374
-DESCRIPTION:📍 Větrný Jeníkov\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+DESCRIPTION:📍 Větrný Jeníkov\, Jihlava\n💬 Dn motorky\,  jedna zraněná osoba
+ . Zajištění místa události.\n\n🚒 CAS (CHS Jihlava)
 END:VEVENT
 END:VCALENDAR
