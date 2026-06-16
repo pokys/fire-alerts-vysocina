@@ -185,9 +185,9 @@ SUMMARY:🚗 úklid místa - Velké Meziříčí
 LOCATION:Velké Meziříčí
 GEO:49.354180;16.032132
 URL:geo:49.354180,16.032132
-DESCRIPTION:📍 Velké Meziříčí\, Žďár nad Sázavou\n💬 DN 2 NA\, bez zranění\, 
- nehoda si nevyžádala zásah HZS.\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (HS Ve
- lké Meziříčí)
+DESCRIPTION:📍 Velké Meziříčí\, Žďár nad Sázavou\n💬 DN 2 NA\, bez zranění. Z
+ ajištění místa nehody.\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (HS Velké Meziř
+ íčí)
 END:VEVENT
 BEGIN:VEVENT
 UID:412966061
@@ -336,7 +336,7 @@ SUMMARY:🚗 dopravní nehoda - Skorkov
 LOCATION:Skorkov
 GEO:49.508832;15.464482
 URL:geo:49.508832,15.464482
-DESCRIPTION:📍 Skorkov\, Havlíčkův Brod\n💬 Dopravní nehoda OA x NA se zraněn
+DESCRIPTION:📍 Skorkov\, Havlíčkův Brod\n💬 Dopravní nehoda OA a NA se zraněn
  ím. Zajištění místa DN. Protipožární opatření.\n\n🚒 CAS (HS Humpolec)
 END:VEVENT
 BEGIN:VEVENT
