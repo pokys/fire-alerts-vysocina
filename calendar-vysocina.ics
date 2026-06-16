@@ -489,4 +489,28 @@ DESCRIPTION:📍 Horní Krupá\, Havlíčkův Brod\n💬 DN 1x OA do stromu\, 1 
  á osoba. Zajištění místa nehody proti požáru a úniku provozních kapalin.\n
  \n🚒 CAS (CHS Havlíčkův Brod)
 END:VEVENT
+BEGIN:VEVENT
+UID:413026061
+DTSTART:20260616T071359Z
+DTEND:20260616T081359Z
+DTSTAMP:20260616T071359Z
+SUMMARY:🛠️ obtížný hmyz - Bystřice nad Pernštejnem
+LOCATION:Souběžná\, Bystřice nad Pernštejnem
+GEO:49.522519;16.268962
+URL:geo:49.522519,16.268962
+DESCRIPTION:📍 Souběžná\, Bystřice nad Pernštejnem\, Žďár nad Sázavou\n💬 Ods
+ tranění obtížného hmyzu.\n\n🚒 CAS (HS Bystřice nad Pernštejnem)
+END:VEVENT
+BEGIN:VEVENT
+UID:413028061
+DTSTART:20260616T073136Z
+DTEND:20260616T083136Z
+DTSTAMP:20260616T073136Z
+SUMMARY:🔥 Pelhřimov
+LOCATION:Pelhřimov
+GEO:49.440361;15.194830
+URL:geo:49.440361,15.194830
+DESCRIPTION:📍 Starý Pelhřimov\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (
+ CHS Pelhřimov)
+END:VEVENT
 END:VCALENDAR
