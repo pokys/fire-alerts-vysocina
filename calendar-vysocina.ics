@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:412962061
-DTSTART:20260615T050145Z
-DTEND:20260615T060145Z
-DTSTAMP:20260615T050145Z
-SUMMARY:🚗 úklid místa - Velké Meziříčí
-LOCATION:Velké Meziříčí
-GEO:49.354180;16.032132
-URL:geo:49.354180,16.032132
-DESCRIPTION:📍 Velké Meziříčí\, Žďár nad Sázavou\n💬 DN 2 NA\, bez zranění. Z
- ajištění místa nehody.\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (HS Velké Meziř
- íčí)
-END:VEVENT
-BEGIN:VEVENT
 UID:412966061
 DTSTART:20260615T053126Z
 DTEND:20260615T063126Z
@@ -374,8 +361,8 @@ SUMMARY:🚗 úklid místa - Přibyslav
 LOCATION:Tržiště\, Přibyslav
 GEO:49.578773;15.734777
 URL:geo:49.578773,15.734777
-DESCRIPTION:📍 Tržiště\, Přibyslav\, Havlíčkův Brod\n💬 DN 2 OA\, jedna zraně
- ná osoba. Zajištění místa nehody.\n\n🚒 CAS (HS Polná)\n🚒 CAS (Přibyslav)
+DESCRIPTION:📍 Tržiště\, Přibyslav\, Havlíčkův Brod\n💬 DN 2 OA\, 1 zraněná o
+ soba. Zajištění místa nehody.\n\n🚒 CAS (HS Polná)\n🚒 CAS (Přibyslav)
 END:VEVENT
 BEGIN:VEVENT
 UID:413040061
@@ -522,9 +509,8 @@ LOCATION:Moraveč
 GEO:49.399083;15.063008
 URL:geo:49.399083,15.063008
 DESCRIPTION:📍 Moraveč\, Pelhřimov\n💬 DN motocyklu a nákladního auta\, 1 zra
- něná osoba. Pomoc ZZS s ošetřením zraněné osoby. Zabezpečení havarovaných 
- vozidle proti PO a proti úniku provozních kapalin.\n\n🚒 CAS (CHS Pelhřimov
- )
+ něná osoba. Zabezpečení havarovaných vozidel proti PO a proti úniku provoz
+ ních kapalin.\n\n🚒 CAS (CHS Pelhřimov)
 END:VEVENT
 BEGIN:VEVENT
 UID:413073061
@@ -535,7 +521,7 @@ SUMMARY:🚗 dopravní nehoda - Větrný Jeníkov
 LOCATION:Větrný Jeníkov
 GEO:49.464359;15.498374
 URL:geo:49.464359,15.498374
-DESCRIPTION:📍 Větrný Jeníkov\, Jihlava\n💬 Dn motorky\,  jedna zraněná osoba
+DESCRIPTION:📍 Větrný Jeníkov\, Jihlava\n💬 DN motorky\,  jedna zraněná osoba
  . Zajištění místa události.\n\n🚒 CAS (CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
@@ -619,7 +605,7 @@ LOCATION:Roštýn\, Telč
 GEO:49.193892;15.448997
 URL:geo:49.193892,15.448997
 DESCRIPTION:📍 Roštýn\, Telč-Štěpnice\, Telč\, Jihlava\n💬 DN OA poškodilo na
- dzemní hydrant\n\n🚒 CAS (HS Telč)
+ dzemní hydrant.Zajištění místa.\n\n🚒 CAS (HS Telč)
 END:VEVENT
 BEGIN:VEVENT
 UID:413087061
@@ -630,8 +616,8 @@ SUMMARY:🚑 transport pacienta - Černá
 LOCATION:Černá
 GEO:49.430057;15.866090
 URL:geo:49.430057,15.866090
-DESCRIPTION:📍 Černá\, Žďár nad Sázavou\n💬 Pomoc ZZS s transportem pacienta\
- n\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)
+DESCRIPTION:📍 Černá\, Žďár nad Sázavou\n💬 Transport pacienta na žádost ZZS.
+ \n\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)
 END:VEVENT
 BEGIN:VEVENT
 UID:413088061
