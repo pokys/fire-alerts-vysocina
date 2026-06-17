@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:412976061
-DTSTART:20260615T064330Z
-DTEND:20260615T074330Z
-DTSTAMP:20260615T064330Z
-SUMMARY:🚑 transport pacienta - Lukavec
-LOCATION:K Loutovci\, Lukavec
-GEO:49.567968;14.993762
-URL:geo:49.567968,14.993762
-DESCRIPTION:📍 K Loutovci\, Lukavec\, Pelhřimov\n💬 Transport pacienta na žád
- ost ZZS.\n\n🚒 CAS (Lukavec)
-END:VEVENT
-BEGIN:VEVENT
 UID:412977061
 DTSTART:20260615T065033Z
 DTEND:20260615T075033Z
@@ -614,6 +602,6 @@ LOCATION:Komenského nám.\, Třebíč
 GEO:49.214522;15.877167
 URL:geo:49.214522,15.877167
 DESCRIPTION:📍 Komenského nám.\, Vnitřní Město\, Třebíč\n💬 Odstranění naftov
- é skvrny z komunikace.\n\n🚒 CAS (CHS Třebíč)
+ é skvrny z komunikace.\n\n🚒 CAS (CHS Třebíč)\n🚒 VEA (CHS Třebíč)
 END:VEVENT
 END:VCALENDAR
