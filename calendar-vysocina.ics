@@ -587,8 +587,8 @@ SUMMARY:🚑 spolupráce ZZS - Uhřínov
 LOCATION:Uhřínov
 GEO:49.354200;15.974326
 URL:geo:49.354200,15.974326
-DESCRIPTION:📍 Uhřínov\, Žďár nad Sázavou\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZ
- A (HS Velké Meziříčí)
+DESCRIPTION:📍 Uhřínov\, Žďár nad Sázavou\n💬 Žádost o AED od ZZS.\n\n🚒 CAS (
+ HS Velké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)
 END:VEVENT
 BEGIN:VEVENT
 UID:413097061
@@ -599,7 +599,20 @@ SUMMARY:🛠️ otevření bytu/auta - Žďár nad Sázavou
 LOCATION:Dolní\, Žďár nad Sázavou
 GEO:49.566993;15.940014
 URL:geo:49.566993,15.940014
-DESCRIPTION:📍 Dolní\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n\n🚒 CAS (CHS Ž
- ďár nad Sázavou)
+DESCRIPTION:📍 Dolní\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n💬 Otevření byt
+ u.\n\n🚒 CAS (CHS Žďár nad Sázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:413102061
+DTSTART:20260617T072859Z
+DTEND:20260617T082859Z
+DTSTAMP:20260617T072859Z
+SUMMARY:🔥 les - Mnich
+LOCATION:Mnich
+GEO:49.316095;15.005600
+URL:geo:49.316095,15.005600
+DESCRIPTION:📍 Mirotín\, Mnich\, Pelhřimov\n\n🚒 CAS (HS Kamenice nad Lipou)\
+ n🚒 CAS (HS Kamenice nad Lipou)\n🚒 CAS (Kamenice nad Lipou)\n🚒 CAS (Mnich)\
+ n🚒 přívěs motorová stříkačka (Mnich-Mirotín)
 END:VEVENT
 END:VCALENDAR
