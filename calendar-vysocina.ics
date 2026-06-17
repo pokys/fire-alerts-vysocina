@@ -5,20 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:412966061
-DTSTART:20260615T053126Z
-DTEND:20260615T063126Z
-DTSTAMP:20260615T053126Z
-SUMMARY:🔥 tráva/plocha - Eš
-LOCATION:Eš
-GEO:49.436236;15.002345
-URL:geo:49.436236,15.002345
-DESCRIPTION:📍 Eš\, Pelhřimov\n💬 Požár balíků slámy. Provedena lokalizace a 
- likvidace.\n\n🚒 CAS (CHS Pelhřimov)\n🚒 čerpadlo plovoucí (CHS Pelhřimov)\n
- 🚒 CAS (HS Pacov)\n🚒 CAS (HS Pacov)\n🚒 CAS (Obrataň)\n🚒 vyšetřovací automob
- il (ÚO Pelhřimov)
-END:VEVENT
-BEGIN:VEVENT
 UID:412970061
 DTSTART:20260615T055510Z
 DTEND:20260615T065510Z
@@ -631,5 +617,16 @@ URL:geo:49.718404,15.791291
 DESCRIPTION:📍 Nový Studenec\, Ždírec nad Doubravou\, Havlíčkův Brod\n💬 Tran
  sport pacienta na žádost ZZS.\n\n🚒 CAS (HS Chotěboř)\n🚒 CAS (Ždírec nad Do
  ubravou)
+END:VEVENT
+BEGIN:VEVENT
+UID:413089061
+DTSTART:20260617T052013Z
+DTEND:20260617T062013Z
+DTSTAMP:20260617T052013Z
+SUMMARY:🚗 se zraněním - Jihlava
+LOCATION:Okružní\, Jihlava
+GEO:49.405571;15.593697
+URL:geo:49.405571,15.593697
+DESCRIPTION:📍 Okružní\, Jihlava\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihlava)
 END:VEVENT
 END:VCALENDAR
