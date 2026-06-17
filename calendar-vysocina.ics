@@ -634,4 +634,28 @@ URL:geo:49.193892,15.448997
 DESCRIPTION:📍 Roštýn\, Telč-Štěpnice\, Telč\, Jihlava\n💬 DN OA poškodilo na
  dzemní hydrant\n\n🚒 CAS (HS Telč)
 END:VEVENT
+BEGIN:VEVENT
+UID:413087061
+DTSTART:20260617T024312Z
+DTEND:20260617T034312Z
+DTSTAMP:20260617T024312Z
+SUMMARY:🚑 transport pacienta - Černá
+LOCATION:Černá
+GEO:49.430057;15.866090
+URL:geo:49.430057,15.866090
+DESCRIPTION:📍 Černá\, Žďár nad Sázavou\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA 
+ (HS Velké Meziříčí)
+END:VEVENT
+BEGIN:VEVENT
+UID:413088061
+DTSTART:20260617T024516Z
+DTEND:20260617T034516Z
+DTSTAMP:20260617T024516Z
+SUMMARY:🚑 transport pacienta - Ždírec nad Doubravou
+LOCATION:Ždírec nad Doubravou
+GEO:49.718404;15.791291
+URL:geo:49.718404,15.791291
+DESCRIPTION:📍 Nový Studenec\, Ždírec nad Doubravou\, Havlíčkův Brod\n\n🚒 CA
+ S (HS Chotěboř)\n🚒 CAS (Ždírec nad Doubravou)
+END:VEVENT
 END:VCALENDAR
