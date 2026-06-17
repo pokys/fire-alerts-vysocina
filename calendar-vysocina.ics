@@ -555,8 +555,7 @@ URL:geo:49.316095,15.005600
 DESCRIPTION:📍 Mirotín\, Mnich\, Pelhřimov\n💬 Požár lesní hrabanky na ploše 
  asi 3x3 metry. Byla provedene lokalizace a likvidace požáru.\n\n🚒 CAS (HS 
  Kamenice nad Lipou)\n🚒 CAS (HS Kamenice nad Lipou)\n🚒 CAS (Kamenice nad Li
- pou)\n🚒 CAS (Kamenice nad Lipou) ×2\n🚒 CAS (Mnich)\n🚒 přívěs motorová stří
- kačka (Mnich-Mirotín)
+ pou) ×2\n🚒 CAS (Mnich)\n🚒 přívěs motorová stříkačka (Mnich-Mirotín)
 END:VEVENT
 BEGIN:VEVENT
 UID:413108061
@@ -628,6 +627,7 @@ SUMMARY:🚑 otevření/asistence - Jihlava
 LOCATION:Za Prachárnou\, Jihlava
 GEO:49.396866;15.566146
 URL:geo:49.396866,15.566146
-DESCRIPTION:📍 Za Prachárnou\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+DESCRIPTION:📍 Za Prachárnou\, Jihlava\n💬 Otevření bytu.\n\n🚒 CAS (CHS Jihla
+ va)
 END:VEVENT
 END:VCALENDAR
