@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:412988061
-DTSTART:20260615T093720Z
-DTEND:20260615T103720Z
-DTSTAMP:20260615T093720Z
-SUMMARY:🚗 bez zranění - Křoví
-LOCATION:Křoví
-GEO:49.307592;16.243314
-URL:geo:49.307592,16.243314
-DESCRIPTION:📍 Křoví\, Žďár nad Sázavou\n💬 Zajištění a vyproštění OA hrozící
- ho převrácením\,\n\n🚒 CAS (HS Velká Bíteš)
-END:VEVENT
-BEGIN:VEVENT
 UID:412989061
 DTSTART:20260615T101021Z
 DTEND:20260615T111021Z
@@ -593,5 +581,17 @@ DESCRIPTION:📍 Mirotín\, Mnich\, Pelhřimov\n💬 Požár lesní hrabanky na 
  Kamenice nad Lipou)\n🚒 CAS (HS Kamenice nad Lipou)\n🚒 CAS (Kamenice nad Li
  pou)\n🚒 CAS (Kamenice nad Lipou) ×2\n🚒 CAS (Mnich)\n🚒 přívěs motorová stří
  kačka (Mnich-Mirotín)
+END:VEVENT
+BEGIN:VEVENT
+UID:413108061
+DTSTART:20260617T092212Z
+DTEND:20260617T102212Z
+DTSTAMP:20260617T092212Z
+SUMMARY:🔥 Velká Bíteš
+LOCATION:Vlkovská\, Velká Bíteš
+GEO:49.296897;16.220337
+URL:geo:49.296897,16.220337
+DESCRIPTION:📍 Vlkovská\, Velká Bíteš\, Žďár nad Sázavou\n\n🚒 CAS (HS Velká 
+ Bíteš)
 END:VEVENT
 END:VCALENDAR
