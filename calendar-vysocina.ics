@@ -586,7 +586,20 @@ SUMMARY:🚑 otevření/asistence - Velké Meziříčí
 LOCATION:Novosady\, Velké Meziříčí
 GEO:49.355847;16.014223
 URL:geo:49.355847,16.014223
-DESCRIPTION:📍 Novosady\, Velké Meziříčí\, Žďár nad Sázavou\n\n🚒 CAS (HS Vel
- ké Meziříčí)
+DESCRIPTION:📍 Novosady\, Velké Meziříčí\, Žďár nad Sázavou\n💬 Otevření bytu
+  na žádost ZZS.\n\n🚒 CAS (HS Velké Meziříčí)
+END:VEVENT
+BEGIN:VEVENT
+UID:413177061
+DTSTART:20260618T120707Z
+DTEND:20260618T130707Z
+DTSTAMP:20260618T120707Z
+SUMMARY:🔥 Velká Bíteš
+LOCATION:Tyršova\, Velká Bíteš
+GEO:49.291345;16.222600
+URL:geo:49.291345,16.222600
+DESCRIPTION:📍 Tyršova\, Velká Bíteš\, Žďár nad Sázavou\n\n🚒 CAS (HS Náměšť 
+ nad Oslavou)\n🚒 CAS (HS Náměšť nad Oslavou)\n🚒 CAS (HS Velká Bíteš)\n🚒 CAS
+  (Velká Bíteš)
 END:VEVENT
 END:VCALENDAR
