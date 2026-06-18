@@ -5,20 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Pelhřimov
 BEGIN:VEVENT
-UID:413065061
-DTSTART:20260616T135325Z
-DTEND:20260616T145325Z
-DTSTAMP:20260616T135325Z
-SUMMARY:🔥 les - Červená Řečice
-LOCATION:Červená Řečice
-GEO:49.511831;15.152074
-URL:geo:49.511831,15.152074
-DESCRIPTION:📍 Červená Řečice\, Pelhřimov\n💬 Požár lesa na ploše asi 60x20 m
- etrů. Jednotky provedly lokalizaci a likvidaci požáru.\n\n🚒 CAS (CHS Pelhř
- imov)\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (Červená Řečice)\n🚒 DA (Želiv)\n🚒 CAS 
- (Želiv)\n🚒 vyšetřovací automobil (ÚO Pelhřimov)
-END:VEVENT
-BEGIN:VEVENT
 UID:413072061
 DTSTART:20260616T145022Z
 DTEND:20260616T155022Z
