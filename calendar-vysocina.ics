@@ -354,9 +354,8 @@ SUMMARY:🚗 se zraněním - Jihlava
 LOCATION:Okružní\, Jihlava
 GEO:49.405571;15.593697
 URL:geo:49.405571,15.593697
-DESCRIPTION:📍 Okružní\, Jihlava\n💬 Dopravní nehoda 1 OA\, náraz do sloupu. 
- 1 zraněná osoba. Zajištění místa nehody.\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CH
- S Jihlava)
+DESCRIPTION:📍 Okružní\, Jihlava\n💬 DN 1 OA\, náraz do sloupu. 1 zraněná oso
+ ba. Zajištění místa nehody.\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:413093061
@@ -502,7 +501,7 @@ SUMMARY:🛠️ ostatní - Stařeč
 LOCATION:Niva\, Stařeč
 GEO:49.196243;15.829761
 URL:geo:49.196243,15.829761
-DESCRIPTION:📍 Niva\, Stařeč\, Třebíč\n💬 ZOČ\n\n🚒 CAS (Stařeč)
+DESCRIPTION:📍 Niva\, Stařeč\, Třebíč\n💬 ZOČ.\n\n🚒 CAS (Stařeč)
 END:VEVENT
 BEGIN:VEVENT
 UID:413125061
