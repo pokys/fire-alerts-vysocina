@@ -549,4 +549,28 @@ GEO:49.230719;15.376830
 URL:geo:49.230719,15.376830
 DESCRIPTION:📍 Řásná\, Jihlava\n\n🚒 CAS (HS Telč)
 END:VEVENT
+BEGIN:VEVENT
+UID:413203061
+DTSTART:20260618T191722Z
+DTEND:20260618T201722Z
+DTSTAMP:20260618T191722Z
+SUMMARY:⚠️ planý poplach - Jihlava
+LOCATION:Hradební\, Jihlava
+GEO:49.392524;15.592869
+URL:geo:49.392524,15.592869
+DESCRIPTION:📍 Hradební\, Jihlava\n💬 Požár ohlášený systémem elektrické požá
+ rní signalizace. Průzkumem bylo zjištěno\, že se jedná o planý poplach.\n\
+ n🚒 CAS (CHS Jihlava) ×2\n🚒 CAS (CHS Jihlava) ×2
+END:VEVENT
+BEGIN:VEVENT
+UID:413205061
+DTSTART:20260618T193013Z
+DTEND:20260618T203013Z
+DTSTAMP:20260618T193013Z
+SUMMARY:🛠️ otevření bytu/auta - Pacov
+LOCATION:Sídliště Míru\, Pacov
+GEO:49.465255;15.007212
+URL:geo:49.465255,15.007212
+DESCRIPTION:📍 Sídliště Míru\, Pacov\, Pelhřimov\n\n🚒 CAS (HS Pacov)
+END:VEVENT
 END:VCALENDAR
