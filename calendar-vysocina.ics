@@ -5,54 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:413115061
-DTSTART:20260617T103526Z
-DTEND:20260617T113526Z
-DTSTAMP:20260617T103526Z
-SUMMARY:☣️ olej/PHM - Třebíč
-LOCATION:Novodvorská\, Třebíč
-GEO:49.216367;15.895219
-URL:geo:49.216367,15.895219
-DESCRIPTION:📍 Novodvorská\, Nové Dvory\, Třebíč\n💬 Odstranění olejové skvrn
- y z komunikace.\n\n🚒 CAS (CHS Třebíč)
-END:VEVENT
-BEGIN:VEVENT
-UID:413116061
-DTSTART:20260617T103640Z
-DTEND:20260617T113640Z
-DTSTAMP:20260617T103640Z
-SUMMARY:🚑 transport pacienta - Trpišovice
-LOCATION:Trpišovice
-GEO:49.660599;15.335486
-URL:geo:49.660599,15.335486
-DESCRIPTION:📍 Trpišovice\, Havlíčkův Brod\n💬 Transport pacienta na žádost Z
- ZS.\n\n🚒 CAS (HS Ledeč nad Sázavou)
-END:VEVENT
-BEGIN:VEVENT
-UID:413117061
-DTSTART:20260617T104439Z
-DTEND:20260617T114439Z
-DTSTAMP:20260617T104439Z
-SUMMARY:🛠️ obtížný hmyz - Herálec
-LOCATION:Herálec
-GEO:49.530697;15.454488
-URL:geo:49.530697,15.454488
-DESCRIPTION:📍 Herálec\, Havlíčkův Brod\n💬 Odstranění obtížného hmyzu.\n\n🚒 
- CAS (HS Humpolec)\n🚒 automobilová plošina do 30 m (CHS Havlíčkův Brod)
-END:VEVENT
-BEGIN:VEVENT
-UID:413118061
-DTSTART:20260617T104530Z
-DTEND:20260617T114530Z
-DTSTAMP:20260617T104530Z
-SUMMARY:🚑 otevření/asistence - Jihlava
-LOCATION:Za Prachárnou\, Jihlava
-GEO:49.396866;15.566146
-URL:geo:49.396866,15.566146
-DESCRIPTION:📍 Za Prachárnou\, Jihlava\n💬 Otevření bytu.\n\n🚒 CAS (CHS Jihla
- va)
-END:VEVENT
-BEGIN:VEVENT
 UID:413122061
 DTSTART:20260617T130317Z
 DTEND:20260617T140317Z
@@ -614,7 +566,8 @@ SUMMARY:🛠️ strom - Hrotovice
 LOCATION:Hrotovice
 GEO:49.097000;16.071197
 URL:geo:49.097000,16.071197
-DESCRIPTION:📍 Hrotovice\, Třebíč\n\n🚒 CAS (HS Hrotovice)
+DESCRIPTION:📍 Hrotovice\, Třebíč\n💬 Odstranění stromu.\n\n🚒 CAS (HS Hrotovi
+ ce)
 END:VEVENT
 BEGIN:VEVENT
 UID:413236061
@@ -625,6 +578,44 @@ SUMMARY:🛠️ strom - Přibyslav
 LOCATION:Přibyslav
 GEO:49.581307;15.685377
 URL:geo:49.581307,15.685377
-DESCRIPTION:📍 Utín\, Přibyslav\, Havlíčkův Brod\n\n🚒 CAS (Přibyslav)
+DESCRIPTION:📍 Utín\, Přibyslav\, Havlíčkův Brod\n💬 Odstranění stromu.\n\n🚒 
+ CAS (Přibyslav)
+END:VEVENT
+BEGIN:VEVENT
+UID:413238061
+DTSTART:20260619T101318Z
+DTEND:20260619T111318Z
+DTSTAMP:20260619T101318Z
+SUMMARY:🛠️ obtížný hmyz - Havlíčkův Brod
+LOCATION:Na Hrázi\, Havlíčkův Brod
+GEO:49.616014;15.544312
+URL:geo:49.616014,15.544312
+DESCRIPTION:📍 Na Hrázi\, Havlíčkův Brod\n💬 Odstranění obtížného hmyzu.\n\n🚒
+  CAS (CHS Havlíčkův Brod)
+END:VEVENT
+BEGIN:VEVENT
+UID:413239061
+DTSTART:20260619T102102Z
+DTEND:20260619T112102Z
+DTSTAMP:20260619T102102Z
+SUMMARY:🚑 záchrana ze stromu - Světlá nad Sázavou
+LOCATION:Lánecká\, Světlá nad Sázavou
+GEO:49.668333;15.403019
+URL:geo:49.668333,15.403019
+DESCRIPTION:📍 Lánecká\, Světlá nad Sázavou\, Havlíčkův Brod\n\n🚒 CAS (HS Sv
+ ětlá nad Sázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:413240061
+DTSTART:20260619T103223Z
+DTEND:20260619T113223Z
+DTSTAMP:20260619T103223Z
+SUMMARY:🔥 technologie - Bystřice nad Pernštejnem
+LOCATION:Nádražní\, Bystřice nad Pernštejnem
+GEO:49.513673;16.252009
+URL:geo:49.513673,16.252009
+DESCRIPTION:📍 Nádražní\, Bystřice nad Pernštejnem\, Žďár nad Sázavou\n\n🚒 C
+ AS (HS Bystřice nad Pernštejnem)\n🚒 CAS (Bystřice nad Pernštejnem)\n🚒 CAS 
+ (Rožná)
 END:VEVENT
 END:VCALENDAR
