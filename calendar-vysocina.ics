@@ -627,8 +627,8 @@ SUMMARY:🚑 záchrana zvířete - Sněžné
 LOCATION:Sněžné
 GEO:49.650586;16.089974
 URL:geo:49.650586,16.089974
-DESCRIPTION:📍 Blatiny\, Sněžné\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad Sá
- zavou)\n🚒 DA (Sněžné)\n🚒 CAS (Sněžné)
+DESCRIPTION:📍 Blatiny\, Sněžné\, Žďár nad Sázavou\n💬 Transport pacienta na 
+ žádost ZZS.\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 DA (Sněžné)\n🚒 CAS (Sněžné)
 END:VEVENT
 BEGIN:VEVENT
 UID:413243061
@@ -639,6 +639,30 @@ SUMMARY:🛠️ obtížný hmyz - Osová Bítýška
 LOCATION:Osová Bítýška
 GEO:49.323046;16.174933
 URL:geo:49.323046,16.174933
-DESCRIPTION:📍 Osová Bítýška\, Žďár nad Sázavou\n\n🚒 CAS (HS Velká Bíteš)
+DESCRIPTION:📍 Osová Bítýška\, Žďár nad Sázavou\n💬 Odstranění obtížného hmyz
+ u.\n\n🚒 CAS (HS Velká Bíteš)
+END:VEVENT
+BEGIN:VEVENT
+UID:413244061
+DTSTART:20260619T111345Z
+DTEND:20260619T121345Z
+DTSTAMP:20260619T111345Z
+SUMMARY:☣️ olej/PHM - Batelov
+LOCATION:Batelov
+GEO:49.317499;15.391333
+URL:geo:49.317499,15.391333
+DESCRIPTION:📍 Batelov\, Jihlava\n\n🚒 CAS (HS Třešť)
+END:VEVENT
+BEGIN:VEVENT
+UID:413245061
+DTSTART:20260619T113143Z
+DTEND:20260619T123143Z
+DTSTAMP:20260619T113143Z
+SUMMARY:🔥 tráva/plocha - Stařeč
+LOCATION:Stařeč
+GEO:49.202259;15.839949
+URL:geo:49.202259,15.839949
+DESCRIPTION:📍 Stařeč\, Třebíč\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (CHS Třebíč)\n🚒 
+ CAS (Stařeč)
 END:VEVENT
 END:VCALENDAR
