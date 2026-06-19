@@ -5,31 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:413131061
-DTSTART:20260617T180719Z
-DTEND:20260617T190719Z
-DTSTAMP:20260617T180719Z
-SUMMARY:🚗 dopravní nehoda - Tasov
-LOCATION:Tasov
-GEO:49.287303;16.115835
-URL:geo:49.287303,16.115835
-DESCRIPTION:📍 Tasov\, Žďár nad Sázavou\n💬 DN cyklisty\, 1 zraněná osoba. Za
- jištění místa nehody.\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (HS Velké Meziří
- čí)
-END:VEVENT
-BEGIN:VEVENT
-UID:413132061
-DTSTART:20260617T181327Z
-DTEND:20260617T191327Z
-DTSTAMP:20260617T181327Z
-SUMMARY:🚑 Jihlava
-LOCATION:U Boroviny\, Jihlava
-GEO:49.421457;15.582720
-URL:geo:49.421457,15.582720
-DESCRIPTION:📍 U Boroviny\, Jihlava\n💬 Záchrana srny z výkopu.\n\n🚒 CAS (CHS
-  Jihlava)
-END:VEVENT
-BEGIN:VEVENT
 UID:413133061
 DTSTART:20260617T203251Z
 DTEND:20260617T213251Z
@@ -727,7 +702,31 @@ SUMMARY:🛠️ otevření bytu/auta - Bystřice nad Pernštejnem
 LOCATION:Višňová\, Bystřice nad Pernštejnem
 GEO:49.519246;16.261231
 URL:geo:49.519246,16.261231
-DESCRIPTION:📍 Višňová\, Bystřice nad Pernštejnem\, Žďár nad Sázavou\n\n🚒 CA
- S (HS Bystřice nad Pernštejnem)
+DESCRIPTION:📍 Višňová\, Bystřice nad Pernštejnem\, Žďár nad Sázavou\n💬 Otev
+ ření bytu.\n\n🚒 CAS (HS Bystřice nad Pernštejnem)
+END:VEVENT
+BEGIN:VEVENT
+UID:413264061
+DTSTART:20260619T175955Z
+DTEND:20260619T185955Z
+DTSTAMP:20260619T175955Z
+SUMMARY:🛠️ otevření bytu/auta - Nové Město na Moravě
+LOCATION:Masarykova\, Nové Město na Moravě
+GEO:49.564068;16.078532
+URL:geo:49.564068,16.078532
+DESCRIPTION:📍 Masarykova\, Nové Město na Moravě\, Žďár nad Sázavou\n\n🚒 CAS
+  (CHS Žďár nad Sázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:413265061
+DTSTART:20260619T180026Z
+DTEND:20260619T190026Z
+DTSTAMP:20260619T180026Z
+SUMMARY:🛠️ spolupráce IZS - Žďár nad Sázavou
+LOCATION:Horní\, Žďár nad Sázavou
+GEO:49.560933;15.941995
+URL:geo:49.560933,15.941995
+DESCRIPTION:📍 Horní\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n💬 Spolupráce s
+ e ZZS.\n\n🚒 CAS (CHS Žďár nad Sázavou)
 END:VEVENT
 END:VCALENDAR
