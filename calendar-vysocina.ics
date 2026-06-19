@@ -602,8 +602,8 @@ SUMMARY:🚑 záchrana ze stromu - Světlá nad Sázavou
 LOCATION:Lánecká\, Světlá nad Sázavou
 GEO:49.668333;15.403019
 URL:geo:49.668333,15.403019
-DESCRIPTION:📍 Lánecká\, Světlá nad Sázavou\, Havlíčkův Brod\n\n🚒 CAS (HS Sv
- ětlá nad Sázavou)
+DESCRIPTION:📍 Lánecká\, Světlá nad Sázavou\, Havlíčkův Brod\n💬 Záchrana uví
+ zlého holuba.\n\n🚒 CAS (HS Světlá nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:413240061
@@ -617,5 +617,17 @@ URL:geo:49.513673,16.252009
 DESCRIPTION:📍 Nádražní\, Bystřice nad Pernštejnem\, Žďár nad Sázavou\n\n🚒 C
  AS (HS Bystřice nad Pernštejnem)\n🚒 CAS (Bystřice nad Pernštejnem)\n🚒 CAS 
  (Rožná)
+END:VEVENT
+BEGIN:VEVENT
+UID:413241061
+DTSTART:20260619T104437Z
+DTEND:20260619T114437Z
+DTSTAMP:20260619T104437Z
+SUMMARY:🚑 záchrana zvířete - Sněžné
+LOCATION:Sněžné
+GEO:49.650586;16.089974
+URL:geo:49.650586,16.089974
+DESCRIPTION:📍 Blatiny\, Sněžné\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad Sá
+ zavou)\n🚒 CAS (Sněžné)
 END:VEVENT
 END:VCALENDAR
