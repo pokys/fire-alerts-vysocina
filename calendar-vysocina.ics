@@ -652,8 +652,8 @@ SUMMARY:🚑 spolupráce ZZS - Telč
 LOCATION:Slavatovská\, Telč
 GEO:49.187358;15.448420
 URL:geo:49.187358,15.448420
-DESCRIPTION:📍 Slavatovská\, Telč-Štěpnice\, Telč\, Jihlava\n\n🚒 CAS (HS Tel
- č)
+DESCRIPTION:📍 Slavatovská\, Telč-Štěpnice\, Telč\, Jihlava\n💬 Asistence ZZS
+ .\n\n🚒 CAS (HS Telč)
 END:VEVENT
 BEGIN:VEVENT
 UID:413287061
@@ -664,9 +664,9 @@ SUMMARY:🚗 dopravní nehoda - Herálec
 LOCATION:Herálec
 GEO:49.515140;15.419659
 URL:geo:49.515140,15.419659
-DESCRIPTION:📍 Kamenice\, Herálec\, Havlíčkův Brod\n💬 DN 1 OA\, 2 zraněné os
- by. Zajištění místa nehody\, likvidace úniku provozních kapalin.\n\n🚒 CAS 
- (HS Humpolec)
+DESCRIPTION:📍 Kamenice\, Herálec\, Havlíčkův Brod\n💬 DN OA\, dvě zraněné os
+ by. Likvidace úniku provozních kapalin. Zajištění místa události.\n\n🚒 CAS
+  (HS Humpolec)
 END:VEVENT
 BEGIN:VEVENT
 UID:413290061
@@ -690,8 +690,8 @@ LOCATION:Okrouhlice
 GEO:49.629532;15.490942
 URL:geo:49.629532,15.490942
 DESCRIPTION:📍 Okrouhlice\, Havlíčkův Brod\n💬 Únik nafty na komunikaci po te
- chnické závadě na dodávce\, odstraněno pomocí sorbentu.\n\n🚒 CAS (CHS Havl
- íčkův Brod)
+ chnické závadě na dodávce. Únik zlikvidován pomocí sorbentu.\n\n🚒 CAS (CHS
+  Havlíčkův Brod)
 END:VEVENT
 BEGIN:VEVENT
 UID:413296061
@@ -715,8 +715,7 @@ LOCATION:Nové Město na Moravě
 GEO:49.526541;16.040968
 URL:geo:49.526541,16.040968
 DESCRIPTION:📍 Hlinné\, Nové Město na Moravě\, Žďár nad Sázavou\n💬 Asistence
-  ZZS při resuscitaci osoby. Lékař ZZS konstatoval exitus.\n\n🚒 CAS (CHS Žď
- ár nad Sázavou)
+  ZZS.\n\n🚒 CAS (CHS Žďár nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:413298061
@@ -739,8 +738,9 @@ SUMMARY:🚗 dopravní nehoda - Osová Bítýška
 LOCATION:Osová Bítýška
 GEO:49.327759;16.174416
 URL:geo:49.327759,16.174416
-DESCRIPTION:📍 Osová Bítýška\, Žďár nad Sázavou\n💬 DN 2 OA s 1 zraněnou osob
- ou. Předlékařská pomoc a likvidace úniku PHM.\n\n🚒 CAS (HS Velká Bíteš)
+DESCRIPTION:📍 Osová Bítýška\, Žďár nad Sázavou\n💬 DN 2 x OA jedna zraněná o
+ soba. Předlékařská pomoc\, likvidace úniku PHM. Zajištění místa události.\
+ n\n🚒 CAS (HS Velká Bíteš)
 END:VEVENT
 BEGIN:VEVENT
 UID:413301061
@@ -751,8 +751,8 @@ SUMMARY:🚗 dopravní nehoda - Leskovice
 LOCATION:Leskovice
 GEO:49.428166;15.081335
 URL:geo:49.428166,15.081335
-DESCRIPTION:📍 Leskovice\, Pelhřimov\n💬 DN 1 OA\, náraz do stromu. Zajištění
-  místa nehody.\n\n🚒 CAS (HS Pacov)
+DESCRIPTION:📍 Leskovice\, Pelhřimov\n💬 DN OA\, náraz do stromu\, 1 zraněná 
+ osoba. Zajištění místa nehody.\n\n🚒 CAS (HS Pacov)
 END:VEVENT
 BEGIN:VEVENT
 UID:413303061
@@ -763,8 +763,8 @@ SUMMARY:🛠️ ostatní - Světlá nad Sázavou
 LOCATION:Krátká\, Světlá nad Sázavou
 GEO:49.674001;15.405215
 URL:geo:49.674001,15.405215
-DESCRIPTION:📍 Krátká\, Světlá nad Sázavou\, Havlíčkův Brod\n\n🚒 CAS (Světlá
-  nad Sázavou)
+DESCRIPTION:📍 Krátká\, Světlá nad Sázavou\, Havlíčkův Brod\n💬 Čištění kanal
+ izace.\n\n🚒 CAS (Světlá nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:413304061
@@ -773,8 +773,8 @@ DTEND:20260620T130803Z
 DTSTAMP:20260620T120803Z
 SUMMARY:🚗 se zraněním - Dešov
 LOCATION:Dešov
-DESCRIPTION:📍 Dešov\, Třebíč\n💬 DN 1 OA se 2 zraněnými osobami. Protipožárn
- í opatření.\n\n🚒 CAS (HS Jemnice)
+DESCRIPTION:📍 Dešov\, Třebíč\n💬 DN OA mimo vozovku. Dvě zraněné osoby. Zaji
+ štění místa události.\n\n🚒 CAS (HS Jemnice)
 END:VEVENT
 BEGIN:VEVENT
 UID:413305061
@@ -797,7 +797,7 @@ SUMMARY:🛠️ strom - Třešť
 LOCATION:Třešť
 GEO:49.285180;15.457168
 URL:geo:49.285180,15.457168
-DESCRIPTION:📍 Třešť\, Jihlava\n\n🚒 CAS (HS Třešť)
+DESCRIPTION:📍 Třešť\, Jihlava\n💬 Odstranění stromu.\n\n🚒 CAS (HS Třešť)
 END:VEVENT
 BEGIN:VEVENT
 UID:413308061
@@ -808,7 +808,7 @@ SUMMARY:🛠️ strom - Stonařov
 LOCATION:Stonařov
 GEO:49.273767;15.576768
 URL:geo:49.273767,15.576768
-DESCRIPTION:📍 Stonařov\, Jihlava\n\n🚒 CAS (HS Třešť)
+DESCRIPTION:📍 Stonařov\, Jihlava\n💬 Odstranění stromu.\n\n🚒 CAS (HS Třešť)
 END:VEVENT
 BEGIN:VEVENT
 UID:413311061
@@ -819,6 +819,29 @@ SUMMARY:🛠️ strom - Úsobí
 LOCATION:Úsobí
 GEO:49.513294;15.507801
 URL:geo:49.513294,15.507801
+DESCRIPTION:📍 Úsobí\, Havlíčkův Brod\n💬 Odstranění stromu.\n\n🚒 CAS (Úsobí)
+END:VEVENT
+BEGIN:VEVENT
+UID:413312061
+DTSTART:20260620T132304Z
+DTEND:20260620T142304Z
+DTSTAMP:20260620T132304Z
+SUMMARY:🛠️ strom - Úsobí
+LOCATION:Úsobí
+GEO:49.508843;15.510144
+URL:geo:49.508843,15.510144
 DESCRIPTION:📍 Úsobí\, Havlíčkův Brod\n\n🚒 CAS (Úsobí)
+END:VEVENT
+BEGIN:VEVENT
+UID:413313061
+DTSTART:20260620T132318Z
+DTEND:20260620T142318Z
+DTSTAMP:20260620T132318Z
+SUMMARY:🚗 úklid místa - Dědice
+LOCATION:Dědice
+GEO:49.029514;15.729729
+URL:geo:49.029514,15.729729
+DESCRIPTION:📍 Dědice\, Třebíč\n💬 DN 2 OA bez zranění\, likvidace úniku PK.\
+ n\n🚒 CAS (HS Moravské Budějovice)
 END:VEVENT
 END:VCALENDAR
