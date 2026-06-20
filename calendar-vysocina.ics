@@ -581,8 +581,8 @@ SUMMARY:🛠️ ostatní - Brtnice
 LOCATION:Hřbitovní\, Brtnice
 GEO:49.301476;15.676776
 URL:geo:49.301476,15.676776
-DESCRIPTION:📍 Hřbitovní\, Brtnice\, Jihlava\n\n🚒 CAS (Brtnice)\n🚒 osobní au
- tomobil (Brtnice)
+DESCRIPTION:📍 Hřbitovní\, Brtnice\, Jihlava\n💬 ZOČ.\n\n🚒 CAS (Brtnice)\n🚒 o
+ sobní automobil (Brtnice)
 END:VEVENT
 BEGIN:VEVENT
 UID:413275061
@@ -628,8 +628,8 @@ SUMMARY:🛠️ obtížný hmyz - Jihlava
 LOCATION:Pavlovova\, Jihlava
 GEO:49.400814;15.570793
 URL:geo:49.400814,15.570793
-DESCRIPTION:📍 Pavlovova\, Jihlava\n💬 Odstranění obtížného hmyzu.\n\n🚒 CAS (
- CHS Jihlava)
+DESCRIPTION:📍 Pavlovova\, Jihlava\n💬 Likvidace nebezpečného hmyzu.\n\n🚒 CAS
+  (CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:413285061
@@ -727,8 +727,8 @@ SUMMARY:🔥 vozidlo - Kožlí
 LOCATION:Kožlí
 GEO:49.693823;15.252108
 URL:geo:49.693823,15.252108
-DESCRIPTION:📍 Bohumilice\, Kožlí\, Havlíčkův Brod\n\n🚒 CAS (HS Ledeč nad Sá
- zavou)\n🚒 vyšetřovací automobil (ÚO Havlíčkův Brod)
+DESCRIPTION:📍 Bohumilice\, Kožlí\, Havlíčkův Brod\n💬 Požár OA.\n\n🚒 CAS (HS
+  Ledeč nad Sázavou)\n🚒 vyšetřovací automobil (ÚO Havlíčkův Brod)
 END:VEVENT
 BEGIN:VEVENT
 UID:413299061
@@ -809,5 +809,16 @@ LOCATION:Stonařov
 GEO:49.273767;15.576768
 URL:geo:49.273767,15.576768
 DESCRIPTION:📍 Stonařov\, Jihlava\n\n🚒 CAS (HS Třešť)
+END:VEVENT
+BEGIN:VEVENT
+UID:413311061
+DTSTART:20260620T130317Z
+DTEND:20260620T140317Z
+DTSTAMP:20260620T130317Z
+SUMMARY:🛠️ strom - Úsobí
+LOCATION:Úsobí
+GEO:49.513294;15.507801
+URL:geo:49.513294,15.507801
+DESCRIPTION:📍 Úsobí\, Havlíčkův Brod\n\n🚒 CAS (Úsobí)
 END:VEVENT
 END:VCALENDAR
