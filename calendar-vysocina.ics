@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:413187061
-DTSTART:20260618T163601Z
-DTEND:20260618T173601Z
-DTSTAMP:20260618T163601Z
-SUMMARY:🛠️ otevření bytu/auta - Žďár nad Sázavou
-LOCATION:Nová\, Žďár nad Sázavou
-GEO:49.575557;15.941799
-URL:geo:49.575557,15.941799
-DESCRIPTION:📍 Nová\, Žďár nad Sázavou 2\, Žďár nad Sázavou\n💬 Otevření bytu
- .\n\n🚒 CAS (CHS Žďár nad Sázavou)
-END:VEVENT
-BEGIN:VEVENT
 UID:413190061
 DTSTART:20260618T172348Z
 DTEND:20260618T182348Z
@@ -1034,7 +1022,7 @@ LOCATION:Rynárecká\, Pelhřimov
 GEO:49.414608;15.221855
 URL:geo:49.414608,15.221855
 DESCRIPTION:📍 Rynárecká\, Pelhřimov\n💬 Pročištění kanalizace\, zprůjezdnění
-  vozovky.\n\n🚒 CAS (CHS Pelhřimov)
+  vozovky.\n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (CHS Pelhřimov)
 END:VEVENT
 BEGIN:VEVENT
 UID:413339061
@@ -1057,7 +1045,8 @@ SUMMARY:☣️ olej/PHM - Častohostice
 LOCATION:Častohostice
 GEO:49.013125;15.817953
 URL:geo:49.013125,15.817953
-DESCRIPTION:📍 Častohostice\, Třebíč\n\n🚒 CAS (HS Moravské Budějovice)
+DESCRIPTION:📍 Častohostice\, Třebíč\n\n🚒 DA (HS Moravské Budějovice)\n🚒 CAS
+  (HS Moravské Budějovice)
 END:VEVENT
 BEGIN:VEVENT
 UID:413342061
@@ -1068,8 +1057,8 @@ SUMMARY:🛠️ čerpání vody - Horní Cerekev
 LOCATION:Kaštanová\, Horní Cerekev
 GEO:49.323875;15.320938
 URL:geo:49.323875,15.320938
-DESCRIPTION:📍 Kaštanová\, Horní Cerekev\, Pelhřimov\n\n🚒 CAS (Horní Cerekev
- )
+DESCRIPTION:📍 Kaštanová\, Horní Cerekev\, Pelhřimov\n💬 Ucpaná kanalizace.\n
+ \n🚒 CAS (Horní Cerekev)
 END:VEVENT
 BEGIN:VEVENT
 UID:413343061
@@ -1139,5 +1128,28 @@ LOCATION:Řásná
 GEO:49.221024;15.391279
 URL:geo:49.221024,15.391279
 DESCRIPTION:📍 Řásná\, Jihlava\n\n🚒 CAS (HS Telč)
+END:VEVENT
+BEGIN:VEVENT
+UID:413351061
+DTSTART:20260620T163105Z
+DTEND:20260620T173105Z
+DTSTAMP:20260620T163105Z
+SUMMARY:🛠️ čerpání vody - Horní Cerekev
+LOCATION:Kouřimského\, Horní Cerekev
+GEO:49.321506;15.329184
+URL:geo:49.321506,15.329184
+DESCRIPTION:📍 Kouřimského\, Horní Cerekev\, Pelhřimov\n\n🚒 CAS (Horní Cerek
+ ev)
+END:VEVENT
+BEGIN:VEVENT
+UID:413352061
+DTSTART:20260620T163229Z
+DTEND:20260620T173229Z
+DTSTAMP:20260620T163229Z
+SUMMARY:🛠️ strom - Krahulčí
+LOCATION:Krahulčí
+GEO:49.181774;15.414820
+URL:geo:49.181774,15.414820
+DESCRIPTION:📍 Krahulčí\, Jihlava\n\n🚒 DA (Krahulčí (JI))
 END:VEVENT
 END:VCALENDAR
