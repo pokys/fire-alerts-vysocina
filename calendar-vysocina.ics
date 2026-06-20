@@ -866,9 +866,9 @@ SUMMARY:🔥 vozidlo - Střítež pod Křemešníkem
 LOCATION:Střítež pod Křemešníkem
 GEO:49.420880;15.319585
 URL:geo:49.420880,15.319585
-DESCRIPTION:📍 Střítež pod Křemešníkem\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)\
- n🚒 CAS (CHS Pelhřimov)\n🚒 účelový automobil do 3500 kg (Střítež pod Křemeš
- níkem)
+DESCRIPTION:📍 Střítež pod Křemešníkem\, Pelhřimov\n💬 Požár sekačky\, 1 zran
+ ěná osoba. Likvidace.\n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (CHS Pelhřimov)\n🚒 ú
+ čelový automobil do 3500 kg (Střítež pod Křemešníkem)
 END:VEVENT
 BEGIN:VEVENT
 UID:413317061
@@ -902,7 +902,7 @@ SUMMARY:🛠️ strom - Pyšel
 LOCATION:Pyšel
 GEO:49.263327;16.094064
 URL:geo:49.263327,16.094064
-DESCRIPTION:📍 Vaneč\, Pyšel\, Třebíč\n\n🚒 DA (Pyšel)
+DESCRIPTION:📍 Vaneč\, Pyšel\, Třebíč\n💬 Odstranění stromu.\n\n🚒 DA (Pyšel)
 END:VEVENT
 BEGIN:VEVENT
 UID:413320061
@@ -947,7 +947,30 @@ SUMMARY:🛠️ strom - Želiv
 LOCATION:Želiv
 GEO:49.520268;15.186774
 URL:geo:49.520268,15.186774
-DESCRIPTION:📍 Želiv\, Pelhřimov\n\n🚒 CAS (HS Humpolec)
+DESCRIPTION:📍 Želiv\, Pelhřimov\n\n🚒 CAS (HS Humpolec)\n🚒 DA (Želiv)
+END:VEVENT
+BEGIN:VEVENT
+UID:413327061
+DTSTART:20260620T142436Z
+DTEND:20260620T152436Z
+DTSTAMP:20260620T142436Z
+SUMMARY:🛠️ strom - Růžená
+LOCATION:Růžená
+GEO:49.270392;15.428404
+URL:geo:49.270392,15.428404
+DESCRIPTION:📍 Růžená\, Jihlava\n\n🚒 DA (Růžená)
+END:VEVENT
+BEGIN:VEVENT
+UID:413328061
+DTSTART:20260620T143103Z
+DTEND:20260620T153103Z
+DTSTAMP:20260620T143103Z
+SUMMARY:🛠️ strom - Želiv
+LOCATION:Želiv
+GEO:49.542877;15.255036
+URL:geo:49.542877,15.255036
+DESCRIPTION:📍 Lískovice\, Želiv\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 DA (
+ Želiv)
 END:VEVENT
 BEGIN:VEVENT
 UID:413329061
@@ -958,6 +981,29 @@ SUMMARY:🛠️ strom - Dolní Heřmanice
 LOCATION:Dolní Heřmanice
 GEO:49.292176;16.061645
 URL:geo:49.292176,16.061645
-DESCRIPTION:📍 Oslava\, Dolní Heřmanice\, Žďár nad Sázavou\n\n🚒 CAS (Tasov)
+DESCRIPTION:📍 Oslava\, Dolní Heřmanice\, Žďár nad Sázavou\n💬 Odstranění str
+ omu.\n\n🚒 CAS (Tasov)
+END:VEVENT
+BEGIN:VEVENT
+UID:413330061
+DTSTART:20260620T143821Z
+DTEND:20260620T153821Z
+DTSTAMP:20260620T143821Z
+SUMMARY:🛠️ strom - Dubovice
+LOCATION:Dubovice
+GEO:49.440804;15.164467
+URL:geo:49.440804,15.164467
+DESCRIPTION:📍 Dubovice\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)
+END:VEVENT
+BEGIN:VEVENT
+UID:413331061
+DTSTART:20260620T144345Z
+DTEND:20260620T154345Z
+DTSTAMP:20260620T144345Z
+SUMMARY:🔥 trafostanice - Pelhřimov
+LOCATION:J. Kurandové\, Pelhřimov
+GEO:49.433281;15.237891
+URL:geo:49.433281,15.237891
+DESCRIPTION:📍 J. Kurandové\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)
 END:VEVENT
 END:VCALENDAR
