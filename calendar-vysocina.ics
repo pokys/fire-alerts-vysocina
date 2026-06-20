@@ -996,9 +996,10 @@ LOCATION:Horní Libochová
 GEO:49.414041;16.130634
 URL:geo:49.414041,16.130634
 DESCRIPTION:📍 Horní Hlíny\, Horní Libochová\, Žďár nad Sázavou\n💬 Požár les
- a.\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)\n🚒 CAS (Křižano
- v)\n🚒 přívěs motorová stříkačka (Horní Libochová)\n🚒 CAS (Strážek)\n🚒 účel
- ový automobil do 3500 kg (ÚO Žďár nad Sázavou)
+ a. Provedena lokalizace a likvidace požáru.\n\n🚒 CAS (HS Velké Meziříčí)\n
+ 🚒 RZA (HS Velké Meziříčí)\n🚒 CAS (Křižanov)\n🚒 přívěs motorová stříkačka (
+ Horní Libochová)\n🚒 CAS (Strážek)\n🚒 účelový automobil do 3500 kg (ÚO Žďár
+  nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:413337061
@@ -1017,7 +1018,7 @@ UID:413338061
 DTSTART:20260620T150155Z
 DTEND:20260620T160155Z
 DTSTAMP:20260620T150155Z
-SUMMARY:🛠️ strom - Pelhřimov
+SUMMARY:🛠️ ostatní - Pelhřimov
 LOCATION:Rynárecká\, Pelhřimov
 GEO:49.414608;15.221855
 URL:geo:49.414608,15.221855
@@ -1081,7 +1082,7 @@ LOCATION:Útěchovičky
 GEO:49.460582;15.099667
 URL:geo:49.460582,15.099667
 DESCRIPTION:📍 Útěchovičky\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 AŽ (CHS Pe
- lhřimov)
+ lhřimov)\n🚒 pila řetězová (CHS Pelhřimov)
 END:VEVENT
 BEGIN:VEVENT
 UID:413345061
@@ -1105,7 +1106,7 @@ SUMMARY:🛠️ čerpání vody - Rynárec
 LOCATION:Rynárec
 GEO:49.385312;15.233582
 URL:geo:49.385312,15.233582
-DESCRIPTION:📍 Rynárec\, Pelhřimov\n\n🚒 CAS (Rynárec)
+DESCRIPTION:📍 Rynárec\, Pelhřimov\n💬 Čerpání vody.\n\n🚒 CAS (Rynárec)
 END:VEVENT
 BEGIN:VEVENT
 UID:413347061
@@ -1135,12 +1136,12 @@ UID:413351061
 DTSTART:20260620T163105Z
 DTEND:20260620T173105Z
 DTSTAMP:20260620T163105Z
-SUMMARY:🛠️ čerpání vody - Horní Cerekev
+SUMMARY:🛠️ ostatní - Horní Cerekev
 LOCATION:Kouřimského\, Horní Cerekev
 GEO:49.321506;15.329184
 URL:geo:49.321506,15.329184
-DESCRIPTION:📍 Kouřimského\, Horní Cerekev\, Pelhřimov\n\n🚒 CAS (Horní Cerek
- ev)
+DESCRIPTION:📍 Kouřimského\, Horní Cerekev\, Pelhřimov\n💬 Proplach kanalizac
+ e.\n\n🚒 CAS (Horní Cerekev)
 END:VEVENT
 BEGIN:VEVENT
 UID:413352061
@@ -1163,5 +1164,27 @@ LOCATION:Jeronýmova\, Polná
 GEO:49.486229;15.717199
 URL:geo:49.486229,15.717199
 DESCRIPTION:📍 Jeronýmova\, Polná\, Jihlava\n\n🚒 CAS (HS Polná)
+END:VEVENT
+BEGIN:VEVENT
+UID:413355061
+DTSTART:20260620T171003Z
+DTEND:20260620T181003Z
+DTSTAMP:20260620T171003Z
+SUMMARY:🛠️ ostatní - Rynárec
+LOCATION:Rynárec
+GEO:49.387298;15.232822
+URL:geo:49.387298,15.232822
+DESCRIPTION:📍 Rynárec\, Pelhřimov\n\n🚒 CAS (Rynárec)
+END:VEVENT
+BEGIN:VEVENT
+UID:413356061
+DTSTART:20260620T171014Z
+DTEND:20260620T181014Z
+DTSTAMP:20260620T171014Z
+SUMMARY:🛠️ strom - Mnich
+LOCATION:Mnich
+GEO:49.297687;14.986567
+URL:geo:49.297687,14.986567
+DESCRIPTION:📍 Mnich\, Pelhřimov\n\n🚒 CAS (HS Kamenice nad Lipou)
 END:VEVENT
 END:VCALENDAR
