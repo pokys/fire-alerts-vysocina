@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:413172061
-DTSTART:20260618T114240Z
-DTEND:20260618T124240Z
-DTSTAMP:20260618T114240Z
-SUMMARY:🛠️ strom - Ujčov
-LOCATION:Ujčov
-GEO:49.479402;16.333952
-URL:geo:49.479402,16.333952
-DESCRIPTION:📍 Ujčov\, Žďár nad Sázavou\n💬 Odstranění stromu.\n\n🚒 CAS (HS B
- ystřice nad Pernštejnem)
-END:VEVENT
-BEGIN:VEVENT
 UID:413173061
 DTSTART:20260618T114700Z
 DTEND:20260618T124700Z
@@ -762,8 +750,8 @@ SUMMARY:🚑 záchrana ze stromu - Světlá nad Sázavou
 LOCATION:Lánecká\, Světlá nad Sázavou
 GEO:49.668333;15.403019
 URL:geo:49.668333,15.403019
-DESCRIPTION:📍 Lánecká\, Světlá nad Sázavou\, Havlíčkův Brod\n\n🚒 CAS (HS Sv
- ětlá nad Sázavou)
+DESCRIPTION:📍 Lánecká\, Světlá nad Sázavou\, Havlíčkův Brod\n💬 Vyproštění h
+ oluba ze zaskleného zábradlí.\n\n🚒 CAS (HS Světlá nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:413297061
@@ -774,7 +762,30 @@ SUMMARY:🚑 záchrana na vodě - Nové Město na Moravě
 LOCATION:Nové Město na Moravě
 GEO:49.526541;16.040968
 URL:geo:49.526541,16.040968
-DESCRIPTION:📍 Hlinné\, Nové Město na Moravě\, Žďár nad Sázavou\n\n🚒 CAS (CH
- S Žďár nad Sázavou)
+DESCRIPTION:📍 Hlinné\, Nové Město na Moravě\, Žďár nad Sázavou\n💬 Asistence
+  ZZS při resuscitaci osoby.\n\n🚒 CAS (CHS Žďár nad Sázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:413298061
+DTSTART:20260620T111358Z
+DTEND:20260620T121358Z
+DTSTAMP:20260620T111358Z
+SUMMARY:🔥 vozidlo - Kožlí
+LOCATION:Kožlí
+GEO:49.693823;15.252108
+URL:geo:49.693823,15.252108
+DESCRIPTION:📍 Bohumilice\, Kožlí\, Havlíčkův Brod\n\n🚒 CAS (HS Ledeč nad Sá
+ zavou)\n🚒 vyšetřovací automobil (ÚO Havlíčkův Brod)
+END:VEVENT
+BEGIN:VEVENT
+UID:413299061
+DTSTART:20260620T111840Z
+DTEND:20260620T121840Z
+DTSTAMP:20260620T111840Z
+SUMMARY:🚗 dopravní nehoda - Osová Bítýška
+LOCATION:Osová Bítýška
+GEO:49.327759;16.174416
+URL:geo:49.327759,16.174416
+DESCRIPTION:📍 Osová Bítýška\, Žďár nad Sázavou\n\n🚒 CAS (HS Velká Bíteš)
 END:VEVENT
 END:VCALENDAR
