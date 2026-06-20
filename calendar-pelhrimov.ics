@@ -251,7 +251,7 @@ SUMMARY:🛠️ ostatní - Rynárec
 LOCATION:Rynárec
 GEO:49.387298;15.232822
 URL:geo:49.387298,15.232822
-DESCRIPTION:📍 Rynárec\, Pelhřimov\n\n🚒 CAS (Rynárec)
+DESCRIPTION:📍 Rynárec\, Pelhřimov\n💬 Oplach komunikace.\n\n🚒 CAS (Rynárec)
 END:VEVENT
 BEGIN:VEVENT
 UID:413356061
@@ -262,6 +262,19 @@ SUMMARY:🛠️ strom - Mnich
 LOCATION:Mnich
 GEO:49.297687;14.986567
 URL:geo:49.297687,14.986567
-DESCRIPTION:📍 Mnich\, Pelhřimov\n\n🚒 CAS (HS Kamenice nad Lipou)
+DESCRIPTION:📍 Mnich\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 CAS (HS Kamenice
+  nad Lipou)
+END:VEVENT
+BEGIN:VEVENT
+UID:413359061
+DTSTART:20260620T175753Z
+DTEND:20260620T185753Z
+DTSTAMP:20260620T175753Z
+SUMMARY:🛠️ ostatní - Božejov
+LOCATION:Božejov
+GEO:49.361462;15.158960
+URL:geo:49.361462,15.158960
+DESCRIPTION:📍 Božejov\, Pelhřimov\n💬 Proplach kanalizace.\n\n🚒 CAS (Božejov
+ )
 END:VEVENT
 END:VCALENDAR
