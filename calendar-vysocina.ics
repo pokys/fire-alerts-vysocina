@@ -751,7 +751,8 @@ SUMMARY:🚗 dopravní nehoda - Leskovice
 LOCATION:Leskovice
 GEO:49.428166;15.081335
 URL:geo:49.428166,15.081335
-DESCRIPTION:📍 Leskovice\, Pelhřimov\n\n🚒 CAS (HS Pacov)
+DESCRIPTION:📍 Leskovice\, Pelhřimov\n💬 DN 1 OA\, náraz do stromu. Zajištění
+  místa nehody.\n\n🚒 CAS (HS Pacov)
 END:VEVENT
 BEGIN:VEVENT
 UID:413303061
@@ -772,7 +773,8 @@ DTEND:20260620T130803Z
 DTSTAMP:20260620T120803Z
 SUMMARY:🚗 se zraněním - Dešov
 LOCATION:Dešov
-DESCRIPTION:📍 Dešov\, Třebíč\n\n🚒 CAS (HS Jemnice)
+DESCRIPTION:📍 Dešov\, Třebíč\n💬 DN 1 OA se 2 zraněnými osobami. Protipožárn
+ í opatření.\n\n🚒 CAS (HS Jemnice)
 END:VEVENT
 BEGIN:VEVENT
 UID:413305061
@@ -783,7 +785,29 @@ SUMMARY:🛠️ čerpání vody - Nová Ves u Světlé
 LOCATION:Nová Ves u Světlé
 GEO:49.648350;15.435703
 URL:geo:49.648350,15.435703
-DESCRIPTION:📍 Nová Ves u Světlé\, Havlíčkův Brod\n\n🚒 CAS (HS Světlá nad Sá
- zavou)
+DESCRIPTION:📍 Nová Ves u Světlé\, Havlíčkův Brod\n💬 Čerpání vody.\n\n🚒 CAS 
+ (HS Světlá nad Sázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:413307061
+DTSTART:20260620T123336Z
+DTEND:20260620T133336Z
+DTSTAMP:20260620T123336Z
+SUMMARY:🛠️ strom - Třešť
+LOCATION:Třešť
+GEO:49.285180;15.457168
+URL:geo:49.285180,15.457168
+DESCRIPTION:📍 Třešť\, Jihlava\n\n🚒 CAS (HS Třešť)
+END:VEVENT
+BEGIN:VEVENT
+UID:413308061
+DTSTART:20260620T124659Z
+DTEND:20260620T134659Z
+DTSTAMP:20260620T124659Z
+SUMMARY:🛠️ strom - Stonařov
+LOCATION:Stonařov
+GEO:49.273767;15.576768
+URL:geo:49.273767,15.576768
+DESCRIPTION:📍 Stonařov\, Jihlava\n\n🚒 CAS (HS Třešť)
 END:VEVENT
 END:VCALENDAR
