@@ -1034,4 +1034,16 @@ DESCRIPTION:📍 Martínkov\, Třebíč\n💬 DN 2 OA s 1 zraněnou osobou s ún
  ovozních kapalin. Likvidace úniku PHM a řízení dopravy.\n\n🚒 CAS (HS Morav
  ské Budějovice)\n🚒 CAS (Želetava)
 END:VEVENT
+BEGIN:VEVENT
+UID:413388061
+DTSTART:20260621T131827Z
+DTEND:20260621T141827Z
+DTSTAMP:20260621T131827Z
+SUMMARY:🚑 záchrana ze stromu - Světlá nad Sázavou
+LOCATION:U Rybníčků\, Světlá nad Sázavou
+GEO:49.669514;15.399010
+URL:geo:49.669514,15.399010
+DESCRIPTION:📍 U Rybníčků\, Světlá nad Sázavou\, Havlíčkův Brod\n\n🚒 CAS (HS
+  Světlá nad Sázavou)\n🚒 AŽ (HS Ledeč nad Sázavou)
+END:VEVENT
 END:VCALENDAR
