@@ -409,7 +409,7 @@ LOCATION:Tasov
 GEO:49.286879;16.070744
 URL:geo:49.286879,16.070744
 DESCRIPTION:📍 Tasov\, Žďár nad Sázavou\n💬 Odstranění stromu.\n\n🚒 CAS (Taso
- v)
+ v)\n🚒 pila řetězová (Tasov)
 END:VEVENT
 BEGIN:VEVENT
 UID:413316061
@@ -480,7 +480,7 @@ LOCATION:Tasov
 GEO:49.287335;16.074151
 URL:geo:49.287335,16.074151
 DESCRIPTION:📍 Tasov\, Žďár nad Sázavou\n💬 Odstranění stromu.\n\n🚒 CAS (Taso
- v)
+ v)\n🚒 pila řetězová (Tasov)
 END:VEVENT
 BEGIN:VEVENT
 UID:413323061
@@ -971,7 +971,8 @@ LOCATION:Nesměř-Samota\, Velké Meziříčí
 GEO:49.316333;16.016378
 URL:geo:49.316333,16.016378
 DESCRIPTION:📍 Nesměř-Samota\, Velké Meziříčí\, Žďár nad Sázavou\n💬 Odstraně
- ní stromu.\n\n🚒 CAS (HS Velké Meziříčí)
+ ní stromu.\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 pila řetězová (HS Velké Meziříč
+ í)
 END:VEVENT
 BEGIN:VEVENT
 UID:413380061
@@ -1045,5 +1046,28 @@ GEO:49.669514;15.399010
 URL:geo:49.669514,15.399010
 DESCRIPTION:📍 U Rybníčků\, Světlá nad Sázavou\, Havlíčkův Brod\n\n🚒 CAS (HS
   Světlá nad Sázavou)\n🚒 AŽ (HS Ledeč nad Sázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:413389061
+DTSTART:20260621T134441Z
+DTEND:20260621T144441Z
+DTSTAMP:20260621T134441Z
+SUMMARY:🛠️ strom - Vanov
+LOCATION:Vanov
+GEO:49.212234;15.413419
+URL:geo:49.212234,15.413419
+DESCRIPTION:📍 Vanov\, Jihlava\n\n🚒 CAS (HS Telč)\n🚒 AŽ (HS Telč)
+END:VEVENT
+BEGIN:VEVENT
+UID:413391061
+DTSTART:20260621T135026Z
+DTEND:20260621T145026Z
+DTSTAMP:20260621T135026Z
+SUMMARY:🔥 vozidlo - Golčův Jeníkov
+LOCATION:Jiráskova\, Golčův Jeníkov
+GEO:49.811863;15.471707
+URL:geo:49.811863,15.471707
+DESCRIPTION:📍 Jiráskova\, Golčův Jeníkov\, Havlíčkův Brod\n\n🚒 CAS (HS Lede
+ č nad Sázavou)\n🚒 CAS (Golčův Jeníkov)
 END:VEVENT
 END:VCALENDAR
