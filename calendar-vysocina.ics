@@ -1131,7 +1131,7 @@ SUMMARY:🛠️ otevření bytu/auta - Dobroutov
 LOCATION:Dobroutov
 GEO:49.462963;15.733088
 URL:geo:49.462963,15.733088
-DESCRIPTION:📍 Dobroutov\, Jihlava\n\n🚒 CAS (HS Polná)
+DESCRIPTION:📍 Dobroutov\, Jihlava\n💬 Otevření bytu.\n\n🚒 CAS (HS Polná)
 END:VEVENT
 BEGIN:VEVENT
 UID:413378061
@@ -1142,7 +1142,18 @@ SUMMARY:🛠️ strom - Velké Meziříčí
 LOCATION:Nesměř-Samota\, Velké Meziříčí
 GEO:49.316333;16.016378
 URL:geo:49.316333,16.016378
-DESCRIPTION:📍 Nesměř-Samota\, Velké Meziříčí\, Žďár nad Sázavou\n\n🚒 CAS (H
- S Velké Meziříčí)
+DESCRIPTION:📍 Nesměř-Samota\, Velké Meziříčí\, Žďár nad Sázavou\n💬 Odstraně
+ ní stromu.\n\n🚒 CAS (HS Velké Meziříčí)
+END:VEVENT
+BEGIN:VEVENT
+UID:413380061
+DTSTART:20260621T091130Z
+DTEND:20260621T101130Z
+DTSTAMP:20260621T091130Z
+SUMMARY:🛠️ ostatní - Krahulčí
+LOCATION:Krahulčí
+GEO:49.180629;15.409328
+URL:geo:49.180629,15.409328
+DESCRIPTION:📍 Krahulčí\, Jihlava\n\n🚒 CAS (HS Telč)
 END:VEVENT
 END:VCALENDAR
