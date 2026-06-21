@@ -876,7 +876,8 @@ SUMMARY:🚑 otevření/asistence - Jihlava
 LOCATION:Chlumova\, Jihlava
 GEO:49.402273;15.586844
 URL:geo:49.402273,15.586844
-DESCRIPTION:📍 Chlumova\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+DESCRIPTION:📍 Chlumova\, Jihlava\n💬 Odchyt ptáka v RD.\n\n🚒 CAS (CHS Jihlav
+ a)
 END:VEVENT
 BEGIN:VEVENT
 UID:413368061
@@ -888,7 +889,7 @@ LOCATION:5. května\, Ledeč nad Sázavou
 GEO:49.699529;15.277531
 URL:geo:49.699529,15.277531
 DESCRIPTION:📍 5. května\, Ledeč nad Sázavou\, Havlíčkův Brod\n💬 Otevření by
- tu\, zraněná osoba uvnitř.\n\n🚒 CAS (HS Ledeč nad Sázavou)
+ tu.\n\n🚒 CAS (HS Ledeč nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:413372061
@@ -911,8 +912,8 @@ SUMMARY:🛠️ obtížný hmyz - Krucemburk
 LOCATION:Větrná\, Krucemburk
 GEO:49.684267;15.853058
 URL:geo:49.684267,15.853058
-DESCRIPTION:📍 Větrná\, Krucemburk\, Havlíčkův Brod\n💬 Likvidace vosího hníz
- da.\n\n🚒 CAS (Krucemburk)
+DESCRIPTION:📍 Větrná\, Krucemburk\, Havlíčkův Brod\n💬 Likvidace nebezpečnéh
+ o hmyzu.\n\n🚒 CAS (Krucemburk)
 END:VEVENT
 BEGIN:VEVENT
 UID:413374061
@@ -936,7 +937,8 @@ SUMMARY:🛠️ ostatní - Božejov
 LOCATION:Božejov
 GEO:49.361462;15.158960
 URL:geo:49.361462,15.158960
-DESCRIPTION:📍 Božejov\, Pelhřimov\n\n🚒 CAS (Božejov)
+DESCRIPTION:📍 Božejov\, Pelhřimov\n💬 Pročištění kanalizace.\n\n🚒 CAS (Božej
+ ov)
 END:VEVENT
 BEGIN:VEVENT
 UID:413377061
@@ -971,7 +973,8 @@ SUMMARY:🛠️ ostatní - Krahulčí
 LOCATION:Krahulčí
 GEO:49.180629;15.409328
 URL:geo:49.180629,15.409328
-DESCRIPTION:📍 Krahulčí\, Jihlava\n\n🚒 CAS (HS Telč)
+DESCRIPTION:📍 Krahulčí\, Jihlava\n💬 Likvidace úniku oleje z OA po  technick
+ é závadě. Únik zlikvidován pomocí sorbentu.\n\n🚒 CAS (HS Telč)
 END:VEVENT
 BEGIN:VEVENT
 UID:413381061
@@ -982,9 +985,9 @@ SUMMARY:🚗 dopravní nehoda - Březník
 LOCATION:Březník
 GEO:49.174596;16.187281
 URL:geo:49.174596,16.187281
-DESCRIPTION:📍 Březník\, Třebíč\n💬 DN 2 OA se 3 zraněnými osobami. Protipožá
- rní opatření a likvidace úniku provozních kapalin.\n\n🚒 CAS (HS Náměšť nad
-  Oslavou)
+DESCRIPTION:📍 Březník\, Třebíč\n💬 DN 2 x OA\, tři zraněné osoby. Likvidace 
+ úniku provozních kapalin. Zajištění místa události.\n\n🚒 CAS (HS Náměšť na
+ d Oslavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:413383061
@@ -1007,8 +1010,8 @@ SUMMARY:🚗 dopravní nehoda - Vladislav
 LOCATION:Vladislav
 GEO:49.213467;15.957890
 URL:geo:49.213467,15.957890
-DESCRIPTION:📍 Vladislav\, Třebíč\n💬 DN 1 OA a cyklisty\, 1 zraněná osoba. Z
- ajištění místa nehody a řízení dopravy.\n\n🚒 CAS (CHS Třebíč)
+DESCRIPTION:📍 Vladislav\, Třebíč\n💬 DN OA a cyklisty\, Jedna zraněná osoba.
+  Zajištění místa nehody.\n\n🚒 CAS (CHS Třebíč)
 END:VEVENT
 BEGIN:VEVENT
 UID:413385061
@@ -1019,9 +1022,9 @@ SUMMARY:🚗 dopravní nehoda - Martínkov
 LOCATION:Martínkov
 GEO:49.100169;15.730911
 URL:geo:49.100169,15.730911
-DESCRIPTION:📍 Martínkov\, Třebíč\n💬 DN 2 OA s 1 zraněnou osobou s únikem pr
- ovozních kapalin. Likvidace úniku PHM a řízení dopravy.\n\n🚒 CAS (HS Morav
- ské Budějovice)\n🚒 CAS (Želetava)
+DESCRIPTION:📍 Martínkov\, Třebíč\n💬 DN 2 x OA\, jedna zraněná osoba. Likvid
+ ace úniku provozních kapalin\, řízení dopravy a zajištění místa události.\
+ n\n🚒 CAS (HS Moravské Budějovice)\n🚒 CAS (Želetava)
 END:VEVENT
 BEGIN:VEVENT
 UID:413388061
@@ -1045,7 +1048,8 @@ SUMMARY:🛠️ strom - Vanov
 LOCATION:Vanov
 GEO:49.212234;15.413419
 URL:geo:49.212234,15.413419
-DESCRIPTION:📍 Vanov\, Jihlava\n\n🚒 CAS (HS Telč)\n🚒 AŽ (HS Telč)
+DESCRIPTION:📍 Vanov\, Jihlava\n💬 Odstranění stromu.\n\n🚒 CAS (HS Telč)\n🚒 A
+ Ž (HS Telč)
 END:VEVENT
 BEGIN:VEVENT
 UID:413391061
@@ -1056,8 +1060,9 @@ SUMMARY:🛠️ ostatní - Golčův Jeníkov
 LOCATION:Jiráskova\, Golčův Jeníkov
 GEO:49.811863;15.471707
 URL:geo:49.811863,15.471707
-DESCRIPTION:📍 Jiráskova\, Golčův Jeníkov\, Havlíčkův Brod\n💬 Technická záva
- da u OA.\n\n🚒 CAS (HS Ledeč nad Sázavou)\n🚒 CAS (Golčův Jeníkov)
+DESCRIPTION:📍 Jiráskova\, Golčův Jeníkov\, Havlíčkův Brod\n💬 Ohlášen požár 
+ v motorovém prostoru OA. Průzkumem zjištěno\, že se jedná technickou závad
+ u.\n\n🚒 CAS (HS Ledeč nad Sázavou)\n🚒 CAS (Golčův Jeníkov)
 END:VEVENT
 BEGIN:VEVENT
 UID:413392061
@@ -1070,5 +1075,17 @@ GEO:49.079643;16.193417
 URL:geo:49.079643,16.193417
 DESCRIPTION:📍 Dukovany\, Třebíč\n💬 Odstranění obtížného hmyzu.\n\n🚒 DA (Duk
  ovany)\n🚒 CAS (Dukovany)
+END:VEVENT
+BEGIN:VEVENT
+UID:413393061
+DTSTART:20260621T143543Z
+DTEND:20260621T153543Z
+DTSTAMP:20260621T143543Z
+SUMMARY:🚗 úklid místa - Bystřice nad Pernštejnem
+LOCATION:Bystřice nad Pernštejnem
+GEO:49.528455;16.249987
+URL:geo:49.528455,16.249987
+DESCRIPTION:📍 Bystřice nad Pernštejnem\, Žďár nad Sázavou\n\n🚒 CAS (HS Byst
+ řice nad Pernštejnem)
 END:VEVENT
 END:VCALENDAR
