@@ -279,4 +279,16 @@ URL:geo:49.361462,15.158960
 DESCRIPTION:📍 Božejov\, Pelhřimov\n💬 Pročištění kanalizace.\n\n🚒 CAS (Božej
  ov)
 END:VEVENT
+BEGIN:VEVENT
+UID:413406061
+DTSTART:20260621T215326Z
+DTEND:20260621T225326Z
+DTSTAMP:20260621T215326Z
+SUMMARY:🚑 transport pacienta - Počátky
+LOCATION:Nádražní\, Počátky
+GEO:49.258995;15.235648
+URL:geo:49.258995,15.235648
+DESCRIPTION:📍 Nádražní\, Počátky\, Pelhřimov\n💬 Transport pacienta na žádos
+ t ZZS.\n\n🚒 CAS (HS Kamenice nad Lipou)\n🚒 CAS (Počátky)
+END:VEVENT
 END:VCALENDAR
