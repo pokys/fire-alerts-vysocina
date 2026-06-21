@@ -5,30 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:413264061
-DTSTART:20260619T175955Z
-DTEND:20260619T185955Z
-DTSTAMP:20260619T175955Z
-SUMMARY:🛠️ otevření bytu/auta - Nové Město na Moravě
-LOCATION:Masarykova\, Nové Město na Moravě
-GEO:49.564068;16.078532
-URL:geo:49.564068,16.078532
-DESCRIPTION:📍 Masarykova\, Nové Město na Moravě\, Žďár nad Sázavou\n💬 Otevř
- ení bytu.\n\n🚒 CAS (CHS Žďár nad Sázavou)
-END:VEVENT
-BEGIN:VEVENT
-UID:413265061
-DTSTART:20260619T180026Z
-DTEND:20260619T190026Z
-DTSTAMP:20260619T180026Z
-SUMMARY:🛠️ spolupráce IZS - Žďár nad Sázavou
-LOCATION:Horní\, Žďár nad Sázavou
-GEO:49.560933;15.941995
-URL:geo:49.560933,15.941995
-DESCRIPTION:📍 Horní\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n💬 Spolupráce s
- e ZZS.\n\n🚒 CAS (CHS Žďár nad Sázavou)
-END:VEVENT
-BEGIN:VEVENT
 UID:413266061
 DTSTART:20260619T181224Z
 DTEND:20260619T191224Z
@@ -1064,5 +1040,17 @@ URL:geo:49.489263,15.513294
 DESCRIPTION:📍 Štoky\, Havlíčkův Brod\n💬 Ohlášen požár OA\, průzkumem zjiště
  no\, že se jedná o technickou závadu.\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS J
  ihlava)
+END:VEVENT
+BEGIN:VEVENT
+UID:413401061
+DTSTART:20260621T174838Z
+DTEND:20260621T184838Z
+DTSTAMP:20260621T174838Z
+SUMMARY:🚗 dopravní nehoda - Rovečné
+LOCATION:Rovečné
+GEO:49.594577;16.366676
+URL:geo:49.594577,16.366676
+DESCRIPTION:📍 Rovečné\, Žďár nad Sázavou\n\n🚒 CAS (HS Bystřice nad Pernštej
+ nem)
 END:VEVENT
 END:VCALENDAR
