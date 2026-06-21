@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:413246061
-DTSTART:20260619T115639Z
-DTEND:20260619T125639Z
-DTSTAMP:20260619T115639Z
-SUMMARY:🛠️ otevření bytu/auta - Třešť
-LOCATION:Nádražní\, Třešť
-GEO:49.294832;15.480101
-URL:geo:49.294832,15.480101
-DESCRIPTION:📍 Nádražní\, Třešť\, Jihlava\n💬 Otevření bytu.\n\n🚒 CAS (HS Tře
- šť)
-END:VEVENT
-BEGIN:VEVENT
 UID:413247061
 DTSTART:20260619T123518Z
 DTEND:20260619T133518Z
@@ -1055,7 +1043,19 @@ SUMMARY:🚗 dopravní nehoda - Březník
 LOCATION:Březník
 GEO:49.174596;16.187281
 URL:geo:49.174596,16.187281
-DESCRIPTION:📍 Březník\, Třebíč\n💬 DN 2 OA s 1 zraněnou osobou.\n\n🚒 CAS (HS
-  Náměšť nad Oslavou)
+DESCRIPTION:📍 Březník\, Třebíč\n💬 DN 2 OA se 2 zraněnými osobami. Protipožá
+ rní opatření a likvidace úniku provozních kapalin.\n\n🚒 CAS (HS Náměšť nad
+  Oslavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:413383061
+DTSTART:20260621T114708Z
+DTEND:20260621T124708Z
+DTSTAMP:20260621T114708Z
+SUMMARY:🛠️ otevření bytu/auta - Třebíč
+LOCATION:Dělnické nám.\, Třebíč
+GEO:49.209920;15.866137
+URL:geo:49.209920,15.866137
+DESCRIPTION:📍 Dělnické nám.\, Borovina\, Třebíč\n\n🚒 CAS (CHS Třebíč)
 END:VEVENT
 END:VCALENDAR
