@@ -5,30 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:413225061
-DTSTART:20260619T065023Z
-DTEND:20260619T075023Z
-DTSTAMP:20260619T065023Z
-SUMMARY:🛠️ obtížný hmyz - Polná
-LOCATION:Jungmannova\, Polná
-GEO:49.483859;15.721528
-URL:geo:49.483859,15.721528
-DESCRIPTION:📍 Jungmannova\, Polná\, Jihlava\n💬 Odstranění obtížného hmyzu.\
- n\n🚒 CAS (HS Polná)
-END:VEVENT
-BEGIN:VEVENT
-UID:413226061
-DTSTART:20260619T065106Z
-DTEND:20260619T075106Z
-DTSTAMP:20260619T065106Z
-SUMMARY:🚑 transport pacienta - Kamenice nad Lipou
-LOCATION:Hviezdoslavova\, Kamenice nad Lipou
-GEO:49.303327;15.072108
-URL:geo:49.303327,15.072108
-DESCRIPTION:📍 Hviezdoslavova\, Kamenice nad Lipou\, Pelhřimov\n💬 Transport 
- pacienta na žádost ZZS.\n\n🚒 CAS (HS Kamenice nad Lipou)
-END:VEVENT
-BEGIN:VEVENT
 UID:413227061
 DTSTART:20260619T070142Z
 DTEND:20260619T080142Z
@@ -1142,6 +1118,7 @@ SUMMARY:🛠️ obtížný hmyz - Krucemburk
 LOCATION:Větrná\, Krucemburk
 GEO:49.684267;15.853058
 URL:geo:49.684267,15.853058
-DESCRIPTION:📍 Větrná\, Krucemburk\, Havlíčkův Brod\n\n🚒 CAS (Krucemburk)
+DESCRIPTION:📍 Větrná\, Krucemburk\, Havlíčkův Brod\n💬 Likvidace vosího hníz
+ da.\n\n🚒 CAS (Krucemburk)
 END:VEVENT
 END:VCALENDAR
