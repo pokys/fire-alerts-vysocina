@@ -1052,12 +1052,12 @@ UID:413391061
 DTSTART:20260621T135026Z
 DTEND:20260621T145026Z
 DTSTAMP:20260621T135026Z
-SUMMARY:🔥 vozidlo - Golčův Jeníkov
+SUMMARY:🛠️ ostatní - Golčův Jeníkov
 LOCATION:Jiráskova\, Golčův Jeníkov
 GEO:49.811863;15.471707
 URL:geo:49.811863,15.471707
-DESCRIPTION:📍 Jiráskova\, Golčův Jeníkov\, Havlíčkův Brod\n\n🚒 CAS (HS Lede
- č nad Sázavou)\n🚒 CAS (Golčův Jeníkov)
+DESCRIPTION:📍 Jiráskova\, Golčův Jeníkov\, Havlíčkův Brod\n💬 Technická záva
+ da u OA.\n\n🚒 CAS (HS Ledeč nad Sázavou)\n🚒 CAS (Golčův Jeníkov)
 END:VEVENT
 BEGIN:VEVENT
 UID:413392061
@@ -1068,6 +1068,7 @@ SUMMARY:🛠️ obtížný hmyz - Dukovany
 LOCATION:Dukovany
 GEO:49.079643;16.193417
 URL:geo:49.079643,16.193417
-DESCRIPTION:📍 Dukovany\, Třebíč\n\n🚒 DA (Dukovany)\n🚒 CAS (Dukovany)
+DESCRIPTION:📍 Dukovany\, Třebíč\n💬 Odstranění obtížného hmyzu.\n\n🚒 DA (Duk
+ ovany)\n🚒 CAS (Dukovany)
 END:VEVENT
 END:VCALENDAR
