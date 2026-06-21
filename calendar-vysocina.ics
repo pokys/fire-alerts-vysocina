@@ -1049,8 +1049,8 @@ SUMMARY:🚗 úklid místa - Bystřice nad Pernštejnem
 LOCATION:Bystřice nad Pernštejnem
 GEO:49.528455;16.249987
 URL:geo:49.528455,16.249987
-DESCRIPTION:📍 Bystřice nad Pernštejnem\, Žďár nad Sázavou\n\n🚒 CAS (HS Byst
- řice nad Pernštejnem)
+DESCRIPTION:📍 Bystřice nad Pernštejnem\, Žďár nad Sázavou\n💬 DN 2 OA\, bez 
+ zranění. Zajištění místa nehody.\n\n🚒 CAS (HS Bystřice nad Pernštejnem)
 END:VEVENT
 BEGIN:VEVENT
 UID:413394061
@@ -1073,8 +1073,8 @@ SUMMARY:🛠️ ostatní - Štoky
 LOCATION:Štoky
 GEO:49.489263;15.513294
 URL:geo:49.489263,15.513294
-DESCRIPTION:📍 Štoky\, Havlíčkův Brod\n💬 Událost nahlášena jako požár\, po p
- růzkumu se jedná o technickou závadu na OA.\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA 
- (CHS Jihlava)
+DESCRIPTION:📍 Štoky\, Havlíčkův Brod\n💬 Ohlášen požár OA\, průzkumem zjiště
+ no\, že se jedná o technickou závadu.\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS J
+ ihlava)
 END:VEVENT
 END:VCALENDAR
