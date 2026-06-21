@@ -267,4 +267,15 @@ DESCRIPTION:📍 Onšovice\, Dehtáře\, Pelhřimov\n💬 DN OA náraz do stromu
   zranění. Zajištění místa nehody a úklid komunikace.\n\n🚒 CAS (HS Humpolec
  )
 END:VEVENT
+BEGIN:VEVENT
+UID:413376061
+DTSTART:20260621T071229Z
+DTEND:20260621T081229Z
+DTSTAMP:20260621T071229Z
+SUMMARY:🛠️ ostatní - Božejov
+LOCATION:Božejov
+GEO:49.361462;15.158960
+URL:geo:49.361462,15.158960
+DESCRIPTION:📍 Božejov\, Pelhřimov\n\n🚒 CAS (Božejov)
+END:VEVENT
 END:VCALENDAR
