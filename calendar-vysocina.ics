@@ -1039,11 +1039,12 @@ UID:413385061
 DTSTART:20260621T125346Z
 DTEND:20260621T135346Z
 DTSTAMP:20260621T125346Z
-SUMMARY:🚗 úklid místa - Martínkov
+SUMMARY:🚗 dopravní nehoda - Martínkov
 LOCATION:Martínkov
 GEO:49.100169;15.730911
 URL:geo:49.100169,15.730911
-DESCRIPTION:📍 Martínkov\, Třebíč\n\n🚒 CAS (HS Moravské Budějovice)\n🚒 CAS (
- Želetava)
+DESCRIPTION:📍 Martínkov\, Třebíč\n💬 DN 2 OA s 1 zraněnou osobou s únikem pr
+ ovozních kapalin. Likvidace úniku PHM a řízení dopravy.\n\n🚒 CAS (HS Morav
+ ské Budějovice)\n🚒 CAS (Želetava)
 END:VEVENT
 END:VCALENDAR
