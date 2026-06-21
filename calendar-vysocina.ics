@@ -1133,4 +1133,15 @@ URL:geo:49.511703,15.302269
 DESCRIPTION:📍 Kletečná\, Humpolec\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 CA
  S (CHS Pelhřimov)\n🚒 pila řetězová (CHS Pelhřimov)
 END:VEVENT
+BEGIN:VEVENT
+UID:413363061
+DTSTART:20260620T232733Z
+DTEND:20260621T002733Z
+DTSTAMP:20260620T232733Z
+SUMMARY:🛠️ strom - Dlouhá Brtnice
+LOCATION:Dlouhá Brtnice
+GEO:49.254894;15.593985
+URL:geo:49.254894,15.593985
+DESCRIPTION:📍 Dlouhá Brtnice\, Jihlava\n\n🚒 CAS (Dlouhá Brtnice)
+END:VEVENT
 END:VCALENDAR
