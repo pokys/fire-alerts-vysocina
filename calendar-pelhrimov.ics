@@ -289,4 +289,16 @@ URL:geo:49.511703,15.302269
 DESCRIPTION:📍 Kletečná\, Humpolec\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 CA
  S (CHS Pelhřimov)\n🚒 pila řetězová (CHS Pelhřimov)
 END:VEVENT
+BEGIN:VEVENT
+UID:413364061
+DTSTART:20260621T011352Z
+DTEND:20260621T021352Z
+DTSTAMP:20260621T011352Z
+SUMMARY:🛠️ strom - Dehtáře
+LOCATION:Dehtáře
+GEO:49.486450;15.287943
+URL:geo:49.486450,15.287943
+DESCRIPTION:📍 Onšovice\, Dehtáře\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 CAS
+  (HS Humpolec)
+END:VEVENT
 END:VCALENDAR
