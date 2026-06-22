@@ -5,31 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:413286061
-DTSTART:20260620T095422Z
-DTEND:20260620T105422Z
-DTSTAMP:20260620T095422Z
-SUMMARY:🚑 spolupráce ZZS - Telč
-LOCATION:Slavatovská\, Telč
-GEO:49.187358;15.448420
-URL:geo:49.187358,15.448420
-DESCRIPTION:📍 Slavatovská\, Telč-Štěpnice\, Telč\, Jihlava\n💬 Asistence ZZS
- .\n\n🚒 CAS (HS Telč)
-END:VEVENT
-BEGIN:VEVENT
-UID:413287061
-DTSTART:20260620T100050Z
-DTEND:20260620T110050Z
-DTSTAMP:20260620T100050Z
-SUMMARY:🚗 dopravní nehoda - Herálec
-LOCATION:Herálec
-GEO:49.515140;15.419659
-URL:geo:49.515140,15.419659
-DESCRIPTION:📍 Kamenice\, Herálec\, Havlíčkův Brod\n💬 DN OA\, dvě zraněné os
- by. Likvidace úniku provozních kapalin. Zajištění místa události.\n\n🚒 CAS
-  (HS Humpolec)
-END:VEVENT
-BEGIN:VEVENT
 UID:413290061
 DTSTART:20260620T100836Z
 DTEND:20260620T110836Z
@@ -1103,8 +1078,8 @@ SUMMARY:🛠️ spolupráce IZS - Chotěboř
 LOCATION:Železnohorská\, Chotěboř
 GEO:49.716204;15.679751
 URL:geo:49.716204,15.679751
-DESCRIPTION:📍 Železnohorská\, Chotěboř\, Havlíčkův Brod\n\n🚒 CAS (HS Chotěb
- oř)
+DESCRIPTION:📍 Železnohorská\, Chotěboř\, Havlíčkův Brod\n💬 Spolupráce s PČR
+ .\n\n🚒 CAS (HS Chotěboř)
 END:VEVENT
 BEGIN:VEVENT
 UID:413434061
@@ -1115,7 +1090,7 @@ SUMMARY:🔥 technologie - Havlíčkův Brod
 LOCATION:Strojírenská\, Havlíčkův Brod
 GEO:49.603748;15.600857
 URL:geo:49.603748,15.600857
-DESCRIPTION:📍 Strojírenská\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)\n
- 🚒 CAS (CHS Havlíčkův Brod)
+DESCRIPTION:📍 Strojírenská\, Havlíčkův Brod\n💬 Dohašení ohniště po předchoz
+ ím požáru.\n\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 CAS (CHS Havlíčkův Brod)
 END:VEVENT
 END:VCALENDAR
