@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:413348061
-DTSTART:20260620T154914Z
-DTEND:20260620T164914Z
-DTSTAMP:20260620T154914Z
-SUMMARY:🛠️ strom - Řásná
-LOCATION:Řásná
-GEO:49.221024;15.391279
-URL:geo:49.221024,15.391279
-DESCRIPTION:📍 Řásná\, Jihlava\n💬 Odstranění stromu.\n\n🚒 CAS (HS Telč)\n🚒 p
- ila řetězová (HS Telč)
-END:VEVENT
-BEGIN:VEVENT
 UID:413351061
 DTSTART:20260620T163105Z
 DTEND:20260620T173105Z
@@ -853,7 +841,8 @@ SUMMARY:🚑 transport pacienta - Koněšín
 LOCATION:Koněšín
 GEO:49.188921;16.040179
 URL:geo:49.188921,16.040179
-DESCRIPTION:📍 Koněšín\, Třebíč\n\n🚒 CAS (HS Náměšť nad Oslavou)
+DESCRIPTION:📍 Koněšín\, Třebíč\n💬 Transport pacienta na žádost ZZS.\n\n🚒 CA
+ S (HS Náměšť nad Oslavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:413468061
@@ -875,7 +864,30 @@ SUMMARY:🛠️ otevření bytu/auta - Nové Město na Moravě
 LOCATION:Masarykova\, Nové Město na Moravě
 GEO:49.566087;16.078411
 URL:geo:49.566087,16.078411
-DESCRIPTION:📍 Masarykova\, Nové Město na Moravě\, Žďár nad Sázavou\n\n🚒 CAS
-  (CHS Žďár nad Sázavou)
+DESCRIPTION:📍 Masarykova\, Nové Město na Moravě\, Žďár nad Sázavou\n💬 Otevř
+ ení bytu.\n\n🚒 CAS (CHS Žďár nad Sázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:413470061
+DTSTART:20260622T153752Z
+DTEND:20260622T163752Z
+DTSTAMP:20260622T153752Z
+SUMMARY:🛠️ strom - Otín
+LOCATION:Otín
+GEO:49.266588;15.571267
+URL:geo:49.266588,15.571267
+DESCRIPTION:📍 Otín\, Jihlava\n\n🚒 CAS (HS Třešť)\n🚒 automobilová plošina do
+  30 m (HS Třešť)
+END:VEVENT
+BEGIN:VEVENT
+UID:413471061
+DTSTART:20260622T154338Z
+DTEND:20260622T164338Z
+DTSTAMP:20260622T154338Z
+SUMMARY:🛠️ otevření bytu/auta - Havlíčkův Brod
+LOCATION:Žižkov II\, Havlíčkův Brod
+GEO:49.608844;15.592111
+URL:geo:49.608844,15.592111
+DESCRIPTION:📍 Žižkov II\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)
 END:VEVENT
 END:VCALENDAR
