@@ -5,57 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:413332061
-DTSTART:20260620T144600Z
-DTEND:20260620T154600Z
-DTSTAMP:20260620T144600Z
-SUMMARY:🛠️ strom - Červená Řečice
-LOCATION:Červená Řečice
-GEO:49.515717;15.193664
-URL:geo:49.515717,15.193664
-DESCRIPTION:📍 Červená Řečice\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 DA (Čer
- vená Řečice)
-END:VEVENT
-BEGIN:VEVENT
-UID:413333061
-DTSTART:20260620T145508Z
-DTEND:20260620T155508Z
-DTSTAMP:20260620T145508Z
-SUMMARY:🛠️ čerpání vody - Řásná
-LOCATION:Řásná
-GEO:49.219328;15.394492
-URL:geo:49.219328,15.394492
-DESCRIPTION:📍 Řásná\, Jihlava\n💬 Čerpání vody.\n\n🚒 CAS (HS Telč)\n🚒 elektr
- ocentrála přenosná (HS Telč)
-END:VEVENT
-BEGIN:VEVENT
-UID:413335061
-DTSTART:20260620T145856Z
-DTEND:20260620T155856Z
-DTSTAMP:20260620T145856Z
-SUMMARY:🔥 les - Horní Libochová
-LOCATION:Horní Libochová
-GEO:49.414041;16.130634
-URL:geo:49.414041,16.130634
-DESCRIPTION:📍 Horní Hlíny\, Horní Libochová\, Žďár nad Sázavou\n💬 Požár les
- a. Provedena lokalizace a likvidace požáru.\n\n🚒 CAS (HS Velké Meziříčí)\n
- 🚒 RZA (HS Velké Meziříčí)\n🚒 CAS (Křižanov)\n🚒 přívěs motorová stříkačka (
- Horní Libochová)\n🚒 CAS (Strážek)\n🚒 účelový automobil do 3500 kg (ÚO Žďár
-  nad Sázavou)
-END:VEVENT
-BEGIN:VEVENT
-UID:413337061
-DTSTART:20260620T150050Z
-DTEND:20260620T160050Z
-DTSTAMP:20260620T150050Z
-SUMMARY:🛠️ strom - Sedlice
-LOCATION:Sedlice
-GEO:49.516131;15.250745
-URL:geo:49.516131,15.250745
-DESCRIPTION:📍 Sedlice\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 přívěs nákladn
- í (Sedlice)
-END:VEVENT
-BEGIN:VEVENT
 UID:413338061
 DTSTART:20260620T150155Z
 DTEND:20260620T160155Z
@@ -782,7 +731,8 @@ SUMMARY:🛠️ dovoz vody - Nová Cerekev
 LOCATION:Nová Cerekev
 GEO:49.417234;15.116745
 URL:geo:49.417234,15.116745
-DESCRIPTION:📍 Nová Cerekev\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)
+DESCRIPTION:📍 Nová Cerekev\, Pelhřimov\n💬 Dovoz vody.\n\n🚒 CAS (CHS Pelhřim
+ ov)
 END:VEVENT
 BEGIN:VEVENT
 UID:413439061
@@ -973,6 +923,17 @@ LOCATION:Barvířská\, Třešť
 GEO:49.290030;15.481449
 URL:geo:49.290030,15.481449
 DESCRIPTION:📍 Barvířská\, Třešť\, Jihlava\n\n🚒 CAS (HS Třešť)
+END:VEVENT
+BEGIN:VEVENT
+UID:413465061
+DTSTART:20260622T142233Z
+DTEND:20260622T152233Z
+DTSTAMP:20260622T142233Z
+SUMMARY:🛠️ ostatní - Nové Veselí
+LOCATION:Dolní\, Nové Veselí
+GEO:49.517636;15.915849
+URL:geo:49.517636,15.915849
+DESCRIPTION:📍 Dolní\, Nové Veselí\, Žďár nad Sázavou\n\n🚒 CAS (Nové Veselí)
 END:VEVENT
 BEGIN:VEVENT
 UID:413466061
