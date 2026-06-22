@@ -5,29 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:413346061
-DTSTART:20260620T153829Z
-DTEND:20260620T163829Z
-DTSTAMP:20260620T153829Z
-SUMMARY:🛠️ čerpání vody - Rynárec
-LOCATION:Rynárec
-GEO:49.385312;15.233582
-URL:geo:49.385312,15.233582
-DESCRIPTION:📍 Rynárec\, Pelhřimov\n💬 Čerpání vody.\n\n🚒 CAS (Rynárec)
-END:VEVENT
-BEGIN:VEVENT
-UID:413347061
-DTSTART:20260620T154345Z
-DTEND:20260620T164345Z
-DTSTAMP:20260620T154345Z
-SUMMARY:🛠️ otevření bytu/auta - Dobronín
-LOCATION:Šeříková\, Dobronín
-GEO:49.480048;15.649335
-URL:geo:49.480048,15.649335
-DESCRIPTION:📍 Šeříková\, Dobronín\, Jihlava\n💬 Otevření bytu.\n\n🚒 CAS (HS 
- Polná)
-END:VEVENT
-BEGIN:VEVENT
 UID:413348061
 DTSTART:20260620T154914Z
 DTEND:20260620T164914Z
@@ -791,7 +768,9 @@ SUMMARY:🚗 dopravní nehoda - Pelhřimov
 LOCATION:Pražská\, Pelhřimov
 GEO:49.436035;15.216481
 URL:geo:49.436035,15.216481
-DESCRIPTION:📍 Pražská\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)
+DESCRIPTION:📍 Pražská\, Pelhřimov\n💬 DN OA - motocykl se zraněním. ZZS tran
+ sportovala jednu zraněnou osobu k dalšímu ošetření do ON. Odstranění násle
+ dků po DN.\n\n🚒 CAS (CHS Pelhřimov)
 END:VEVENT
 BEGIN:VEVENT
 UID:413461061
@@ -802,8 +781,8 @@ SUMMARY:🚑 transport pacienta - Havlíčkův Brod
 LOCATION:U Stadionu\, Havlíčkův Brod
 GEO:49.612913;15.582398
 URL:geo:49.612913,15.582398
-DESCRIPTION:📍 U Stadionu\, Havlíčkův Brod\n💬 Spolupráce se ZZS\n\n🚒 CAS (CH
- S Havlíčkův Brod)
+DESCRIPTION:📍 U Stadionu\, Havlíčkův Brod\n💬 Transport pacienta na žádost Z
+ ZS.\n\n🚒 CAS (CHS Havlíčkův Brod)
 END:VEVENT
 BEGIN:VEVENT
 UID:413462061
@@ -814,7 +793,8 @@ SUMMARY:🛠️ ostatní - Brtnice
 LOCATION:Pod Zámkem\, Brtnice
 GEO:49.305668;15.674922
 URL:geo:49.305668,15.674922
-DESCRIPTION:📍 Pod Zámkem\, Brtnice\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+DESCRIPTION:📍 Pod Zámkem\, Brtnice\, Jihlava\n💬 Odchyt hada na zahradě RD.\
+ n\n🚒 CAS (CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:413463061
@@ -825,7 +805,8 @@ SUMMARY:☣️ olej/PHM - Havlíčkův Brod
 LOCATION:Havlíčkův Brod
 GEO:49.607328;15.579362
 URL:geo:49.607328,15.579362
-DESCRIPTION:🚒 CAS (CHS Havlíčkův Brod)
+DESCRIPTION:💬 Odstranění ůniku provozních kapalin z komunikace.\n\n🚒 CAS (C
+ HS Havlíčkův Brod)
 END:VEVENT
 BEGIN:VEVENT
 UID:413464061
@@ -836,7 +817,8 @@ SUMMARY:🛠️ otevření bytu/auta - Třešť
 LOCATION:Barvířská\, Třešť
 GEO:49.290030;15.481449
 URL:geo:49.290030,15.481449
-DESCRIPTION:📍 Barvířská\, Třešť\, Jihlava\n\n🚒 CAS (HS Třešť)
+DESCRIPTION:📍 Barvířská\, Třešť\, Jihlava\n💬 Otevření bytu.\n\n🚒 CAS (HS Tř
+ ešť)
 END:VEVENT
 BEGIN:VEVENT
 UID:413465061
@@ -883,5 +865,17 @@ LOCATION:Slavětice
 GEO:49.103654;16.106425
 URL:geo:49.103654,16.106425
 DESCRIPTION:📍 Slavětice\, Třebíč\n\n🚒 CAS (Slavětice)
+END:VEVENT
+BEGIN:VEVENT
+UID:413469061
+DTSTART:20260622T151910Z
+DTEND:20260622T161910Z
+DTSTAMP:20260622T151910Z
+SUMMARY:🛠️ otevření bytu/auta - Nové Město na Moravě
+LOCATION:Masarykova\, Nové Město na Moravě
+GEO:49.566087;16.078411
+URL:geo:49.566087,16.078411
+DESCRIPTION:📍 Masarykova\, Nové Město na Moravě\, Žďár nad Sázavou\n\n🚒 CAS
+  (CHS Žďár nad Sázavou)
 END:VEVENT
 END:VCALENDAR
