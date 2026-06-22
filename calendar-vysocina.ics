@@ -1066,7 +1066,9 @@ SUMMARY:🚗 dopravní nehoda - Číhošť
 LOCATION:Číhošť
 GEO:49.741185;15.336135
 URL:geo:49.741185,15.336135
-DESCRIPTION:📍 Číhošť\, Havlíčkův Brod\n\n🚒 CAS (HS Ledeč nad Sázavou)
+DESCRIPTION:📍 Číhošť\, Havlíčkův Brod\n💬 DN OA - traktor se zraněním. ZZS t
+ ransportovala jednu zraněnou osobu k dalšímu ošetření do ON. Odstranění ná
+ sledků po DN.\n\n🚒 CAS (HS Ledeč nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:413418061
@@ -1089,7 +1091,7 @@ SUMMARY:🛠️ spolupráce IZS - Chotěboř
 LOCATION:Železnohorská\, Chotěboř
 GEO:49.716213;15.679750
 URL:geo:49.716213,15.679750
-DESCRIPTION:📍 Železnohorská\, Chotěboř\, Havlíčkův Brod\n\n🚒 CAS (HS Chotěb
- oř)
+DESCRIPTION:📍 Železnohorská\, Chotěboř\, Havlíčkův Brod\n💬 Spolupráce se ZZ
+ S.\n\n🚒 CAS (HS Chotěboř)
 END:VEVENT
 END:VCALENDAR
