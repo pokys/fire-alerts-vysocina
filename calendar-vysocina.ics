@@ -5,16 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:413304061
-DTSTART:20260620T120803Z
-DTEND:20260620T130803Z
-DTSTAMP:20260620T120803Z
-SUMMARY:🚗 se zraněním - Dešov
-LOCATION:Dešov
-DESCRIPTION:📍 Dešov\, Třebíč\n💬 DN OA mimo vozovku. Dvě zraněné osoby. Zaji
- štění místa události.\n\n🚒 CAS (HS Jemnice)
-END:VEVENT
-BEGIN:VEVENT
 UID:413305061
 DTSTART:20260620T122135Z
 DTEND:20260620T132135Z
@@ -699,6 +689,18 @@ DESCRIPTION:📍 Dělnické nám.\, Borovina\, Třebíč\n💬 Otevření bytu.\
  (CHS Třebíč)
 END:VEVENT
 BEGIN:VEVENT
+UID:413445061
+DTSTART:20260621T120225Z
+DTEND:20260621T130225Z
+DTSTAMP:20260621T120225Z
+SUMMARY:🔥 Horní Dubenky
+LOCATION:sídliště Janštejn\, Horní Dubenky
+GEO:49.249329;15.320987
+URL:geo:49.249329,15.320987
+DESCRIPTION:📍 sídliště Janštejn\, Horní Dubenky\, Jihlava\n💬 Požár bez účas
+ ti JPO\, pro ZPP.
+END:VEVENT
+BEGIN:VEVENT
 UID:413384061
 DTSTART:20260621T122811Z
 DTEND:20260621T132811Z
@@ -940,12 +942,12 @@ UID:413425061
 DTSTART:20260622T072711Z
 DTEND:20260622T082711Z
 DTSTAMP:20260622T072711Z
-SUMMARY:☣️ neznámá látka - Moravské Budějovice
+SUMMARY:🛠️ ostatní - Moravské Budějovice
 LOCATION:Kollárova\, Moravské Budějovice
 GEO:49.050392;15.811843
 URL:geo:49.050392,15.811843
-DESCRIPTION:📍 Kollárova\, Moravské Budějovice\, Třebíč\n\n🚒 CAS (HS Moravsk
- é Budějovice)
+DESCRIPTION:📍 Kollárova\, Moravské Budějovice\, Třebíč\n💬 Zajištění poškoze
+ né kanalizace.\n\n🚒 CAS (HS Moravské Budějovice)\n🚒 TA (CHL JHM Tišnov)
 END:VEVENT
 BEGIN:VEVENT
 UID:413428061
@@ -1051,5 +1053,17 @@ LOCATION:Havlíčkovo náměstí\, Jemnice
 GEO:49.018011;15.571232
 URL:geo:49.018011,15.571232
 DESCRIPTION:📍 Havlíčkovo náměstí\, Jemnice\, Třebíč\n\n🚒 CAS (HS Jemnice)
+END:VEVENT
+BEGIN:VEVENT
+UID:413443061
+DTSTART:20260622T115839Z
+DTEND:20260622T125839Z
+DTSTAMP:20260622T115839Z
+SUMMARY:🚑 otevření/asistence - Náměšť nad Oslavou
+LOCATION:Husova\, Náměšť nad Oslavou
+GEO:49.211435;16.146748
+URL:geo:49.211435,16.146748
+DESCRIPTION:📍 Husova\, Náměšť nad Oslavou\, Třebíč\n\n🚒 CAS (HS Náměšť nad 
+ Oslavou)
 END:VEVENT
 END:VCALENDAR
