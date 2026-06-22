@@ -5,55 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:413338061
-DTSTART:20260620T150155Z
-DTEND:20260620T160155Z
-DTSTAMP:20260620T150155Z
-SUMMARY:🛠️ ostatní - Pelhřimov
-LOCATION:Rynárecká\, Pelhřimov
-GEO:49.414608;15.221855
-URL:geo:49.414608,15.221855
-DESCRIPTION:📍 Rynárecká\, Pelhřimov\n💬 Pročištění kanalizace\, zprůjezdnění
-  vozovky.\n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (CHS Pelhřimov)
-END:VEVENT
-BEGIN:VEVENT
-UID:413339061
-DTSTART:20260620T150557Z
-DTEND:20260620T160557Z
-DTSTAMP:20260620T150557Z
-SUMMARY:🚑 otevření/asistence - Bystřice nad Pernštejnem
-LOCATION:Hornická\, Bystřice nad Pernštejnem
-GEO:49.526577;16.250285
-URL:geo:49.526577,16.250285
-DESCRIPTION:📍 Hornická\, Bystřice nad Pernštejnem\, Žďár nad Sázavou\n💬 Ote
- vření bytu.\n\n🚒 CAS (HS Bystřice nad Pernštejnem)
-END:VEVENT
-BEGIN:VEVENT
-UID:413341061
-DTSTART:20260620T151220Z
-DTEND:20260620T161220Z
-DTSTAMP:20260620T151220Z
-SUMMARY:☣️ olej/PHM - Častohostice
-LOCATION:Častohostice
-GEO:49.013125;15.817953
-URL:geo:49.013125,15.817953
-DESCRIPTION:📍 Častohostice\, Třebíč\n💬 Likvidace olejové skvrny na komunika
- ci.\n\n🚒 DA (HS Moravské Budějovice)\n🚒 CAS (HS Moravské Budějovice)\n🚒 CA
- S (Šumná)\n🚒 TA (Šumná)\n🚒 CAS (Blížkovice)
-END:VEVENT
-BEGIN:VEVENT
-UID:413342061
-DTSTART:20260620T151402Z
-DTEND:20260620T161402Z
-DTSTAMP:20260620T151402Z
-SUMMARY:🛠️ čerpání vody - Horní Cerekev
-LOCATION:Kaštanová\, Horní Cerekev
-GEO:49.323875;15.320938
-URL:geo:49.323875,15.320938
-DESCRIPTION:📍 Kaštanová\, Horní Cerekev\, Pelhřimov\n💬 Ucpaná kanalizace.\n
- \n🚒 CAS (Horní Cerekev)
-END:VEVENT
-BEGIN:VEVENT
 UID:413343061
 DTSTART:20260620T151753Z
 DTEND:20260620T161753Z
@@ -933,7 +884,8 @@ SUMMARY:🛠️ ostatní - Nové Veselí
 LOCATION:Dolní\, Nové Veselí
 GEO:49.517636;15.915849
 URL:geo:49.517636,15.915849
-DESCRIPTION:📍 Dolní\, Nové Veselí\, Žďár nad Sázavou\n\n🚒 CAS (Nové Veselí)
+DESCRIPTION:📍 Dolní\, Nové Veselí\, Žďár nad Sázavou\n💬 ZOČ.\n\n🚒 CAS (Nové
+  Veselí)
 END:VEVENT
 BEGIN:VEVENT
 UID:413466061
@@ -944,7 +896,29 @@ SUMMARY:🛠️ čerpání vody - Moravské Budějovice
 LOCATION:Sušilova\, Moravské Budějovice
 GEO:49.056722;15.815204
 URL:geo:49.056722,15.815204
-DESCRIPTION:📍 Sušilova\, Moravské Budějovice\, Třebíč\n\n🚒 CAS (HS Moravské
-  Budějovice)
+DESCRIPTION:📍 Sušilova\, Moravské Budějovice\, Třebíč\n💬 Čerpání vody.\n\n🚒
+  CAS (HS Moravské Budějovice)
+END:VEVENT
+BEGIN:VEVENT
+UID:413467061
+DTSTART:20260622T150127Z
+DTEND:20260622T160127Z
+DTSTAMP:20260622T150127Z
+SUMMARY:🚑 transport pacienta - Koněšín
+LOCATION:Koněšín
+GEO:49.188921;16.040179
+URL:geo:49.188921,16.040179
+DESCRIPTION:📍 Koněšín\, Třebíč\n\n🚒 CAS (HS Náměšť nad Oslavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:413468061
+DTSTART:20260622T150357Z
+DTEND:20260622T160357Z
+DTSTAMP:20260622T150357Z
+SUMMARY:🛠️ ostatní - Slavětice
+LOCATION:Slavětice
+GEO:49.103654;16.106425
+URL:geo:49.103654,16.106425
+DESCRIPTION:📍 Slavětice\, Třebíč\n\n🚒 CAS (Slavětice)
 END:VEVENT
 END:VCALENDAR
