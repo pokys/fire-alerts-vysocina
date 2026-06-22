@@ -877,7 +877,8 @@ SUMMARY:🛠️ obtížný hmyz - Budišov
 LOCATION:Budišov
 GEO:49.273613;16.017577
 URL:geo:49.273613,16.017577
-DESCRIPTION:📍 Budišov\, Třebíč\n\n🚒 DA (Budišov)
+DESCRIPTION:📍 Budišov\, Třebíč\n💬 Odstranění obtížného hmyzu.\n\n🚒 DA (Budi
+ šov)
 END:VEVENT
 BEGIN:VEVENT
 UID:413478061
@@ -912,8 +913,8 @@ SUMMARY:🚑 otevření/asistence - Světlá nad Sázavou
 LOCATION:Nádražní\, Světlá nad Sázavou
 GEO:49.670467;15.407008
 URL:geo:49.670467,15.407008
-DESCRIPTION:📍 Nádražní\, Světlá nad Sázavou\, Havlíčkův Brod\n\n🚒 CAS (HS S
- větlá nad Sázavou)
+DESCRIPTION:📍 Nádražní\, Světlá nad Sázavou\, Havlíčkův Brod\n💬 Otevření by
+ tu.\n\n🚒 CAS (HS Světlá nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:413481061
