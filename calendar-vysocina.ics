@@ -5,42 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:413329061
-DTSTART:20260620T143156Z
-DTEND:20260620T153156Z
-DTSTAMP:20260620T143156Z
-SUMMARY:🛠️ strom - Dolní Heřmanice
-LOCATION:Dolní Heřmanice
-GEO:49.292176;16.061645
-URL:geo:49.292176,16.061645
-DESCRIPTION:📍 Oslava\, Dolní Heřmanice\, Žďár nad Sázavou\n💬 Odstranění str
- omu.\n\n🚒 CAS (Tasov)\n🚒 pila řetězová (Tasov)
-END:VEVENT
-BEGIN:VEVENT
-UID:413330061
-DTSTART:20260620T143821Z
-DTEND:20260620T153821Z
-DTSTAMP:20260620T143821Z
-SUMMARY:🛠️ strom - Dubovice
-LOCATION:Dubovice
-GEO:49.440804;15.164467
-URL:geo:49.440804,15.164467
-DESCRIPTION:📍 Dubovice\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 CAS (CHS Pelh
- řimov)
-END:VEVENT
-BEGIN:VEVENT
-UID:413331061
-DTSTART:20260620T144345Z
-DTEND:20260620T154345Z
-DTSTAMP:20260620T144345Z
-SUMMARY:🛠️ ostatní - Pelhřimov
-LOCATION:J. Kurandové\, Pelhřimov
-GEO:49.433281;15.237891
-URL:geo:49.433281,15.237891
-DESCRIPTION:📍 J. Kurandové\, Pelhřimov\n💬 Jiskření na sloupu el. vedení. Za
- jištění místa.\n\n🚒 CAS (CHS Pelhřimov)
-END:VEVENT
-BEGIN:VEVENT
 UID:413332061
 DTSTART:20260620T144600Z
 DTEND:20260620T154600Z
@@ -950,7 +914,9 @@ SUMMARY:🚗 dopravní nehoda - Pelhřimov
 LOCATION:Humpolecká\, Pelhřimov
 GEO:49.433965;15.227627
 URL:geo:49.433965,15.227627
-DESCRIPTION:📍 Humpolecká\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)
+DESCRIPTION:📍 Humpolecká\, Pelhřimov\n💬 DN OA - chodec. Při DN došlo ke zra
+ nění jedné osoby. ZZS transportovala jednu zraněnou osobu k dalšímu ošetře
+ ní.\n\n🚒 CAS (CHS Pelhřimov)
 END:VEVENT
 BEGIN:VEVENT
 UID:413457061
@@ -972,7 +938,8 @@ SUMMARY:🚑 transport pacienta - Havlíčkův Brod
 LOCATION:U Stadionu\, Havlíčkův Brod
 GEO:49.612913;15.582398
 URL:geo:49.612913,15.582398
-DESCRIPTION:📍 U Stadionu\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)
+DESCRIPTION:📍 U Stadionu\, Havlíčkův Brod\n💬 Spolupráce se ZZS\n\n🚒 CAS (CH
+ S Havlíčkův Brod)
 END:VEVENT
 BEGIN:VEVENT
 UID:413462061
@@ -1003,8 +970,20 @@ DTEND:20260622T150313Z
 DTSTAMP:20260622T140313Z
 SUMMARY:🛠️ otevření bytu/auta - Třešť
 LOCATION:Barvířská\, Třešť
-GEO:49.291346;15.481478
-URL:geo:49.291346,15.481478
+GEO:49.290030;15.481449
+URL:geo:49.290030,15.481449
 DESCRIPTION:📍 Barvířská\, Třešť\, Jihlava\n\n🚒 CAS (HS Třešť)
+END:VEVENT
+BEGIN:VEVENT
+UID:413466061
+DTSTART:20260622T142807Z
+DTEND:20260622T152807Z
+DTSTAMP:20260622T142807Z
+SUMMARY:🛠️ čerpání vody - Moravské Budějovice
+LOCATION:Sušilova\, Moravské Budějovice
+GEO:49.056722;15.815204
+URL:geo:49.056722,15.815204
+DESCRIPTION:📍 Sušilova\, Moravské Budějovice\, Třebíč\n\n🚒 CAS (HS Moravské
+  Budějovice)
 END:VEVENT
 END:VCALENDAR
