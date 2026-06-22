@@ -5,31 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:413299061
-DTSTART:20260620T111840Z
-DTEND:20260620T121840Z
-DTSTAMP:20260620T111840Z
-SUMMARY:🚗 dopravní nehoda - Osová Bítýška
-LOCATION:Osová Bítýška
-GEO:49.327759;16.174416
-URL:geo:49.327759,16.174416
-DESCRIPTION:📍 Osová Bítýška\, Žďár nad Sázavou\n💬 DN 2 x OA jedna zraněná o
- soba. Předlékařská pomoc\, likvidace úniku PHM. Zajištění místa události.\
- n\n🚒 CAS (HS Velká Bíteš)
-END:VEVENT
-BEGIN:VEVENT
-UID:413301061
-DTSTART:20260620T113338Z
-DTEND:20260620T123338Z
-DTSTAMP:20260620T113338Z
-SUMMARY:🚗 dopravní nehoda - Leskovice
-LOCATION:Leskovice
-GEO:49.428166;15.081335
-URL:geo:49.428166,15.081335
-DESCRIPTION:📍 Leskovice\, Pelhřimov\n💬 DN OA\, náraz do stromu\, 1 zraněná 
- osoba. Zajištění místa nehody.\n\n🚒 CAS (HS Pacov)
-END:VEVENT
-BEGIN:VEVENT
 UID:413303061
 DTSTART:20260620T115310Z
 DTEND:20260620T125310Z
@@ -1041,7 +1016,7 @@ SUMMARY:🛠️ otevření bytu/auta - Jihlava
 LOCATION:Václavkova\, Jihlava
 GEO:49.408193;15.584281
 URL:geo:49.408193,15.584281
-DESCRIPTION:📍 Václavkova\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+DESCRIPTION:📍 Václavkova\, Jihlava\n💬 Otevření bytu\n\n🚒 CAS (CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:413437061
@@ -1084,8 +1059,8 @@ DTEND:20260622T120046Z
 DTSTAMP:20260622T110046Z
 SUMMARY:🛠️ ostatní - Jemnice
 LOCATION:Havlíčkovo náměstí\, Jemnice
-GEO:49.018406;15.571640
-URL:geo:49.018406,15.571640
+GEO:49.018011;15.571232
+URL:geo:49.018011,15.571232
 DESCRIPTION:📍 Havlíčkovo náměstí\, Jemnice\, Třebíč\n\n🚒 CAS (HS Jemnice)
 END:VEVENT
 END:VCALENDAR
