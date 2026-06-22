@@ -140,4 +140,15 @@ DESCRIPTION:📍 Pražská\, Pelhřimov\n💬 DN OA - motocykl se zraněním. ZZ
  sportovala jednu zraněnou osobu k dalšímu ošetření do ON. Odstranění násle
  dků po DN.\n\n🚒 CAS (CHS Pelhřimov)
 END:VEVENT
+BEGIN:VEVENT
+UID:413476061
+DTSTART:20260622T172330Z
+DTEND:20260622T182330Z
+DTSTAMP:20260622T172330Z
+SUMMARY:🛠️ ostatní - Těmice
+LOCATION:Těmice
+GEO:49.350211;15.060493
+URL:geo:49.350211,15.060493
+DESCRIPTION:📍 Těmice\, Pelhřimov\n\n🚒 CAS (Těmice)
+END:VEVENT
 END:VCALENDAR
