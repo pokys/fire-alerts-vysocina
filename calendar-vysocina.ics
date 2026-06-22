@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:413303061
-DTSTART:20260620T115310Z
-DTEND:20260620T125310Z
-DTSTAMP:20260620T115310Z
-SUMMARY:🛠️ ostatní - Světlá nad Sázavou
-LOCATION:Krátká\, Světlá nad Sázavou
-GEO:49.674001;15.405215
-URL:geo:49.674001,15.405215
-DESCRIPTION:📍 Krátká\, Světlá nad Sázavou\, Havlíčkův Brod\n💬 Čištění kanal
- izace.\n\n🚒 CAS (Světlá nad Sázavou)
-END:VEVENT
-BEGIN:VEVENT
 UID:413304061
 DTSTART:20260620T120803Z
 DTEND:20260620T130803Z
@@ -1050,7 +1038,8 @@ SUMMARY:🛠️ obtížný hmyz - Třebíč
 LOCATION:Cyrilometodějská\, Třebíč
 GEO:49.214977;15.888806
 URL:geo:49.214977,15.888806
-DESCRIPTION:📍 Cyrilometodějská\, Nové Dvory\, Třebíč\n\n🚒 CAS (CHS Třebíč)
+DESCRIPTION:📍 Cyrilometodějská\, Nové Dvory\, Třebíč\n💬 Odstranění obtížnéh
+ o hmyzu.\n\n🚒 CAS (CHS Třebíč)
 END:VEVENT
 BEGIN:VEVENT
 UID:413440061
