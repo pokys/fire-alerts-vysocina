@@ -1062,8 +1062,9 @@ SUMMARY:🚗 se zraněním - Sedlec
 LOCATION:Sedlec
 GEO:49.178628;16.122784
 URL:geo:49.178628,16.122784
-DESCRIPTION:📍 Sedlec\, Třebíč\n\n🚒 CAS (HS Náměšť nad Oslavou)\n🚒 RZA (VHJ 
- 2427 Náměšť nad Oslavou)\n🚒 VEA (VHJ 2427 Náměšť nad Oslavou)
+DESCRIPTION:📍 Sedlec\, Třebíč\n\n🚒 CAS (HS Náměšť nad Oslavou)\n🚒 osobní au
+ tomobil (HS Náměšť nad Oslavou)\n🚒 RZA (VHJ 2427 Náměšť nad Oslavou)\n🚒 VE
+ A (VHJ 2427 Náměšť nad Oslavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:413415061
@@ -1072,8 +1073,8 @@ DTEND:20260622T052454Z
 DTSTAMP:20260622T042454Z
 SUMMARY:🚗 se zraněním - Dlouhá Brtnice
 LOCATION:Dlouhá Brtnice
-GEO:49.245924;15.599763
-URL:geo:49.245924,15.599763
+GEO:49.251555;15.596198
+URL:geo:49.251555,15.596198
 DESCRIPTION:📍 Dlouhá Brtnice\, Jihlava\n\n🚒 CAS (HS Třešť)\n🚒 CAS (Stonařov
  )
 END:VEVENT
