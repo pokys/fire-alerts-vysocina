@@ -929,4 +929,16 @@ DESCRIPTION:📍 Rozsochatec\, Havlíčkův Brod\n💬 Odstranění úniku oleje
  hnické závadě na traktru. Odstraněno za pomoci sorbentu.\n\n🚒 CAS (HS Chot
  ěboř)\n🚒 osobní automobil (HS Chotěboř)
 END:VEVENT
+BEGIN:VEVENT
+UID:413526061
+DTSTART:20260623T152216Z
+DTEND:20260623T162216Z
+DTSTAMP:20260623T152216Z
+SUMMARY:🛠️ obtížný hmyz - Obyčtov
+LOCATION:Obyčtov
+GEO:49.498941;16.002967
+URL:geo:49.498941,16.002967
+DESCRIPTION:📍 Obyčtov\, Žďár nad Sázavou\n💬 Odstranění obtížného hmyzu.\n\n
+ 🚒 CAS (Ostrov nad Oslavou)
+END:VEVENT
 END:VCALENDAR
