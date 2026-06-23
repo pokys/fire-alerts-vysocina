@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:413364061
-DTSTART:20260621T011352Z
-DTEND:20260621T021352Z
-DTSTAMP:20260621T011352Z
-SUMMARY:🚗 úklid místa - Dehtáře
-LOCATION:Dehtáře
-GEO:49.486450;15.287943
-URL:geo:49.486450,15.287943
-DESCRIPTION:📍 Onšovice\, Dehtáře\, Pelhřimov\n💬 DN OA náraz do stromu\, bez
-  zranění. Zajištění místa nehody a úklid komunikace.\n\n🚒 CAS (HS Humpolec
- )
-END:VEVENT
-BEGIN:VEVENT
 UID:413366061
 DTSTART:20260621T041149Z
 DTEND:20260621T051149Z
@@ -932,11 +919,11 @@ UID:413492061
 DTSTART:20260623T002846Z
 DTEND:20260623T012846Z
 DTSTAMP:20260623T002846Z
-SUMMARY:🔥 Havlíčkův Brod
+SUMMARY:⚠️ planý poplach - Havlíčkův Brod
 LOCATION:Baštínov\, Havlíčkův Brod
 GEO:49.584617;15.607153
 URL:geo:49.584617,15.607153
-DESCRIPTION:📍 Baštínov\, Mírovka\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův B
- rod)\n🚒 CAS (CHS Havlíčkův Brod)
+DESCRIPTION:📍 Baštínov\, Mírovka\, Havlíčkův Brod\n💬 Planý poplach.\n\n🚒 CA
+ S (CHS Havlíčkův Brod)\n🚒 CAS (CHS Havlíčkův Brod)
 END:VEVENT
 END:VCALENDAR
