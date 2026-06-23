@@ -905,4 +905,28 @@ DESCRIPTION:📍 Luka nad Jihlavou\, Jihlava\n💬 DN 2 OA. 2 zraněné osoby\, 
  vedeno zajištění místa nehody a řízení dopravy na místě.\n\n🚒 CAS (CHS Jih
  lava)\n🚒 RZA (CHS Jihlava)
 END:VEVENT
+BEGIN:VEVENT
+UID:413496061
+DTSTART:20260623T055235Z
+DTEND:20260623T065235Z
+DTSTAMP:20260623T055235Z
+SUMMARY:🔥 Batelov
+LOCATION:Školní\, Batelov
+GEO:49.313555;15.390753
+URL:geo:49.313555,15.390753
+DESCRIPTION:📍 Školní\, Batelov\, Jihlava\n\n🚒 CAS (HS Třešť)\n🚒 CAS (Batelo
+ v)\n🚒 CAS (Dolní Cerekev)
+END:VEVENT
+BEGIN:VEVENT
+UID:413498061
+DTSTART:20260623T055437Z
+DTEND:20260623T065437Z
+DTSTAMP:20260623T055437Z
+SUMMARY:⚠️ planý poplach - Žďár nad Sázavou
+LOCATION:Brněnská\, Žďár nad Sázavou
+GEO:49.557083;15.949104
+URL:geo:49.557083,15.949104
+DESCRIPTION:📍 Brněnská\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n\n🚒 CAS (CH
+ S Žďár nad Sázavou) ×2
+END:VEVENT
 END:VCALENDAR
