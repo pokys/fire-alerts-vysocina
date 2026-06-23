@@ -915,4 +915,15 @@ URL:geo:49.584617,15.607153
 DESCRIPTION:📍 Baštínov\, Mírovka\, Havlíčkův Brod\n💬 Planý poplach.\n\n🚒 CA
  S (CHS Havlíčkův Brod)\n🚒 CAS (CHS Havlíčkův Brod)
 END:VEVENT
+BEGIN:VEVENT
+UID:413491061
+DTSTART:20260622T234408Z
+DTEND:20260623T004408Z
+DTSTAMP:20260622T234408Z
+SUMMARY:🛠️ otevření bytu/auta - Havlíčkův Brod
+LOCATION:Dobrovského\, Havlíčkův Brod
+GEO:49.612101;15.578898
+URL:geo:49.612101,15.578898
+DESCRIPTION:📍 Dobrovského\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)
+END:VEVENT
 END:VCALENDAR
