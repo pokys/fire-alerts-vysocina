@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:413401061
-DTSTART:20260621T174838Z
-DTEND:20260621T184838Z
-DTSTAMP:20260621T174838Z
-SUMMARY:🚗 dopravní nehoda - Rovečné
-LOCATION:Rovečné
-GEO:49.594577;16.366676
-URL:geo:49.594577,16.366676
-DESCRIPTION:📍 Rovečné\, Žďár nad Sázavou\n💬 DN 1 OA se zraněním jedné osoby
- . Jednotky provedly zajištění místa nehody.\n\n🚒 CAS (HS Bystřice nad Pern
- štejnem)\n🚒 DA (Bystré)\n🚒 CAS (Bystré)
-END:VEVENT
-BEGIN:VEVENT
 UID:413405061
 DTSTART:20260621T203304Z
 DTEND:20260621T213304Z
@@ -961,7 +948,8 @@ SUMMARY:🛠️ obtížný hmyz - Havlíčkův Brod
 LOCATION:Zahradnického\, Havlíčkův Brod
 GEO:49.616523;15.571948
 URL:geo:49.616523,15.571948
-DESCRIPTION:📍 Zahradnického\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)
+DESCRIPTION:📍 Zahradnického\, Havlíčkův Brod\n💬 Odstranění obtížného hmyzu.
+ \n\n🚒 CAS (CHS Havlíčkův Brod)
 END:VEVENT
 BEGIN:VEVENT
 UID:413530061
