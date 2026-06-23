@@ -913,8 +913,8 @@ LOCATION:Rozsochatec
 GEO:49.668293;15.625980
 URL:geo:49.668293,15.625980
 DESCRIPTION:📍 Rozsochatec\, Havlíčkův Brod\n💬 Odstranění úniku oleje po tec
- hnické závadě na traktru. Odstraněno za pomoci sorbentu.\n\n🚒 CAS (HS Chot
- ěboř)\n🚒 osobní automobil (HS Chotěboř)
+ hnické závadě na traktoru. Odstraněno za pomoci sorbentu.\n\n🚒 CAS (HS Cho
+ těboř)\n🚒 osobní automobil (HS Chotěboř)
 END:VEVENT
 BEGIN:VEVENT
 UID:413526061
@@ -927,5 +927,16 @@ GEO:49.498941;16.002967
 URL:geo:49.498941,16.002967
 DESCRIPTION:📍 Obyčtov\, Žďár nad Sázavou\n💬 Odstranění obtížného hmyzu.\n\n
  🚒 CAS (Ostrov nad Oslavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:413527061
+DTSTART:20260623T155114Z
+DTEND:20260623T165114Z
+DTSTAMP:20260623T155114Z
+SUMMARY:🛠️ ostatní - Budíkov
+LOCATION:Budíkov
+GEO:49.588012;15.380243
+URL:geo:49.588012,15.380243
+DESCRIPTION:📍 Malý Budíkov\, Budíkov\, Pelhřimov\n\n🚒 CAS (Kejžlice)
 END:VEVENT
 END:VCALENDAR
