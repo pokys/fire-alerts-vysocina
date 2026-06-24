@@ -923,4 +923,65 @@ DESCRIPTION:📍 Matějkova\, Pelhřimov\n💬 Požár ohlášený systémem ele
  ožární signalizace. Průzkumem bylo zjištěno\, že se jedná o planý poplach.
  \n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (CHS Pelhřimov)
 END:VEVENT
+BEGIN:VEVENT
+UID:413547061
+DTSTART:20260624T063309Z
+DTEND:20260624T073309Z
+DTSTAMP:20260624T063309Z
+SUMMARY:🚑 otevření/asistence - Havlíčkův Brod
+LOCATION:Masarykova\, Havlíčkův Brod
+GEO:49.607187;15.573478
+URL:geo:49.607187,15.573478
+DESCRIPTION:📍 Masarykova\, Havlíčkův Brod\n💬 Otevření bytu.\n\n🚒 CAS (CHS H
+ avlíčkův Brod)
+END:VEVENT
+BEGIN:VEVENT
+UID:413549061
+DTSTART:20260624T064219Z
+DTEND:20260624T074219Z
+DTSTAMP:20260624T064219Z
+SUMMARY:🚑 spolupráce ZZS - Krahulov
+LOCATION:Krahulov
+GEO:49.215826;15.807929
+URL:geo:49.215826,15.807929
+DESCRIPTION:📍 Krahulov\, Třebíč\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (Okříšky)
+END:VEVENT
+BEGIN:VEVENT
+UID:413550061
+DTSTART:20260624T064341Z
+DTEND:20260624T074341Z
+DTSTAMP:20260624T064341Z
+SUMMARY:🔥 venkovní požár - Petrůvky
+LOCATION:Petrůvky
+GEO:49.164945;15.901298
+URL:geo:49.164945,15.901298
+DESCRIPTION:📍 Petrůvky\, Třebíč\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (CHS Třebíč)\n
+ 🚒 CAS (Jaroměřice nad Rokytnou)\n🚒 CAS (Jaroměřice nad Rokytnou)\n🚒 CAS (L
+ ipník)
+END:VEVENT
+BEGIN:VEVENT
+UID:413551061
+DTSTART:20260624T064650Z
+DTEND:20260624T074650Z
+DTSTAMP:20260624T064650Z
+SUMMARY:☣️ olej/PHM - Velké Meziříčí
+LOCATION:Lipnice\, Velké Meziříčí
+GEO:49.350912;16.018619
+URL:geo:49.350912,16.018619
+DESCRIPTION:📍 Lipnice\, Velké Meziříčí\, Žďár nad Sázavou\n\n🚒 CAS (HS Velk
+ é Meziříčí)\n🚒 RZA (HS Velké Meziříčí)
+END:VEVENT
+BEGIN:VEVENT
+UID:413552061
+DTSTART:20260624T064801Z
+DTEND:20260624T074801Z
+DTSTAMP:20260624T064801Z
+SUMMARY:🔥 Ždírec
+LOCATION:Ždírec
+GEO:49.454172;15.674089
+URL:geo:49.454172,15.674089
+DESCRIPTION:📍 Ždírec\, Jihlava\n\n🚒 CAS (CHS Jihlava)\n🚒 AŽ (CHS Jihlava)\n
+ 🚒 CAS (HS Polná)\n🚒 CAS (Dobronín)\n🚒 CAS (Jihlava-Bedřichov)\n🚒 CAS (Poln
+ á)\n🚒 DA (Ždírec (JI))
+END:VEVENT
 END:VCALENDAR
