@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:413487061
-DTSTART:20260622T210801Z
-DTEND:20260622T220801Z
-DTSTAMP:20260622T210801Z
-SUMMARY:🛠️ ostatní - Havlíčkův Brod
-LOCATION:Na Spravedlnosti\, Havlíčkův Brod
-GEO:49.614385;15.577424
-URL:geo:49.614385,15.577424
-DESCRIPTION:📍 Na Spravedlnosti\, Havlíčkův Brod\n💬 Pomoc se zvednutím imobi
- lní osoby.\n\n🚒 CAS (CHS Havlíčkův Brod)
-END:VEVENT
-BEGIN:VEVENT
 UID:413488061
 DTSTART:20260622T222036Z
 DTEND:20260622T232036Z
@@ -853,8 +841,9 @@ SUMMARY:🔥 les - Třebíč
 LOCATION:Třebíč
 GEO:49.215444;15.837151
 URL:geo:49.215444,15.837151
-DESCRIPTION:📍 Řípov\, Třebíč\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (CHS Třebíč)\n🚒 s
- tříkačka přenosná (Třebíč-Sokolí)\n🚒 automobilová stříkačka (Stařeč)\n🚒 CA
- S (Stařeč)\n🚒 vyšetřovací automobil (ÚO Třebíč)
+DESCRIPTION:📍 Řípov\, Třebíč\n💬 Požár lesního porostu. Lokalizace a likvida
+ ce.\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (CHS Třebíč)\n🚒 stříkačka přenosná (Třebí
+ č-Sokolí)\n🚒 automobilová stříkačka (Stařeč)\n🚒 CAS (Stařeč)\n🚒 vyšetřovac
+ í automobil (ÚO Třebíč)
 END:VEVENT
 END:VCALENDAR
