@@ -602,9 +602,9 @@ SUMMARY:🚗 dopravní nehoda - Luka nad Jihlavou
 LOCATION:Luka nad Jihlavou
 GEO:49.371694;15.695250
 URL:geo:49.371694,15.695250
-DESCRIPTION:📍 Luka nad Jihlavou\, Jihlava\n💬 DN 2 OA. 2 zraněné osoby\, pro
- vedeno zajištění místa nehody a řízení dopravy na místě.\n\n🚒 CAS (CHS Jih
- lava)\n🚒 RZA (CHS Jihlava)
+DESCRIPTION:📍 Luka nad Jihlavou\, Jihlava\n💬 DN 2 OA\, 2 zraněné osoby\, pr
+ ovedeno zajištění místa nehody a řízení dopravy na místě.\n\n🚒 CAS (CHS Ji
+ hlava)\n🚒 RZA (CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:413496061
@@ -788,7 +788,7 @@ SUMMARY:🛠️ ostatní - Jihlava
 LOCATION:Jihlava
 GEO:49.380800;15.512620
 URL:geo:49.380800,15.512620
-DESCRIPTION:💬 Zametení střepů na komunikaci.\n\n🚒 CAS (CHS Jihlava)
+DESCRIPTION:💬 Úklid střepů na komunikaci.\n\n🚒 CAS (CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:413519061
@@ -836,8 +836,8 @@ LOCATION:Rozsochatec
 GEO:49.668293;15.625980
 URL:geo:49.668293,15.625980
 DESCRIPTION:📍 Rozsochatec\, Havlíčkův Brod\n💬 Odstranění úniku oleje po tec
- hnické závadě na traktoru. Odstraněno za pomoci sorbentu.\n\n🚒 CAS (HS Cho
- těboř)\n🚒 osobní automobil (HS Chotěboř)
+ hnické závadě na traktoru.\n\n🚒 CAS (HS Chotěboř)\n🚒 osobní automobil (HS 
+ Chotěboř)
 END:VEVENT
 BEGIN:VEVENT
 UID:413526061
@@ -896,7 +896,8 @@ SUMMARY:🛠️ ostatní - Jihlava
 LOCATION:Okružní\, Jihlava
 GEO:49.403356;15.603563
 URL:geo:49.403356,15.603563
-DESCRIPTION:📍 Okružní\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+DESCRIPTION:📍 Okružní\, Jihlava\n💬 Měření koncentrací.\n\n🚒 CAS (CHS Jihlav
+ a)
 END:VEVENT
 BEGIN:VEVENT
 UID:413533061
@@ -943,8 +944,8 @@ SUMMARY:🚗 dopravní nehoda - Přibyslav
 LOCATION:Přibyslav
 GEO:49.582023;15.734178
 URL:geo:49.582023,15.734178
-DESCRIPTION:📍 Dobrá\, Přibyslav\, Havlíčkův Brod\n\n🚒 CAS (HS Polná)\n🚒 CAS
-  (Přibyslav)
+DESCRIPTION:📍 Dobrá\, Přibyslav\, Havlíčkův Brod\n💬 DN 2 OA\, 1 zraněná oso
+ ba. Zajištění místa události.\n\n🚒 CAS (HS Polná)\n🚒 CAS (Přibyslav)
 END:VEVENT
 BEGIN:VEVENT
 UID:413538061
@@ -955,6 +956,18 @@ SUMMARY:🛠️ otevření bytu/auta - Havlíčkův Brod
 LOCATION:Šubrtova\, Havlíčkův Brod
 GEO:49.610642;15.574544
 URL:geo:49.610642,15.574544
-DESCRIPTION:📍 Šubrtova\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)
+DESCRIPTION:📍 Šubrtova\, Havlíčkův Brod\n💬 Otevření bytu.\n\n🚒 CAS (CHS Hav
+ líčkův Brod)
+END:VEVENT
+BEGIN:VEVENT
+UID:413539061
+DTSTART:20260624T050152Z
+DTEND:20260624T060152Z
+DTSTAMP:20260624T050152Z
+SUMMARY:🛠️ ostatní - Batelov
+LOCATION:Tkalcovská\, Batelov
+GEO:49.309598;15.392006
+URL:geo:49.309598,15.392006
+DESCRIPTION:📍 Tkalcovská\, Batelov\, Jihlava\n\n🚒 CAS (Batelov)
 END:VEVENT
 END:VCALENDAR
