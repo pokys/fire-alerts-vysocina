@@ -97,8 +97,8 @@ SUMMARY:🔥 vozidlo - Pelhřimov
 LOCATION:Pelhřimov
 GEO:49.440819;15.228186
 URL:geo:49.440819,15.228186
-DESCRIPTION:💬 Požár osobního auta. Byla provedena lokalizace a likvidace po
- žáru.\n\n🚒 CAS (CHS Pelhřimov)\n🚒 vyšetřovací automobil (ÚO Pelhřimov)
+DESCRIPTION:💬 Požár osobního auta. Lokalizace a likvidace.\n\n🚒 CAS (CHS Pe
+ lhřimov)\n🚒 vyšetřovací automobil (ÚO Pelhřimov)
 END:VEVENT
 BEGIN:VEVENT
 UID:413586061
@@ -121,6 +121,6 @@ SUMMARY:🛠️ ostatní - Čejov
 LOCATION:Čejov
 GEO:49.565649;15.379248
 URL:geo:49.565649,15.379248
-DESCRIPTION:📍 Čejov\, Pelhřimov\n\n🚒 CAS (Humpolec)
+DESCRIPTION:📍 Čejov\, Pelhřimov\n💬 ZOČ.\n\n🚒 CAS (Humpolec)
 END:VEVENT
 END:VCALENDAR

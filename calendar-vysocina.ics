@@ -5,16 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:413473061
-DTSTART:20260622T165956Z
-DTEND:20260622T175956Z
-DTSTAMP:20260622T165956Z
-SUMMARY:🛠️ obtížný hmyz - Police
-LOCATION:Police
-DESCRIPTION:📍 Police\, Třebíč\n💬 Odstranění obtížného hmyzu.\n\n🚒 CAS (HS J
- emnice)
-END:VEVENT
-BEGIN:VEVENT
 UID:413474061
 DTSTART:20260622T170624Z
 DTEND:20260622T180624Z
@@ -694,8 +684,8 @@ SUMMARY:🔥 vozidlo - Pelhřimov
 LOCATION:Pelhřimov
 GEO:49.440819;15.228186
 URL:geo:49.440819,15.228186
-DESCRIPTION:💬 Požár osobního auta. Byla provedena lokalizace a likvidace po
- žáru.\n\n🚒 CAS (CHS Pelhřimov)\n🚒 vyšetřovací automobil (ÚO Pelhřimov)
+DESCRIPTION:💬 Požár osobního auta. Lokalizace a likvidace.\n\n🚒 CAS (CHS Pe
+ lhřimov)\n🚒 vyšetřovací automobil (ÚO Pelhřimov)
 END:VEVENT
 BEGIN:VEVENT
 UID:413573061
@@ -767,10 +757,9 @@ SUMMARY:🚗 dopravní nehoda - Zubří
 LOCATION:Zubří
 GEO:49.570614;16.125067
 URL:geo:49.570614,16.125067
-DESCRIPTION:📍 Zubří\, Žďár nad Sázavou\n💬 Dopravní nehoda cyklisty a jednoh
- o osobního automobilu\, provedeno zabezpečení místa nehody. Na místě jedna
-  zraněná osoba.\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 TA (Nové Město na Morav
- ě)
+DESCRIPTION:📍 Zubří\, Žďár nad Sázavou\n💬 Dopravní nehoda cyklisty a 1 OA\,
+  provedeno zabezpečení místa nehody. Na místě jedna zraněná osoba.\n\n🚒 CA
+ S (CHS Žďár nad Sázavou)\n🚒 TA (Nové Město na Moravě)
 END:VEVENT
 BEGIN:VEVENT
 UID:413585061
@@ -805,8 +794,9 @@ SUMMARY:🔥 vozidlo - Jasenice
 LOCATION:Jasenice
 GEO:49.257971;16.174312
 URL:geo:49.257971,16.174312
-DESCRIPTION:📍 Jasenice\, Třebíč\n\n🚒 CAS (HS Náměšť nad Oslavou)\n🚒 CAS (HS
-  Velká Bíteš)\n🚒 DA (Jasenice)\n🚒 DA (Tasov)\n🚒 CAS (Tasov)
+DESCRIPTION:📍 Jasenice\, Třebíč\n💬 Požár kombajnu. Lokalizace a likvidace.\
+ n\n🚒 CAS (HS Náměšť nad Oslavou)\n🚒 CAS (HS Velká Bíteš)\n🚒 DA (Jasenice)\
+ n🚒 DA (Tasov)\n🚒 CAS (Tasov)
 END:VEVENT
 BEGIN:VEVENT
 UID:413588061
@@ -817,7 +807,7 @@ SUMMARY:🛠️ ostatní - Čejov
 LOCATION:Čejov
 GEO:49.565649;15.379248
 URL:geo:49.565649,15.379248
-DESCRIPTION:📍 Čejov\, Pelhřimov\n\n🚒 CAS (Humpolec)
+DESCRIPTION:📍 Čejov\, Pelhřimov\n💬 ZOČ.\n\n🚒 CAS (Humpolec)
 END:VEVENT
 BEGIN:VEVENT
 UID:413589061
@@ -828,8 +818,9 @@ SUMMARY:🔥 vozidlo - Kamenice
 LOCATION:Kamenice
 GEO:49.407654;15.777069
 URL:geo:49.407654,15.777069
-DESCRIPTION:📍 Kamenice\, Jihlava\n\n🚒 CAS (CHS Jihlava)\n🚒 CAS (CHS Jihlava
- )\n🚒 RZA (CHS Jihlava)
+DESCRIPTION:📍 Kamenice\, Jihlava\n💬 Požár návěsu.\n\n🚒 CAS (CHS Jihlava)\n🚒
+  CAS (CHS Jihlava)\n🚒 RZA (CHS Jihlava)\n🚒 vyšetřovací automobil (ÚO Jihla
+ va)
 END:VEVENT
 BEGIN:VEVENT
 UID:413591061
@@ -840,6 +831,18 @@ SUMMARY:🛠️ obtížný hmyz - Jemnice
 LOCATION:Pod Tržištěm\, Jemnice
 GEO:49.019692;15.576608
 URL:geo:49.019692,15.576608
-DESCRIPTION:📍 Pod Tržištěm\, Jemnice\, Třebíč\n\n🚒 CAS (HS Jemnice)
+DESCRIPTION:📍 Pod Tržištěm\, Jemnice\, Třebíč\n💬 Odstranění obtížného hmyzu
+ .\n\n🚒 CAS (HS Jemnice)
+END:VEVENT
+BEGIN:VEVENT
+UID:413592061
+DTSTART:20260624T164147Z
+DTEND:20260624T174147Z
+DTSTAMP:20260624T164147Z
+SUMMARY:🛠️ ostatní - Mastník
+LOCATION:Mastník
+GEO:49.182587;15.826028
+URL:geo:49.182587,15.826028
+DESCRIPTION:📍 Mastník\, Třebíč\n💬 ZOČ\n\n🚒 CAS (Stařeč)
 END:VEVENT
 END:VCALENDAR
