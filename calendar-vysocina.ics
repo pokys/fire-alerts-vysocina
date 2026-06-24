@@ -5,43 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:413417061
-DTSTART:20260622T052115Z
-DTEND:20260622T062115Z
-DTSTAMP:20260622T052115Z
-SUMMARY:🚗 dopravní nehoda - Číhošť
-LOCATION:Číhošť
-GEO:49.741185;15.336135
-URL:geo:49.741185,15.336135
-DESCRIPTION:📍 Číhošť\, Havlíčkův Brod\n💬 DN OA - traktor se zraněním. ZZS t
- ransportovala jednu zraněnou osobu k dalšímu ošetření do ON. Odstranění ná
- sledků po DN.\n\n🚒 CAS (HS Ledeč nad Sázavou)
-END:VEVENT
-BEGIN:VEVENT
-UID:413418061
-DTSTART:20260622T052804Z
-DTEND:20260622T062804Z
-DTSTAMP:20260622T052804Z
-SUMMARY:🚑 transport pacienta - Žďár nad Sázavou
-LOCATION:Hlohová\, Žďár nad Sázavou
-GEO:49.574425;15.946792
-URL:geo:49.574425,15.946792
-DESCRIPTION:📍 Hlohová\, Žďár nad Sázavou 5\, Žďár nad Sázavou\n💬 Transport 
- pacienta na žádost ZZS.\n\n🚒 CAS (CHS Žďár nad Sázavou)
-END:VEVENT
-BEGIN:VEVENT
-UID:413419061
-DTSTART:20260622T053048Z
-DTEND:20260622T063048Z
-DTSTAMP:20260622T053048Z
-SUMMARY:🛠️ spolupráce IZS - Chotěboř
-LOCATION:Železnohorská\, Chotěboř
-GEO:49.716213;15.679750
-URL:geo:49.716213,15.679750
-DESCRIPTION:📍 Železnohorská\, Chotěboř\, Havlíčkův Brod\n💬 Spolupráce se ZZ
- S.\n\n🚒 CAS (HS Chotěboř)
-END:VEVENT
-BEGIN:VEVENT
 UID:413423061
 DTSTART:20260622T062522Z
 DTEND:20260622T072522Z
