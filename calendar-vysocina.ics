@@ -579,11 +579,11 @@ DTEND:20260624T074341Z
 DTSTAMP:20260624T064341Z
 SUMMARY:🔥 venkovní požár - Petrůvky
 LOCATION:Petrůvky
-GEO:49.164945;15.901298
-URL:geo:49.164945,15.901298
+GEO:49.167002;15.901785
+URL:geo:49.167002,15.901785
 DESCRIPTION:📍 Petrůvky\, Třebíč\n💬 Požár skládky odpadu. Lokalizace a likvi
- dace.\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (CHS Třebíč)\n🚒 CAS (Jaroměřice nad Rok
- ytnou)\n🚒 CAS (Jaroměřice nad Rokytnou)\n🚒 DA (Lipník)\n🚒 CAS (Lipník)
+ dace.\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (Jaroměřice nad Rokytnou)\n🚒 CAS (Jarom
+ ěřice nad Rokytnou)\n🚒 DA (Lipník)\n🚒 CAS (Lipník)
 END:VEVENT
 BEGIN:VEVENT
 UID:413551061
@@ -818,5 +818,28 @@ LOCATION:Čejov
 GEO:49.565649;15.379248
 URL:geo:49.565649,15.379248
 DESCRIPTION:📍 Čejov\, Pelhřimov\n\n🚒 CAS (Humpolec)
+END:VEVENT
+BEGIN:VEVENT
+UID:413589061
+DTSTART:20260624T162422Z
+DTEND:20260624T172422Z
+DTSTAMP:20260624T162422Z
+SUMMARY:🔥 vozidlo - Kamenice
+LOCATION:Kamenice
+GEO:49.407654;15.777069
+URL:geo:49.407654,15.777069
+DESCRIPTION:📍 Kamenice\, Jihlava\n\n🚒 CAS (CHS Jihlava)\n🚒 CAS (CHS Jihlava
+ )\n🚒 RZA (CHS Jihlava)
+END:VEVENT
+BEGIN:VEVENT
+UID:413591061
+DTSTART:20260624T163325Z
+DTEND:20260624T173325Z
+DTSTAMP:20260624T163325Z
+SUMMARY:🛠️ obtížný hmyz - Jemnice
+LOCATION:Pod Tržištěm\, Jemnice
+GEO:49.019692;15.576608
+URL:geo:49.019692,15.576608
+DESCRIPTION:📍 Pod Tržištěm\, Jemnice\, Třebíč\n\n🚒 CAS (HS Jemnice)
 END:VEVENT
 END:VCALENDAR
