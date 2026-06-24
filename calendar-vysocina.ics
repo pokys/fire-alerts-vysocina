@@ -920,7 +920,8 @@ SUMMARY:🚑 spolupráce ZZS - Krahulov
 LOCATION:Krahulov
 GEO:49.215826;15.807929
 URL:geo:49.215826,15.807929
-DESCRIPTION:📍 Krahulov\, Třebíč\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (Okříšky)
+DESCRIPTION:📍 Krahulov\, Třebíč\n💬 Spolupráce s ZZS.\n\n🚒 CAS (CHS Třebíč)\
+ n🚒 CAS (Okříšky)
 END:VEVENT
 BEGIN:VEVENT
 UID:413550061
@@ -931,9 +932,9 @@ SUMMARY:🔥 venkovní požár - Petrůvky
 LOCATION:Petrůvky
 GEO:49.164945;15.901298
 URL:geo:49.164945,15.901298
-DESCRIPTION:📍 Petrůvky\, Třebíč\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (CHS Třebíč)\n
- 🚒 CAS (Jaroměřice nad Rokytnou)\n🚒 CAS (Jaroměřice nad Rokytnou)\n🚒 DA (Li
- pník)\n🚒 CAS (Lipník)
+DESCRIPTION:📍 Petrůvky\, Třebíč\n💬 Požár skládky odpadu. Lokalizace a likvi
+ dace.\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (CHS Třebíč)\n🚒 CAS (Jaroměřice nad Rok
+ ytnou)\n🚒 CAS (Jaroměřice nad Rokytnou)\n🚒 DA (Lipník)\n🚒 CAS (Lipník)
 END:VEVENT
 BEGIN:VEVENT
 UID:413551061
@@ -984,5 +985,28 @@ GEO:49.496766;16.097802
 URL:geo:49.496766,16.097802
 DESCRIPTION:📍 Bobrová\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒
   TA (Nové Město na Moravě)
+END:VEVENT
+BEGIN:VEVENT
+UID:413558061
+DTSTART:20260624T074237Z
+DTEND:20260624T084237Z
+DTSTAMP:20260624T074237Z
+SUMMARY:🚗 dopravní nehoda - Volevčice
+LOCATION:Volevčice
+GEO:49.206890;15.453196
+URL:geo:49.206890,15.453196
+DESCRIPTION:📍 Volevčice\, Jihlava\n\n🚒 CAS (HS Telč)
+END:VEVENT
+BEGIN:VEVENT
+UID:413561061
+DTSTART:20260624T074654Z
+DTEND:20260624T084654Z
+DTSTAMP:20260624T074654Z
+SUMMARY:☣️ olej/PHM - Jihlava
+LOCATION:Na Dolech\, Jihlava
+GEO:49.411482;15.566992
+URL:geo:49.411482,15.566992
+DESCRIPTION:📍 Na Dolech\, Jihlava\n\n🚒 CAS (CHS Jihlava)\n🚒 CAS (CHS Jihlav
+ a)
 END:VEVENT
 END:VCALENDAR
