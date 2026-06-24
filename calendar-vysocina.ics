@@ -5,44 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:413453061
-DTSTART:20260622T133418Z
-DTEND:20260622T143418Z
-DTSTAMP:20260622T133418Z
-SUMMARY:🚑 transport pacienta - Počátky
-LOCATION:Počátky
-GEO:49.248942;15.211700
-URL:geo:49.248942,15.211700
-DESCRIPTION:📍 Počátky\, Pelhřimov\n💬 Pád nezletilé osoby z kola.\n\n🚒 CAS (
- HS Kamenice nad Lipou)\n🚒 CAS (Počátky)
-END:VEVENT
-BEGIN:VEVENT
-UID:413455061
-DTSTART:20260622T133555Z
-DTEND:20260622T143555Z
-DTSTAMP:20260622T133555Z
-SUMMARY:🚗 dopravní nehoda - Pelhřimov
-LOCATION:Humpolecká\, Pelhřimov
-GEO:49.433965;15.227627
-URL:geo:49.433965,15.227627
-DESCRIPTION:📍 Humpolecká\, Pelhřimov\n💬 DN OA - chodec. Při DN došlo ke zra
- nění jedné osoby. ZZS transportovala jednu zraněnou osobu k dalšímu ošetře
- ní.\n\n🚒 CAS (CHS Pelhřimov)
-END:VEVENT
-BEGIN:VEVENT
-UID:413457061
-DTSTART:20260622T133706Z
-DTEND:20260622T143706Z
-DTSTAMP:20260622T133706Z
-SUMMARY:🚗 dopravní nehoda - Pelhřimov
-LOCATION:Pražská\, Pelhřimov
-GEO:49.436035;15.216481
-URL:geo:49.436035,15.216481
-DESCRIPTION:📍 Pražská\, Pelhřimov\n💬 DN OA - motocykl se zraněním. ZZS tran
- sportovala jednu zraněnou osobu k dalšímu ošetření do ON. Odstranění násle
- dků po DN.\n\n🚒 CAS (CHS Pelhřimov)
-END:VEVENT
-BEGIN:VEVENT
 UID:413461061
 DTSTART:20260622T135153Z
 DTEND:20260622T145153Z
@@ -891,5 +853,16 @@ GEO:49.287925;16.227384
 URL:geo:49.287925,16.227384
 DESCRIPTION:📍 Masarykovo náměstí\, Velká Bíteš\, Žďár nad Sázavou\n💬 Otevře
  ní bytu.\n\n🚒 CAS (HS Velká Bíteš)
+END:VEVENT
+BEGIN:VEVENT
+UID:413577061
+DTSTART:20260624T132841Z
+DTEND:20260624T142841Z
+DTSTAMP:20260624T132841Z
+SUMMARY:🚑 otevření/asistence - Jihlava
+LOCATION:Březinova\, Jihlava
+GEO:49.400566;15.605957
+URL:geo:49.400566,15.605957
+DESCRIPTION:📍 Březinova\, Jihlava\n\n🚒 CAS (CHS Jihlava)
 END:VEVENT
 END:VCALENDAR
