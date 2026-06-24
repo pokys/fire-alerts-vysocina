@@ -5,20 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:413415061
-DTSTART:20260622T042454Z
-DTEND:20260622T052454Z
-DTSTAMP:20260622T042454Z
-SUMMARY:🚗 se zraněním - Dlouhá Brtnice
-LOCATION:Dlouhá Brtnice
-GEO:49.251555;15.596198
-URL:geo:49.251555,15.596198
-DESCRIPTION:📍 Dlouhá Brtnice\, Jihlava\n💬 DN 3 OA se zraněním 3 osob. Jedna
-  osoba byla vyproštěna. Provedena PPO. Zajištění místa události.\n\n🚒 CAS 
- (HS Třešť)\n🚒 osobní automobil (HS Třešť)\n🚒 HVZ - nástroj střihací (HS Tř
- ešť)\n🚒 CAS (Stonařov)
-END:VEVENT
-BEGIN:VEVENT
 UID:413417061
 DTSTART:20260622T052115Z
 DTEND:20260622T062115Z
@@ -959,5 +945,16 @@ GEO:49.582023;15.734178
 URL:geo:49.582023,15.734178
 DESCRIPTION:📍 Dobrá\, Přibyslav\, Havlíčkův Brod\n\n🚒 CAS (HS Polná)\n🚒 CAS
   (Přibyslav)
+END:VEVENT
+BEGIN:VEVENT
+UID:413538061
+DTSTART:20260624T042646Z
+DTEND:20260624T052646Z
+DTSTAMP:20260624T042646Z
+SUMMARY:🛠️ otevření bytu/auta - Havlíčkův Brod
+LOCATION:Šubrtova\, Havlíčkův Brod
+GEO:49.610642;15.574544
+URL:geo:49.610642,15.574544
+DESCRIPTION:📍 Šubrtova\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)
 END:VEVENT
 END:VCALENDAR
