@@ -841,7 +841,7 @@ SUMMARY:🛠️ otevření bytu/auta - Jihlava
 LOCATION:Tylova\, Jihlava
 GEO:49.388008;15.596792
 URL:geo:49.388008,15.596792
-DESCRIPTION:📍 Tylova\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+DESCRIPTION:📍 Tylova\, Jihlava\n💬 Otevření bytu\n\n🚒 CAS (CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:413613061
@@ -854,6 +854,6 @@ GEO:49.215444;15.837151
 URL:geo:49.215444,15.837151
 DESCRIPTION:📍 Řípov\, Třebíč\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (CHS Třebíč)\n🚒 s
  tříkačka přenosná (Třebíč-Sokolí)\n🚒 automobilová stříkačka (Stařeč)\n🚒 CA
- S (Stařeč)
+ S (Stařeč)\n🚒 vyšetřovací automobil (ÚO Třebíč)
 END:VEVENT
 END:VCALENDAR
