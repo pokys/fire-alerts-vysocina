@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:413527061
-DTSTART:20260623T155114Z
-DTEND:20260623T165114Z
-DTSTAMP:20260623T155114Z
-SUMMARY:🛠️ ostatní - Budíkov
-LOCATION:Budíkov
-GEO:49.588012;15.380243
-URL:geo:49.588012,15.380243
-DESCRIPTION:📍 Malý Budíkov\, Budíkov\, Pelhřimov\n💬 Pročištění kanalizace.\
- n\n🚒 CAS (Kejžlice)
-END:VEVENT
-BEGIN:VEVENT
 UID:413528061
 DTSTART:20260623T161150Z
 DTEND:20260623T171150Z
@@ -858,7 +846,8 @@ SUMMARY:🚗 dopravní nehoda - Stará Říše
 LOCATION:Stará Říše
 GEO:49.183007;15.592783
 URL:geo:49.183007,15.592783
-DESCRIPTION:📍 Stará Říše\, Jihlava\n\n🚒 CAS (HS Telč)
+DESCRIPTION:📍 Stará Říše\, Jihlava\n💬 Dopravní nehoda cyklisty\, 1 zraněná 
+ osoba. Předlékařská pomoc. Zajištění místa.\n\n🚒 CAS (HS Telč)
 END:VEVENT
 BEGIN:VEVENT
 UID:413657061
@@ -903,6 +892,7 @@ SUMMARY:🚑 transport pacienta - Borek
 LOCATION:Borek
 GEO:49.793312;15.581637
 URL:geo:49.793312,15.581637
-DESCRIPTION:📍 Borek\, Havlíčkův Brod\n\n🚒 CAS (HS Chotěboř)
+DESCRIPTION:📍 Borek\, Havlíčkův Brod\n\n🚒 CAS (HS Chotěboř)\n🚒 osobní autom
+ obil (HS Chotěboř)\n🚒 přívěs lodní (HS Chotěboř)
 END:VEVENT
 END:VCALENDAR
