@@ -167,7 +167,8 @@ SUMMARY:🚑 spolupráce ZZS - Křešín
 LOCATION:Křešín
 GEO:49.589932;15.033952
 URL:geo:49.589932,15.033952
-DESCRIPTION:📍 Mohelnice\, Křešín\, Pelhřimov\n\n🚒 CAS (Onšov)
+DESCRIPTION:📍 Mohelnice\, Křešín\, Pelhřimov\n💬 Předlékařská první pomoc do
+  příjezdu ZZS.\n\n🚒 CAS (Onšov)
 END:VEVENT
 BEGIN:VEVENT
 UID:413652061
@@ -179,5 +180,16 @@ LOCATION:Staré Bříště
 GEO:49.484902;15.357195
 URL:geo:49.484902,15.357195
 DESCRIPTION:📍 Staré Bříště\, Pelhřimov\n\n🚒 CAS (HS Humpolec)
+END:VEVENT
+BEGIN:VEVENT
+UID:413657061
+DTSTART:20260625T143947Z
+DTEND:20260625T153947Z
+DTSTAMP:20260625T143947Z
+SUMMARY:🛠️ ostatní - Útěchovice
+LOCATION:Útěchovice
+GEO:49.477042;15.120229
+URL:geo:49.477042,15.120229
+DESCRIPTION:📍 Útěchovice\, Pelhřimov\n\n🚒 CAS (Červená Řečice)
 END:VEVENT
 END:VCALENDAR
