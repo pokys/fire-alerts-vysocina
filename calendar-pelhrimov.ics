@@ -156,7 +156,10 @@ SUMMARY:🚗 se zraněním - Leskovice
 LOCATION:Leskovice
 GEO:49.428813;15.084822
 URL:geo:49.428813,15.084822
-DESCRIPTION:📍 Leskovice\, Pelhřimov\n\n🚒 CAS (HS Pacov)\n🚒 CAS (HS Pacov)
+DESCRIPTION:📍 Leskovice\, Pelhřimov\n💬 Střet dodávky s OA\, 1 zraněná osoba
+ . Vyproštění 1 osoby z havarovného OA a její předání do péče ZZS. Zabepeče
+ ní havarovaných vozidel proti PO a proti úniku provozních kapalin.\n\n🚒 CA
+ S (HS Pacov)\n🚒 CAS (HS Pacov)
 END:VEVENT
 BEGIN:VEVENT
 UID:413648061
@@ -168,7 +171,7 @@ LOCATION:Křešín
 GEO:49.589932;15.033952
 URL:geo:49.589932,15.033952
 DESCRIPTION:📍 Mohelnice\, Křešín\, Pelhřimov\n💬 Předlékařská první pomoc do
-  příjezdu ZZS.\n\n🚒 CAS (Onšov)
+  příjezdu ZZS.\n\n🚒 CAS (Onšov)\n🚒 DA (Čechtice)\n🚒 CAS (Čechtice)
 END:VEVENT
 BEGIN:VEVENT
 UID:413652061
@@ -179,7 +182,8 @@ SUMMARY:🛠️ strom - Staré Bříště
 LOCATION:Staré Bříště
 GEO:49.484902;15.357195
 URL:geo:49.484902,15.357195
-DESCRIPTION:📍 Staré Bříště\, Pelhřimov\n\n🚒 CAS (HS Humpolec)
+DESCRIPTION:📍 Staré Bříště\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 CAS (HS H
+ umpolec)
 END:VEVENT
 BEGIN:VEVENT
 UID:413657061
