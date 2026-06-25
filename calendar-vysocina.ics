@@ -5,31 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:413500061
-DTSTART:20260623T064921Z
-DTEND:20260623T074921Z
-DTSTAMP:20260623T064921Z
-SUMMARY:🔥 les - Babice
-LOCATION:Babice
-GEO:49.152819;15.745921
-URL:geo:49.152819,15.745921
-DESCRIPTION:📍 Bolíkovice\, Babice\, Třebíč\n💬 Požár lesa.\n\n🚒 CAS (HS Mora
- vské Budějovice)\n🚒 CAS (HS Moravské Budějovice)\n🚒 CAS (Babice (TR))\n🚒 C
- AS (Čáslavice)\n🚒 CAS (Lesonice)
-END:VEVENT
-BEGIN:VEVENT
-UID:413501061
-DTSTART:20260623T065927Z
-DTEND:20260623T075927Z
-DTSTAMP:20260623T065927Z
-SUMMARY:🚗 dopravní nehoda - Třebíč
-LOCATION:ZK Pod Kuchyňkou\, Třebíč
-GEO:49.221363;15.863522
-URL:geo:49.221363,15.863522
-DESCRIPTION:📍 ZK Pod Kuchyňkou\, Podklášteří\, Třebíč\n💬 DN cyklisty\, 1 zr
- aněná osoba.\n\n🚒 CAS (CHS Třebíč)
-END:VEVENT
-BEGIN:VEVENT
 UID:413502061
 DTSTART:20260623T071731Z
 DTEND:20260623T081731Z
@@ -855,7 +830,8 @@ SUMMARY:🛠️ otevření bytu/auta - Havlíčkův Brod
 LOCATION:Na Výšině\, Havlíčkův Brod
 GEO:49.617143;15.574968
 URL:geo:49.617143,15.574968
-DESCRIPTION:📍 Na Výšině\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)
+DESCRIPTION:📍 Na Výšině\, Havlíčkův Brod\n💬 Otevření bytu.\n\n🚒 CAS (CHS Ha
+ vlíčkův Brod)
 END:VEVENT
 BEGIN:VEVENT
 UID:413626061
@@ -866,7 +842,8 @@ SUMMARY:🚑 otevření/asistence - Třebíč
 LOCATION:Koutkova\, Třebíč
 GEO:49.226684;15.872849
 URL:geo:49.226684,15.872849
-DESCRIPTION:📍 Koutkova\, Týn\, Třebíč\n\n🚒 CAS (CHS Třebíč)
+DESCRIPTION:📍 Koutkova\, Týn\, Třebíč\n💬 Otevření bytu.\n\n🚒 CAS (CHS Třebí
+ č)
 END:VEVENT
 BEGIN:VEVENT
 UID:413628061
