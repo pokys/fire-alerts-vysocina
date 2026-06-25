@@ -835,4 +835,16 @@ DESCRIPTION:📍 Hutě\, Cejle\, Jihlava\n\n🚒 CAS (CHS Jihlava)\n🚒 CAS (CH
  lava)\n🚒 CAS (HS Třešť)\n🚒 CAS (Dolní Cerekev)\n🚒 CAS (Dolní Cerekev)\n🚒 v
  yšetřovací automobil (ÚO Jihlava)
 END:VEVENT
+BEGIN:VEVENT
+UID:413645061
+DTSTART:20260625T124740Z
+DTEND:20260625T134740Z
+DTSTAMP:20260625T124740Z
+SUMMARY:🚗 dopravní nehoda - Batelov
+LOCATION:Třešťská\, Batelov
+GEO:49.313733;15.399951
+URL:geo:49.313733,15.399951
+DESCRIPTION:📍 Třešťská\, Batelov\, Jihlava\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (C
+ HS Jihlava)
+END:VEVENT
 END:VCALENDAR
