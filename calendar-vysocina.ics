@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:413494061
-DTSTART:20260623T044547Z
-DTEND:20260623T054547Z
-DTSTAMP:20260623T044547Z
-SUMMARY:🚗 dopravní nehoda - Luka nad Jihlavou
-LOCATION:Luka nad Jihlavou
-GEO:49.371694;15.695250
-URL:geo:49.371694,15.695250
-DESCRIPTION:📍 Luka nad Jihlavou\, Jihlava\n💬 DN 2 OA\, 2 zraněné osoby\, pr
- ovedeno zajištění místa nehody a řízení dopravy na místě.\n\n🚒 CAS (CHS Ji
- hlava)\n🚒 RZA (CHS Jihlava)
-END:VEVENT
-BEGIN:VEVENT
 UID:413496061
 DTSTART:20260623T055235Z
 DTEND:20260623T065235Z
@@ -821,7 +808,8 @@ SUMMARY:🚗 se zraněním - Jihlava
 LOCATION:Jihlava
 GEO:49.376453;15.588637
 URL:geo:49.376453,15.588637
-DESCRIPTION:🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihlava)
+DESCRIPTION:💬 DN OA a dodávky. 1 zraněná osoba. Provedeno zajištění místa n
+ ehody.\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:413617061
@@ -832,6 +820,7 @@ SUMMARY:🚑 otevření/asistence - Třebíč
 LOCATION:Obránců míru\, Třebíč
 GEO:49.217646;15.888078
 URL:geo:49.217646,15.888078
-DESCRIPTION:📍 Obránců míru\, Nové Dvory\, Třebíč\n\n🚒 CAS (CHS Třebíč)
+DESCRIPTION:📍 Obránců míru\, Nové Dvory\, Třebíč\n💬 Otevření bytu.\n\n🚒 CAS
+  (CHS Třebíč)
 END:VEVENT
 END:VCALENDAR
