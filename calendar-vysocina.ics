@@ -854,7 +854,32 @@ SUMMARY:☣️ plyn - Měřín
 LOCATION:U Hřiště\, Měřín
 GEO:49.394013;15.887883
 URL:geo:49.394013,15.887883
-DESCRIPTION:📍 U Hřiště\, Měřín\, Žďár nad Sázavou\n\n🚒 CAS (HS Velké Meziří
- čí)\n🚒 RZA (HS Velké Meziříčí)
+DESCRIPTION:📍 U Hřiště\, Měřín\, Žďár nad Sázavou\n💬 Zamezení úniku plynu u
+  přerušené plynová přípojky.\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (HS Velké
+  Meziříčí)
+END:VEVENT
+BEGIN:VEVENT
+UID:413629061
+DTSTART:20260625T070418Z
+DTEND:20260625T080418Z
+DTSTAMP:20260625T070418Z
+SUMMARY:☣️ olej/PHM - Lavičky
+LOCATION:Lavičky
+GEO:49.370531;15.968844
+URL:geo:49.370531,15.968844
+DESCRIPTION:📍 Lavičky\, Žďár nad Sázavou\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZ
+ A (HS Velké Meziříčí)
+END:VEVENT
+BEGIN:VEVENT
+UID:413630061
+DTSTART:20260625T070718Z
+DTEND:20260625T080718Z
+DTSTAMP:20260625T070718Z
+SUMMARY:🛠️ obtížný hmyz - Velká Losenice
+LOCATION:Velká Losenice
+GEO:49.582913;15.838249
+URL:geo:49.582913,15.838249
+DESCRIPTION:📍 Velká Losenice\, Žďár nad Sázavou\n💬 Odstranění obtížného hmy
+ zu.\n\n🚒 CAS (Velká Losenice)
 END:VEVENT
 END:VCALENDAR
