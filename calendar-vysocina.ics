@@ -770,8 +770,8 @@ DTEND:20260625T135307Z
 DTSTAMP:20260625T125307Z
 SUMMARY:🚗 se zraněním - Leskovice
 LOCATION:Leskovice
-GEO:49.428813;15.084822
-URL:geo:49.428813,15.084822
+GEO:49.428755;15.084889
+URL:geo:49.428755,15.084889
 DESCRIPTION:📍 Leskovice\, Pelhřimov\n💬 DN dodávky a OA\, 1 zraněná osoba. V
  yproštění 1 osoby z havarovného OA a její předání do péče ZZS. Zabepečení 
  havarovaných vozidel proti PO a proti úniku provozních kapalin.\n\n🚒 CAS (
@@ -868,8 +868,9 @@ SUMMARY:🚗 dopravní nehoda - Jihlava
 LOCATION:Slavíčkova\, Jihlava
 GEO:49.415844;15.588920
 URL:geo:49.415844,15.588920
-DESCRIPTION:📍 Slavíčkova\, Jihlava\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihla
- va)
+DESCRIPTION:📍 Slavíčkova\, Jihlava\n💬 DN cyklisty\, náraz do stromu. 1 zran
+ ěná osoba. Předlékařská pomoc. Zajištění místa nehody.\n\n🚒 CAS (CHS Jihla
+ va)\n🚒 RZA (CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:413661061
