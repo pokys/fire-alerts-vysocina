@@ -74,8 +74,8 @@ SUMMARY:🔥 technologie - Útěchovičky
 LOCATION:Útěchovičky
 GEO:49.465652;15.099155
 URL:geo:49.465652,15.099155
-DESCRIPTION:📍 Útěchovičky\, Pelhřimov\n💬 Bez bez účasti JPO.\n\n🚒 vyšetřova
- cí automobil (ÚO Pelhřimov)
+DESCRIPTION:📍 Útěchovičky\, Pelhřimov\n💬 Požár bez účasti JPO.\n\n🚒 vyšetřo
+ vací automobil (ÚO Pelhřimov)
 END:VEVENT
 BEGIN:VEVENT
 UID:413572061
@@ -111,5 +111,16 @@ LOCATION:Čejov
 GEO:49.565649;15.379248
 URL:geo:49.565649,15.379248
 DESCRIPTION:📍 Čejov\, Pelhřimov\n💬 ZOČ.\n\n🚒 CAS (Humpolec)
+END:VEVENT
+BEGIN:VEVENT
+UID:413619061
+DTSTART:20260625T050155Z
+DTEND:20260625T060155Z
+DTSTAMP:20260625T050155Z
+SUMMARY:🛠️ obtížný hmyz - Humpolec
+LOCATION:Sadová\, Humpolec
+GEO:49.533560;15.354121
+URL:geo:49.533560,15.354121
+DESCRIPTION:📍 Sadová\, Humpolec\, Pelhřimov\n\n🚒 CAS (HS Humpolec)
 END:VEVENT
 END:VCALENDAR
