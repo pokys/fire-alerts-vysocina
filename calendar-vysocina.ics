@@ -822,7 +822,8 @@ SUMMARY:🛠️ ostatní - Útěchovice
 LOCATION:Útěchovice
 GEO:49.477042;15.120229
 URL:geo:49.477042,15.120229
-DESCRIPTION:📍 Útěchovice\, Pelhřimov\n\n🚒 CAS (Červená Řečice)
+DESCRIPTION:📍 Útěchovice\, Pelhřimov\n💬 Pročištění kanalizace.\n\n🚒 CAS (Če
+ rvená Řečice)
 END:VEVENT
 BEGIN:VEVENT
 UID:413659061
@@ -858,8 +859,8 @@ LOCATION:Borek
 GEO:49.793312;15.581637
 URL:geo:49.793312,15.581637
 DESCRIPTION:📍 Borek\, Havlíčkův Brod\n💬 Transport pacienta na žádost ZZS.\n
- \n🚒 CAS (HS Chotěboř)\n🚒 osobní automobil (HS Chotěboř)\n🚒 přívěs lodní (H
- S Chotěboř)
+ \n🚒 CAS (HS Chotěboř)\n🚒 motor lodní (HS Chotěboř)\n🚒 osobní automobil (HS
+  Chotěboř)\n🚒 přívěs lodní (HS Chotěboř)
 END:VEVENT
 BEGIN:VEVENT
 UID:413662061
@@ -872,5 +873,29 @@ GEO:49.292734;15.991873
 URL:geo:49.292734,15.991873
 DESCRIPTION:📍 Hodov\, Třebíč\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (CHS Třebíč)\n🚒 C
  AS (HS Velké Meziříčí)\n🚒 DA (Budišov)\n🚒 CAS (Budišov)\n🚒 DA (Hodov)
+END:VEVENT
+BEGIN:VEVENT
+UID:413663061
+DTSTART:20260625T171121Z
+DTEND:20260625T181121Z
+DTSTAMP:20260625T171121Z
+SUMMARY:🛠️ obtížný hmyz - Lipnice nad Sázavou
+LOCATION:Lipnice nad Sázavou
+GEO:49.615202;15.409795
+URL:geo:49.615202,15.409795
+DESCRIPTION:📍 Lipnice nad Sázavou\, Havlíčkův Brod\n💬 Odstranění obtížného 
+ hmyzu.\n\n🚒 DA (Lipnice nad Sázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:413665061
+DTSTART:20260625T172340Z
+DTEND:20260625T182340Z
+DTSTAMP:20260625T172340Z
+SUMMARY:🛠️ ostatní - Žďár nad Sázavou
+LOCATION:nám. Republiky\, Žďár nad Sázavou
+GEO:49.563154;15.941916
+URL:geo:49.563154,15.941916
+DESCRIPTION:📍 nám. Republiky\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n\n🚒 C
+ AS (Žďár nad Sázavou-Zámek)
 END:VEVENT
 END:VCALENDAR
