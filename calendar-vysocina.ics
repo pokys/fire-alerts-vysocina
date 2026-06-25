@@ -885,4 +885,16 @@ DESCRIPTION:📍 Borek\, Havlíčkův Brod\n💬 Transport pacienta na žádost 
  \n🚒 CAS (HS Chotěboř)\n🚒 osobní automobil (HS Chotěboř)\n🚒 přívěs lodní (H
  S Chotěboř)
 END:VEVENT
+BEGIN:VEVENT
+UID:413662061
+DTSTART:20260625T164655Z
+DTEND:20260625T174655Z
+DTSTAMP:20260625T164655Z
+SUMMARY:🔥 tráva/plocha - Hodov
+LOCATION:Hodov
+GEO:49.292734;15.991873
+URL:geo:49.292734,15.991873
+DESCRIPTION:📍 Hodov\, Třebíč\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (CHS Třebíč)\n🚒 C
+ AS (HS Velké Meziříčí)\n🚒 DA (Budišov)\n🚒 CAS (Budišov)\n🚒 DA (Hodov)
+END:VEVENT
 END:VCALENDAR
