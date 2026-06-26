@@ -880,7 +880,7 @@ SUMMARY:🛠️ ostatní - Chotěboř
 LOCATION:Chotěboř
 GEO:49.720718;15.670181
 URL:geo:49.720718,15.670181
-DESCRIPTION:📍 Chotěboř\, Havlíčkův Brod\n\n🚒 CAS (Chotěboř)
+DESCRIPTION:📍 Chotěboř\, Havlíčkův Brod\n💬 ZOČ.\n\n🚒 CAS (Chotěboř)
 END:VEVENT
 BEGIN:VEVENT
 UID:413717061
@@ -914,7 +914,8 @@ SUMMARY:🔥 tráva/plocha - Jihlava
 LOCATION:Jihlava
 GEO:49.392296;15.573371
 URL:geo:49.392296,15.573371
-DESCRIPTION:🚒 CAS (CHS Jihlava) ×2\n🚒 vyšetřovací automobil (ÚO Jihlava)
+DESCRIPTION:💬 Požár tůjí na hřbitově. Provedena lokalizace a likvidace požá
+ ru.\n\n🚒 CAS (CHS Jihlava) ×2\n🚒 vyšetřovací automobil (ÚO Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:413720061
