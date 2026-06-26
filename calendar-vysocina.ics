@@ -5,17 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:413588061
-DTSTART:20260624T160522Z
-DTEND:20260624T170522Z
-DTSTAMP:20260624T160522Z
-SUMMARY:🛠️ ostatní - Čejov
-LOCATION:Čejov
-GEO:49.565649;15.379248
-URL:geo:49.565649,15.379248
-DESCRIPTION:📍 Čejov\, Pelhřimov\n💬 ZOČ.\n\n🚒 CAS (Humpolec)
-END:VEVENT
-BEGIN:VEVENT
 UID:413589061
 DTSTART:20260624T162422Z
 DTEND:20260624T172422Z
@@ -804,7 +793,7 @@ SUMMARY:🛠️ ostatní - Chotěboř
 LOCATION:Chotěboř
 GEO:49.720718;15.670181
 URL:geo:49.720718,15.670181
-DESCRIPTION:📍 Chotěboř\, Havlíčkův Brod\n💬 ZOČ.\n\n🚒 CAS (Chotěboř)
+DESCRIPTION:📍 Chotěboř\, Havlíčkův Brod\n💬 ZOČ.\n\n🚒 CAS (Chotěboř) ×2
 END:VEVENT
 BEGIN:VEVENT
 UID:413717061
@@ -947,8 +936,8 @@ SUMMARY:🛠️ ostatní - Žďár nad Sázavou
 LOCATION:nám. Republiky\, Žďár nad Sázavou
 GEO:49.562844;15.940106
 URL:geo:49.562844,15.940106
-DESCRIPTION:📍 nám. Republiky\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n\n🚒 C
- AS (Žďár nad Sázavou-Zámek)
+DESCRIPTION:📍 nám. Republiky\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n💬 ZOČ
+ .\n\n🚒 CAS (Žďár nad Sázavou-Zámek)
 END:VEVENT
 BEGIN:VEVENT
 UID:413733061
@@ -960,5 +949,41 @@ LOCATION:Srázná\, Jihlava
 GEO:49.401231;15.591855
 URL:geo:49.401231,15.591855
 DESCRIPTION:📍 Srázná\, Jihlava\n💬 Otevření bytu.\n\n🚒 CAS (CHS Jihlava)
+END:VEVENT
+BEGIN:VEVENT
+UID:413734061
+DTSTART:20260626T155716Z
+DTEND:20260626T165716Z
+DTSTAMP:20260626T155716Z
+SUMMARY:🛠️ otevření bytu/auta - Velké Meziříčí
+LOCATION:Velké Meziříčí
+GEO:49.347592;16.024862
+URL:geo:49.347592,16.024862
+DESCRIPTION:📍 Velké Meziříčí\, Žďár nad Sázavou\n💬 Otevření OA.\n\n🚒 RZA (H
+ S Velké Meziříčí)
+END:VEVENT
+BEGIN:VEVENT
+UID:413735061
+DTSTART:20260626T155842Z
+DTEND:20260626T165842Z
+DTSTAMP:20260626T155842Z
+SUMMARY:🛠️ obtížný hmyz - Moravské Budějovice
+LOCATION:K Hoře\, Moravské Budějovice
+GEO:49.063380;15.806187
+URL:geo:49.063380,15.806187
+DESCRIPTION:📍 K Hoře\, Moravské Budějovice\, Třebíč\n\n🚒 CAS (HS Moravské B
+ udějovice)
+END:VEVENT
+BEGIN:VEVENT
+UID:413738061
+DTSTART:20260626T160907Z
+DTEND:20260626T170907Z
+DTSTAMP:20260626T160907Z
+SUMMARY:🛠️ obtížný hmyz - Nové Veselí
+LOCATION:Nová\, Nové Veselí
+GEO:49.523045;15.906070
+URL:geo:49.523045,15.906070
+DESCRIPTION:📍 Nová\, Nové Veselí\, Žďár nad Sázavou\n💬 Odstranění obtížného
+  hmyzu.\n\n🚒 CAS (Nové Veselí)
 END:VEVENT
 END:VCALENDAR
