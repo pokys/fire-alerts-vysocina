@@ -1000,4 +1000,16 @@ URL:geo:49.603122,15.566310
 DESCRIPTION:📍 U Panských\, Havlíčkův Brod\n💬 Otevření bytu.\n\n🚒 CAS (CHS H
  avlíčkův Brod)
 END:VEVENT
+BEGIN:VEVENT
+UID:413732061
+DTSTART:20260626T145706Z
+DTEND:20260626T155706Z
+DTSTAMP:20260626T145706Z
+SUMMARY:🛠️ ostatní - Žďár nad Sázavou
+LOCATION:nám. Republiky\, Žďár nad Sázavou
+GEO:49.562844;15.940106
+URL:geo:49.562844,15.940106
+DESCRIPTION:📍 nám. Republiky\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n\n🚒 C
+ AS (Žďár nad Sázavou-Zámek)
+END:VEVENT
 END:VCALENDAR
