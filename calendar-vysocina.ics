@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:413575061
-DTSTART:20260624T104852Z
-DTEND:20260624T114852Z
-DTSTAMP:20260624T104852Z
-SUMMARY:🚑 otevření/asistence - Velká Bíteš
-LOCATION:Masarykovo náměstí\, Velká Bíteš
-GEO:49.287925;16.227384
-URL:geo:49.287925,16.227384
-DESCRIPTION:📍 Masarykovo náměstí\, Velká Bíteš\, Žďár nad Sázavou\n💬 Otevře
- ní bytu.\n\n🚒 CAS (HS Velká Bíteš)
-END:VEVENT
-BEGIN:VEVENT
 UID:413577061
 DTSTART:20260624T132841Z
 DTEND:20260624T142841Z
@@ -831,8 +819,9 @@ SUMMARY:🚑 otevření/asistence - Pelhřimov
 LOCATION:Pod Náspem\, Pelhřimov
 GEO:49.424735;15.223861
 URL:geo:49.424735,15.223861
-DESCRIPTION:📍 Pod Náspem\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)\n🚒 VYA (CHS P
- elhřimov)\n🚒 DA (ÚO Pelhřimov)
+DESCRIPTION:📍 Pod Náspem\, Pelhřimov\n💬 Záchrana uvízlé kočky z motorového 
+ prostoru OA.\n\n🚒 CAS (CHS Pelhřimov)\n🚒 VYA (CHS Pelhřimov)\n🚒 DA (ÚO Pel
+ hřimov)
 END:VEVENT
 BEGIN:VEVENT
 UID:413706061
@@ -854,8 +843,8 @@ SUMMARY:🚑 transport pacienta - Jihlava
 LOCATION:Březinova\, Jihlava
 GEO:49.400727;15.601374
 URL:geo:49.400727,15.601374
-DESCRIPTION:📍 Březinova\, Jihlava\n\n🚒 CAS (CHS Jihlava)\n🚒 AŽ (CHS Jihlava
- )
+DESCRIPTION:📍 Březinova\, Jihlava\n💬 Transport pacienta na žádost ZZS.\n\n🚒
+  CAS (CHS Jihlava)\n🚒 AŽ (CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:413709061
@@ -867,5 +856,16 @@ LOCATION:Čáslavice
 GEO:49.145161;15.750700
 URL:geo:49.145161,15.750700
 DESCRIPTION:📍 Čáslavice\, Třebíč\n\n🚒 CAS (Želetava)
+END:VEVENT
+BEGIN:VEVENT
+UID:413711061
+DTSTART:20260626T104725Z
+DTEND:20260626T114725Z
+DTSTAMP:20260626T104725Z
+SUMMARY:🛠️ obtížný hmyz - Dobronín
+LOCATION:Luční\, Dobronín
+GEO:49.477387;15.647633
+URL:geo:49.477387,15.647633
+DESCRIPTION:📍 Luční\, Dobronín\, Jihlava\n\n🚒 CAS (HS Polná)
 END:VEVENT
 END:VCALENDAR
