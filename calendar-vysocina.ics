@@ -903,8 +903,8 @@ SUMMARY:🛠️ otevření bytu/auta - Žďár nad Sázavou
 LOCATION:Haškova\, Žďár nad Sázavou
 GEO:49.554927;15.942659
 URL:geo:49.554927,15.942659
-DESCRIPTION:📍 Haškova\, Žďár nad Sázavou 6\, Žďár nad Sázavou\n\n🚒 CAS (CHS
-  Žďár nad Sázavou)
+DESCRIPTION:📍 Haškova\, Žďár nad Sázavou 6\, Žďár nad Sázavou\n💬 Otevření b
+ ytu.\n\n🚒 CAS (CHS Žďár nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:413718061
@@ -926,6 +926,29 @@ SUMMARY:🔥 tráva/plocha - Jihlava
 LOCATION:Jihlava
 GEO:49.392296;15.573371
 URL:geo:49.392296,15.573371
-DESCRIPTION:🚒 CAS (CHS Jihlava) ×2
+DESCRIPTION:🚒 CAS (CHS Jihlava) ×2\n🚒 vyšetřovací automobil (ÚO Jihlava)
+END:VEVENT
+BEGIN:VEVENT
+UID:413720061
+DTSTART:20260626T123357Z
+DTEND:20260626T133357Z
+DTSTAMP:20260626T123357Z
+SUMMARY:🚑 transport pacienta - Pacov
+LOCATION:Saši Machova\, Pacov
+GEO:49.476792;15.000603
+URL:geo:49.476792,15.000603
+DESCRIPTION:📍 Saši Machova\, Pacov\, Pelhřimov\n\n🚒 CAS (HS Pacov)
+END:VEVENT
+BEGIN:VEVENT
+UID:413722061
+DTSTART:20260626T125243Z
+DTEND:20260626T135243Z
+DTSTAMP:20260626T125243Z
+SUMMARY:🛠️ ostatní - Žďár nad Sázavou
+LOCATION:Tálský mlýn\, Žďár nad Sázavou
+GEO:49.588231;15.930730
+URL:geo:49.588231,15.930730
+DESCRIPTION:📍 Tálský mlýn\, Žďár nad Sázavou 2\, Žďár nad Sázavou\n\n🚒 CAS 
+ (Žďár nad Sázavou-Zámek)
 END:VEVENT
 END:VCALENDAR
