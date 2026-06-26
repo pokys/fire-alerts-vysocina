@@ -5,31 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:413612061
-DTSTART:20260624T193143Z
-DTEND:20260624T203143Z
-DTSTAMP:20260624T193143Z
-SUMMARY:🛠️ otevření bytu/auta - Jihlava
-LOCATION:Tylova\, Jihlava
-GEO:49.388008;15.596792
-URL:geo:49.388008,15.596792
-DESCRIPTION:📍 Tylova\, Jihlava\n💬 Otevření bytu\n\n🚒 CAS (CHS Jihlava)
-END:VEVENT
-BEGIN:VEVENT
-UID:413613061
-DTSTART:20260624T194427Z
-DTEND:20260624T204427Z
-DTSTAMP:20260624T194427Z
-SUMMARY:🔥 les - Třebíč
-LOCATION:Třebíč
-GEO:49.215444;15.837151
-URL:geo:49.215444,15.837151
-DESCRIPTION:📍 Řípov\, Třebíč\n💬 Požár lesního porostu. Lokalizace a likvida
- ce.\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (CHS Třebíč)\n🚒 stříkačka přenosná (Třebí
- č-Sokolí)\n🚒 automobilová stříkačka (Stařeč)\n🚒 CAS (Stařeč)\n🚒 vyšetřovac
- í automobil (ÚO Třebíč)
-END:VEVENT
-BEGIN:VEVENT
 UID:413616061
 DTSTART:20260625T035722Z
 DTEND:20260625T045722Z
@@ -897,7 +872,7 @@ SUMMARY:🛠️ ostatní - Rudolec
 LOCATION:Rudolec
 GEO:49.475786;15.834528
 URL:geo:49.475786,15.834528
-DESCRIPTION:📍 Rudolec\, Žďár nad Sázavou\n\n🚒 DA (Rudolec)
+DESCRIPTION:📍 Rudolec\, Žďár nad Sázavou\n💬 ZOČ.\n\n🚒 DA (Rudolec)
 END:VEVENT
 BEGIN:VEVENT
 UID:413741061
@@ -968,7 +943,8 @@ SUMMARY:🚗 dopravní nehoda - Jiřice
 LOCATION:Jiřice
 GEO:49.565179;15.289485
 URL:geo:49.565179,15.289485
-DESCRIPTION:📍 Speřice\, Jiřice\, Pelhřimov\n\n🚒 CAS (HS Humpolec)
+DESCRIPTION:📍 Speřice\, Jiřice\, Pelhřimov\n💬 DN 2 osobních vozidel a 1 kam
+ ionu.\n\n🚒 CAS (HS Humpolec)
 END:VEVENT
 BEGIN:VEVENT
 UID:413748061
@@ -980,5 +956,17 @@ LOCATION:Kněžice
 GEO:49.270778;15.672164
 URL:geo:49.270778,15.672164
 DESCRIPTION:📍 Kněžice\, Jihlava\n💬 ZOČ\n\n🚒 CAS (Kněžice)
+END:VEVENT
+BEGIN:VEVENT
+UID:413753061
+DTSTART:20260626T192509Z
+DTEND:20260626T202509Z
+DTSTAMP:20260626T192509Z
+SUMMARY:🛠️ monitoring - Žďár nad Sázavou
+LOCATION:Žďár nad Sázavou
+GEO:49.587009;15.928945
+URL:geo:49.587009,15.928945
+DESCRIPTION:📍 Žďár nad Sázavou 2\, Žďár nad Sázavou\n\n🚒 CAS (Žďár nad Sáza
+ vou-Zámek)
 END:VEVENT
 END:VCALENDAR
