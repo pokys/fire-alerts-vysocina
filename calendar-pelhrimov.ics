@@ -181,7 +181,8 @@ SUMMARY:🛠️ ostatní - Vojslavice
 LOCATION:Vojslavice
 GEO:49.594210;15.238690
 URL:geo:49.594210,15.238690
-DESCRIPTION:📍 Vojslavice\, Pelhřimov\n\n🚒 CAS (HS Humpolec)
+DESCRIPTION:📍 Vojslavice\, Pelhřimov\n💬 Zajištění OA po technické závadě.\n
+ \n🚒 CAS (HS Humpolec)
 END:VEVENT
 BEGIN:VEVENT
 UID:413720061
@@ -192,6 +193,7 @@ SUMMARY:🚑 transport pacienta - Pacov
 LOCATION:Saši Machova\, Pacov
 GEO:49.476792;15.000603
 URL:geo:49.476792,15.000603
-DESCRIPTION:📍 Saši Machova\, Pacov\, Pelhřimov\n\n🚒 CAS (HS Pacov)
+DESCRIPTION:📍 Saši Machova\, Pacov\, Pelhřimov\n💬 Transport pacienta na žád
+ ost ZZS.\n\n🚒 CAS (HS Pacov)
 END:VEVENT
 END:VCALENDAR

@@ -5,20 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:413579061
-DTSTART:20260624T140125Z
-DTEND:20260624T150125Z
-DTSTAMP:20260624T140125Z
-SUMMARY:🔥 tráva/plocha - Skřinářov
-LOCATION:Skřinářov
-GEO:49.365145;16.182555
-URL:geo:49.365145,16.182555
-DESCRIPTION:📍 Skřinářov\, Žďár nad Sázavou\n💬 Požár suché trávy a pařezů. P
- rovedena lokalizace a likvidace.\n\n🚒 CAS (HS Velká Bíteš)\n🚒 CAS (HS Velk
- á Bíteš) ×2\n🚒 CAS (Osová Bítýška)\n🚒 automobilová stříkačka (Skřinářov)\n
- 🚒 CAS (Velká Bíteš)
-END:VEVENT
-BEGIN:VEVENT
 UID:413582061
 DTSTART:20260624T152811Z
 DTEND:20260624T162811Z
@@ -903,7 +889,8 @@ SUMMARY:🛠️ ostatní - Vojslavice
 LOCATION:Vojslavice
 GEO:49.594210;15.238690
 URL:geo:49.594210,15.238690
-DESCRIPTION:📍 Vojslavice\, Pelhřimov\n\n🚒 CAS (HS Humpolec)
+DESCRIPTION:📍 Vojslavice\, Pelhřimov\n💬 Zajištění OA po technické závadě.\n
+ \n🚒 CAS (HS Humpolec)
 END:VEVENT
 BEGIN:VEVENT
 UID:413719061
@@ -914,7 +901,7 @@ SUMMARY:🔥 tráva/plocha - Jihlava
 LOCATION:Jihlava
 GEO:49.392296;15.573371
 URL:geo:49.392296,15.573371
-DESCRIPTION:💬 Požár tůjí na hřbitově. Provedena lokalizace a likvidace požá
+DESCRIPTION:💬 Požár tújí na hřbitově. Provedena lokalizace a likvidace požá
  ru.\n\n🚒 CAS (CHS Jihlava) ×2\n🚒 vyšetřovací automobil (ÚO Jihlava)
 END:VEVENT
 BEGIN:VEVENT
@@ -926,7 +913,8 @@ SUMMARY:🚑 transport pacienta - Pacov
 LOCATION:Saši Machova\, Pacov
 GEO:49.476792;15.000603
 URL:geo:49.476792,15.000603
-DESCRIPTION:📍 Saši Machova\, Pacov\, Pelhřimov\n\n🚒 CAS (HS Pacov)
+DESCRIPTION:📍 Saši Machova\, Pacov\, Pelhřimov\n💬 Transport pacienta na žád
+ ost ZZS.\n\n🚒 CAS (HS Pacov)
 END:VEVENT
 BEGIN:VEVENT
 UID:413722061
@@ -949,7 +937,7 @@ SUMMARY:🛠️ ostatní - Cidlina
 LOCATION:Cidlina
 GEO:49.128193;15.735535
 URL:geo:49.128193,15.735535
-DESCRIPTION:📍 Cidlina\, Třebíč\n\n🚒 CAS (Cidlina)
+DESCRIPTION:📍 Cidlina\, Třebíč\n💬 ZOČ - zalévání zeleně.\n\n🚒 CAS (Cidlina)
 END:VEVENT
 BEGIN:VEVENT
 UID:413724061
@@ -960,7 +948,8 @@ SUMMARY:🚗 se zraněním - Litohoř
 LOCATION:Litohoř
 GEO:49.066925;15.768057
 URL:geo:49.066925,15.768057
-DESCRIPTION:📍 Litohoř\, Třebíč\n\n🚒 CAS (HS Moravské Budějovice)
+DESCRIPTION:📍 Litohoř\, Třebíč\n💬 DN 3 OA se zraněním jedné osoby. Jednotka
+  provedla zajištění místa nehody.\n\n🚒 CAS (HS Moravské Budějovice)
 END:VEVENT
 BEGIN:VEVENT
 UID:413725061
