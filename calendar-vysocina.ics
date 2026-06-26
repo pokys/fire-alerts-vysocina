@@ -5,31 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:413563061
-DTSTART:20260624T082505Z
-DTEND:20260624T092505Z
-DTSTAMP:20260624T082505Z
-SUMMARY:🛠️ obtížný hmyz - Žďár nad Sázavou
-LOCATION:Barákova\, Žďár nad Sázavou
-GEO:49.559963;15.933179
-URL:geo:49.559963,15.933179
-DESCRIPTION:📍 Barákova\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n💬 Odstraněn
- í obtížného hmyzu.\n\n🚒 CAS (CHS Žďár nad Sázavou)
-END:VEVENT
-BEGIN:VEVENT
-UID:413564061
-DTSTART:20260624T082641Z
-DTEND:20260624T092641Z
-DTSTAMP:20260624T082641Z
-SUMMARY:🚗 dopravní nehoda - Třebíč
-LOCATION:Bráfova tř.\, Třebíč
-GEO:49.213752;15.881038
-URL:geo:49.213752,15.881038
-DESCRIPTION:📍 Bráfova tř.\, Horka-Domky\, Třebíč\n💬 DN 2 OA\, 1 zraněná oso
- ba. Zajištění místa nehody proti požáru a úniku provozních kapalin.\n\n🚒 C
- AS (CHS Třebíč)
-END:VEVENT
-BEGIN:VEVENT
 UID:413572061
 DTSTART:20260624T100645Z
 DTEND:20260624T110645Z
