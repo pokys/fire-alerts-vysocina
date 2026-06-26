@@ -950,4 +950,15 @@ URL:geo:49.562844,15.940106
 DESCRIPTION:📍 nám. Republiky\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n\n🚒 C
  AS (Žďár nad Sázavou-Zámek)
 END:VEVENT
+BEGIN:VEVENT
+UID:413733061
+DTSTART:20260626T154952Z
+DTEND:20260626T164952Z
+DTSTAMP:20260626T154952Z
+SUMMARY:🛠️ otevření bytu/auta - Jihlava
+LOCATION:Srázná\, Jihlava
+GEO:49.401231;15.591855
+URL:geo:49.401231,15.591855
+DESCRIPTION:📍 Srázná\, Jihlava\n💬 Otevření bytu.\n\n🚒 CAS (CHS Jihlava)
+END:VEVENT
 END:VCALENDAR
