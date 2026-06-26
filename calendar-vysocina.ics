@@ -770,7 +770,8 @@ SUMMARY:🚗 úklid místa - Výčapy
 LOCATION:Výčapy
 GEO:49.122414;15.880650
 URL:geo:49.122414,15.880650
-DESCRIPTION:📍 Štěpánovice\, Výčapy\, Třebíč\n\n🚒 CAS (CHS Třebíč)
+DESCRIPTION:📍 Štěpánovice\, Výčapy\, Třebíč\n💬 DN OA a traktoru se zraněním
+  jedné osoby. Provedeno zajištění místa nehody\,\n\n🚒 CAS (CHS Třebíč)
 END:VEVENT
 BEGIN:VEVENT
 UID:413686061
@@ -782,5 +783,40 @@ LOCATION:Sdružená\, Pelhřimov
 GEO:49.436278;15.222049
 URL:geo:49.436278,15.222049
 DESCRIPTION:📍 Sdružená\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)
+END:VEVENT
+BEGIN:VEVENT
+UID:413687061
+DTSTART:20260626T081704Z
+DTEND:20260626T091704Z
+DTSTAMP:20260626T081704Z
+SUMMARY:🚗 úklid místa - Žďár nad Sázavou
+LOCATION:Santiniho\, Žďár nad Sázavou
+GEO:49.587382;15.933613
+URL:geo:49.587382,15.933613
+DESCRIPTION:📍 Santiniho\, Žďár nad Sázavou 2\, Žďár nad Sázavou\n\n🚒 CAS (C
+ HS Žďár nad Sázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:413689061
+DTSTART:20260626T082104Z
+DTEND:20260626T092104Z
+DTSTAMP:20260626T082104Z
+SUMMARY:🚑 spolupráce ZZS - Rovečné
+LOCATION:Rovečné
+GEO:49.563539;16.368234
+URL:geo:49.563539,16.368234
+DESCRIPTION:📍 Malé Tresné\, Rovečné\, Žďár nad Sázavou\n\n🚒 CAS (HS Bystřic
+ e nad Pernštejnem)
+END:VEVENT
+BEGIN:VEVENT
+UID:413693061
+DTSTART:20260626T083047Z
+DTEND:20260626T093047Z
+DTSTAMP:20260626T083047Z
+SUMMARY:🛠️ obtížný hmyz - Telč
+LOCATION:Salaš\, Telč
+GEO:49.193029;15.436123
+URL:geo:49.193029,15.436123
+DESCRIPTION:📍 Salaš\, Telč-Štěpnice\, Telč\, Jihlava\n\n🚒 CAS (HS Telč)
 END:VEVENT
 END:VCALENDAR
