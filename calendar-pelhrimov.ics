@@ -172,4 +172,15 @@ DESCRIPTION:📍 Pod Náspem\, Pelhřimov\n💬 Záchrana uvízlé kočky z moto
  prostoru OA.\n\n🚒 CAS (CHS Pelhřimov)\n🚒 VYA (CHS Pelhřimov)\n🚒 DA (ÚO Pel
  hřimov)
 END:VEVENT
+BEGIN:VEVENT
+UID:413718061
+DTSTART:20260626T122847Z
+DTEND:20260626T132847Z
+DTSTAMP:20260626T122847Z
+SUMMARY:🔥 vozidlo - Vojslavice
+LOCATION:Vojslavice
+GEO:49.594210;15.238690
+URL:geo:49.594210,15.238690
+DESCRIPTION:📍 Vojslavice\, Pelhřimov\n\n🚒 CAS (HS Humpolec)
+END:VEVENT
 END:VCALENDAR
