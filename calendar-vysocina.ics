@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:413544061
-DTSTART:20260624T055823Z
-DTEND:20260624T065823Z
-DTSTAMP:20260624T055823Z
-SUMMARY:⚠️ planý poplach - Pelhřimov
-LOCATION:Matějkova\, Pelhřimov
-GEO:49.406619;15.219837
-URL:geo:49.406619,15.219837
-DESCRIPTION:📍 Matějkova\, Pelhřimov\n💬 Požár ohlášený systémem elektrické p
- ožární signalizace. Průzkumem bylo zjištěno\, že se jedná o planý poplach.
- \n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (CHS Pelhřimov)
-END:VEVENT
-BEGIN:VEVENT
 UID:413547061
 DTSTART:20260624T063309Z
 DTEND:20260624T073309Z
