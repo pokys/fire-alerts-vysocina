@@ -885,4 +885,16 @@ URL:geo:49.103186,16.107899
 DESCRIPTION:📍 Slavětice\, Třebíč\n💬 Odstranění obtížného hmyzu.\n\n🚒 CAS (S
  lavětice)
 END:VEVENT
+BEGIN:VEVENT
+UID:413678061
+DTSTART:20260626T061044Z
+DTEND:20260626T071044Z
+DTSTAMP:20260626T061044Z
+SUMMARY:🚗 úklid místa - Ždírec nad Doubravou
+LOCATION:Ždírec nad Doubravou
+GEO:49.719139;15.813041
+URL:geo:49.719139,15.813041
+DESCRIPTION:📍 Horní Studenec\, Ždírec nad Doubravou\, Havlíčkův Brod\n\n🚒 C
+ AS (HS Chotěboř)\n🚒 CAS (Ždírec nad Doubravou)
+END:VEVENT
 END:VCALENDAR
