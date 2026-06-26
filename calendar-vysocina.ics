@@ -832,7 +832,8 @@ SUMMARY:🛠️ obtížný hmyz - Krucemburk
 LOCATION:Javorová\, Krucemburk
 GEO:49.690790;15.848855
 URL:geo:49.690790,15.848855
-DESCRIPTION:📍 Javorová\, Krucemburk\, Havlíčkův Brod\n\n🚒 CAS (Krucemburk)
+DESCRIPTION:📍 Javorová\, Krucemburk\, Havlíčkův Brod\n💬 Odstranění obtížnéh
+ o hmyzu.\n\n🚒 CAS (Krucemburk)
 END:VEVENT
 BEGIN:VEVENT
 UID:413708061
@@ -855,7 +856,8 @@ SUMMARY:🛠️ obtížný hmyz - Čáslavice
 LOCATION:Čáslavice
 GEO:49.145161;15.750700
 URL:geo:49.145161,15.750700
-DESCRIPTION:📍 Čáslavice\, Třebíč\n\n🚒 CAS (Želetava)
+DESCRIPTION:📍 Čáslavice\, Třebíč\n💬 Odstranění obtížného hmyzu.\n\n🚒 DA (Že
+ letava)\n🚒 CAS (Želetava)
 END:VEVENT
 BEGIN:VEVENT
 UID:413711061
@@ -866,6 +868,18 @@ SUMMARY:🛠️ obtížný hmyz - Dobronín
 LOCATION:Luční\, Dobronín
 GEO:49.477387;15.647633
 URL:geo:49.477387,15.647633
-DESCRIPTION:📍 Luční\, Dobronín\, Jihlava\n\n🚒 CAS (HS Polná)
+DESCRIPTION:📍 Luční\, Dobronín\, Jihlava\n💬 Odstranění obtížného hmyzu.\n\n
+ 🚒 CAS (HS Polná)
+END:VEVENT
+BEGIN:VEVENT
+UID:413712061
+DTSTART:20260626T111103Z
+DTEND:20260626T121103Z
+DTSTAMP:20260626T111103Z
+SUMMARY:🛠️ ostatní - Třebíč
+LOCATION:Dukovanská\, Třebíč
+GEO:49.222779;15.889242
+URL:geo:49.222779,15.889242
+DESCRIPTION:📍 Dukovanská\, Nové Dvory\, Třebíč\n\n🚒 CAS (CHS Třebíč)
 END:VEVENT
 END:VCALENDAR
