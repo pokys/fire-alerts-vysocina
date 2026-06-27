@@ -5,32 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:413660061
-DTSTART:20260625T152143Z
-DTEND:20260625T162143Z
-DTSTAMP:20260625T152143Z
-SUMMARY:🚗 dopravní nehoda - Jihlava
-LOCATION:Slavíčkova\, Jihlava
-GEO:49.415844;15.588920
-URL:geo:49.415844,15.588920
-DESCRIPTION:📍 Slavíčkova\, Jihlava\n💬 DN cyklisty\, náraz do stromu. 1 zran
- ěná osoba. Předlékařská pomoc. Zajištění místa nehody.\n\n🚒 CAS (CHS Jihla
- va)\n🚒 RZA (CHS Jihlava)
-END:VEVENT
-BEGIN:VEVENT
-UID:413661061
-DTSTART:20260625T152411Z
-DTEND:20260625T162411Z
-DTSTAMP:20260625T152411Z
-SUMMARY:🚑 transport pacienta - Borek
-LOCATION:Borek
-GEO:49.793312;15.581637
-URL:geo:49.793312,15.581637
-DESCRIPTION:📍 Borek\, Havlíčkův Brod\n💬 Transport pacienta na žádost ZZS.\n
- \n🚒 CAS (HS Chotěboř)\n🚒 motor lodní (HS Chotěboř)\n🚒 osobní automobil (HS
-  Chotěboř)\n🚒 přívěs lodní (HS Chotěboř)
-END:VEVENT
-BEGIN:VEVENT
 UID:413662061
 DTSTART:20260625T164655Z
 DTEND:20260625T174655Z
