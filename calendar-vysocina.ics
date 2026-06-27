@@ -945,8 +945,7 @@ SUMMARY:🛠️ ostatní - Svatoslav
 LOCATION:Svatoslav
 GEO:49.318440;15.845707
 URL:geo:49.318440,15.845707
-DESCRIPTION:📍 Svatoslav\, Třebíč\n💬 Pročištění kanalizace.\n\n🚒 CAS (Svatos
- lav)
+DESCRIPTION:📍 Svatoslav\, Třebíč\n💬 ZOČ.\n\n🚒 CAS (Svatoslav)
 END:VEVENT
 BEGIN:VEVENT
 UID:413818061
@@ -1015,8 +1014,9 @@ SUMMARY:⚠️ planý poplach - Pelhřimov
 LOCATION:Matějkova\, Pelhřimov
 GEO:49.407425;15.220930
 URL:geo:49.407425,15.220930
-DESCRIPTION:📍 Matějkova\, Pelhřimov\n💬 Planý poplach.\n\n🚒 CAS (CHS Pelhřim
- ov)\n🚒 CAS (CHS Pelhřimov)
+DESCRIPTION:📍 Matějkova\, Pelhřimov\n💬 Požár ohlášený systémem elektrické p
+ ožární signalizace. Průzkumem bylo zjištěno\, že se jedná o planý poplach.
+ \n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (CHS Pelhřimov)
 END:VEVENT
 BEGIN:VEVENT
 UID:413829061
@@ -1100,5 +1100,16 @@ GEO:49.476338;16.203578
 URL:geo:49.476338,16.203578
 DESCRIPTION:📍 Dolní Rožínka\, Žďár nad Sázavou\n\n🚒 CAS (HS Bystřice nad Pe
  rnštejnem)\n🚒 přívěs lodní (HS Bystřice nad Pernštejnem)
+END:VEVENT
+BEGIN:VEVENT
+UID:413840061
+DTSTART:20260627T204440Z
+DTEND:20260627T214440Z
+DTSTAMP:20260627T204440Z
+SUMMARY:🚑 otevření/asistence - Jihlava
+LOCATION:Nad Plovárnou\, Jihlava
+GEO:49.387478;15.601525
+URL:geo:49.387478,15.601525
+DESCRIPTION:📍 Nad Plovárnou\, Jihlava\n\n🚒 CAS (CHS Jihlava)
 END:VEVENT
 END:VCALENDAR
