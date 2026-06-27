@@ -1075,7 +1075,7 @@ SUMMARY:🛠️ ostatní - Batelov
 LOCATION:náměstí Míru\, Batelov
 GEO:49.313863;15.394534
 URL:geo:49.313863,15.394534
-DESCRIPTION:📍 náměstí Míru\, Batelov\, Jihlava\n\n🚒 CAS (Batelov)
+DESCRIPTION:📍 náměstí Míru\, Batelov\, Jihlava\n💬 ZOČ.\n\n🚒 CAS (Batelov)
 END:VEVENT
 BEGIN:VEVENT
 UID:413806061
@@ -1089,5 +1089,16 @@ URL:geo:49.539902,16.200860
 DESCRIPTION:📍 Rozsochy\, Žďár nad Sázavou\n💬 DN 1 OA. Jedna zraněná osoba. 
  Zajištění místa nehody. Překlékařské ošetření zraněné osoby. Protipožární 
  opatření.\n\n🚒 CAS (HS Bystřice nad Pernštejnem)
+END:VEVENT
+BEGIN:VEVENT
+UID:413808061
+DTSTART:20260627T134147Z
+DTEND:20260627T144147Z
+DTSTAMP:20260627T134147Z
+SUMMARY:🛠️ obtížný hmyz - Litohoř
+LOCATION:Litohoř
+GEO:49.067734;15.772486
+URL:geo:49.067734,15.772486
+DESCRIPTION:📍 Litohoř\, Třebíč\n\n🚒 CAS (HS Moravské Budějovice)
 END:VEVENT
 END:VCALENDAR
