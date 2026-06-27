@@ -1033,7 +1033,8 @@ SUMMARY:🛠️ ostatní - Bělá
 LOCATION:Bělá
 GEO:49.750442;15.237081
 URL:geo:49.750442,15.237081
-DESCRIPTION:📍 Bělá\, Havlíčkův Brod\n\n🚒 CAS (HS Ledeč nad Sázavou)
+DESCRIPTION:📍 Bělá\, Havlíčkův Brod\n💬 Odchyt hada.\n\n🚒 CAS (HS Ledeč nad 
+ Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:413788061
@@ -1067,7 +1068,7 @@ LOCATION:Oslavička
 GEO:49.330926;15.973755
 URL:geo:49.330926,15.973755
 DESCRIPTION:📍 Oslavička\, Žďár nad Sázavou\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 
- RZA (HS Velké Meziříčí)\n🚒 CAS (Rudíkov)\n🚒 CAS (Velké Meziříčí)\n🚒 DA (Os
- lavička)
+ RZA (HS Velké Meziříčí)\n🚒 CAS (Rudíkov)\n🚒 CAS (Velké Meziříčí)\n🚒 CAS (V
+ elké Meziříčí)\n🚒 DA (Oslavička)
 END:VEVENT
 END:VCALENDAR
