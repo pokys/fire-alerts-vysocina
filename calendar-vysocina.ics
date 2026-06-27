@@ -1086,8 +1086,10 @@ SUMMARY:🚗 dopravní nehoda - Krucemburk
 LOCATION:Mikuláše Střely\, Krucemburk
 GEO:49.688600;15.851347
 URL:geo:49.688600,15.851347
-DESCRIPTION:📍 Mikuláše Střely\, Krucemburk\, Havlíčkův Brod\n\n🚒 CAS (Ždíre
- c nad Doubravou)\n🚒 CAS (HS Chotěboř)
+DESCRIPTION:📍 Mikuláše Střely\, Krucemburk\, Havlíčkův Brod\n💬 DN pád z kol
+ oběžky\, se zraněním jedné osoby. Poskytnuta předlékařská první pomoc. Zaj
+ ištění místa události.\n\n🚒 CAS (Ždírec nad Doubravou)\n🚒 CAS (HS Chotěboř
+ )
 END:VEVENT
 BEGIN:VEVENT
 UID:413800061
@@ -1098,8 +1100,8 @@ SUMMARY:🚗 se zraněním - Nová Ves u Chotěboře
 LOCATION:Nová Ves u Chotěboře
 GEO:49.744568;15.656108
 URL:geo:49.744568,15.656108
-DESCRIPTION:📍 Nová Ves u Chotěboře\, Havlíčkův Brod\n\n🚒 CAS (HS Chotěboř)\
- n🚒 CAS (Golčův Jeníkov)
+DESCRIPTION:📍 Nová Ves u Chotěboře\, Havlíčkův Brod\n💬 DN 3 OA\n\n🚒 CAS (HS
+  Chotěboř)\n🚒 CAS (HS Chotěboř)\n🚒 CAS (Golčův Jeníkov)
 END:VEVENT
 BEGIN:VEVENT
 UID:413803061
@@ -1107,10 +1109,21 @@ DTSTART:20260627T114028Z
 DTEND:20260627T124028Z
 DTSTAMP:20260627T114028Z
 SUMMARY:🚗 úklid místa - Habry
-LOCATION:Habry
-GEO:49.747303;15.489285
-URL:geo:49.747303,15.489285
-DESCRIPTION:📍 Habry\, Havlíčkův Brod\n\n🚒 CAS (HS Světlá nad Sázavou)\n🚒 CA
- S (Golčův Jeníkov)
+LOCATION:Sázavská\, Habry
+GEO:49.752547;15.482807
+URL:geo:49.752547,15.482807
+DESCRIPTION:📍 Sázavská\, Habry\, Havlíčkův Brod\n\n🚒 CAS (HS Světlá nad Sáz
+ avou)\n🚒 CAS (Golčův Jeníkov)
+END:VEVENT
+BEGIN:VEVENT
+UID:413804061
+DTSTART:20260627T120931Z
+DTEND:20260627T130931Z
+DTSTAMP:20260627T120931Z
+SUMMARY:🛠️ ostatní - Kněžice
+LOCATION:Kněžice
+GEO:49.270778;15.672164
+URL:geo:49.270778,15.672164
+DESCRIPTION:📍 Kněžice\, Jihlava\n💬 ZOČ.\n\n🚒 CAS (Kněžice)
 END:VEVENT
 END:VCALENDAR
