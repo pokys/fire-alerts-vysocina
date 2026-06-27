@@ -986,8 +986,8 @@ SUMMARY:🚑 spolupráce ZZS - Poděšín
 LOCATION:Poděšín
 GEO:49.508447;15.797046
 URL:geo:49.508447,15.797046
-DESCRIPTION:📍 Poděšín\, Žďár nad Sázavou\n💬 Spolupráce se ZZS.\n\n🚒 CAS (HS
-  Polná)
+DESCRIPTION:📍 Poděšín\, Žďár nad Sázavou\n💬 Spolupráce se ZZS při resuscita
+ ci osoby.\n\n🚒 CAS (HS Polná)
 END:VEVENT
 BEGIN:VEVENT
 UID:413778061
@@ -1045,7 +1045,8 @@ SUMMARY:🚑 spolupráce ZZS - Obrataň
 LOCATION:Obrataň
 GEO:49.398781;14.990825
 URL:geo:49.398781,14.990825
-DESCRIPTION:📍 Vintířov\, Obrataň\, Pelhřimov\n\n🚒 CAS (HS Pacov)
+DESCRIPTION:📍 Vintířov\, Obrataň\, Pelhřimov\n💬 Spolupráce se ZZS při resus
+ citaci osoby.\n\n🚒 CAS (HS Pacov)
 END:VEVENT
 BEGIN:VEVENT
 UID:413786061
@@ -1058,5 +1059,27 @@ GEO:49.574158;15.740056
 URL:geo:49.574158,15.740056
 DESCRIPTION:📍 Přibyslav\, Havlíčkův Brod\n💬 Otevření OA.\n\n🚒 CAS (Přibysla
  v)\n🚒 CAS (HS Polná)
+END:VEVENT
+BEGIN:VEVENT
+UID:413787061
+DTSTART:20260627T090555Z
+DTEND:20260627T100555Z
+DTSTAMP:20260627T090555Z
+SUMMARY:🛠️ ostatní - Bělá
+LOCATION:Bělá
+GEO:49.750442;15.237081
+URL:geo:49.750442,15.237081
+DESCRIPTION:📍 Bělá\, Havlíčkův Brod\n\n🚒 CAS (HS Ledeč nad Sázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:413788061
+DTSTART:20260627T090641Z
+DTEND:20260627T100641Z
+DTSTAMP:20260627T090641Z
+SUMMARY:🛠️ ostatní - Hněvkovice
+LOCATION:Hněvkovice
+GEO:49.687861;15.206902
+URL:geo:49.687861,15.206902
+DESCRIPTION:📍 Hněvkovice\, Havlíčkův Brod\n\n🚒 CAS (Hněvkovice)
 END:VEVENT
 END:VCALENDAR
