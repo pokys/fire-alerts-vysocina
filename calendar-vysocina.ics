@@ -967,8 +967,8 @@ SUMMARY:🛠️ monitoring - Žďár nad Sázavou
 LOCATION:Žďár nad Sázavou
 GEO:49.587009;15.928945
 URL:geo:49.587009,15.928945
-DESCRIPTION:📍 Žďár nad Sázavou 2\, Žďár nad Sázavou\n\n🚒 CAS (Žďár nad Sáza
- vou-Zámek)
+DESCRIPTION:📍 Žďár nad Sázavou 2\, Žďár nad Sázavou\n💬 ZOČ.\n\n🚒 CAS (Žďár 
+ nad Sázavou-Zámek)
 END:VEVENT
 BEGIN:VEVENT
 UID:413756061
@@ -1017,6 +1017,9 @@ SUMMARY:🚗 úklid místa - Zachotín
 LOCATION:Zachotín
 GEO:49.443867;15.330951
 URL:geo:49.443867,15.330951
-DESCRIPTION:📍 Častonín\, Zachotín\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)
+DESCRIPTION:📍 Častonín\, Zachotín\, Pelhřimov\n💬 DN 1 OA mimo vozovku\, 1 z
+ raněná osoba. Předlékařská první pomoc zraněné osobě do příjezdu ZZS. Zabe
+ zpečení havarovaného vozidla proti PO a proti úniku provozních kapalin.\n\
+ n🚒 CAS (CHS Pelhřimov)
 END:VEVENT
 END:VCALENDAR
