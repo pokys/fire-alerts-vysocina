@@ -1076,7 +1076,8 @@ SUMMARY:🔥 vozidlo - Chotěboř
 LOCATION:U Prefy\, Chotěboř
 GEO:49.714935;15.666424
 URL:geo:49.714935,15.666424
-DESCRIPTION:📍 U Prefy\, Chotěboř\, Havlíčkův Brod\n\n🚒 CAS (HS Chotěboř)
+DESCRIPTION:📍 U Prefy\, Chotěboř\, Havlíčkův Brod\n💬 Požár OA v motorovém p
+ rostoru. Provedena lokalizace a likvidace požáru.\n\n🚒 CAS (HS Chotěboř)
 END:VEVENT
 BEGIN:VEVENT
 UID:413797061
@@ -1090,5 +1091,29 @@ URL:geo:49.094552,15.892587
 DESCRIPTION:📍 nám. Míru\, Jaroměřice nad Rokytnou\, Třebíč\n💬 Požár železné
  ho odpadkového koše. Provedena lokalizace a likvidace požáru.\n\n🚒 CAS (Ja
  roměřice nad Rokytnou)
+END:VEVENT
+BEGIN:VEVENT
+UID:413799061
+DTSTART:20260627T112025Z
+DTEND:20260627T122025Z
+DTSTAMP:20260627T112025Z
+SUMMARY:🚗 dopravní nehoda - Krucemburk
+LOCATION:Mikuláše Střely\, Krucemburk
+GEO:49.688600;15.851347
+URL:geo:49.688600,15.851347
+DESCRIPTION:📍 Mikuláše Střely\, Krucemburk\, Havlíčkův Brod\n\n🚒 CAS (Ždíre
+ c nad Doubravou)\n🚒 CAS (HS Chotěboř)
+END:VEVENT
+BEGIN:VEVENT
+UID:413800061
+DTSTART:20260627T112745Z
+DTEND:20260627T122745Z
+DTSTAMP:20260627T112745Z
+SUMMARY:🚗 se zraněním - Nová Ves u Chotěboře
+LOCATION:Nová Ves u Chotěboře
+GEO:49.744568;15.656108
+URL:geo:49.744568,15.656108
+DESCRIPTION:📍 Nová Ves u Chotěboře\, Havlíčkův Brod\n\n🚒 CAS (HS Chotěboř)\
+ n🚒 CAS (Golčův Jeníkov)
 END:VEVENT
 END:VCALENDAR
