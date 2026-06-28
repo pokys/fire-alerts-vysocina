@@ -940,7 +940,7 @@ SUMMARY:🛠️ ostatní - Lesonice
 LOCATION:Lesonice
 GEO:49.107143;15.762496
 URL:geo:49.107143,15.762496
-DESCRIPTION:📍 Lesonice\, Třebíč\n\n🚒 CAS (Lesonice)
+DESCRIPTION:📍 Lesonice\, Třebíč\n💬 ZOČ\n\n🚒 CAS (Lesonice) ×2
 END:VEVENT
 BEGIN:VEVENT
 UID:413876061
@@ -963,9 +963,9 @@ SUMMARY:🚗 úklid místa - Lavičky
 LOCATION:Lavičky
 GEO:49.368336;15.974380
 URL:geo:49.368336,15.974380
-DESCRIPTION:📍 Lavičky\, Žďár nad Sázavou\n💬 DN 2 OA\, 3 zraněné osoby. Zaji
- štění místa nehody.\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (HS Velké Meziříčí
- )
+DESCRIPTION:📍 Lavičky\, Žďár nad Sázavou\n💬 DN 2 x OA\, tři zraněné osoby. 
+ Zajištění místa nehody.\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (HS Velké Mezi
+ říčí)
 END:VEVENT
 BEGIN:VEVENT
 UID:413879061
@@ -976,8 +976,8 @@ SUMMARY:🚗 bez zranění - Vysoká
 LOCATION:Vysoká
 GEO:49.565876;15.618050
 URL:geo:49.565876,15.618050
-DESCRIPTION:📍 Vysoká\, Havlíčkův Brod\n💬 DN 1 OA\, bez zranění.\n\n🚒 CAS (C
- HS Havlíčkův Brod)
+DESCRIPTION:📍 Vysoká\, Havlíčkův Brod\n💬 DN OA\, bez zranění. Zajištění mís
+ ta události.\n\n🚒 CAS (CHS Havlíčkův Brod)
 END:VEVENT
 BEGIN:VEVENT
 UID:413883061
@@ -988,7 +988,8 @@ SUMMARY:🛠️ obtížný hmyz - Větrný Jeníkov
 LOCATION:Větrný Jeníkov
 GEO:49.459642;15.485323
 URL:geo:49.459642,15.485323
-DESCRIPTION:📍 Větrný Jeníkov\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+DESCRIPTION:📍 Větrný Jeníkov\, Jihlava\n💬 Likvidace nebezpečného hmyzu.\n\n
+ 🚒 CAS (CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:413884061
@@ -1011,9 +1012,9 @@ SUMMARY:🚗 dopravní nehoda - Radostín
 LOCATION:Radostín
 GEO:49.654749;15.874654
 URL:geo:49.654749,15.874654
-DESCRIPTION:📍 Radostín\, Žďár nad Sázavou\n💬 DN motorky\, 1 zraněná osoba. 
- Zajištění místa nehody.\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (Ždírec nad
-  Doubravou)
+DESCRIPTION:📍 Radostín\, Žďár nad Sázavou\n💬 DN motorky\, jedna zraněná oso
+ ba. Zajištění místa nehody.\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (Ždírec
+  nad Doubravou)
 END:VEVENT
 BEGIN:VEVENT
 UID:413887061
@@ -1024,7 +1025,8 @@ SUMMARY:🚗 úklid místa - Měšín
 LOCATION:Měšín
 GEO:49.426420;15.665461
 URL:geo:49.426420,15.665461
-DESCRIPTION:📍 Měšín\, Jihlava\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihlava)
+DESCRIPTION:📍 Měšín\, Jihlava\n💬 DN OA máraz do svodiel. Bez zranění. Zajiš
+ tění místa události.\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:413888061
@@ -1047,7 +1049,8 @@ SUMMARY:⚠️ planý poplach - Jihlava
 LOCATION:Pod Rozhlednou\, Jihlava
 GEO:49.427433;15.587353
 URL:geo:49.427433,15.587353
-DESCRIPTION:📍 Pod Rozhlednou\, Jihlava\n\n🚒 CAS (CHS Jihlava) ×2
+DESCRIPTION:📍 Pod Rozhlednou\, Jihlava\n💬 Požár hlášený čidlem EPS na PCO -
+  planý poplach.\n\n🚒 CAS (CHS Jihlava) ×2
 END:VEVENT
 BEGIN:VEVENT
 UID:413891061
@@ -1058,7 +1061,8 @@ SUMMARY:🛠️ ostatní - Dukovany
 LOCATION:Dukovany
 GEO:49.080060;16.182171
 URL:geo:49.080060,16.182171
-DESCRIPTION:📍 Dukovany\, Třebíč\n\n🚒 DA (Dukovany)\n🚒 CAS (Dukovany)
+DESCRIPTION:📍 Dukovany\, Třebíč\n💬 Provzdušnění rybníka.\n\n🚒 DA (Dukovany)
+ \n🚒 CAS (Dukovany)
 END:VEVENT
 BEGIN:VEVENT
 UID:413892061
@@ -1069,7 +1073,8 @@ SUMMARY:🛠️ měření koncentrace - Jihlava
 LOCATION:Hamerníkova\, Jihlava
 GEO:49.399146;15.575893
 URL:geo:49.399146,15.575893
-DESCRIPTION:📍 Hamerníkova\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+DESCRIPTION:📍 Hamerníkova\, Jihlava\n💬 Měření koncentrace CO.\n\n🚒 CAS (CHS
+  Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:413896061
@@ -1080,7 +1085,8 @@ SUMMARY:🛠️ obtížný hmyz - Pelhřimov
 LOCATION:Říčanského\, Pelhřimov
 GEO:49.426252;15.222913
 URL:geo:49.426252,15.222913
-DESCRIPTION:📍 Říčanského\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)
+DESCRIPTION:📍 Říčanského\, Pelhřimov\n💬 Odstranění obtížného hmyzu.\n\n🚒 CA
+ S (CHS Pelhřimov)
 END:VEVENT
 BEGIN:VEVENT
 UID:413897061
@@ -1091,7 +1097,8 @@ SUMMARY:🛠️ měření koncentrace - Jihlava
 LOCATION:Leoše Janáčka\, Jihlava
 GEO:49.398600;15.576884
 URL:geo:49.398600,15.576884
-DESCRIPTION:📍 Leoše Janáčka\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+DESCRIPTION:📍 Leoše Janáčka\, Jihlava\n💬 Měření koncentrace CO.\n\n🚒 CAS (C
+ HS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:413899061
@@ -1102,6 +1109,17 @@ SUMMARY:🛠️ ostatní - Cetoraz
 LOCATION:Cetoraz
 GEO:49.455232;14.957308
 URL:geo:49.455232,14.957308
-DESCRIPTION:📍 Cetoraz\, Pelhřimov\n\n🚒 DA (Cetoraz)
+DESCRIPTION:📍 Cetoraz\, Pelhřimov\n💬 ZOČ\n\n🚒 DA (Cetoraz)
+END:VEVENT
+BEGIN:VEVENT
+UID:413901061
+DTSTART:20260628T153238Z
+DTEND:20260628T163238Z
+DTSTAMP:20260628T153238Z
+SUMMARY:🛠️ obtížný hmyz - Třebíč
+LOCATION:Lidická\, Třebíč
+GEO:49.209085;15.865984
+URL:geo:49.209085,15.865984
+DESCRIPTION:📍 Lidická\, Borovina\, Třebíč\n\n🚒 CAS (CHS Třebíč)
 END:VEVENT
 END:VCALENDAR
