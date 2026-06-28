@@ -848,8 +848,8 @@ SUMMARY:🛠️ strom - Brtnice
 LOCATION:Pod Kaplou\, Brtnice
 GEO:49.313405;15.686323
 URL:geo:49.313405,15.686323
-DESCRIPTION:📍 Pod Kaplou\, Brtnice\, Jihlava\n\n🚒 osobní automobil (Brtnice
- )\n🚒 pila řetězová (Brtnice)
+DESCRIPTION:📍 Pod Kaplou\, Brtnice\, Jihlava\n💬 Odstranění stromu.\n\n🚒 oso
+ bní automobil (Brtnice)\n🚒 pila řetězová (Brtnice)
 END:VEVENT
 BEGIN:VEVENT
 UID:413866061
@@ -861,8 +861,7 @@ LOCATION:Krucemburk
 GEO:49.683147;15.821165
 URL:geo:49.683147,15.821165
 DESCRIPTION:📍 Staré Ransko\, Krucemburk\, Havlíčkův Brod\n💬 Otevření zamčen
- ých dveří\, osoby uvnitř\, bez zranění.\n\n🚒 CAS (HS Chotěboř)\n🚒 CAS (Ždí
- rec nad Doubravou)
+ ých dveří.\n\n🚒 CAS (HS Chotěboř)\n🚒 CAS (Ždírec nad Doubravou)
 END:VEVENT
 BEGIN:VEVENT
 UID:413867061
@@ -885,8 +884,7 @@ SUMMARY:🛠️ ostatní - Chotěboř
 LOCATION:Chotěboř
 GEO:49.720718;15.670181
 URL:geo:49.720718,15.670181
-DESCRIPTION:📍 Chotěboř\, Havlíčkův Brod\n💬 Závlaha náměstí.\n\n🚒 CAS (Chotě
- boř)
+DESCRIPTION:📍 Chotěboř\, Havlíčkův Brod\n💬 ZOČ\n\n🚒 CAS (Chotěboř)
 END:VEVENT
 BEGIN:VEVENT
 UID:413869061
@@ -1001,8 +999,8 @@ SUMMARY:🛠️ ostatní - Bohdalín
 LOCATION:Bohdalín
 GEO:49.307800;15.015996
 URL:geo:49.307800,15.015996
-DESCRIPTION:📍 Bohdalín\, Pelhřimov\n\n🚒 CAS (Kamenice nad Lipou)\n🚒 CAS (Ka
- menice nad Lipou)
+DESCRIPTION:📍 Bohdalín\, Pelhřimov\n💬 ZOČ\n\n🚒 CAS (Kamenice nad Lipou)\n🚒 
+ CAS (Kamenice nad Lipou)
 END:VEVENT
 BEGIN:VEVENT
 UID:413885061
@@ -1072,5 +1070,38 @@ LOCATION:Hamerníkova\, Jihlava
 GEO:49.399146;15.575893
 URL:geo:49.399146,15.575893
 DESCRIPTION:📍 Hamerníkova\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+END:VEVENT
+BEGIN:VEVENT
+UID:413896061
+DTSTART:20260628T150108Z
+DTEND:20260628T160108Z
+DTSTAMP:20260628T150108Z
+SUMMARY:🛠️ obtížný hmyz - Pelhřimov
+LOCATION:Říčanského\, Pelhřimov
+GEO:49.426252;15.222913
+URL:geo:49.426252,15.222913
+DESCRIPTION:📍 Říčanského\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)
+END:VEVENT
+BEGIN:VEVENT
+UID:413897061
+DTSTART:20260628T150126Z
+DTEND:20260628T160126Z
+DTSTAMP:20260628T150126Z
+SUMMARY:🛠️ měření koncentrace - Jihlava
+LOCATION:Leoše Janáčka\, Jihlava
+GEO:49.398600;15.576884
+URL:geo:49.398600,15.576884
+DESCRIPTION:📍 Leoše Janáčka\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+END:VEVENT
+BEGIN:VEVENT
+UID:413899061
+DTSTART:20260628T151101Z
+DTEND:20260628T161101Z
+DTSTAMP:20260628T151101Z
+SUMMARY:🛠️ ostatní - Cetoraz
+LOCATION:Cetoraz
+GEO:49.455232;14.957308
+URL:geo:49.455232,14.957308
+DESCRIPTION:📍 Cetoraz\, Pelhřimov\n\n🚒 DA (Cetoraz)
 END:VEVENT
 END:VCALENDAR
