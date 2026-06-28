@@ -1161,8 +1161,9 @@ SUMMARY:🚑 otevření/asistence - Krucemburk
 LOCATION:Krucemburk
 GEO:49.683147;15.821165
 URL:geo:49.683147,15.821165
-DESCRIPTION:📍 Staré Ransko\, Krucemburk\, Havlíčkův Brod\n\n🚒 CAS (HS Chotě
- boř)\n🚒 CAS (Ždírec nad Doubravou)
+DESCRIPTION:📍 Staré Ransko\, Krucemburk\, Havlíčkův Brod\n💬 Otevření zamčen
+ ých dveří\, osoby uvnitř\, bez zranění.\n\n🚒 CAS (HS Chotěboř)\n🚒 CAS (Ždí
+ rec nad Doubravou)
 END:VEVENT
 BEGIN:VEVENT
 UID:413867061
@@ -1173,6 +1174,29 @@ SUMMARY:🚑 transport pacienta - Pacov
 LOCATION:Dlouhá\, Pacov
 GEO:49.470620;14.998172
 URL:geo:49.470620,14.998172
-DESCRIPTION:📍 Dlouhá\, Pacov\, Pelhřimov\n\n🚒 CAS (HS Pacov)
+DESCRIPTION:📍 Dlouhá\, Pacov\, Pelhřimov\n💬 Transport pacienta na žádost ZZ
+ S.\n\n🚒 CAS (HS Pacov)
+END:VEVENT
+BEGIN:VEVENT
+UID:413868061
+DTSTART:20260628T070129Z
+DTEND:20260628T080129Z
+DTSTAMP:20260628T070129Z
+SUMMARY:🛠️ ostatní - Chotěboř
+LOCATION:Chotěboř
+GEO:49.720718;15.670181
+URL:geo:49.720718,15.670181
+DESCRIPTION:📍 Chotěboř\, Havlíčkův Brod\n\n🚒 CAS (Chotěboř)
+END:VEVENT
+BEGIN:VEVENT
+UID:413869061
+DTSTART:20260628T070333Z
+DTEND:20260628T080333Z
+DTSTAMP:20260628T070333Z
+SUMMARY:🛠️ ostatní - Počátky
+LOCATION:Počátky
+GEO:49.268054;15.259478
+URL:geo:49.268054,15.259478
+DESCRIPTION:📍 Počátky\, Pelhřimov\n\n🚒 CAS (Počátky)
 END:VEVENT
 END:VCALENDAR
