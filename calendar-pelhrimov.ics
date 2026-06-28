@@ -185,4 +185,16 @@ URL:geo:49.408214,15.101900
 DESCRIPTION:📍 Moraveč\, Pelhřimov\n💬 Odstranění obtížného hmyzu.\n\n🚒 CAS (
  Nová Cerekev)
 END:VEVENT
+BEGIN:VEVENT
+UID:413920061
+DTSTART:20260628T213220Z
+DTEND:20260628T223220Z
+DTSTAMP:20260628T213220Z
+SUMMARY:🛠️ ostatní - Žirovnice
+LOCATION:Sídliště\, Žirovnice
+GEO:49.253458;15.196783
+URL:geo:49.253458,15.196783
+DESCRIPTION:📍 Sídliště\, Žirovnice\, Pelhřimov\n\n🚒 CAS (HS Kamenice nad Li
+ pou)
+END:VEVENT
 END:VCALENDAR
