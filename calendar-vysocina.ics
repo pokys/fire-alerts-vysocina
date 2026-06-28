@@ -1085,8 +1085,8 @@ SUMMARY:🛠️ čerpání vody - Žďár nad Sázavou
 LOCATION:Libušínská\, Žďár nad Sázavou
 GEO:49.568118;15.937556
 URL:geo:49.568118,15.937556
-DESCRIPTION:📍 Libušínská\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n💬 Odčerpá
- ní vody.\n\n🚒 CAS (CHS Žďár nad Sázavou)
+DESCRIPTION:📍 Libušínská\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n💬 Zastave
+ ní úniku vody.\n\n🚒 CAS (CHS Žďár nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:413922061
@@ -1099,5 +1099,17 @@ GEO:49.092524;15.885326
 URL:geo:49.092524,15.885326
 DESCRIPTION:📍 Kaunicova\, Jaroměřice nad Rokytnou\, Třebíč\n💬 Spolupráce se
   ZZS.\n\n🚒 CAS (HS Moravské Budějovice)
+END:VEVENT
+BEGIN:VEVENT
+UID:413923061
+DTSTART:20260628T224521Z
+DTEND:20260628T234521Z
+DTSTAMP:20260628T224521Z
+SUMMARY:🔥 odpad - Velká Chyška
+LOCATION:Velká Chyška
+GEO:49.517567;15.018103
+URL:geo:49.517567,15.018103
+DESCRIPTION:📍 Velká Chyška\, Pelhřimov\n\n🚒 CAS (HS Pacov)\n🚒 DA (Velká Chy
+ ška)
 END:VEVENT
 END:VCALENDAR
