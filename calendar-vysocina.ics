@@ -1002,8 +1002,8 @@ SUMMARY:🛠️ ostatní - Žďár nad Sázavou
 LOCATION:nám. Republiky\, Žďár nad Sázavou
 GEO:49.563154;15.941916
 URL:geo:49.563154,15.941916
-DESCRIPTION:📍 nám. Republiky\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n\n🚒 C
- AS (Žďár nad Sázavou-Zámek)
+DESCRIPTION:📍 nám. Republiky\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n💬 ZOČ
+ .\n\n🚒 CAS (Žďár nad Sázavou-Zámek)
 END:VEVENT
 BEGIN:VEVENT
 UID:413912061
@@ -1050,8 +1050,8 @@ SUMMARY:🛠️ strom - Jimramov
 LOCATION:Jimramov
 GEO:49.621531;16.258952
 URL:geo:49.621531,16.258952
-DESCRIPTION:📍 Ubušín\, Jimramov\, Žďár nad Sázavou\n\n🚒 DA (Jimramov-Ubušín
- )
+DESCRIPTION:📍 Ubušín\, Jimramov\, Žďár nad Sázavou\n💬 Odstranění stromu.\n\
+ n🚒 DA (Jimramov-Ubušín)
 END:VEVENT
 BEGIN:VEVENT
 UID:413918061
@@ -1062,7 +1062,7 @@ SUMMARY:🛠️ spolupráce IZS - Ledeč nad Sázavou
 LOCATION:Marie Majerové\, Ledeč nad Sázavou
 GEO:49.700848;15.277261
 URL:geo:49.700848,15.277261
-DESCRIPTION:📍 Marie Majerové\, Ledeč nad Sázavou\, Havlíčkův Brod\n\n🚒 CAS 
- (HS Ledeč nad Sázavou)
+DESCRIPTION:📍 Marie Majerové\, Ledeč nad Sázavou\, Havlíčkův Brod\n💬 Spolup
+ ráce s PČR.\n\n🚒 CAS (HS Ledeč nad Sázavou)
 END:VEVENT
 END:VCALENDAR
