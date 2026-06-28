@@ -1098,8 +1098,8 @@ SUMMARY:🛠️ čerpání vody - Žďár nad Sázavou
 LOCATION:Libušínská\, Žďár nad Sázavou
 GEO:49.568118;15.937556
 URL:geo:49.568118,15.937556
-DESCRIPTION:📍 Libušínská\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n\n🚒 CAS (
- CHS Žďár nad Sázavou)
+DESCRIPTION:📍 Libušínská\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n💬 Odčerpá
+ ní vody.\n\n🚒 CAS (CHS Žďár nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:413922061
@@ -1110,7 +1110,7 @@ SUMMARY:🚑 otevření/asistence - Jaroměřice nad Rokytnou
 LOCATION:Kaunicova\, Jaroměřice nad Rokytnou
 GEO:49.092524;15.885326
 URL:geo:49.092524,15.885326
-DESCRIPTION:📍 Kaunicova\, Jaroměřice nad Rokytnou\, Třebíč\n\n🚒 CAS (HS Mor
- avské Budějovice)
+DESCRIPTION:📍 Kaunicova\, Jaroměřice nad Rokytnou\, Třebíč\n💬 Spolupráce se
+  ZZS.\n\n🚒 CAS (HS Moravské Budějovice)
 END:VEVENT
 END:VCALENDAR
