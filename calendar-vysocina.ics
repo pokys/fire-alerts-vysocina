@@ -1083,10 +1083,34 @@ DTSTART:20260628T213220Z
 DTEND:20260628T223220Z
 DTSTAMP:20260628T213220Z
 SUMMARY:🛠️ ostatní - Žirovnice
-LOCATION:Sídliště\, Žirovnice
-GEO:49.253458;15.196783
-URL:geo:49.253458,15.196783
-DESCRIPTION:📍 Sídliště\, Žirovnice\, Pelhřimov\n\n🚒 CAS (HS Kamenice nad Li
- pou)
+LOCATION:Žižkova\, Žirovnice
+GEO:49.254908;15.187306
+URL:geo:49.254908,15.187306
+DESCRIPTION:📍 Žižkova\, Žirovnice\, Pelhřimov\n💬 Kontrola objektu DPS po sp
+ uštění požárního čidla.\n\n🚒 CAS (HS Kamenice nad Lipou)
+END:VEVENT
+BEGIN:VEVENT
+UID:413921061
+DTSTART:20260628T220409Z
+DTEND:20260628T230409Z
+DTSTAMP:20260628T220409Z
+SUMMARY:🛠️ čerpání vody - Žďár nad Sázavou
+LOCATION:Libušínská\, Žďár nad Sázavou
+GEO:49.568118;15.937556
+URL:geo:49.568118,15.937556
+DESCRIPTION:📍 Libušínská\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n\n🚒 CAS (
+ CHS Žďár nad Sázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:413922061
+DTSTART:20260628T220824Z
+DTEND:20260628T230824Z
+DTSTAMP:20260628T220824Z
+SUMMARY:🚑 otevření/asistence - Jaroměřice nad Rokytnou
+LOCATION:Kaunicova\, Jaroměřice nad Rokytnou
+GEO:49.092524;15.885326
+URL:geo:49.092524,15.885326
+DESCRIPTION:📍 Kaunicova\, Jaroměřice nad Rokytnou\, Třebíč\n\n🚒 CAS (HS Mor
+ avské Budějovice)
 END:VEVENT
 END:VCALENDAR
