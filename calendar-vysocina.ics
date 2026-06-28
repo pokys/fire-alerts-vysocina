@@ -957,8 +957,8 @@ SUMMARY:🛠️ ostatní - Vysoké
 LOCATION:Vysoké
 GEO:49.581800;15.965209
 URL:geo:49.581800,15.965209
-DESCRIPTION:📍 Vysoké\, Žďár nad Sázavou\n\n🚒 CAS (Žďár nad Sázavou-Zámek) ×
- 2
+DESCRIPTION:📍 Vysoké\, Žďár nad Sázavou\n💬 ZOČ\n\n🚒 CAS (Žďár nad Sázavou-Z
+ ámek) ×2
 END:VEVENT
 BEGIN:VEVENT
 UID:413871061
@@ -1062,8 +1062,9 @@ SUMMARY:🚗 dopravní nehoda - Radostín
 LOCATION:Radostín
 GEO:49.654749;15.874654
 URL:geo:49.654749,15.874654
-DESCRIPTION:📍 Radostín\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad Sázavou)\n
- 🚒 CAS (Ždírec nad Doubravou)
+DESCRIPTION:📍 Radostín\, Žďár nad Sázavou\n💬 DN motorky\, 1 zraněná osoba. 
+ Zajištění místa nehody.\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (Ždírec nad
+  Doubravou)
 END:VEVENT
 BEGIN:VEVENT
 UID:413887061
@@ -1093,11 +1094,33 @@ UID:413889061
 DTSTART:20260628T133956Z
 DTEND:20260628T143956Z
 DTSTAMP:20260628T133956Z
-SUMMARY:🔥 Jihlava
+SUMMARY:⚠️ planý poplach - Jihlava
 LOCATION:Pod Rozhlednou\, Jihlava
 GEO:49.427433;15.587353
 URL:geo:49.427433,15.587353
 DESCRIPTION:📍 Pod Rozhlednou\, Jihlava\n\n🚒 CAS (CHS Jihlava) ×2\n🚒 CAS (CH
  S Jihlava) ×2
+END:VEVENT
+BEGIN:VEVENT
+UID:413891061
+DTSTART:20260628T140812Z
+DTEND:20260628T150812Z
+DTSTAMP:20260628T140812Z
+SUMMARY:🛠️ ostatní - Dukovany
+LOCATION:Dukovany
+GEO:49.080060;16.182171
+URL:geo:49.080060,16.182171
+DESCRIPTION:📍 Dukovany\, Třebíč\n\n🚒 DA (Dukovany)\n🚒 CAS (Dukovany)
+END:VEVENT
+BEGIN:VEVENT
+UID:413892061
+DTSTART:20260628T140845Z
+DTEND:20260628T150845Z
+DTSTAMP:20260628T140845Z
+SUMMARY:🛠️ měření koncentrace - Jihlava
+LOCATION:Hamerníkova\, Jihlava
+GEO:49.399146;15.575893
+URL:geo:49.399146,15.575893
+DESCRIPTION:📍 Hamerníkova\, Jihlava\n\n🚒 CAS (CHS Jihlava)
 END:VEVENT
 END:VCALENDAR
