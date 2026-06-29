@@ -15,6 +15,7 @@ GEO:49.407425;15.220930
 URL:geo:49.407425,15.220930
 DESCRIPTION:📍 Matějkova\, Pelhřimov\n💬 Požár ohlášený systémem elektrické p
  ožární signalizace. Průzkumem bylo zjištěno\, že se jedná o planý poplach.
+ \n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (CHS Pelhřimov)
 END:VEVENT
 BEGIN:VEVENT
 UID:413855061
@@ -26,7 +27,8 @@ LOCATION:Mladé Bříště
 GEO:49.503165;15.332973
 URL:geo:49.503165,15.332973
 DESCRIPTION:📍 Záhoří\, Mladé Bříště\, Pelhřimov\n💬 Dopravní nehoda dodávky\
- , na místě jedna zraněná osoba. Zabezpečení místa DN.
+ , na místě jedna zraněná osoba. Zabezpečení místa DN.\n\n🚒 CAS (HS Humpole
+ c)
 END:VEVENT
 BEGIN:VEVENT
 UID:413856061
@@ -37,7 +39,8 @@ SUMMARY:🛠️ strom - Pelhřimov
 LOCATION:Pelhřimov
 GEO:49.406974;15.207266
 URL:geo:49.406974,15.207266
-DESCRIPTION:📍 Myslotín\, Pelhřimov\n💬 Odstranění stromu.
+DESCRIPTION:📍 Myslotín\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 CAS (CHS Pelh
+ řimov)
 END:VEVENT
 BEGIN:VEVENT
 UID:413867061
@@ -49,7 +52,7 @@ LOCATION:Dlouhá\, Pacov
 GEO:49.470620;14.998172
 URL:geo:49.470620,14.998172
 DESCRIPTION:📍 Dlouhá\, Pacov\, Pelhřimov\n💬 Transport pacienta na žádost ZZ
- S.
+ S.\n\n🚒 CAS (HS Pacov)
 END:VEVENT
 BEGIN:VEVENT
 UID:413869061
@@ -60,7 +63,7 @@ SUMMARY:🛠️ ostatní - Počátky
 LOCATION:Počátky
 GEO:49.268054;15.259478
 URL:geo:49.268054,15.259478
-DESCRIPTION:📍 Počátky\, Pelhřimov\n💬 ZOČ.
+DESCRIPTION:📍 Počátky\, Pelhřimov\n💬 ZOČ.\n\n🚒 CAS (Počátky)
 END:VEVENT
 BEGIN:VEVENT
 UID:413872061
@@ -71,7 +74,7 @@ SUMMARY:🛠️ strom - Lukavec
 LOCATION:Lukavec
 GEO:49.569231;15.017880
 URL:geo:49.569231,15.017880
-DESCRIPTION:📍 Lukavec\, Pelhřimov\n💬 Odstranění stromu.
+DESCRIPTION:📍 Lukavec\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 CAS (Lukavec)
 END:VEVENT
 BEGIN:VEVENT
 UID:413884061
@@ -82,7 +85,8 @@ SUMMARY:🛠️ ostatní - Bohdalín
 LOCATION:Bohdalín
 GEO:49.307800;15.015996
 URL:geo:49.307800,15.015996
-DESCRIPTION:📍 Bohdalín\, Pelhřimov\n💬 ZOČ
+DESCRIPTION:📍 Bohdalín\, Pelhřimov\n💬 ZOČ\n\n🚒 CAS (Kamenice nad Lipou)\n🚒 
+ CAS (Kamenice nad Lipou)
 END:VEVENT
 BEGIN:VEVENT
 UID:413888061
@@ -93,7 +97,8 @@ SUMMARY:🛠️ strom - Mysletín
 LOCATION:Mysletín
 GEO:49.474693;15.382988
 URL:geo:49.474693,15.382988
-DESCRIPTION:📍 Mysletín\, Pelhřimov\n💬 Odstranění stromu.
+DESCRIPTION:📍 Mysletín\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 CAS (HS Humpo
+ lec)
 END:VEVENT
 BEGIN:VEVENT
 UID:413896061
@@ -104,7 +109,8 @@ SUMMARY:🛠️ obtížný hmyz - Pelhřimov
 LOCATION:Říčanského\, Pelhřimov
 GEO:49.426252;15.222913
 URL:geo:49.426252,15.222913
-DESCRIPTION:📍 Říčanského\, Pelhřimov\n💬 Odstranění obtížného hmyzu.
+DESCRIPTION:📍 Říčanského\, Pelhřimov\n💬 Odstranění obtížného hmyzu.\n\n🚒 CA
+ S (CHS Pelhřimov)\n🚒 vysavač na hmyz (CHS Pelhřimov)
 END:VEVENT
 BEGIN:VEVENT
 UID:413899061
@@ -115,7 +121,7 @@ SUMMARY:🛠️ ostatní - Cetoraz
 LOCATION:Cetoraz
 GEO:49.455232;14.957308
 URL:geo:49.455232,14.957308
-DESCRIPTION:📍 Cetoraz\, Pelhřimov\n💬 ZOČ.
+DESCRIPTION:📍 Cetoraz\, Pelhřimov\n💬 ZOČ.\n\n🚒 DA (Cetoraz)
 END:VEVENT
 BEGIN:VEVENT
 UID:413919061
@@ -126,7 +132,8 @@ SUMMARY:🛠️ obtížný hmyz - Moraveč
 LOCATION:Moraveč
 GEO:49.408214;15.101900
 URL:geo:49.408214,15.101900
-DESCRIPTION:📍 Moraveč\, Pelhřimov\n💬 Odstranění obtížného hmyzu.
+DESCRIPTION:📍 Moraveč\, Pelhřimov\n💬 Odstranění obtížného hmyzu.\n\n🚒 CAS (
+ Nová Cerekev)\n🚒 vysavač na hmyz (Nová Cerekev)
 END:VEVENT
 BEGIN:VEVENT
 UID:413920061
@@ -138,7 +145,7 @@ LOCATION:Žižkova\, Žirovnice
 GEO:49.254908;15.187306
 URL:geo:49.254908,15.187306
 DESCRIPTION:📍 Žižkova\, Žirovnice\, Pelhřimov\n💬 Kontrola objektu DPS po sp
- uštění požárního čidla.
+ uštění požárního čidla.\n\n🚒 CAS (HS Kamenice nad Lipou)
 END:VEVENT
 BEGIN:VEVENT
 UID:413923061
@@ -150,7 +157,8 @@ LOCATION:Velká Chyška
 GEO:49.517578;15.018658
 URL:geo:49.517578,15.018658
 DESCRIPTION:📍 Velká Chyška\, Pelhřimov\n💬 Požár plastového kontejneru. Prov
- edena lokalizace a likvidace požáru.
+ edena lokalizace a likvidace požáru.\n\n🚒 CAS (HS Pacov)\n🚒 DA (Velká Chyš
+ ka)
 END:VEVENT
 BEGIN:VEVENT
 UID:413924061
@@ -161,7 +169,8 @@ SUMMARY:🛠️ obtížný hmyz - Důl
 LOCATION:Důl
 GEO:49.463162;15.031834
 URL:geo:49.463162,15.031834
-DESCRIPTION:📍 Nová Ves\, Důl\, Pelhřimov\n💬 Likvidace nebezpečného hmyzu.
+DESCRIPTION:📍 Nová Ves\, Důl\, Pelhřimov\n💬 Likvidace nebezpečného hmyzu.\n
+ \n🚒 CAS (HS Pacov)
 END:VEVENT
 BEGIN:VEVENT
 UID:413925061
@@ -463,8 +472,8 @@ SUMMARY:🛠️ strom - Obrataň
 LOCATION:Obrataň
 GEO:49.428042;14.921379
 URL:geo:49.428042,14.921379
-DESCRIPTION:📍 Hrobská Zahrádka\, Obrataň\, Pelhřimov\n\n🚒 CAS (HS Pacov)\n🚒
-  CAS (HS Pacov)
+DESCRIPTION:📍 Hrobská Zahrádka\, Obrataň\, Pelhřimov\n💬 Odstranění stromu.\
+ n\n🚒 CAS (HS Pacov)\n🚒 CAS (HS Pacov)
 END:VEVENT
 BEGIN:VEVENT
 UID:414018061
@@ -554,7 +563,8 @@ SUMMARY:🛠️ strom - Vysoká Lhota
 LOCATION:Vysoká Lhota
 GEO:49.420502;15.040652
 URL:geo:49.420502,15.040652
-DESCRIPTION:📍 Vysoká Lhota\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)
+DESCRIPTION:📍 Vysoká Lhota\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 CAS (CHS 
+ Pelhřimov)\n🚒 pila řetězová (CHS Pelhřimov)
 END:VEVENT
 BEGIN:VEVENT
 UID:414037061
@@ -577,7 +587,8 @@ SUMMARY:🛠️ čerpání vody - Žirovnice
 LOCATION:Počátecká\, Žirovnice
 GEO:49.253979;15.192915
 URL:geo:49.253979,15.192915
-DESCRIPTION:📍 Počátecká\, Žirovnice\, Pelhřimov\n\n🚒 CAS (Žirovnice)
+DESCRIPTION:📍 Počátecká\, Žirovnice\, Pelhřimov\n💬 Čerpání vody.\n\n🚒 CAS (
+ Žirovnice)
 END:VEVENT
 BEGIN:VEVENT
 UID:414041061
@@ -627,6 +638,17 @@ URL:geo:49.373205,14.965875
 DESCRIPTION:📍 Jirákova\, Černovice\, Pelhřimov\n\n🚒 CAS (Černovice)
 END:VEVENT
 BEGIN:VEVENT
+UID:414053061
+DTSTART:20260629T142913Z
+DTEND:20260629T152913Z
+DTSTAMP:20260629T142913Z
+SUMMARY:🛠️ strom - Černovice
+LOCATION:Černovice
+GEO:49.367380;14.947194
+URL:geo:49.367380,14.947194
+DESCRIPTION:📍 Černovice\, Pelhřimov\n\n🚒 CAS (Černovice)
+END:VEVENT
+BEGIN:VEVENT
 UID:414055061
 DTSTART:20260629T143228Z
 DTEND:20260629T153228Z
@@ -635,7 +657,7 @@ SUMMARY:🛠️ strom - Božejov
 LOCATION:Božejov
 GEO:49.362104;15.155795
 URL:geo:49.362104,15.155795
-DESCRIPTION:📍 Božejov\, Pelhřimov\n\n🚒 CAS (Božejov)
+DESCRIPTION:📍 Božejov\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 CAS (Božejov)
 END:VEVENT
 BEGIN:VEVENT
 UID:414057061
@@ -668,7 +690,8 @@ SUMMARY:🛠️ strom - Čelistná
 LOCATION:Čelistná
 GEO:49.361152;15.208997
 URL:geo:49.361152,15.208997
-DESCRIPTION:📍 Čelistná\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)
+DESCRIPTION:📍 Čelistná\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 CAS (CHS Pelh
+ řimov)
 END:VEVENT
 BEGIN:VEVENT
 UID:414066061
@@ -703,5 +726,27 @@ GEO:49.340749;14.959256
 URL:geo:49.340749,14.959256
 DESCRIPTION:📍 Vlkosovice\, Černovice\, Pelhřimov\n💬 Čerpání vody.\n\n🚒 CAS 
  (Kamenice nad Lipou)\n🚒 CAS (Kamenice nad Lipou)
+END:VEVENT
+BEGIN:VEVENT
+UID:414114061
+DTSTART:20260629T151319Z
+DTEND:20260629T161319Z
+DTSTAMP:20260629T151319Z
+SUMMARY:🛠️ strom - Humpolec
+LOCATION:Humpolec
+GEO:49.510374;15.302971
+URL:geo:49.510374,15.302971
+DESCRIPTION:📍 Kletečná\, Humpolec\, Pelhřimov\n\n🚒 CAS (HS Humpolec)
+END:VEVENT
+BEGIN:VEVENT
+UID:414137061
+DTSTART:20260629T153037Z
+DTEND:20260629T163037Z
+DTSTAMP:20260629T153037Z
+SUMMARY:🛠️ strom - Křeč
+LOCATION:Křeč
+GEO:49.378180;14.896228
+URL:geo:49.378180,14.896228
+DESCRIPTION:📍 Křeč\, Pelhřimov\n\n🚒 CAS (Černovice)
 END:VEVENT
 END:VCALENDAR
