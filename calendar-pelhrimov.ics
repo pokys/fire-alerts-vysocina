@@ -924,8 +924,8 @@ SUMMARY:🚗 dopravní nehoda - Pelhřimov
 LOCATION:Pelhřimov
 GEO:49.409781;15.210846
 URL:geo:49.409781,15.210846
-DESCRIPTION:📍 Myslotín\, Pelhřimov\n💬 DN 1 OA\, bez zranění.\n\n🚒 CAS (CHS 
- Pelhřimov)
+DESCRIPTION:📍 Myslotín\, Pelhřimov\n💬 DN 1 OA\, bez zranění. Zajištění míst
+ a nehody.\n\n🚒 CAS (CHS Pelhřimov)
 END:VEVENT
 BEGIN:VEVENT
 UID:414170061
@@ -960,6 +960,8 @@ SUMMARY:🚗 dopravní nehoda - Křelovice
 LOCATION:Křelovice
 GEO:49.528681;15.171914
 URL:geo:49.528681,15.171914
-DESCRIPTION:📍 Křelovice\, Pelhřimov\n\n🚒 CAS (HS Pacov)\n🚒 CAS (Onšov)
+DESCRIPTION:📍 Křelovice\, Pelhřimov\n💬 DN 1 OA\, se zraněním jedné osoby. Z
+ ajištění místa nehody. Spolupráce se složkami IZS.\n\n🚒 CAS (HS Pacov)\n🚒 
+ DA (Onšov)\n🚒 CAS (Onšov)
 END:VEVENT
 END:VCALENDAR
