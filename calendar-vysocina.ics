@@ -5,64 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:414057061
-DTSTART:20260629T143554Z
-DTEND:20260629T153554Z
-DTSTAMP:20260629T143554Z
-SUMMARY:🛠️ ostatní - Rynárec
-LOCATION:Rynárec
-GEO:49.385994;15.231853
-URL:geo:49.385994,15.231853
-DESCRIPTION:📍 Rynárec\, Pelhřimov\n💬 Pytlování písku\n\n🚒 CAS (Rynárec)
-END:VEVENT
-BEGIN:VEVENT
-UID:414058061
-DTSTART:20260629T143740Z
-DTEND:20260629T153740Z
-DTSTAMP:20260629T143740Z
-SUMMARY:🛠️ strom - Rozsochy
-LOCATION:Rozsochy
-GEO:49.527955;16.198634
-URL:geo:49.527955,16.198634
-DESCRIPTION:📍 Rozsochy\, Žďár nad Sázavou\n💬 Odstranění stromu.\n\n🚒 CAS (B
- ystřice nad Pernštejnem)
-END:VEVENT
-BEGIN:VEVENT
-UID:414059061
-DTSTART:20260629T143922Z
-DTEND:20260629T153922Z
-DTSTAMP:20260629T143922Z
-SUMMARY:🛠️ čerpání vody - Horní Cerekev
-LOCATION:Kaštanová\, Horní Cerekev
-GEO:49.323211;15.319914
-URL:geo:49.323211,15.319914
-DESCRIPTION:📍 Kaštanová\, Horní Cerekev\, Pelhřimov\n💬 Čerpání vody.\n\n🚒 D
- A (Horní Cerekev)
-END:VEVENT
-BEGIN:VEVENT
-UID:414060061
-DTSTART:20260629T144045Z
-DTEND:20260629T154045Z
-DTSTAMP:20260629T144045Z
-SUMMARY:🛠️ strom - Jihlava
-LOCATION:Jihlava
-GEO:49.419770;15.580411
-URL:geo:49.419770,15.580411
-DESCRIPTION:🚒 CAS (CHS Jihlava)
-END:VEVENT
-BEGIN:VEVENT
-UID:414061061
-DTSTART:20260629T144105Z
-DTEND:20260629T154105Z
-DTSTAMP:20260629T144105Z
-SUMMARY:🚑 otevření/asistence - Moravské Budějovice
-LOCATION:Chelčického\, Moravské Budějovice
-GEO:49.055714;15.811928
-URL:geo:49.055714,15.811928
-DESCRIPTION:📍 Chelčického\, Moravské Budějovice\, Třebíč\n💬 Otevření bytu.\
- n\n🚒 CAS (HS Moravské Budějovice)
-END:VEVENT
-BEGIN:VEVENT
 UID:414062061
 DTSTART:20260629T144137Z
 DTEND:20260629T154137Z
@@ -142,8 +84,8 @@ SUMMARY:🛠️ čerpání vody - Jihlava
 LOCATION:S. K. Neumanna\, Jihlava
 GEO:49.404974;15.557285
 URL:geo:49.404974,15.557285
-DESCRIPTION:📍 S. K. Neumanna\, Horní Kosov\, Jihlava\n\n🚒 CAS (Jihlava-Bedř
- ichov)
+DESCRIPTION:📍 S. K. Neumanna\, Horní Kosov\, Jihlava\n💬 Tlakování kanalizac
+ e.\n\n🚒 CAS (Jihlava-Bedřichov)
 END:VEVENT
 BEGIN:VEVENT
 UID:414071061
@@ -488,8 +430,8 @@ SUMMARY:🛠️ strom - Rousměrov
 LOCATION:Rousměrov
 GEO:49.446804;16.031046
 URL:geo:49.446804,16.031046
-DESCRIPTION:📍 Rousměrov\, Žďár nad Sázavou\n💬 Odstranění stromu.\n\n🚒 CAS (
- Ostrov nad Oslavou)
+DESCRIPTION:📍 Rousměrov\, Žďár nad Sázavou\n💬 Odstranění stromu.\n\n🚒 DA (O
+ strov nad Oslavou)\n🚒 pila řetězová (Ostrov nad Oslavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:414107061
@@ -730,7 +672,8 @@ SUMMARY:🛠️ ostatní - Střítež
 LOCATION:Střítež
 GEO:49.456458;15.627952
 URL:geo:49.456458,15.627952
-DESCRIPTION:📍 Střítež\, Jihlava\n\n🚒 DA (Střítež (JI))
+DESCRIPTION:📍 Střítež\, Jihlava\n💬 Úklid vozovky.\n\n🚒 DA (Střítež (JI))\n🚒
+  CAS (Střítež (JI))
 END:VEVENT
 BEGIN:VEVENT
 UID:414133061
@@ -991,8 +934,8 @@ SUMMARY:🛠️ čerpání vody - Jihlava
 LOCATION:Rantířovská\, Jihlava
 GEO:49.397389;15.558053
 URL:geo:49.397389,15.558053
-DESCRIPTION:📍 Rantířovská\, Horní Kosov\, Jihlava\n\n🚒 DA (Jihlava-Bedřicho
- v)\n🚒 CAS (Jihlava-Bedřichov)
+DESCRIPTION:📍 Rantířovská\, Horní Kosov\, Jihlava\n💬 Čerpání vody.\n\n🚒 DA 
+ (Jihlava-Bedřichov)\n🚒 CAS (Jihlava-Bedřichov)
 END:VEVENT
 BEGIN:VEVENT
 UID:414159061
@@ -1038,7 +981,8 @@ SUMMARY:🛠️ strom - Mnich
 LOCATION:Mnich
 GEO:49.336109;14.976666
 URL:geo:49.336109,14.976666
-DESCRIPTION:📍 Chválkov\, Mnich\, Pelhřimov\n\n🚒 CAS (HS Kamenice nad Lipou)
+DESCRIPTION:📍 Chválkov\, Mnich\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 CAS (
+ HS Kamenice nad Lipou)
 END:VEVENT
 BEGIN:VEVENT
 UID:414163061
@@ -1049,7 +993,8 @@ SUMMARY:🛠️ ostatní - Polná
 LOCATION:Polná
 GEO:49.483102;15.721112
 URL:geo:49.483102,15.721112
-DESCRIPTION:📍 Polná\, Jihlava\n\n🚒 CAS (HS Polná)
+DESCRIPTION:📍 Polná\, Jihlava\n💬 Zajištění vyvráceného sloupu VO.\n\n🚒 CAS 
+ (HS Polná)
 END:VEVENT
 BEGIN:VEVENT
 UID:414164061
@@ -1060,8 +1005,8 @@ SUMMARY:🛠️ strom - Osová Bítýška
 LOCATION:Osová Bítýška
 GEO:49.338373;16.201789
 URL:geo:49.338373,16.201789
-DESCRIPTION:📍 Osová\, Osová Bítýška\, Žďár nad Sázavou\n\n🚒 CAS (Osová Bítý
- ška)
+DESCRIPTION:📍 Osová\, Osová Bítýška\, Žďár nad Sázavou\n💬 Odstranění stromu
+ .\n\n🚒 CAS (Osová Bítýška)
 END:VEVENT
 BEGIN:VEVENT
 UID:414166061
@@ -1096,7 +1041,8 @@ SUMMARY:🛠️ strom - Třebelovice
 LOCATION:Třebelovice
 GEO:49.022153;15.666232
 URL:geo:49.022153,15.666232
-DESCRIPTION:📍 Třebelovice\, Třebíč\n\n🚒 CAS (Třebelovice)
+DESCRIPTION:📍 Třebelovice\, Třebíč\n💬 Odstranění stromu.\n\n🚒 CAS (Třebelov
+ ice)
 END:VEVENT
 BEGIN:VEVENT
 UID:414169061
@@ -1143,7 +1089,8 @@ SUMMARY:🛠️ otevření bytu/auta - Třebíč
 LOCATION:Na Kopcích\, Třebíč
 GEO:49.219751;15.904231
 URL:geo:49.219751,15.904231
-DESCRIPTION:📍 Na Kopcích\, Nové Město\, Třebíč\n\n🚒 CAS (CHS Třebíč)
+DESCRIPTION:📍 Na Kopcích\, Nové Město\, Třebíč\n💬 Otevření bytu.\n\n🚒 CAS (
+ CHS Třebíč)
 END:VEVENT
 BEGIN:VEVENT
 UID:414174061
@@ -1154,7 +1101,8 @@ SUMMARY:🛠️ ostatní - Jihlava
 LOCATION:Březinova\, Jihlava
 GEO:49.401731;15.598161
 URL:geo:49.401731,15.598161
-DESCRIPTION:📍 Březinova\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+DESCRIPTION:📍 Březinova\, Jihlava\n💬 Pročistění odpadu.\n\n🚒 CAS (CHS Jihla
+ va)
 END:VEVENT
 BEGIN:VEVENT
 UID:414175061
@@ -1165,6 +1113,63 @@ SUMMARY:🛠️ čerpání vody - Jihlava
 LOCATION:Sokolovská\, Jihlava
 GEO:49.420468;15.595694
 URL:geo:49.420468,15.595694
-DESCRIPTION:📍 Sokolovská\, Jihlava\n\n🚒 DA (Jihlava-Bedřichov)
+DESCRIPTION:📍 Sokolovská\, Jihlava\n💬 Čerpání vody.\n\n🚒 DA (Jihlava-Bedřic
+ hov)
+END:VEVENT
+BEGIN:VEVENT
+UID:414176061
+DTSTART:20260629T165910Z
+DTEND:20260629T175910Z
+DTSTAMP:20260629T165910Z
+SUMMARY:🛠️ strom - Čáslavice
+LOCATION:Čáslavice
+GEO:49.159004;15.798563
+URL:geo:49.159004,15.798563
+DESCRIPTION:📍 Čáslavice\, Třebíč\n\n🚒 CAS (Čáslavice)
+END:VEVENT
+BEGIN:VEVENT
+UID:414177061
+DTSTART:20260629T170421Z
+DTEND:20260629T180421Z
+DTSTAMP:20260629T170421Z
+SUMMARY:🛠️ strom - Jihlava
+LOCATION:Sasovské údolí\, Jihlava
+GEO:49.382282;15.596555
+URL:geo:49.382282,15.596555
+DESCRIPTION:📍 Sasovské údolí\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+END:VEVENT
+BEGIN:VEVENT
+UID:414178061
+DTSTART:20260629T170506Z
+DTEND:20260629T180506Z
+DTSTAMP:20260629T170506Z
+SUMMARY:🛠️ strom - Ledeč nad Sázavou
+LOCATION:Pivovarská\, Ledeč nad Sázavou
+GEO:49.706182;15.279648
+URL:geo:49.706182,15.279648
+DESCRIPTION:📍 Pivovarská\, Horní Ledeč\, Ledeč nad Sázavou\, Havlíčkův Brod
+ \n\n🚒 CAS (HS Ledeč nad Sázavou)\n🚒 AŽ (HS Ledeč nad Sázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:414179061
+DTSTART:20260629T170709Z
+DTEND:20260629T180709Z
+DTSTAMP:20260629T170709Z
+SUMMARY:🚗 dopravní nehoda - Křelovice
+LOCATION:Křelovice
+GEO:49.528681;15.171914
+URL:geo:49.528681,15.171914
+DESCRIPTION:📍 Křelovice\, Pelhřimov\n\n🚒 CAS (HS Pacov)\n🚒 CAS (Onšov)
+END:VEVENT
+BEGIN:VEVENT
+UID:414181061
+DTSTART:20260629T170746Z
+DTEND:20260629T180746Z
+DTSTAMP:20260629T170746Z
+SUMMARY:🛠️ strom - Střítež
+LOCATION:Střítež
+GEO:49.456458;15.627952
+URL:geo:49.456458,15.627952
+DESCRIPTION:📍 Střítež\, Jihlava\n\n🚒 DA (Střítež (JI))
 END:VEVENT
 END:VCALENDAR

@@ -913,7 +913,8 @@ SUMMARY:🛠️ strom - Mnich
 LOCATION:Mnich
 GEO:49.336109;14.976666
 URL:geo:49.336109,14.976666
-DESCRIPTION:📍 Chválkov\, Mnich\, Pelhřimov\n\n🚒 CAS (HS Kamenice nad Lipou)
+DESCRIPTION:📍 Chválkov\, Mnich\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 CAS (
+ HS Kamenice nad Lipou)
 END:VEVENT
 BEGIN:VEVENT
 UID:414166061
@@ -962,5 +963,16 @@ GEO:49.461405;15.230623
 URL:geo:49.461405,15.230623
 DESCRIPTION:📍 Krasíkovice\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 CAS (CHS P
  elhřimov)
+END:VEVENT
+BEGIN:VEVENT
+UID:414179061
+DTSTART:20260629T170709Z
+DTEND:20260629T180709Z
+DTSTAMP:20260629T170709Z
+SUMMARY:🚗 dopravní nehoda - Křelovice
+LOCATION:Křelovice
+GEO:49.528681;15.171914
+URL:geo:49.528681,15.171914
+DESCRIPTION:📍 Křelovice\, Pelhřimov\n\n🚒 CAS (HS Pacov)\n🚒 CAS (Onšov)
 END:VEVENT
 END:VCALENDAR
