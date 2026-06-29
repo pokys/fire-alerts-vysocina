@@ -251,7 +251,8 @@ SUMMARY:🛠️ strom - Zachotín
 LOCATION:Zachotín
 GEO:49.457666;15.343119
 URL:geo:49.457666,15.343119
-DESCRIPTION:📍 Petrkov\, Zachotín\, Pelhřimov\n\n🚒 DA (Zachotín)
+DESCRIPTION:📍 Petrkov\, Zachotín\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 DA 
+ (Zachotín)
 END:VEVENT
 BEGIN:VEVENT
 UID:413968061
@@ -298,7 +299,8 @@ SUMMARY:🛠️ strom - Rynárec
 LOCATION:Rynárec
 GEO:49.389603;15.234722
 URL:geo:49.389603,15.234722
-DESCRIPTION:📍 Rynárec\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)
+DESCRIPTION:📍 Rynárec\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 CAS (CHS Pelhř
+ imov)
 END:VEVENT
 BEGIN:VEVENT
 UID:413975061
