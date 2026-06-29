@@ -441,6 +441,17 @@ DESCRIPTION:📍 Jihlavská\, Humpolec\, Pelhřimov\n💬 Odstranění stromu.\n
  A (Humpolec)
 END:VEVENT
 BEGIN:VEVENT
+UID:414005061
+DTSTART:20260629T135610Z
+DTEND:20260629T145610Z
+DTSTAMP:20260629T135610Z
+SUMMARY:🛠️ čerpání vody - Černovice
+LOCATION:Tyršova\, Černovice
+GEO:49.371953;14.967791
+URL:geo:49.371953,14.967791
+DESCRIPTION:📍 Tyršova\, Černovice\, Pelhřimov\n\n🚒 CAS (Černovice)
+END:VEVENT
+BEGIN:VEVENT
 UID:414012061
 DTSTART:20260629T140037Z
 DTEND:20260629T150037Z
@@ -685,7 +696,8 @@ SUMMARY:🛠️ čerpání vody - Horní Cerekev
 LOCATION:Kaštanová\, Horní Cerekev
 GEO:49.323211;15.319914
 URL:geo:49.323211,15.319914
-DESCRIPTION:📍 Kaštanová\, Horní Cerekev\, Pelhřimov\n\n🚒 DA (Horní Cerekev)
+DESCRIPTION:📍 Kaštanová\, Horní Cerekev\, Pelhřimov\n💬 Čerpání vody.\n\n🚒 D
+ A (Horní Cerekev)
 END:VEVENT
 BEGIN:VEVENT
 UID:414063061
@@ -760,6 +772,18 @@ DESCRIPTION:📍 Kletečná\, Humpolec\, Pelhřimov\n💬 Odstranění stromu.\n
  S (HS Humpolec)
 END:VEVENT
 BEGIN:VEVENT
+UID:414133061
+DTSTART:20260629T152807Z
+DTEND:20260629T162807Z
+DTSTAMP:20260629T152807Z
+SUMMARY:🛠️ čerpání vody - Horní Cerekev
+LOCATION:Březinova\, Horní Cerekev
+GEO:49.318656;15.327359
+URL:geo:49.318656,15.327359
+DESCRIPTION:📍 Březinova\, Horní Cerekev\, Pelhřimov\n💬 Čerpání vody.\n\n🚒 C
+ AS (Horní Cerekev)
+END:VEVENT
+BEGIN:VEVENT
 UID:414137061
 DTSTART:20260629T153037Z
 DTEND:20260629T163037Z
@@ -768,7 +792,7 @@ SUMMARY:🛠️ strom - Křeč
 LOCATION:Křeč
 GEO:49.378180;14.896228
 URL:geo:49.378180,14.896228
-DESCRIPTION:📍 Křeč\, Pelhřimov\n\n🚒 CAS (Černovice)
+DESCRIPTION:📍 Křeč\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 CAS (Černovice)
 END:VEVENT
 BEGIN:VEVENT
 UID:414143061
@@ -812,6 +836,19 @@ SUMMARY:🛠️ strom - Pacov
 LOCATION:Jetřichovská\, Pacov
 GEO:49.479407;15.002253
 URL:geo:49.479407,15.002253
-DESCRIPTION:📍 Jetřichovská\, Pacov\, Pelhřimov\n\n🚒 CAS (HS Pacov)
+DESCRIPTION:📍 Jetřichovská\, Pacov\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 C
+ AS (HS Pacov)
+END:VEVENT
+BEGIN:VEVENT
+UID:414152061
+DTSTART:20260629T155943Z
+DTEND:20260629T165943Z
+DTSTAMP:20260629T155943Z
+SUMMARY:🛠️ strom - Horní Cerekev
+LOCATION:Horní Cerekev
+GEO:49.320260;15.327690
+URL:geo:49.320260,15.327690
+DESCRIPTION:📍 Horní Cerekev\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 CAS (Hor
+ ní Cerekev)
 END:VEVENT
 END:VCALENDAR
