@@ -205,7 +205,18 @@ SUMMARY:🚑 spolupráce ZZS - Žirovnice
 LOCATION:Žirovnice
 GEO:49.229587;15.159129
 URL:geo:49.229587,15.159129
-DESCRIPTION:📍 Vlčetín\, Žirovnice\, Pelhřimov\n\n🚒 CAS (HS Kamenice nad Lip
- ou)\n🚒 CAS (Žirovnice)
+DESCRIPTION:📍 Vlčetín\, Žirovnice\, Pelhřimov\n💬 Spolupráce se ZZS.\n\n🚒 CA
+ S (HS Kamenice nad Lipou)\n🚒 CAS (Žirovnice)
+END:VEVENT
+BEGIN:VEVENT
+UID:413938061
+DTSTART:20260629T080018Z
+DTEND:20260629T090018Z
+DTSTAMP:20260629T080018Z
+SUMMARY:🚑 transport pacienta - Humpolec
+LOCATION:Masarykova\, Humpolec
+GEO:49.537259;15.354372
+URL:geo:49.537259,15.354372
+DESCRIPTION:📍 Masarykova\, Humpolec\, Pelhřimov\n\n🚒 CAS (HS Humpolec)
 END:VEVENT
 END:VCALENDAR
