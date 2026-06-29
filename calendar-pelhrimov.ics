@@ -964,4 +964,15 @@ DESCRIPTION:📍 Křelovice\, Pelhřimov\n💬 DN 1 OA\, se zraněním jedné os
  ajištění místa nehody. Spolupráce se složkami IZS.\n\n🚒 CAS (HS Pacov)\n🚒 
  DA (Onšov)\n🚒 CAS (Onšov)
 END:VEVENT
+BEGIN:VEVENT
+UID:414187061
+DTSTART:20260629T173746Z
+DTEND:20260629T183746Z
+DTSTAMP:20260629T173746Z
+SUMMARY:🛠️ strom - Pacov
+LOCATION:Pacov
+GEO:49.473511;15.000838
+URL:geo:49.473511,15.000838
+DESCRIPTION:📍 Pacov\, Pelhřimov\n\n🚒 osobní automobil (Pacov)
+END:VEVENT
 END:VCALENDAR
