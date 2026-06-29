@@ -931,7 +931,7 @@ LOCATION:Velká Bíteš
 GEO:49.292860;16.234140
 URL:geo:49.292860,16.234140
 DESCRIPTION:📍 Velká Bíteš\, Žďár nad Sázavou\n💬 Odstranění stromu.\n\n🚒 CAS
-  (HS Velká Bíteš)\n🚒 AŽ (HS Velká Bíteš)
+  (HS Velká Bíteš)\n🚒 AŽ (HS Velká Bíteš)\n🚒 pila řetězová (HS Velká Bíteš)
 END:VEVENT
 BEGIN:VEVENT
 UID:413943061
@@ -978,7 +978,8 @@ LOCATION:Jabloňov
 GEO:49.317905;16.090762
 URL:geo:49.317905,16.090762
 DESCRIPTION:📍 Jabloňov\, Žďár nad Sázavou\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 C
- AS (Jabloňov)\n🚒 CAS (Osová Bítýška)\n🚒 CAS (Velké Meziříčí)
+ AS (Jabloňov)\n🚒 CAS (Osová Bítýška)\n🚒 CAS (Velké Meziříčí)\n🚒 vyšetřovac
+ í automobil (ÚO Žďár nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:413950061
@@ -990,5 +991,27 @@ LOCATION:Čáslavice
 GEO:49.147923;15.774619
 URL:geo:49.147923,15.774619
 DESCRIPTION:📍 Čáslavice\, Třebíč\n\n🚒 CAS (Čáslavice)
+END:VEVENT
+BEGIN:VEVENT
+UID:413951061
+DTSTART:20260629T103257Z
+DTEND:20260629T113257Z
+DTSTAMP:20260629T103257Z
+SUMMARY:🛠️ ostatní - Pelhřimov
+LOCATION:Pražská\, Pelhřimov
+GEO:49.439380;15.209686
+URL:geo:49.439380,15.209686
+DESCRIPTION:📍 Pražská\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)
+END:VEVENT
+BEGIN:VEVENT
+UID:413953061
+DTSTART:20260629T104945Z
+DTEND:20260629T114945Z
+DTSTAMP:20260629T104945Z
+SUMMARY:🛠️ ostatní - Jihlava
+LOCATION:Halasova\, Jihlava
+GEO:49.405230;15.564136
+URL:geo:49.405230,15.564136
+DESCRIPTION:📍 Halasova\, Jihlava\n\n🚒 CAS (CHS Jihlava)
 END:VEVENT
 END:VCALENDAR
