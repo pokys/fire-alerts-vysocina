@@ -984,8 +984,8 @@ SUMMARY:🛠️ ostatní - Dukovany
 LOCATION:Dukovany
 GEO:49.080168;16.182525
 URL:geo:49.080168,16.182525
-DESCRIPTION:📍 Dukovany\, Třebíč\n\n🚒 DA (ČEZ a.s. - Dukovany)\n🚒 DA (Dukova
- ny)
+DESCRIPTION:📍 Dukovany\, Třebíč\n💬 Provzdušnění tybníka.\n\n🚒 DA (ČEZ a.s. 
+ - Dukovany)\n🚒 DA (Dukovany)
 END:VEVENT
 BEGIN:VEVENT
 UID:413958061
@@ -1008,7 +1008,8 @@ SUMMARY:🛠️ ostatní - Jiřice
 LOCATION:Jiřice
 GEO:49.550545;15.317778
 URL:geo:49.550545,15.317778
-DESCRIPTION:📍 Jiřice\, Pelhřimov\n\n🚒 CAS (HS Humpolec)
+DESCRIPTION:📍 Jiřice\, Pelhřimov\n💬 Pomoc s imobilní osobou.\n\n🚒 CAS (HS H
+ umpolec)
 END:VEVENT
 BEGIN:VEVENT
 UID:413962061
