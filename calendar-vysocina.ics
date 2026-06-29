@@ -13,7 +13,8 @@ SUMMARY:🛠️ čerpání vody - Jihlava
 LOCATION:Musilova\, Jihlava
 GEO:49.385326;15.598957
 URL:geo:49.385326,15.598957
-DESCRIPTION:📍 Musilova\, Jihlava\n\n🚒 DA (Jihlava-Bedřichov)
+DESCRIPTION:📍 Musilova\, Jihlava\n💬 Čerpání vody.\n\n🚒 DA (Jihlava-Bedřicho
+ v)
 END:VEVENT
 BEGIN:VEVENT
 UID:414079061
@@ -24,7 +25,7 @@ SUMMARY:🛠️ čerpání vody - Jihlava
 LOCATION:Na Dolech\, Jihlava
 GEO:49.409006;15.567872
 URL:geo:49.409006,15.567872
-DESCRIPTION:📍 Na Dolech\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+DESCRIPTION:📍 Na Dolech\, Jihlava\n💬 Čerpání vody.\n\n🚒 CAS (CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:414080061
@@ -59,7 +60,7 @@ SUMMARY:🛠️ strom - Jihlava
 LOCATION:Jihlava
 GEO:49.453576;15.602644
 URL:geo:49.453576,15.602644
-DESCRIPTION:📍 Pávov\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+DESCRIPTION:📍 Pávov\, Jihlava\n💬 Odstranění stromu.\n\n🚒 CAS (CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:414086061
@@ -104,7 +105,7 @@ SUMMARY:🛠️ čerpání vody - Jihlava
 LOCATION:Brtnická\, Jihlava
 GEO:49.388100;15.596358
 URL:geo:49.388100,15.596358
-DESCRIPTION:📍 Brtnická\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+DESCRIPTION:📍 Brtnická\, Jihlava\n💬 Čerpání vody.\n\n🚒 CAS (CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:414091061
@@ -115,7 +116,7 @@ SUMMARY:🛠️ strom - Jihlava
 LOCATION:Jihlava
 GEO:49.450356;15.609677
 URL:geo:49.450356,15.609677
-DESCRIPTION:📍 Pávov\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+DESCRIPTION:📍 Pávov\, Jihlava\n💬 Odstranění stromu.\n\n🚒 CAS (CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:414092061
@@ -138,7 +139,8 @@ SUMMARY:🛠️ strom - Bítovčice
 LOCATION:Bítovčice
 GEO:49.359401;15.744895
 URL:geo:49.359401,15.744895
-DESCRIPTION:📍 Bítovčice\, Jihlava\n\n🚒 CAS (Bítovčice)
+DESCRIPTION:📍 Bítovčice\, Jihlava\n💬 Odstranění stromu.\n\n🚒 CAS (Bítovčice
+ )
 END:VEVENT
 BEGIN:VEVENT
 UID:414094061
@@ -160,8 +162,8 @@ SUMMARY:🛠️ strom - Mirošov
 LOCATION:Mirošov
 GEO:49.386359;15.469508
 URL:geo:49.386359,15.469508
-DESCRIPTION:📍 Mirošov\, Jihlava\n\n🚒 CAS (HS Třešť)\n🚒 pila řetězová (HS Tř
- ešť)
+DESCRIPTION:📍 Mirošov\, Jihlava\n💬 Odstranění stromu.\n\n🚒 CAS (HS Třešť)\n
+ 🚒 pila řetězová (HS Třešť)
 END:VEVENT
 BEGIN:VEVENT
 UID:414097061
@@ -172,7 +174,7 @@ SUMMARY:🛠️ čerpání vody - Jihlava
 LOCATION:Seifertova\, Jihlava
 GEO:49.392308;15.579780
 URL:geo:49.392308,15.579780
-DESCRIPTION:📍 Seifertova\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+DESCRIPTION:📍 Seifertova\, Jihlava\n💬 Čerpání vody.\n\n🚒 CAS (CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:414098061
@@ -183,7 +185,7 @@ SUMMARY:🛠️ strom - Záborná
 LOCATION:Záborná
 GEO:49.476666;15.769927
 URL:geo:49.476666,15.769927
-DESCRIPTION:📍 Záborná\, Jihlava\n\n🚒 CAS (Polná)
+DESCRIPTION:📍 Záborná\, Jihlava\n💬 Odstranění stromu.\n\n🚒 CAS (Polná)
 END:VEVENT
 BEGIN:VEVENT
 UID:414100061
@@ -242,7 +244,7 @@ SUMMARY:🛠️ čerpání vody - Jihlava
 LOCATION:Úvoz\, Jihlava
 GEO:49.405580;15.590960
 URL:geo:49.405580,15.590960
-DESCRIPTION:📍 Úvoz\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+DESCRIPTION:📍 Úvoz\, Jihlava\n💬 Čerpání vody.\n\n🚒 CAS (CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:414105061
@@ -253,7 +255,8 @@ SUMMARY:🛠️ strom - Velký Beranov
 LOCATION:Velký Beranov
 GEO:49.418248;15.678539
 URL:geo:49.418248,15.678539
-DESCRIPTION:📍 Velký Beranov\, Jihlava\n\n🚒 CAS (Luka nad Jihlavou)
+DESCRIPTION:📍 Velký Beranov\, Jihlava\n💬 Odstranění stromu.\n\n🚒 CAS (Luka 
+ nad Jihlavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:414106061
