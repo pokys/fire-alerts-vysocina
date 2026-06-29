@@ -162,7 +162,8 @@ SUMMARY:🛠️ ostatní - Dukovany
 LOCATION:Dukovany
 GEO:49.081251;16.192175
 URL:geo:49.081251,16.192175
-DESCRIPTION:📍 Dukovany\, Třebíč\n💬 ZOČ.\n\n🚒 DA (Dukovany)
+DESCRIPTION:📍 Dukovany\, Třebíč\n💬 ZOČ.\n\n🚒 DA (Dukovany)\n🚒 čerpadlo plov
+ oucí (Dukovany)
 END:VEVENT
 BEGIN:VEVENT
 UID:413820061
@@ -835,8 +836,8 @@ SUMMARY:🛠️ obtížný hmyz - Důl
 LOCATION:Důl
 GEO:49.463162;15.031834
 URL:geo:49.463162,15.031834
-DESCRIPTION:📍 Nová Ves\, Důl\, Pelhřimov\n💬 Odstranění obtížného hmyzu.\n\n
- 🚒 CAS (HS Pacov)
+DESCRIPTION:📍 Nová Ves\, Důl\, Pelhřimov\n💬 Likvidace nebezpečného hmyzu.\n
+ \n🚒 CAS (HS Pacov)
 END:VEVENT
 BEGIN:VEVENT
 UID:413925061
@@ -871,7 +872,8 @@ SUMMARY:🚑 transport pacienta - Jihlava
 LOCATION:Rantířovská\, Jihlava
 GEO:49.396743;15.566877
 URL:geo:49.396743,15.566877
-DESCRIPTION:📍 Rantířovská\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+DESCRIPTION:📍 Rantířovská\, Jihlava\n💬 Transport pacienta.\n\n🚒 CAS (CHS Ji
+ hlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:413931061
@@ -882,8 +884,9 @@ SUMMARY:🛠️ ostatní - Stránecká Zhoř
 LOCATION:Stránecká Zhoř
 GEO:49.386533;15.951214
 URL:geo:49.386533,15.951214
-DESCRIPTION:📍 Kochánov\, Stránecká Zhoř\, Žďár nad Sázavou\n💬 Asistence při
-  tech. závadě OA.\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)
+DESCRIPTION:📍 Kochánov\, Stránecká Zhoř\, Žďár nad Sázavou\n💬 Ohlášen požár
+  OA\, průzkumem zjištěno\, že se jedno technickou závadu.\n\n🚒 CAS (HS Vel
+ ké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)
 END:VEVENT
 BEGIN:VEVENT
 UID:413932061
@@ -894,7 +897,8 @@ SUMMARY:🛠️ obtížný hmyz - Brzkov
 LOCATION:Brzkov
 GEO:49.525193;15.727667
 URL:geo:49.525193,15.727667
-DESCRIPTION:📍 Brzkov\, Jihlava\n\n🚒 CAS (HS Polná)
+DESCRIPTION:📍 Brzkov\, Jihlava\n💬 Likvidace nebezpečného hmyzu.\n\n🚒 CAS (H
+ S Polná)
 END:VEVENT
 BEGIN:VEVENT
 UID:413933061
@@ -975,5 +979,29 @@ LOCATION:Evžena Rošického\, Jihlava
 GEO:49.400796;15.572726
 URL:geo:49.400796,15.572726
 DESCRIPTION:📍 Evžena Rošického\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+END:VEVENT
+BEGIN:VEVENT
+UID:413947061
+DTSTART:20260629T095451Z
+DTEND:20260629T105451Z
+DTSTAMP:20260629T095451Z
+SUMMARY:🚗 úklid místa - Moravecké Pavlovice
+LOCATION:Moravecké Pavlovice
+GEO:49.425516;16.254599
+URL:geo:49.425516,16.254599
+DESCRIPTION:📍 Moravecké Pavlovice\, Žďár nad Sázavou\n\n🚒 CAS (HS Bystřice 
+ nad Pernštejnem)
+END:VEVENT
+BEGIN:VEVENT
+UID:413948061
+DTSTART:20260629T100020Z
+DTEND:20260629T110020Z
+DTSTAMP:20260629T100020Z
+SUMMARY:🔥 tráva/plocha - Jabloňov
+LOCATION:Jabloňov
+GEO:49.317905;16.090762
+URL:geo:49.317905,16.090762
+DESCRIPTION:📍 Jabloňov\, Žďár nad Sázavou\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 C
+ AS (Jabloňov)\n🚒 CAS (Osová Bítýška)\n🚒 CAS (Velké Meziříčí)
 END:VEVENT
 END:VCALENDAR
