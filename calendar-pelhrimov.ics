@@ -216,7 +216,7 @@ SUMMARY:🛠️ ostatní - Pelhřimov
 LOCATION:Pražská\, Pelhřimov
 GEO:49.439380;15.209686
 URL:geo:49.439380,15.209686
-DESCRIPTION:📍 Pražská\, Pelhřimov\n💬 ZOČ\n\n🚒 CAS (CHS Pelhřimov)
+DESCRIPTION:📍 Pražská\, Pelhřimov\n💬 ZOČ.\n\n🚒 CAS (CHS Pelhřimov)
 END:VEVENT
 BEGIN:VEVENT
 UID:413961061
@@ -973,7 +973,8 @@ SUMMARY:🛠️ strom - Pacov
 LOCATION:Pacov
 GEO:49.473511;15.000838
 URL:geo:49.473511,15.000838
-DESCRIPTION:📍 Pacov\, Pelhřimov\n\n🚒 osobní automobil (Pacov)
+DESCRIPTION:📍 Pacov\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 osobní automobil
+  (Pacov)
 END:VEVENT
 BEGIN:VEVENT
 UID:414190061
@@ -1008,5 +1009,17 @@ LOCATION:Zachotín
 GEO:49.457849;15.343140
 URL:geo:49.457849,15.343140
 DESCRIPTION:📍 Zachotín\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 DA (Zachotín)
+END:VEVENT
+BEGIN:VEVENT
+UID:414198061
+DTSTART:20260629T183803Z
+DTEND:20260629T193803Z
+DTSTAMP:20260629T183803Z
+SUMMARY:🛠️ strom - Pacov
+LOCATION:Jetřichovská\, Pacov
+GEO:49.482622;14.995448
+URL:geo:49.482622,14.995448
+DESCRIPTION:📍 Jetřichovská\, Pacov\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 o
+ sobní automobil (Pacov)
 END:VEVENT
 END:VCALENDAR

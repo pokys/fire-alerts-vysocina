@@ -5,43 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:414075061
-DTSTART:20260629T144838Z
-DTEND:20260629T154838Z
-DTSTAMP:20260629T144838Z
-SUMMARY:🔥 trafostanice - Vilémov
-LOCATION:Vilémov
-GEO:49.812202;15.541235
-URL:geo:49.812202,15.541235
-DESCRIPTION:📍 Vilémov\, Havlíčkův Brod\n💬 Požár rozvaděče.\n\n🚒 CAS (HS Cho
- těboř)\n🚒 CAS (Golčův Jeníkov)\n🚒 CAS (Golčův Jeníkov)\n🚒 CAS (Uhelná Příb
- ram)\n🚒 DA (Vilémov)\n🚒 vyšetřovací automobil (ÚO Havlíčkův Brod)
-END:VEVENT
-BEGIN:VEVENT
-UID:414076061
-DTSTART:20260629T145045Z
-DTEND:20260629T155045Z
-DTSTAMP:20260629T145045Z
-SUMMARY:🛠️ čerpání vody - Černovice
-LOCATION:Černovice
-GEO:49.340749;14.959256
-URL:geo:49.340749,14.959256
-DESCRIPTION:📍 Vlkosovice\, Černovice\, Pelhřimov\n💬 Čerpání vody.\n\n🚒 CAS 
- (Kamenice nad Lipou)\n🚒 CAS (Kamenice nad Lipou)
-END:VEVENT
-BEGIN:VEVENT
-UID:414077061
-DTSTART:20260629T145152Z
-DTEND:20260629T155152Z
-DTSTAMP:20260629T145152Z
-SUMMARY:🛠️ strom - Mikulovice
-LOCATION:Mikulovice
-GEO:49.166497;15.851931
-URL:geo:49.166497,15.851931
-DESCRIPTION:📍 Mikulovice\, Třebíč\n💬 Odstranění stromu.\n\n🚒 CAS (Jaroměřic
- e nad Rokytnou)
-END:VEVENT
-BEGIN:VEVENT
 UID:414078061
 DTSTART:20260629T145254Z
 DTEND:20260629T155254Z
@@ -451,8 +414,8 @@ SUMMARY:🛠️ čerpání vody - Jihlava
 LOCATION:Mostecká\, Jihlava
 GEO:49.405061;15.583408
 URL:geo:49.405061,15.583408
-DESCRIPTION:📍 Mostecká\, Jihlava\n\n🚒 CAS (Jihlava-Bedřichov)\n🚒 CAS (Jihla
- va-Bedřichov)
+DESCRIPTION:📍 Mostecká\, Jihlava\n💬 Čerpání vody.\n\n🚒 CAS (Jihlava-Bedřich
+ ov)\n🚒 CAS (Jihlava-Bedřichov)
 END:VEVENT
 BEGIN:VEVENT
 UID:414124061
@@ -497,7 +460,8 @@ SUMMARY:🛠️ strom - Jihlava
 LOCATION:Riegrova\, Jihlava
 GEO:49.413127;15.594286
 URL:geo:49.413127,15.594286
-DESCRIPTION:📍 Riegrova\, Jihlava\n\n🚒 CAS (Jihlava-Bedřichov)
+DESCRIPTION:📍 Riegrova\, Jihlava\n💬 Odstranění stromu.\n\n🚒 CAS (Jihlava-Be
+ dřichov)
 END:VEVENT
 BEGIN:VEVENT
 UID:414128061
@@ -638,8 +602,8 @@ SUMMARY:🛠️ strom - Rácovice
 LOCATION:Rácovice
 GEO:49.020523;15.688511
 URL:geo:49.020523,15.688511
-DESCRIPTION:📍 Rácovice\, Třebíč\n\n🚒 CAS (HS Jemnice)\n🚒 pila řetězová (HS 
- Jemnice)
+DESCRIPTION:📍 Rácovice\, Třebíč\n💬 Odstranění stromu.\n\n🚒 CAS (HS Jemnice)
+ \n🚒 pila řetězová (HS Jemnice)
 END:VEVENT
 BEGIN:VEVENT
 UID:414143061
@@ -817,7 +781,7 @@ SUMMARY:🛠️ strom - Švábov
 LOCATION:Švábov
 GEO:49.310668;15.350790
 URL:geo:49.310668,15.350790
-DESCRIPTION:📍 Švábov\, Jihlava\n\n🚒 DA (Batelov)
+DESCRIPTION:📍 Švábov\, Jihlava\n💬 Odstranění stromu.\n\n🚒 DA (Batelov)
 END:VEVENT
 BEGIN:VEVENT
 UID:414160061
@@ -1022,7 +986,7 @@ GEO:49.706182;15.279648
 URL:geo:49.706182,15.279648
 DESCRIPTION:📍 Pivovarská\, Horní Ledeč\, Ledeč nad Sázavou\, Havlíčkův Brod
  \n💬 Odstranění stromu.\n\n🚒 CAS (HS Ledeč nad Sázavou)\n🚒 AŽ (HS Ledeč nad
-  Sázavou)
+  Sázavou)\n🚒 pila řetězová (HS Ledeč nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:414179061
@@ -1094,7 +1058,8 @@ SUMMARY:🛠️ strom - Pacov
 LOCATION:Pacov
 GEO:49.473511;15.000838
 URL:geo:49.473511,15.000838
-DESCRIPTION:📍 Pacov\, Pelhřimov\n\n🚒 osobní automobil (Pacov)
+DESCRIPTION:📍 Pacov\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 osobní automobil
+  (Pacov)
 END:VEVENT
 BEGIN:VEVENT
 UID:414188061
@@ -1175,6 +1140,41 @@ SUMMARY:🛠️ strom - Růžená
 LOCATION:Růžená
 GEO:49.270392;15.428404
 URL:geo:49.270392,15.428404
-DESCRIPTION:📍 Růžená\, Jihlava\n\n🚒 DA (Růžená)
+DESCRIPTION:📍 Růžená\, Jihlava\n💬 Odstranění stromu.\n\n🚒 DA (Růžená)
+END:VEVENT
+BEGIN:VEVENT
+UID:414198061
+DTSTART:20260629T183803Z
+DTEND:20260629T193803Z
+DTSTAMP:20260629T183803Z
+SUMMARY:🛠️ strom - Pacov
+LOCATION:Jetřichovská\, Pacov
+GEO:49.482622;14.995448
+URL:geo:49.482622,14.995448
+DESCRIPTION:📍 Jetřichovská\, Pacov\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 o
+ sobní automobil (Pacov)
+END:VEVENT
+BEGIN:VEVENT
+UID:414199061
+DTSTART:20260629T183856Z
+DTEND:20260629T193856Z
+DTSTAMP:20260629T183856Z
+SUMMARY:🛠️ strom - Velká Bíteš
+LOCATION:Velká Bíteš
+GEO:49.307187;16.241751
+URL:geo:49.307187,16.241751
+DESCRIPTION:📍 Janovice\, Velká Bíteš\, Žďár nad Sázavou\n💬 Odstranění strom
+ u.\n\n🚒 CAS (HS Velká Bíteš)
+END:VEVENT
+BEGIN:VEVENT
+UID:414201061
+DTSTART:20260629T184828Z
+DTEND:20260629T194828Z
+DTSTAMP:20260629T184828Z
+SUMMARY:🛠️ ostatní - Jihlava
+LOCATION:Jihlava
+GEO:49.450241;15.611088
+URL:geo:49.450241,15.611088
+DESCRIPTION:📍 Pávov\, Jihlava\n\n🚒 CAS (CHS Jihlava)
 END:VEVENT
 END:VCALENDAR
