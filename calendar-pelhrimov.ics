@@ -288,7 +288,7 @@ LOCATION:Humpolec
 GEO:49.528770;15.370230
 URL:geo:49.528770,15.370230
 DESCRIPTION:📍 Krasoňov\, Humpolec\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 CA
- S (HS Humpolec)
+ S (HS Humpolec)\n🚒 pila řetězová (HS Humpolec)
 END:VEVENT
 BEGIN:VEVENT
 UID:413972061
@@ -323,7 +323,7 @@ LOCATION:Humpolec
 GEO:49.517845;15.387578
 URL:geo:49.517845,15.387578
 DESCRIPTION:📍 Humpolec\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 CAS (Herálec 
- (HB))\n🚒 CAS (HS Humpolec)
+ (HB))\n🚒 CAS (HS Humpolec)\n🚒 pila řetězová (HS Humpolec)
 END:VEVENT
 BEGIN:VEVENT
 UID:413978061
@@ -449,7 +449,8 @@ SUMMARY:🛠️ čerpání vody - Černovice
 LOCATION:Tyršova\, Černovice
 GEO:49.371953;14.967791
 URL:geo:49.371953,14.967791
-DESCRIPTION:📍 Tyršova\, Černovice\, Pelhřimov\n\n🚒 CAS (Černovice)
+DESCRIPTION:📍 Tyršova\, Černovice\, Pelhřimov\n💬 Čerpání vody.\n\n🚒 CAS (Če
+ rnovice)
 END:VEVENT
 BEGIN:VEVENT
 UID:414012061
@@ -519,8 +520,8 @@ SUMMARY:🛠️ strom - Humpolec
 LOCATION:Humpolec
 GEO:49.506381;15.297034
 URL:geo:49.506381,15.297034
-DESCRIPTION:📍 Kletečná\, Humpolec\, Pelhřimov\n\n🚒 přívěs motorová stříkačk
- a (Mladé Bříště-Záhoří)
+DESCRIPTION:📍 Kletečná\, Humpolec\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 př
+ ívěs motorová stříkačka (Mladé Bříště-Záhoří)
 END:VEVENT
 BEGIN:VEVENT
 UID:414030061
@@ -685,7 +686,7 @@ SUMMARY:🛠️ ostatní - Rynárec
 LOCATION:Rynárec
 GEO:49.385994;15.231853
 URL:geo:49.385994,15.231853
-DESCRIPTION:📍 Rynárec\, Pelhřimov\n\n🚒 CAS (Rynárec)
+DESCRIPTION:📍 Rynárec\, Pelhřimov\n💬 Pytlování písku\n\n🚒 CAS (Rynárec)
 END:VEVENT
 BEGIN:VEVENT
 UID:414059061
@@ -803,7 +804,8 @@ SUMMARY:🛠️ strom - Těmice
 LOCATION:Těmice
 GEO:49.328517;15.066770
 URL:geo:49.328517,15.066770
-DESCRIPTION:📍 Dráchov\, Těmice\, Pelhřimov\n\n🚒 CAS (Těmice)
+DESCRIPTION:📍 Dráchov\, Těmice\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 CAS (
+ Těmice)
 END:VEVENT
 BEGIN:VEVENT
 UID:414145061
@@ -814,7 +816,8 @@ SUMMARY:🛠️ ostatní - Černovice
 LOCATION:Dobešovská\, Černovice
 GEO:49.368811;14.962516
 URL:geo:49.368811,14.962516
-DESCRIPTION:📍 Dobešovská\, Černovice\, Pelhřimov\n\n🚒 CAS (Černovice)
+DESCRIPTION:📍 Dobešovská\, Černovice\, Pelhřimov\n💬 Likvidace bláta na komu
+ nikaci.\n\n🚒 CAS (Černovice)
 END:VEVENT
 BEGIN:VEVENT
 UID:414146061
@@ -825,7 +828,8 @@ SUMMARY:🛠️ strom - Lidmaň
 LOCATION:Lidmaň
 GEO:49.385056;15.012598
 URL:geo:49.385056,15.012598
-DESCRIPTION:📍 Lidmaň\, Pelhřimov\n\n🚒 CAS (HS Kamenice nad Lipou)
+DESCRIPTION:📍 Lidmaň\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 CAS (HS Kamenic
+ e nad Lipou)
 END:VEVENT
 BEGIN:VEVENT
 UID:414147061
@@ -837,7 +841,7 @@ LOCATION:Jetřichovská\, Pacov
 GEO:49.479407;15.002253
 URL:geo:49.479407,15.002253
 DESCRIPTION:📍 Jetřichovská\, Pacov\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 C
- AS (HS Pacov)
+ AS (HS Pacov)\n🚒 pila řetězová (HS Pacov)
 END:VEVENT
 BEGIN:VEVENT
 UID:414152061
@@ -850,5 +854,74 @@ GEO:49.320260;15.327690
 URL:geo:49.320260,15.327690
 DESCRIPTION:📍 Horní Cerekev\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 CAS (Hor
  ní Cerekev)
+END:VEVENT
+BEGIN:VEVENT
+UID:414155061
+DTSTART:20260629T160830Z
+DTEND:20260629T170830Z
+DTSTAMP:20260629T160830Z
+SUMMARY:🛠️ strom - Senožaty
+LOCATION:Senožaty
+GEO:49.568509;15.228820
+URL:geo:49.568509,15.228820
+DESCRIPTION:📍 Otavožaty\, Senožaty\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 C
+ AS (Senožaty)
+END:VEVENT
+BEGIN:VEVENT
+UID:414156061
+DTSTART:20260629T161318Z
+DTEND:20260629T171318Z
+DTSTAMP:20260629T161318Z
+SUMMARY:🛠️ strom - Černovice
+LOCATION:Černovice
+GEO:49.336109;15.002628
+URL:geo:49.336109,15.002628
+DESCRIPTION:📍 Benešov\, Černovice\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 CA
+ S (Kamenice nad Lipou)\n🚒 CAS (Kamenice nad Lipou)
+END:VEVENT
+BEGIN:VEVENT
+UID:414160061
+DTSTART:20260629T161543Z
+DTEND:20260629T171543Z
+DTSTAMP:20260629T161543Z
+SUMMARY:🛠️ čerpání vody - Černovice
+LOCATION:Mariánské náměstí\, Černovice
+GEO:49.372794;14.962110
+URL:geo:49.372794,14.962110
+DESCRIPTION:📍 Mariánské náměstí\, Černovice\, Pelhřimov\n💬 Čerpání vody.\n\
+ n🚒 CAS (Černovice)
+END:VEVENT
+BEGIN:VEVENT
+UID:414161061
+DTSTART:20260629T161708Z
+DTEND:20260629T171708Z
+DTSTAMP:20260629T161708Z
+SUMMARY:🛠️ strom - Černovice
+LOCATION:Černovice
+GEO:49.355683;14.983985
+URL:geo:49.355683,14.983985
+DESCRIPTION:📍 Rytov\, Černovice\, Pelhřimov\n\n🚒 CAS (Černovice)
+END:VEVENT
+BEGIN:VEVENT
+UID:414162061
+DTSTART:20260629T161936Z
+DTEND:20260629T171936Z
+DTSTAMP:20260629T161936Z
+SUMMARY:🛠️ strom - Mnich
+LOCATION:Mnich
+GEO:49.336109;14.976666
+URL:geo:49.336109,14.976666
+DESCRIPTION:📍 Chválkov\, Mnich\, Pelhřimov\n\n🚒 CAS (HS Kamenice nad Lipou)
+END:VEVENT
+BEGIN:VEVENT
+UID:414166061
+DTSTART:20260629T162313Z
+DTEND:20260629T172313Z
+DTSTAMP:20260629T162313Z
+SUMMARY:🛠️ strom - Horní Cerekev
+LOCATION:Horní Cerekev
+GEO:49.304526;15.320491
+URL:geo:49.304526,15.320491
+DESCRIPTION:📍 Horní Cerekev\, Pelhřimov\n\n🚒 CAS (Horní Cerekev)
 END:VEVENT
 END:VCALENDAR
