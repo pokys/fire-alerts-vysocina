@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:414074061
-DTSTART:20260629T144831Z
-DTEND:20260629T154831Z
-DTSTAMP:20260629T144831Z
-SUMMARY:🛠️ ostatní - Předín
-LOCATION:Předín
-GEO:49.196859;15.673778
-URL:geo:49.196859,15.673778
-DESCRIPTION:📍 Předín\, Třebíč\n💬 Zajištění poškozené střechy.\n\n🚒 CAS (CHS
-  Třebíč)
-END:VEVENT
-BEGIN:VEVENT
 UID:414075061
 DTSTART:20260629T144838Z
 DTEND:20260629T154838Z
@@ -913,7 +901,8 @@ LOCATION:Ledeč nad Sázavou
 GEO:49.709366;15.279798
 URL:geo:49.709366,15.279798
 DESCRIPTION:📍 Habrek\, Ledeč nad Sázavou\, Havlíčkův Brod\n💬 Odstranění str
- omu.\n\n🚒 CAS (HS Ledeč nad Sázavou)
+ omu.\n\n🚒 CAS (HS Ledeč nad Sázavou)\n🚒 pila řetězová (HS Ledeč nad Sázavo
+ u)
 END:VEVENT
 BEGIN:VEVENT
 UID:414168061
@@ -1019,7 +1008,8 @@ SUMMARY:🛠️ strom - Jihlava
 LOCATION:Sasovské údolí\, Jihlava
 GEO:49.382282;15.596555
 URL:geo:49.382282,15.596555
-DESCRIPTION:📍 Sasovské údolí\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+DESCRIPTION:📍 Sasovské údolí\, Jihlava\n💬 Odstranění stromu.\n\n🚒 CAS (CHS 
+ Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:414178061
@@ -1115,8 +1105,8 @@ SUMMARY:🛠️ ostatní - Dolní Cerekev
 LOCATION:Dolní Cerekev
 GEO:49.336509;15.446519
 URL:geo:49.336509,15.446519
-DESCRIPTION:📍 Spělov\, Dolní Cerekev\, Jihlava\n💬 Vyproštění OA.\n\n🚒 CAS (
- HS Třešť)\n🚒 RZA (CHS Jihlava)
+DESCRIPTION:📍 Spělov\, Dolní Cerekev\, Jihlava\n💬 Vyproštění OA. Jednotka n
+ ezasahovala.\n\n🚒 CAS (HS Třešť)\n🚒 RZA (CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:414189061
@@ -1162,7 +1152,7 @@ SUMMARY:🛠️ strom - Zachotín
 LOCATION:Zachotín
 GEO:49.457849;15.343140
 URL:geo:49.457849,15.343140
-DESCRIPTION:📍 Zachotín\, Pelhřimov\n\n🚒 DA (Zachotín) ×3
+DESCRIPTION:📍 Zachotín\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 DA (Zachotín)
 END:VEVENT
 BEGIN:VEVENT
 UID:414193061
@@ -1173,7 +1163,18 @@ SUMMARY:🛠️ otevření bytu/auta - Žďár nad Sázavou
 LOCATION:Komenského\, Žďár nad Sázavou
 GEO:49.564949;15.935524
 URL:geo:49.564949,15.935524
-DESCRIPTION:📍 Komenského\, Žďár nad Sázavou 3\, Žďár nad Sázavou\n\n🚒 CAS (
- CHS Žďár nad Sázavou)
+DESCRIPTION:📍 Komenského\, Žďár nad Sázavou 3\, Žďár nad Sázavou\n💬 Otevřen
+ í bytu.\n\n🚒 CAS (CHS Žďár nad Sázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:414194061
+DTSTART:20260629T181444Z
+DTEND:20260629T191444Z
+DTSTAMP:20260629T181444Z
+SUMMARY:🛠️ strom - Růžená
+LOCATION:Růžená
+GEO:49.270392;15.428404
+URL:geo:49.270392,15.428404
+DESCRIPTION:📍 Růžená\, Jihlava\n\n🚒 DA (Růžená)
 END:VEVENT
 END:VCALENDAR
