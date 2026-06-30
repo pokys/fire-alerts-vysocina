@@ -5,30 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:414181061
-DTSTART:20260629T170746Z
-DTEND:20260629T180746Z
-DTSTAMP:20260629T170746Z
-SUMMARY:🛠️ strom - Střítež
-LOCATION:Střítež
-GEO:49.456458;15.627952
-URL:geo:49.456458,15.627952
-DESCRIPTION:📍 Střítež\, Jihlava\n💬 Odstranění stromu.\n\n🚒 DA (Střítež (JI)
- )
-END:VEVENT
-BEGIN:VEVENT
-UID:414183061
-DTSTART:20260629T172032Z
-DTEND:20260629T182032Z
-DTSTAMP:20260629T172032Z
-SUMMARY:🛠️ obtížný hmyz - Měřín
-LOCATION:Družstevní\, Měřín
-GEO:49.392574;15.888837
-URL:geo:49.392574,15.888837
-DESCRIPTION:📍 Družstevní\, Měřín\, Žďár nad Sázavou\n💬 Odstranění obtížného
-  hmyzu.\n\n🚒 CAS (Měřín)
-END:VEVENT
-BEGIN:VEVENT
 UID:414241061
 DTSTART:20260629T172541Z
 DTEND:20260629T182541Z
@@ -777,7 +753,7 @@ LOCATION:Bačice
 GEO:49.086048;16.022111
 URL:geo:49.086048,16.022111
 DESCRIPTION:📍 Bačice\, Třebíč\n\n🚒 CAS (Hrotovice)\n🚒 automobilová plošina 
- do 30 m (CHS Třebíč)
+ do 30 m (CHS Třebíč)\n🚒 CAS (HS Hrotovice)
 END:VEVENT
 BEGIN:VEVENT
 UID:414298061
@@ -921,9 +897,9 @@ SUMMARY:🔥 venkovní požár - Prosetín
 LOCATION:Prosetín
 GEO:49.522585;16.415735
 URL:geo:49.522585,16.415735
-DESCRIPTION:📍 Prosetín\, Žďár nad Sázavou\n\n🚒 CAS (HS Bystřice nad Pernšte
- jnem)\n🚒 DA (Štěpánov nad Svratkou)\n🚒 CAS (Štěpánov nad Svratkou)\n🚒 stří
- kačka přenosná (Prosetín)
+DESCRIPTION:📍 Prosetín\, Žďár nad Sázavou\n💬 Likvidace požáru odpadu.\n\n🚒 
+ CAS (HS Bystřice nad Pernštejnem)\n🚒 DA (Štěpánov nad Svratkou)\n🚒 CAS (Št
+ ěpánov nad Svratkou)\n🚒 stříkačka přenosná (Prosetín)
 END:VEVENT
 BEGIN:VEVENT
 UID:414314061
@@ -946,7 +922,7 @@ LOCATION:Vyskytná nad Jihlavou
 GEO:49.405091;15.496149
 URL:geo:49.405091,15.496149
 DESCRIPTION:📍 Rounek\, Vyskytná nad Jihlavou\, Jihlava\n💬 Odstranění stromu
- .\n\n🚒 CAS (CHS Jihlava)
+ .\n\n🚒 CAS (CHS Jihlava)\n🚒 pila řetězová (CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:414317061
@@ -1003,7 +979,7 @@ LOCATION:Vyskytná nad Jihlavou
 GEO:49.419666;15.490706
 URL:geo:49.419666,15.490706
 DESCRIPTION:📍 Vyskytná nad Jihlavou\, Jihlava\n💬 Odstranění stromu.\n\n🚒 CA
- S (CHS Jihlava)
+ S (CHS Jihlava)\n🚒 pila řetězová (CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:414323061
@@ -1115,7 +1091,7 @@ SUMMARY:🛠️ čerpání vody - Olešná
 LOCATION:Olešná
 GEO:49.444564;15.265921
 URL:geo:49.444564,15.265921
-DESCRIPTION:📍 Olešná\, Pelhřimov\n\n🚒 CAS (Olešná (PE))
+DESCRIPTION:📍 Olešná\, Pelhřimov\n\n🚒 DA (Olešná (PE))\n🚒 CAS (Olešná (PE))
 END:VEVENT
 BEGIN:VEVENT
 UID:414335061
@@ -1148,7 +1124,8 @@ SUMMARY:🛠️ strom - Vyskytná nad Jihlavou
 LOCATION:Vyskytná nad Jihlavou
 GEO:49.417342;15.497533
 URL:geo:49.417342,15.497533
-DESCRIPTION:📍 Vyskytná nad Jihlavou\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+DESCRIPTION:📍 Vyskytná nad Jihlavou\, Jihlava\n💬 Odstranění stromu.\n\n🚒 CA
+ S (CHS Jihlava)\n🚒 pila řetězová (CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:414339061
@@ -1159,7 +1136,8 @@ SUMMARY:🛠️ strom - Biskupice-Pulkov
 LOCATION:Biskupice-Pulkov
 GEO:49.039352;15.986655
 URL:geo:49.039352,15.986655
-DESCRIPTION:📍 Pulkov\, Biskupice-Pulkov\, Třebíč\n\n🚒 CAS (HS Hrotovice)
+DESCRIPTION:📍 Pulkov\, Biskupice-Pulkov\, Třebíč\n💬 Odstranění stromu.\n\n🚒
+  CAS (HS Hrotovice)
 END:VEVENT
 BEGIN:VEVENT
 UID:414340061
@@ -1173,6 +1151,18 @@ URL:geo:49.419957,15.805581
 DESCRIPTION:📍 Jersín\, Jihlava\n\n🚒 DA (Nadějov)
 END:VEVENT
 BEGIN:VEVENT
+UID:414341061
+DTSTART:20260630T204723Z
+DTEND:20260630T214723Z
+DTSTAMP:20260630T204723Z
+SUMMARY:🛠️ strom - Kamenice nad Lipou
+LOCATION:Kamenice nad Lipou
+GEO:49.317240;15.081974
+URL:geo:49.317240,15.081974
+DESCRIPTION:📍 Johanka\, Kamenice nad Lipou\, Pelhřimov\n\n🚒 CAS (Kamenice n
+ ad Lipou)
+END:VEVENT
+BEGIN:VEVENT
 UID:414342061
 DTSTART:20260630T204800Z
 DTEND:20260630T214800Z
@@ -1182,5 +1172,17 @@ LOCATION:Prosíčka
 GEO:49.719136;15.327297
 URL:geo:49.719136,15.327297
 DESCRIPTION:📍 Prosíčka\, Havlíčkův Brod\n\n🚒 CAS (HS Ledeč nad Sázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:414344061
+DTSTART:20260630T205445Z
+DTEND:20260630T215445Z
+DTSTAMP:20260630T205445Z
+SUMMARY:🛠️ strom - Nová Cerekev
+LOCATION:Nová Cerekev
+GEO:49.405786;15.131955
+URL:geo:49.405786,15.131955
+DESCRIPTION:📍 Proseč-Obořiště\, Nová Cerekev\, Pelhřimov\n💬 Odstranění stro
+ mu.\n\n🚒 CAS (Nová Cerekev)
 END:VEVENT
 END:VCALENDAR
