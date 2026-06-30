@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:414249061
-DTSTART:20260629T152444Z
-DTEND:20260629T162444Z
-DTSTAMP:20260629T152444Z
-SUMMARY:🛠️ strom - Červená Řečice
-LOCATION:Červená Řečice
-GEO:49.511231;15.178364
-URL:geo:49.511231,15.178364
-DESCRIPTION:📍 Červená Řečice\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 CAS (Če
- rvená Řečice)
-END:VEVENT
-BEGIN:VEVENT
 UID:414132061
 DTSTART:20260629T152537Z
 DTEND:20260629T162537Z
@@ -1061,9 +1049,9 @@ SUMMARY:🔥 vozidlo - Stonařov
 LOCATION:Stonařov
 GEO:49.282386;15.556508
 URL:geo:49.282386,15.556508
-DESCRIPTION:📍 Stonařov\, Jihlava\n💬 Požár v motorové části OA.\n\n🚒 CAS (HS
-  Třešť) ×2\n🚒 CAS (Dlouhá Brtnice)\n🚒 CAS (Stonařov)\n🚒 vyšetřovací automo
- bil (ÚO Jihlava)
+DESCRIPTION:📍 Stonařov\, Jihlava\n💬 Požár v motorové části OA. Požárem došl
+ o ke škodě na majetku 250 000kč.\n\n🚒 CAS (HS Třešť) ×2\n🚒 CAS (Dlouhá Brt
+ nice)\n🚒 CAS (Stonařov)\n🚒 vyšetřovací automobil (ÚO Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:414272061
@@ -1132,7 +1120,8 @@ SUMMARY:🛠️ ostatní - Rozseč
 LOCATION:Rozseč
 GEO:49.156906;15.620140
 URL:geo:49.156906,15.620140
-DESCRIPTION:📍 Rozseč\, Jihlava\n\n🚒 CAS (HS Telč)
+DESCRIPTION:📍 Rozseč\, Jihlava\n💬 Pád zdi na sousední pozemek. Zajištění mí
+ sta události.\n\n🚒 CAS (HS Telč)
 END:VEVENT
 BEGIN:VEVENT
 UID:414279061
@@ -1189,6 +1178,19 @@ SUMMARY:🛠️ strom - Lučice
 LOCATION:Lučice
 GEO:49.661626;15.486236
 URL:geo:49.661626,15.486236
-DESCRIPTION:📍 Lučice\, Havlíčkův Brod\n\n🚒 CAS (Lučice)
+DESCRIPTION:📍 Lučice\, Havlíčkův Brod\n💬 Odstranění stromu.\n\n🚒 CAS (Lučic
+ e)
+END:VEVENT
+BEGIN:VEVENT
+UID:414284061
+DTSTART:20260630T144427Z
+DTEND:20260630T154427Z
+DTSTAMP:20260630T144427Z
+SUMMARY:🚑 spolupráce ZZS - Strážek
+LOCATION:Strážek
+GEO:49.406994;16.222855
+URL:geo:49.406994,16.222855
+DESCRIPTION:📍 Meziboří\, Strážek\, Žďár nad Sázavou\n\n🚒 CAS (HS Bystřice n
+ ad Pernštejnem)
 END:VEVENT
 END:VCALENDAR
