@@ -435,6 +435,18 @@ DESCRIPTION:📍 Humpolec\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 DA (Hu
  \n🚒 CAS (Humpolec)
 END:VEVENT
 BEGIN:VEVENT
+UID:414245061
+DTSTART:20260629T140332Z
+DTEND:20260629T150332Z
+DTSTAMP:20260629T140332Z
+SUMMARY:🛠️ strom - Červená Řečice
+LOCATION:Červená Řečice
+GEO:49.511231;15.178364
+URL:geo:49.511231,15.178364
+DESCRIPTION:📍 Červená Řečice\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 CAS (Če
+ rvená Řečice)
+END:VEVENT
+BEGIN:VEVENT
 UID:414022061
 DTSTART:20260629T140637Z
 DTEND:20260629T150637Z
@@ -1004,5 +1016,17 @@ GEO:49.466280;14.999176
 URL:geo:49.466280,14.999176
 DESCRIPTION:📍 Ferd. Pakosty\, Pacov\, Pelhřimov\n💬 Transport pacienta na žá
  dost ZZS.\n\n🚒 CAS (HS Pacov)
+END:VEVENT
+BEGIN:VEVENT
+UID:414244061
+DTSTART:20260630T075820Z
+DTEND:20260630T085820Z
+DTSTAMP:20260630T075820Z
+SUMMARY:🚑 transport pacienta - Černovice
+LOCATION:Černovice
+GEO:49.375207;14.980155
+URL:geo:49.375207,14.980155
+DESCRIPTION:📍 Vackov\, Černovice\, Pelhřimov\n💬 Transport pacienta na žádos
+ t ZZS.\n\n🚒 CAS (HS Pacov)\n🚒 DA (Černovice)\n🚒 CAS (Černovice)
 END:VEVENT
 END:VCALENDAR
