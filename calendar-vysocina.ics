@@ -932,7 +932,8 @@ SUMMARY:🚑 otevření/asistence - Havlíčkův Brod
 LOCATION:Na Výšině\, Havlíčkův Brod
 GEO:49.616693;15.577744
 URL:geo:49.616693,15.577744
-DESCRIPTION:📍 Na Výšině\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)
+DESCRIPTION:📍 Na Výšině\, Havlíčkův Brod\n💬 Otevření dveří.\n\n🚒 CAS (CHS H
+ avlíčkův Brod)
 END:VEVENT
 BEGIN:VEVENT
 UID:414327061
@@ -966,7 +967,8 @@ SUMMARY:🛠️ čerpání vody - Pelhřimov
 LOCATION:Pelhřimov
 GEO:49.418929;15.162380
 URL:geo:49.418929,15.162380
-DESCRIPTION:📍 Vlásenice\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)
+DESCRIPTION:📍 Vlásenice\, Pelhřimov\n💬 Čerpání vody.\n\n🚒 CAS (CHS Pelhřimo
+ v)
 END:VEVENT
 BEGIN:VEVENT
 UID:414332061
@@ -1138,7 +1140,7 @@ SUMMARY:🛠️ strom - Ústrašín
 LOCATION:Ústrašín
 GEO:49.382607;15.173405
 URL:geo:49.382607,15.173405
-DESCRIPTION:📍 Ústrašín\, Pelhřimov\n\n🚒 CAS (Rynárec)
+DESCRIPTION:📍 Ústrašín\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 CAS (Rynárec)
 END:VEVENT
 BEGIN:VEVENT
 UID:414350061
@@ -1149,7 +1151,8 @@ SUMMARY:🛠️ ostatní - Pelhřimov
 LOCATION:Slovanského bratrství\, Pelhřimov
 GEO:49.433292;15.229786
 URL:geo:49.433292,15.229786
-DESCRIPTION:📍 Slovanského bratrství\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)
+DESCRIPTION:📍 Slovanského bratrství\, Pelhřimov\n💬 Kontrola kanálu.\n\n🚒 CA
+ S (CHS Pelhřimov)
 END:VEVENT
 BEGIN:VEVENT
 UID:414351061
