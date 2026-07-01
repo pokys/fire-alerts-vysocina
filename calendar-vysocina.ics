@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:414275061
-DTSTART:20260630T130704Z
-DTEND:20260630T140704Z
-DTSTAMP:20260630T130704Z
-SUMMARY:🛠️ strom - Sobíňov
-LOCATION:Sobíňov
-GEO:49.704965;15.753365
-URL:geo:49.704965,15.753365
-DESCRIPTION:📍 Sobíňov\, Havlíčkův Brod\n💬 Odstranění stromu.\n\n🚒 CAS (Sobí
- ňov)
-END:VEVENT
-BEGIN:VEVENT
 UID:414276061
 DTSTART:20260630T132222Z
 DTEND:20260630T142222Z
@@ -1172,7 +1160,9 @@ GEO:49.734296;15.534037
 URL:geo:49.734296,15.534037
 DESCRIPTION:📍 Jiříkov\, Kámen\, Havlíčkův Brod\n💬 Úhyn ryb v rybníce\, zaji
  štění místa\, likvidace události.\n\n🚒 CAS (HS Světlá nad Sázavou)\n🚒 CAS 
- (Habry)\n🚒 CAS (Uhelná Příbram)
+ (Habry)\n🚒 CAS (Uhelná Příbram)\n🚒 osobní automobil (HS Chotěboř)\n🚒 přívě
+ s lodní (HS Chotěboř)\n🚒 účelový automobil do 3500 kg (CHS Havlíčkův Brod)
+ \n🚒 přívěs lodní (CHS Havlíčkův Brod)
 END:VEVENT
 BEGIN:VEVENT
 UID:414397061
@@ -1197,5 +1187,16 @@ GEO:49.530822;15.808371
 URL:geo:49.530822,15.808371
 DESCRIPTION:📍 Nížkov\, Žďár nad Sázavou\n💬 Odstranění obtížného hmyzu.\n\n🚒
   CAS (HS Polná)
+END:VEVENT
+BEGIN:VEVENT
+UID:414400061
+DTSTART:20260701T083601Z
+DTEND:20260701T093601Z
+DTSTAMP:20260701T083601Z
+SUMMARY:🛠️ ostatní - Olešná
+LOCATION:Olešná
+GEO:49.428812;15.278389
+URL:geo:49.428812,15.278389
+DESCRIPTION:📍 Řemenov\, Olešná\, Pelhřimov\n\n🚒 CAS (Olešná (PE))
 END:VEVENT
 END:VCALENDAR
