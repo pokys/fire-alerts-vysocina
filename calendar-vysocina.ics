@@ -1147,8 +1147,9 @@ SUMMARY:🛠️ ostatní - Netín
 LOCATION:Netín
 GEO:49.427299;15.954997
 URL:geo:49.427299,15.954997
-DESCRIPTION:📍 Záseka\, Netín\, Žďár nad Sázavou\n\n🚒 CAS (HS Velké Meziříčí
- )\n🚒 vyšetřovací automobil (ÚO Žďár nad Sázavou)
+DESCRIPTION:📍 Záseka\, Netín\, Žďár nad Sázavou\n💬 Kontrola objektu po údar
+ u blesku.\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 vyšetřovací automobil (ÚO Žďár n
+ ad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:414361061
@@ -1171,8 +1172,8 @@ SUMMARY:🚗 dopravní nehoda - Studenec
 LOCATION:Studenec
 GEO:49.217663;16.072966
 URL:geo:49.217663,16.072966
-DESCRIPTION:📍 Studenec\, Třebíč\n💬 DN 1 OA s 1 zraněnou osobou.\n\n🚒 CAS (H
- S Náměšť nad Oslavou)
+DESCRIPTION:📍 Studenec\, Třebíč\n💬 DN 1 OA s 1 zraněnou osobou. Protipožárn
+ í opatření.\n\n🚒 CAS (HS Náměšť nad Oslavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:414364061
@@ -1188,10 +1189,12 @@ UID:414365061
 DTSTART:20260701T030754Z
 DTEND:20260701T040754Z
 DTSTAMP:20260701T030754Z
-SUMMARY:🔥 Humpolec
+SUMMARY:⚠️ planý poplach - Humpolec
 LOCATION:Hálkova\, Humpolec
 GEO:49.539067;15.355988
 URL:geo:49.539067,15.355988
-DESCRIPTION:📍 Hálkova\, Humpolec\, Pelhřimov\n\n🚒 CAS (HS Humpolec)
+DESCRIPTION:📍 Hálkova\, Humpolec\, Pelhřimov\n💬 Požár ohlášený systémem ele
+ ktrické požární signalizace. Průzkumem bylo zjištěno\, že se jedná o planý
+  poplach.\n\n🚒 CAS (HS Humpolec)
 END:VEVENT
 END:VCALENDAR
