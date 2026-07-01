@@ -5,47 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:414395061
-DTSTART:20260701T071519Z
-DTEND:20260701T081519Z
-DTSTAMP:20260701T071519Z
-SUMMARY:🚑 transport pacienta - Vojnův Městec
-LOCATION:Vojnův Městec
-GEO:49.677886;15.886312
-URL:geo:49.677886,15.886312
-DESCRIPTION:📍 Vojnův Městec\, Žďár nad Sázavou\n💬 Transport pacienta na žád
- ost ZZS.\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 DA (Vojnův Městec)\n🚒 CAS (Voj
- nův Městec)
-END:VEVENT
-BEGIN:VEVENT
-UID:414396061
-DTSTART:20260701T073640Z
-DTEND:20260701T083640Z
-DTSTAMP:20260701T073640Z
-SUMMARY:🚑 záchrana na vodě - Kámen
-LOCATION:Kámen
-GEO:49.734296;15.534037
-URL:geo:49.734296,15.534037
-DESCRIPTION:📍 Jiříkov\, Kámen\, Havlíčkův Brod\n💬 Úhyn ryb v rybníce\, zaji
- štění místa\, likvidace události.\n\n🚒 CAS (HS Světlá nad Sázavou)\n🚒 osob
- ní automobil (HS Světlá nad Sázavou)\n🚒 CAS (Habry)\n🚒 CAS (Habry)\n🚒 CAS 
- (Uhelná Příbram)\n🚒 osobní automobil (HS Chotěboř) ×2\n🚒 přívěs lodní (HS 
- Chotěboř)\n🚒 účelový automobil do 3500 kg (CHS Havlíčkův Brod) ×2\n🚒 přívě
- s lodní (CHS Havlíčkův Brod)\n🚒 přÍvěs pro hašení (Vepříkov)
-END:VEVENT
-BEGIN:VEVENT
-UID:414397061
-DTSTART:20260701T080349Z
-DTEND:20260701T090349Z
-DTSTAMP:20260701T080349Z
-SUMMARY:🛠️ obtížný hmyz - Havlíčkův Brod
-LOCATION:Mírová\, Havlíčkův Brod
-GEO:49.597548;15.592680
-URL:geo:49.597548,15.592680
-DESCRIPTION:📍 Mírová\, Havlíčkův Brod\n💬 Odstranění obtížného hmyzu.\n\n🚒 C
- AS (CHS Havlíčkův Brod)
-END:VEVENT
-BEGIN:VEVENT
 UID:414398061
 DTSTART:20260701T080608Z
 DTEND:20260701T090608Z
@@ -1195,5 +1154,39 @@ GEO:49.406783;15.559750
 URL:geo:49.406783,15.559750
 DESCRIPTION:📍 S. K. Neumanna\, Jihlava\n💬 Odstranění stromu.\n\n🚒 CAS (CHS 
  Jihlava)
+END:VEVENT
+BEGIN:VEVENT
+UID:414537061
+DTSTART:20260701T163512Z
+DTEND:20260701T173512Z
+DTSTAMP:20260701T163512Z
+SUMMARY:🛠️ strom - Rantířov
+LOCATION:Rantířov
+GEO:49.403870;15.516288
+URL:geo:49.403870,15.516288
+DESCRIPTION:📍 Rantířov\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+END:VEVENT
+BEGIN:VEVENT
+UID:414539061
+DTSTART:20260701T163815Z
+DTEND:20260701T173815Z
+DTSTAMP:20260701T163815Z
+SUMMARY:🛠️ otevření bytu/auta - Humpolec
+LOCATION:U Sokolovny\, Humpolec
+GEO:49.537984;15.351253
+URL:geo:49.537984,15.351253
+DESCRIPTION:📍 U Sokolovny\, Humpolec\, Pelhřimov\n\n🚒 CAS (HS Humpolec)\n🚒 
+ CAS (CHS Pelhřimov)
+END:VEVENT
+BEGIN:VEVENT
+UID:414541061
+DTSTART:20260701T164658Z
+DTEND:20260701T174658Z
+DTSTAMP:20260701T164658Z
+SUMMARY:🛠️ strom - Smrčná
+LOCATION:Smrčná
+GEO:49.462661;15.530705
+URL:geo:49.462661,15.530705
+DESCRIPTION:📍 Smrčná\, Jihlava\n\n🚒 AŽ (CHS Pelhřimov)\n🚒 CAS (HS Humpolec)
 END:VEVENT
 END:VCALENDAR
