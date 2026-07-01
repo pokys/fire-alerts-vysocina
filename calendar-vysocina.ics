@@ -5,42 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:414398061
-DTSTART:20260701T080608Z
-DTEND:20260701T090608Z
-DTSTAMP:20260701T080608Z
-SUMMARY:🛠️ obtížný hmyz - Nížkov
-LOCATION:Nížkov
-GEO:49.530822;15.808371
-URL:geo:49.530822,15.808371
-DESCRIPTION:📍 Nížkov\, Žďár nad Sázavou\n💬 Odstranění obtížného hmyzu.\n\n🚒
-  CAS (HS Polná)
-END:VEVENT
-BEGIN:VEVENT
-UID:414400061
-DTSTART:20260701T083601Z
-DTEND:20260701T093601Z
-DTSTAMP:20260701T083601Z
-SUMMARY:🛠️ ostatní - Olešná
-LOCATION:Olešná
-GEO:49.428812;15.278389
-URL:geo:49.428812,15.278389
-DESCRIPTION:📍 Řemenov\, Olešná\, Pelhřimov\n💬 ZOČ-oplach komunikace.\n\n🚒 C
- AS (Olešná (PE))
-END:VEVENT
-BEGIN:VEVENT
-UID:414403061
-DTSTART:20260701T090050Z
-DTEND:20260701T100050Z
-DTSTAMP:20260701T090050Z
-SUMMARY:🚑 transport pacienta - Třebíč
-LOCATION:M. Majerové\, Třebíč
-GEO:49.221828;15.882902
-URL:geo:49.221828,15.882902
-DESCRIPTION:📍 M. Majerové\, Nové Dvory\, Třebíč\n💬 Transport pacienta na žá
- dost ZZS.\n\n🚒 CAS (CHS Třebíč)
-END:VEVENT
-BEGIN:VEVENT
 UID:414404061
 DTSTART:20260701T090924Z
 DTEND:20260701T100924Z
@@ -1105,7 +1069,7 @@ LOCATION:Kaunicova\, Jaroměřice nad Rokytnou
 GEO:49.091210;15.885203
 URL:geo:49.091210,15.885203
 DESCRIPTION:📍 Kaunicova\, Jaroměřice nad Rokytnou\, Třebíč\n💬 Pročištění uc
- pané trubky.\n\n🚒 CAS (HS Moravské Budějovice)
+ pané šachty.\n\n🚒 CAS (HS Moravské Budějovice)
 END:VEVENT
 BEGIN:VEVENT
 UID:414530061
@@ -1164,7 +1128,20 @@ SUMMARY:🛠️ strom - Rantířov
 LOCATION:Rantířov
 GEO:49.403870;15.516288
 URL:geo:49.403870,15.516288
-DESCRIPTION:📍 Rantířov\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+DESCRIPTION:📍 Rantířov\, Jihlava\n💬 Odstranění stromu.\n\n🚒 CAS (CHS Jihlav
+ a)
+END:VEVENT
+BEGIN:VEVENT
+UID:414538061
+DTSTART:20260701T163520Z
+DTEND:20260701T173520Z
+DTSTAMP:20260701T163520Z
+SUMMARY:🛠️ strom - Vyskytná nad Jihlavou
+LOCATION:Vyskytná nad Jihlavou
+GEO:49.403384;15.511909
+URL:geo:49.403384,15.511909
+DESCRIPTION:📍 Rounek\, Vyskytná nad Jihlavou\, Jihlava\n\n🚒 CAS (CHS Jihlav
+ a)
 END:VEVENT
 BEGIN:VEVENT
 UID:414539061
@@ -1175,8 +1152,8 @@ SUMMARY:🛠️ otevření bytu/auta - Humpolec
 LOCATION:U Sokolovny\, Humpolec
 GEO:49.537984;15.351253
 URL:geo:49.537984,15.351253
-DESCRIPTION:📍 U Sokolovny\, Humpolec\, Pelhřimov\n\n🚒 CAS (HS Humpolec)\n🚒 
- CAS (CHS Pelhřimov)
+DESCRIPTION:📍 U Sokolovny\, Humpolec\, Pelhřimov\n💬 Otevření bytu.\n\n🚒 CAS
+  (HS Humpolec)\n🚒 CAS (CHS Pelhřimov)
 END:VEVENT
 BEGIN:VEVENT
 UID:414541061
@@ -1188,5 +1165,29 @@ LOCATION:Smrčná
 GEO:49.462661;15.530705
 URL:geo:49.462661,15.530705
 DESCRIPTION:📍 Smrčná\, Jihlava\n\n🚒 AŽ (CHS Pelhřimov)\n🚒 CAS (HS Humpolec)
+END:VEVENT
+BEGIN:VEVENT
+UID:414542061
+DTSTART:20260701T165156Z
+DTEND:20260701T175156Z
+DTSTAMP:20260701T165156Z
+SUMMARY:🛠️ obtížný hmyz - Lipnice nad Sázavou
+LOCATION:Lipnice nad Sázavou
+GEO:49.615202;15.413840
+URL:geo:49.615202,15.413840
+DESCRIPTION:📍 Lipnice nad Sázavou\, Havlíčkův Brod\n💬 Odstranění obtížného 
+ hmyzu.\n\n🚒 DA (Lipnice nad Sázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:414545061
+DTSTART:20260701T170935Z
+DTEND:20260701T180935Z
+DTSTAMP:20260701T170935Z
+SUMMARY:🛠️ obtížný hmyz - Lipnice nad Sázavou
+LOCATION:Lipnice nad Sázavou
+GEO:49.614680;15.416017
+URL:geo:49.614680,15.416017
+DESCRIPTION:📍 Lipnice nad Sázavou\, Havlíčkův Brod\n💬 Odstranění obtížného 
+ hmyzu.\n\n🚒 DA (Lipnice nad Sázavou)
 END:VEVENT
 END:VCALENDAR
