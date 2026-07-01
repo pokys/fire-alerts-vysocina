@@ -348,7 +348,7 @@ LOCATION:Kaštanová\, Horní Cerekev
 GEO:49.323211;15.319914
 URL:geo:49.323211,15.319914
 DESCRIPTION:📍 Kaštanová\, Horní Cerekev\, Pelhřimov\n💬 Čerpání vody.\n\n🚒 D
- A (Horní Cerekev)
+ A (Horní Cerekev)\n🚒 CAS (Horní Cerekev)
 END:VEVENT
 BEGIN:VEVENT
 UID:414063061
@@ -400,15 +400,15 @@ DESCRIPTION:📍 Vlkosovice\, Černovice\, Pelhřimov\n💬 Čerpání vody.\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:414246061
-DTSTART:20260629T150228Z
-DTEND:20260629T160228Z
-DTSTAMP:20260629T150228Z
+DTSTART:20260629T150000Z
+DTEND:20260629T160000Z
+DTSTAMP:20260629T150000Z
 SUMMARY:🛠️ strom - Červená Řečice
 LOCATION:Červená Řečice
 GEO:49.511231;15.178364
 URL:geo:49.511231,15.178364
 DESCRIPTION:📍 Červená Řečice\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 CAS (Če
- rvená Řečice)
+ rvená Řečice)\n🚒 pila řetězová (Červená Řečice)
 END:VEVENT
 BEGIN:VEVENT
 UID:414103061
