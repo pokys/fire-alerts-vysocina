@@ -74,7 +74,7 @@ LOCATION:Tyršova\, Černovice
 GEO:49.371953;14.967791
 URL:geo:49.371953,14.967791
 DESCRIPTION:📍 Tyršova\, Černovice\, Pelhřimov\n💬 Čerpání vody.\n\n🚒 CAS (Če
- rnovice)
+ rnovice)\n🚒 čerpadlo plovoucí (Černovice)
 END:VEVENT
 BEGIN:VEVENT
 UID:414012061
@@ -231,6 +231,18 @@ GEO:49.257034;15.207860
 URL:geo:49.257034,15.207860
 DESCRIPTION:📍 Žirovnice\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 CAS (Žirovni
  ce)
+END:VEVENT
+BEGIN:VEVENT
+UID:414191061
+DTSTART:20260629T141800Z
+DTEND:20260629T151800Z
+DTSTAMP:20260629T141800Z
+SUMMARY:🛠️ strom - Velký Rybník
+LOCATION:Velký Rybník
+GEO:49.481493;15.310530
+URL:geo:49.481493,15.310530
+DESCRIPTION:📍 Velký Rybník\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 DA (Zacho
+ tín)\n🚒 pila řetězová (Zachotín)
 END:VEVENT
 BEGIN:VEVENT
 UID:414040061
@@ -673,18 +685,6 @@ GEO:49.473511;15.000838
 URL:geo:49.473511,15.000838
 DESCRIPTION:📍 Pacov\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 osobní automobil
   (Pacov)
-END:VEVENT
-BEGIN:VEVENT
-UID:414191061
-DTSTART:20260629T180730Z
-DTEND:20260629T190730Z
-DTSTAMP:20260629T180730Z
-SUMMARY:🛠️ strom - Velký Rybník
-LOCATION:Velký Rybník
-GEO:49.481493;15.310530
-URL:geo:49.481493,15.310530
-DESCRIPTION:📍 Velký Rybník\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 DA (Zacho
- tín)
 END:VEVENT
 BEGIN:VEVENT
 UID:414198061
@@ -1198,6 +1198,7 @@ SUMMARY:🛠️ ostatní - Olešná
 LOCATION:Olešná
 GEO:49.428812;15.278389
 URL:geo:49.428812,15.278389
-DESCRIPTION:📍 Řemenov\, Olešná\, Pelhřimov\n\n🚒 CAS (Olešná (PE))
+DESCRIPTION:📍 Řemenov\, Olešná\, Pelhřimov\n💬 ZOČ-oplach komunikace na žádo
+ st starosty.\n\n🚒 CAS (Olešná (PE))
 END:VEVENT
 END:VCALENDAR
