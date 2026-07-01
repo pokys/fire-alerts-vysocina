@@ -5,30 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Pelhřimov
 BEGIN:VEVENT
-UID:414190061
-DTSTART:20260629T135600Z
-DTEND:20260629T145600Z
-DTSTAMP:20260629T135600Z
-SUMMARY:🛠️ strom - Žirov
-LOCATION:Žirov
-GEO:49.464463;15.329579
-URL:geo:49.464463,15.329579
-DESCRIPTION:📍 Žirov\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 DA (Zachotín)\n🚒
-  pila řetězová (Zachotín)
-END:VEVENT
-BEGIN:VEVENT
-UID:414005061
-DTSTART:20260629T135610Z
-DTEND:20260629T145610Z
-DTSTAMP:20260629T135610Z
-SUMMARY:🛠️ čerpání vody - Černovice
-LOCATION:Tyršova\, Černovice
-GEO:49.371953;14.967791
-URL:geo:49.371953,14.967791
-DESCRIPTION:📍 Tyršova\, Černovice\, Pelhřimov\n💬 Čerpání vody.\n\n🚒 CAS (Če
- rnovice)\n🚒 čerpadlo plovoucí (Černovice)
-END:VEVENT
-BEGIN:VEVENT
 UID:414012061
 DTSTART:20260629T140037Z
 DTEND:20260629T150037Z
@@ -1174,7 +1150,8 @@ SUMMARY:🛠️ strom - Horní Cerekev
 LOCATION:Horní Cerekev
 GEO:49.329333;15.334020
 URL:geo:49.329333,15.334020
-DESCRIPTION:📍 Horní Cerekev\, Pelhřimov\n\n🚒 CAS (Horní Cerekev)
+DESCRIPTION:📍 Horní Cerekev\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 CAS (Hor
+ ní Cerekev)
 END:VEVENT
 BEGIN:VEVENT
 UID:414415061
@@ -1185,7 +1162,8 @@ SUMMARY:🛠️ strom - Žirovnice
 LOCATION:Žirovnice
 GEO:49.273217;15.193278
 URL:geo:49.273217,15.193278
-DESCRIPTION:📍 Žirovnice\, Pelhřimov\n\n🚒 CAS (Žirovnice)
+DESCRIPTION:📍 Žirovnice\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 CAS (Žirovni
+ ce)
 END:VEVENT
 BEGIN:VEVENT
 UID:414422061
@@ -1196,6 +1174,30 @@ SUMMARY:🛠️ strom - Častrov
 LOCATION:Častrov
 GEO:49.278248;15.191968
 URL:geo:49.278248,15.191968
-DESCRIPTION:📍 Jakubín\, Častrov\, Pelhřimov\n\n🚒 CAS (Počátky)
+DESCRIPTION:📍 Jakubín\, Častrov\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 CAS 
+ (Počátky)
+END:VEVENT
+BEGIN:VEVENT
+UID:414433061
+DTSTART:20260701T111721Z
+DTEND:20260701T121721Z
+DTSTAMP:20260701T111721Z
+SUMMARY:🛠️ strom - Počátky
+LOCATION:Počátky
+GEO:49.269096;15.242587
+URL:geo:49.269096,15.242587
+DESCRIPTION:📍 Počátky\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 CAS (Počátky)
+END:VEVENT
+BEGIN:VEVENT
+UID:414440061
+DTSTART:20260701T112058Z
+DTEND:20260701T122058Z
+DTSTAMP:20260701T112058Z
+SUMMARY:🛠️ strom - Nový Rychnov
+LOCATION:Nový Rychnov
+GEO:49.377308;15.373312
+URL:geo:49.377308,15.373312
+DESCRIPTION:📍 Nový Rychnov\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 DA (Nový 
+ Rychnov)\n🚒 CAS (Nový Rychnov)
 END:VEVENT
 END:VCALENDAR
