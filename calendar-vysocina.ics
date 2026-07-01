@@ -86,7 +86,7 @@ LOCATION:Horní Cerekev
 GEO:49.329333;15.334020
 URL:geo:49.329333,15.334020
 DESCRIPTION:📍 Horní Cerekev\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 CAS (Hor
- ní Cerekev)
+ ní Cerekev)\n🚒 pila řetězová (Horní Cerekev)
 END:VEVENT
 BEGIN:VEVENT
 UID:414415061
@@ -250,7 +250,8 @@ LOCATION:Rantířov
 GEO:49.407365;15.514895
 URL:geo:49.407365,15.514895
 DESCRIPTION:📍 Rantířov\, Jihlava\n💬 Odstranění stromu.\n\n🚒 CAS (CHS Jihlav
- a)\n🚒 RZA (CHS Jihlava)\n🚒 CAS (Jihlava-Bedřichov)
+ a)\n🚒 RZA (CHS Jihlava)\n🚒 pila řetězová (CHS Jihlava)\n🚒 CAS (Jihlava-Bed
+ řichov)
 END:VEVENT
 BEGIN:VEVENT
 UID:414432061
