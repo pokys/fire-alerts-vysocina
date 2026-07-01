@@ -5,41 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:414384061
-DTSTART:20260701T055336Z
-DTEND:20260701T065336Z
-DTSTAMP:20260701T055336Z
-SUMMARY:🛠️ strom - Bačice
-LOCATION:Bačice
-GEO:49.089924;16.049739
-URL:geo:49.089924,16.049739
-DESCRIPTION:📍 Bačice\, Třebíč\n💬 Odstranění stormu.\n\n🚒 CAS (HS Hrotovice)
- \n🚒 pila řetězová (HS Hrotovice)
-END:VEVENT
-BEGIN:VEVENT
-UID:414386061
-DTSTART:20260701T055638Z
-DTEND:20260701T065638Z
-DTSTAMP:20260701T055638Z
-SUMMARY:🛠️ strom - Ústrašín
-LOCATION:Ústrašín
-GEO:49.382777;15.164111
-URL:geo:49.382777,15.164111
-DESCRIPTION:📍 Ústrašín\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 CAS (CHS Pelh
- řimov)\n🚒 pila řetězová (CHS Pelhřimov)
-END:VEVENT
-BEGIN:VEVENT
-UID:414389061
-DTSTART:20260701T061905Z
-DTEND:20260701T071905Z
-DTSTAMP:20260701T061905Z
-SUMMARY:🛠️ strom - Jihlava
-LOCATION:Jihlava
-GEO:49.454220;15.602426
-URL:geo:49.454220,15.602426
-DESCRIPTION:📍 Pávov\, Jihlava\n💬 Odstranění stromu.\n\n🚒 CAS (CHS Jihlava)
-END:VEVENT
-BEGIN:VEVENT
 UID:414391061
 DTSTART:20260701T063233Z
 DTEND:20260701T073233Z
@@ -389,7 +354,7 @@ LOCATION:Dušejov
 GEO:49.405262;15.428124
 URL:geo:49.405262,15.428124
 DESCRIPTION:📍 Dušejov\, Jihlava\n💬 Odstranění stromu.\n\n🚒 CAS (Dušejov)\n🚒
-  CAS (Hojkov)
+  DA (Hojkov)\n🚒 CAS (Hojkov)
 END:VEVENT
 BEGIN:VEVENT
 UID:414426061
@@ -541,7 +506,8 @@ SUMMARY:🛠️ strom - Boršov
 LOCATION:Boršov
 GEO:49.402791;15.423456
 URL:geo:49.402791,15.423456
-DESCRIPTION:📍 Boršov\, Jihlava\n💬 Odstranění stromu.\n\n🚒 CAS (Hojkov)
+DESCRIPTION:📍 Boršov\, Jihlava\n💬 Odstranění stromu.\n\n🚒 DA (Hojkov)\n🚒 CA
+ S (Hojkov)
 END:VEVENT
 BEGIN:VEVENT
 UID:414447061
@@ -929,7 +895,8 @@ SUMMARY:🛠️ strom - Jihlava
 LOCATION:Jihlava
 GEO:49.406519;15.580096
 URL:geo:49.406519,15.580096
-DESCRIPTION:💬 Odstranění stromu.\n\n🚒 DA (Jihlava-Bedřichov)
+DESCRIPTION:💬 Odstranění stromu.\n\n🚒 DA (Jihlava-Bedřichov)\n🚒 CAS (Jihlav
+ a-Bedřichov)
 END:VEVENT
 BEGIN:VEVENT
 UID:414491061
@@ -942,6 +909,17 @@ GEO:49.338906;16.030185
 URL:geo:49.338906,16.030185
 DESCRIPTION:📍 Velké Meziříčí\, Žďár nad Sázavou\n💬 Odstranění stromu.\n\n🚒 
  CAS (HS Velké Meziříčí)\n🚒 pila řetězová (HS Velké Meziříčí)
+END:VEVENT
+BEGIN:VEVENT
+UID:414492061
+DTSTART:20260701T125848Z
+DTEND:20260701T135848Z
+DTSTAMP:20260701T125848Z
+SUMMARY:🛠️ strom - Jihlava
+LOCATION:Jihlava
+GEO:49.411576;15.553965
+URL:geo:49.411576,15.553965
+DESCRIPTION:💬 Odstranění stromu.\n\n🚒 DA (Jihlava-Bedřichov)
 END:VEVENT
 BEGIN:VEVENT
 UID:414494061
@@ -1132,7 +1110,8 @@ SUMMARY:🛠️ monitoring - Kostelec
 LOCATION:Kostelec
 GEO:49.361298;15.490667
 URL:geo:49.361298,15.490667
-DESCRIPTION:📍 Kostelec\, Jihlava\n\n🚒 DA (Kostelec)
+DESCRIPTION:📍 Kostelec\, Jihlava\n💬 ZOČ: Monitoring toku.\n\n🚒 DA (Kostelec
+ )
 END:VEVENT
 BEGIN:VEVENT
 UID:414521061
@@ -1144,7 +1123,7 @@ LOCATION:Stařeč
 GEO:49.197667;15.828508
 URL:geo:49.197667,15.828508
 DESCRIPTION:📍 Stařeč\, Třebíč\n💬 Dopravní nehoda 1 OA bez zranění. Zajištěn
- í místa\, protipožární opatření.\n\n🚒 CAS (CHS Třebíč)
+ í místa.\n\n🚒 CAS (CHS Třebíč)
 END:VEVENT
 BEGIN:VEVENT
 UID:414522061
@@ -1155,8 +1134,8 @@ SUMMARY:🛠️ strom - Jihlava
 LOCATION:Jihlava
 GEO:49.423375;15.542893
 URL:geo:49.423375,15.542893
-DESCRIPTION:📍 Staré Hory\, Jihlava\n\n🚒 CAS (Jihlava-Bedřichov)\n🚒 osobní a
- utomobil (Jihlava-Pístov)
+DESCRIPTION:📍 Staré Hory\, Jihlava\n💬 Odstranění stromu.\n\n🚒 CAS (Jihlava-
+ Bedřichov)\n🚒 osobní automobil (Jihlava-Pístov)
 END:VEVENT
 BEGIN:VEVENT
 UID:414523061
@@ -1191,5 +1170,29 @@ GEO:49.392091;15.469021
 URL:geo:49.392091,15.469021
 DESCRIPTION:📍 Hubenov\, Jihlava\n💬 Odstranění stromu.\n\n🚒 osobní automobil
   (Hubenov)
+END:VEVENT
+BEGIN:VEVENT
+UID:414527061
+DTSTART:20260701T152242Z
+DTEND:20260701T162242Z
+DTSTAMP:20260701T152242Z
+SUMMARY:🛠️ ostatní - Jaroměřice nad Rokytnou
+LOCATION:Kaunicova\, Jaroměřice nad Rokytnou
+GEO:49.091210;15.885203
+URL:geo:49.091210,15.885203
+DESCRIPTION:📍 Kaunicova\, Jaroměřice nad Rokytnou\, Třebíč\n\n🚒 CAS (HS Mor
+ avské Budějovice)
+END:VEVENT
+BEGIN:VEVENT
+UID:414530061
+DTSTART:20260701T152816Z
+DTEND:20260701T162816Z
+DTSTAMP:20260701T152816Z
+SUMMARY:🛠️ otevření bytu/auta - Velké Meziříčí
+LOCATION:Bezručova\, Velké Meziříčí
+GEO:49.351766;16.006606
+URL:geo:49.351766,16.006606
+DESCRIPTION:📍 Bezručova\, Velké Meziříčí\, Žďár nad Sázavou\n\n🚒 RZA (HS Ve
+ lké Meziříčí)
 END:VEVENT
 END:VCALENDAR
