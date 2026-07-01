@@ -249,9 +249,9 @@ SUMMARY:🛠️ strom - Rantířov
 LOCATION:Rantířov
 GEO:49.407365;15.514895
 URL:geo:49.407365,15.514895
-DESCRIPTION:📍 Rantířov\, Jihlava\n💬 Odstranění stromu.\n\n🚒 CAS (CHS Jihlav
- a)\n🚒 RZA (CHS Jihlava)\n🚒 pila řetězová (CHS Jihlava)\n🚒 CAS (Jihlava-Bed
- řichov)
+DESCRIPTION:📍 Rantířov\, Jihlava\n💬 Odstranění stromu.\n\n🚒 CAS (Jihlava-Be
+ dřichov)\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihlava)\n🚒 pila řetězová (CHS J
+ ihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:414432061
@@ -298,7 +298,7 @@ LOCATION:Okrajová\, Jihlava
 GEO:49.415266;15.571283
 URL:geo:49.415266,15.571283
 DESCRIPTION:📍 Okrajová\, Staré Hory\, Jihlava\n💬 Odstranění stromu.\n\n🚒 CA
- S (CHS Jihlava)
+ S (CHS Jihlava)\n🚒 pila řetězová (CHS Jihlava) ×3
 END:VEVENT
 BEGIN:VEVENT
 UID:414437061
