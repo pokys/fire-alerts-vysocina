@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:414407061
-DTSTART:20260701T094126Z
-DTEND:20260701T104126Z
-DTSTAMP:20260701T094126Z
-SUMMARY:☣️ Ždírec nad Doubravou
-LOCATION:Chrudimská\, Ždírec nad Doubravou
-GEO:49.697678;15.816204
-URL:geo:49.697678,15.816204
-DESCRIPTION:📍 Chrudimská\, Ždírec nad Doubravou\, Havlíčkův Brod\n💬 Likvida
- ce úniku nafty.\n\n🚒 DA (Ždírec nad Doubravou)\n🚒 CAS (Ždírec nad Doubravo
- u)
-END:VEVENT
-BEGIN:VEVENT
 UID:414408061
 DTSTART:20260701T094233Z
 DTEND:20260701T104233Z
@@ -629,6 +616,18 @@ DESCRIPTION:📍 Těšenov\, Horní Cerekev\, Pelhřimov\n💬 Odstranění stro
  🚒 CAS (Horní Cerekev)
 END:VEVENT
 BEGIN:VEVENT
+UID:414548061
+DTSTART:20260701T120400Z
+DTEND:20260701T130400Z
+DTSTAMP:20260701T120400Z
+SUMMARY:🛠️ strom - Vyskytná nad Jihlavou
+LOCATION:Vyskytná nad Jihlavou
+GEO:49.417543;15.497092
+URL:geo:49.417543,15.497092
+DESCRIPTION:📍 Vyskytná nad Jihlavou\, Jihlava\n💬 Odstranění stromu.\n\n🚒 CA
+ S (CHS Jihlava)
+END:VEVENT
+BEGIN:VEVENT
 UID:414475061
 DTSTART:20260701T120652Z
 DTEND:20260701T130652Z
@@ -1140,7 +1139,8 @@ SUMMARY:🛠️ strom - Smrčná
 LOCATION:Smrčná
 GEO:49.462661;15.530705
 URL:geo:49.462661,15.530705
-DESCRIPTION:📍 Smrčná\, Jihlava\n\n🚒 AŽ (CHS Pelhřimov)\n🚒 CAS (HS Humpolec)
+DESCRIPTION:📍 Smrčná\, Jihlava\n💬 Odstranění stromu.\n\n🚒 AŽ (CHS Pelhřimov
+ )\n🚒 CAS (HS Humpolec)
 END:VEVENT
 BEGIN:VEVENT
 UID:414542061
