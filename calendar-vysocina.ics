@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:414271061
-DTSTART:20260630T121947Z
-DTEND:20260630T131947Z
-DTSTAMP:20260630T121947Z
-SUMMARY:🔥 vozidlo - Stonařov
-LOCATION:Stonařov
-GEO:49.282386;15.556508
-URL:geo:49.282386,15.556508
-DESCRIPTION:📍 Stonařov\, Jihlava\n💬 Požár v motorové části OA. Požárem došl
- o ke škodě na majetku 250 000kč.\n\n🚒 CAS (HS Třešť) ×2\n🚒 CAS (Dlouhá Brt
- nice)\n🚒 CAS (Stonařov)\n🚒 vyšetřovací automobil (ÚO Jihlava)
-END:VEVENT
-BEGIN:VEVENT
 UID:414272061
 DTSTART:20260630T123246Z
 DTEND:20260630T133246Z
@@ -1193,7 +1180,20 @@ SUMMARY:🚑 transport pacienta - Vojnův Městec
 LOCATION:Vojnův Městec
 GEO:49.677886;15.886312
 URL:geo:49.677886,15.886312
-DESCRIPTION:📍 Vojnův Městec\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad Sázav
- ou)\n🚒 DA (Vojnův Městec)\n🚒 CAS (Vojnův Městec)
+DESCRIPTION:📍 Vojnův Městec\, Žďár nad Sázavou\n💬 Transport pacienta na žád
+ ost ZZS.\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 DA (Vojnův Městec)\n🚒 CAS (Voj
+ nův Městec)
+END:VEVENT
+BEGIN:VEVENT
+UID:414396061
+DTSTART:20260701T073640Z
+DTEND:20260701T083640Z
+DTSTAMP:20260701T073640Z
+SUMMARY:🚑 záchrana na vodě - Kámen
+LOCATION:Kámen
+GEO:49.734296;15.534037
+URL:geo:49.734296,15.534037
+DESCRIPTION:📍 Jiříkov\, Kámen\, Havlíčkův Brod\n\n🚒 CAS (HS Světlá nad Sáza
+ vou)
 END:VEVENT
 END:VCALENDAR

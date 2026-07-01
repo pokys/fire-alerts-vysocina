@@ -38,7 +38,7 @@ LOCATION:Černovice
 GEO:49.372654;14.960888
 URL:geo:49.372654,14.960888
 DESCRIPTION:📍 Černovice\, Pelhřimov\n💬 Čerpání vody.\n\n🚒 DA (Černovice)\n🚒
-  CAS (Černovice)
+  CAS (Černovice)\n🚒 čerpadlo plovoucí (Černovice)
 END:VEVENT
 BEGIN:VEVENT
 UID:414001061
@@ -325,6 +325,18 @@ LOCATION:Rynárec
 GEO:49.385994;15.231853
 URL:geo:49.385994,15.231853
 DESCRIPTION:📍 Rynárec\, Pelhřimov\n💬 Pytlování písku\n\n🚒 CAS (Rynárec)
+END:VEVENT
+BEGIN:VEVENT
+UID:414192061
+DTSTART:20260629T143900Z
+DTEND:20260629T153900Z
+DTSTAMP:20260629T143900Z
+SUMMARY:🛠️ strom - Zachotín
+LOCATION:Zachotín
+GEO:49.457849;15.343140
+URL:geo:49.457849,15.343140
+DESCRIPTION:📍 Zachotín\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 DA (Zachotín)
+ \n🚒 pila řetězová (Zachotín)
 END:VEVENT
 BEGIN:VEVENT
 UID:414059061
@@ -684,17 +696,6 @@ GEO:49.481493;15.310530
 URL:geo:49.481493,15.310530
 DESCRIPTION:📍 Velký Rybník\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 DA (Zacho
  tín)
-END:VEVENT
-BEGIN:VEVENT
-UID:414192061
-DTSTART:20260629T181109Z
-DTEND:20260629T191109Z
-DTSTAMP:20260629T181109Z
-SUMMARY:🛠️ strom - Zachotín
-LOCATION:Zachotín
-GEO:49.457849;15.343140
-URL:geo:49.457849,15.343140
-DESCRIPTION:📍 Zachotín\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 DA (Zachotín)
 END:VEVENT
 BEGIN:VEVENT
 UID:414198061
