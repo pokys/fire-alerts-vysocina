@@ -5,30 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Pelhřimov
 BEGIN:VEVENT
-UID:414076061
-DTSTART:20260629T145045Z
-DTEND:20260629T155045Z
-DTSTAMP:20260629T145045Z
-SUMMARY:🛠️ čerpání vody - Černovice
-LOCATION:Černovice
-GEO:49.340749;14.959256
-URL:geo:49.340749,14.959256
-DESCRIPTION:📍 Vlkosovice\, Černovice\, Pelhřimov\n💬 Čerpání vody.\n\n🚒 CAS 
- (Kamenice nad Lipou)\n🚒 CAS (Kamenice nad Lipou)
-END:VEVENT
-BEGIN:VEVENT
-UID:414246061
-DTSTART:20260629T150000Z
-DTEND:20260629T160000Z
-DTSTAMP:20260629T150000Z
-SUMMARY:🛠️ strom - Červená Řečice
-LOCATION:Červená Řečice
-GEO:49.511231;15.178364
-URL:geo:49.511231,15.178364
-DESCRIPTION:📍 Červená Řečice\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 CAS (Če
- rvená Řečice)\n🚒 pila řetězová (Červená Řečice)
-END:VEVENT
-BEGIN:VEVENT
 UID:414103061
 DTSTART:20260629T150733Z
 DTEND:20260629T160733Z
@@ -960,7 +936,7 @@ SUMMARY:🛠️ ostatní - Humpolec
 LOCATION:Humpolec
 GEO:49.541866;15.387006
 URL:geo:49.541866,15.387006
-DESCRIPTION:📍 Rozkoš\, Humpolec\, Pelhřimov\n💬 Zajištění propadlého chodník
- u. .\n\n🚒 DA (Humpolec)
+DESCRIPTION:📍 Rozkoš\, Humpolec\, Pelhřimov\n💬 ZOČ- Zajištění propadlého ch
+ odníku.\n\n🚒 DA (Humpolec)
 END:VEVENT
 END:VCALENDAR
