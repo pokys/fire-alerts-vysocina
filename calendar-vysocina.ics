@@ -66,9 +66,9 @@ URL:geo:49.734296,15.534037
 DESCRIPTION:📍 Jiříkov\, Kámen\, Havlíčkův Brod\n💬 Úhyn ryb v rybníce\, zaji
  štění místa\, likvidace události.\n\n🚒 CAS (HS Světlá nad Sázavou)\n🚒 osob
  ní automobil (HS Světlá nad Sázavou)\n🚒 CAS (Habry)\n🚒 CAS (Uhelná Příbram
- )\n🚒 osobní automobil (HS Chotěboř)\n🚒 přívěs lodní (HS Chotěboř)\n🚒 účelo
- vý automobil do 3500 kg (CHS Havlíčkův Brod)\n🚒 přívěs lodní (CHS Havlíčků
- v Brod)\n🚒 přÍvěs pro hašení (Vepříkov)
+ )\n🚒 osobní automobil (HS Chotěboř) ×2\n🚒 přívěs lodní (HS Chotěboř)\n🚒 úč
+ elový automobil do 3500 kg (CHS Havlíčkův Brod) ×2\n🚒 přívěs lodní (CHS Ha
+ vlíčkův Brod)\n🚒 přÍvěs pro hašení (Vepříkov)
 END:VEVENT
 BEGIN:VEVENT
 UID:414397061
@@ -1146,7 +1146,8 @@ SUMMARY:🛠️ obtížný hmyz - Hradec
 LOCATION:Hradec
 GEO:49.708147;15.296623
 URL:geo:49.708147,15.296623
-DESCRIPTION:📍 Hradec\, Havlíčkův Brod\n\n🚒 DA (Hradec)
+DESCRIPTION:📍 Hradec\, Havlíčkův Brod\n💬 Likvidace obtížného hmyzu.\n\n🚒 DA
+  (Hradec)
 END:VEVENT
 BEGIN:VEVENT
 UID:414525061
@@ -1157,7 +1158,8 @@ SUMMARY:🛠️ strom - Rantířov
 LOCATION:Rantířov
 GEO:49.403657;15.516106
 URL:geo:49.403657,15.516106
-DESCRIPTION:📍 Rantířov\, Jihlava\n\n🚒 DA (Jihlava-Bedřichov)
+DESCRIPTION:📍 Rantířov\, Jihlava\n💬 Odstranění stromu.\n\n🚒 DA (Jihlava-Bed
+ řichov)
 END:VEVENT
 BEGIN:VEVENT
 UID:414526061
@@ -1180,8 +1182,8 @@ SUMMARY:🛠️ ostatní - Jaroměřice nad Rokytnou
 LOCATION:Kaunicova\, Jaroměřice nad Rokytnou
 GEO:49.091210;15.885203
 URL:geo:49.091210,15.885203
-DESCRIPTION:📍 Kaunicova\, Jaroměřice nad Rokytnou\, Třebíč\n\n🚒 CAS (HS Mor
- avské Budějovice)
+DESCRIPTION:📍 Kaunicova\, Jaroměřice nad Rokytnou\, Třebíč\n💬 Pročištění uc
+ pané trubky.\n\n🚒 CAS (HS Moravské Budějovice)
 END:VEVENT
 BEGIN:VEVENT
 UID:414530061
@@ -1192,7 +1194,7 @@ SUMMARY:🛠️ otevření bytu/auta - Velké Meziříčí
 LOCATION:Bezručova\, Velké Meziříčí
 GEO:49.351766;16.006606
 URL:geo:49.351766,16.006606
-DESCRIPTION:📍 Bezručova\, Velké Meziříčí\, Žďár nad Sázavou\n\n🚒 RZA (HS Ve
- lké Meziříčí)
+DESCRIPTION:📍 Bezručova\, Velké Meziříčí\, Žďár nad Sázavou\n💬 Otevření byt
+ u.\n\n🚒 RZA (HS Velké Meziříčí)
 END:VEVENT
 END:VCALENDAR
