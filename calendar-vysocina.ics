@@ -1113,9 +1113,9 @@ SUMMARY:🚗 dopravní nehoda - Moravské Budějovice
 LOCATION:K Hoře\, Moravské Budějovice
 GEO:49.059525;15.802626
 URL:geo:49.059525,15.802626
-DESCRIPTION:📍 K Hoře\, Moravské Budějovice\, Třebíč\n💬 Sražená cyklistka OA
- . Pomoc ZZS při ošetřování zraněné osoby. Zabezpečení místa DN.\n\n🚒 CAS (
- HS Moravské Budějovice)
+DESCRIPTION:📍 K Hoře\, Moravské Budějovice\, Třebíč\n💬 Dopraní nehoda OA a 
+ sražená cyklistka. Pomoc ZZS při ošetřování zraněné osoby. Zabezpečení mís
+ ta DN.\n\n🚒 CAS (HS Moravské Budějovice)
 END:VEVENT
 BEGIN:VEVENT
 UID:414587061
@@ -1186,7 +1186,8 @@ SUMMARY:🚗 dopravní nehoda - Kostelec
 LOCATION:Kostelec
 GEO:49.360046;15.490653
 URL:geo:49.360046,15.490653
-DESCRIPTION:📍 Kostelec\, Jihlava\n\n🚒 RZA (CHS Jihlava)\n🚒 CAS (HS Třešť)
+DESCRIPTION:📍 Kostelec\, Jihlava\n💬 DN1 OA\, 2 zraněné osoby. Zajištění mís
+ ta nehody.\n\n🚒 RZA (CHS Jihlava)\n🚒 CAS (HS Třešť)
 END:VEVENT
 BEGIN:VEVENT
 UID:414601061
