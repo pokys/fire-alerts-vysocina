@@ -310,7 +310,8 @@ SUMMARY:🛠️ strom - Hybrálec
 LOCATION:Hybrálec
 GEO:49.427786;15.559343
 URL:geo:49.427786,15.559343
-DESCRIPTION:📍 Hybrálec\, Jihlava\n💬 Odstranění stromu.\n\n🚒 CAS (Zbilidy)
+DESCRIPTION:📍 Hybrálec\, Jihlava\n💬 Odstranění stromu.\n\n🚒 CAS (Větrný Jen
+ íkov)\n🚒 CAS (Zbilidy)
 END:VEVENT
 BEGIN:VEVENT
 UID:414475061
@@ -1138,9 +1139,10 @@ SUMMARY:🛠️ ostatní - Nová Ves
 LOCATION:Nová Ves
 GEO:49.250353;15.802656
 URL:geo:49.250353,15.802656
-DESCRIPTION:📍 Nová Ves\, Třebíč\n\n🚒 CAS (CHS Třebíč)\n🚒 DA (Nová Ves (TR))
- \n🚒 CAS (Přibyslavice)\n🚒 CAS (Přibyslavice)\n🚒 vyšetřovací automobil (ÚO 
- Třebíč)
+DESCRIPTION:📍 Nová Ves\, Třebíč\n💬 Jednotky vyjely na požár osobního automo
+ bilu. Průzkumem zjištěno\, že se nejednalo o požár\, ale o technickou záva
+ du v motorové části.\n\n🚒 CAS (CHS Třebíč)\n🚒 DA (Nová Ves (TR))\n🚒 CAS (P
+ řibyslavice)\n🚒 CAS (Přibyslavice)\n🚒 vyšetřovací automobil (ÚO Třebíč)
 END:VEVENT
 BEGIN:VEVENT
 UID:414608061
