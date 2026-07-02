@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:414423061
-DTSTART:20260701T111225Z
-DTEND:20260701T121225Z
-DTSTAMP:20260701T111225Z
-SUMMARY:🛠️ strom - Dolní Cerekev
-LOCATION:Dolní Cerekev
-GEO:49.344239;15.441935
-URL:geo:49.344239,15.441935
-DESCRIPTION:📍 Dolní Cerekev\, Jihlava\n💬 Odstranění stromu.\n\n🚒 CAS (Dolní
-  Cerekev)
-END:VEVENT
-BEGIN:VEVENT
 UID:414424061
 DTSTART:20260701T111240Z
 DTEND:20260701T121240Z
@@ -1123,7 +1111,7 @@ LOCATION:Rantířov
 GEO:49.406011;15.525590
 URL:geo:49.406011,15.525590
 DESCRIPTION:📍 Rantířov\, Jihlava\n💬 Odstranění stromu.\n\n🚒 CAS (CHS Jihlav
- a)\n🚒 AŽ (CHS Jihlava)
+ a)\n🚒 AŽ (CHS Jihlava)\n🚒 pila řetězová (CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:414564061
@@ -1193,6 +1181,19 @@ SUMMARY:🚑 otevření/asistence - Jihlava
 LOCATION:Pod Jánským kopečkem\, Jihlava
 GEO:49.406833;15.585868
 URL:geo:49.406833,15.585868
-DESCRIPTION:📍 Pod Jánským kopečkem\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+DESCRIPTION:📍 Pod Jánským kopečkem\, Jihlava\n💬 Otevření uzavřeného osobníh
+ o vozidla.\n\n🚒 CAS (CHS Jihlava)
+END:VEVENT
+BEGIN:VEVENT
+UID:414584061
+DTSTART:20260702T090719Z
+DTEND:20260702T100719Z
+DTSTAMP:20260702T090719Z
+SUMMARY:🚗 dopravní nehoda - Moravské Budějovice
+LOCATION:K Hoře\, Moravské Budějovice
+GEO:49.059525;15.802626
+URL:geo:49.059525,15.802626
+DESCRIPTION:📍 K Hoře\, Moravské Budějovice\, Třebíč\n\n🚒 CAS (HS Moravské B
+ udějovice)
 END:VEVENT
 END:VCALENDAR
