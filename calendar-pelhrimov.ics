@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Pelhřimov
 BEGIN:VEVENT
-UID:414254061
-DTSTART:20260630T095517Z
-DTEND:20260630T105517Z
-DTSTAMP:20260630T095517Z
-SUMMARY:🚗 se zraněním - Žirovnice
-LOCATION:Žirovnice
-GEO:49.259086;15.172616
-URL:geo:49.259086,15.172616
-DESCRIPTION:📍 Žirovnice\, Pelhřimov\n💬 DN 1 OA se zraněním\, zajištění míst
- a události\, PPO.\n\n🚒 CAS (HS Kamenice nad Lipou)\n🚒 DA (Počátky)\n🚒 CAS 
- (Počátky)\n🚒 DA (Žirovnice)\n🚒 CAS (Žirovnice)
-END:VEVENT
-BEGIN:VEVENT
 UID:414260061
 DTSTART:20260630T103407Z
 DTEND:20260630T113407Z
@@ -182,7 +169,8 @@ LOCATION:Olešná
 GEO:49.444564;15.265921
 URL:geo:49.444564,15.265921
 DESCRIPTION:📍 Olešná\, Pelhřimov\n💬 Čerpání vody.\n\n🚒 DA (Olešná (PE))\n🚒 
- CAS (Olešná (PE))
+ CAS (Olešná (PE))\n🚒 čerpadlo plovoucí (Olešná (PE)) ×2\n🚒 elektrocentrála
+  přenosná (Olešná (PE))\n🚒 přívěs nákladní (Olešná (PE))
 END:VEVENT
 BEGIN:VEVENT
 UID:414336061
