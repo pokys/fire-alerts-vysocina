@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Pelhřimov
 BEGIN:VEVENT
-UID:414303061
-DTSTART:20260630T193413Z
-DTEND:20260630T203413Z
-DTSTAMP:20260630T193413Z
-SUMMARY:🛠️ obtížný hmyz - Lukavec
-LOCATION:Lukavec
-GEO:49.573687;14.966072
-URL:geo:49.573687,14.966072
-DESCRIPTION:📍 Bezděkov\, Lukavec\, Pelhřimov\n💬 Odstranění obtížného hmyzu.
- \n\n🚒 CAS (Lukavec)
-END:VEVENT
-BEGIN:VEVENT
 UID:414304061
 DTSTART:20260630T193726Z
 DTEND:20260630T203726Z
@@ -626,7 +614,8 @@ LOCATION:Pacov
 GEO:49.469039;15.005207
 URL:geo:49.469039,15.005207
 DESCRIPTION:📍 Pacov\, Pelhřimov\n💬 DN 2 OA se zraněním. Zajištění místa udá
- losti.\n\n🚒 CAS (HS Pacov)\n🚒 CAS (HS Pacov)\n🚒 CAS (Pacov-Jetřichovec)
+ losti.\n\n🚒 CAS (HS Pacov)\n🚒 CAS (HS Pacov)\n🚒 osobní automobil (Pacov)\n
+ 🚒 CAS (Pacov-Jetřichovec)
 END:VEVENT
 BEGIN:VEVENT
 UID:414652061
