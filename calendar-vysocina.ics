@@ -5,17 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:414468061
-DTSTART:20260701T114054Z
-DTEND:20260701T124054Z
-DTSTAMP:20260701T114054Z
-SUMMARY:🛠️ strom - Jihlava
-LOCATION:Jihlava
-GEO:49.439050;15.579654
-URL:geo:49.439050,15.579654
-DESCRIPTION:📍 Zborná\, Jihlava\n💬 Odstranění stromu.\n\n🚒 CAS (CHS Jihlava)
-END:VEVENT
-BEGIN:VEVENT
 UID:414628061
 DTSTART:20260701T114057Z
 DTEND:20260701T124057Z
@@ -1170,12 +1159,14 @@ UID:414663061
 DTSTART:20260702T185914Z
 DTEND:20260702T195914Z
 DTSTAMP:20260702T185914Z
-SUMMARY:☣️ neznámá látka - Golčův Jeníkov
+SUMMARY:⚠️ planý poplach - Golčův Jeníkov
 LOCATION:Golčův Jeníkov
 GEO:49.826917;15.517528
 URL:geo:49.826917,15.517528
-DESCRIPTION:📍 Sirákovice\, Golčův Jeníkov\, Havlíčkův Brod\n\n🚒 CAS (HS Led
- eč nad Sázavou)\n🚒 DA (Golčův Jeníkov)\n🚒 CAS (Golčův Jeníkov)
+DESCRIPTION:📍 Sirákovice\, Golčův Jeníkov\, Havlíčkův Brod\n💬 Planý poplach
+ . Průzkumem zjištěno\, že se jedná o přirozený proces a kontrolované odpou
+ štění vody z rybníka.\n\n🚒 CAS (HS Ledeč nad Sázavou)\n🚒 DA (Golčův Jeníko
+ v)\n🚒 CAS (Golčův Jeníkov)
 END:VEVENT
 BEGIN:VEVENT
 UID:414664061
@@ -1200,5 +1191,16 @@ GEO:49.277105;15.475547
 URL:geo:49.277105,15.475547
 DESCRIPTION:📍 Třešť\, Jihlava\n💬 Odstranění úniku provozních kapalin z poze
  mní komunikace.\n\n🚒 CAS (HS Třešť)
+END:VEVENT
+BEGIN:VEVENT
+UID:414666061
+DTSTART:20260702T205222Z
+DTEND:20260702T215222Z
+DTSTAMP:20260702T205222Z
+SUMMARY:🛠️ strom - Jihlava
+LOCATION:Jihlava
+GEO:49.402414;15.543494
+URL:geo:49.402414,15.543494
+DESCRIPTION:📍 Horní Kosov\, Jihlava\n\n🚒 CAS (CHS Jihlava)
 END:VEVENT
 END:VCALENDAR
