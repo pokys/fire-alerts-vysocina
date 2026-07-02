@@ -451,7 +451,8 @@ SUMMARY:🛠️ ostatní - Jihlava
 LOCATION:Pávovská\, Jihlava
 GEO:49.444640;15.595280
 URL:geo:49.444640,15.595280
-DESCRIPTION:📍 Pávovská\, Jihlava\n💬 Odstranění stromu.\n\n🚒 CAS (HS Polná)
+DESCRIPTION:📍 Pávovská\, Jihlava\n💬 Odstranění stromu.\n\n🚒 CAS (HS Polná)\
+ n🚒 pila řetězová (HS Polná)
 END:VEVENT
 BEGIN:VEVENT
 UID:414466061
@@ -498,7 +499,8 @@ SUMMARY:🛠️ strom - Jihlava
 LOCATION:Jihlava
 GEO:49.447252;15.601836
 URL:geo:49.447252,15.601836
-DESCRIPTION:📍 Pávov\, Jihlava\n💬 Odstranění stromu.\n\n🚒 CAS (HS Polná)
+DESCRIPTION:📍 Pávov\, Jihlava\n💬 Odstranění stromu.\n\n🚒 CAS (HS Polná)\n🚒 
+ pila řetězová (HS Polná)
 END:VEVENT
 BEGIN:VEVENT
 UID:414468061
