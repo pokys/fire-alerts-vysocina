@@ -5,67 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:414449061
-DTSTART:20260701T112552Z
-DTEND:20260701T122552Z
-DTSTAMP:20260701T112552Z
-SUMMARY:🛠️ strom - Nový Rychnov
-LOCATION:Nový Rychnov
-GEO:49.366963;15.354460
-URL:geo:49.366963,15.354460
-DESCRIPTION:📍 Trsov\, Nový Rychnov\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 D
- A (Nový Rychnov)
-END:VEVENT
-BEGIN:VEVENT
-UID:414450061
-DTSTART:20260701T112603Z
-DTEND:20260701T122603Z
-DTSTAMP:20260701T112603Z
-SUMMARY:🛠️ strom - Smrčná
-LOCATION:Smrčná
-GEO:49.465967;15.527401
-URL:geo:49.465967,15.527401
-DESCRIPTION:📍 Smrčná\, Jihlava\n\n🚒 CAS (HS Humpolec)\n🚒 DA (Smrčná)\n🚒 CAS
-  (CHS Jihlava)\n🚒 CAS (CHS Jihlava)\n🚒 VYA (CHS Jihlava)\n🚒 pila řetězová 
- (CHS Jihlava) ×2\n🚒 AŽ (CHS Pelhřimov)\n🚒 pila řetězová (CHS Pelhřimov)
-END:VEVENT
-BEGIN:VEVENT
-UID:414453061
-DTSTART:20260701T112848Z
-DTEND:20260701T122848Z
-DTSTAMP:20260701T112848Z
-SUMMARY:🛠️ strom - Jihlava
-LOCATION:Jihlava
-GEO:49.435982;15.605591
-URL:geo:49.435982,15.605591
-DESCRIPTION:💬 Odstranění stromu.\n\n🚒 CAS (CHS Jihlava)\n🚒 pila řetězová (C
- HS Jihlava)
-END:VEVENT
-BEGIN:VEVENT
-UID:414454061
-DTSTART:20260701T112933Z
-DTEND:20260701T122933Z
-DTSTAMP:20260701T112933Z
-SUMMARY:🛠️ strom - Vyskytná nad Jihlavou
-LOCATION:Vyskytná nad Jihlavou
-GEO:49.410966;15.515064
-URL:geo:49.410966,15.515064
-DESCRIPTION:📍 Vyskytná nad Jihlavou\, Jihlava\n💬 Odstranění stromu.\n\n🚒 DA
-  (Jihlava-Bedřichov)
-END:VEVENT
-BEGIN:VEVENT
-UID:414455061
-DTSTART:20260701T113019Z
-DTEND:20260701T123019Z
-DTSTAMP:20260701T113019Z
-SUMMARY:🛠️ strom - Jihlava
-LOCATION:třída Legionářů\, Jihlava
-GEO:49.401193;15.585796
-URL:geo:49.401193,15.585796
-DESCRIPTION:📍 třída Legionářů\, Jihlava\n💬 Odstranění stromu.\n\n🚒 CAS (Jih
- lava-Bedřichov)
-END:VEVENT
-BEGIN:VEVENT
 UID:414456061
 DTSTART:20260701T113136Z
 DTEND:20260701T123136Z
@@ -1106,7 +1045,7 @@ SUMMARY:🛠️ ostatní - Slavětice
 LOCATION:Slavětice
 GEO:49.103654;16.106425
 URL:geo:49.103654,16.106425
-DESCRIPTION:📍 Slavětice\, Třebíč\n\n🚒 CAS (Slavětice)
+DESCRIPTION:📍 Slavětice\, Třebíč\n💬 ZOČ.\n\n🚒 CAS (Slavětice)
 END:VEVENT
 BEGIN:VEVENT
 UID:414606061
@@ -1117,10 +1056,10 @@ SUMMARY:🛠️ ostatní - Nová Ves
 LOCATION:Nová Ves
 GEO:49.250353;15.802656
 URL:geo:49.250353,15.802656
-DESCRIPTION:📍 Nová Ves\, Třebíč\n💬 Jednotky vyjely na požár osobního automo
- bilu. Průzkumem zjištěno\, že se nejednalo o požár\, ale o technickou záva
- du v motorové části.\n\n🚒 CAS (CHS Třebíč)\n🚒 DA (Nová Ves (TR))\n🚒 CAS (P
- řibyslavice)\n🚒 CAS (Přibyslavice)\n🚒 vyšetřovací automobil (ÚO Třebíč)
+DESCRIPTION:📍 Nová Ves\, Třebíč\n💬 Požár OA. Průzkumem zjištěno\, že se nej
+ ednalo o požár\, ale o technickou závadu v motorové části.\n\n🚒 CAS (CHS T
+ řebíč)\n🚒 DA (Nová Ves (TR))\n🚒 CAS (Přibyslavice)\n🚒 CAS (Přibyslavice)\n
+ 🚒 vyšetřovací automobil (ÚO Třebíč)
 END:VEVENT
 BEGIN:VEVENT
 UID:414608061
@@ -1142,8 +1081,10 @@ SUMMARY:🚗 dopravní nehoda - Zašovice
 LOCATION:Zašovice
 GEO:49.264107;15.710152
 URL:geo:49.264107,15.710152
-DESCRIPTION:📍 Nová Brtnice\, Zašovice\, Třebíč\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS
-  (Okříšky)
+DESCRIPTION:📍 Nová Brtnice\, Zašovice\, Třebíč\n💬 DN 2 OA\, 1 zraněná osoba
+ . Předlékařská první pomoc zraněné osobě do příjezdu ZZS. Zabezpečení hava
+ rovaných vozidel proti PO a proti úniku provozních kapalin.\n\n🚒 CAS (CHS 
+ Třebíč)\n🚒 CAS (Okříšky)
 END:VEVENT
 BEGIN:VEVENT
 UID:414613061
@@ -1202,5 +1143,61 @@ GEO:49.349316;15.397367
 URL:geo:49.349316,15.397367
 DESCRIPTION:📍 Rohozná\, Jihlava\n\n🚒 CAS (HS Třešť)\n🚒 DA (Rohozná)\n🚒 CAS 
  (Rohozná)
+END:VEVENT
+BEGIN:VEVENT
+UID:414625061
+DTSTART:20260702T140641Z
+DTEND:20260702T150641Z
+DTSTAMP:20260702T140641Z
+SUMMARY:🛠️ strom - Rohozná
+LOCATION:Rohozná
+GEO:49.357411;15.388598
+URL:geo:49.357411,15.388598
+DESCRIPTION:📍 Rohozná\, Jihlava\n💬 Odstranění stromu.\n\n🚒 DA (Rohozná)
+END:VEVENT
+BEGIN:VEVENT
+UID:414627061
+DTSTART:20260702T141904Z
+DTEND:20260702T151904Z
+DTSTAMP:20260702T141904Z
+SUMMARY:🛠️ obtížný hmyz - Náměšť nad Oslavou
+LOCATION:Lesní\, Náměšť nad Oslavou
+GEO:49.212979;16.144765
+URL:geo:49.212979,16.144765
+DESCRIPTION:📍 Lesní\, Náměšť nad Oslavou\, Třebíč\n\n🚒 CAS (HS Náměšť nad O
+ slavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:414628061
+DTSTART:20260702T142157Z
+DTEND:20260702T152157Z
+DTSTAMP:20260702T142157Z
+SUMMARY:🛠️ strom - Rohozná
+LOCATION:Rohozná
+GEO:49.362617;15.382527
+URL:geo:49.362617,15.382527
+DESCRIPTION:📍 Rohozná\, Jihlava\n💬 Odstranění stromu.\n\n🚒 DA (Rohozná)
+END:VEVENT
+BEGIN:VEVENT
+UID:414629061
+DTSTART:20260702T142559Z
+DTEND:20260702T152559Z
+DTSTAMP:20260702T142559Z
+SUMMARY:🛠️ strom - Rohozná
+LOCATION:Rohozná
+GEO:49.363694;15.381184
+URL:geo:49.363694,15.381184
+DESCRIPTION:📍 Rohozná\, Jihlava\n💬 Odstranění stromu.\n\n🚒 DA (Rohozná)
+END:VEVENT
+BEGIN:VEVENT
+UID:414630061
+DTSTART:20260702T143204Z
+DTEND:20260702T153204Z
+DTSTAMP:20260702T143204Z
+SUMMARY:🛠️ strom - Rohozná
+LOCATION:Rohozná
+GEO:49.363932;15.380875
+URL:geo:49.363932,15.380875
+DESCRIPTION:📍 Rohozná\, Jihlava\n💬 Odstranění stromu.\n\n🚒 DA (Rohozná)
 END:VEVENT
 END:VCALENDAR
