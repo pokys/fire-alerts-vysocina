@@ -1169,7 +1169,8 @@ SUMMARY:🚑 transport pacienta - Hrotovice
 LOCATION:1. máje\, Hrotovice
 GEO:49.104736;16.062187
 URL:geo:49.104736,16.062187
-DESCRIPTION:📍 1. máje\, Hrotovice\, Třebíč\n\n🚒 CAS (HS Hrotovice)
+DESCRIPTION:📍 1. máje\, Hrotovice\, Třebíč\n💬 Transport pacienta na žádost 
+ ZZS.\n\n🚒 CAS (HS Hrotovice)
 END:VEVENT
 BEGIN:VEVENT
 UID:414569061
@@ -1180,8 +1181,8 @@ SUMMARY:🚑 spolupráce ZZS - Dolní Rožínka
 LOCATION:Dolní Rožínka
 GEO:49.472599;16.211395
 URL:geo:49.472599,16.211395
-DESCRIPTION:📍 Dolní Rožínka\, Žďár nad Sázavou\n\n🚒 CAS (HS Bystřice nad Pe
- rnštejnem)
+DESCRIPTION:📍 Dolní Rožínka\, Žďár nad Sázavou\n💬 Spolupráce se ZZS.\n\n🚒 C
+ AS (HS Bystřice nad Pernštejnem)
 END:VEVENT
 BEGIN:VEVENT
 UID:414571061
