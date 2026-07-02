@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:414460061
-DTSTART:20260701T113343Z
-DTEND:20260701T123343Z
-DTSTAMP:20260701T113343Z
-SUMMARY:🛠️ strom - Vyskytná nad Jihlavou
-LOCATION:Vyskytná nad Jihlavou
-GEO:49.403834;15.504647
-URL:geo:49.403834,15.504647
-DESCRIPTION:📍 Rounek\, Vyskytná nad Jihlavou\, Jihlava\n💬 Odstranění stromu
- .\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihlava)\n🚒 pila řetězová (CHS Jihlav
- a)
-END:VEVENT
-BEGIN:VEVENT
 UID:414461061
 DTSTART:20260701T113405Z
 DTEND:20260701T123405Z
@@ -658,7 +645,7 @@ LOCATION:Rohozná
 GEO:49.362409;15.383649
 URL:geo:49.362409,15.383649
 DESCRIPTION:📍 Rohozná\, Jihlava\n💬 Dovoz elektrocentrály na dětský tábor.\n
- \n🚒 DA (Rohozná)
+ \n🚒 DA (Rohozná) ×2
 END:VEVENT
 BEGIN:VEVENT
 UID:414535061
@@ -1129,8 +1116,8 @@ SUMMARY:🛠️ obtížný hmyz - Náměšť nad Oslavou
 LOCATION:Lesní\, Náměšť nad Oslavou
 GEO:49.212979;16.144765
 URL:geo:49.212979,16.144765
-DESCRIPTION:📍 Lesní\, Náměšť nad Oslavou\, Třebíč\n\n🚒 CAS (HS Náměšť nad O
- slavou)
+DESCRIPTION:📍 Lesní\, Náměšť nad Oslavou\, Třebíč\n💬 Odstranění obtížného h
+ myzu.\n\n🚒 CAS (HS Náměšť nad Oslavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:414628061
@@ -1197,5 +1184,16 @@ LOCATION:Rohozná
 GEO:49.344313;15.410635
 URL:geo:49.344313,15.410635
 DESCRIPTION:📍 Rohozná\, Jihlava\n💬 Planý poplach\n\n🚒 DA (Rohozná)
+END:VEVENT
+BEGIN:VEVENT
+UID:414635061
+DTSTART:20260702T150632Z
+DTEND:20260702T160632Z
+DTSTAMP:20260702T150632Z
+SUMMARY:🛠️ obtížný hmyz - Svratka
+LOCATION:Pionýrská\, Svratka
+GEO:49.712385;16.032763
+URL:geo:49.712385,16.032763
+DESCRIPTION:📍 Pionýrská\, Svratka\, Žďár nad Sázavou\n\n🚒 CAS (Svratka)
 END:VEVENT
 END:VCALENDAR
