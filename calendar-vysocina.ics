@@ -1175,8 +1175,8 @@ SUMMARY:🚑 Jakubov u Moravských Budějovic
 LOCATION:Jakubov u Moravských Budějovic
 GEO:49.081711;15.763854
 URL:geo:49.081711,15.763854
-DESCRIPTION:📍 Jakubov u Moravských Budějovic\, Třebíč\n\n🚒 CAS (HS Moravské
-  Budějovice)
+DESCRIPTION:📍 Jakubov u Moravských Budějovic\, Třebíč\n💬 Záchrana pěti koťa
+ t z kanalizace.\n\n🚒 CAS (HS Moravské Budějovice)
 END:VEVENT
 BEGIN:VEVENT
 UID:414692061
@@ -1210,6 +1210,7 @@ SUMMARY:🛠️ otevření bytu/auta - Havlíčkův Brod
 LOCATION:Pražská\, Havlíčkův Brod
 GEO:49.612805;15.577720
 URL:geo:49.612805,15.577720
-DESCRIPTION:📍 Pražská\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)
+DESCRIPTION:📍 Pražská\, Havlíčkův Brod\n💬 Otevření bytu.\n\n🚒 CAS (CHS Havl
+ íčkův Brod)
 END:VEVENT
 END:VCALENDAR
