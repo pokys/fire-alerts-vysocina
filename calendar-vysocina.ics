@@ -5,30 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:414533061
-DTSTART:20260701T160750Z
-DTEND:20260701T170750Z
-DTSTAMP:20260701T160750Z
-SUMMARY:🛠️ dovoz vody - Rohozná
-LOCATION:Rohozná
-GEO:49.362409;15.383649
-URL:geo:49.362409,15.383649
-DESCRIPTION:📍 Rohozná\, Jihlava\n💬 Dovoz elektrocentrály na dětský tábor.\n
- \n🚒 DA (Rohozná) ×2
-END:VEVENT
-BEGIN:VEVENT
-UID:414535061
-DTSTART:20260701T161404Z
-DTEND:20260701T171404Z
-DTSTAMP:20260701T161404Z
-SUMMARY:🛠️ strom - Jihlava
-LOCATION:S. K. Neumanna\, Jihlava
-GEO:49.406783;15.559750
-URL:geo:49.406783,15.559750
-DESCRIPTION:📍 S. K. Neumanna\, Jihlava\n💬 Odstranění stromu.\n\n🚒 CAS (CHS 
- Jihlava)\n🚒 pila řetězová (CHS Jihlava)
-END:VEVENT
-BEGIN:VEVENT
 UID:414537061
 DTSTART:20260701T163512Z
 DTEND:20260701T173512Z
@@ -1097,6 +1073,8 @@ SUMMARY:🚗 dopravní nehoda - Okarec
 LOCATION:Okarec
 GEO:49.216195;16.094061
 URL:geo:49.216195,16.094061
-DESCRIPTION:📍 Okarec\, Třebíč\n\n🚒 CAS (HS Náměšť nad Oslavou)
+DESCRIPTION:📍 Okarec\, Třebíč\n💬 DN 1 OA mimo vozovku bez zranění. Zabezpeč
+ ení havarovaného vozidla proti PO a proti úniku provozních kapalin.\n\n🚒 C
+ AS (HS Náměšť nad Oslavou)
 END:VEVENT
 END:VCALENDAR
