@@ -5,17 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:414630061
-DTSTART:20260701T115104Z
-DTEND:20260701T125104Z
-DTSTAMP:20260701T115104Z
-SUMMARY:🛠️ strom - Rohozná
-LOCATION:Rohozná
-GEO:49.363932;15.380875
-URL:geo:49.363932,15.380875
-DESCRIPTION:📍 Rohozná\, Jihlava\n💬 Odstranění stromu.\n\n🚒 DA (Rohozná)
-END:VEVENT
-BEGIN:VEVENT
 UID:414471061
 DTSTART:20260701T115210Z
 DTEND:20260701T125210Z
@@ -813,9 +802,9 @@ SUMMARY:🚗 dopravní nehoda - Moravské Budějovice
 LOCATION:K Hoře\, Moravské Budějovice
 GEO:49.059525;15.802626
 URL:geo:49.059525,15.802626
-DESCRIPTION:📍 K Hoře\, Moravské Budějovice\, Třebíč\n💬 Dopraní nehoda OA a 
- sražená cyklistka. Pomoc ZZS při ošetřování zraněné osoby. Zabezpečení mís
- ta DN.\n\n🚒 CAS (HS Moravské Budějovice)
+DESCRIPTION:📍 K Hoře\, Moravské Budějovice\, Třebíč\n💬 DN 1 OA a sražená cy
+ klistka. Pomoc ZZS při ošetřování zraněné osoby. Zabezpečení místa DN.\n\n
+ 🚒 CAS (HS Moravské Budějovice)
 END:VEVENT
 BEGIN:VEVENT
 UID:414587061
@@ -899,9 +888,9 @@ SUMMARY:🚗 dopravní nehoda - Hořepník
 LOCATION:Hořepník
 GEO:49.509223;15.100462
 URL:geo:49.509223,15.100462
-DESCRIPTION:📍 Hořepník\, Pelhřimov\n💬 Dopravní nehoda 1 OA. Provedeno proti
- požární opatření\, zabezpečení místa nehody. Na místě jedna zraněná osoba.
- \n\n🚒 CAS (HS Pacov)
+DESCRIPTION:📍 Hořepník\, Pelhřimov\n💬 DN 1 OA. Provedeno protipožární opatř
+ ení\, zabezpečení místa nehody. Na místě jedna zraněná osoba.\n\n🚒 CAS (HS
+  Pacov)
 END:VEVENT
 BEGIN:VEVENT
 UID:414604061
@@ -1208,5 +1197,17 @@ GEO:49.353204;16.021746
 URL:geo:49.353204,16.021746
 DESCRIPTION:📍 Nad Gymnáziem\, Velké Meziříčí\, Žďár nad Sázavou\n💬 Otevření
   bytu.\n\n🚒 RZA (HS Velké Meziříčí)
+END:VEVENT
+BEGIN:VEVENT
+UID:414673061
+DTSTART:20260703T051006Z
+DTEND:20260703T061006Z
+DTSTAMP:20260703T051006Z
+SUMMARY:🛠️ ostatní - Žďár nad Sázavou
+LOCATION:Komenského\, Žďár nad Sázavou
+GEO:49.566468;15.934429
+URL:geo:49.566468,15.934429
+DESCRIPTION:📍 Komenského\, Žďár nad Sázavou 3\, Žďár nad Sázavou\n\n🚒 CAS (
+ CHS Žďár nad Sázavou)
 END:VEVENT
 END:VCALENDAR
