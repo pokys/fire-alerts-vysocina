@@ -5,30 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:414494061
-DTSTART:20260701T130649Z
-DTEND:20260701T140649Z
-DTSTAMP:20260701T130649Z
-SUMMARY:🛠️ strom - Rantířov
-LOCATION:Rantířov
-GEO:49.407733;15.526391
-URL:geo:49.407733,15.526391
-DESCRIPTION:📍 Rantířov\, Jihlava\n💬 Odstranění stromu.\n\n🚒 CAS (CHS Jihlav
- a)\n🚒 pila řetězová (CHS Jihlava) ×2
-END:VEVENT
-BEGIN:VEVENT
-UID:414495061
-DTSTART:20260701T130707Z
-DTEND:20260701T140707Z
-DTSTAMP:20260701T130707Z
-SUMMARY:🛠️ strom - Rynárec
-LOCATION:Rynárec
-GEO:49.383404;15.237145
-URL:geo:49.383404,15.237145
-DESCRIPTION:📍 Rynárec\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 CAS (CHS Pelhř
- imov)
-END:VEVENT
-BEGIN:VEVENT
 UID:414505061
 DTSTART:20260701T132616Z
 DTEND:20260701T142616Z
@@ -1120,6 +1096,19 @@ DESCRIPTION:📍 Pražská\, Havlíčkův Brod\n💬 Otevření bytu.\n\n🚒 CA
  íčkův Brod)
 END:VEVENT
 BEGIN:VEVENT
+UID:414697061
+DTSTART:20260703T105113Z
+DTEND:20260703T115113Z
+DTSTAMP:20260703T105113Z
+SUMMARY:🚗 dopravní nehoda - Kožlí
+LOCATION:Kožlí
+GEO:49.683027;15.225589
+URL:geo:49.683027,15.225589
+DESCRIPTION:📍 Kožlí\, Havlíčkův Brod\n💬 DN 1 OA mimo komunikaci\, bez zraně
+ ní. Zabezpečení havarovaného vozidla proti PO a proti úniku provozních kap
+ alin.\n\n🚒 CAS (HS Ledeč nad Sázavou)
+END:VEVENT
+BEGIN:VEVENT
 UID:414698061
 DTSTART:20260703T105625Z
 DTEND:20260703T115625Z
@@ -1128,8 +1117,8 @@ SUMMARY:🚗 dopravní nehoda - Ruda
 LOCATION:Ruda
 GEO:49.307684;16.120025
 URL:geo:49.307684,16.120025
-DESCRIPTION:📍 Lhotka\, Ruda\, Žďár nad Sázavou\n💬 DN 5 OA\, se zraněním.\n\
- n🚒 RZA (HS Velké Meziříčí)\n🚒 CAS (HS Velká Bíteš)
+DESCRIPTION:📍 Lhotka\, Ruda\, Žďár nad Sázavou\n💬 DN 5 OA\, se zraněním. Za
+ jištění místa nehody.\n\n🚒 RZA (HS Velké Meziříčí)\n🚒 CAS (HS Velká Bíteš)
 END:VEVENT
 BEGIN:VEVENT
 UID:414701061
@@ -1166,7 +1155,8 @@ LOCATION:Třebíčská\, Velké Meziříčí
 GEO:49.355058;16.010261
 URL:geo:49.355058,16.010261
 DESCRIPTION:📍 Třebíčská\, Velké Meziříčí\, Žďár nad Sázavou\n💬 DN 2 OA\, úk
- lid vozovky.\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)
+ lid vozovky. Zajištění místa nehody.\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (
+ HS Velké Meziříčí)
 END:VEVENT
 BEGIN:VEVENT
 UID:414704061
@@ -1192,5 +1182,17 @@ URL:geo:49.225178,16.050483
 DESCRIPTION:📍 Pozďatín\, Třebíč\n💬 Požár kontejneru na směsný odpad. Byla p
  rovedena lokalizace a likvidace požáru. Beze škody.\n\n🚒 CAS (HS Náměšť na
  d Oslavou)\n🚒 CAS (Pozďatín)
+END:VEVENT
+BEGIN:VEVENT
+UID:414708061
+DTSTART:20260703T130958Z
+DTEND:20260703T140958Z
+DTSTAMP:20260703T130958Z
+SUMMARY:🔥 tráva/plocha - Babice
+LOCATION:Babice
+GEO:49.135371;15.769420
+URL:geo:49.135371,15.769420
+DESCRIPTION:📍 Bolíkovice\, Babice\, Třebíč\n\n🚒 CAS (HS Moravské Budějovice
+ )\n🚒 CAS (Babice (TR))\n🚒 CAS (Čáslavice)\n🚒 CAS (Lesonice)
 END:VEVENT
 END:VCALENDAR
