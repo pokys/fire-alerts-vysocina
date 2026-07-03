@@ -933,7 +933,8 @@ GEO:49.227614;15.540808
 URL:geo:49.227614,15.540808
 DESCRIPTION:📍 Nevcehle\, Jihlava\n💬 Požár travního porostu.\n\n🚒 CAS (HS Te
  lč)\n🚒 CAS (HS Telč)\n🚒 CAS (Dlouhá Brtnice)\n🚒 CAS (Stonařov)\n🚒 DA (Nevc
- ehle)\n🚒 vyšetřovací automobil (ÚO Jihlava)
+ ehle)\n🚒 stříkačka přenosná (Nevcehle)\n🚒 vyšetřovací automobil (ÚO Jihlav
+ a)
 END:VEVENT
 BEGIN:VEVENT
 UID:414720061
@@ -1180,5 +1181,16 @@ GEO:49.494621;15.485857
 URL:geo:49.494621,15.485857
 DESCRIPTION:📍 Skorkov\, Havlíčkův Brod\n💬 Planý poplach.\n\n🚒 CAS (HS Humpo
  lec)
+END:VEVENT
+BEGIN:VEVENT
+UID:414745061
+DTSTART:20260703T201347Z
+DTEND:20260703T211347Z
+DTSTAMP:20260703T201347Z
+SUMMARY:🛠️ strom - Bílý Kámen
+LOCATION:Bílý Kámen
+GEO:49.442482;15.512769
+URL:geo:49.442482,15.512769
+DESCRIPTION:📍 Bílý Kámen\, Jihlava
 END:VEVENT
 END:VCALENDAR
