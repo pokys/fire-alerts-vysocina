@@ -378,4 +378,16 @@ URL:geo:49.247394,15.208234
 DESCRIPTION:📍 Nádražní\, Žirovnice\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 C
  AS (Žirovnice)
 END:VEVENT
+BEGIN:VEVENT
+UID:414670061
+DTSTART:20260703T020441Z
+DTEND:20260703T030441Z
+DTSTAMP:20260703T020441Z
+SUMMARY:🛠️ ostatní - Žirovnice
+LOCATION:Komenského\, Žirovnice
+GEO:49.253771;15.186821
+URL:geo:49.253771,15.186821
+DESCRIPTION:📍 Komenského\, Žirovnice\, Pelhřimov\n\n🚒 CAS (HS Kamenice nad 
+ Lipou)
+END:VEVENT
 END:VCALENDAR
