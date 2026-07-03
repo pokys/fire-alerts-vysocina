@@ -5,32 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:414505061
-DTSTART:20260701T132616Z
-DTEND:20260701T142616Z
-DTSTAMP:20260701T132616Z
-SUMMARY:⚠️ planý poplach - Nová Ves
-LOCATION:Nová Ves
-GEO:49.252840;15.789131
-URL:geo:49.252840,15.789131
-DESCRIPTION:📍 Nová Ves\, Třebíč\n💬 Požár ohlášený systémem elektrické požár
- ní signalizace. Průzkumem bylo zjištěno\, že se jedná o planý poplach.\n\n
- 🚒 CAS (CHS Třebíč)\n🚒 CAS (CHS Třebíč)\n🚒 DA (Nová Ves (TR))\n🚒 CAS (Okříš
- ky)\n🚒 CAS (Přibyslavice)\n🚒 CAS (Přibyslavice)
-END:VEVENT
-BEGIN:VEVENT
-UID:414507061
-DTSTART:20260701T132906Z
-DTEND:20260701T142906Z
-DTSTAMP:20260701T132906Z
-SUMMARY:🛠️ strom - Jihlava
-LOCATION:Pod Rozhlednou\, Jihlava
-GEO:49.428254;15.585949
-URL:geo:49.428254,15.585949
-DESCRIPTION:📍 Pod Rozhlednou\, Jihlava\n💬 Odstranění stromu.\n\n🚒 CAS (Jihl
- ava-Bedřichov)\n🚒 osobní automobil (Jihlava-Pístov)
-END:VEVENT
-BEGIN:VEVENT
 UID:414508061
 DTSTART:20260701T133724Z
 DTEND:20260701T143724Z
