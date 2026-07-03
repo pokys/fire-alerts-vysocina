@@ -1198,10 +1198,12 @@ UID:414669061
 DTSTART:20260703T001100Z
 DTEND:20260703T011100Z
 DTSTAMP:20260703T001100Z
-SUMMARY:🔥 Jihlava
+SUMMARY:⚠️ planý poplach - Jihlava
 LOCATION:Masarykovo náměstí\, Jihlava
 GEO:49.395328;15.591221
 URL:geo:49.395328,15.591221
-DESCRIPTION:📍 Masarykovo náměstí\, Jihlava\n\n🚒 CAS (CHS Jihlava) ×2
+DESCRIPTION:📍 Masarykovo náměstí\, Jihlava\n💬 Požár ohlášený systémem elekt
+ rické požární signalizace. Průzkumem bylo zjištěno\, že se jedná o planý p
+ oplach.\n\n🚒 CAS (CHS Jihlava) ×2
 END:VEVENT
 END:VCALENDAR
