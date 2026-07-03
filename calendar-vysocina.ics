@@ -5,30 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:414541061
-DTSTART:20260701T164658Z
-DTEND:20260701T174658Z
-DTSTAMP:20260701T164658Z
-SUMMARY:🛠️ strom - Smrčná
-LOCATION:Smrčná
-GEO:49.462661;15.530705
-URL:geo:49.462661,15.530705
-DESCRIPTION:📍 Smrčná\, Jihlava\n💬 Odstranění stromu.\n\n🚒 AŽ (CHS Pelhřimov
- )\n🚒 CAS (HS Humpolec)
-END:VEVENT
-BEGIN:VEVENT
-UID:414542061
-DTSTART:20260701T165156Z
-DTEND:20260701T175156Z
-DTSTAMP:20260701T165156Z
-SUMMARY:🛠️ obtížný hmyz - Lipnice nad Sázavou
-LOCATION:Lipnice nad Sázavou
-GEO:49.615202;15.413840
-URL:geo:49.615202,15.413840
-DESCRIPTION:📍 Lipnice nad Sázavou\, Havlíčkův Brod\n💬 Odstranění obtížného 
- hmyzu.\n\n🚒 DA (Lipnice nad Sázavou)
-END:VEVENT
-BEGIN:VEVENT
 UID:414543061
 DTSTART:20260701T170402Z
 DTEND:20260701T180402Z
@@ -986,13 +962,13 @@ UID:414719061
 DTSTART:20260703T145812Z
 DTEND:20260703T155812Z
 DTSTAMP:20260703T145812Z
-SUMMARY:🔥 les - Nevcehle
+SUMMARY:🔥 tráva/plocha - Nevcehle
 LOCATION:Nevcehle
 GEO:49.227614;15.540808
 URL:geo:49.227614,15.540808
-DESCRIPTION:📍 Nevcehle\, Jihlava\n💬 Požár lesní paseky.\n\n🚒 CAS (HS Telč)\
- n🚒 CAS (HS Telč)\n🚒 CAS (Dlouhá Brtnice)\n🚒 CAS (Stonařov)\n🚒 DA (Nevcehle
- )\n🚒 vyšetřovací automobil (ÚO Jihlava)
+DESCRIPTION:📍 Nevcehle\, Jihlava\n💬 Požár travního porostu.\n\n🚒 CAS (HS Te
+ lč)\n🚒 CAS (HS Telč)\n🚒 CAS (Dlouhá Brtnice)\n🚒 CAS (Stonařov)\n🚒 DA (Nevc
+ ehle)\n🚒 vyšetřovací automobil (ÚO Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:414720061
@@ -1053,7 +1029,8 @@ SUMMARY:🛠️ obtížný hmyz - Kralice nad Oslavou
 LOCATION:Kralice nad Oslavou
 GEO:49.212689;16.203930
 URL:geo:49.212689,16.203930
-DESCRIPTION:📍 Kralice nad Oslavou\, Třebíč\n\n🚒 CAS (HS Náměšť nad Oslavou)
+DESCRIPTION:📍 Kralice nad Oslavou\, Třebíč\n💬 Odstranění obtížného hmyzu.\n
+ \n🚒 CAS (HS Náměšť nad Oslavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:414727061
@@ -1064,7 +1041,8 @@ SUMMARY:🛠️ obtížný hmyz - Mohelno
 LOCATION:Mohelno
 GEO:49.115789;16.186855
 URL:geo:49.115789,16.186855
-DESCRIPTION:📍 Mohelno\, Třebíč\n\n🚒 nákladní automobil do 3500 kg (Mohelno)
+DESCRIPTION:📍 Mohelno\, Třebíč\n💬 Odstranění obtížného hmyzu.\n\n🚒 nákladní
+  automobil do 3500 kg (Mohelno)
 END:VEVENT
 BEGIN:VEVENT
 UID:414728061
@@ -1075,7 +1053,8 @@ SUMMARY:🛠️ obtížný hmyz - Čáslavice
 LOCATION:Čáslavice
 GEO:49.144841;15.750897
 URL:geo:49.144841,15.750897
-DESCRIPTION:📍 Čáslavice\, Třebíč\n\n🚒 CAS (Želetava)
+DESCRIPTION:📍 Čáslavice\, Třebíč\n💬 Odstranění obtížného hmyzu.\n\n🚒 CAS (Ž
+ eletava)
 END:VEVENT
 BEGIN:VEVENT
 UID:414729061
@@ -1088,5 +1067,16 @@ GEO:49.334892;14.974938
 URL:geo:49.334892,14.974938
 DESCRIPTION:📍 Chválkov\, Mnich\, Pelhřimov\n💬 Odstranění obtížného hmyzu.\n
  \n🚒 CAS (Černovice)
+END:VEVENT
+BEGIN:VEVENT
+UID:414730061
+DTSTART:20260703T164104Z
+DTEND:20260703T174104Z
+DTSTAMP:20260703T164104Z
+SUMMARY:🚗 dopravní nehoda - Štoky
+LOCATION:Štoky
+GEO:49.505925;15.548937
+URL:geo:49.505925,15.548937
+DESCRIPTION:📍 Petrovice\, Štoky\, Havlíčkův Brod
 END:VEVENT
 END:VCALENDAR
