@@ -5,42 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:414537061
-DTSTART:20260701T163512Z
-DTEND:20260701T173512Z
-DTSTAMP:20260701T163512Z
-SUMMARY:🛠️ strom - Rantířov
-LOCATION:Rantířov
-GEO:49.403870;15.516288
-URL:geo:49.403870,15.516288
-DESCRIPTION:📍 Rantířov\, Jihlava\n💬 Odstranění stromu.\n\n🚒 CAS (CHS Jihlav
- a)\n🚒 pila řetězová (CHS Jihlava) ×2
-END:VEVENT
-BEGIN:VEVENT
-UID:414538061
-DTSTART:20260701T163520Z
-DTEND:20260701T173520Z
-DTSTAMP:20260701T163520Z
-SUMMARY:🛠️ strom - Vyskytná nad Jihlavou
-LOCATION:Vyskytná nad Jihlavou
-GEO:49.403384;15.511909
-URL:geo:49.403384,15.511909
-DESCRIPTION:📍 Rounek\, Vyskytná nad Jihlavou\, Jihlava\n💬 Odstranění stromu
- .\n\n🚒 CAS (CHS Jihlava)\n🚒 pila řetězová (CHS Jihlava) ×2
-END:VEVENT
-BEGIN:VEVENT
-UID:414539061
-DTSTART:20260701T163815Z
-DTEND:20260701T173815Z
-DTSTAMP:20260701T163815Z
-SUMMARY:🛠️ otevření bytu/auta - Humpolec
-LOCATION:U Sokolovny\, Humpolec
-GEO:49.537984;15.351253
-URL:geo:49.537984,15.351253
-DESCRIPTION:📍 U Sokolovny\, Humpolec\, Pelhřimov\n💬 Otevření bytu.\n\n🚒 CAS
-  (HS Humpolec)\n🚒 CAS (CHS Pelhřimov)
-END:VEVENT
-BEGIN:VEVENT
 UID:414541061
 DTSTART:20260701T164658Z
 DTEND:20260701T174658Z
@@ -966,6 +930,7 @@ GEO:49.629994;16.248497
 URL:geo:49.629994,16.248497
 DESCRIPTION:📍 Trhonice\, Jimramov\, Žďár nad Sázavou\n💬 DN 1 NA\, uvolnění 
  komunikace. Zajištění místa nehody.\n\n🚒 CAS (HS Bystřice nad Pernštejnem)
+ \n🚒 CAS (HS Polička)
 END:VEVENT
 BEGIN:VEVENT
 UID:414715061
@@ -1062,19 +1027,66 @@ SUMMARY:🚗 dopravní nehoda - Služátky
 LOCATION:Služátky
 GEO:49.683417;15.416594
 URL:geo:49.683417,15.416594
-DESCRIPTION:📍 Služátky\, Havlíčkův Brod\n\n🚒 CAS (HS Světlá nad Sázavou)
+DESCRIPTION:📍 Služátky\, Havlíčkův Brod\n💬 DN motocyklu\, 1 zraněná osoba. 
+ Předlékařská pomoc zraněné osobě do příjezdu ZZS. Protipožární opatření.\n
+ \n🚒 CAS (HS Světlá nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:414724061
 DTSTART:20260703T153201Z
 DTEND:20260703T163201Z
 DTSTAMP:20260703T153201Z
-SUMMARY:🚗 dopravní nehoda - Okarec
+SUMMARY:🚗 bez zranění - Okarec
 LOCATION:Okarec
 GEO:49.216195;16.094061
 URL:geo:49.216195,16.094061
 DESCRIPTION:📍 Okarec\, Třebíč\n💬 DN 1 OA mimo vozovku bez zranění. Zabezpeč
  ení havarovaného vozidla proti PO a proti úniku provozních kapalin.\n\n🚒 C
  AS (HS Náměšť nad Oslavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:414726061
+DTSTART:20260703T161530Z
+DTEND:20260703T171530Z
+DTSTAMP:20260703T161530Z
+SUMMARY:🛠️ obtížný hmyz - Kralice nad Oslavou
+LOCATION:Kralice nad Oslavou
+GEO:49.212689;16.203930
+URL:geo:49.212689,16.203930
+DESCRIPTION:📍 Kralice nad Oslavou\, Třebíč\n\n🚒 CAS (HS Náměšť nad Oslavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:414727061
+DTSTART:20260703T162019Z
+DTEND:20260703T172019Z
+DTSTAMP:20260703T162019Z
+SUMMARY:🛠️ obtížný hmyz - Mohelno
+LOCATION:Mohelno
+GEO:49.115789;16.186855
+URL:geo:49.115789,16.186855
+DESCRIPTION:📍 Mohelno\, Třebíč\n\n🚒 nákladní automobil do 3500 kg (Mohelno)
+END:VEVENT
+BEGIN:VEVENT
+UID:414728061
+DTSTART:20260703T162022Z
+DTEND:20260703T172022Z
+DTSTAMP:20260703T162022Z
+SUMMARY:🛠️ obtížný hmyz - Čáslavice
+LOCATION:Čáslavice
+GEO:49.144841;15.750897
+URL:geo:49.144841,15.750897
+DESCRIPTION:📍 Čáslavice\, Třebíč\n\n🚒 CAS (Želetava)
+END:VEVENT
+BEGIN:VEVENT
+UID:414729061
+DTSTART:20260703T162738Z
+DTEND:20260703T172738Z
+DTSTAMP:20260703T162738Z
+SUMMARY:🛠️ obtížný hmyz - Mnich
+LOCATION:Mnich
+GEO:49.334892;14.974938
+URL:geo:49.334892,14.974938
+DESCRIPTION:📍 Chválkov\, Mnich\, Pelhřimov\n💬 Odstranění obtížného hmyzu.\n
+ \n🚒 CAS (Černovice)
 END:VEVENT
 END:VCALENDAR
