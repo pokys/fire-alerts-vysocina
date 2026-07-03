@@ -1193,8 +1193,8 @@ SUMMARY:🛠️ ostatní - Žirovnice
 LOCATION:Komenského\, Žirovnice
 GEO:49.253771;15.186821
 URL:geo:49.253771,15.186821
-DESCRIPTION:📍 Komenského\, Žirovnice\, Pelhřimov\n\n🚒 CAS (HS Kamenice nad 
- Lipou)
+DESCRIPTION:📍 Komenského\, Žirovnice\, Pelhřimov\n💬 Pomoc imobilní osobě.\n
+ \n🚒 CAS (HS Kamenice nad Lipou)
 END:VEVENT
 BEGIN:VEVENT
 UID:414671061
@@ -1205,7 +1205,7 @@ SUMMARY:🚑 otevření/asistence - Velké Meziříčí
 LOCATION:Nad Gymnáziem\, Velké Meziříčí
 GEO:49.353204;16.021746
 URL:geo:49.353204,16.021746
-DESCRIPTION:📍 Nad Gymnáziem\, Velké Meziříčí\, Žďár nad Sázavou\n\n🚒 RZA (H
- S Velké Meziříčí)
+DESCRIPTION:📍 Nad Gymnáziem\, Velké Meziříčí\, Žďár nad Sázavou\n💬 Otevření
+  bytu.\n\n🚒 RZA (HS Velké Meziříčí)
 END:VEVENT
 END:VCALENDAR
