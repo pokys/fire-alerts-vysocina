@@ -1142,6 +1142,19 @@ SUMMARY:🛠️ ostatní - Pelhřimov
 LOCATION:Dolnokubínská\, Pelhřimov
 GEO:49.435325;15.211296
 URL:geo:49.435325,15.211296
-DESCRIPTION:📍 Dolnokubínská\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)
+DESCRIPTION:📍 Dolnokubínská\, Pelhřimov\n💬 Pomoc imobilní osobě.\n\n🚒 CAS (
+ CHS Pelhřimov)
+END:VEVENT
+BEGIN:VEVENT
+UID:414741061
+DTSTART:20260703T185451Z
+DTEND:20260703T195451Z
+DTSTAMP:20260703T185451Z
+SUMMARY:🛠️ otevření bytu/auta - Pelhřimov
+LOCATION:Osvobození\, Pelhřimov
+GEO:49.437750;15.208725
+URL:geo:49.437750,15.208725
+DESCRIPTION:📍 Osvobození\, Pelhřimov\n💬 Otevření bytu.\n\n🚒 CAS (CHS Pelhři
+ mov)
 END:VEVENT
 END:VCALENDAR
