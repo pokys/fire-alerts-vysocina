@@ -1053,10 +1053,10 @@ SUMMARY:🚑 transport pacienta - Nové Město na Moravě
 LOCATION:Nové Město na Moravě
 GEO:49.615307;16.081176
 URL:geo:49.615307,16.081176
-DESCRIPTION:📍 Studnice\, Nové Město na Moravě\, Žďár nad Sázavou\n\n🚒 CAS (
- CHS Žďár nad Sázavou)\n🚒 VEA (CHS Žďár nad Sázavou)\n🚒 vozidlo účelové - S
- xS (CHS Žďár nad Sázavou)\n🚒 přívěs nákladní (CHS Žďár nad Sázavou)\n🚒 TA 
- (Nové Město na Moravě)
+DESCRIPTION:📍 Studnice\, Nové Město na Moravě\, Žďár nad Sázavou\n💬 Transpo
+ rt pacienta na žádost ZZS z terénu.\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 VEA
+  (CHS Žďár nad Sázavou)\n🚒 vozidlo účelové - SxS (CHS Žďár nad Sázavou)\n🚒
+  přívěs nákladní (CHS Žďár nad Sázavou)\n🚒 TA (Nové Město na Moravě)
 END:VEVENT
 BEGIN:VEVENT
 UID:414732061
@@ -1099,10 +1099,24 @@ UID:414736061
 DTSTART:20260703T172808Z
 DTEND:20260703T182808Z
 DTSTAMP:20260703T172808Z
-SUMMARY:🚗 se zraněním - Chotěboř
+SUMMARY:⚠️ planý poplach - Chotěboř
 LOCATION:Krále Jana\, Chotěboř
 GEO:49.715351;15.672200
 URL:geo:49.715351,15.672200
-DESCRIPTION:📍 Krále Jana\, Chotěboř\, Havlíčkův Brod\n\n🚒 CAS (HS Chotěboř)
+DESCRIPTION:📍 Krále Jana\, Chotěboř\, Havlíčkův Brod\n💬 Dopravní nehoda hlá
+ šena iPhonem\, průzkumem zjištěno\, že je jedná o planý poplach.\n\n🚒 CAS 
+ (HS Chotěboř)
+END:VEVENT
+BEGIN:VEVENT
+UID:414737061
+DTSTART:20260703T175307Z
+DTEND:20260703T185307Z
+DTSTAMP:20260703T175307Z
+SUMMARY:🚑 otevření/asistence - Ledeč nad Sázavou
+LOCATION:Tyršovo nábřeží\, Ledeč nad Sázavou
+GEO:49.694399;15.273316
+URL:geo:49.694399,15.273316
+DESCRIPTION:📍 Tyršovo nábřeží\, Ledeč nad Sázavou\, Havlíčkův Brod\n\n🚒 CAS
+  (HS Ledeč nad Sázavou)
 END:VEVENT
 END:VCALENDAR
