@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:414475061
-DTSTART:20260701T120652Z
-DTEND:20260701T130652Z
-DTSTAMP:20260701T120652Z
-SUMMARY:🛠️ strom - Nový Rychnov
-LOCATION:Nový Rychnov
-GEO:49.385902;15.382262
-URL:geo:49.385902,15.382262
-DESCRIPTION:📍 Nový Rychnov\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 DA (Nový 
- Rychnov)
-END:VEVENT
-BEGIN:VEVENT
 UID:414476061
 DTSTART:20260701T120742Z
 DTEND:20260701T130742Z
@@ -1163,7 +1151,7 @@ LOCATION:Žďár nad Sázavou
 GEO:49.599826;15.928319
 URL:geo:49.599826,15.928319
 DESCRIPTION:📍 Stržanov\, Žďár nad Sázavou\n💬 Odstranění stromu.\n\n🚒 CAS (Ž
- ďár nad Sázavou-Zámek)\n🚒 CAS (Polnička)
+ ďár nad Sázavou-Zámek)\n🚒 CAS (Polnička)\n🚒 pila řetězová (Polnička)
 END:VEVENT
 BEGIN:VEVENT
 UID:414675061
@@ -1202,6 +1190,18 @@ DESCRIPTION:📍 Bolešín\, Věstín\, Žďár nad Sázavou\n💬 Odstranění 
  🚒 osobní automobil (Věstín-Bolešín)\n🚒 CAS (Štěpánov nad Svratkou)
 END:VEVENT
 BEGIN:VEVENT
+UID:414686061
+DTSTART:20260703T082724Z
+DTEND:20260703T092724Z
+DTSTAMP:20260703T082724Z
+SUMMARY:🛠️ obtížný hmyz - Měřín
+LOCATION:Pod Dálnicí\, Měřín
+GEO:49.391731;15.895300
+URL:geo:49.391731,15.895300
+DESCRIPTION:📍 Pod Dálnicí\, Měřín\, Žďár nad Sázavou\n\n🚒 CAS (Měřín)\n🚒 CA
+ S (HS Velké Meziříčí)
+END:VEVENT
+BEGIN:VEVENT
 UID:414687061
 DTSTART:20260703T083235Z
 DTEND:20260703T093235Z
@@ -1210,6 +1210,6 @@ SUMMARY:🛠️ otevření bytu/auta - Jihlava
 LOCATION:Okružní\, Jihlava
 GEO:49.403357;15.603577
 URL:geo:49.403357,15.603577
-DESCRIPTION:📍 Okružní\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+DESCRIPTION:📍 Okružní\, Jihlava\n💬 Spolupráce s PČR.\n\n🚒 CAS (CHS Jihlava)
 END:VEVENT
 END:VCALENDAR
