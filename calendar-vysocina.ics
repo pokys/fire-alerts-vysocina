@@ -1116,7 +1116,20 @@ SUMMARY:🚑 otevření/asistence - Ledeč nad Sázavou
 LOCATION:Tyršovo nábřeží\, Ledeč nad Sázavou
 GEO:49.694399;15.273316
 URL:geo:49.694399,15.273316
-DESCRIPTION:📍 Tyršovo nábřeží\, Ledeč nad Sázavou\, Havlíčkův Brod\n\n🚒 CAS
-  (HS Ledeč nad Sázavou)
+DESCRIPTION:📍 Tyršovo nábřeží\, Ledeč nad Sázavou\, Havlíčkův Brod\n💬 Otevř
+ ení osobního automobilu.\n\n🚒 CAS (HS Ledeč nad Sázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:414738061
+DTSTART:20260703T175427Z
+DTEND:20260703T185427Z
+DTSTAMP:20260703T175427Z
+SUMMARY:⚠️ planý poplach - Golčův Jeníkov
+LOCATION:V Zahradách\, Golčův Jeníkov
+GEO:49.816548;15.479103
+URL:geo:49.816548,15.479103
+DESCRIPTION:📍 V Zahradách\, Golčův Jeníkov\, Havlíčkův Brod\n💬 Požár ohláše
+ ný systémem elektrické požární signalizace. Průzkumem bylo zjištěno\, že s
+ e jedná o planý poplach.\n\n🚒 CAS (Golčův Jeníkov)
 END:VEVENT
 END:VCALENDAR
