@@ -1075,6 +1075,18 @@ DESCRIPTION:📍 Skorkov\, Havlíčkův Brod\n💬 Planý poplach.\n\n🚒 CAS (
  lec)
 END:VEVENT
 BEGIN:VEVENT
+UID:414744061
+DTSTART:20260703T193451Z
+DTEND:20260703T203451Z
+DTSTAMP:20260703T193451Z
+SUMMARY:🔥 budova - Jihlava
+LOCATION:Jarní\, Jihlava
+GEO:49.405017;15.559539
+URL:geo:49.405017,15.559539
+DESCRIPTION:📍 Jarní\, Horní Kosov\, Jihlava\n\n🚒 vyšetřovací automobil (ÚO 
+ Jihlava)
+END:VEVENT
+BEGIN:VEVENT
 UID:414749061
 DTSTART:20260703T221807Z
 DTEND:20260703T231807Z
@@ -1179,7 +1191,31 @@ SUMMARY:🛠️ obtížný hmyz - Velká Bíteš
 LOCATION:U Stadionu\, Velká Bíteš
 GEO:49.293046;16.223329
 URL:geo:49.293046,16.223329
-DESCRIPTION:📍 U Stadionu\, Velká Bíteš\, Žďár nad Sázavou\n\n🚒 CAS (HS Velk
- á Bíteš)
+DESCRIPTION:📍 U Stadionu\, Velká Bíteš\, Žďár nad Sázavou\n💬 Odstranění obt
+ ížného hmyzu.\n\n🚒 CAS (HS Velká Bíteš)
+END:VEVENT
+BEGIN:VEVENT
+UID:414760061
+DTSTART:20260704T073920Z
+DTEND:20260704T083920Z
+DTSTAMP:20260704T073920Z
+SUMMARY:🛠️ ostatní - Košetice
+LOCATION:Nad Kachlířkou\, Košetice
+GEO:49.561171;15.112201
+URL:geo:49.561171,15.112201
+DESCRIPTION:📍 Nad Kachlířkou\, Košetice\, Pelhřimov\n💬 ZOČ.\n\n🚒 CAS (Košet
+ ice)
+END:VEVENT
+BEGIN:VEVENT
+UID:414761061
+DTSTART:20260704T074624Z
+DTEND:20260704T084624Z
+DTSTAMP:20260704T074624Z
+SUMMARY:🛠️ obtížný hmyz - Světlá nad Sázavou
+LOCATION:V Polích\, Světlá nad Sázavou
+GEO:49.679738;15.388951
+URL:geo:49.679738,15.388951
+DESCRIPTION:📍 V Polích\, Světlá nad Sázavou\, Havlíčkův Brod\n\n🚒 CAS (Svět
+ lá nad Sázavou)
 END:VEVENT
 END:VCALENDAR
