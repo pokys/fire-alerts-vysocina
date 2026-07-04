@@ -995,7 +995,8 @@ LOCATION:Štoky
 GEO:49.505925;15.548937
 URL:geo:49.505925,15.548937
 DESCRIPTION:📍 Petrovice\, Štoky\, Havlíčkův Brod\n💬 Dopravní nehoda skútru 
- se zraněním 1 osoby. Zajištění místa.\n\n🚒 CAS (CHS Havlíčkův Brod)
+ se zraněním 1 osoby. Zajištění místa události.\n\n🚒 CAS (CHS Havlíčkův Bro
+ d)
 END:VEVENT
 BEGIN:VEVENT
 UID:414731061
@@ -1154,7 +1155,7 @@ SUMMARY:🛠️ otevření bytu/auta - Velká Bíteš
 LOCATION:Jihlavská\, Velká Bíteš
 GEO:49.287900;16.209223
 URL:geo:49.287900,16.209223
-DESCRIPTION:📍 Jihlavská\, Velká Bíteš\, Žďár nad Sázavou\n\n🚒 CAS (HS Velká
-  Bíteš)
+DESCRIPTION:📍 Jihlavská\, Velká Bíteš\, Žďár nad Sázavou\n💬 Otevření bytu.\
+ n\n🚒 CAS (HS Velká Bíteš)
 END:VEVENT
 END:VCALENDAR
