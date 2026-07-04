@@ -1163,7 +1163,7 @@ LOCATION:Petrovická\, Nové Město na Moravě
 GEO:49.554122;16.070707
 URL:geo:49.554122,16.070707
 DESCRIPTION:📍 Petrovická\, Nové Město na Moravě\, Žďár nad Sázavou\n💬 Čerpá
- ní vody.\n\n🚒 CAS (Nové Město na Moravě)
+ ní vody.\n\n🚒 CAS (Nové Město na Moravě)\n🚒 VEA (CHS Žďár nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:414788061
@@ -1172,8 +1172,8 @@ DTEND:20260704T162556Z
 DTSTAMP:20260704T152556Z
 SUMMARY:🛠️ obtížný hmyz - Dolní Vilímeč
 LOCATION:Dolní Vilímeč
-GEO:49.135887;15.520438
-URL:geo:49.135887,15.520438
+GEO:49.131814;15.535683
+URL:geo:49.131814,15.535683
 DESCRIPTION:📍 Dolní Vilímeč\, Jihlava\n💬 Odstranění obtížného hmyzu.\n\n🚒 C
  AS (HS Telč)
 END:VEVENT
@@ -1186,6 +1186,18 @@ SUMMARY:🚗 dopravní nehoda - Jihlava
 LOCATION:Jihlava
 GEO:49.403734;15.622842
 URL:geo:49.403734,15.622842
-DESCRIPTION:🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihlava)
+DESCRIPTION:💬 DN elektrokoloběžky se zraněním jedné osoby. Zajištění místa 
+ události.\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihlava)
+END:VEVENT
+BEGIN:VEVENT
+UID:414790061
+DTSTART:20260704T155911Z
+DTEND:20260704T165911Z
+DTSTAMP:20260704T155911Z
+SUMMARY:🛠️ otevření bytu/auta - Jihlava
+LOCATION:Jana Masaryka\, Jihlava
+GEO:49.398727;15.588741
+URL:geo:49.398727,15.588741
+DESCRIPTION:📍 Jana Masaryka\, Jihlava\n\n🚒 CAS (CHS Jihlava)
 END:VEVENT
 END:VCALENDAR
