@@ -5,30 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:414711061
-DTSTART:20260703T135713Z
-DTEND:20260703T145713Z
-DTSTAMP:20260703T135713Z
-SUMMARY:🛠️ obtížný hmyz - Hořice
-LOCATION:Hořice
-GEO:49.600552;15.185130
-URL:geo:49.600552,15.185130
-DESCRIPTION:📍 Hořice\, Pelhřimov\n💬 Odstranění obtížného hmyzu.\n\n🚒 CAS (S
- enožaty)
-END:VEVENT
-BEGIN:VEVENT
-UID:414712061
-DTSTART:20260703T135725Z
-DTEND:20260703T145725Z
-DTSTAMP:20260703T135725Z
-SUMMARY:🚑 transport pacienta - Humpolec
-LOCATION:Jana Zábrany\, Humpolec
-GEO:49.543450;15.357960
-URL:geo:49.543450,15.357960
-DESCRIPTION:📍 Jana Zábrany\, Humpolec\, Pelhřimov\n💬 Transport pacienta na 
- žádost ZZS.\n\n🚒 CAS (HS Humpolec)
-END:VEVENT
-BEGIN:VEVENT
 UID:414713061
 DTSTART:20260703T140504Z
 DTEND:20260703T150504Z
@@ -918,7 +894,7 @@ SUMMARY:🛠️ otevření bytu/auta - Nové Město na Moravě
 LOCATION:Žďárská\, Nové Město na Moravě
 GEO:49.562496;16.065535
 URL:geo:49.562496,16.065535
-DESCRIPTION:📍 Žďárská\, Nové Město na Moravě\, Žďár nad Sázavou\n\n🚒 CAS (C
- HS Žďár nad Sázavou)
+DESCRIPTION:📍 Žďárská\, Nové Město na Moravě\, Žďár nad Sázavou\n💬 Otevření
+  bytu.\n\n🚒 CAS (CHS Žďár nad Sázavou)
 END:VEVENT
 END:VCALENDAR
