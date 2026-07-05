@@ -684,8 +684,9 @@ SUMMARY:🔥 vozidlo - Čáslavice
 LOCATION:Čáslavice
 GEO:49.153039;15.777389
 URL:geo:49.153039,15.777389
-DESCRIPTION:📍 Čáslavice\, Třebíč\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (Čáslavice)\n
- 🚒 vyšetřovací automobil (ÚO Třebíč)
+DESCRIPTION:📍 Čáslavice\, Třebíč\n💬 Požár OA se zraněním jedné osoby. Jedno
+ tky provedly lokalizaci a likvidaci požáru.\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (
+ Čáslavice)\n🚒 vyšetřovací automobil (ÚO Třebíč)
 END:VEVENT
 BEGIN:VEVENT
 UID:414807061
@@ -757,7 +758,7 @@ LOCATION:Poštovní\, Světlá nad Sázavou
 GEO:49.669165;15.407718
 URL:geo:49.669165,15.407718
 DESCRIPTION:📍 Poštovní\, Světlá nad Sázavou\, Havlíčkův Brod\n💬 Odstranění 
- stromu.\n\n🚒 DA (Světlá nad Sázavou)
+ stromu.\n\n🚒 DA (Světlá nad Sázavou)\n🚒 CAS (Světlá nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:414816061
@@ -768,8 +769,8 @@ SUMMARY:☣️ olej/PHM - Moravské Budějovice
 LOCATION:Mánesova\, Moravské Budějovice
 GEO:49.046708;15.814065
 URL:geo:49.046708,15.814065
-DESCRIPTION:📍 Mánesova\, Moravské Budějovice\, Třebíč\n\n🚒 CAS (HS Moravské
-  Budějovice)
+DESCRIPTION:📍 Mánesova\, Moravské Budějovice\, Třebíč\n💬 Likvidace olejové 
+ skvrny na komunikaci.\n\n🚒 CAS (HS Moravské Budějovice)
 END:VEVENT
 BEGIN:VEVENT
 UID:414817061
