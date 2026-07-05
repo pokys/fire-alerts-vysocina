@@ -5,31 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:414737061
-DTSTART:20260703T175307Z
-DTEND:20260703T185307Z
-DTSTAMP:20260703T175307Z
-SUMMARY:🚑 otevření/asistence - Ledeč nad Sázavou
-LOCATION:Tyršovo nábřeží\, Ledeč nad Sázavou
-GEO:49.694399;15.273316
-URL:geo:49.694399,15.273316
-DESCRIPTION:📍 Tyršovo nábřeží\, Ledeč nad Sázavou\, Havlíčkův Brod\n💬 Otevř
- ení osobního automobilu.\n\n🚒 CAS (HS Ledeč nad Sázavou)
-END:VEVENT
-BEGIN:VEVENT
-UID:414738061
-DTSTART:20260703T175427Z
-DTEND:20260703T185427Z
-DTSTAMP:20260703T175427Z
-SUMMARY:⚠️ planý poplach - Golčův Jeníkov
-LOCATION:V Zahradách\, Golčův Jeníkov
-GEO:49.816548;15.479103
-URL:geo:49.816548,15.479103
-DESCRIPTION:📍 V Zahradách\, Golčův Jeníkov\, Havlíčkův Brod\n💬 Požár ohláše
- ný systémem elektrické požární signalizace. Průzkumem bylo zjištěno\, že s
- e jedná o planý poplach.\n\n🚒 CAS (Golčův Jeníkov)
-END:VEVENT
-BEGIN:VEVENT
 UID:414739061
 DTSTART:20260703T183819Z
 DTEND:20260703T193819Z
@@ -713,13 +688,14 @@ UID:414818061
 DTSTART:20260705T170016Z
 DTEND:20260705T180016Z
 DTSTAMP:20260705T170016Z
-SUMMARY:🔥 les - Nové Město na Moravě
+SUMMARY:⚠️ planý poplach - Nové Město na Moravě
 LOCATION:Nové Město na Moravě
 GEO:49.592555;16.061299
 URL:geo:49.592555,16.061299
-DESCRIPTION:📍 Rokytno\, Nové Město na Moravě\, Žďár nad Sázavou\n\n🚒 CAS (C
- HS Žďár nad Sázavou)\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (Nové Město na M
- oravě)\n🚒 DA (Nové Město na Moravě-Rokytno)\n🚒 DA (Sněžné)\n🚒 CAS (Sněžné)
+DESCRIPTION:📍 Rokytno\, Nové Město na Moravě\, Žďár nad Sázavou\n💬 Planý po
+ plach.\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CA
+ S (Nové Město na Moravě)\n🚒 DA (Nové Město na Moravě-Rokytno)\n🚒 DA (Sněžn
+ é)\n🚒 CAS (Sněžné)
 END:VEVENT
 BEGIN:VEVENT
 UID:414819061
@@ -732,5 +708,16 @@ GEO:49.665976;15.394815
 URL:geo:49.665976,15.394815
 DESCRIPTION:📍 Sázavská\, Světlá nad Sázavou\, Havlíčkův Brod\n\n🚒 CAS (HS S
  větlá nad Sázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:414821061
+DTSTART:20260705T173334Z
+DTEND:20260705T183334Z
+DTSTAMP:20260705T173334Z
+SUMMARY:🚑 spolupráce ZZS - Obyčtov
+LOCATION:Obyčtov
+GEO:49.502050;15.994892
+URL:geo:49.502050,15.994892
+DESCRIPTION:📍 Obyčtov\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad Sázavou)
 END:VEVENT
 END:VCALENDAR
