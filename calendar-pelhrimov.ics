@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Pelhřimov
 BEGIN:VEVENT
-UID:414741061
-DTSTART:20260703T185451Z
-DTEND:20260703T195451Z
-DTSTAMP:20260703T185451Z
-SUMMARY:🛠️ otevření bytu/auta - Pelhřimov
-LOCATION:Osvobození\, Pelhřimov
-GEO:49.437750;15.208725
-URL:geo:49.437750,15.208725
-DESCRIPTION:📍 Osvobození\, Pelhřimov\n💬 Otevření bytu.\n\n🚒 CAS (CHS Pelhři
- mov)
-END:VEVENT
-BEGIN:VEVENT
 UID:414760061
 DTSTART:20260704T073920Z
 DTEND:20260704T083920Z
@@ -169,6 +157,7 @@ SUMMARY:🛠️ strom - Červená Řečice
 LOCATION:Červená Řečice
 GEO:49.507870;15.190630
 URL:geo:49.507870,15.190630
-DESCRIPTION:📍 Červená Řečice\, Pelhřimov\n\n🚒 CAS (Červená Řečice)
+DESCRIPTION:📍 Červená Řečice\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 CAS (Če
+ rvená Řečice)
 END:VEVENT
 END:VCALENDAR
