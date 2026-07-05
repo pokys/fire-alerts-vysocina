@@ -933,4 +933,16 @@ URL:geo:49.153039,15.777389
 DESCRIPTION:📍 Čáslavice\, Třebíč\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (Čáslavice)\n
  🚒 vyšetřovací automobil (ÚO Třebíč)
 END:VEVENT
+BEGIN:VEVENT
+UID:414807061
+DTSTART:20260705T123826Z
+DTEND:20260705T133826Z
+DTSTAMP:20260705T123826Z
+SUMMARY:🚑 transport pacienta - Žirovnice
+LOCATION:Sídliště\, Žirovnice
+GEO:49.252400;15.197694
+URL:geo:49.252400,15.197694
+DESCRIPTION:📍 Sídliště\, Žirovnice\, Pelhřimov\n💬 Transport pacienta na žád
+ ost ZZS.\n\n🚒 CAS (HS Kamenice nad Lipou)\n🚒 CAS (Žirovnice)
+END:VEVENT
 END:VCALENDAR
