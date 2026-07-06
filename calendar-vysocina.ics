@@ -634,7 +634,7 @@ SUMMARY:🚑 spolupráce ZZS - Obyčtov
 LOCATION:Obyčtov
 GEO:49.502050;15.994892
 URL:geo:49.502050,15.994892
-DESCRIPTION:📍 Obyčtov\, Žďár nad Sázavou\n💬 AED na žádost ZZS.\n\n🚒 CAS (CH
+DESCRIPTION:📍 Obyčtov\, Žďár nad Sázavou\n💬 Spolupráce se ZZS.\n\n🚒 CAS (CH
  S Žďár nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
@@ -707,7 +707,7 @@ LOCATION:Hradecká\, Telč
 GEO:49.181519;15.448941
 URL:geo:49.181519,15.448941
 DESCRIPTION:📍 Hradecká\, Telč-Staré Město\, Telč\, Jihlava\n💬 Transport pac
- ienta pro ZZS.\n\n🚒 CAS (HS Telč)
+ ienta na žádost ZZS.\n\n🚒 CAS (HS Telč)
 END:VEVENT
 BEGIN:VEVENT
 UID:414829061
@@ -718,7 +718,7 @@ SUMMARY:🛠️ strom - Krásná Hora
 LOCATION:Krásná Hora
 GEO:49.592474;15.458016
 URL:geo:49.592474,15.458016
-DESCRIPTION:📍 Čekánov\, Krásná Hora\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčků
- v Brod)
+DESCRIPTION:📍 Čekánov\, Krásná Hora\, Havlíčkův Brod\n💬 Odstranění stromu.\
+ n\n🚒 CAS (CHS Havlíčkův Brod)
 END:VEVENT
 END:VCALENDAR
