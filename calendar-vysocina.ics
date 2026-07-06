@@ -539,8 +539,7 @@ LOCATION:Sulkovec
 GEO:49.611263;16.310127
 URL:geo:49.611263,16.310127
 DESCRIPTION:📍 Sulkovec\, Žďár nad Sázavou\n💬 Asisitence ZZS po kolapsu osob
- y.\n\n🚒 DA (Jimramov)\n🚒 CAS (Jimramov)\n🚒 CAS (HS Bystřice nad Pernštejne
- m)
+ y.\n\n🚒 DA (Jimramov)\n🚒 CAS (HS Bystřice nad Pernštejnem)
 END:VEVENT
 BEGIN:VEVENT
 UID:414834061
@@ -559,11 +558,11 @@ UID:414835061
 DTSTART:20260706T085317Z
 DTEND:20260706T095317Z
 DTSTAMP:20260706T085317Z
-SUMMARY:🛠️ čerpání vody - Malý Beranov
-LOCATION:Malý Beranov
-GEO:49.396494;15.637692
-URL:geo:49.396494,15.637692
-DESCRIPTION:📍 Malý Beranov\, Jihlava\n\n🚒 DA (Velký Beranov)
+SUMMARY:🛠️ Jihlava
+LOCATION:Jihlava
+GEO:49.393540;15.641460
+URL:geo:49.393540,15.641460
+DESCRIPTION:📍 Kosov\, Jihlava\n💬 Čerpání vody.\n\n🚒 DA (Velký Beranov)
 END:VEVENT
 BEGIN:VEVENT
 UID:414836061
@@ -575,7 +574,8 @@ LOCATION:Osová Bítýška
 GEO:49.343338;16.148968
 URL:geo:49.343338,16.148968
 DESCRIPTION:📍 Osová Bítýška\, Žďár nad Sázavou\n💬 DN 1 OA a motocyklu s 1 z
- raněnou osobou.\n\n🚒 CAS (HS Velká Bíteš)
+ raněnou osobou. Protipožární opatření a úklid vozovky.\n\n🚒 CAS (HS Velká 
+ Bíteš)
 END:VEVENT
 BEGIN:VEVENT
 UID:414838061
@@ -598,7 +598,7 @@ SUMMARY:🛠️ obtížný hmyz - Krucemburk
 LOCATION:Mikuláše Střely\, Krucemburk
 GEO:49.689502;15.845056
 URL:geo:49.689502,15.845056
-DESCRIPTION:📍 Mikuláše Střely\, Krucemburk\, Havlíčkův Brod\n\n🚒 CAS (Kruce
- mburk)
+DESCRIPTION:📍 Mikuláše Střely\, Krucemburk\, Havlíčkův Brod\n💬 Odstranění o
+ btížného hmyzu.\n\n🚒 CAS (Krucemburk)
 END:VEVENT
 END:VCALENDAR
