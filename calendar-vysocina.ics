@@ -596,7 +596,18 @@ SUMMARY:🛠️ obtížný hmyz - Havlíčkův Brod
 LOCATION:Na Lipce\, Havlíčkův Brod
 GEO:49.588763;15.540316
 URL:geo:49.588763,15.540316
-DESCRIPTION:📍 Na Lipce\, Poděbaby\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův 
- Brod)
+DESCRIPTION:📍 Na Lipce\, Poděbaby\, Havlíčkův Brod\n💬 Odstranění obtížného 
+ hmyzu.\n\n🚒 CAS (CHS Havlíčkův Brod)
+END:VEVENT
+BEGIN:VEVENT
+UID:414858061
+DTSTART:20260706T173000Z
+DTEND:20260706T183000Z
+DTSTAMP:20260706T173000Z
+SUMMARY:🛠️ obtížný hmyz - Bořetice
+LOCATION:Bořetice
+GEO:49.496296;15.108174
+URL:geo:49.496296,15.108174
+DESCRIPTION:📍 Bořetice\, Pelhřimov\n\n🚒 CAS (HS Pacov)
 END:VEVENT
 END:VCALENDAR
