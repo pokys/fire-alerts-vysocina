@@ -552,4 +552,16 @@ URL:geo:49.211444,16.146746
 DESCRIPTION:📍 Husova\, Náměšť nad Oslavou\, Třebíč\n💬 Otevření bytu na žádo
  st ZZS.\n\n🚒 CAS (HS Náměšť nad Oslavou)
 END:VEVENT
+BEGIN:VEVENT
+UID:414849061
+DTSTART:20260706T143624Z
+DTEND:20260706T153624Z
+DTSTAMP:20260706T143624Z
+SUMMARY:🛠️ otevření bytu/auta - Bystřice nad Pernštejnem
+LOCATION:Višňová\, Bystřice nad Pernštejnem
+GEO:49.519631;16.261178
+URL:geo:49.519631,16.261178
+DESCRIPTION:📍 Višňová\, Bystřice nad Pernštejnem\, Žďár nad Sázavou\n\n🚒 CA
+ S (HS Bystřice nad Pernštejnem)
+END:VEVENT
 END:VCALENDAR
