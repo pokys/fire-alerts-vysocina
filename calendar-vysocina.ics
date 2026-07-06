@@ -634,7 +634,8 @@ SUMMARY:🛠️ spolupráce IZS - Telč
 LOCATION:Luční\, Telč
 GEO:49.178737;15.453404
 URL:geo:49.178737,15.453404
-DESCRIPTION:📍 Luční\, Telč-Staré Město\, Telč\, Jihlava\n\n🚒 CAS (HS Telč)
+DESCRIPTION:📍 Luční\, Telč-Staré Město\, Telč\, Jihlava\n💬 Zajištění přílet
+ u vrtulníku.\n\n🚒 CAS (HS Telč)
 END:VEVENT
 BEGIN:VEVENT
 UID:414832061
@@ -658,6 +659,18 @@ SUMMARY:🛠️ otevření bytu/auta - Osová Bítýška
 LOCATION:Osová Bítýška
 GEO:49.324574;16.171025
 URL:geo:49.324574,16.171025
-DESCRIPTION:📍 Osová Bítýška\, Žďár nad Sázavou\n\n🚒 CAS (HS Velká Bíteš)
+DESCRIPTION:📍 Osová Bítýška\, Žďár nad Sázavou\n💬 Otevření bytu.\n\n🚒 CAS (
+ HS Velká Bíteš)
+END:VEVENT
+BEGIN:VEVENT
+UID:414835061
+DTSTART:20260706T085317Z
+DTEND:20260706T095317Z
+DTSTAMP:20260706T085317Z
+SUMMARY:🛠️ čerpání vody - Malý Beranov
+LOCATION:Malý Beranov
+GEO:49.396494;15.637692
+URL:geo:49.396494,15.637692
+DESCRIPTION:📍 Malý Beranov\, Jihlava\n\n🚒 DA (Velký Beranov)
 END:VEVENT
 END:VCALENDAR
