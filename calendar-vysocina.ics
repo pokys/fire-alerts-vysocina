@@ -573,6 +573,19 @@ SUMMARY:🛠️ obtížný hmyz - Vojnův Městec
 LOCATION:Vojnův Městec
 GEO:49.679455;15.878284
 URL:geo:49.679455,15.878284
-DESCRIPTION:📍 Vojnův Městec\, Žďár nad Sázavou\n\n🚒 DA (Vojnův Městec)
+DESCRIPTION:📍 Vojnův Městec\, Žďár nad Sázavou\n💬 Odstranění obtížného hmyz
+ u.\n\n🚒 DA (Vojnův Městec)
+END:VEVENT
+BEGIN:VEVENT
+UID:414855061
+DTSTART:20260706T161708Z
+DTEND:20260706T171708Z
+DTSTAMP:20260706T161708Z
+SUMMARY:🚗 dopravní nehoda - Česká Bělá
+LOCATION:Česká Bělá
+GEO:49.635842;15.690627
+URL:geo:49.635842,15.690627
+DESCRIPTION:📍 Česká Bělá\, Havlíčkův Brod\n💬 DN motocyklu\, 1 zraněná osoba
+ .\n\n🚒 CAS (HS Chotěboř)
 END:VEVENT
 END:VCALENDAR
