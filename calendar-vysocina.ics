@@ -776,7 +776,8 @@ SUMMARY:🛠️ strom - Batelov
 LOCATION:Batelov
 GEO:49.277968;15.362399
 URL:geo:49.277968,15.362399
-DESCRIPTION:📍 Nová Ves\, Batelov\, Jihlava\n\n🚒 CAS (Horní Dubenky)
+DESCRIPTION:📍 Nová Ves\, Batelov\, Jihlava\n💬 Odstanění. stromu.\n\n🚒 CAS (
+ Horní Dubenky)
 END:VEVENT
 BEGIN:VEVENT
 UID:414910061
@@ -846,7 +847,7 @@ SUMMARY:🔥 odpad - Náměšť nad Oslavou
 LOCATION:Petra Křičky\, Náměšť nad Oslavou
 GEO:49.212068;16.146126
 URL:geo:49.212068,16.146126
-DESCRIPTION:📍 Petra Křičky\, Náměšť nad Oslavou\, Třebíč\n\n🚒 CAS (HS Náměš
- ť nad Oslavou)
+DESCRIPTION:📍 Petra Křičky\, Náměšť nad Oslavou\, Třebíč\n💬 Požár odpadu v 
+ plastové popelnici.\n\n🚒 CAS (HS Náměšť nad Oslavou)
 END:VEVENT
 END:VCALENDAR
