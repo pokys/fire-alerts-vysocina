@@ -604,7 +604,7 @@ SUMMARY:🚑 záchrana ze stromu - Světlá nad Sázavou
 LOCATION:Lánecká\, Světlá nad Sázavou
 GEO:49.668220;15.403083
 URL:geo:49.668220,15.403083
-DESCRIPTION:📍 Lánecká\, Světlá nad Sázavou\, Havlíčkův Brod\n💬 holub uvízlý
+DESCRIPTION:📍 Lánecká\, Světlá nad Sázavou\, Havlíčkův Brod\n💬 Holub uvízlý
   za zasklením budovy\, vyproštěn a vypuštěn.\n\n🚒 CAS (HS Světlá nad Sázav
  ou)
 END:VEVENT
@@ -640,7 +640,9 @@ SUMMARY:🚗 dopravní nehoda - Třesov
 LOCATION:Třesov
 GEO:49.195916;16.093186
 URL:geo:49.195916,16.093186
-DESCRIPTION:📍 Třesov\, Třebíč\n\n🚒 CAS (HS Náměšť nad Oslavou)
+DESCRIPTION:📍 Třesov\, Třebíč\n💬 DN 1 OA po nárazu do stromu se 3 zraněnými
+  osobami. Protipožární opatření a řízení dopravy.\n\n🚒 CAS (HS Náměšť nad 
+ Oslavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:414888061
