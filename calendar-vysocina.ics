@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:414824061
-DTSTART:20260705T184455Z
-DTEND:20260705T194455Z
-DTSTAMP:20260705T184455Z
-SUMMARY:🛠️ otevření bytu/auta - Ždírec nad Doubravou
-LOCATION:nám. 9. května\, Ždírec nad Doubravou
-GEO:49.696212;15.812801
-URL:geo:49.696212,15.812801
-DESCRIPTION:📍 nám. 9. května\, Ždírec nad Doubravou\, Havlíčkův Brod\n💬 Ote
- vření bytu.\n\n🚒 CAS (HS Chotěboř)\n🚒 CAS (Ždírec nad Doubravou)
-END:VEVENT
-BEGIN:VEVENT
 UID:414825061
 DTSTART:20260705T201405Z
 DTEND:20260705T211405Z
@@ -822,6 +810,7 @@ SUMMARY:🛠️ ostatní - Opatov
 LOCATION:Opatov
 GEO:49.218233;15.666413
 URL:geo:49.218233,15.666413
-DESCRIPTION:📍 Opatov\, Třebíč\n\n🚒 CAS (Opatov (TR))
+DESCRIPTION:📍 Opatov\, Třebíč\n💬 Pročištění kanalizace.\n\n🚒 CAS (Opatov (T
+ R))
 END:VEVENT
 END:VCALENDAR
