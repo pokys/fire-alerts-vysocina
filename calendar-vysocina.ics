@@ -665,8 +665,9 @@ SUMMARY:🔥 tráva/plocha - Radňoves
 LOCATION:Radňoves
 GEO:49.389515;16.207407
 URL:geo:49.389515,16.207407
-DESCRIPTION:📍 Radňoves\, Žďár nad Sázavou\n\n🚒 CAS (HS Velká Bíteš)\n🚒 CAS 
- (Křižanov)\n🚒 CAS (Osová Bítýška)\n🚒 DA (Radňoves)
+DESCRIPTION:📍 Radňoves\, Žďár nad Sázavou\n💬 Likvidace požáru trávy 50 m2.\
+ n\n🚒 CAS (HS Velká Bíteš)\n🚒 CAS (Křižanov)\n🚒 CAS (Osová Bítýška)\n🚒 DA (
+ Radňoves)
 END:VEVENT
 BEGIN:VEVENT
 UID:414892061
@@ -726,7 +727,8 @@ GEO:49.254373;15.753226
 URL:geo:49.254373,15.753226
 DESCRIPTION:📍 Přibyslavice\, Třebíč\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (CHS Třebí
  č)\n🚒 CAS (Okříšky) ×2\n🚒 DA (Přibyslavice)\n🚒 CAS (Přibyslavice)\n🚒 CAS (
- Přibyslavice)
+ Přibyslavice)\n🚒 vyšetřovací automobil (ÚO Třebíč)\n🚒 CAS (Čechtín)\n🚒 CAS
+  (Čechtín)\n🚒 CAS (Opatov (TR))\n🚒 CAS (Svatoslav)
 END:VEVENT
 BEGIN:VEVENT
 UID:414900061
@@ -737,7 +739,8 @@ SUMMARY:🛠️ strom - Nové Dvory
 LOCATION:Nové Dvory
 GEO:49.567257;15.777807
 URL:geo:49.567257,15.777807
-DESCRIPTION:📍 Nové Dvory\, Žďár nad Sázavou\n\n🚒 CAS (Přibyslav)
+DESCRIPTION:📍 Nové Dvory\, Žďár nad Sázavou\n💬 Odstranění stromu.\n\n🚒 CAS 
+ (Přibyslav)
 END:VEVENT
 BEGIN:VEVENT
 UID:414901061
@@ -748,6 +751,20 @@ SUMMARY:🛠️ strom - Vojslavice
 LOCATION:Vojslavice
 GEO:49.595777;15.209186
 URL:geo:49.595777,15.209186
-DESCRIPTION:📍 Vojslavice\, Pelhřimov\n\n🚒 CAS (Hořice)
+DESCRIPTION:📍 Vojslavice\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 CAS (Hořice
+ )
+END:VEVENT
+BEGIN:VEVENT
+UID:414902061
+DTSTART:20260707T130651Z
+DTEND:20260707T140651Z
+DTSTAMP:20260707T130651Z
+SUMMARY:🔥 budova - Třebíč
+LOCATION:V. Nezvala\, Třebíč
+GEO:49.215241;15.875227
+URL:geo:49.215241,15.875227
+DESCRIPTION:📍 V. Nezvala\, Stařečka\, Třebíč\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (
+ Jaroměřice nad Rokytnou)\n🚒 automobilová stříkačka (Stařeč)\n🚒 CAS (Stařeč
+ )
 END:VEVENT
 END:VCALENDAR
