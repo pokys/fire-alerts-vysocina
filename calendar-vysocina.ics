@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:414822061
-DTSTART:20260705T180013Z
-DTEND:20260705T190013Z
-DTSTAMP:20260705T180013Z
-SUMMARY:🛠️ ostatní - Velké Meziříčí
-LOCATION:Moráňská\, Velké Meziříčí
-GEO:49.352937;16.016319
-URL:geo:49.352937,16.016319
-DESCRIPTION:📍 Moráňská\, Velké Meziříčí\, Žďár nad Sázavou\n💬 Vytažení klíč
- ů z kanalizace.\n\n🚒 RZA (HS Velké Meziříčí)
-END:VEVENT
-BEGIN:VEVENT
 UID:414823061
 DTSTART:20260705T181034Z
 DTEND:20260705T191034Z
@@ -834,7 +822,8 @@ SUMMARY:🛠️ strom - Malá Losenice
 LOCATION:Malá Losenice
 GEO:49.588403;15.797691
 URL:geo:49.588403,15.797691
-DESCRIPTION:📍 Malá Losenice\, Žďár nad Sázavou\n\n🚒 CAS (Malá Losenice)
+DESCRIPTION:📍 Malá Losenice\, Žďár nad Sázavou\n💬 Odstranění stromu.\n\n🚒 C
+ AS (Malá Losenice)
 END:VEVENT
 BEGIN:VEVENT
 UID:414923061
