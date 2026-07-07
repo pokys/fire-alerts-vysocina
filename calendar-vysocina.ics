@@ -787,7 +787,8 @@ SUMMARY:🛠️ strom - Humpolec
 LOCATION:Humpolec
 GEO:49.514385;15.393750
 URL:geo:49.514385,15.393750
-DESCRIPTION:📍 Krasoňov\, Humpolec\, Pelhřimov\n\n🚒 CAS (HS Humpolec)
+DESCRIPTION:📍 Krasoňov\, Humpolec\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 CA
+ S (HS Humpolec)
 END:VEVENT
 BEGIN:VEVENT
 UID:414911061
@@ -798,7 +799,54 @@ SUMMARY:🛠️ obtížný hmyz - Přibyslav
 LOCATION:Přibyslav
 GEO:49.582572;15.734843
 URL:geo:49.582572,15.734843
-DESCRIPTION:📍 Dobrá\, Přibyslav\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Br
- od)
+DESCRIPTION:📍 Dobrá\, Přibyslav\, Havlíčkův Brod\n💬 Odstranění obtížného hm
+ yzu.\n\n🚒 CAS (CHS Havlíčkův Brod)
+END:VEVENT
+BEGIN:VEVENT
+UID:414912061
+DTSTART:20260707T145515Z
+DTEND:20260707T155515Z
+DTSTAMP:20260707T145515Z
+SUMMARY:🛠️ strom - Havlíčkův Brod
+LOCATION:U Kasáren\, Havlíčkův Brod
+GEO:49.599364;15.567239
+URL:geo:49.599364,15.567239
+DESCRIPTION:📍 U Kasáren\, Havlíčkův Brod\n💬 Odstranění stromu.\n\n🚒 CAS (CH
+ S Havlíčkův Brod)
+END:VEVENT
+BEGIN:VEVENT
+UID:414913061
+DTSTART:20260707T145900Z
+DTEND:20260707T155900Z
+DTSTAMP:20260707T145900Z
+SUMMARY:🚑 záchrana zvířete - Pelhřimov
+LOCATION:Pelhřimov
+GEO:49.426297;15.203630
+URL:geo:49.426297,15.203630
+DESCRIPTION:💬 Pomoc imobilní osobě.\n\n🚒 CAS (CHS Pelhřimov)
+END:VEVENT
+BEGIN:VEVENT
+UID:414914061
+DTSTART:20260707T145935Z
+DTEND:20260707T155935Z
+DTSTAMP:20260707T145935Z
+SUMMARY:🛠️ obtížný hmyz - Nová Cerekev
+LOCATION:Nová Cerekev
+GEO:49.418027;15.116033
+URL:geo:49.418027,15.116033
+DESCRIPTION:📍 Nová Cerekev\, Pelhřimov\n💬 Odstranění obtížného hmyzu.\n\n🚒 
+ CAS (Nová Cerekev)
+END:VEVENT
+BEGIN:VEVENT
+UID:414915061
+DTSTART:20260707T151243Z
+DTEND:20260707T161243Z
+DTSTAMP:20260707T151243Z
+SUMMARY:🔥 odpad - Náměšť nad Oslavou
+LOCATION:Petra Křičky\, Náměšť nad Oslavou
+GEO:49.212068;16.146126
+URL:geo:49.212068,16.146126
+DESCRIPTION:📍 Petra Křičky\, Náměšť nad Oslavou\, Třebíč\n\n🚒 CAS (HS Náměš
+ ť nad Oslavou)
 END:VEVENT
 END:VCALENDAR
