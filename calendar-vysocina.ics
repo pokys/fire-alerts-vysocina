@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:414810061
-DTSTART:20260705T140041Z
-DTEND:20260705T150041Z
-DTSTAMP:20260705T140041Z
-SUMMARY:🛠️ obtížný hmyz - Černovice
-LOCATION:Černovice
-GEO:49.361018;14.960558
-URL:geo:49.361018,14.960558
-DESCRIPTION:📍 Dobešov\, Černovice\, Pelhřimov\n💬 Odstranění obtížného hmyzu
- .\n\n🚒 CAS (Černovice)
-END:VEVENT
-BEGIN:VEVENT
 UID:414812061
 DTSTART:20260705T143233Z
 DTEND:20260705T153233Z
@@ -637,12 +625,12 @@ UID:414889061
 DTSTART:20260707T115334Z
 DTEND:20260707T125334Z
 DTSTAMP:20260707T115334Z
-SUMMARY:🛠️ strom - Důl
-LOCATION:Důl
-GEO:49.456831;15.032993
-URL:geo:49.456831,15.032993
-DESCRIPTION:📍 Důl\, Pelhřimov\n💬 Odstranění větve.\n\n🚒 CAS (HS Pacov)\n🚒 p
- ila řetězová (HS Pacov)
+SUMMARY:🛠️ strom - Pošná
+LOCATION:Pošná
+GEO:49.456890;15.034553
+URL:geo:49.456890,15.034553
+DESCRIPTION:📍 Pošná\, Pelhřimov\n💬 Odstranění větve.\n\n🚒 CAS (HS Pacov)\n🚒
+  pila řetězová (HS Pacov)
 END:VEVENT
 BEGIN:VEVENT
 UID:414891061
@@ -679,7 +667,7 @@ LOCATION:Třesov
 GEO:49.172872;16.076299
 URL:geo:49.172872,16.076299
 DESCRIPTION:📍 Třesov\, Třebíč\n💬 Odstranění stromu.\n\n🚒 CAS (HS Náměšť nad
-  Oslavou)
+  Oslavou)\n🚒 pila řetězová (HS Náměšť nad Oslavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:414896061
@@ -691,7 +679,7 @@ LOCATION:Borek
 GEO:49.788774;15.595992
 URL:geo:49.788774,15.595992
 DESCRIPTION:📍 Borek\, Havlíčkův Brod\n💬 Odstranění stromu.\n\n🚒 CAS (HS Cho
- těboř)
+ těboř)\n🚒 pila řetězová (HS Chotěboř)
 END:VEVENT
 BEGIN:VEVENT
 UID:414897061
@@ -754,5 +742,28 @@ URL:geo:49.215241,15.875227
 DESCRIPTION:📍 V. Nezvala\, Stařečka\, Třebíč\n💬 Likvidace požáru odpadu.\n\
  n🚒 CAS (CHS Třebíč)\n🚒 CAS (Jaroměřice nad Rokytnou)\n🚒 automobilová střík
  ačka (Stařeč)\n🚒 CAS (Stařeč)
+END:VEVENT
+BEGIN:VEVENT
+UID:414904061
+DTSTART:20260707T134609Z
+DTEND:20260707T144609Z
+DTSTAMP:20260707T134609Z
+SUMMARY:🚑 Jemnice
+LOCATION:Boženy Němcové\, Jemnice
+GEO:49.016163;15.582979
+URL:geo:49.016163,15.582979
+DESCRIPTION:📍 Boženy Němcové\, Jemnice\, Třebíč\n\n🚒 CAS (HS Jemnice)
+END:VEVENT
+BEGIN:VEVENT
+UID:414905061
+DTSTART:20260707T135040Z
+DTEND:20260707T145040Z
+DTSTAMP:20260707T135040Z
+SUMMARY:🛠️ obtížný hmyz - Žďár nad Sázavou
+LOCATION:Dvorská\, Žďár nad Sázavou
+GEO:49.584362;15.927473
+URL:geo:49.584362,15.927473
+DESCRIPTION:📍 Dvorská\, Žďár nad Sázavou 2\, Žďár nad Sázavou\n\n🚒 CAS (CHS
+  Žďár nad Sázavou)
 END:VEVENT
 END:VCALENDAR
