@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:414823061
-DTSTART:20260705T181034Z
-DTEND:20260705T191034Z
-DTSTAMP:20260705T181034Z
-SUMMARY:🛠️ strom - Červená Řečice
-LOCATION:Červená Řečice
-GEO:49.507870;15.190630
-URL:geo:49.507870,15.190630
-DESCRIPTION:📍 Červená Řečice\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 CAS (Če
- rvená Řečice)\n🚒 pila řetězová (Červená Řečice)
-END:VEVENT
-BEGIN:VEVENT
 UID:414824061
 DTSTART:20260705T184455Z
 DTEND:20260705T194455Z
@@ -593,8 +581,8 @@ GEO:49.254373;15.753226
 URL:geo:49.254373,15.753226
 DESCRIPTION:📍 Přibyslavice\, Třebíč\n💬 Požár lesa na ploše 100 x 30m.\n\n🚒 
  CAS (CHS Třebíč)\n🚒 CAS (CHS Třebíč)\n🚒 CAS (Okříšky) ×2\n🚒 DA (Přibyslavi
- ce)\n🚒 CAS (Přibyslavice)\n🚒 CAS (Přibyslavice)\n🚒 vyšetřovací automobil (
- ÚO Třebíč)\n🚒 DA (Čechtín)\n🚒 CAS (Čechtín)\n🚒 CAS (Čechtín)\n🚒 CAS (Opato
+ ce)\n🚒 CAS (Přibyslavice)\n🚒 CAS (Přibyslavice)\n🚒 DA (Čechtín)\n🚒 CAS (Če
+ chtín)\n🚒 CAS (Čechtín)\n🚒 vyšetřovací automobil (ÚO Třebíč)\n🚒 CAS (Opato
  v (TR))\n🚒 CAS (Svatoslav)
 END:VEVENT
 BEGIN:VEVENT
