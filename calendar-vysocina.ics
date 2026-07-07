@@ -5,20 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:414797061
-DTSTART:20260705T061605Z
-DTEND:20260705T071605Z
-DTSTAMP:20260705T061605Z
-SUMMARY:🔥 budova - Velké Meziříčí
-LOCATION:Velké Meziříčí
-GEO:49.375127;16.013360
-URL:geo:49.375127,16.013360
-DESCRIPTION:📍 Mostiště\, Velké Meziříčí\, Žďár nad Sázavou\n💬 Požár elektro
- instalace v garáži.\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (HS Velké Meziříčí
- )\n🚒 CAS (Křižanov)\n🚒 CAS (Velké Meziříčí)\n🚒 vyšetřovací automobil (ÚO Ž
- ďár nad Sázavou)
-END:VEVENT
-BEGIN:VEVENT
 UID:414798061
 DTSTART:20260705T065650Z
 DTEND:20260705T075650Z
