@@ -5,20 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:414818061
-DTSTART:20260705T170016Z
-DTEND:20260705T180016Z
-DTSTAMP:20260705T170016Z
-SUMMARY:⚠️ planý poplach - Nové Město na Moravě
-LOCATION:Nové Město na Moravě
-GEO:49.592555;16.061299
-URL:geo:49.592555,16.061299
-DESCRIPTION:📍 Rokytno\, Nové Město na Moravě\, Žďár nad Sázavou\n💬 Planý po
- plach.\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CA
- S (Nové Město na Moravě)\n🚒 DA (Nové Město na Moravě-Rokytno)\n🚒 DA (Sněžn
- é)\n🚒 CAS (Sněžné)
-END:VEVENT
-BEGIN:VEVENT
 UID:414819061
 DTSTART:20260705T170739Z
 DTEND:20260705T180739Z
