@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:414804061
-DTSTART:20260705T113054Z
-DTEND:20260705T123054Z
-DTSTAMP:20260705T113054Z
-SUMMARY:🔥 vozidlo - Čáslavice
-LOCATION:Čáslavice
-GEO:49.153039;15.777389
-URL:geo:49.153039,15.777389
-DESCRIPTION:📍 Čáslavice\, Třebíč\n💬 Požár OA se zraněním jedné osoby. Jedno
- tky provedly lokalizaci a likvidaci požáru.\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (
- Čáslavice)\n🚒 vyšetřovací automobil (ÚO Třebíč)
-END:VEVENT
-BEGIN:VEVENT
 UID:414807061
 DTSTART:20260705T123826Z
 DTEND:20260705T133826Z
