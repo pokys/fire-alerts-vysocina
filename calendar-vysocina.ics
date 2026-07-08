@@ -789,7 +789,7 @@ LOCATION:Chotěboř
 GEO:49.704036;15.706828
 URL:geo:49.704036,15.706828
 DESCRIPTION:📍 Příjemky\, Chotěboř\, Havlíčkův Brod\n💬 Odstranění stromu.\n\
- n🚒 CAS (HS Chotěboř)
+ n🚒 CAS (HS Chotěboř)\n🚒 pila řetězová (HS Chotěboř)
 END:VEVENT
 BEGIN:VEVENT
 UID:414965061
@@ -813,6 +813,41 @@ GEO:49.074163;15.836587
 URL:geo:49.074163,15.836587
 DESCRIPTION:📍 Lukov\, Třebíč\n\n🚒 CAS (HS Moravské Budějovice)\n🚒 CAS (HS M
  oravské Budějovice)\n🚒 CAS (Jaroměřice nad Rokytnou)\n🚒 CAS (Jaroměřice na
- d Rokytnou)\n🚒 DA (Lukov)\n🚒 CAS (Moravské Budějovice)
+ d Rokytnou)\n🚒 DA (Lukov)\n🚒 CAS (Moravské Budějovice)\n🚒 CAS (HS Hrotovic
+ e)\n🚒 CAS (Lesonice)\n🚒 CAS (CHS Třebíč)
+END:VEVENT
+BEGIN:VEVENT
+UID:414969061
+DTSTART:20260708T124559Z
+DTEND:20260708T134559Z
+DTSTAMP:20260708T124559Z
+SUMMARY:🚗 se zraněním - Moravské Budějovice
+LOCATION:Moravské Budějovice
+GEO:49.067322;15.841183
+URL:geo:49.067322,15.841183
+DESCRIPTION:📍 Moravské Budějovice\, Třebíč\n\n🚒 CAS (HS Moravské Budějovice
+ )\n🚒 CAS (HS Moravské Budějovice)\n🚒 CAS (CHS Třebíč)
+END:VEVENT
+BEGIN:VEVENT
+UID:414970061
+DTSTART:20260708T124648Z
+DTEND:20260708T134648Z
+DTSTAMP:20260708T124648Z
+SUMMARY:🚗 dopravní nehoda - Kámen
+LOCATION:Kámen
+GEO:49.427083;15.013243
+URL:geo:49.427083,15.013243
+DESCRIPTION:📍 Kámen\, Pelhřimov\n\n🚒 CAS (HS Pacov)
+END:VEVENT
+BEGIN:VEVENT
+UID:414971061
+DTSTART:20260708T124736Z
+DTEND:20260708T134736Z
+DTSTAMP:20260708T124736Z
+SUMMARY:🛠️ strom - Přibyslav
+LOCATION:Přibyslav
+GEO:49.594677;15.715516
+URL:geo:49.594677,15.715516
+DESCRIPTION:📍 Dobrá\, Přibyslav\, Havlíčkův Brod\n\n🚒 CAS (Přibyslav)
 END:VEVENT
 END:VCALENDAR
