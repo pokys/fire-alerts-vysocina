@@ -781,8 +781,8 @@ SUMMARY:🛠️ ostatní - Lipnice nad Sázavou
 LOCATION:Lipnice nad Sázavou
 GEO:49.616014;15.408734
 URL:geo:49.616014,15.408734
-DESCRIPTION:📍 Lipnice nad Sázavou\, Havlíčkův Brod\n\n🚒 DA (Lipnice nad Sáz
- avou)
+DESCRIPTION:📍 Lipnice nad Sázavou\, Havlíčkův Brod\n💬 Pročištění a odčerpán
+ í studny.\n\n🚒 DA (Lipnice nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:414996061
@@ -805,7 +805,8 @@ SUMMARY:🛠️ obtížný hmyz - Račice
 LOCATION:Račice
 GEO:49.496831;16.139507
 URL:geo:49.496831,16.139507
-DESCRIPTION:📍 Račice\, Žďár nad Sázavou\n\n🚒 CAS (Bobrová)
+DESCRIPTION:📍 Račice\, Žďár nad Sázavou\n💬 Odstranění obtížného hmyzu.\n\n🚒
+  CAS (Bobrová)
 END:VEVENT
 BEGIN:VEVENT
 UID:414999061
@@ -816,7 +817,8 @@ SUMMARY:🛠️ obtížný hmyz - Čechočovice
 LOCATION:Čechočovice
 GEO:49.202997;15.796463
 URL:geo:49.202997,15.796463
-DESCRIPTION:📍 Čechočovice\, Třebíč\n\n🚒 DA (Stařeč)\n🚒 CAS (Stařeč)
+DESCRIPTION:📍 Čechočovice\, Třebíč\n💬 Odstranění obtížného hmyzu.\n\n🚒 DA (
+ Stařeč)\n🚒 CAS (Stařeč)
 END:VEVENT
 BEGIN:VEVENT
 UID:415000061
@@ -834,10 +836,11 @@ UID:415001061
 DTSTART:20260708T173318Z
 DTEND:20260708T183318Z
 DTSTAMP:20260708T173318Z
-SUMMARY:🛠️ obtížný hmyz - Račice
-LOCATION:Račice
-GEO:49.497368;16.137967
-URL:geo:49.497368,16.137967
-DESCRIPTION:📍 Račice\, Žďár nad Sázavou\n\n🚒 CAS (Bobrová)
+SUMMARY:🛠️ obtížný hmyz - Bobrová
+LOCATION:Bobrová
+GEO:49.474425;16.116758
+URL:geo:49.474425,16.116758
+DESCRIPTION:📍 Bobrová\, Žďár nad Sázavou\n💬 Odstranění obtížného hmyzu.\n\n
+ 🚒 CAS (Bobrová)
 END:VEVENT
 END:VCALENDAR
