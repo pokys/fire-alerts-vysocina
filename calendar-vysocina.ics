@@ -5,29 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:414853061
-DTSTART:20260706T153452Z
-DTEND:20260706T163452Z
-DTSTAMP:20260706T153452Z
-SUMMARY:⚠️ planý poplach - Chřenovice
-LOCATION:Chřenovice
-GEO:49.717417;15.217568
-URL:geo:49.717417,15.217568
-DESCRIPTION:📍 Chřenovice\, Havlíčkův Brod\n💬 Planý poplach.
-END:VEVENT
-BEGIN:VEVENT
-UID:414854061
-DTSTART:20260706T154138Z
-DTEND:20260706T164138Z
-DTSTAMP:20260706T154138Z
-SUMMARY:🛠️ obtížný hmyz - Vojnův Městec
-LOCATION:Vojnův Městec
-GEO:49.679455;15.878284
-URL:geo:49.679455,15.878284
-DESCRIPTION:📍 Vojnův Městec\, Žďár nad Sázavou\n💬 Odstranění obtížného hmyz
- u.\n\n🚒 DA (Vojnův Městec)
-END:VEVENT
-BEGIN:VEVENT
 UID:414855061
 DTSTART:20260706T161708Z
 DTEND:20260706T171708Z
@@ -642,8 +619,8 @@ SUMMARY:🚑 vyproštění osoby - Humpolec
 LOCATION:Nerudova\, Humpolec
 GEO:49.550763;15.350371
 URL:geo:49.550763,15.350371
-DESCRIPTION:📍 Nerudova\, Humpolec\, Pelhřimov\n💬 Vyproštění osoby na žádost
-  ZZS.\n\n🚒 CAS (HS Humpolec)
+DESCRIPTION:📍 Nerudova\, Humpolec\, Pelhřimov\n💬 Vyproštění zavalené osoby 
+ na žádost ZZS.\n\n🚒 CAS (HS Humpolec)
 END:VEVENT
 BEGIN:VEVENT
 UID:414950061
@@ -776,10 +753,10 @@ LOCATION:Lukov
 GEO:49.074163;15.836587
 URL:geo:49.074163,15.836587
 DESCRIPTION:📍 Lukov\, Třebíč\n💬 Požár pole. Provedena lokalizace a likvidac
- e požáru.\n\n🚒 CAS (HS Moravské Budějovice)\n🚒 CAS (HS Moravské Budějovice
- )\n🚒 CAS (Jaroměřice nad Rokytnou)\n🚒 CAS (Jaroměřice nad Rokytnou)\n🚒 DA 
- (Lukov)\n🚒 CAS (Moravské Budějovice)\n🚒 CAS (HS Hrotovice)\n🚒 CAS (Lesonic
- e)\n🚒 CAS (CHS Třebíč)\n🚒 vyšetřovací automobil (ÚO Třebíč)
+ e požáru.\n\n🚒 CAS (HS Moravské Budějovice) ×2\n🚒 CAS (HS Moravské Budějov
+ ice)\n🚒 CAS (Jaroměřice nad Rokytnou)\n🚒 CAS (Jaroměřice nad Rokytnou)\n🚒 
+ DA (Lukov)\n🚒 CAS (Moravské Budějovice)\n🚒 CAS (HS Hrotovice)\n🚒 CAS (Leso
+ nice)\n🚒 CAS (CHS Třebíč)\n🚒 vyšetřovací automobil (ÚO Třebíč)
 END:VEVENT
 BEGIN:VEVENT
 UID:414969061
@@ -791,8 +768,9 @@ LOCATION:Moravské Budějovice
 GEO:49.067322;15.841183
 URL:geo:49.067322,15.841183
 DESCRIPTION:📍 Moravské Budějovice\, Třebíč\n💬 DN 5 OA a autobusu se zranění
- m. Zajištění místa události.\n\n🚒 CAS (HS Moravské Budějovice)\n🚒 CAS (HS 
- Moravské Budějovice)\n🚒 CAS (CHS Třebíč)
+ m. Provedeno vyproštění 1 zraněné osoby a zajištění místa události.\n\n🚒 C
+ AS (HS Moravské Budějovice)\n🚒 CAS (HS Moravské Budějovice)\n🚒 CAS (CHS Tř
+ ebíč)
 END:VEVENT
 BEGIN:VEVENT
 UID:414970061
@@ -803,7 +781,8 @@ SUMMARY:🚗 dopravní nehoda - Kámen
 LOCATION:Kámen
 GEO:49.427083;15.013243
 URL:geo:49.427083,15.013243
-DESCRIPTION:📍 Kámen\, Pelhřimov\n\n🚒 CAS (HS Pacov)
+DESCRIPTION:📍 Kámen\, Pelhřimov\n💬 Dopravní nehoda 2 OA a 1 NA. Poskytnutí 
+ předlékařské pomoci a zajištění místa události.\n\n🚒 CAS (HS Pacov)
 END:VEVENT
 BEGIN:VEVENT
 UID:414971061
@@ -838,6 +817,7 @@ SUMMARY:🚗 se zraněním - Pelhřimov
 LOCATION:Humpolecká\, Pelhřimov
 GEO:49.436318;15.229227
 URL:geo:49.436318,15.229227
-DESCRIPTION:📍 Humpolecká\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)
+DESCRIPTION:📍 Humpolecká\, Pelhřimov\n💬 DN 2 OA. Poskytnutí předlékařské po
+ moci a zajištění místa události.\n\n🚒 CAS (CHS Pelhřimov)
 END:VEVENT
 END:VCALENDAR
