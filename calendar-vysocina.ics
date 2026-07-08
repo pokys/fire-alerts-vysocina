@@ -808,4 +808,16 @@ URL:geo:49.436318,15.229227
 DESCRIPTION:📍 Humpolecká\, Pelhřimov\n💬 DN 2 OA. Poskytnutí předlékařské po
  moci a zajištění místa události.\n\n🚒 CAS (CHS Pelhřimov)
 END:VEVENT
+BEGIN:VEVENT
+UID:414995061
+DTSTART:20260708T160856Z
+DTEND:20260708T170856Z
+DTSTAMP:20260708T160856Z
+SUMMARY:🛠️ ostatní - Lipnice nad Sázavou
+LOCATION:Lipnice nad Sázavou
+GEO:49.616014;15.408734
+URL:geo:49.616014,15.408734
+DESCRIPTION:📍 Lipnice nad Sázavou\, Havlíčkův Brod\n\n🚒 DA (Lipnice nad Sáz
+ avou)
+END:VEVENT
 END:VCALENDAR
