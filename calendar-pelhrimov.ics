@@ -184,4 +184,16 @@ URL:geo:49.436318,15.229227
 DESCRIPTION:📍 Humpolecká\, Pelhřimov\n💬 DN 2 OA. Poskytnutí předlékařské po
  moci a zajištění místa události.\n\n🚒 CAS (CHS Pelhřimov)
 END:VEVENT
+BEGIN:VEVENT
+UID:414996061
+DTSTART:20260708T165546Z
+DTEND:20260708T175546Z
+DTSTAMP:20260708T165546Z
+SUMMARY:🚗 dopravní nehoda - Počátky
+LOCATION:Počátky
+GEO:49.275358;15.262973
+URL:geo:49.275358,15.262973
+DESCRIPTION:📍 Heřmaneč\, Počátky\, Pelhřimov\n\n🚒 CAS (HS Kamenice nad Lipo
+ u)\n🚒 CAS (Počátky)
+END:VEVENT
 END:VCALENDAR
