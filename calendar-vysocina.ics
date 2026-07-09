@@ -877,10 +877,10 @@ SUMMARY:🔥 vozidlo - Kralice nad Oslavou
 LOCATION:Kralice nad Oslavou
 GEO:49.197609;16.193934
 URL:geo:49.197609,16.193934
-DESCRIPTION:📍 Kralice nad Oslavou\, Třebíč\n\n🚒 CAS (HS Náměšť nad Oslavou)
- \n🚒 CAS (Kralice nad Oslavou)\n🚒 vyšetřovací automobil (ÚO Třebíč)\n🚒 auto
- mobilový nosič kontejnerů (CHS Třebíč)\n🚒 kontejner technický - chemický (
- CHS Třebíč)
+DESCRIPTION:📍 Kralice nad Oslavou\, Třebíč\n💬 Požár NA. Provedena lokalizac
+ e a likvidace.\n\n🚒 CAS (HS Náměšť nad Oslavou)\n🚒 CAS (Kralice nad Oslavo
+ u)\n🚒 vyšetřovací automobil (ÚO Třebíč)\n🚒 automobilový nosič kontejnerů (
+ CHS Třebíč)\n🚒 kontejner technický - chemický (CHS Třebíč)
 END:VEVENT
 BEGIN:VEVENT
 UID:415020061
@@ -915,6 +915,19 @@ SUMMARY:🛠️ obtížný hmyz - Hrotovice
 LOCATION:Letná\, Hrotovice
 GEO:49.105693;16.065617
 URL:geo:49.105693,16.065617
-DESCRIPTION:📍 Letná\, Hrotovice\, Třebíč\n\n🚒 CAS (HS Hrotovice)
+DESCRIPTION:📍 Letná\, Hrotovice\, Třebíč\n💬 Odstranění obtížného hmyzu.\n\n
+ 🚒 CAS (HS Hrotovice)
+END:VEVENT
+BEGIN:VEVENT
+UID:415023061
+DTSTART:20260709T073935Z
+DTEND:20260709T083935Z
+DTSTAMP:20260709T073935Z
+SUMMARY:🚑 spolupráce ZZS - Velké Meziříčí
+LOCATION:Za Horou\, Velké Meziříčí
+GEO:49.358686;15.989727
+URL:geo:49.358686,15.989727
+DESCRIPTION:📍 Za Horou\, Velké Meziříčí\, Žďár nad Sázavou\n\n🚒 CAS (HS Vel
+ ké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)
 END:VEVENT
 END:VCALENDAR
