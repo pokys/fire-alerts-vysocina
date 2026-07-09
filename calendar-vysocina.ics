@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:414875061
-DTSTART:20260707T091046Z
-DTEND:20260707T101046Z
-DTSTAMP:20260707T091046Z
-SUMMARY:🚑 záchrana ze stromu - Světlá nad Sázavou
-LOCATION:Lánecká\, Světlá nad Sázavou
-GEO:49.668220;15.403083
-URL:geo:49.668220,15.403083
-DESCRIPTION:📍 Lánecká\, Světlá nad Sázavou\, Havlíčkův Brod\n💬 Holub uvízlý
-  za zasklením budovy\, vyproštěn a vypuštěn.\n\n🚒 CAS (HS Světlá nad Sázav
- ou)
-END:VEVENT
-BEGIN:VEVENT
 UID:414879061
 DTSTART:20260707T101630Z
 DTEND:20260707T111630Z
@@ -881,5 +868,18 @@ GEO:49.358686;15.989727
 URL:geo:49.358686,15.989727
 DESCRIPTION:📍 Za Horou\, Velké Meziříčí\, Žďár nad Sázavou\n💬 Spolupráce s 
  ZZS.\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)
+END:VEVENT
+BEGIN:VEVENT
+UID:415025061
+DTSTART:20260709T090155Z
+DTEND:20260709T100155Z
+DTSTAMP:20260709T090155Z
+SUMMARY:☣️ olej/PHM - Chotěboř
+LOCATION:Krále Jana\, Chotěboř
+GEO:49.717740;15.669743
+URL:geo:49.717740,15.669743
+DESCRIPTION:📍 Krále Jana\, Chotěboř\, Havlíčkův Brod\n💬 Odstranění úniku pr
+ ovozních kapalin z pozemní komunikace za pomoci sorbentu.\n\n🚒 CAS (HS Cho
+ těboř)
 END:VEVENT
 END:VCALENDAR
