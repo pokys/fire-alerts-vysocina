@@ -878,6 +878,43 @@ LOCATION:Kralice nad Oslavou
 GEO:49.197609;16.193934
 URL:geo:49.197609,16.193934
 DESCRIPTION:📍 Kralice nad Oslavou\, Třebíč\n\n🚒 CAS (HS Náměšť nad Oslavou)
- \n🚒 CAS (Kralice nad Oslavou)\n🚒 vyšetřovací automobil (ÚO Třebíč)
+ \n🚒 CAS (Kralice nad Oslavou)\n🚒 vyšetřovací automobil (ÚO Třebíč)\n🚒 auto
+ mobilový nosič kontejnerů (CHS Třebíč)\n🚒 kontejner technický - chemický (
+ CHS Třebíč)
+END:VEVENT
+BEGIN:VEVENT
+UID:415020061
+DTSTART:20260709T071309Z
+DTEND:20260709T081309Z
+DTSTAMP:20260709T071309Z
+SUMMARY:🚑 transport pacienta - Velké Meziříčí
+LOCATION:Bezručova\, Velké Meziříčí
+GEO:49.352172;16.005993
+URL:geo:49.352172,16.005993
+DESCRIPTION:📍 Bezručova\, Velké Meziříčí\, Žďár nad Sázavou\n💬 Transport pa
+ cienta na žádost ZZS.\n\n🚒 CAS (HS Velké Meziříčí)
+END:VEVENT
+BEGIN:VEVENT
+UID:415021061
+DTSTART:20260709T072707Z
+DTEND:20260709T082707Z
+DTSTAMP:20260709T072707Z
+SUMMARY:🛠️ strom - Havlíčkův Brod
+LOCATION:Havlíčkův Brod
+GEO:49.612756;15.563970
+URL:geo:49.612756,15.563970
+DESCRIPTION:💬 Odstranění stromu.\n\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 AŽ (CHS H
+ avlíčkův Brod)
+END:VEVENT
+BEGIN:VEVENT
+UID:415022061
+DTSTART:20260709T072841Z
+DTEND:20260709T082841Z
+DTSTAMP:20260709T072841Z
+SUMMARY:🛠️ obtížný hmyz - Hrotovice
+LOCATION:Letná\, Hrotovice
+GEO:49.105693;16.065617
+URL:geo:49.105693,16.065617
+DESCRIPTION:📍 Letná\, Hrotovice\, Třebíč\n\n🚒 CAS (HS Hrotovice)
 END:VEVENT
 END:VCALENDAR
