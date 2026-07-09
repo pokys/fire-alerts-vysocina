@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:414870061
-DTSTART:20260707T082405Z
-DTEND:20260707T092405Z
-DTSTAMP:20260707T082405Z
-SUMMARY:🚑 spolupráce ZZS - Světlá nad Sázavou
-LOCATION:U Stromečku\, Světlá nad Sázavou
-GEO:49.674599;15.398580
-URL:geo:49.674599,15.398580
-DESCRIPTION:📍 U Stromečku\, Světlá nad Sázavou\, Havlíčkův Brod\n💬 Pomoc s 
- resuscitací.\n\n🚒 CAS (HS Světlá nad Sázavou)
-END:VEVENT
-BEGIN:VEVENT
 UID:414871061
 DTSTART:20260707T083926Z
 DTEND:20260707T093926Z
@@ -915,7 +903,7 @@ SUMMARY:🚑 spolupráce ZZS - Velké Meziříčí
 LOCATION:Za Horou\, Velké Meziříčí
 GEO:49.358686;15.989727
 URL:geo:49.358686,15.989727
-DESCRIPTION:📍 Za Horou\, Velké Meziříčí\, Žďár nad Sázavou\n\n🚒 CAS (HS Vel
- ké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)
+DESCRIPTION:📍 Za Horou\, Velké Meziříčí\, Žďár nad Sázavou\n💬 Spolupráce s 
+ ZZS.\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)
 END:VEVENT
 END:VCALENDAR
