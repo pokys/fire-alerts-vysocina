@@ -601,10 +601,10 @@ SUMMARY:🔥 les - Bransouze
 LOCATION:Bransouze
 GEO:49.296746;15.738042
 URL:geo:49.296746,15.738042
-DESCRIPTION:📍 Bransouze\, Třebíč\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (CHS Třebíč)\
- n🚒 CAS (Brtnice)\n🚒 DA (Bransouze)\n🚒 CAS (Bransouze)\n🚒 DA (Přibyslavice)
- \n🚒 CAS (Přibyslavice)\n🚒 CAS (Přibyslavice)\n🚒 vyšetřovací automobil (ÚO 
- Třebíč)
+DESCRIPTION:📍 Bransouze\, Třebíč\n💬 Požár lesa na ploše 70x70m. Provedena l
+ okalizace a likvidace.\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (CHS Třebíč)\n🚒 CAS (B
+ rtnice)\n🚒 DA (Bransouze)\n🚒 CAS (Bransouze)\n🚒 DA (Přibyslavice)\n🚒 CAS (
+ Přibyslavice)\n🚒 CAS (Přibyslavice)\n🚒 vyšetřovací automobil (ÚO Třebíč)
 END:VEVENT
 BEGIN:VEVENT
 UID:415039061
@@ -665,7 +665,8 @@ SUMMARY:🚗 dopravní nehoda - Telč
 LOCATION:Třebíčská\, Telč
 GEO:49.188694;15.476008
 URL:geo:49.188694,15.476008
-DESCRIPTION:📍 Třebíčská\, Telč-Podolí\, Telč\, Jihlava\n\n🚒 CAS (HS Telč)
+DESCRIPTION:📍 Třebíčská\, Telč-Podolí\, Telč\, Jihlava\n💬 DN motocyklu\, 1 
+ zraněná osoba. Provedeno zajištění místa nehody.\n\n🚒 CAS (HS Telč)
 END:VEVENT
 BEGIN:VEVENT
 UID:415047061
@@ -676,8 +677,8 @@ SUMMARY:🚑 transport pacienta - Luka nad Jihlavou
 LOCATION:Ztracená\, Luka nad Jihlavou
 GEO:49.373543;15.707379
 URL:geo:49.373543,15.707379
-DESCRIPTION:📍 Ztracená\, Luka nad Jihlavou\, Jihlava\n\n🚒 CAS (CHS Jihlava)
- \n🚒 CAS (Luka nad Jihlavou)
+DESCRIPTION:📍 Ztracená\, Luka nad Jihlavou\, Jihlava\n💬 Pomoc ZZS s transpo
+ rtem pacienta\n\n🚒 CAS (CHS Jihlava)\n🚒 CAS (Luka nad Jihlavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:415048061
@@ -688,6 +689,31 @@ SUMMARY:🛠️ obtížný hmyz - Zvolenovice
 LOCATION:Zvolenovice
 GEO:49.165908;15.500369
 URL:geo:49.165908,15.500369
-DESCRIPTION:📍 Zvolenovice\, Jihlava\n\n🚒 CAS (HS Telč)
+DESCRIPTION:📍 Zvolenovice\, Jihlava\n💬 Likvidace obtížného hmyzu.\n\n🚒 CAS 
+ (HS Telč)
+END:VEVENT
+BEGIN:VEVENT
+UID:415049061
+DTSTART:20260709T161422Z
+DTEND:20260709T171422Z
+DTSTAMP:20260709T161422Z
+SUMMARY:🛠️ obtížný hmyz - Pacov
+LOCATION:Nádražní\, Pacov
+GEO:49.465260;15.012748
+URL:geo:49.465260,15.012748
+DESCRIPTION:📍 Nádražní\, Pacov\, Pelhřimov\n💬 Likvidace obtížného hmyzu.\n\
+ n🚒 CAS (HS Pacov)
+END:VEVENT
+BEGIN:VEVENT
+UID:415052061
+DTSTART:20260709T162912Z
+DTEND:20260709T172912Z
+DTSTAMP:20260709T162912Z
+SUMMARY:🛠️ obtížný hmyz - Zvěstovice
+LOCATION:Zvěstovice
+GEO:49.847824;15.511234
+URL:geo:49.847824,15.511234
+DESCRIPTION:📍 Zvěstovice\, Havlíčkův Brod\n💬 Odstranění obtížného hmyzu.\n\
+ n🚒 CAS (Golčův Jeníkov)
 END:VEVENT
 END:VCALENDAR
