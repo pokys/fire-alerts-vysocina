@@ -126,7 +126,7 @@ LOCATION:Nové Dvory
 GEO:49.567257;15.777807
 URL:geo:49.567257,15.777807
 DESCRIPTION:📍 Nové Dvory\, Žďár nad Sázavou\n💬 Odstranění stromu.\n\n🚒 CAS 
- (Přibyslav)
+ (Přibyslav)\n🚒 pila řetězová (Přibyslav)
 END:VEVENT
 BEGIN:VEVENT
 UID:414901061
@@ -868,7 +868,8 @@ SUMMARY:🛠️ obtížný hmyz - Želiv
 LOCATION:Želiv
 GEO:49.530250;15.220237
 URL:geo:49.530250,15.220237
-DESCRIPTION:📍 Želiv\, Pelhřimov\n\n🚒 DA (Želiv)\n🚒 CAS (Želiv)
+DESCRIPTION:📍 Želiv\, Pelhřimov\n💬 Likvidace obtížného hmyzu.\n\n🚒 DA (Želi
+ v)\n🚒 CAS (Želiv)
 END:VEVENT
 BEGIN:VEVENT
 UID:415027061
