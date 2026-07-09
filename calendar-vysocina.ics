@@ -868,4 +868,15 @@ URL:geo:49.429200,15.605730
 DESCRIPTION:📍 Heroltická\, Jihlava\n💬 Požár OA.\n\n🚒 CAS (CHS Jihlava)\n🚒 R
  ZA (CHS Jihlava)\n🚒 vyšetřovací automobil (ÚO Jihlava)
 END:VEVENT
+BEGIN:VEVENT
+UID:415008061
+DTSTART:20260709T042808Z
+DTEND:20260709T052808Z
+DTSTAMP:20260709T042808Z
+SUMMARY:🛠️ ostatní - Přibyslavice
+LOCATION:Petrovická\, Přibyslavice
+GEO:49.255270;15.780692
+URL:geo:49.255270,15.780692
+DESCRIPTION:📍 Petrovická\, Přibyslavice\, Třebíč\n\n🚒 CAS (Přibyslavice)
+END:VEVENT
 END:VCALENDAR
