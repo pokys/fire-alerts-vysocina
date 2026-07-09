@@ -5,30 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:414918061
-DTSTART:20260707T155414Z
-DTEND:20260707T165414Z
-DTSTAMP:20260707T155414Z
-SUMMARY:🛠️ strom - Kamenice nad Lipou
-LOCATION:Kamenice nad Lipou
-GEO:49.317309;15.083763
-URL:geo:49.317309,15.083763
-DESCRIPTION:📍 Johanka\, Kamenice nad Lipou\, Pelhřimov\n💬 Odstranění stromu
- .\n\n🚒 CAS (HS Kamenice nad Lipou)\n🚒 pila řetězová (HS Kamenice nad Lipou
- )
-END:VEVENT
-BEGIN:VEVENT
-UID:414919061
-DTSTART:20260707T155913Z
-DTEND:20260707T165913Z
-DTSTAMP:20260707T155913Z
-SUMMARY:⚠️ planý poplach - Kamenice
-LOCATION:Kamenice
-GEO:49.374550;15.785279
-URL:geo:49.374550,15.785279
-DESCRIPTION:📍 Kamenice\, Jihlava\n💬 Planý poplach.\n\n🚒 CAS (Kamenice (JI))
-END:VEVENT
-BEGIN:VEVENT
 UID:414920061
 DTSTART:20260707T160323Z
 DTEND:20260707T170323Z
@@ -688,8 +664,9 @@ SUMMARY:🔥 budova - Havlíčkův Brod
 LOCATION:Havlíčkův Brod
 GEO:49.608826;15.560680
 URL:geo:49.608826,15.560680
-DESCRIPTION:🚒 CAS (CHS Havlíčkův Brod)\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 CAS (
- Havlíčkův Brod-Perknov)\n🚒 DA (Havlíčkův Brod-Mírovka)
+DESCRIPTION:💬 Zahoření uskladněného materiálu ve stavební buňce.\n\n🚒 CAS (
+ CHS Havlíčkův Brod)\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 CAS (Havlíčkův Brod-Per
+ knov)\n🚒 DA (Havlíčkův Brod-Mírovka)
 END:VEVENT
 BEGIN:VEVENT
 UID:415043061
@@ -702,5 +679,16 @@ GEO:49.513012;15.108584
 URL:geo:49.513012,15.108584
 DESCRIPTION:📍 Panská\, Hořepník\, Pelhřimov\n💬 Likvidace obtížného hmyzu.\n
  \n🚒 CAS (HS Pacov)
+END:VEVENT
+BEGIN:VEVENT
+UID:415044061
+DTSTART:20260709T154807Z
+DTEND:20260709T164807Z
+DTSTAMP:20260709T154807Z
+SUMMARY:🚗 dopravní nehoda - Telč
+LOCATION:Třebíčská\, Telč
+GEO:49.188694;15.476008
+URL:geo:49.188694,15.476008
+DESCRIPTION:📍 Třebíčská\, Telč-Podolí\, Telč\, Jihlava\n\n🚒 CAS (HS Telč)
 END:VEVENT
 END:VCALENDAR
