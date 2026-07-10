@@ -858,9 +858,9 @@ DTEND:20260710T183603Z
 DTSTAMP:20260710T173603Z
 SUMMARY:🔥 les - Kostníky
 LOCATION:Kostníky
-DESCRIPTION:📍 Kostníky\, Třebíč\n💬 Požár lesa.\n\n🚒 CAS (HS Jemnice)\n🚒 CAS
-  (HS Moravské Budějovice)\n🚒 DA (Police)\n🚒 CAS (Police)\n🚒 vyšetřovací au
- tomobil (ÚO Třebíč)
+DESCRIPTION:📍 Kostníky\, Třebíč\n💬 Požár lesa. Provedena lokalizace a likvi
+ dace.\n\n🚒 CAS (HS Jemnice)\n🚒 CAS (HS Moravské Budějovice)\n🚒 DA (Police)
+ \n🚒 CAS (Police)\n🚒 vyšetřovací automobil (ÚO Třebíč)
 END:VEVENT
 BEGIN:VEVENT
 UID:415124061
@@ -944,5 +944,17 @@ GEO:49.557216;15.938364
 URL:geo:49.557216,15.938364
 DESCRIPTION:📍 Nádražní\, Žďár nad Sázavou 6\, Žďár nad Sázavou\n💬 Otevření 
  bytu.\n\n🚒 CAS (CHS Žďár nad Sázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:415133061
+DTSTART:20260710T205129Z
+DTEND:20260710T215129Z
+DTSTAMP:20260710T205129Z
+SUMMARY:🛠️ ostatní - Velká Bíteš
+LOCATION:Návrší\, Velká Bíteš
+GEO:49.285002;16.230311
+URL:geo:49.285002,16.230311
+DESCRIPTION:📍 Návrší\, Janovice\, Velká Bíteš\, Žďár nad Sázavou\n\n🚒 CAS (
+ HS Velká Bíteš)
 END:VEVENT
 END:VCALENDAR
