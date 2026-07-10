@@ -5,44 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:414969061
-DTSTART:20260708T124559Z
-DTEND:20260708T134559Z
-DTSTAMP:20260708T124559Z
-SUMMARY:🚗 se zraněním - Moravské Budějovice
-LOCATION:Moravské Budějovice
-GEO:49.067322;15.841183
-URL:geo:49.067322,15.841183
-DESCRIPTION:📍 Moravské Budějovice\, Třebíč\n💬 DN 5 OA a autobusu se zranění
- m. Provedeno vyproštění 1 zraněné osoby a zajištění místa události.\n\n🚒 C
- AS (HS Moravské Budějovice)\n🚒 CAS (HS Moravské Budějovice)\n🚒 CAS (CHS Tř
- ebíč)
-END:VEVENT
-BEGIN:VEVENT
-UID:414970061
-DTSTART:20260708T124648Z
-DTEND:20260708T134648Z
-DTSTAMP:20260708T124648Z
-SUMMARY:🚗 dopravní nehoda - Kámen
-LOCATION:Kámen
-GEO:49.427083;15.013243
-URL:geo:49.427083,15.013243
-DESCRIPTION:📍 Kámen\, Pelhřimov\n💬 Dopravní nehoda 2 OA a 1 NA. Poskytnutí 
- předlékařské pomoci a zajištění místa události.\n\n🚒 CAS (HS Pacov)
-END:VEVENT
-BEGIN:VEVENT
-UID:414971061
-DTSTART:20260708T124736Z
-DTEND:20260708T134736Z
-DTSTAMP:20260708T124736Z
-SUMMARY:🛠️ strom - Přibyslav
-LOCATION:Přibyslav
-GEO:49.594677;15.715516
-URL:geo:49.594677,15.715516
-DESCRIPTION:📍 Dobrá\, Přibyslav\, Havlíčkův Brod\n💬 Odstranění stromu.\n\n🚒
-  CAS (Přibyslav)
-END:VEVENT
-BEGIN:VEVENT
 UID:414981061
 DTSTART:20260708T142352Z
 DTEND:20260708T152352Z
@@ -709,9 +671,10 @@ SUMMARY:🔥 technologie - Velké Meziříčí
 LOCATION:Průmyslová\, Velké Meziříčí
 GEO:49.342324;16.036714
 URL:geo:49.342324,16.036714
-DESCRIPTION:📍 Průmyslová\, Velké Meziříčí\, Žďár nad Sázavou\n\n🚒 CAS (HS V
- elké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)\n🚒 CAS (Měřín)\n🚒 CAS (Velké Mez
- iříčí)\n🚒 vyšetřovací automobil (ÚO Žďár nad Sázavou)
+DESCRIPTION:📍 Průmyslová\, Velké Meziříčí\, Žďár nad Sázavou\n💬 Zahoření fi
+ ltru u odsávání. Provedeno rozebrání a ochlazení zařízení.\n\n🚒 CAS (HS Ve
+ lké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)\n🚒 CAS (Měřín)\n🚒 CAS (Velké Mezi
+ říčí)\n🚒 vyšetřovací automobil (ÚO Žďár nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:415078061
@@ -810,5 +773,29 @@ URL:geo:49.510857,15.948508
 DESCRIPTION:📍 Sazomín\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒
   CAS (CHS Žďár nad Sázavou)\n🚒 CAS (Ostrov nad Oslavou)\n🚒 DA (Sazomín)\n🚒
   CAS (Žďár nad Sázavou-Zámek)
+END:VEVENT
+BEGIN:VEVENT
+UID:415100061
+DTSTART:20260710T122923Z
+DTEND:20260710T132923Z
+DTSTAMP:20260710T122923Z
+SUMMARY:🛠️ obtížný hmyz - Měřín
+LOCATION:Brněnská\, Měřín
+GEO:49.388932;15.895056
+URL:geo:49.388932,15.895056
+DESCRIPTION:📍 Brněnská\, Měřín\, Žďár nad Sázavou\n💬 Odstranění obtížného h
+ myzu.\n\n🚒 CAS (Měřín)
+END:VEVENT
+BEGIN:VEVENT
+UID:415101061
+DTSTART:20260710T124345Z
+DTEND:20260710T134345Z
+DTSTAMP:20260710T124345Z
+SUMMARY:🔥 les - Batelov
+LOCATION:Batelov
+GEO:49.292749;15.406447
+URL:geo:49.292749,15.406447
+DESCRIPTION:📍 Lovětín\, Batelov\, Jihlava\n\n🚒 CAS (HS Třešť)\n🚒 CAS (Batel
+ ov)\n🚒 CAS (Dolní Cerekev)
 END:VEVENT
 END:VCALENDAR
