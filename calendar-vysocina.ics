@@ -593,7 +593,7 @@ LOCATION:Ztracená\, Luka nad Jihlavou
 GEO:49.373543;15.707379
 URL:geo:49.373543,15.707379
 DESCRIPTION:📍 Ztracená\, Luka nad Jihlavou\, Jihlava\n💬 Pomoc ZZS s transpo
- rtem pacienta\n\n🚒 CAS (CHS Jihlava)\n🚒 CAS (Luka nad Jihlavou)
+ rtem pacienta.\n\n🚒 CAS (CHS Jihlava)\n🚒 CAS (Luka nad Jihlavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:415048061
@@ -629,7 +629,7 @@ LOCATION:Okrouhlice
 GEO:49.623334;15.502381
 URL:geo:49.623334,15.502381
 DESCRIPTION:📍 Vadín\, Okrouhlice\, Havlíčkův Brod\n💬 DN 1 OA\, 1 zraněná os
- oba.\n\n🚒 CAS (CHS Havlíčkův Brod)
+ oba. Zabezpečení místa DN.\n\n🚒 CAS (CHS Havlíčkův Brod)
 END:VEVENT
 BEGIN:VEVENT
 UID:415052061
@@ -664,9 +664,9 @@ SUMMARY:🚗 úklid místa - Jabloňov
 LOCATION:Jabloňov
 GEO:49.325508;16.094243
 URL:geo:49.325508,16.094243
-DESCRIPTION:📍 Jabloňov\, Žďár nad Sázavou\n💬 DN sanitního vozu po střetu se
-  zvěří\, bez zranění.\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (HS Velké Meziří
- čí)
+DESCRIPTION:📍 Jabloňov\, Žďár nad Sázavou\n💬 DN dodávkového vozidla po stře
+ tu se zvěří\, bez zranění.\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (HS Velké M
+ eziříčí)
 END:VEVENT
 BEGIN:VEVENT
 UID:415055061
@@ -726,6 +726,19 @@ SUMMARY:🛠️ obtížný hmyz - Dolní Cerekev
 LOCATION:Dolní Cerekev
 GEO:49.346435;15.468798
 URL:geo:49.346435,15.468798
-DESCRIPTION:📍 Dolní Cerekev\, Jihlava\n\n🚒 CAS (Dolní Cerekev)
+DESCRIPTION:📍 Dolní Cerekev\, Jihlava\n💬 Odstranění obtížného hmyzu.\n\n🚒 C
+ AS (Dolní Cerekev)
+END:VEVENT
+BEGIN:VEVENT
+UID:415062061
+DTSTART:20260710T051657Z
+DTEND:20260710T061657Z
+DTSTAMP:20260710T051657Z
+SUMMARY:🛠️ ostatní - Vojnův Městec
+LOCATION:Vojnův Městec
+GEO:49.679146;15.882651
+URL:geo:49.679146,15.882651
+DESCRIPTION:📍 Vojnův Městec\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad Sázav
+ ou)
 END:VEVENT
 END:VCALENDAR
