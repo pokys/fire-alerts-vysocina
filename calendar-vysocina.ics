@@ -848,7 +848,8 @@ SUMMARY:🚗 dopravní nehoda - Olešná
 LOCATION:Olešná
 GEO:49.446468;15.270126
 URL:geo:49.446468,15.270126
-DESCRIPTION:📍 Olešná\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)
+DESCRIPTION:📍 Olešná\, Pelhřimov\n💬 DN 1 OA a 1 motocyklu. Zajištění místa 
+ události. Úklid vozovky.\n\n🚒 CAS (CHS Pelhřimov)
 END:VEVENT
 BEGIN:VEVENT
 UID:415121061
@@ -858,7 +859,8 @@ DTSTAMP:20260710T173603Z
 SUMMARY:🔥 les - Kostníky
 LOCATION:Kostníky
 DESCRIPTION:📍 Kostníky\, Třebíč\n💬 Požár lesa.\n\n🚒 CAS (HS Jemnice)\n🚒 CAS
-  (HS Moravské Budějovice)\n🚒 CAS (Police)
+  (HS Moravské Budějovice)\n🚒 DA (Police)\n🚒 CAS (Police)\n🚒 vyšetřovací au
+ tomobil (ÚO Třebíč)
 END:VEVENT
 BEGIN:VEVENT
 UID:415124061
@@ -917,6 +919,7 @@ SUMMARY:🚗 úklid místa - Třebíč
 LOCATION:Branka\, Třebíč
 GEO:49.217998;15.891705
 URL:geo:49.217998,15.891705
-DESCRIPTION:📍 Branka\, Nové Město\, Třebíč\n\n🚒 CAS (CHS Třebíč)
+DESCRIPTION:📍 Branka\, Nové Město\, Třebíč\n💬 DN 2 OA bez zranění. Zajištěn
+ í místa události.\n\n🚒 CAS (CHS Třebíč)
 END:VEVENT
 END:VCALENDAR
