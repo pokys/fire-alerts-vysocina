@@ -851,6 +851,16 @@ URL:geo:49.446468,15.270126
 DESCRIPTION:📍 Olešná\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)
 END:VEVENT
 BEGIN:VEVENT
+UID:415121061
+DTSTART:20260710T173603Z
+DTEND:20260710T183603Z
+DTSTAMP:20260710T173603Z
+SUMMARY:🔥 les - Kostníky
+LOCATION:Kostníky
+DESCRIPTION:📍 Kostníky\, Třebíč\n💬 Požár lesa.\n\n🚒 CAS (HS Jemnice)\n🚒 CAS
+  (HS Moravské Budějovice)\n🚒 CAS (Police)
+END:VEVENT
+BEGIN:VEVENT
 UID:415124061
 DTSTART:20260710T175035Z
 DTEND:20260710T185035Z
@@ -859,7 +869,8 @@ SUMMARY:🛠️ obtížný hmyz - Polnička
 LOCATION:Polnička
 GEO:49.606738;15.914952
 URL:geo:49.606738,15.914952
-DESCRIPTION:📍 Polnička\, Žďár nad Sázavou\n\n🚒 DA (Polnička)
+DESCRIPTION:📍 Polnička\, Žďár nad Sázavou\n💬 Odstranění obtížného hmyzu.\n\
+ n🚒 DA (Polnička)
 END:VEVENT
 BEGIN:VEVENT
 UID:415125061
@@ -882,7 +893,8 @@ SUMMARY:🛠️ obtížný hmyz - Nová Ves
 LOCATION:Nová Ves
 GEO:49.244174;15.809837
 URL:geo:49.244174,15.809837
-DESCRIPTION:📍 Nová Ves\, Třebíč\n\n🚒 DA (Nová Ves (TR))
+DESCRIPTION:📍 Nová Ves\, Třebíč\n💬 Odstranění obtížného hmyzu.\n\n🚒 DA (Nov
+ á Ves (TR))
 END:VEVENT
 BEGIN:VEVENT
 UID:415127061
@@ -893,6 +905,18 @@ SUMMARY:🔥 odpad - Třebíč
 LOCATION:Třebíč
 GEO:49.220592;15.861864
 URL:geo:49.220592,15.861864
-DESCRIPTION:📍 Podklášteří\, Třebíč\n\n🚒 CAS (CHS Třebíč)
+DESCRIPTION:📍 Podklášteří\, Třebíč\n💬 Požár kontejneru na bioodpad. Provede
+ na lokalizace a likvidace požáru.\n\n🚒 CAS (CHS Třebíč)
+END:VEVENT
+BEGIN:VEVENT
+UID:415130061
+DTSTART:20260710T182854Z
+DTEND:20260710T192854Z
+DTSTAMP:20260710T182854Z
+SUMMARY:🚗 úklid místa - Třebíč
+LOCATION:Branka\, Třebíč
+GEO:49.217998;15.891705
+URL:geo:49.217998,15.891705
+DESCRIPTION:📍 Branka\, Nové Město\, Třebíč\n\n🚒 CAS (CHS Třebíč)
 END:VEVENT
 END:VCALENDAR
