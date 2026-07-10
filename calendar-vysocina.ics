@@ -5,21 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:414966061
-DTSTART:20260708T121919Z
-DTEND:20260708T131919Z
-DTSTAMP:20260708T121919Z
-SUMMARY:🔥 tráva/plocha - Lukov
-LOCATION:Lukov
-GEO:49.074163;15.836587
-URL:geo:49.074163,15.836587
-DESCRIPTION:📍 Lukov\, Třebíč\n💬 Požár pole. Provedena lokalizace a likvidac
- e požáru.\n\n🚒 CAS (HS Moravské Budějovice) ×2\n🚒 CAS (HS Moravské Budějov
- ice)\n🚒 CAS (Jaroměřice nad Rokytnou)\n🚒 CAS (Jaroměřice nad Rokytnou)\n🚒 
- DA (Lukov)\n🚒 CAS (Moravské Budějovice)\n🚒 CAS (HS Hrotovice)\n🚒 CAS (Leso
- nice)\n🚒 CAS (CHS Třebíč)\n🚒 vyšetřovací automobil (ÚO Třebíč)
-END:VEVENT
-BEGIN:VEVENT
 UID:414969061
 DTSTART:20260708T124559Z
 DTEND:20260708T134559Z
