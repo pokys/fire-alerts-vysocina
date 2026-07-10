@@ -714,8 +714,8 @@ SUMMARY:🛠️ ostatní - Habry
 LOCATION:Habry
 GEO:49.719433;15.455620
 URL:geo:49.719433,15.455620
-DESCRIPTION:📍 Zboží\, Habry\, Havlíčkův Brod\n\n🚒 automobilová plošina do 3
- 0 m (Habry)
+DESCRIPTION:📍 Zboží\, Habry\, Havlíčkův Brod\n💬 ZOČ\n\n🚒 automobilová ploši
+ na do 30 m (Habry)
 END:VEVENT
 BEGIN:VEVENT
 UID:415068061
@@ -773,8 +773,8 @@ SUMMARY:🛠️ obtížný hmyz - Žďár nad Sázavou
 LOCATION:Chelčického\, Žďár nad Sázavou
 GEO:49.554436;15.942872
 URL:geo:49.554436,15.942872
-DESCRIPTION:📍 Chelčického\, Žďár nad Sázavou 6\, Žďár nad Sázavou\n\n🚒 CAS 
- (CHS Žďár nad Sázavou)
+DESCRIPTION:📍 Chelčického\, Žďár nad Sázavou 6\, Žďár nad Sázavou\n💬 Odstra
+ nění obtížného hmyzu.\n\n🚒 CAS (CHS Žďár nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:415075061
@@ -786,5 +786,18 @@ LOCATION:Helenínská\, Jihlava
 GEO:49.406343;15.597717
 URL:geo:49.406343,15.597717
 DESCRIPTION:📍 Helenínská\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+END:VEVENT
+BEGIN:VEVENT
+UID:415077061
+DTSTART:20260710T075301Z
+DTEND:20260710T085301Z
+DTSTAMP:20260710T075301Z
+SUMMARY:🔥 technologie - Velké Meziříčí
+LOCATION:Průmyslová\, Velké Meziříčí
+GEO:49.342324;16.036714
+URL:geo:49.342324,16.036714
+DESCRIPTION:📍 Průmyslová\, Velké Meziříčí\, Žďár nad Sázavou\n\n🚒 CAS (HS V
+ elké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)\n🚒 CAS (Měřín)\n🚒 CAS (Velké Mez
+ iříčí)
 END:VEVENT
 END:VCALENDAR
