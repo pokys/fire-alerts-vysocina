@@ -786,7 +786,8 @@ SUMMARY:🛠️ ostatní - Nové Veselí
 LOCATION:Dolní\, Nové Veselí
 GEO:49.518891;15.910950
 URL:geo:49.518891,15.910950
-DESCRIPTION:📍 Dolní\, Nové Veselí\, Žďár nad Sázavou\n\n🚒 CAS (Nové Veselí)
+DESCRIPTION:📍 Dolní\, Nové Veselí\, Žďár nad Sázavou\n💬 ZOČ\n\n🚒 CAS (Nové 
+ Veselí)
 END:VEVENT
 BEGIN:VEVENT
 UID:415106061
@@ -891,8 +892,8 @@ DTEND:20260710T170728Z
 DTSTAMP:20260710T160728Z
 SUMMARY:🛠️ obtížný hmyz - Slavíkovice
 LOCATION:Slavíkovice
-GEO:49.003078;15.623707
-URL:geo:49.003078,15.623707
+GEO:49.000642;15.633711
+URL:geo:49.000642,15.633711
 DESCRIPTION:📍 Slavíkovice\, Třebíč\n💬 Odstranění obtížného hmyzu.\n\n🚒 CAS 
  (HS Jemnice)
 END:VEVENT
