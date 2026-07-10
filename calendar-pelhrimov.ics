@@ -124,4 +124,15 @@ DESCRIPTION:📍 Košetice\, Pelhřimov\n💬 Dopravní nehoda osobního automob
   motorkáře. Provedeno protipožární opatření a zabezpečení místa nehody. Na
   místě jedna zraněná osoba.\n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (Onšov)
 END:VEVENT
+BEGIN:VEVENT
+UID:415108061
+DTSTART:20260710T142848Z
+DTEND:20260710T152848Z
+DTSTAMP:20260710T142848Z
+SUMMARY:🛠️ ostatní - Olešná
+LOCATION:Olešná
+GEO:49.446010;15.260373
+URL:geo:49.446010,15.260373
+DESCRIPTION:📍 Olešná\, Pelhřimov\n\n🚒 CAS (Olešná (PE))
+END:VEVENT
 END:VCALENDAR
