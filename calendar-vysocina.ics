@@ -842,8 +842,9 @@ SUMMARY:🛠️ strom - Bystřice nad Pernštejnem
 LOCATION:Bystřice nad Pernštejnem
 GEO:49.555691;16.214796
 URL:geo:49.555691,16.214796
-DESCRIPTION:📍 Domanín\, Bystřice nad Pernštejnem\, Žďár nad Sázavou\n\n🚒 CA
- S (HS Bystřice nad Pernštejnem)
+DESCRIPTION:📍 Domanín\, Bystřice nad Pernštejnem\, Žďár nad Sázavou\n💬 Odst
+ ranění stromu.\n\n🚒 CAS (HS Bystřice nad Pernštejnem)\n🚒 pila řetězová (HS
+  Bystřice nad Pernštejnem)
 END:VEVENT
 BEGIN:VEVENT
 UID:415111061
@@ -867,9 +868,9 @@ SUMMARY:🔥 les - Březí nad Oslavou
 LOCATION:Březí nad Oslavou
 GEO:49.514733;15.953277
 URL:geo:49.514733,15.953277
-DESCRIPTION:📍 Březí nad Oslavou\, Žďár nad Sázavou\n\n🚒 DA (Březí nad Oslav
- ou)\n🚒 vozidlo účelové - SxS (Březí nad Oslavou)\n🚒 přÍvěs pro hašení (Bře
- zí nad Oslavou)
+DESCRIPTION:📍 Březí nad Oslavou\, Žďár nad Sázavou\n💬 Taktické cvičení.\n\n
+ 🚒 DA (Březí nad Oslavou)\n🚒 vozidlo účelové - SxS (Březí nad Oslavou)\n🚒 p
+ řÍvěs pro hašení (Březí nad Oslavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:415113061
