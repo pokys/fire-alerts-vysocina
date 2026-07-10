@@ -233,7 +233,7 @@ LOCATION:Havlíčkův Brod
 GEO:49.612756;15.563970
 URL:geo:49.612756,15.563970
 DESCRIPTION:💬 Odstranění stromu.\n\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 AŽ (CHS H
- avlíčkův Brod)
+ avlíčkův Brod)\n🚒 pila řetězová (CHS Havlíčkův Brod)
 END:VEVENT
 BEGIN:VEVENT
 UID:415022061
@@ -811,5 +811,16 @@ GEO:49.601514;15.578808
 URL:geo:49.601514,15.578808
 DESCRIPTION:📍 Jihlavská\, Havlíčkův Brod\n💬 Otevření bytu.\n\n🚒 CAS (CHS Ha
  vlíčkův Brod)
+END:VEVENT
+BEGIN:VEVENT
+UID:415103061
+DTSTART:20260710T133651Z
+DTEND:20260710T143651Z
+DTSTAMP:20260710T133651Z
+SUMMARY:🛠️ ostatní - Nové Veselí
+LOCATION:Dolní\, Nové Veselí
+GEO:49.518891;15.910950
+URL:geo:49.518891,15.910950
+DESCRIPTION:📍 Dolní\, Nové Veselí\, Žďár nad Sázavou\n\n🚒 CAS (Nové Veselí)
 END:VEVENT
 END:VCALENDAR
