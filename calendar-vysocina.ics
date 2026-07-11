@@ -980,6 +980,33 @@ SUMMARY:🛠️ obtížný hmyz - Vepřová
 LOCATION:Vepřová
 GEO:49.613180;15.827046
 URL:geo:49.613180,15.827046
-DESCRIPTION:📍 Vepřová\, Žďár nad Sázavou\n\n🚒 CAS (Vepřová)
+DESCRIPTION:📍 Vepřová\, Žďár nad Sázavou\n💬 Odstranění obtížného hmyzu.\n\n
+ 🚒 CAS (Vepřová)
+END:VEVENT
+BEGIN:VEVENT
+UID:415150061
+DTSTART:20260711T082218Z
+DTEND:20260711T092218Z
+DTSTAMP:20260711T082218Z
+SUMMARY:🔥 tráva/plocha - Jakubov u Moravských Budějovic
+LOCATION:Jakubov u Moravských Budějovic
+GEO:49.079253;15.766355
+URL:geo:49.079253,15.766355
+DESCRIPTION:📍 Jakubov u Moravských Budějovic\, Třebíč\n\n🚒 CAS (HS Moravské
+  Budějovice)\n🚒 CAS (HS Moravské Budějovice)\n🚒 DA (Jakubov u Moravských B
+ udějovic)\n🚒 CAS (Lesonice)\n🚒 CAS (Moravské Budějovice)
+END:VEVENT
+BEGIN:VEVENT
+UID:415151061
+DTSTART:20260711T082222Z
+DTEND:20260711T092222Z
+DTSTAMP:20260711T082222Z
+SUMMARY:🔥 les - Cikháj
+LOCATION:Cikháj
+GEO:49.663699;15.965655
+URL:geo:49.663699,15.965655
+DESCRIPTION:📍 Cikháj\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 
+ CAS (CHS Žďár nad Sázavou)\n🚒 DA (Herálec (ZR))\n🚒 CAS (Herálec (ZR))\n🚒 D
+ A (Polnička)\n🚒 CAS (Polnička)\n🚒 CAS (Škrdlovice)
 END:VEVENT
 END:VCALENDAR
