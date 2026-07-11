@@ -123,4 +123,17 @@ URL:geo:49.264503,15.235940
 DESCRIPTION:📍 Sídliště\, Počátky\, Pelhřimov\n💬 Otevření výtahu.\n\n🚒 CAS (
  HS Kamenice nad Lipou)\n🚒 CAS (Počátky)
 END:VEVENT
+BEGIN:VEVENT
+UID:415178061
+DTSTART:20260711T124456Z
+DTEND:20260711T134456Z
+DTSTAMP:20260711T124456Z
+SUMMARY:🛠️ spolupráce IZS - Mnich
+LOCATION:Mnich
+GEO:49.341934;14.983861
+URL:geo:49.341934,14.983861
+DESCRIPTION:📍 Chválkov\, Mnich\, Pelhřimov\n\n🚒 CAS (Kamenice nad Lipou)\n🚒
+  CAS (Těmice)\n🚒 CAS (Mnich)\n🚒 DA (Bohdalín)\n🚒 DA (Mnich-Chválkov)\n🚒 př
+ ívěs motorová stříkačka (Černovice-Benešov)\n🚒 CAS (Černovice)
+END:VEVENT
 END:VCALENDAR
