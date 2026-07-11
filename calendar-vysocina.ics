@@ -724,8 +724,10 @@ DTSTAMP:20260710T173603Z
 SUMMARY:🔥 les - Kostníky
 LOCATION:Kostníky
 DESCRIPTION:📍 Kostníky\, Třebíč\n💬 Požár lesa. Provedena lokalizace a likvi
- dace.\n\n🚒 CAS (HS Jemnice)\n🚒 CAS (HS Moravské Budějovice)\n🚒 DA (Police)
- \n🚒 CAS (Police)\n🚒 vyšetřovací automobil (ÚO Třebíč)
+ dace.\n\n🚒 CAS (Bítov)\n🚒 VEA (CHS Znojmo)\n🚒 přívěs motorová stříkačka (K
+ orolupy)\n🚒 CAS (Uherčice (ZN))\n🚒 CAS (HS Jemnice)\n🚒 CAS (HS Moravské Bu
+ dějovice)\n🚒 DA (Police)\n🚒 CAS (Police)\n🚒 vyšetřovací automobil (ÚO Třeb
+ íč)
 END:VEVENT
 BEGIN:VEVENT
 UID:415124061
@@ -895,8 +897,8 @@ SUMMARY:🛠️ otevření bytu/auta - Velké Meziříčí
 LOCATION:Bezručova\, Velké Meziříčí
 GEO:49.352194;16.005448
 URL:geo:49.352194,16.005448
-DESCRIPTION:📍 Bezručova\, Velké Meziříčí\, Žďár nad Sázavou\n\n🚒 RZA (HS Ve
- lké Meziříčí)
+DESCRIPTION:📍 Bezručova\, Velké Meziříčí\, Žďár nad Sázavou\n💬 Otevření byt
+ u.\n\n🚒 RZA (HS Velké Meziříčí)
 END:VEVENT
 BEGIN:VEVENT
 UID:415141061
@@ -939,8 +941,9 @@ SUMMARY:🛠️ ostatní - Bystřice nad Pernštejnem
 LOCATION:Bystřice nad Pernštejnem
 GEO:49.523881;16.232334
 URL:geo:49.523881,16.232334
-DESCRIPTION:📍 Domanínek\, Bystřice nad Pernštejnem\, Žďár nad Sázavou\n\n🚒 
- CAS (HS Bystřice nad Pernštejnem)\n🚒 CAS (HS Bystřice nad Pernštejnem)
+DESCRIPTION:📍 Domanínek\, Bystřice nad Pernštejnem\, Žďár nad Sázavou\n💬 As
+ istence při nouzovém přistání letadla.\n\n🚒 CAS (HS Bystřice nad Pernštejn
+ em)\n🚒 CAS (HS Bystřice nad Pernštejnem)
 END:VEVENT
 BEGIN:VEVENT
 UID:415146061
@@ -951,7 +954,7 @@ SUMMARY:🔥 tráva/plocha - Havlíčkův Brod
 LOCATION:Průmyslová\, Havlíčkův Brod
 GEO:49.590950;15.592062
 URL:geo:49.590950,15.592062
-DESCRIPTION:📍 Průmyslová\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 
- CAS (CHS Havlíčkův Brod)
+DESCRIPTION:📍 Průmyslová\, Havlíčkův Brod\n💬 Požár trávy. Lokalizace a likv
+ idace.\n\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 CAS (CHS Havlíčkův Brod)
 END:VEVENT
 END:VCALENDAR
