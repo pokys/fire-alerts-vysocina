@@ -970,10 +970,11 @@ SUMMARY:🔥 les - Cikháj
 LOCATION:Cikháj
 GEO:49.663699;15.965655
 URL:geo:49.663699,15.965655
-DESCRIPTION:📍 Cikháj\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 
- CAS (CHS Žďár nad Sázavou)\n🚒 DA (Herálec (ZR))\n🚒 CAS (Herálec (ZR))\n🚒 D
- A (Polnička)\n🚒 CAS (Polnička)\n🚒 CAS (Škrdlovice)\n🚒 osobní automobil (Šk
- rdlovice)
+DESCRIPTION:📍 Cikháj\, Žďár nad Sázavou\n💬 Požár hrabanky 3x3m. Beze škody.
+  Provedena lokalizace a likvidace požáru.\n\n🚒 CAS (CHS Žďár nad Sázavou)\
+ n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 DA (Herálec (ZR))\n🚒 CAS (Herálec (ZR))\n
+ 🚒 DA (Polnička)\n🚒 CAS (Polnička)\n🚒 CAS (Škrdlovice)\n🚒 osobní automobil 
+ (Škrdlovice)
 END:VEVENT
 BEGIN:VEVENT
 UID:415153061
@@ -1025,5 +1026,17 @@ GEO:49.596425;16.071613
 URL:geo:49.596425,16.071613
 DESCRIPTION:📍 Rokytno\, Nové Město na Moravě\, Žďár nad Sázavou\n\n🚒 CAS (C
  HS Žďár nad Sázavou)\n🚒 TA (Nové Město na Moravě)
+END:VEVENT
+BEGIN:VEVENT
+UID:415163061
+DTSTART:20260711T105019Z
+DTEND:20260711T115019Z
+DTSTAMP:20260711T105019Z
+SUMMARY:🛠️ otevření bytu/auta - Moravské Budějovice
+LOCATION:Urbánkova\, Moravské Budějovice
+GEO:49.047532;15.815569
+URL:geo:49.047532,15.815569
+DESCRIPTION:📍 Urbánkova\, Moravské Budějovice\, Třebíč\n💬 Otevření bytu.\n\
+ n🚒 CAS (HS Moravské Budějovice)
 END:VEVENT
 END:VCALENDAR
