@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:415042061
-DTSTART:20260709T144029Z
-DTEND:20260709T154029Z
-DTSTAMP:20260709T144029Z
-SUMMARY:🔥 budova - Havlíčkův Brod
-LOCATION:Havlíčkův Brod
-GEO:49.608826;15.560680
-URL:geo:49.608826,15.560680
-DESCRIPTION:💬 Zahoření uskladněného materiálu ve stavební buňce.\n\n🚒 CAS (
- CHS Havlíčkův Brod)\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 CAS (Havlíčkův Brod-Per
- knov)
-END:VEVENT
-BEGIN:VEVENT
 UID:415043061
 DTSTART:20260709T145051Z
 DTEND:20260709T155051Z
@@ -1092,7 +1079,7 @@ SUMMARY:🚗 úklid místa - Rybné
 LOCATION:Rybné
 GEO:49.411186;15.731689
 URL:geo:49.411186,15.731689
-DESCRIPTION:📍 Rybné\, Jihlava\n💬 DN kaminu a OA\, bez uzranění. Zabezpečení
+DESCRIPTION:📍 Rybné\, Jihlava\n💬 DN kamionu a OA\, bez zranění. Zabezpečení
   místa DN.\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
@@ -1105,7 +1092,9 @@ LOCATION:Rohy
 GEO:49.316483;16.002864
 URL:geo:49.316483,16.002864
 DESCRIPTION:📍 Rohy\, Třebíč\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 CAS (Budišov)\n
- 🚒 DA (Rohy)\n🚒 CAS (Rudíkov)
+ 🚒 DA (Rohy)\n🚒 CAS (Rudíkov)\n🚒 CAS (Velké Meziříčí)\n🚒 CAS (CHS Třebíč)\n
+ 🚒 CAS (CHS Třebíč)\n🚒 CAS (Budišov-Mihoukovice)\n🚒 CAS (Nárameč)\n🚒 CAS (T
+ rnava)\n🚒 DA (Tasov)\n🚒 CAS (Tasov)\n🚒 vyšetřovací automobil (ÚO Třebíč)
 END:VEVENT
 BEGIN:VEVENT
 UID:415186061
@@ -1116,7 +1105,30 @@ SUMMARY:🛠️ obtížný hmyz - Prosíčka
 LOCATION:Prosíčka
 GEO:49.726583;15.324711
 URL:geo:49.726583,15.324711
-DESCRIPTION:📍 Horní Prosíčka\, Prosíčka\, Havlíčkův Brod\n\n🚒 CAS (HS Ledeč
-  nad Sázavou)
+DESCRIPTION:📍 Horní Prosíčka\, Prosíčka\, Havlíčkův Brod\n💬 Odstranění obtí
+ žného hmyzu.\n\n🚒 CAS (HS Ledeč nad Sázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:415187061
+DTSTART:20260711T141350Z
+DTEND:20260711T151350Z
+DTSTAMP:20260711T141350Z
+SUMMARY:🛠️ otevření bytu/auta - Velké Meziříčí
+LOCATION:Jiřího Michlíčka\, Velké Meziříčí
+GEO:49.345289;16.008104
+URL:geo:49.345289,16.008104
+DESCRIPTION:📍 Jiřího Michlíčka\, Velké Meziříčí\, Žďár nad Sázavou\n\n🚒 RZA
+  (HS Velké Meziříčí)
+END:VEVENT
+BEGIN:VEVENT
+UID:415189061
+DTSTART:20260711T142318Z
+DTEND:20260711T152318Z
+DTSTAMP:20260711T142318Z
+SUMMARY:🛠️ obtížný hmyz - Herálec
+LOCATION:Herálec
+GEO:49.700426;15.973784
+URL:geo:49.700426,15.973784
+DESCRIPTION:📍 Kuchyně\, Herálec\, Žďár nad Sázavou\n\n🚒 CAS (Herálec (ZR))
 END:VEVENT
 END:VCALENDAR
