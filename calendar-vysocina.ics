@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:415044061
-DTSTART:20260709T154807Z
-DTEND:20260709T164807Z
-DTSTAMP:20260709T154807Z
-SUMMARY:🚗 dopravní nehoda - Telč
-LOCATION:Třebíčská\, Telč
-GEO:49.188694;15.476008
-URL:geo:49.188694,15.476008
-DESCRIPTION:📍 Třebíčská\, Telč-Podolí\, Telč\, Jihlava\n💬 DN motocyklu\, 1 
- zraněná osoba. Provedeno zajištění místa nehody.\n\n🚒 CAS (HS Telč)
-END:VEVENT
-BEGIN:VEVENT
 UID:415047061
 DTSTART:20260709T160145Z
 DTEND:20260709T170145Z
@@ -1019,8 +1007,8 @@ GEO:49.341934;14.983861
 URL:geo:49.341934,14.983861
 DESCRIPTION:📍 Chválkov\, Mnich\, Pelhřimov\n💬 Spolupráce s PČR.\n\n🚒 CAS (K
  amenice nad Lipou)\n🚒 CAS (Těmice)\n🚒 CAS (Mnich)\n🚒 DA (Bohdalín)\n🚒 DA (
- Mnich-Chválkov)\n🚒 přívěs motorová stříkačka (Černovice-Benešov)\n🚒 CAS (Č
- ernovice)
+ Mnich-Chválkov)\n🚒 přívěs motorová stříkačka (Černovice-Benešov)\n🚒 DA (Če
+ rnovice)\n🚒 CAS (Černovice)
 END:VEVENT
 BEGIN:VEVENT
 UID:415179061
@@ -1130,8 +1118,9 @@ SUMMARY:🔥 odpad - Lipnice nad Sázavou
 LOCATION:Lipnice nad Sázavou
 GEO:49.615211;15.413838
 URL:geo:49.615211,15.413838
-DESCRIPTION:📍 Lipnice nad Sázavou\, Havlíčkův Brod\n\n🚒 CAS (HS Světlá nad 
- Sázavou)\n🚒 DA (Lipnice nad Sázavou)
+DESCRIPTION:📍 Lipnice nad Sázavou\, Havlíčkův Brod\n💬 Požár popelnice. Loka
+ lizace a likvidace.\n\n🚒 CAS (HS Světlá nad Sázavou)\n🚒 DA (Lipnice nad Sá
+ zavou)\n🚒 přívěs nákladní (Lipnice nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:415193061
@@ -1142,6 +1131,7 @@ SUMMARY:🔥 odpad - Třešť
 LOCATION:Revoluční\, Třešť
 GEO:49.288498;15.482555
 URL:geo:49.288498,15.482555
-DESCRIPTION:📍 Revoluční\, Třešť\, Jihlava\n\n🚒 CAS (HS Třešť)
+DESCRIPTION:📍 Revoluční\, Třešť\, Jihlava\n💬 Požár odpadkového koše. Beze š
+ kody.\n\n🚒 CAS (HS Třešť)
 END:VEVENT
 END:VCALENDAR
