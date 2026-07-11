@@ -1129,7 +1129,30 @@ SUMMARY:🛠️ otevření bytu/auta - Světlá nad Sázavou
 LOCATION:Zámecká\, Světlá nad Sázavou
 GEO:49.668144;15.408654
 URL:geo:49.668144,15.408654
-DESCRIPTION:📍 Zámecká\, Světlá nad Sázavou\, Havlíčkův Brod\n\n🚒 CAS (HS Sv
- ětlá nad Sázavou)
+DESCRIPTION:📍 Zámecká\, Světlá nad Sázavou\, Havlíčkův Brod\n💬 Otevření byt
+ u.\n\n🚒 CAS (HS Světlá nad Sázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:415202061
+DTSTART:20260711T165517Z
+DTEND:20260711T175517Z
+DTSTAMP:20260711T165517Z
+SUMMARY:🛠️ otevření bytu/auta - Třebíč
+LOCATION:Benešova\, Třebíč
+GEO:49.221675;15.894417
+URL:geo:49.221675,15.894417
+DESCRIPTION:📍 Benešova\, Nové Dvory\, Třebíč\n💬 Otevření bytu.\n\n🚒 CAS (CH
+ S Třebíč)
+END:VEVENT
+BEGIN:VEVENT
+UID:415203061
+DTSTART:20260711T165640Z
+DTEND:20260711T175640Z
+DTSTAMP:20260711T165640Z
+SUMMARY:🚑 záchrana ze stromu - Okrouhlička
+LOCATION:Okrouhlička
+GEO:49.535743;15.560161
+URL:geo:49.535743,15.560161
+DESCRIPTION:📍 Okrouhlička\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)
 END:VEVENT
 END:VCALENDAR
