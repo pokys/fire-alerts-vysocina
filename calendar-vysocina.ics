@@ -1030,8 +1030,8 @@ LOCATION:Výčapy
 GEO:49.127596;15.883611
 URL:geo:49.127596,15.883611
 DESCRIPTION:📍 Štěpánovice\, Výčapy\, Třebíč\n💬 Požár trávy a pole. Lokaliza
- ce.\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (CHS Třebíč)\n🚒 CAS (Jaroměřice nad Rokyt
- nou)\n🚒 DA (Výčapy)\n🚒 vyšetřovací automobil (ÚO Třebíč)
+ ce a likvidace.\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (CHS Třebíč)\n🚒 CAS (Jaroměři
+ ce nad Rokytnou)\n🚒 DA (Výčapy)\n🚒 vyšetřovací automobil (ÚO Třebíč)
 END:VEVENT
 BEGIN:VEVENT
 UID:415178061
@@ -1042,9 +1042,10 @@ SUMMARY:🛠️ spolupráce IZS - Mnich
 LOCATION:Mnich
 GEO:49.341934;14.983861
 URL:geo:49.341934,14.983861
-DESCRIPTION:📍 Chválkov\, Mnich\, Pelhřimov\n\n🚒 CAS (Kamenice nad Lipou)\n🚒
-  CAS (Těmice)\n🚒 CAS (Mnich)\n🚒 DA (Bohdalín)\n🚒 DA (Mnich-Chválkov)\n🚒 př
- ívěs motorová stříkačka (Černovice-Benešov)\n🚒 CAS (Černovice)
+DESCRIPTION:📍 Chválkov\, Mnich\, Pelhřimov\n💬 Spolupráce s PČR.\n\n🚒 CAS (K
+ amenice nad Lipou)\n🚒 CAS (Těmice)\n🚒 CAS (Mnich)\n🚒 DA (Bohdalín)\n🚒 DA (
+ Mnich-Chválkov)\n🚒 přívěs motorová stříkačka (Černovice-Benešov)\n🚒 CAS (Č
+ ernovice)
 END:VEVENT
 BEGIN:VEVENT
 UID:415179061
@@ -1090,6 +1091,7 @@ SUMMARY:🚗 úklid místa - Rybné
 LOCATION:Rybné
 GEO:49.411186;15.731689
 URL:geo:49.411186,15.731689
-DESCRIPTION:📍 Rybné\, Jihlava\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihlava)
+DESCRIPTION:📍 Rybné\, Jihlava\n💬 DN kaminu a OA\, bez uzranění. Zabezpečení
+  místa DN.\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihlava)
 END:VEVENT
 END:VCALENDAR
