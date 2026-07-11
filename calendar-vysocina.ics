@@ -1154,8 +1154,9 @@ SUMMARY:⚠️ planý poplach - Telč
 LOCATION:Telč
 GEO:49.180755;15.444993
 URL:geo:49.180755,15.444993
-DESCRIPTION:📍 Telč-Staré Město\, Telč\, Jihlava\n\n🚒 CAS (HS Telč)\n🚒 CAS (
- HS Telč)\n🚒 CAS (Mrákotín)\n🚒 CAS (Telč)
+DESCRIPTION:📍 Telč-Staré Město\, Telč\, Jihlava\n💬 Planý poplach - nenahláš
+ ené pálení.\n\n🚒 CAS (HS Telč)\n🚒 CAS (HS Telč)\n🚒 CAS (Mrákotín)\n🚒 CAS (
+ Telč)
 END:VEVENT
 BEGIN:VEVENT
 UID:415206061
@@ -1166,6 +1167,18 @@ SUMMARY:🛠️ strom - Hořice
 LOCATION:Hořice
 GEO:49.605199;15.175447
 URL:geo:49.605199,15.175447
-DESCRIPTION:📍 Hořice\, Pelhřimov\n\n🚒 CAS (HS Humpolec)
+DESCRIPTION:📍 Hořice\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 CAS (HS Humpole
+ c)
+END:VEVENT
+BEGIN:VEVENT
+UID:415207061
+DTSTART:20260711T181409Z
+DTEND:20260711T191409Z
+DTSTAMP:20260711T181409Z
+SUMMARY:🛠️ ostatní - Lesná
+LOCATION:Lesná
+GEO:49.517913;15.057557
+URL:geo:49.517913,15.057557
+DESCRIPTION:📍 Lesná\, Pelhřimov\n\n🚒 CAS (Košetice)
 END:VEVENT
 END:VCALENDAR
