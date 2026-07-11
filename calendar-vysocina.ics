@@ -994,7 +994,8 @@ GEO:49.079253;15.766355
 URL:geo:49.079253,15.766355
 DESCRIPTION:📍 Jakubov u Moravských Budějovic\, Třebíč\n\n🚒 CAS (HS Moravské
   Budějovice)\n🚒 CAS (HS Moravské Budějovice)\n🚒 DA (Jakubov u Moravských B
- udějovic)\n🚒 CAS (Lesonice)\n🚒 CAS (Moravské Budějovice)
+ udějovic)\n🚒 CAS (Lesonice)\n🚒 CAS (Moravské Budějovice)\n🚒 vyšetřovací au
+ tomobil (ÚO Třebíč)
 END:VEVENT
 BEGIN:VEVENT
 UID:415151061
@@ -1007,6 +1008,18 @@ GEO:49.663699;15.965655
 URL:geo:49.663699,15.965655
 DESCRIPTION:📍 Cikháj\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 
  CAS (CHS Žďár nad Sázavou)\n🚒 DA (Herálec (ZR))\n🚒 CAS (Herálec (ZR))\n🚒 D
- A (Polnička)\n🚒 CAS (Polnička)\n🚒 CAS (Škrdlovice)
+ A (Polnička)\n🚒 CAS (Polnička)\n🚒 CAS (Škrdlovice)\n🚒 osobní automobil (Šk
+ rdlovice)
+END:VEVENT
+BEGIN:VEVENT
+UID:415153061
+DTSTART:20260711T083742Z
+DTEND:20260711T093742Z
+DTSTAMP:20260711T083742Z
+SUMMARY:🚗 dopravní nehoda - Příštpo
+LOCATION:Příštpo
+GEO:49.059745;15.942111
+URL:geo:49.059745,15.942111
+DESCRIPTION:📍 Příštpo\, Třebíč\n\n🚒 CAS (HS Hrotovice)
 END:VEVENT
 END:VCALENDAR
