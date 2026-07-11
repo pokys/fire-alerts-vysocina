@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:415023061
-DTSTART:20260709T073935Z
-DTEND:20260709T083935Z
-DTSTAMP:20260709T073935Z
-SUMMARY:🚑 spolupráce ZZS - Velké Meziříčí
-LOCATION:Za Horou\, Velké Meziříčí
-GEO:49.358686;15.989727
-URL:geo:49.358686,15.989727
-DESCRIPTION:📍 Za Horou\, Velké Meziříčí\, Žďár nad Sázavou\n💬 Spolupráce s 
- ZZS.\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)
-END:VEVENT
-BEGIN:VEVENT
 UID:415025061
 DTSTART:20260709T090155Z
 DTEND:20260709T100155Z
@@ -941,5 +929,29 @@ SUMMARY:🛠️ ostatní - Jiratice
 LOCATION:Jiratice
 DESCRIPTION:📍 Jiratice\, Třebíč\n💬 Proplach výpusti požární nádrže.\n\n🚒 CA
  S (HS Jemnice)
+END:VEVENT
+BEGIN:VEVENT
+UID:415145061
+DTSTART:20260711T072051Z
+DTEND:20260711T082051Z
+DTSTAMP:20260711T072051Z
+SUMMARY:🛠️ ostatní - Bystřice nad Pernštejnem
+LOCATION:Bystřice nad Pernštejnem
+GEO:49.523881;16.232334
+URL:geo:49.523881,16.232334
+DESCRIPTION:📍 Domanínek\, Bystřice nad Pernštejnem\, Žďár nad Sázavou\n\n🚒 
+ CAS (HS Bystřice nad Pernštejnem)\n🚒 CAS (HS Bystřice nad Pernštejnem)
+END:VEVENT
+BEGIN:VEVENT
+UID:415146061
+DTSTART:20260711T072701Z
+DTEND:20260711T082701Z
+DTSTAMP:20260711T072701Z
+SUMMARY:🔥 tráva/plocha - Havlíčkův Brod
+LOCATION:Průmyslová\, Havlíčkův Brod
+GEO:49.590950;15.592062
+URL:geo:49.590950,15.592062
+DESCRIPTION:📍 Průmyslová\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 
+ CAS (CHS Havlíčkův Brod)
 END:VEVENT
 END:VCALENDAR
