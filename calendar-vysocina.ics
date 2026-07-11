@@ -1014,4 +1014,17 @@ URL:geo:49.047532,15.815569
 DESCRIPTION:📍 Urbánkova\, Moravské Budějovice\, Třebíč\n💬 Otevření bytu.\n\
  n🚒 CAS (HS Moravské Budějovice)
 END:VEVENT
+BEGIN:VEVENT
+UID:415168061
+DTSTART:20260711T112020Z
+DTEND:20260711T122020Z
+DTSTAMP:20260711T112020Z
+SUMMARY:🔥 tráva/plocha - Moravské Budějovice
+LOCATION:Moravské Budějovice
+GEO:49.041289;15.804162
+URL:geo:49.041289,15.804162
+DESCRIPTION:📍 Moravské Budějovice\, Třebíč\n\n🚒 CAS (HS Moravské Budějovice
+ )\n🚒 CAS (HS Moravské Budějovice)\n🚒 CAS (Jaroměřice nad Rokytnou)\n🚒 CAS 
+ (Jaroměřice nad Rokytnou)\n🚒 CAS (Moravské Budějovice)
+END:VEVENT
 END:VCALENDAR
