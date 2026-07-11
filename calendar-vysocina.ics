@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:415009061
-DTSTART:20260709T043438Z
-DTEND:20260709T053438Z
-DTSTAMP:20260709T043438Z
-SUMMARY:🛠️ ostatní - Herálec
-LOCATION:Herálec
-GEO:49.688915;15.994314
-URL:geo:49.688915,15.994314
-DESCRIPTION:📍 Herálec\, Žďár nad Sázavou\n💬 ZOČ-oplach komunikace na žádost
-  starosty.\n\n🚒 CAS (Herálec (ZR))
-END:VEVENT
-BEGIN:VEVENT
 UID:415013061
 DTSTART:20260709T061915Z
 DTEND:20260709T071915Z
@@ -918,7 +906,7 @@ LOCATION:Návrší\, Velká Bíteš
 GEO:49.285002;16.230311
 URL:geo:49.285002,16.230311
 DESCRIPTION:📍 Návrší\, Janovice\, Velká Bíteš\, Žďár nad Sázavou\n💬 Pomoc s
- e zvednutím osoby.\n\n🚒 CAS (HS Velká Bíteš)
+ e zvednutím imobilní osoby.\n\n🚒 CAS (HS Velká Bíteš)
 END:VEVENT
 BEGIN:VEVENT
 UID:415135061
