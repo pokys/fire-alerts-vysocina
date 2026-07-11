@@ -883,10 +883,11 @@ SUMMARY:🔥 tráva/plocha - Nové Město na Moravě
 LOCATION:Nové Město na Moravě
 GEO:49.542451;16.136522
 URL:geo:49.542451,16.136522
-DESCRIPTION:📍 Olešná\, Nové Město na Moravě\, Žďár nad Sázavou\n\n🚒 CAS (CH
- S Žďár nad Sázavou)\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (HS Bystřice nad 
- Pernštejnem)\n🚒 CAS (HS Bystřice nad Pernštejnem)\n🚒 CAS (Nové Město na Mo
- ravě)\n🚒 DA (Nové Město na Moravě-Olešná)
+DESCRIPTION:📍 Olešná\, Nové Město na Moravě\, Žďár nad Sázavou\n💬 Požár trá
+ vy 10x10 m. Provedena lokalizace a likvidace požáru.\n\n🚒 CAS (CHS Žďár na
+ d Sázavou)\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (HS Bystřice nad Pernštejn
+ em)\n🚒 CAS (HS Bystřice nad Pernštejnem)\n🚒 CAS (Nové Město na Moravě)\n🚒 
+ DA (Nové Město na Moravě-Olešná)
 END:VEVENT
 BEGIN:VEVENT
 UID:415140061
@@ -920,7 +921,8 @@ SUMMARY:🛠️ obtížný hmyz - Světnov
 LOCATION:Světnov
 GEO:49.622058;15.955300
 URL:geo:49.622058,15.955300
-DESCRIPTION:📍 Světnov\, Žďár nad Sázavou\n\n🚒 CAS (Žďár nad Sázavou-Zámek)
+DESCRIPTION:📍 Světnov\, Žďár nad Sázavou\n💬 Odstranění obtížného hmyzu.\n\n
+ 🚒 CAS (Žďár nad Sázavou-Zámek)
 END:VEVENT
 BEGIN:VEVENT
 UID:415143061
@@ -956,5 +958,28 @@ GEO:49.590950;15.592062
 URL:geo:49.590950,15.592062
 DESCRIPTION:📍 Průmyslová\, Havlíčkův Brod\n💬 Požár trávy. Lokalizace a likv
  idace.\n\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 CAS (CHS Havlíčkův Brod)
+END:VEVENT
+BEGIN:VEVENT
+UID:415147061
+DTSTART:20260711T075344Z
+DTEND:20260711T085344Z
+DTSTAMP:20260711T075344Z
+SUMMARY:🚑 otevření/asistence - Náměšť nad Oslavou
+LOCATION:Husova\, Náměšť nad Oslavou
+GEO:49.211435;16.146748
+URL:geo:49.211435,16.146748
+DESCRIPTION:📍 Husova\, Náměšť nad Oslavou\, Třebíč\n💬 Otevření bytu.\n\n🚒 C
+ AS (HS Náměšť nad Oslavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:415149061
+DTSTART:20260711T080501Z
+DTEND:20260711T090501Z
+DTSTAMP:20260711T080501Z
+SUMMARY:🛠️ obtížný hmyz - Vepřová
+LOCATION:Vepřová
+GEO:49.613180;15.827046
+URL:geo:49.613180,15.827046
+DESCRIPTION:📍 Vepřová\, Žďár nad Sázavou\n\n🚒 CAS (Vepřová)
 END:VEVENT
 END:VCALENDAR
