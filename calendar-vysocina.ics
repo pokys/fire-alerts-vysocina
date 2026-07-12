@@ -5,31 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:415120061
-DTSTART:20260710T173516Z
-DTEND:20260710T183516Z
-DTSTAMP:20260710T173516Z
-SUMMARY:🚗 dopravní nehoda - Olešná
-LOCATION:Olešná
-GEO:49.446468;15.270126
-URL:geo:49.446468,15.270126
-DESCRIPTION:📍 Olešná\, Pelhřimov\n💬 DN 1 OA a 1 motocyklu. Zajištění místa 
- události. Úklid vozovky.\n\n🚒 CAS (CHS Pelhřimov)
-END:VEVENT
-BEGIN:VEVENT
-UID:415121061
-DTSTART:20260710T173603Z
-DTEND:20260710T183603Z
-DTSTAMP:20260710T173603Z
-SUMMARY:🔥 les - Kostníky
-LOCATION:Kostníky
-DESCRIPTION:📍 Kostníky\, Třebíč\n💬 Požár lesa. Provedena lokalizace a likvi
- dace.\n\n🚒 CAS (Bítov)\n🚒 VEA (CHS Znojmo)\n🚒 přívěs motorová stříkačka (K
- orolupy)\n🚒 CAS (Uherčice (ZN))\n🚒 CAS (HS Jemnice)\n🚒 CAS (HS Moravské Bu
- dějovice)\n🚒 DA (Police)\n🚒 CAS (Police)\n🚒 vyšetřovací automobil (ÚO Třeb
- íč)
-END:VEVENT
-BEGIN:VEVENT
 UID:415124061
 DTSTART:20260710T175035Z
 DTEND:20260710T185035Z
@@ -1039,7 +1014,7 @@ SUMMARY:🛠️ obtížný hmyz - Rokytnice nad Rokytnou
 LOCATION:Rokytnice nad Rokytnou
 GEO:49.182937;15.773842
 URL:geo:49.182937,15.773842
-DESCRIPTION:📍 Rokytnice nad Rokytnou\, Třebíč\n\n🚒 CAS (Rokytnice nad Rokyt
- nou)
+DESCRIPTION:📍 Rokytnice nad Rokytnou\, Třebíč\n💬 Odstranění obtížného hmyzu
+ .\n\n🚒 CAS (Rokytnice nad Rokytnou)
 END:VEVENT
 END:VCALENDAR
