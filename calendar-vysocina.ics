@@ -5,32 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:415110061
-DTSTART:20260710T143414Z
-DTEND:20260710T153414Z
-DTSTAMP:20260710T143414Z
-SUMMARY:🛠️ strom - Bystřice nad Pernštejnem
-LOCATION:Bystřice nad Pernštejnem
-GEO:49.555691;16.214796
-URL:geo:49.555691,16.214796
-DESCRIPTION:📍 Domanín\, Bystřice nad Pernštejnem\, Žďár nad Sázavou\n💬 Odst
- ranění stromu.\n\n🚒 CAS (HS Bystřice nad Pernštejnem)\n🚒 pila řetězová (HS
-  Bystřice nad Pernštejnem)
-END:VEVENT
-BEGIN:VEVENT
-UID:415111061
-DTSTART:20260710T144430Z
-DTEND:20260710T154430Z
-DTSTAMP:20260710T144430Z
-SUMMARY:🔥 tráva/plocha - Okříšky
-LOCATION:Okříšky
-GEO:49.253477;15.748962
-URL:geo:49.253477,15.748962
-DESCRIPTION:📍 Okříšky\, Třebíč\n💬 Požár trávy 6x6m\, lokalizace a likvidace
- .\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (CHS Třebíč)\n🚒 CAS (Okříšky) ×2\n🚒 DA (Při
- byslavice)\n🚒 CAS (Přibyslavice)\n🚒 CAS (Přibyslavice)
-END:VEVENT
-BEGIN:VEVENT
 UID:415112061
 DTSTART:20260710T145716Z
 DTEND:20260710T155716Z
@@ -981,7 +955,8 @@ SUMMARY:🚗 dopravní nehoda - Třebíč
 LOCATION:Třebíč
 GEO:49.218500;15.860693
 URL:geo:49.218500,15.860693
-DESCRIPTION:📍 Podklášteří\, Třebíč\n\n🚒 CAS (CHS Třebíč)
+DESCRIPTION:📍 Podklášteří\, Třebíč\n💬 DN 2 OA se zraněním jedné osoby. Jedn
+ otka provedla zajištění místa nehody.\n\n🚒 CAS (CHS Třebíč)
 END:VEVENT
 BEGIN:VEVENT
 UID:415230061
@@ -1004,8 +979,8 @@ SUMMARY:🔥 les - Rohy
 LOCATION:Rohy
 GEO:49.316811;16.002889
 URL:geo:49.316811,16.002889
-DESCRIPTION:📍 Rohy\, Třebíč\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 CAS (CHS Třebíč
- )
+DESCRIPTION:📍 Rohy\, Třebíč\n💬 Dohašení ohnisek.\n\n🚒 CAS (HS Velké Meziříč
+ í)\n🚒 CAS (CHS Třebíč)
 END:VEVENT
 BEGIN:VEVENT
 UID:415232061
@@ -1029,5 +1004,17 @@ LOCATION:Vír
 GEO:49.562388;16.309313
 URL:geo:49.562388,16.309313
 DESCRIPTION:📍 Vír\, Žďár nad Sázavou\n\n🚒 CAS (HS Bystřice nad Pernštejnem)
+END:VEVENT
+BEGIN:VEVENT
+UID:415234061
+DTSTART:20260712T142451Z
+DTEND:20260712T152451Z
+DTSTAMP:20260712T142451Z
+SUMMARY:🔥 vozidlo - Vír
+LOCATION:Vír
+GEO:49.552701;16.331344
+URL:geo:49.552701,16.331344
+DESCRIPTION:📍 Vír\, Žďár nad Sázavou\n\n🚒 CAS (HS Bystřice nad Pernštejnem)
+ \n🚒 CAS (Vír)
 END:VEVENT
 END:VCALENDAR
