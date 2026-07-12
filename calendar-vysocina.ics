@@ -5,31 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:415078061
-DTSTART:20260710T083759Z
-DTEND:20260710T093759Z
-DTSTAMP:20260710T083759Z
-SUMMARY:🛠️ ostatní - Jaroměřice nad Rokytnou
-LOCATION:Palackého tř.\, Jaroměřice nad Rokytnou
-GEO:49.094384;15.891472
-URL:geo:49.094384,15.891472
-DESCRIPTION:📍 Palackého tř.\, Jaroměřice nad Rokytnou\, Třebíč\n💬 Odstraněn
- í tašek ze střechy\, které hrozily pádem na komunikaci.\n\n🚒 CAS (HS Morav
- ské Budějovice)\n🚒 AŽ (HS Moravské Budějovice)
-END:VEVENT
-BEGIN:VEVENT
-UID:415079061
-DTSTART:20260710T084501Z
-DTEND:20260710T094501Z
-DTSTAMP:20260710T084501Z
-SUMMARY:🚑 otevření/asistence - Havlíčkův Brod
-LOCATION:Na Výšině\, Havlíčkův Brod
-GEO:49.617374;15.578104
-URL:geo:49.617374,15.578104
-DESCRIPTION:📍 Na Výšině\, Havlíčkův Brod\n💬 Otevření bytu.\n\n🚒 CAS (CHS Ha
- vlíčkův Brod)
-END:VEVENT
-BEGIN:VEVENT
 UID:415080061
 DTSTART:20260710T084649Z
 DTEND:20260710T094649Z
