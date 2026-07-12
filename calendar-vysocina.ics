@@ -662,7 +662,7 @@ LOCATION:Průmyslová\, Havlíčkův Brod
 GEO:49.590950;15.592062
 URL:geo:49.590950,15.592062
 DESCRIPTION:📍 Průmyslová\, Havlíčkův Brod\n💬 Požár trávy. Lokalizace a likv
- idace.\n\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 CAS (CHS Havlíčkův Brod)
+ idace požáru.\n\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 CAS (CHS Havlíčkův Brod)
 END:VEVENT
 BEGIN:VEVENT
 UID:415147061
@@ -711,11 +711,10 @@ SUMMARY:🔥 les - Cikháj
 LOCATION:Cikháj
 GEO:49.663699;15.965655
 URL:geo:49.663699,15.965655
-DESCRIPTION:📍 Cikháj\, Žďár nad Sázavou\n💬 Požár hrabanky 3x3m. Beze škody.
-  Provedena lokalizace a likvidace požáru.\n\n🚒 CAS (CHS Žďár nad Sázavou)\
- n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 DA (Herálec (ZR))\n🚒 CAS (Herálec (ZR))\n
- 🚒 DA (Polnička)\n🚒 CAS (Polnička)\n🚒 CAS (Škrdlovice)\n🚒 osobní automobil 
- (Škrdlovice)
+DESCRIPTION:📍 Cikháj\, Žďár nad Sázavou\n💬 Požár hrabanky 3x3m. Provedena l
+ okalizace a likvidace požáru.\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (CHS 
+ Žďár nad Sázavou)\n🚒 DA (Herálec (ZR))\n🚒 CAS (Herálec (ZR))\n🚒 DA (Polnič
+ ka)\n🚒 CAS (Polnička)\n🚒 CAS (Škrdlovice)\n🚒 osobní automobil (Škrdlovice)
 END:VEVENT
 BEGIN:VEVENT
 UID:415153061
@@ -726,8 +725,8 @@ SUMMARY:🚗 dopravní nehoda - Příštpo
 LOCATION:Příštpo
 GEO:49.059745;15.942111
 URL:geo:49.059745,15.942111
-DESCRIPTION:📍 Příštpo\, Třebíč\n💬 DN 1 OA bez zranění. Zajištění místa neho
- dy proti požáru a úniku provozních kapalin.\n\n🚒 CAS (HS Hrotovice)
+DESCRIPTION:📍 Příštpo\, Třebíč\n💬 DN 1 OA bez zranění. Zajištění vozidla pr
+ oti požáru a úniku provozních kapalin.\n\n🚒 CAS (HS Hrotovice)
 END:VEVENT
 BEGIN:VEVENT
 UID:415155061
@@ -766,9 +765,9 @@ LOCATION:Nové Město na Moravě
 GEO:49.586881;16.075561
 URL:geo:49.586881,16.075561
 DESCRIPTION:📍 Rokytno\, Nové Město na Moravě\, Žďár nad Sázavou\n💬 DN dodáv
- ky. Náraz do stromu.  DN bez zranění.  Provedeno protipožární opatření. Za
- jištění místa nehody.\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 TA (Nové Město na
-  Moravě)
+ ky\, náraz do stromu\, bez zranění.  Provedeno protipožární opatření. Zaji
+ štění místa nehody.\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 TA (Nové Město na M
+ oravě)
 END:VEVENT
 BEGIN:VEVENT
 UID:415163061
@@ -792,9 +791,9 @@ LOCATION:Moravské Budějovice
 GEO:49.041289;15.804162
 URL:geo:49.041289,15.804162
 DESCRIPTION:📍 Moravské Budějovice\, Třebíč\n💬 Požár trávy. Lokalizace a lik
- vidace.\n\n🚒 CAS (HS Moravské Budějovice)\n🚒 CAS (HS Moravské Budějovice)\
- n🚒 CAS (Jaroměřice nad Rokytnou)\n🚒 CAS (Jaroměřice nad Rokytnou)\n🚒 CAS (
- Moravské Budějovice)
+ vidace požáru.\n\n🚒 CAS (HS Moravské Budějovice)\n🚒 CAS (HS Moravské Buděj
+ ovice)\n🚒 CAS (Jaroměřice nad Rokytnou)\n🚒 CAS (Jaroměřice nad Rokytnou)\n
+ 🚒 CAS (Moravské Budějovice)
 END:VEVENT
 BEGIN:VEVENT
 UID:415169061
@@ -818,12 +817,12 @@ LOCATION:Lučice
 GEO:49.656525;15.516761
 URL:geo:49.656525,15.516761
 DESCRIPTION:📍 Lučice\, Havlíčkův Brod\n💬 Požár mladého smíšeného lesa na pl
- oše 100 x 300m. Požárem došlo ke škodě na majetku 140 000Kč\, uchráněno 1 
- 000 000Kč.\n\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 vo
- zidlo účelové - SxS (CHS Havlíčkův Brod)\n🚒 CAS (HS Světlá nad Sázavou)\n🚒
-  CAS (Lučice) ×2\n🚒 DA (Světlá nad Sázavou)\n🚒 CAS (Světlá nad Sázavou)\n🚒
-  DA (Radostín (ZR))\n🚒 VEA (Okrouhlice)\n🚒 vyšetřovací automobil (ÚO Havlí
- čkův Brod)\n🚒 DA (Havlíčkův Brod-Perknov)\n🚒 CAS (Havlíčkův Brod-Perknov)
+ oše 100 x 300m. Provedena lokalizace a likvidace požáru.\n\n🚒 CAS (CHS Hav
+ líčkův Brod)\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 vozidlo účelové - SxS (CHS Hav
+ líčkův Brod)\n🚒 CAS (HS Světlá nad Sázavou)\n🚒 CAS (Lučice) ×2\n🚒 DA (Svět
+ lá nad Sázavou)\n🚒 CAS (Světlá nad Sázavou)\n🚒 DA (Radostín (ZR))\n🚒 VEA (
+ Okrouhlice)\n🚒 vyšetřovací automobil (ÚO Havlíčkův Brod)\n🚒 DA (Havlíčkův 
+ Brod-Perknov)\n🚒 CAS (Havlíčkův Brod-Perknov)
 END:VEVENT
 BEGIN:VEVENT
 UID:415175061
@@ -974,8 +973,8 @@ LOCATION:Lipnice nad Sázavou
 GEO:49.615211;15.413838
 URL:geo:49.615211,15.413838
 DESCRIPTION:📍 Lipnice nad Sázavou\, Havlíčkův Brod\n💬 Požár popelnice. Loka
- lizace a likvidace.\n\n🚒 CAS (HS Světlá nad Sázavou)\n🚒 DA (Lipnice nad Sá
- zavou)\n🚒 přívěs nákladní (Lipnice nad Sázavou)
+ lizace a likvidace požáru.\n\n🚒 CAS (HS Světlá nad Sázavou)\n🚒 DA (Lipnice
+  nad Sázavou)\n🚒 přívěs nákladní (Lipnice nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:415193061
