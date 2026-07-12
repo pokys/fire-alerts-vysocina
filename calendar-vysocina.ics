@@ -969,7 +969,8 @@ LOCATION:Jeřišno
 GEO:49.804624;15.630420
 URL:geo:49.804624,15.630420
 DESCRIPTION:📍 Chuchel\, Jeřišno\, Havlíčkův Brod\n💬 DN 1 OA se zraněním jed
- né osoby. Provedena PPO. Zajištění místa události.\n\n🚒 CAS (HS Chotěboř)
+ né osoby. Provedena PPO. Zajištění místa události.\n\n🚒 CAS (HS Chotěboř)\
+ n🚒 CAS (HS Seč)
 END:VEVENT
 BEGIN:VEVENT
 UID:415220061
@@ -1039,5 +1040,29 @@ LOCATION:Třebíč
 GEO:49.218500;15.860693
 URL:geo:49.218500,15.860693
 DESCRIPTION:📍 Podklášteří\, Třebíč\n\n🚒 CAS (CHS Třebíč)
+END:VEVENT
+BEGIN:VEVENT
+UID:415230061
+DTSTART:20260712T123432Z
+DTEND:20260712T133432Z
+DTSTAMP:20260712T123432Z
+SUMMARY:🛠️ otevření bytu/auta - Světlá nad Sázavou
+LOCATION:Světlá nad Sázavou
+GEO:49.657379;15.387209
+URL:geo:49.657379,15.387209
+DESCRIPTION:📍 Lipnička\, Světlá nad Sázavou\, Havlíčkův Brod\n💬 Otevření ro
+ dinného domu.\n\n🚒 CAS (HS Světlá nad Sázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:415231061
+DTSTART:20260712T124837Z
+DTEND:20260712T134837Z
+DTSTAMP:20260712T124837Z
+SUMMARY:🔥 les - Rohy
+LOCATION:Rohy
+GEO:49.316811;16.002889
+URL:geo:49.316811,16.002889
+DESCRIPTION:📍 Rohy\, Třebíč\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 CAS (CHS Třebíč
+ )
 END:VEVENT
 END:VCALENDAR
