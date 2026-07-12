@@ -1004,7 +1004,7 @@ SUMMARY:🛠️ strom - Budišov
 LOCATION:Budišov
 GEO:49.282144;15.996303
 URL:geo:49.282144,15.996303
-DESCRIPTION:📍 Budišov\, Třebíč\n\n🚒 CAS (CHS Třebíč)
+DESCRIPTION:📍 Budišov\, Třebíč\n💬 Odstranění stromu.\n\n🚒 CAS (CHS Třebíč)
 END:VEVENT
 BEGIN:VEVENT
 UID:415221061
@@ -1028,5 +1028,17 @@ GEO:49.616390;15.576434
 URL:geo:49.616390,15.576434
 DESCRIPTION:📍 Na Spravedlnosti\, Havlíčkův Brod\n💬 Pomoc imobilní osobě.\n\
  n🚒 CAS (CHS Havlíčkův Brod)
+END:VEVENT
+BEGIN:VEVENT
+UID:415224061
+DTSTART:20260712T120749Z
+DTEND:20260712T130749Z
+DTSTAMP:20260712T120749Z
+SUMMARY:🛠️ strom - Nové Město na Moravě
+LOCATION:Nové Město na Moravě
+GEO:49.601437;16.056741
+URL:geo:49.601437,16.056741
+DESCRIPTION:📍 Rokytno\, Nové Město na Moravě\, Žďár nad Sázavou\n\n🚒 DA (No
+ vé Město na Moravě-Rokytno)
 END:VEVENT
 END:VCALENDAR
