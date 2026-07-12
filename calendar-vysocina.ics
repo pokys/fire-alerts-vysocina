@@ -1027,6 +1027,19 @@ SUMMARY:🛠️ obtížný hmyz - Jinošov
 LOCATION:Jinošov
 GEO:49.228961;16.191879
 URL:geo:49.228961,16.191879
-DESCRIPTION:📍 Jinošov\, Třebíč\n\n🚒 CAS (HS Náměšť nad Oslavou)
+DESCRIPTION:📍 Jinošov\, Třebíč\n💬 Odstranění obtížného hmyzu.\n\n🚒 CAS (HS 
+ Náměšť nad Oslavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:415243061
+DTSTART:20260712T170742Z
+DTEND:20260712T180742Z
+DTSTAMP:20260712T170742Z
+SUMMARY:🛠️ obtížný hmyz - Rokytnice nad Rokytnou
+LOCATION:Rokytnice nad Rokytnou
+GEO:49.182937;15.773842
+URL:geo:49.182937,15.773842
+DESCRIPTION:📍 Rokytnice nad Rokytnou\, Třebíč\n\n🚒 CAS (Rokytnice nad Rokyt
+ nou)
 END:VEVENT
 END:VCALENDAR
