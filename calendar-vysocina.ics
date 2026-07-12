@@ -5,17 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:415113061
-DTSTART:20260710T150424Z
-DTEND:20260710T160424Z
-DTSTAMP:20260710T150424Z
-SUMMARY:🛠️ ostatní - Lipník
-LOCATION:Lipník
-GEO:49.140984;15.967348
-URL:geo:49.140984,15.967348
-DESCRIPTION:📍 Lipník\, Třebíč\n💬 ZOČ\n\n🚒 CAS (Lipník)
-END:VEVENT
-BEGIN:VEVENT
 UID:415114061
 DTSTART:20260710T155035Z
 DTEND:20260710T165035Z
@@ -990,8 +979,8 @@ SUMMARY:🚗 dopravní nehoda - Vír
 LOCATION:Vír
 GEO:49.562388;16.309313
 URL:geo:49.562388,16.309313
-DESCRIPTION:📍 Vír\, Žďár nad Sázavou\n💬 DN motocyklu\, 1 zraněná osoba.\n\n
- 🚒 CAS (HS Bystřice nad Pernštejnem)
+DESCRIPTION:📍 Vír\, Žďár nad Sázavou\n💬 DN motocyklu se zraněním jedné osob
+ y. Zajištění místa události.\n\n🚒 CAS (HS Bystřice nad Pernštejnem)
 END:VEVENT
 BEGIN:VEVENT
 UID:415234061
@@ -1014,7 +1003,8 @@ SUMMARY:🚑 otevření/asistence - Jihlava
 LOCATION:Březinova\, Jihlava
 GEO:49.400566;15.605957
 URL:geo:49.400566,15.605957
-DESCRIPTION:📍 Březinova\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+DESCRIPTION:📍 Březinova\, Jihlava\n💬 Vyproštění osoby uvízlé ve výtahu. Bez
+  zranění.\n\n🚒 CAS (CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:415236061
@@ -1025,7 +1015,18 @@ SUMMARY:🛠️ ostatní - Hamry nad Sázavou
 LOCATION:Hamry nad Sázavou
 GEO:49.572546;15.879149
 URL:geo:49.572546,15.879149
-DESCRIPTION:📍 Šlakhamry\, Hamry nad Sázavou\, Žďár nad Sázavou\n\n🚒 CAS (Ha
- mry nad Sázavou-Najdek)
+DESCRIPTION:📍 Šlakhamry\, Hamry nad Sázavou\, Žďár nad Sázavou\n💬 Pročištěn
+ í ucpaného propustku.\n\n🚒 CAS (Hamry nad Sázavou-Najdek)
+END:VEVENT
+BEGIN:VEVENT
+UID:415237061
+DTSTART:20260712T150211Z
+DTEND:20260712T160211Z
+DTSTAMP:20260712T150211Z
+SUMMARY:🛠️ strom - Studenec
+LOCATION:Studenec
+GEO:49.217244;16.085047
+URL:geo:49.217244,16.085047
+DESCRIPTION:📍 Studenec\, Třebíč\n\n🚒 CAS (HS Náměšť nad Oslavou)
 END:VEVENT
 END:VCALENDAR
