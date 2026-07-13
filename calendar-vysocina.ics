@@ -5,34 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:415150061
-DTSTART:20260711T082218Z
-DTEND:20260711T092218Z
-DTSTAMP:20260711T082218Z
-SUMMARY:🔥 tráva/plocha - Jakubov u Moravských Budějovic
-LOCATION:Jakubov u Moravských Budějovic
-GEO:49.079253;15.766355
-URL:geo:49.079253,15.766355
-DESCRIPTION:📍 Jakubov u Moravských Budějovic\, Třebíč\n💬 Požár tújí u RD. L
- okalizace a likvidace.\n\n🚒 CAS (HS Moravské Budějovice)\n🚒 CAS (HS Moravs
- ké Budějovice)\n🚒 DA (Jakubov u Moravských Budějovic)\n🚒 CAS (Lesonice)\n🚒
-  CAS (Moravské Budějovice)\n🚒 vyšetřovací automobil (ÚO Třebíč)
-END:VEVENT
-BEGIN:VEVENT
-UID:415151061
-DTSTART:20260711T082222Z
-DTEND:20260711T092222Z
-DTSTAMP:20260711T082222Z
-SUMMARY:🔥 les - Cikháj
-LOCATION:Cikháj
-GEO:49.663699;15.965655
-URL:geo:49.663699,15.965655
-DESCRIPTION:📍 Cikháj\, Žďár nad Sázavou\n💬 Požár hrabanky 3x3m. Provedena l
- okalizace a likvidace požáru.\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (CHS 
- Žďár nad Sázavou)\n🚒 DA (Herálec (ZR))\n🚒 CAS (Herálec (ZR))\n🚒 DA (Polnič
- ka)\n🚒 CAS (Polnička)\n🚒 CAS (Škrdlovice)\n🚒 osobní automobil (Škrdlovice)
-END:VEVENT
-BEGIN:VEVENT
 UID:415153061
 DTSTART:20260711T083742Z
 DTEND:20260711T093742Z
