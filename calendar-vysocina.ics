@@ -817,7 +817,9 @@ SUMMARY:🚗 se zraněním - Včelnička
 LOCATION:Včelnička
 GEO:49.303932;15.050040
 URL:geo:49.303932,15.050040
-DESCRIPTION:📍 Včelnička\, Pelhřimov\n\n🚒 CAS (HS Kamenice nad Lipou)
+DESCRIPTION:📍 Včelnička\, Pelhřimov\n💬 Dopravní nehoda jednoho osobního aut
+ omobilu. Provedeno protipožární opatření a zabezpečení místa nehody. Na mí
+ stě je jedna zraněná osoba.\n\n🚒 CAS (HS Kamenice nad Lipou)
 END:VEVENT
 BEGIN:VEVENT
 UID:415314061
@@ -865,6 +867,7 @@ SUMMARY:🛠️ ostatní - Chotěboř
 LOCATION:Dr. Rykra\, Chotěboř
 GEO:49.714467;15.680815
 URL:geo:49.714467,15.680815
-DESCRIPTION:📍 Dr. Rykra\, Chotěboř\, Havlíčkův Brod\n\n🚒 CAS (HS Chotěboř)
+DESCRIPTION:📍 Dr. Rykra\, Chotěboř\, Havlíčkův Brod\n💬 Pomoc imobilní osobě
+ .\n\n🚒 CAS (HS Chotěboř)
 END:VEVENT
 END:VCALENDAR
