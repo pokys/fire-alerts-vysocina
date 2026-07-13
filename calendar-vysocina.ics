@@ -5,20 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:415159061
-DTSTART:20260711T100040Z
-DTEND:20260711T110040Z
-DTSTAMP:20260711T100040Z
-SUMMARY:🚗 bez zranění - Nové Město na Moravě
-LOCATION:Nové Město na Moravě
-GEO:49.586881;16.075561
-URL:geo:49.586881,16.075561
-DESCRIPTION:📍 Rokytno\, Nové Město na Moravě\, Žďár nad Sázavou\n💬 DN dodáv
- ky\, náraz do stromu\, bez zranění.  Provedeno protipožární opatření. Zaji
- štění místa nehody.\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 TA (Nové Město na M
- oravě)
-END:VEVENT
-BEGIN:VEVENT
 UID:415163061
 DTSTART:20260711T105019Z
 DTEND:20260711T115019Z
@@ -835,8 +821,8 @@ SUMMARY:🛠️ ostatní - Golčův Jeníkov
 LOCATION:Riegrova\, Golčův Jeníkov
 GEO:49.819378;15.480846
 URL:geo:49.819378,15.480846
-DESCRIPTION:📍 Riegrova\, Golčův Jeníkov\, Havlíčkův Brod\n\n🚒 CAS (Golčův J
- eníkov)\n🚒 CAS (Golčův Jeníkov)
+DESCRIPTION:📍 Riegrova\, Golčův Jeníkov\, Havlíčkův Brod\n💬 Zajištění telef
+ onního kabelu.\n\n🚒 CAS (Golčův Jeníkov)\n🚒 CAS (Golčův Jeníkov)
 END:VEVENT
 BEGIN:VEVENT
 UID:415262061
@@ -897,5 +883,16 @@ LOCATION:Ječná\, Chotěboř
 GEO:49.717382;15.663440
 URL:geo:49.717382,15.663440
 DESCRIPTION:📍 Ječná\, Chotěboř\, Havlíčkův Brod\n\n🚒 CAS (HS Chotěboř)
+END:VEVENT
+BEGIN:VEVENT
+UID:415269061
+DTSTART:20260713T094012Z
+DTEND:20260713T104012Z
+DTSTAMP:20260713T094012Z
+SUMMARY:🛠️ ostatní - Hladov
+LOCATION:Hladov
+GEO:49.215075;15.611769
+URL:geo:49.215075,15.611769
+DESCRIPTION:📍 Hladov\, Jihlava\n\n🚒 CAS (HS Třešť)
 END:VEVENT
 END:VCALENDAR
