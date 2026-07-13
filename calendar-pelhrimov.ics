@@ -122,7 +122,9 @@ SUMMARY:🚗 se zraněním - Leskovice
 LOCATION:Leskovice
 GEO:49.428804;15.085908
 URL:geo:49.428804,15.085908
-DESCRIPTION:📍 Leskovice\, Pelhřimov\n\n🚒 CAS (HS Pacov)\n🚒 CAS (HS Pacov)
+DESCRIPTION:📍 Leskovice\, Pelhřimov\n💬 Dopravní nehoda jednoho osobního aut
+ omobilu\, provedeno protipožární opatření a zabezpečení místa nehody. Na m
+ ístě byli dvě zraněné osoby.\n\n🚒 CAS (HS Pacov)\n🚒 CAS (HS Pacov)
 END:VEVENT
 BEGIN:VEVENT
 UID:415308061
@@ -133,6 +135,8 @@ SUMMARY:🚗 úklid místa - Černovice
 LOCATION:Táborská\, Černovice
 GEO:49.372739;14.960399
 URL:geo:49.372739,14.960399
-DESCRIPTION:📍 Táborská\, Černovice\, Pelhřimov\n\n🚒 CAS (HS Pacov)
+DESCRIPTION:📍 Táborská\, Černovice\, Pelhřimov\n💬 Dopravní nehoda dvou osob
+ ních vozidel\, provedeno zabezpečení místa nehody a protipožární opatření.
+  Bez zranění.\n\n🚒 CAS (HS Pacov)
 END:VEVENT
 END:VCALENDAR
