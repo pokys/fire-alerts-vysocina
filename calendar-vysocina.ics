@@ -824,11 +824,24 @@ UID:415314061
 DTSTART:20260713T210833Z
 DTEND:20260713T220833Z
 DTSTAMP:20260713T210833Z
-SUMMARY:🔥 vozidlo - Jakubov u Moravských Budějovic
+SUMMARY:🛠️ ostatní - Jakubov u Moravských Budějovic
 LOCATION:Jakubov u Moravských Budějovic
-GEO:49.073640;15.761764
-URL:geo:49.073640,15.761764
-DESCRIPTION:📍 Jakubov u Moravských Budějovic\, Třebíč\n\n🚒 CAS (HS Moravské
-  Budějovice)\n🚒 CAS (HS Moravské Budějovice)
+GEO:49.070215;15.760471
+URL:geo:49.070215,15.760471
+DESCRIPTION:📍 Jakubov u Moravských Budějovic\, Třebíč\n💬 Uhašení znovu rozh
+ ořelého lisu.\n\n🚒 CAS (HS Moravské Budějovice)\n🚒 CAS (HS Moravské Budějo
+ vice)
+END:VEVENT
+BEGIN:VEVENT
+UID:415317061
+DTSTART:20260713T211328Z
+DTEND:20260713T221328Z
+DTSTAMP:20260713T211328Z
+SUMMARY:🚑 transport pacienta - Světlá nad Sázavou
+LOCATION:Haškova\, Světlá nad Sázavou
+GEO:49.664425;15.405010
+URL:geo:49.664425,15.405010
+DESCRIPTION:📍 Haškova\, Světlá nad Sázavou\, Havlíčkův Brod\n💬 Transport pa
+ cienta na žádost ZZS.\n\n🚒 CAS (HS Světlá nad Sázavou)
 END:VEVENT
 END:VCALENDAR
