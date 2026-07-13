@@ -5,35 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:415169061
-DTSTART:20260711T113615Z
-DTEND:20260711T123615Z
-DTSTAMP:20260711T113615Z
-SUMMARY:🚑 otevření/asistence - Počátky
-LOCATION:Sídliště\, Počátky
-GEO:49.264503;15.235940
-URL:geo:49.264503,15.235940
-DESCRIPTION:📍 Sídliště\, Počátky\, Pelhřimov\n💬 Otevření výtahu.\n\n🚒 CAS (
- HS Kamenice nad Lipou)\n🚒 CAS (Počátky)
-END:VEVENT
-BEGIN:VEVENT
-UID:415170061
-DTSTART:20260711T113644Z
-DTEND:20260711T123644Z
-DTSTAMP:20260711T113644Z
-SUMMARY:🔥 les - Lučice
-LOCATION:Lučice
-GEO:49.656525;15.516761
-URL:geo:49.656525,15.516761
-DESCRIPTION:📍 Lučice\, Havlíčkův Brod\n💬 Požár mladého smíšeného lesa na pl
- oše 100 x 300m. Provedena lokalizace a likvidace požáru.\n\n🚒 CAS (CHS Hav
- líčkův Brod)\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 vozidlo účelové - SxS (CHS Hav
- líčkův Brod)\n🚒 CAS (HS Světlá nad Sázavou)\n🚒 DA (Lučice) ×2\n🚒 CAS (Luči
- ce) ×4\n🚒 DA (Světlá nad Sázavou)\n🚒 CAS (Světlá nad Sázavou)\n🚒 DA (Rados
- tín (ZR))\n🚒 VEA (Okrouhlice)\n🚒 vyšetřovací automobil (ÚO Havlíčkův Brod)
- \n🚒 DA (Havlíčkův Brod-Perknov)\n🚒 CAS (Havlíčkův Brod-Perknov)
-END:VEVENT
-BEGIN:VEVENT
 UID:415175061
 DTSTART:20260711T120228Z
 DTEND:20260711T130228Z
@@ -832,9 +803,9 @@ SUMMARY:🚗 dopravní nehoda - Habry
 LOCATION:Habry
 GEO:49.751457;15.484468
 URL:geo:49.751457,15.484468
-DESCRIPTION:📍 Habry\, Havlíčkův Brod\n💬 DN 3 NA se zraněním . Provedena PPO
- . Řízení dopravy. Zajištění místa události.\n\n🚒 CAS (HS Světlá nad Sázavo
- u)\n🚒 CAS (Golčův Jeníkov)\n🚒 CAS (Golčův Jeníkov)
+DESCRIPTION:📍 Habry\, Havlíčkův Brod\n💬 DN 3 NA se zraněním dvou osob. Prov
+ edena PPO. Řízení dopravy. Zajištění místa události.\n\n🚒 CAS (HS Světlá n
+ ad Sázavou)\n🚒 CAS (Golčův Jeníkov)\n🚒 CAS (Golčův Jeníkov)
 END:VEVENT
 BEGIN:VEVENT
 UID:415266061
@@ -869,7 +840,8 @@ SUMMARY:🛠️ ostatní - Hladov
 LOCATION:Hladov
 GEO:49.215075;15.611769
 URL:geo:49.215075,15.611769
-DESCRIPTION:📍 Hladov\, Jihlava\n\n🚒 CAS (HS Třešť)
+DESCRIPTION:📍 Hladov\, Jihlava\n💬 Zajištění prasklé vodovodní přípojky.\n\n
+ 🚒 CAS (HS Třešť)
 END:VEVENT
 BEGIN:VEVENT
 UID:415270061
@@ -917,7 +889,7 @@ SUMMARY:🛠️ ostatní - Ledeč nad Sázavou
 LOCATION:Petra Bezruče\, Ledeč nad Sázavou
 GEO:49.692933;15.275781
 URL:geo:49.692933,15.275781
-DESCRIPTION:📍 Petra Bezruče\, Ledeč nad Sázavou\, Havlíčkův Brod\n\n🚒 CAS (
- HS Ledeč nad Sázavou)
+DESCRIPTION:📍 Petra Bezruče\, Ledeč nad Sázavou\, Havlíčkův Brod\n💬 Pomoc i
+ mobilní osobě.\n\n🚒 CAS (HS Ledeč nad Sázavou)
 END:VEVENT
 END:VCALENDAR
