@@ -5,30 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:415181061
-DTSTART:20260711T130139Z
-DTEND:20260711T140139Z
-DTSTAMP:20260711T130139Z
-SUMMARY:🛠️ otevření bytu/auta - Velké Meziříčí
-LOCATION:Čermákova\, Velké Meziříčí
-GEO:49.349532;16.015345
-URL:geo:49.349532,16.015345
-DESCRIPTION:📍 Čermákova\, Velké Meziříčí\, Žďár nad Sázavou\n💬 Otevření byt
- u.\n\n🚒 RZA (HS Velké Meziříčí)
-END:VEVENT
-BEGIN:VEVENT
-UID:415182061
-DTSTART:20260711T130742Z
-DTEND:20260711T140742Z
-DTSTAMP:20260711T130742Z
-SUMMARY:🚗 úklid místa - Rybné
-LOCATION:Rybné
-GEO:49.411186;15.731689
-URL:geo:49.411186,15.731689
-DESCRIPTION:📍 Rybné\, Jihlava\n💬 DN kamionu a OA\, bez zranění. Zabezpečení
-  místa DN.\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihlava)
-END:VEVENT
-BEGIN:VEVENT
 UID:415183061
 DTSTART:20260711T135758Z
 DTEND:20260711T145758Z
@@ -862,7 +838,7 @@ GEO:49.421776;15.505474
 URL:geo:49.421776,15.505474
 DESCRIPTION:📍 Vyskytná nad Jihlavou\, Jihlava\n\n🚒 CAS (CHS Jihlava)\n🚒 CAS
   (CHS Jihlava)\n🚒 CAS (Větrný Jeníkov)\n🚒 CAS (Jihlava-Bedřichov)\n🚒 CAS (
- Vyskytná nad Jihlavou)
+ Vyskytná nad Jihlavou)\n🚒 vyšetřovací automobil (ÚO Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:415287061
@@ -873,7 +849,8 @@ SUMMARY:🚗 dopravní nehoda - Žďár nad Sázavou
 LOCATION:Žďár nad Sázavou
 GEO:49.552953;15.944920
 URL:geo:49.552953,15.944920
-DESCRIPTION:🚒 CAS (CHS Žďár nad Sázavou)
+DESCRIPTION:💬 DN motorky. Jedna zraněná osoba.\n\n🚒 CAS (CHS Žďár nad Sázav
+ ou)
 END:VEVENT
 BEGIN:VEVENT
 UID:415288061
@@ -884,7 +861,19 @@ SUMMARY:☣️ olej/PHM - Střítež
 LOCATION:Střítež
 GEO:49.441999;16.256382
 URL:geo:49.441999,16.256382
-DESCRIPTION:📍 Střítež\, Žďár nad Sázavou\n\n🚒 CAS (HS Bystřice nad Pernštej
- nem)
+DESCRIPTION:📍 Střítež\, Žďár nad Sázavou\n💬 Likvidace úniku oleje.\n\n🚒 CAS
+  (HS Bystřice nad Pernštejnem)
+END:VEVENT
+BEGIN:VEVENT
+UID:415289061
+DTSTART:20260713T125446Z
+DTEND:20260713T135446Z
+DTSTAMP:20260713T125446Z
+SUMMARY:🛠️ obtížný hmyz - Heraltice
+LOCATION:Heraltice
+GEO:49.224648;15.725273
+URL:geo:49.224648,15.725273
+DESCRIPTION:📍 Heraltice\, Třebíč\n💬 Odstranění obtížného hmyzu.\n\n🚒 DA (Ok
+ říšky)\n🚒 CAS (Okříšky)
 END:VEVENT
 END:VCALENDAR
