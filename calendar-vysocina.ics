@@ -836,7 +836,7 @@ LOCATION:Riegrova\, Golčův Jeníkov
 GEO:49.819378;15.480846
 URL:geo:49.819378,15.480846
 DESCRIPTION:📍 Riegrova\, Golčův Jeníkov\, Havlíčkův Brod\n\n🚒 CAS (Golčův J
- eníkov)
+ eníkov)\n🚒 CAS (Golčův Jeníkov)
 END:VEVENT
 BEGIN:VEVENT
 UID:415262061
@@ -847,7 +847,9 @@ SUMMARY:🚗 dopravní nehoda - Olešná
 LOCATION:Olešná
 GEO:49.447267;15.284595
 URL:geo:49.447267,15.284595
-DESCRIPTION:📍 Plevnice\, Olešná\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)
+DESCRIPTION:📍 Plevnice\, Olešná\, Pelhřimov\n💬 DN OA a motocyklu\, 2 zraněn
+ é osoby. Zajištění místa nehody. Spolupráce se složkami IZS.\n\n🚒 CAS (CHS
+  Pelhřimov)
 END:VEVENT
 BEGIN:VEVENT
 UID:415264061
@@ -872,5 +874,28 @@ GEO:49.751457;15.484468
 URL:geo:49.751457,15.484468
 DESCRIPTION:📍 Habry\, Havlíčkův Brod\n\n🚒 CAS (HS Světlá nad Sázavou)\n🚒 CA
  S (Golčův Jeníkov)\n🚒 CAS (Golčův Jeníkov)
+END:VEVENT
+BEGIN:VEVENT
+UID:415266061
+DTSTART:20260713T091401Z
+DTEND:20260713T101401Z
+DTSTAMP:20260713T091401Z
+SUMMARY:🛠️ strom - Polnička
+LOCATION:Polnička
+GEO:49.614983;15.935352
+URL:geo:49.614983,15.935352
+DESCRIPTION:📍 Polnička\, Žďár nad Sázavou\n💬 Odstranění stromu.\n\n🚒 CAS (P
+ olnička)
+END:VEVENT
+BEGIN:VEVENT
+UID:415267061
+DTSTART:20260713T092528Z
+DTEND:20260713T102528Z
+DTSTAMP:20260713T092528Z
+SUMMARY:🚗 dopravní nehoda - Chotěboř
+LOCATION:Ječná\, Chotěboř
+GEO:49.717382;15.663440
+URL:geo:49.717382,15.663440
+DESCRIPTION:📍 Ječná\, Chotěboř\, Havlíčkův Brod\n\n🚒 CAS (HS Chotěboř)
 END:VEVENT
 END:VCALENDAR
