@@ -5,21 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:415139061
-DTSTART:20260711T055500Z
-DTEND:20260711T065500Z
-DTSTAMP:20260711T055500Z
-SUMMARY:🔥 tráva/plocha - Nové Město na Moravě
-LOCATION:Nové Město na Moravě
-GEO:49.542451;16.136522
-URL:geo:49.542451,16.136522
-DESCRIPTION:📍 Olešná\, Nové Město na Moravě\, Žďár nad Sázavou\n💬 Požár trá
- vy 10x10 m. Provedena lokalizace a likvidace požáru.\n\n🚒 CAS (CHS Žďár na
- d Sázavou)\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (HS Bystřice nad Pernštejn
- em)\n🚒 CAS (HS Bystřice nad Pernštejnem)\n🚒 CAS (Nové Město na Moravě)\n🚒 
- DA (Nové Město na Moravě-Olešná)
-END:VEVENT
-BEGIN:VEVENT
 UID:415140061
 DTSTART:20260711T062856Z
 DTEND:20260711T072856Z
