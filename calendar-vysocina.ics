@@ -808,4 +808,16 @@ URL:geo:49.577766,15.459111
 DESCRIPTION:📍 Jedouchov\, Věž\, Havlíčkův Brod\n💬 Odstranění obtížného hmyz
  u.\n\n🚒 CAS (HS Humpolec)
 END:VEVENT
+BEGIN:VEVENT
+UID:415311061
+DTSTART:20260713T200033Z
+DTEND:20260713T210033Z
+DTSTAMP:20260713T200033Z
+SUMMARY:🔥 venkovní požár - Bystřice nad Pernštejnem
+LOCATION:Topolová\, Bystřice nad Pernštejnem
+GEO:49.520124;16.261232
+URL:geo:49.520124,16.261232
+DESCRIPTION:📍 Topolová\, Bystřice nad Pernštejnem\, Žďár nad Sázavou\n\n🚒 C
+ AS (HS Bystřice nad Pernštejnem)
+END:VEVENT
 END:VCALENDAR
