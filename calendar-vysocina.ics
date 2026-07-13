@@ -150,7 +150,9 @@ LOCATION:Cikháj
 GEO:49.663699;15.965655
 URL:geo:49.663699,15.965655
 DESCRIPTION:📍 Cikháj\, Žďár nad Sázavou\n💬 Požár hrabanky 3x3m. Provedena l
- okalizace a likvidace požáru.
+ okalizace a likvidace požáru.\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (CHS 
+ Žďár nad Sázavou)\n🚒 DA (Herálec (ZR))\n🚒 CAS (Herálec (ZR))\n🚒 DA (Polnič
+ ka)\n🚒 CAS (Polnička)\n🚒 CAS (Škrdlovice)\n🚒 osobní automobil (Škrdlovice)
 END:VEVENT
 BEGIN:VEVENT
 UID:415153061
@@ -409,7 +411,8 @@ LOCATION:Lipnice nad Sázavou
 GEO:49.615211;15.413838
 URL:geo:49.615211,15.413838
 DESCRIPTION:📍 Lipnice nad Sázavou\, Havlíčkův Brod\n💬 Požár popelnice. Loka
- lizace a likvidace požáru.
+ lizace a likvidace požáru.\n\n🚒 CAS (HS Světlá nad Sázavou)\n🚒 DA (Lipnice
+  nad Sázavou)\n🚒 přívěs nákladní (Lipnice nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:415193061
@@ -685,7 +688,8 @@ SUMMARY:🛠️ ostatní - Havlíčkův Brod
 LOCATION:Na Spravedlnosti\, Havlíčkův Brod
 GEO:49.616390;15.576434
 URL:geo:49.616390,15.576434
-DESCRIPTION:📍 Na Spravedlnosti\, Havlíčkův Brod\n💬 Pomoc imobilní osobě.
+DESCRIPTION:📍 Na Spravedlnosti\, Havlíčkův Brod\n💬 Pomoc imobilní osobě.\n\
+ n🚒 CAS (CHS Havlíčkův Brod)
 END:VEVENT
 BEGIN:VEVENT
 UID:415224061
@@ -865,7 +869,8 @@ SUMMARY:🛠️ obtížný hmyz - Jinošov
 LOCATION:Jinošov
 GEO:49.228961;16.191879
 URL:geo:49.228961,16.191879
-DESCRIPTION:📍 Jinošov\, Třebíč\n💬 Odstranění obtížného hmyzu.
+DESCRIPTION:📍 Jinošov\, Třebíč\n💬 Odstranění obtížného hmyzu.\n\n🚒 CAS (HS 
+ Náměšť nad Oslavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:415243061
