@@ -846,8 +846,9 @@ SUMMARY:🚗 dopravní nehoda - Habry
 LOCATION:Habry
 GEO:49.751457;15.484468
 URL:geo:49.751457,15.484468
-DESCRIPTION:📍 Habry\, Havlíčkův Brod\n\n🚒 CAS (HS Světlá nad Sázavou)\n🚒 CA
- S (Golčův Jeníkov)\n🚒 CAS (Golčův Jeníkov)
+DESCRIPTION:📍 Habry\, Havlíčkův Brod\n💬 DN 3 NA se zraněním . Provedena PPO
+ . Řízení dopravy. Zajištění místa události.\n\n🚒 CAS (HS Světlá nad Sázavo
+ u)\n🚒 CAS (Golčův Jeníkov)\n🚒 CAS (Golčův Jeníkov)
 END:VEVENT
 BEGIN:VEVENT
 UID:415266061
@@ -870,7 +871,8 @@ SUMMARY:🚗 dopravní nehoda - Chotěboř
 LOCATION:Ječná\, Chotěboř
 GEO:49.717382;15.663440
 URL:geo:49.717382,15.663440
-DESCRIPTION:📍 Ječná\, Chotěboř\, Havlíčkův Brod\n\n🚒 CAS (HS Chotěboř)
+DESCRIPTION:📍 Ječná\, Chotěboř\, Havlíčkův Brod\n💬 DN 2 OA se zraněním jedn
+ é osoby. Provedena PPO. Zajištění místa události.\n\n🚒 CAS (HS Chotěboř)
 END:VEVENT
 BEGIN:VEVENT
 UID:415269061
@@ -892,8 +894,9 @@ SUMMARY:🚗 dopravní nehoda - Náměšť nad Oslavou
 LOCATION:náměstí Míru\, Náměšť nad Oslavou
 GEO:49.206591;16.152648
 URL:geo:49.206591,16.152648
-DESCRIPTION:📍 náměstí Míru\, Náměšť nad Oslavou\, Třebíč\n\n🚒 CAS (HS Náměš
- ť nad Oslavou)
+DESCRIPTION:📍 náměstí Míru\, Náměšť nad Oslavou\, Třebíč\n💬 DN 2 OA se zran
+ ěním jedné osoby. Jednotka provedla zajištění místa nehody.\n\n🚒 CAS (HS N
+ áměšť nad Oslavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:415272061
@@ -918,5 +921,17 @@ GEO:49.614092;15.673457
 URL:geo:49.614092,15.673457
 DESCRIPTION:📍 Svatá Anna\, Simtany\, Pohled\, Havlíčkův Brod\n\n🚒 vyšetřova
  cí automobil (ÚO Havlíčkův Brod)
+END:VEVENT
+BEGIN:VEVENT
+UID:415278061
+DTSTART:20260713T110703Z
+DTEND:20260713T120703Z
+DTSTAMP:20260713T110703Z
+SUMMARY:🛠️ ostatní - Ledeč nad Sázavou
+LOCATION:Petra Bezruče\, Ledeč nad Sázavou
+GEO:49.692933;15.275781
+URL:geo:49.692933,15.275781
+DESCRIPTION:📍 Petra Bezruče\, Ledeč nad Sázavou\, Havlíčkův Brod\n\n🚒 CAS (
+ HS Ledeč nad Sázavou)
 END:VEVENT
 END:VCALENDAR
