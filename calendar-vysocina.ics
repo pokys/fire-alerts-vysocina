@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:415234061
-DTSTART:20260712T142451Z
-DTEND:20260712T152451Z
-DTSTAMP:20260712T142451Z
-SUMMARY:🔥 vozidlo - Vír
-LOCATION:Vír
-GEO:49.552701;16.331344
-URL:geo:49.552701,16.331344
-DESCRIPTION:📍 Vír\, Žďár nad Sázavou\n💬 Požár NA.\n\n🚒 CAS (HS Bystřice nad
-  Pernštejnem)\n🚒 DA (Vír)\n🚒 CAS (Vír)\n🚒 vyšetřovací automobil (ÚO Žďár n
- ad Sázavou)
-END:VEVENT
-BEGIN:VEVENT
 UID:415235061
 DTSTART:20260712T143353Z
 DTEND:20260712T153353Z
@@ -62,8 +49,7 @@ SUMMARY:🛠️ strom - Olešenka
 LOCATION:Olešenka
 GEO:49.545709;15.770511
 URL:geo:49.545709,15.770511
-DESCRIPTION:📍 Olešenka\, Havlíčkův Brod\n💬 Odstranění stromu.\n\n🚒 CAS (Při
- byslav)
+DESCRIPTION:📍 Olešenka\, Havlíčkův Brod\n💬 Odstranění stromu.
 END:VEVENT
 BEGIN:VEVENT
 UID:415240061
@@ -254,7 +240,7 @@ LOCATION:Riegrova\, Golčův Jeníkov
 GEO:49.819378;15.480846
 URL:geo:49.819378,15.480846
 DESCRIPTION:📍 Riegrova\, Golčův Jeníkov\, Havlíčkův Brod\n💬 Zajištění telef
- onního kabelu.\n\n🚒 CAS (Golčův Jeníkov)\n🚒 CAS (Golčův Jeníkov)
+ onního kabelu.
 END:VEVENT
 BEGIN:VEVENT
 UID:415262061
@@ -353,7 +339,7 @@ LOCATION:Herálec
 GEO:49.520660;15.427083
 URL:geo:49.520660,15.427083
 DESCRIPTION:📍 Kamenice\, Herálec\, Havlíčkův Brod\n💬 Odstranění obtížného h
- myzu.\n\n🚒 CAS (HS Humpolec)
+ myzu.
 END:VEVENT
 BEGIN:VEVENT
 UID:415273061
@@ -770,8 +756,7 @@ SUMMARY:🛠️ obtížný hmyz - Třešť
 LOCATION:Luční\, Třešť
 GEO:49.289384;15.484562
 URL:geo:49.289384,15.484562
-DESCRIPTION:📍 Luční\, Třešť\, Jihlava\n💬 Likvidace nebezpečného hmyzu.\n\n🚒
-  CAS (HS Třešť)
+DESCRIPTION:📍 Luční\, Třešť\, Jihlava\n💬 Likvidace nebezpečného hmyzu.
 END:VEVENT
 BEGIN:VEVENT
 UID:415338061
@@ -783,7 +768,7 @@ LOCATION:Železnohorská\, Chotěboř
 GEO:49.716095;15.680093
 URL:geo:49.716095,15.680093
 DESCRIPTION:📍 Železnohorská\, Chotěboř\, Havlíčkův Brod\n💬 Likvidace nebezp
- ečného hmyzu.\n\n🚒 CAS (HS Chotěboř)\n🚒 vysavač na hmyz (HS Chotěboř)
+ ečného hmyzu.
 END:VEVENT
 BEGIN:VEVENT
 UID:415341061
@@ -843,7 +828,7 @@ SUMMARY:🛠️ ostatní - Blažkov
 LOCATION:Blažkov
 GEO:49.473073;16.185162
 URL:geo:49.473073,16.185162
-DESCRIPTION:📍 Blažkov\, Žďár nad Sázavou\n\n🚒 CAS (Blažkov)
+DESCRIPTION:📍 Blažkov\, Žďár nad Sázavou
 END:VEVENT
 BEGIN:VEVENT
 UID:415356061
@@ -867,8 +852,7 @@ SUMMARY:🚑 otevření/asistence - Humpolec
 LOCATION:Lnářská\, Humpolec
 GEO:49.540546;15.353894
 URL:geo:49.540546,15.353894
-DESCRIPTION:📍 Lnářská\, Humpolec\, Pelhřimov\n💬 Otevření bytu.\n\n🚒 CAS (HS
-  Humpolec)
+DESCRIPTION:📍 Lnářská\, Humpolec\, Pelhřimov\n💬 Otevření bytu.
 END:VEVENT
 BEGIN:VEVENT
 UID:415358061
@@ -880,8 +864,7 @@ LOCATION:Moravec
 GEO:49.438610;16.154120
 URL:geo:49.438610,16.154120
 DESCRIPTION:📍 Moravec\, Žďár nad Sázavou\n💬 DN 2 OA s 1 zraněnou osobou. Pr
- otipožární opatření a úklid vozovky.\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (
- HS Velké Meziříčí)\n🚒 CAS (Křižanov)
+ otipožární opatření a úklid vozovky.
 END:VEVENT
 BEGIN:VEVENT
 UID:415360061
@@ -937,7 +920,7 @@ SUMMARY:⚠️ planý poplach - Jihlava
 LOCATION:Humpolecká\, Jihlava
 GEO:49.414824;15.562215
 URL:geo:49.414824,15.562215
-DESCRIPTION:📍 Humpolecká\, Staré Hory\, Jihlava\n\n🚒 CAS (CHS Jihlava) ×2
+DESCRIPTION:📍 Humpolecká\, Staré Hory\, Jihlava
 END:VEVENT
 BEGIN:VEVENT
 UID:415369061
@@ -948,7 +931,7 @@ SUMMARY:🛠️ ostatní - Rudíkov
 LOCATION:Rudíkov
 GEO:49.288102;15.946484
 URL:geo:49.288102,15.946484
-DESCRIPTION:📍 Rudíkov\, Třebíč\n\n🚒 CAS (HS Velké Meziříčí)
+DESCRIPTION:📍 Rudíkov\, Třebíč
 END:VEVENT
 BEGIN:VEVENT
 UID:415372061
