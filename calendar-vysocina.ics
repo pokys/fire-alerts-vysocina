@@ -896,4 +896,16 @@ DESCRIPTION:📍 Sazomín\, Žďár nad Sázavou\n💬 DN OA mimo komunikaci. Na
   3 zraněné osoby. Jednotka provedla protipožární opatření\, úklid po DN. Z
  abezpečení místa nehody.\n\n🚒 CAS (CHS Žďár nad Sázavou)
 END:VEVENT
+BEGIN:VEVENT
+UID:415328061
+DTSTART:20260714T032930Z
+DTEND:20260714T042930Z
+DTSTAMP:20260714T032930Z
+SUMMARY:🛠️ ostatní - Chotěboř
+LOCATION:Dr. Rykra\, Chotěboř
+GEO:49.714467;15.680815
+URL:geo:49.714467,15.680815
+DESCRIPTION:📍 Dr. Rykra\, Chotěboř\, Havlíčkův Brod\n💬 Pomoc imobilní osobě
+ .\n\n🚒 CAS (HS Chotěboř)
+END:VEVENT
 END:VCALENDAR
