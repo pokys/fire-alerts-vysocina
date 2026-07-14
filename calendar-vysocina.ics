@@ -964,7 +964,8 @@ SUMMARY:🛠️ ostatní - Polná
 LOCATION:Tyršova\, Polná
 GEO:49.487574;15.715644
 URL:geo:49.487574,15.715644
-DESCRIPTION:📍 Tyršova\, Polná\, Jihlava\n\n🚒 CAS (Polná)
+DESCRIPTION:📍 Tyršova\, Polná\, Jihlava\n💬 Oplach komunikace.\n\n🚒 CAS (Pol
+ ná)
 END:VEVENT
 BEGIN:VEVENT
 UID:415389061
@@ -989,5 +990,16 @@ GEO:49.474561;14.996636
 URL:geo:49.474561,14.996636
 DESCRIPTION:📍 Sadová\, Pacov\, Pelhřimov\n💬 Odstranění obtížného hmyzu.\n\n
  🚒 CAS (HS Pacov)
+END:VEVENT
+BEGIN:VEVENT
+UID:415394061
+DTSTART:20260714T172517Z
+DTEND:20260714T182517Z
+DTSTAMP:20260714T172517Z
+SUMMARY:🛠️ obtížný hmyz - Třešť
+LOCATION:Tovární\, Třešť
+GEO:49.293925;15.478956
+URL:geo:49.293925,15.478956
+DESCRIPTION:📍 Tovární\, Třešť\, Jihlava\n\n🚒 CAS (HS Třešť)
 END:VEVENT
 END:VCALENDAR
