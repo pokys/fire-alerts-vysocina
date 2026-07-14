@@ -993,12 +993,13 @@ UID:415356061
 DTSTART:20260714T100258Z
 DTEND:20260714T110258Z
 DTSTAMP:20260714T100258Z
-SUMMARY:🔥 Třebíč
+SUMMARY:⚠️ planý poplach - Třebíč
 LOCATION:Kateřiny z Valdštejna\, Třebíč
 GEO:49.213457;15.886122
 URL:geo:49.213457,15.886122
-DESCRIPTION:📍 Kateřiny z Valdštejna\, Jejkov\, Třebíč\n\n🚒 CAS (CHS Třebíč)
- \n🚒 CAS (CHS Třebíč)
+DESCRIPTION:📍 Kateřiny z Valdštejna\, Jejkov\, Třebíč\n💬 Požár ohlášený sys
+ témem elektrické požární signalizace. Průzkumem bylo zjištěno\, že se jedn
+ á o planý poplach.\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (CHS Třebíč)
 END:VEVENT
 BEGIN:VEVENT
 UID:415357061
@@ -1022,5 +1023,27 @@ GEO:49.438610;16.154120
 URL:geo:49.438610,16.154120
 DESCRIPTION:📍 Moravec\, Žďár nad Sázavou\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZ
  A (HS Velké Meziříčí)\n🚒 CAS (Křižanov)
+END:VEVENT
+BEGIN:VEVENT
+UID:415360061
+DTSTART:20260714T101603Z
+DTEND:20260714T111603Z
+DTSTAMP:20260714T101603Z
+SUMMARY:🛠️ ostatní - Rozsochatec
+LOCATION:Rozsochatec
+GEO:49.670090;15.629357
+URL:geo:49.670090,15.629357
+DESCRIPTION:📍 Rozsochatec\, Havlíčkův Brod\n\n🚒 CAS (HS Chotěboř)
+END:VEVENT
+BEGIN:VEVENT
+UID:415362061
+DTSTART:20260714T102534Z
+DTEND:20260714T112534Z
+DTSTAMP:20260714T102534Z
+SUMMARY:🛠️ obtížný hmyz - Třešť
+LOCATION:Třešť
+GEO:49.297657;15.492438
+URL:geo:49.297657,15.492438
+DESCRIPTION:📍 Třešť\, Jihlava\n\n🚒 CAS (HS Třešť)
 END:VEVENT
 END:VCALENDAR
