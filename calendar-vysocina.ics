@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:415237061
-DTSTART:20260712T150211Z
-DTEND:20260712T160211Z
-DTSTAMP:20260712T150211Z
-SUMMARY:🛠️ strom - Studenec
-LOCATION:Studenec
-GEO:49.217244;16.085047
-URL:geo:49.217244,16.085047
-DESCRIPTION:📍 Studenec\, Třebíč\n💬 Odstranění stromu.\n\n🚒 CAS (HS Náměšť n
- ad Oslavou)\n🚒 pila řetězová (HS Náměšť nad Oslavou)
-END:VEVENT
-BEGIN:VEVENT
 UID:415239061
 DTSTART:20260712T151636Z
 DTEND:20260712T161636Z
@@ -806,7 +794,8 @@ SUMMARY:🛠️ ostatní - Blažkov
 LOCATION:Blažkov
 GEO:49.473073;16.185162
 URL:geo:49.473073,16.185162
-DESCRIPTION:📍 Blažkov\, Žďár nad Sázavou\n\n🚒 CAS (Blažkov)
+DESCRIPTION:📍 Blažkov\, Žďár nad Sázavou\n💬 Kropení vozovky.\n\n🚒 CAS (Blaž
+ kov)
 END:VEVENT
 BEGIN:VEVENT
 UID:415356061
@@ -942,24 +931,68 @@ UID:415377061
 DTSTART:20260714T141357Z
 DTEND:20260714T151357Z
 DTSTAMP:20260714T141357Z
-SUMMARY:🔥 les - Příseka
+SUMMARY:⚠️ planý poplach - Příseka
 LOCATION:Příseka
 GEO:49.670402;15.443808
 URL:geo:49.670402,15.443808
-DESCRIPTION:📍 Příseka\, Havlíčkův Brod\n\n🚒 CAS (HS Ledeč nad Sázavou)\n🚒 C
- AS (HS Ledeč nad Sázavou)\n🚒 CAS (HS Světlá nad Sázavou)\n🚒 CAS (Lučice)\n
- 🚒 DA (Světlá nad Sázavou)\n🚒 CAS (Světlá nad Sázavou)
+DESCRIPTION:📍 Příseka\, Havlíčkův Brod\n💬 Planý poplach.\n\n🚒 CAS (HS Ledeč
+  nad Sázavou)\n🚒 CAS (HS Ledeč nad Sázavou)\n🚒 CAS (HS Světlá nad Sázavou)
+ \n🚒 CAS (Lučice)\n🚒 DA (Světlá nad Sázavou)\n🚒 CAS (Světlá nad Sázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:415378061
+DTSTART:20260714T144240Z
+DTEND:20260714T154240Z
+DTSTAMP:20260714T144240Z
+SUMMARY:🛠️ strom - Hojanovice
+LOCATION:Hojanovice
+GEO:49.601586;15.261728
+URL:geo:49.601586,15.261728
+DESCRIPTION:📍 Hojanovice\, Pelhřimov\n\n🚒 DA (Hojanovice)
 END:VEVENT
 BEGIN:VEVENT
 UID:415379061
 DTSTART:20260714T145042Z
 DTEND:20260714T155042Z
 DTSTAMP:20260714T145042Z
-SUMMARY:🚗 dopravní nehoda - Golčův Jeníkov
+SUMMARY:⚠️ planý poplach - Golčův Jeníkov
 LOCATION:Jiráskova\, Golčův Jeníkov
 GEO:49.814457;15.475945
 URL:geo:49.814457,15.475945
-DESCRIPTION:📍 Jiráskova\, Golčův Jeníkov\, Havlíčkův Brod\n\n🚒 CAS (HS Lede
- č nad Sázavou)\n🚒 CAS (Golčův Jeníkov)
+DESCRIPTION:📍 Jiráskova\, Golčův Jeníkov\, Havlíčkův Brod\n💬 Planý poplach.
+ \n\n🚒 CAS (HS Ledeč nad Sázavou)\n🚒 CAS (Golčův Jeníkov)
+END:VEVENT
+BEGIN:VEVENT
+UID:415381061
+DTSTART:20260714T145854Z
+DTEND:20260714T155854Z
+DTSTAMP:20260714T145854Z
+SUMMARY:🛠️ ostatní - Chotěboř
+LOCATION:Dr. Rykra\, Chotěboř
+GEO:49.714467;15.680815
+URL:geo:49.714467,15.680815
+DESCRIPTION:📍 Dr. Rykra\, Chotěboř\, Havlíčkův Brod\n\n🚒 CAS (HS Chotěboř)
+END:VEVENT
+BEGIN:VEVENT
+UID:415384061
+DTSTART:20260714T150654Z
+DTEND:20260714T160654Z
+DTSTAMP:20260714T150654Z
+SUMMARY:🚗 dopravní nehoda - Pacov
+LOCATION:nám. Svobody\, Pacov
+GEO:49.472117;15.002577
+URL:geo:49.472117,15.002577
+DESCRIPTION:📍 nám. Svobody\, Pacov\, Pelhřimov\n\n🚒 CAS (HS Pacov)
+END:VEVENT
+BEGIN:VEVENT
+UID:415385061
+DTSTART:20260714T151130Z
+DTEND:20260714T161130Z
+DTSTAMP:20260714T151130Z
+SUMMARY:🚗 úklid místa - Čížov
+LOCATION:Čížov
+GEO:49.352208;15.584033
+URL:geo:49.352208,15.584033
+DESCRIPTION:📍 Čížov\, Jihlava\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihlava)
 END:VEVENT
 END:VCALENDAR
