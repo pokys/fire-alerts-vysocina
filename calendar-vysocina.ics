@@ -903,7 +903,7 @@ SUMMARY:🛠️ ostatní - Batelov
 LOCATION:Batelov
 GEO:49.314253;15.394654
 URL:geo:49.314253,15.394654
-DESCRIPTION:📍 Batelov\, Jihlava\n\n🚒 CAS (Batelov)
+DESCRIPTION:📍 Batelov\, Jihlava\n💬 Dovoz vody.\n\n🚒 CAS (Batelov)
 END:VEVENT
 BEGIN:VEVENT
 UID:415337061
@@ -914,7 +914,8 @@ SUMMARY:🛠️ obtížný hmyz - Třešť
 LOCATION:Luční\, Třešť
 GEO:49.289384;15.484562
 URL:geo:49.289384,15.484562
-DESCRIPTION:📍 Luční\, Třešť\, Jihlava\n\n🚒 CAS (HS Třešť)
+DESCRIPTION:📍 Luční\, Třešť\, Jihlava\n💬 Likvidace nebezpečného hmyzu.\n\n🚒
+  CAS (HS Třešť)
 END:VEVENT
 BEGIN:VEVENT
 UID:415338061
@@ -925,8 +926,8 @@ SUMMARY:🛠️ obtížný hmyz - Chotěboř
 LOCATION:Železnohorská\, Chotěboř
 GEO:49.716095;15.680093
 URL:geo:49.716095,15.680093
-DESCRIPTION:📍 Železnohorská\, Chotěboř\, Havlíčkův Brod\n💬 Odstranění obtíž
- ného hmyzu.\n\n🚒 CAS (HS Chotěboř)\n🚒 vysavač na hmyz (HS Chotěboř)
+DESCRIPTION:📍 Železnohorská\, Chotěboř\, Havlíčkův Brod\n💬 Likvidace nebezp
+ ečného hmyzu.\n\n🚒 CAS (HS Chotěboř)\n🚒 vysavač na hmyz (HS Chotěboř)
 END:VEVENT
 BEGIN:VEVENT
 UID:415341061
@@ -975,5 +976,51 @@ LOCATION:Podolí
 GEO:49.478759;16.090505
 URL:geo:49.478759,16.090505
 DESCRIPTION:📍 Podolí\, Žďár nad Sázavou\n\n🚒 CAS (Bobrová)
+END:VEVENT
+BEGIN:VEVENT
+UID:415355061
+DTSTART:20260714T094744Z
+DTEND:20260714T104744Z
+DTSTAMP:20260714T094744Z
+SUMMARY:🛠️ ostatní - Blažkov
+LOCATION:Blažkov
+GEO:49.473073;16.185162
+URL:geo:49.473073,16.185162
+DESCRIPTION:📍 Blažkov\, Žďár nad Sázavou\n\n🚒 CAS (Blažkov)
+END:VEVENT
+BEGIN:VEVENT
+UID:415356061
+DTSTART:20260714T100258Z
+DTEND:20260714T110258Z
+DTSTAMP:20260714T100258Z
+SUMMARY:🔥 Třebíč
+LOCATION:Kateřiny z Valdštejna\, Třebíč
+GEO:49.213457;15.886122
+URL:geo:49.213457,15.886122
+DESCRIPTION:📍 Kateřiny z Valdštejna\, Jejkov\, Třebíč\n\n🚒 CAS (CHS Třebíč)
+ \n🚒 CAS (CHS Třebíč)
+END:VEVENT
+BEGIN:VEVENT
+UID:415357061
+DTSTART:20260714T100600Z
+DTEND:20260714T110600Z
+DTSTAMP:20260714T100600Z
+SUMMARY:🚑 otevření/asistence - Humpolec
+LOCATION:Lnářská\, Humpolec
+GEO:49.540546;15.353894
+URL:geo:49.540546,15.353894
+DESCRIPTION:📍 Lnářská\, Humpolec\, Pelhřimov\n\n🚒 CAS (HS Humpolec)
+END:VEVENT
+BEGIN:VEVENT
+UID:415358061
+DTSTART:20260714T100753Z
+DTEND:20260714T110753Z
+DTSTAMP:20260714T100753Z
+SUMMARY:🚗 úklid místa - Moravec
+LOCATION:Moravec
+GEO:49.438610;16.154120
+URL:geo:49.438610,16.154120
+DESCRIPTION:📍 Moravec\, Žďár nad Sázavou\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZ
+ A (HS Velké Meziříčí)\n🚒 CAS (Křižanov)
 END:VEVENT
 END:VCALENDAR
