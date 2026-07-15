@@ -5,20 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:415303061
-DTSTART:20260713T165846Z
-DTEND:20260713T175846Z
-DTSTAMP:20260713T165846Z
-SUMMARY:🔥 vozidlo - Litohoř
-LOCATION:Litohoř
-GEO:49.070017;15.760259
-URL:geo:49.070017,15.760259
-DESCRIPTION:📍 Litohoř\, Třebíč\n💬 Požár lisu na poli. Lokalizace a likvidac
- e.\n\n🚒 CAS (HS Moravské Budějovice)\n🚒 CAS (HS Moravské Budějovice)\n🚒 CA
- S (Lesonice)\n🚒 CAS (Moravské Budějovice)\n🚒 vyšetřovací automobil (ÚO Tře
- bíč)
-END:VEVENT
-BEGIN:VEVENT
 UID:415304061
 DTSTART:20260713T170448Z
 DTEND:20260713T180448Z
@@ -924,9 +910,9 @@ SUMMARY:🔥 tráva/plocha - Třebíč
 LOCATION:Třebíč
 GEO:49.211174;15.837094
 URL:geo:49.211174,15.837094
-DESCRIPTION:📍 Řípov\, Třebíč\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (CHS Třebíč)\n🚒 a
- utomobilová stříkačka (Stařeč)\n🚒 CAS (Stařeč)\n🚒 vyšetřovací automobil (Ú
- O Třebíč)
+DESCRIPTION:📍 Řípov\, Třebíč\n💬 Likvidace požáru strniště na poli.\n\n🚒 CAS
+  (CHS Třebíč)\n🚒 CAS (CHS Třebíč)\n🚒 automobilová stříkačka (Stařeč)\n🚒 CA
+ S (Stařeč)\n🚒 vyšetřovací automobil (ÚO Třebíč)
 END:VEVENT
 BEGIN:VEVENT
 UID:415471061
@@ -951,5 +937,16 @@ GEO:49.019115;15.590765
 URL:geo:49.019115,15.590765
 DESCRIPTION:📍 Budějovická\, Jemnice\, Třebíč\n💬 Odstranění obtížného hmyzu.
  \n\n🚒 CAS (HS Jemnice)
+END:VEVENT
+BEGIN:VEVENT
+UID:415474061
+DTSTART:20260715T163924Z
+DTEND:20260715T173924Z
+DTSTAMP:20260715T163924Z
+SUMMARY:🛠️ obtížný hmyz - Velká Losenice
+LOCATION:Velká Losenice
+GEO:49.578673;15.846220
+URL:geo:49.578673,15.846220
+DESCRIPTION:📍 Velká Losenice\, Žďár nad Sázavou\n\n🚒 DA (Velká Losenice)
 END:VEVENT
 END:VCALENDAR
