@@ -919,4 +919,16 @@ URL:geo:49.455352,15.907066
 DESCRIPTION:📍 Pavlov\, Žďár nad Sázavou\n💬 DN 1 OA a cyklisty\, Zajištění m
  ísta události.\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (Bohdalov)
 END:VEVENT
+BEGIN:VEVENT
+UID:415453061
+DTSTART:20260715T113719Z
+DTEND:20260715T123719Z
+DTSTAMP:20260715T113719Z
+SUMMARY:⚠️ planý poplach - Telč
+LOCATION:náměstí Zachariáše z Hradce\, Telč
+GEO:49.185032;15.451471
+URL:geo:49.185032,15.451471
+DESCRIPTION:📍 náměstí Zachariáše z Hradce\, Telč-Vnitřní Město\, Telč\, Jih
+ lava\n\n🚒 CAS (HS Telč)\n🚒 CAS (HS Telč)
+END:VEVENT
 END:VCALENDAR
