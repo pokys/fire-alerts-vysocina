@@ -5,30 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:415272061
-DTSTART:20260713T104643Z
-DTEND:20260713T114643Z
-DTSTAMP:20260713T104643Z
-SUMMARY:🛠️ obtížný hmyz - Herálec
-LOCATION:Herálec
-GEO:49.520660;15.427083
-URL:geo:49.520660,15.427083
-DESCRIPTION:📍 Kamenice\, Herálec\, Havlíčkův Brod\n💬 Odstranění obtížného h
- myzu.\n\n🚒 CAS (HS Humpolec)
-END:VEVENT
-BEGIN:VEVENT
-UID:415273061
-DTSTART:20260713T104819Z
-DTEND:20260713T114819Z
-DTSTAMP:20260713T104819Z
-SUMMARY:🔥 budova - Pohled
-LOCATION:Svatá Anna\, Pohled
-GEO:49.614092;15.673457
-URL:geo:49.614092,15.673457
-DESCRIPTION:📍 Svatá Anna\, Simtany\, Pohled\, Havlíčkův Brod\n💬 Požár bez ú
- časti JPO.\n\n🚒 vyšetřovací automobil (ÚO Havlíčkův Brod)
-END:VEVENT
-BEGIN:VEVENT
 UID:415278061
 DTSTART:20260713T110703Z
 DTEND:20260713T120703Z
@@ -964,7 +940,7 @@ SUMMARY:🚗 dopravní nehoda - Pavlov
 LOCATION:Pavlov
 GEO:49.455352;15.907066
 URL:geo:49.455352,15.907066
-DESCRIPTION:📍 Pavlov\, Žďár nad Sázavou\n💬 DN 1 OA a cyklisty\,\n\n🚒 CAS (C
- HS Žďár nad Sázavou)\n🚒 CAS (Bohdalov)
+DESCRIPTION:📍 Pavlov\, Žďár nad Sázavou\n💬 DN 1 OA a cyklisty\, Zajištění m
+ ísta události.\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (Bohdalov)
 END:VEVENT
 END:VCALENDAR
