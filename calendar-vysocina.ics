@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:415322061
-DTSTART:20260713T220147Z
-DTEND:20260713T230147Z
-DTSTAMP:20260713T220147Z
-SUMMARY:🚑 záchrana ze stromu - Jaroměřice nad Rokytnou
-LOCATION:Helfertova\, Jaroměřice nad Rokytnou
-GEO:49.093750;15.890648
-URL:geo:49.093750,15.890648
-DESCRIPTION:📍 Helfertova\, Jaroměřice nad Rokytnou\, Třebíč\n💬 Spolupráce s
-  PČR.\n\n🚒 CAS (HS Moravské Budějovice)\n🚒 účelový automobil do 3500 kg (Ú
- O Jihlava)
-END:VEVENT
-BEGIN:VEVENT
 UID:415324061
 DTSTART:20260713T220958Z
 DTEND:20260713T230958Z
