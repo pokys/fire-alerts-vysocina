@@ -935,6 +935,18 @@ SUMMARY:🛠️ ostatní - Nové Dvory
 LOCATION:Nové Dvory
 GEO:49.564909;15.818612
 URL:geo:49.564909,15.818612
-DESCRIPTION:📍 Nové Dvory\, Žďár nad Sázavou\n\n🚒 CAS (Nové Dvory)
+DESCRIPTION:📍 Nové Dvory\, Žďár nad Sázavou\n💬 Technická pomoc.\n\n🚒 CAS (N
+ ové Dvory)
+END:VEVENT
+BEGIN:VEVENT
+UID:415477061
+DTSTART:20260715T182951Z
+DTEND:20260715T192951Z
+DTSTAMP:20260715T182951Z
+SUMMARY:🛠️ otevření bytu/auta - Havlíčkův Brod
+LOCATION:Zahradnického\, Havlíčkův Brod
+GEO:49.615892;15.571871
+URL:geo:49.615892,15.571871
+DESCRIPTION:📍 Zahradnického\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)
 END:VEVENT
 END:VCALENDAR
