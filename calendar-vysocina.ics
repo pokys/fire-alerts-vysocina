@@ -929,19 +929,19 @@ SUMMARY:🛠️ obtížný hmyz - Žďár nad Sázavou
 LOCATION:Neumannova\, Žďár nad Sázavou
 GEO:49.563819;15.945304
 URL:geo:49.563819,15.945304
-DESCRIPTION:📍 Neumannova\, Žďár nad Sázavou 4\, Žďár nad Sázavou\n\n🚒 CAS (
- CHS Žďár nad Sázavou)
+DESCRIPTION:📍 Neumannova\, Žďár nad Sázavou 4\, Žďár nad Sázavou\n💬 Odstran
+ ění obtížného hmyzu.\n\n🚒 CAS (CHS Žďár nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:415457061
 DTSTART:20260715T120821Z
 DTEND:20260715T130821Z
 DTSTAMP:20260715T120821Z
-SUMMARY:🔥 Havlíčkův Brod
+SUMMARY:⚠️ planý poplach - Havlíčkův Brod
 LOCATION:Reynkova\, Havlíčkův Brod
 GEO:49.617233;15.579301
 URL:geo:49.617233,15.579301
-DESCRIPTION:📍 Reynkova\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 CA
- S (CHS Havlíčkův Brod)
+DESCRIPTION:📍 Reynkova\, Havlíčkův Brod\n💬 Požár hlášený čidlem EPS na PCO 
+ - planý poplach.\n\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 CAS (CHS Havlíčkův Brod)
 END:VEVENT
 END:VCALENDAR
