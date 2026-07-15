@@ -1007,4 +1007,15 @@ DESCRIPTION:📍 Nová Ves\, Třebíč\n💬 Požár ohlášený systémem elekt
  🚒 CAS (CHS Třebíč)\n🚒 CAS (CHS Třebíč)\n🚒 DA (Nová Ves (TR))\n🚒 CAS (Okříš
  ky)\n🚒 CAS (Přibyslavice)\n🚒 CAS (Přibyslavice)
 END:VEVENT
+BEGIN:VEVENT
+UID:415410061
+DTSTART:20260715T065044Z
+DTEND:20260715T075044Z
+DTSTAMP:20260715T065044Z
+SUMMARY:🛠️ obtížný hmyz - Lesonice
+LOCATION:Lesonice
+GEO:49.109649;15.757033
+URL:geo:49.109649,15.757033
+DESCRIPTION:📍 Lesonice\, Třebíč\n\n🚒 CAS (Lesonice)
+END:VEVENT
 END:VCALENDAR
