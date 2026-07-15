@@ -5,20 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:415292061
-DTSTART:20260713T151203Z
-DTEND:20260713T161203Z
-DTSTAMP:20260713T151203Z
-SUMMARY:🔥 vozidlo - Kámen
-LOCATION:Kámen
-GEO:49.429374;15.011815
-URL:geo:49.429374,15.011815
-DESCRIPTION:📍 Kámen\, Pelhřimov\n💬 Požár traktoru s balíkovačem\, bez zraně
- ní. Provedena lokalizace a likvidace požáru.\n\n🚒 CAS (HS Pacov)\n🚒 CAS (H
- S Pacov)\n🚒 CAS (Pacov)\n🚒 CAS (Obrataň)\n🚒 přívěs motorová stříkačka (Kám
- en (PE))\n🚒 vyšetřovací automobil (ÚO Pelhřimov)
-END:VEVENT
-BEGIN:VEVENT
 UID:415294061
 DTSTART:20260713T152934Z
 DTEND:20260713T162934Z
@@ -961,8 +947,8 @@ SUMMARY:🚑 otevření/asistence - Modlíkov
 LOCATION:Modlíkov
 GEO:49.607300;15.772298
 URL:geo:49.607300,15.772298
-DESCRIPTION:📍 Modlíkov\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 CA
- S (Přibyslav)
+DESCRIPTION:📍 Modlíkov\, Havlíčkův Brod\n💬 Otevření bytu\, osoba uvnitř.\n\
+ n🚒 CAS (CHS Havlíčkův Brod)\n🚒 CAS (Přibyslav)
 END:VEVENT
 BEGIN:VEVENT
 UID:415468061
@@ -974,5 +960,28 @@ LOCATION:Lučice
 GEO:49.663544;15.492669
 URL:geo:49.663544,15.492669
 DESCRIPTION:📍 Lučice\, Havlíčkův Brod\n\n🚒 CAS (HS Světlá nad Sázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:415470061
+DTSTART:20260715T150132Z
+DTEND:20260715T160132Z
+DTSTAMP:20260715T150132Z
+SUMMARY:🔥 tráva/plocha - Třebíč
+LOCATION:Třebíč
+GEO:49.211174;15.837094
+URL:geo:49.211174,15.837094
+DESCRIPTION:📍 Řípov\, Třebíč\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (CHS Třebíč)\n🚒 a
+ utomobilová stříkačka (Stařeč)\n🚒 CAS (Stařeč)
+END:VEVENT
+BEGIN:VEVENT
+UID:415471061
+DTSTART:20260715T150623Z
+DTEND:20260715T160623Z
+DTSTAMP:20260715T150623Z
+SUMMARY:🛠️ strom - Pacov
+LOCATION:Pacov
+GEO:49.504811;14.955532
+URL:geo:49.504811,14.955532
+DESCRIPTION:📍 Jetřichovec\, Pacov\, Pelhřimov\n\n🚒 CAS (HS Pacov)
 END:VEVENT
 END:VCALENDAR
