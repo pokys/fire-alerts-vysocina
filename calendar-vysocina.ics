@@ -947,7 +947,8 @@ SUMMARY:🛠️ obtížný hmyz - Lučice
 LOCATION:Lučice
 GEO:49.663544;15.492669
 URL:geo:49.663544,15.492669
-DESCRIPTION:📍 Lučice\, Havlíčkův Brod\n\n🚒 CAS (HS Světlá nad Sázavou)
+DESCRIPTION:📍 Lučice\, Havlíčkův Brod\n💬 Likvidace obtížného hmyzu.\n\n🚒 CA
+ S (HS Světlá nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:415470061
@@ -971,6 +972,7 @@ SUMMARY:🛠️ strom - Pacov
 LOCATION:Pacov
 GEO:49.504811;14.955532
 URL:geo:49.504811,14.955532
-DESCRIPTION:📍 Jetřichovec\, Pacov\, Pelhřimov\n\n🚒 CAS (HS Pacov)
+DESCRIPTION:📍 Jetřichovec\, Pacov\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 CA
+ S (HS Pacov)
 END:VEVENT
 END:VCALENDAR
