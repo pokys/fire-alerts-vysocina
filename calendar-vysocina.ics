@@ -5,56 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:415261061
-DTSTART:20260713T080255Z
-DTEND:20260713T090255Z
-DTSTAMP:20260713T080255Z
-SUMMARY:🛠️ ostatní - Golčův Jeníkov
-LOCATION:Riegrova\, Golčův Jeníkov
-GEO:49.819378;15.480846
-URL:geo:49.819378,15.480846
-DESCRIPTION:📍 Riegrova\, Golčův Jeníkov\, Havlíčkův Brod\n💬 Zajištění telef
- onního kabelu.\n\n🚒 CAS (Golčův Jeníkov)\n🚒 CAS (Golčův Jeníkov)
-END:VEVENT
-BEGIN:VEVENT
-UID:415262061
-DTSTART:20260713T080519Z
-DTEND:20260713T090519Z
-DTSTAMP:20260713T080519Z
-SUMMARY:🚗 dopravní nehoda - Olešná
-LOCATION:Olešná
-GEO:49.447267;15.284595
-URL:geo:49.447267,15.284595
-DESCRIPTION:📍 Plevnice\, Olešná\, Pelhřimov\n💬 DN OA a motocyklu\, 2 zraněn
- é osoby. Zajištění místa nehody. Spolupráce se složkami IZS.\n\n🚒 CAS (CHS
-  Pelhřimov)
-END:VEVENT
-BEGIN:VEVENT
-UID:415264061
-DTSTART:20260713T081103Z
-DTEND:20260713T091103Z
-DTSTAMP:20260713T081103Z
-SUMMARY:🚑 transport pacienta - Žďár nad Sázavou
-LOCATION:Okružní\, Žďár nad Sázavou
-GEO:49.566541;15.929809
-URL:geo:49.566541,15.929809
-DESCRIPTION:📍 Okružní\, Žďár nad Sázavou 3\, Žďár nad Sázavou\n💬 Transport 
- pacienta na žádost ZZS.\n\n🚒 CAS (CHS Žďár nad Sázavou)
-END:VEVENT
-BEGIN:VEVENT
-UID:415265061
-DTSTART:20260713T081337Z
-DTEND:20260713T091337Z
-DTSTAMP:20260713T081337Z
-SUMMARY:🚗 dopravní nehoda - Habry
-LOCATION:Habry
-GEO:49.751457;15.484468
-URL:geo:49.751457,15.484468
-DESCRIPTION:📍 Habry\, Havlíčkův Brod\n💬 DN 3 NA se zraněním dvou osob. Prov
- edena PPO. Řízení dopravy. Zajištění místa události.\n\n🚒 CAS (HS Světlá n
- ad Sázavou)\n🚒 CAS (Golčův Jeníkov)\n🚒 CAS (Golčův Jeníkov)
-END:VEVENT
-BEGIN:VEVENT
 UID:415266061
 DTSTART:20260713T091401Z
 DTEND:20260713T101401Z
@@ -1015,7 +965,7 @@ SUMMARY:🛠️ otevření bytu/auta - Bystřice nad Pernštejnem
 LOCATION:Bystřice nad Pernštejnem
 GEO:49.532005;16.292734
 URL:geo:49.532005,16.292734
-DESCRIPTION:📍 Dvořiště\, Bystřice nad Pernštejnem\, Žďár nad Sázavou\n\n🚒 C
- AS (HS Bystřice nad Pernštejnem)
+DESCRIPTION:📍 Dvořiště\, Bystřice nad Pernštejnem\, Žďár nad Sázavou\n💬 Ote
+ vření rodinného domu.\n\n🚒 CAS (HS Bystřice nad Pernštejnem)
 END:VEVENT
 END:VCALENDAR
