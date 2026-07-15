@@ -933,4 +933,27 @@ URL:geo:49.532005,16.292734
 DESCRIPTION:📍 Dvořiště\, Bystřice nad Pernštejnem\, Žďár nad Sázavou\n💬 Ote
  vření rodinného domu.\n\n🚒 CAS (HS Bystřice nad Pernštejnem)
 END:VEVENT
+BEGIN:VEVENT
+UID:415440061
+DTSTART:20260715T100221Z
+DTEND:20260715T110221Z
+DTSTAMP:20260715T100221Z
+SUMMARY:🛠️ ostatní - Batelov
+LOCATION:Školní\, Batelov
+GEO:49.313555;15.390753
+URL:geo:49.313555,15.390753
+DESCRIPTION:📍 Školní\, Batelov\, Jihlava\n\n🚒 CAS (Batelov)
+END:VEVENT
+BEGIN:VEVENT
+UID:415441061
+DTSTART:20260715T100321Z
+DTEND:20260715T110321Z
+DTSTAMP:20260715T100321Z
+SUMMARY:🛠️ obtížný hmyz - Žďár nad Sázavou
+LOCATION:Špálova\, Žďár nad Sázavou
+GEO:49.564322;15.951672
+URL:geo:49.564322,15.951672
+DESCRIPTION:📍 Špálova\, Žďár nad Sázavou 7\, Žďár nad Sázavou\n\n🚒 CAS (CHS
+  Žďár nad Sázavou)
+END:VEVENT
 END:VCALENDAR
