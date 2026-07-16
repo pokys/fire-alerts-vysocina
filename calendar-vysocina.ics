@@ -5,17 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:415365061
-DTSTART:20260714T113530Z
-DTEND:20260714T123530Z
-DTSTAMP:20260714T113530Z
-SUMMARY:🛠️ ostatní - Batelov
-LOCATION:Batelov
-GEO:49.314253;15.394654
-URL:geo:49.314253,15.394654
-DESCRIPTION:📍 Batelov\, Jihlava\n💬 Dovoz vody.\n\n🚒 CAS (Batelov)
-END:VEVENT
-BEGIN:VEVENT
 UID:415366061
 DTSTART:20260714T120329Z
 DTEND:20260714T130329Z
@@ -838,8 +827,8 @@ SUMMARY:🛠️ obtížný hmyz - Žďár nad Sázavou
 LOCATION:Vančurova\, Žďár nad Sázavou
 GEO:49.562287;15.945746
 URL:geo:49.562287,15.945746
-DESCRIPTION:📍 Vančurova\, Žďár nad Sázavou 4\, Žďár nad Sázavou\n\n🚒 osobní
-  automobil (Žďár nad Sázavou-Zámek)
+DESCRIPTION:📍 Vančurova\, Žďár nad Sázavou 4\, Žďár nad Sázavou\n💬 Odstraně
+ ní obtížného hmyzu.\n\n🚒 osobní automobil (Žďár nad Sázavou-Zámek)
 END:VEVENT
 BEGIN:VEVENT
 UID:415515061
@@ -875,9 +864,9 @@ SUMMARY:🚑 transport pacienta - Křižánky
 LOCATION:Křižánky
 GEO:49.670746;16.031798
 URL:geo:49.670746,16.031798
-DESCRIPTION:📍 Křižánky\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad Sázavou)\n
- 🚒 VEA (CHS Žďár nad Sázavou)\n🚒 vozidlo účelové - SxS (CHS Žďár nad Sázavo
- u)\n🚒 CAS (Svratka)
+DESCRIPTION:📍 Křižánky\, Žďár nad Sázavou\n💬 Transport pacienta na žádost Z
+ ZS.\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 VEA (CHS Žďár nad Sázavou)\n🚒 vozid
+ lo účelové - SxS (CHS Žďár nad Sázavou)\n🚒 CAS (Svratka)
 END:VEVENT
 BEGIN:VEVENT
 UID:415519061
@@ -890,5 +879,16 @@ GEO:49.564322;15.951672
 URL:geo:49.564322,15.951672
 DESCRIPTION:📍 Špálova\, Žďár nad Sázavou 7\, Žďár nad Sázavou\n💬 Odstranění
   obtížného hmyzu.\n\n🚒 CAS (CHS Žďár nad Sázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:415522061
+DTSTART:20260716T112536Z
+DTEND:20260716T122536Z
+DTSTAMP:20260716T112536Z
+SUMMARY:🛠️ obtížný hmyz - Šebkovice
+LOCATION:Šebkovice
+GEO:49.116212;15.820128
+URL:geo:49.116212,15.820128
+DESCRIPTION:📍 Šebkovice\, Třebíč\n\n🚒 CAS (Jaroměřice nad Rokytnou)
 END:VEVENT
 END:VCALENDAR
