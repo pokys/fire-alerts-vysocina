@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:415355061
-DTSTART:20260714T094744Z
-DTEND:20260714T104744Z
-DTSTAMP:20260714T094744Z
-SUMMARY:🛠️ ostatní - Blažkov
-LOCATION:Blažkov
-GEO:49.473073;16.185162
-URL:geo:49.473073,16.185162
-DESCRIPTION:📍 Blažkov\, Žďár nad Sázavou\n💬 Kropení vozovky.\n\n🚒 CAS (Blaž
- kov)
-END:VEVENT
-BEGIN:VEVENT
 UID:415356061
 DTSTART:20260714T100258Z
 DTEND:20260714T110258Z
@@ -887,7 +875,9 @@ SUMMARY:🚗 dopravní nehoda - Humpolec
 LOCATION:Rumunská\, Humpolec
 GEO:49.534791;15.357784
 URL:geo:49.534791,15.357784
-DESCRIPTION:📍 Rumunská\, Humpolec\, Pelhřimov\n\n🚒 CAS (HS Humpolec)
+DESCRIPTION:📍 Rumunská\, Humpolec\, Pelhřimov\n💬 DN cyklisty se zraněním. S
+ polupráce se ZZS pří ošetření. ZZS transportovala jednu zraněnou osobu k d
+ alšímu ošetření do ON.\n\n🚒 CAS (HS Humpolec)
 END:VEVENT
 BEGIN:VEVENT
 UID:415513061
@@ -912,5 +902,17 @@ GEO:49.562287;15.945746
 URL:geo:49.562287,15.945746
 DESCRIPTION:📍 Vančurova\, Žďár nad Sázavou 4\, Žďár nad Sázavou\n\n🚒 osobní
   automobil (Žďár nad Sázavou-Zámek)
+END:VEVENT
+BEGIN:VEVENT
+UID:415515061
+DTSTART:20260716T095055Z
+DTEND:20260716T105055Z
+DTSTAMP:20260716T095055Z
+SUMMARY:🚑 transport pacienta - Moravské Budějovice
+LOCATION:Šindelářova\, Moravské Budějovice
+GEO:49.045601;15.814857
+URL:geo:49.045601,15.814857
+DESCRIPTION:📍 Šindelářova\, Moravské Budějovice\, Třebíč\n💬 Transport pacie
+ nta na žádost ZZS.\n\n🚒 CAS (HS Moravské Budějovice)
 END:VEVENT
 END:VCALENDAR
