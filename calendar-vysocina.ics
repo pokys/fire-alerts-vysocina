@@ -739,8 +739,8 @@ SUMMARY:🛠️ obtížný hmyz - Kramolín
 LOCATION:Kramolín
 GEO:49.131740;16.123718
 URL:geo:49.131740,16.123718
-DESCRIPTION:📍 Kramolín\, Třebíč\n💬 Likvidace obtížného hmyzu\,\n\n🚒 CAS (HS
-  Hrotovice)
+DESCRIPTION:📍 Kramolín\, Třebíč\n💬 Likvidace obtížného hmyzu.\n\n🚒 CAS (HS 
+ Hrotovice)
 END:VEVENT
 BEGIN:VEVENT
 UID:415492061
@@ -764,7 +764,7 @@ LOCATION:Na Dolině\, Velká Bíteš
 GEO:49.293762;16.218335
 URL:geo:49.293762,16.218335
 DESCRIPTION:📍 Na Dolině\, Velká Bíteš\, Žďár nad Sázavou\n💬 Otevření sklado
- vých prostor. uvnitř osoba.\n\n🚒 CAS (HS Velká Bíteš)
+ vých prostor\, uvnitř osoba.\n\n🚒 CAS (HS Velká Bíteš)
 END:VEVENT
 BEGIN:VEVENT
 UID:415497061
@@ -862,8 +862,9 @@ SUMMARY:🔥 vozidlo - Třebíč
 LOCATION:Třebíč
 GEO:49.173117;15.877322
 URL:geo:49.173117,15.877322
-DESCRIPTION:📍 Slavice\, Třebíč\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (CHS Třebíč)\n🚒
-  DA (Třebíč-Slavice)\n🚒 vyšetřovací automobil (ÚO Třebíč)
+DESCRIPTION:📍 Slavice\, Třebíč\n💬 Požár osobního automobilu bez zranění. Lo
+ kalizace a likvidace.\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (CHS Třebíč)\n🚒 DA (Tře
+ bíč-Slavice)\n🚒 vyšetřovací automobil (ÚO Třebíč)
 END:VEVENT
 BEGIN:VEVENT
 UID:415517061
