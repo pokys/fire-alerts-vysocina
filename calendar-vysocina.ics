@@ -878,4 +878,16 @@ DESCRIPTION:📍 Křižánky\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad
  🚒 VEA (CHS Žďár nad Sázavou)\n🚒 vozidlo účelové - SxS (CHS Žďár nad Sázavo
  u)\n🚒 CAS (Svratka)
 END:VEVENT
+BEGIN:VEVENT
+UID:415519061
+DTSTART:20260716T102521Z
+DTEND:20260716T112521Z
+DTSTAMP:20260716T102521Z
+SUMMARY:🛠️ obtížný hmyz - Žďár nad Sázavou
+LOCATION:Špálova\, Žďár nad Sázavou
+GEO:49.564322;15.951672
+URL:geo:49.564322,15.951672
+DESCRIPTION:📍 Špálova\, Žďár nad Sázavou 7\, Žďár nad Sázavou\n\n🚒 CAS (CHS
+  Žďár nad Sázavou)
+END:VEVENT
 END:VCALENDAR
