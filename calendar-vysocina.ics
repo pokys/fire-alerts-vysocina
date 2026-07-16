@@ -853,7 +853,8 @@ SUMMARY:🚗 bez zranění - Jiřice
 LOCATION:Jiřice
 GEO:49.567831;15.283788
 URL:geo:49.567831,15.283788
-DESCRIPTION:📍 Speřice\, Jiřice\, Pelhřimov\n\n🚒 CAS (HS Humpolec)
+DESCRIPTION:📍 Speřice\, Jiřice\, Pelhřimov\n💬 DN OA na D1 bez zranění. Odst
+ ranění následků po DN.\n\n🚒 CAS (HS Humpolec)
 END:VEVENT
 BEGIN:VEVENT
 UID:415531061
@@ -864,7 +865,9 @@ SUMMARY:🚗 dopravní nehoda - Pelhřimov
 LOCATION:Pelhřimov
 GEO:49.439018;15.196343
 URL:geo:49.439018,15.196343
-DESCRIPTION:📍 Starý Pelhřimov\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)
+DESCRIPTION:📍 Starý Pelhřimov\, Pelhřimov\n💬 DN NA - 2x OA bez zranění. Ods
+ tranění následků po DN. Řízení provozu na pozemní komunikaci.\n\n🚒 CAS (CH
+ S Pelhřimov)
 END:VEVENT
 BEGIN:VEVENT
 UID:415533061
@@ -875,6 +878,19 @@ SUMMARY:🛠️ obtížný hmyz - Nové Syrovice
 LOCATION:Nové Syrovice
 GEO:49.014891;15.779883
 URL:geo:49.014891,15.779883
-DESCRIPTION:📍 Nové Syrovice\, Třebíč\n\n🚒 DA (Nové Syrovice)
+DESCRIPTION:📍 Nové Syrovice\, Třebíč\n💬 Likvidace obtížného hmyzu.\n\n🚒 DA 
+ (Nové Syrovice)
+END:VEVENT
+BEGIN:VEVENT
+UID:415534061
+DTSTART:20260716T133330Z
+DTEND:20260716T143330Z
+DTSTAMP:20260716T133330Z
+SUMMARY:🔥 Jihlava
+LOCATION:Havlíčkova\, Jihlava
+GEO:49.402029;15.588000
+URL:geo:49.402029,15.588000
+DESCRIPTION:📍 Havlíčkova\, Jihlava\n\n🚒 CAS (CHS Jihlava) ×2\n🚒 CAS (CHS Ji
+ hlava) ×2
 END:VEVENT
 END:VCALENDAR
