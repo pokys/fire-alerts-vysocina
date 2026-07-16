@@ -821,7 +821,8 @@ SUMMARY:🚗 dopravní nehoda - Ždírec
 LOCATION:Ždírec
 GEO:49.455693;15.679601
 URL:geo:49.455693,15.679601
-DESCRIPTION:📍 Ždírec\, Jihlava\n\n🚒 RZA (CHS Jihlava)\n🚒 CAS (HS Polná)
+DESCRIPTION:📍 Ždírec\, Jihlava\n💬 DN OA a motocyklu\, 1 zraněná osoba. Prov
+ edeno zajištění místa nehody.\n\n🚒 RZA (CHS Jihlava)\n🚒 CAS (HS Polná)
 END:VEVENT
 BEGIN:VEVENT
 UID:415539061
@@ -832,7 +833,8 @@ SUMMARY:☣️ olej/PHM - Věžnice
 LOCATION:Věžnice
 GEO:49.408829;15.756577
 URL:geo:49.408829,15.756577
-DESCRIPTION:📍 Věžnice\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+DESCRIPTION:📍 Věžnice\, Jihlava\n💬 Likvidace cca 30l oleje po poruše NA. Zl
+ ikvidováno pomocí sorbentu.\n\n🚒 CAS (CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:415540061
@@ -854,6 +856,18 @@ SUMMARY:🛠️ obtížný hmyz - Bohdalov
 LOCATION:Bohdalov
 GEO:49.454129;15.855091
 URL:geo:49.454129,15.855091
-DESCRIPTION:📍 Chroustov\, Bohdalov\, Žďár nad Sázavou\n\n🚒 CAS (Bohdalov)
+DESCRIPTION:📍 Chroustov\, Bohdalov\, Žďár nad Sázavou\n💬 Odstranění obtížné
+ ho hmyzu.\n\n🚒 CAS (Bohdalov)
+END:VEVENT
+BEGIN:VEVENT
+UID:415542061
+DTSTART:20260716T160623Z
+DTEND:20260716T170623Z
+DTSTAMP:20260716T160623Z
+SUMMARY:🛠️ ostatní - Jemnice
+LOCATION:Červenomlýnská\, Jemnice
+GEO:49.029091;15.567632
+URL:geo:49.029091,15.567632
+DESCRIPTION:📍 Červenomlýnská\, Jemnice\, Třebíč\n\n🚒 CAS (HS Jemnice)
 END:VEVENT
 END:VCALENDAR
