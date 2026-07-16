@@ -5,30 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:415388061
-DTSTART:20260714T154531Z
-DTEND:20260714T164531Z
-DTSTAMP:20260714T154531Z
-SUMMARY:🛠️ ostatní - Polná
-LOCATION:Tyršova\, Polná
-GEO:49.487574;15.715644
-URL:geo:49.487574,15.715644
-DESCRIPTION:📍 Tyršova\, Polná\, Jihlava\n💬 Oplach komunikace.\n\n🚒 CAS (Pol
- ná)
-END:VEVENT
-BEGIN:VEVENT
-UID:415389061
-DTSTART:20260714T154544Z
-DTEND:20260714T164544Z
-DTSTAMP:20260714T154544Z
-SUMMARY:🛠️ strom - Modlíkov
-LOCATION:Modlíkov
-GEO:49.618267;15.778856
-URL:geo:49.618267,15.778856
-DESCRIPTION:📍 Modlíkov\, Havlíčkův Brod\n💬 Odstranění stromu.\n\n🚒 CAS (Při
- byslav)
-END:VEVENT
-BEGIN:VEVENT
 UID:415391061
 DTSTART:20260714T161718Z
 DTEND:20260714T171718Z
@@ -819,7 +795,8 @@ SUMMARY:🛠️ obtížný hmyz - Třešť
 LOCATION:U Vodojemu\, Třešť
 GEO:49.294087;15.475683
 URL:geo:49.294087,15.475683
-DESCRIPTION:📍 U Vodojemu\, Třešť\, Jihlava\n\n🚒 CAS (HS Třešť)
+DESCRIPTION:📍 U Vodojemu\, Třešť\, Jihlava\n💬 Odstranění obtížného hmyzu.\n
+ \n🚒 CAS (HS Třešť)
 END:VEVENT
 BEGIN:VEVENT
 UID:415536061
@@ -830,9 +807,10 @@ SUMMARY:🔥 tráva/plocha - Radenice
 LOCATION:Radenice
 GEO:49.419619;16.054314
 URL:geo:49.419619,16.054314
-DESCRIPTION:📍 Radenice\, Žďár nad Sázavou\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 C
- AS (Křižanov)\n🚒 CAS (Ostrov nad Oslavou)\n🚒 nákladní automobil nad 3500 k
- g (Radenice)\n🚒 účelový automobil do 3500 kg (ÚO Žďár nad Sázavou)
+DESCRIPTION:📍 Radenice\, Žďár nad Sázavou\n💬 Požár suché trávy na ploše 30x
+ 2m.Provedena lokalizace a likvidace.\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 CAS (
+ Křižanov)\n🚒 CAS (Ostrov nad Oslavou)\n🚒 nákladní automobil nad 3500 kg (R
+ adenice)\n🚒 účelový automobil do 3500 kg (ÚO Žďár nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:415537061
@@ -855,5 +833,27 @@ LOCATION:Věžnice
 GEO:49.408829;15.756577
 URL:geo:49.408829,15.756577
 DESCRIPTION:📍 Věžnice\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+END:VEVENT
+BEGIN:VEVENT
+UID:415540061
+DTSTART:20260716T151921Z
+DTEND:20260716T161921Z
+DTSTAMP:20260716T151921Z
+SUMMARY:🛠️ obtížný hmyz - Budišov
+LOCATION:Budišov
+GEO:49.274525;16.004672
+URL:geo:49.274525,16.004672
+DESCRIPTION:📍 Budišov\, Třebíč\n\n🚒 DA (Budišov)
+END:VEVENT
+BEGIN:VEVENT
+UID:415541061
+DTSTART:20260716T152400Z
+DTEND:20260716T162400Z
+DTSTAMP:20260716T152400Z
+SUMMARY:🛠️ obtížný hmyz - Bohdalov
+LOCATION:Bohdalov
+GEO:49.454129;15.855091
+URL:geo:49.454129,15.855091
+DESCRIPTION:📍 Chroustov\, Bohdalov\, Žďár nad Sázavou\n\n🚒 CAS (Bohdalov)
 END:VEVENT
 END:VCALENDAR
