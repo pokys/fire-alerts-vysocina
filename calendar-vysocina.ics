@@ -932,4 +932,17 @@ URL:geo:49.584617,15.607153
 DESCRIPTION:📍 Baštínov\, Mírovka\, Havlíčkův Brod\n💬 Planý poplach.\n\n🚒 CA
  S (CHS Havlíčkův Brod)\n🚒 CAS (CHS Havlíčkův Brod)
 END:VEVENT
+BEGIN:VEVENT
+UID:415557061
+DTSTART:20260716T223248Z
+DTEND:20260716T233248Z
+DTSTAMP:20260716T223248Z
+SUMMARY:🔥 vozidlo - Jihlava
+LOCATION:Jihlava
+GEO:49.433198;15.599832
+URL:geo:49.433198,15.599832
+DESCRIPTION:🚒 CAS (CHS Jihlava) ×2\n🚒 CAS (CHS Jihlava) ×2\n🚒 CAS (CHS Jihl
+ ava)\n🚒 RZA (CHS Jihlava)\n🚒 CAS (Jihlava-Bedřichov)\n🚒 vyšetřovací automo
+ bil (ÚO Jihlava)
+END:VEVENT
 END:VCALENDAR
