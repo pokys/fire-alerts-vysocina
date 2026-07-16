@@ -5,44 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:415356061
-DTSTART:20260714T100258Z
-DTEND:20260714T110258Z
-DTSTAMP:20260714T100258Z
-SUMMARY:⚠️ planý poplach - Třebíč
-LOCATION:Kateřiny z Valdštejna\, Třebíč
-GEO:49.213457;15.886122
-URL:geo:49.213457,15.886122
-DESCRIPTION:📍 Kateřiny z Valdštejna\, Jejkov\, Třebíč\n💬 Požár ohlášený sys
- témem elektrické požární signalizace. Průzkumem bylo zjištěno\, že se jedn
- á o planý poplach.\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (CHS Třebíč)
-END:VEVENT
-BEGIN:VEVENT
-UID:415357061
-DTSTART:20260714T100600Z
-DTEND:20260714T110600Z
-DTSTAMP:20260714T100600Z
-SUMMARY:🚑 otevření/asistence - Humpolec
-LOCATION:Lnářská\, Humpolec
-GEO:49.540546;15.353894
-URL:geo:49.540546,15.353894
-DESCRIPTION:📍 Lnářská\, Humpolec\, Pelhřimov\n💬 Otevření bytu.\n\n🚒 CAS (HS
-  Humpolec)
-END:VEVENT
-BEGIN:VEVENT
-UID:415358061
-DTSTART:20260714T100753Z
-DTEND:20260714T110753Z
-DTSTAMP:20260714T100753Z
-SUMMARY:🚗 dopravní nehoda - Moravec
-LOCATION:Moravec
-GEO:49.438610;16.154120
-URL:geo:49.438610,16.154120
-DESCRIPTION:📍 Moravec\, Žďár nad Sázavou\n💬 DN 2 x OA jedna zraněná osoba. 
- Úklid vozovky a zajištění místa události.\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 
- RZA (HS Velké Meziříčí)\n🚒 CAS (Křižanov)
-END:VEVENT
-BEGIN:VEVENT
 UID:415360061
 DTSTART:20260714T101603Z
 DTEND:20260714T111603Z
@@ -914,5 +876,30 @@ GEO:49.045601;15.814857
 URL:geo:49.045601,15.814857
 DESCRIPTION:📍 Šindelářova\, Moravské Budějovice\, Třebíč\n💬 Transport pacie
  nta na žádost ZZS.\n\n🚒 CAS (HS Moravské Budějovice)
+END:VEVENT
+BEGIN:VEVENT
+UID:415516061
+DTSTART:20260716T095651Z
+DTEND:20260716T105651Z
+DTSTAMP:20260716T095651Z
+SUMMARY:🔥 vozidlo - Třebíč
+LOCATION:Třebíč
+GEO:49.173117;15.877322
+URL:geo:49.173117,15.877322
+DESCRIPTION:📍 Slavice\, Třebíč\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (CHS Třebíč)\n🚒
+  DA (Třebíč-Slavice)\n🚒 vyšetřovací automobil (ÚO Třebíč)
+END:VEVENT
+BEGIN:VEVENT
+UID:415517061
+DTSTART:20260716T100010Z
+DTEND:20260716T110010Z
+DTSTAMP:20260716T100010Z
+SUMMARY:🚑 transport pacienta - Křižánky
+LOCATION:Křižánky
+GEO:49.670746;16.031798
+URL:geo:49.670746,16.031798
+DESCRIPTION:📍 Křižánky\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad Sázavou)\n
+ 🚒 VEA (CHS Žďár nad Sázavou)\n🚒 vozidlo účelové - SxS (CHS Žďár nad Sázavo
+ u)\n🚒 CAS (Svratka)
 END:VEVENT
 END:VCALENDAR
