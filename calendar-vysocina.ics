@@ -833,7 +833,8 @@ SUMMARY:🛠️ obtížný hmyz - Budišov
 LOCATION:Budišov
 GEO:49.274525;16.004672
 URL:geo:49.274525,16.004672
-DESCRIPTION:📍 Budišov\, Třebíč\n\n🚒 DA (Budišov)
+DESCRIPTION:📍 Budišov\, Třebíč\n💬 Likvidace vosího hnízda.\n\n🚒 DA (Budišov
+ )
 END:VEVENT
 BEGIN:VEVENT
 UID:415541061
@@ -856,6 +857,42 @@ SUMMARY:🛠️ ostatní - Jemnice
 LOCATION:Červenomlýnská\, Jemnice
 GEO:49.029091;15.567632
 URL:geo:49.029091,15.567632
-DESCRIPTION:📍 Červenomlýnská\, Jemnice\, Třebíč\n\n🚒 CAS (HS Jemnice)
+DESCRIPTION:📍 Červenomlýnská\, Jemnice\, Třebíč\n💬 Odchyt zvířete.\n\n🚒 CAS
+  (HS Jemnice)
+END:VEVENT
+BEGIN:VEVENT
+UID:415543061
+DTSTART:20260716T161042Z
+DTEND:20260716T171042Z
+DTSTAMP:20260716T161042Z
+SUMMARY:🛠️ ostatní - Cetoraz
+LOCATION:Cetoraz
+GEO:49.451919;14.956524
+URL:geo:49.451919,14.956524
+DESCRIPTION:📍 Cetoraz\, Pelhřimov\n\n🚒 DA (Cetoraz)
+END:VEVENT
+BEGIN:VEVENT
+UID:415544061
+DTSTART:20260716T161523Z
+DTEND:20260716T171523Z
+DTSTAMP:20260716T161523Z
+SUMMARY:🛠️ obtížný hmyz - Kožlí
+LOCATION:Kožlí
+GEO:49.670166;15.255959
+URL:geo:49.670166,15.255959
+DESCRIPTION:📍 Kožlí\, Havlíčkův Brod\n💬 Odstranění obtížného hmyzu.\n\n🚒 CA
+ S (HS Ledeč nad Sázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:415545061
+DTSTART:20260716T163111Z
+DTEND:20260716T173111Z
+DTSTAMP:20260716T163111Z
+SUMMARY:🛠️ obtížný hmyz - Velké Meziříčí
+LOCATION:Gen. Jaroše\, Velké Meziříčí
+GEO:49.356660;16.016226
+URL:geo:49.356660,16.016226
+DESCRIPTION:📍 Gen. Jaroše\, Velké Meziříčí\, Žďár nad Sázavou\n\n🚒 CAS (HS 
+ Velké Meziříčí)
 END:VEVENT
 END:VCALENDAR
