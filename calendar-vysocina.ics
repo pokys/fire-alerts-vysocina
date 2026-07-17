@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:415453061
-DTSTART:20260715T113719Z
-DTEND:20260715T123719Z
-DTSTAMP:20260715T113719Z
-SUMMARY:⚠️ planý poplach - Telč
-LOCATION:náměstí Zachariáše z Hradce\, Telč
-GEO:49.185032;15.451471
-URL:geo:49.185032,15.451471
-DESCRIPTION:📍 náměstí Zachariáše z Hradce\, Telč-Vnitřní Město\, Telč\, Jih
- lava\n💬 Požár hlášený čidlem EPS na PCO - planý poplach.\n\n🚒 CAS (HS Telč
- )\n🚒 CAS (HS Telč)
-END:VEVENT
-BEGIN:VEVENT
 UID:415455061
 DTSTART:20260715T115501Z
 DTEND:20260715T125501Z
@@ -885,8 +872,8 @@ SUMMARY:🛠️ dovoz vody - Počítky
 LOCATION:Počítky
 GEO:49.588031;15.977180
 URL:geo:49.588031,15.977180
-DESCRIPTION:📍 Počítky\, Žďár nad Sázavou\n💬 Dovoz vody do kravína.\n\n🚒 CAS
-  (CHS Žďár nad Sázavou)
+DESCRIPTION:📍 Počítky\, Žďár nad Sázavou\n💬 Dodávka vody do kravína.\n\n🚒 C
+ AS (CHS Žďár nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:415581061
@@ -909,7 +896,8 @@ SUMMARY:🛠️ ostatní - Nové Veselí
 LOCATION:Nové Veselí
 GEO:49.519765;15.908525
 URL:geo:49.519765,15.908525
-DESCRIPTION:📍 Nové Veselí\, Žďár nad Sázavou\n\n🚒 CAS (Nové Veselí)
+DESCRIPTION:📍 Nové Veselí\, Žďár nad Sázavou\n💬 ZOČ: Zalévání zeleně.\n\n🚒 
+ CAS (Nové Veselí)
 END:VEVENT
 BEGIN:VEVENT
 UID:415583061
@@ -932,8 +920,9 @@ SUMMARY:🔥 tráva/plocha - Dušejov
 LOCATION:Dušejov
 GEO:49.416554;15.439020
 URL:geo:49.416554,15.439020
-DESCRIPTION:📍 Dušejov\, Jihlava\n\n🚒 CAS (CHS Jihlava)\n🚒 CAS (CHS Jihlava)
- \n🚒 CAS (Hojkov)\n🚒 CAS (Opatov (JI))\n🚒 CAS (Dušejov)
+DESCRIPTION:📍 Dušejov\, Jihlava\n💬 Požár stromu\, uhašeno před příjezdem je
+ dnotky\n\n🚒 CAS (CHS Jihlava)\n🚒 CAS (CHS Jihlava)\n🚒 CAS (Hojkov)\n🚒 CAS 
+ (Opatov (JI))\n🚒 CAS (Dušejov)
 END:VEVENT
 BEGIN:VEVENT
 UID:415586061
@@ -944,9 +933,9 @@ SUMMARY:⚠️ planý poplach - Březské
 LOCATION:Březské
 GEO:49.330151;16.240964
 URL:geo:49.330151,16.240964
-DESCRIPTION:📍 Březské\, Žďár nad Sázavou\n💬 Planý poplach.\n\n🚒 CAS (HS Vel
- ká Bíteš)\n🚒 CAS (HS Velká Bíteš)\n🚒 CAS (Osová Bítýška)\n🚒 CAS (Velká Bít
- eš)\n🚒 osobní automobil (Velká Bíteš)\n🚒 DA (Březské)
+DESCRIPTION:📍 Březské\, Žďár nad Sázavou\n💬 Planý poplach. Nenahlášené pále
+ ní.\n\n🚒 CAS (HS Velká Bíteš)\n🚒 CAS (HS Velká Bíteš)\n🚒 CAS (Osová Bítýšk
+ a)\n🚒 CAS (Velká Bíteš)\n🚒 osobní automobil (Velká Bíteš)\n🚒 DA (Březské)
 END:VEVENT
 BEGIN:VEVENT
 UID:415587061
