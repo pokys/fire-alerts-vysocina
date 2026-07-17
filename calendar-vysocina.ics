@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:415471061
-DTSTART:20260715T150623Z
-DTEND:20260715T160623Z
-DTSTAMP:20260715T150623Z
-SUMMARY:🛠️ strom - Pacov
-LOCATION:Pacov
-GEO:49.504811;14.955532
-URL:geo:49.504811,14.955532
-DESCRIPTION:📍 Jetřichovec\, Pacov\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 CA
- S (HS Pacov)\n🚒 pila řetězová (HS Pacov)
-END:VEVENT
-BEGIN:VEVENT
 UID:415473061
 DTSTART:20260715T160322Z
 DTEND:20260715T170322Z
@@ -1039,7 +1027,8 @@ SUMMARY:🛠️ ostatní - Nová Cerekev
 LOCATION:Nová Cerekev
 GEO:49.417779;15.115665
 URL:geo:49.417779,15.115665
-DESCRIPTION:📍 Nová Cerekev\, Pelhřimov\n\n🚒 CAS (Nová Cerekev)
+DESCRIPTION:📍 Nová Cerekev\, Pelhřimov\n💬 Pročištění kanalizace.\n\n🚒 CAS (
+ Nová Cerekev)
 END:VEVENT
 BEGIN:VEVENT
 UID:415616061
@@ -1062,7 +1051,8 @@ SUMMARY:🛠️ strom - Věcov
 LOCATION:Věcov
 GEO:49.609455;16.166184
 URL:geo:49.609455,16.166184
-DESCRIPTION:📍 Věcov\, Žďár nad Sázavou\n\n🚒 DA (Jimramov)
+DESCRIPTION:📍 Věcov\, Žďár nad Sázavou\n💬 Odstranění stromu.\n\n🚒 DA (Jimra
+ mov)
 END:VEVENT
 BEGIN:VEVENT
 UID:415619061
@@ -1073,7 +1063,8 @@ SUMMARY:🛠️ strom - Olešenka
 LOCATION:Olešenka
 GEO:49.545708;15.770497
 URL:geo:49.545708,15.770497
-DESCRIPTION:📍 Olešenka\, Havlíčkův Brod\n\n🚒 CAS (Přibyslav)
+DESCRIPTION:📍 Olešenka\, Havlíčkův Brod\n💬 Odstranění stromu.\n\n🚒 CAS (Při
+ byslav)
 END:VEVENT
 BEGIN:VEVENT
 UID:415620061
@@ -1084,7 +1075,8 @@ SUMMARY:🛠️ strom - Luka nad Jihlavou
 LOCATION:Luka nad Jihlavou
 GEO:49.368690;15.717897
 URL:geo:49.368690,15.717897
-DESCRIPTION:📍 Luka nad Jihlavou\, Jihlava\n\n🚒 CAS (Luka nad Jihlavou)
+DESCRIPTION:📍 Luka nad Jihlavou\, Jihlava\n💬 Odstranění stromu.\n\n🚒 CAS (L
+ uka nad Jihlavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:415621061
