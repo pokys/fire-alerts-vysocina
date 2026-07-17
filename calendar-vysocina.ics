@@ -5,65 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:415461061
-DTSTART:20260715T140333Z
-DTEND:20260715T150333Z
-DTSTAMP:20260715T140333Z
-SUMMARY:🛠️ ostatní - Nové Město na Moravě
-LOCATION:Nové Město na Moravě
-GEO:49.587203;16.115099
-URL:geo:49.587203,16.115099
-DESCRIPTION:📍 Pohledec\, Nové Město na Moravě\, Žďár nad Sázavou\n💬 Úklid v
- ozovky na žádost PČR.\n\n🚒 CAS (CHS Žďár nad Sázavou)
-END:VEVENT
-BEGIN:VEVENT
-UID:415462061
-DTSTART:20260715T140513Z
-DTEND:20260715T150513Z
-DTSTAMP:20260715T140513Z
-SUMMARY:🚗 dopravní nehoda - Kalhov
-LOCATION:Kalhov
-GEO:49.475254;15.459986
-URL:geo:49.475254,15.459986
-DESCRIPTION:📍 Kalhov\, Jihlava\n💬 DN OA náraz do stromu. Bez zranění. Zajiš
- tění místa události.\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihlava)
-END:VEVENT
-BEGIN:VEVENT
-UID:415463061
-DTSTART:20260715T140518Z
-DTEND:20260715T150518Z
-DTSTAMP:20260715T140518Z
-SUMMARY:🛠️ strom - Strážek
-LOCATION:Strážek
-GEO:49.440773;16.216570
-URL:geo:49.440773,16.216570
-DESCRIPTION:📍 Mitrov\, Strážek\, Žďár nad Sázavou\n💬 Odstranění stromu.\n\n
- 🚒 CAS (Strážek)
-END:VEVENT
-BEGIN:VEVENT
-UID:415465061
-DTSTART:20260715T140815Z
-DTEND:20260715T150815Z
-DTSTAMP:20260715T140815Z
-SUMMARY:🛠️ obtížný hmyz - Ždírec nad Doubravou
-LOCATION:Družstevní\, Ždírec nad Doubravou
-GEO:49.697340;15.812873
-URL:geo:49.697340,15.812873
-DESCRIPTION:📍 Družstevní\, Ždírec nad Doubravou\, Havlíčkův Brod\n💬 Likvida
- ce nebezpečného hmyzu.\n\n🚒 CAS (Ždírec nad Doubravou)
-END:VEVENT
-BEGIN:VEVENT
-UID:415466061
-DTSTART:20260715T141048Z
-DTEND:20260715T151048Z
-DTSTAMP:20260715T141048Z
-SUMMARY:🛠️ čerpání vody - Jezdovice
-LOCATION:Jezdovice
-GEO:49.320203;15.481581
-URL:geo:49.320203,15.481581
-DESCRIPTION:📍 Jezdovice\, Jihlava\n💬 Ćerpání vody.\n\n🚒 CAS (Jezdovice)
-END:VEVENT
-BEGIN:VEVENT
 UID:415467061
 DTSTART:20260715T143838Z
 DTEND:20260715T153838Z
@@ -948,7 +889,9 @@ SUMMARY:🚗 úklid místa - Batelov
 LOCATION:Batelov
 GEO:49.288768;15.410764
 URL:geo:49.288768,15.410764
-DESCRIPTION:📍 Lovětín\, Batelov\, Jihlava\n\n🚒 CAS (HS Třešť)
+DESCRIPTION:📍 Lovětín\, Batelov\, Jihlava\n💬 DN OA a traktoru. Bez zranění\
+ , provedeno zajištění místa nehody a uzavření poškozené plynové přípojky.\
+ n\n🚒 CAS (HS Třešť)
 END:VEVENT
 BEGIN:VEVENT
 UID:415595061
@@ -1017,8 +960,8 @@ SUMMARY:🛠️ strom - Ledeč nad Sázavou
 LOCATION:Pod Hájem\, Ledeč nad Sázavou
 GEO:49.683427;15.298313
 URL:geo:49.683427,15.298313
-DESCRIPTION:📍 Pod Hájem\, Ledeč nad Sázavou\, Havlíčkův Brod\n\n🚒 CAS (HS L
- edeč nad Sázavou)
+DESCRIPTION:📍 Pod Hájem\, Ledeč nad Sázavou\, Havlíčkův Brod\n💬 Odstranění 
+ stromu.\n\n🚒 CAS (HS Ledeč nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:415604061
@@ -1062,8 +1005,8 @@ SUMMARY:🛠️ obtížný hmyz - Moravské Budějovice
 LOCATION:Moravské Budějovice
 GEO:49.035750;15.837406
 URL:geo:49.035750,15.837406
-DESCRIPTION:📍 Lažínky\, Moravské Budějovice\, Třebíč\n\n🚒 CAS (HS Moravské 
- Budějovice)
+DESCRIPTION:📍 Lažínky\, Moravské Budějovice\, Třebíč\n💬 Likvidace obtížného
+  hmyzu.\n\n🚒 CAS (HS Moravské Budějovice)
 END:VEVENT
 BEGIN:VEVENT
 UID:415609061
@@ -1075,5 +1018,50 @@ LOCATION:Telč
 GEO:49.235751;15.466441
 URL:geo:49.235751,15.466441
 DESCRIPTION:📍 Telč\, Jihlava\n\n🚒 CAS (HS Telč)
+END:VEVENT
+BEGIN:VEVENT
+UID:415612061
+DTSTART:20260717T135507Z
+DTEND:20260717T145507Z
+DTSTAMP:20260717T135507Z
+SUMMARY:🛠️ strom - Třeštice
+LOCATION:Třeštice
+GEO:49.238997;15.463656
+URL:geo:49.238997,15.463656
+DESCRIPTION:📍 Třeštice\, Jihlava\n\n🚒 CAS (HS Telč)
+END:VEVENT
+BEGIN:VEVENT
+UID:415613061
+DTSTART:20260717T135558Z
+DTEND:20260717T145558Z
+DTSTAMP:20260717T135558Z
+SUMMARY:🛠️ strom - Ledeč nad Sázavou
+LOCATION:Ledeč nad Sázavou
+GEO:49.679219;15.285958
+URL:geo:49.679219,15.285958
+DESCRIPTION:📍 Ledeč nad Sázavou\, Havlíčkův Brod\n\n🚒 CAS (HS Ledeč nad Sáz
+ avou)
+END:VEVENT
+BEGIN:VEVENT
+UID:415614061
+DTSTART:20260717T135911Z
+DTEND:20260717T145911Z
+DTSTAMP:20260717T135911Z
+SUMMARY:🛠️ strom - Sirákov
+LOCATION:Sirákov
+GEO:49.505528;15.827434
+URL:geo:49.505528,15.827434
+DESCRIPTION:📍 Sirákov\, Žďár nad Sázavou\n\n🚒 CAS (HS Polná)
+END:VEVENT
+BEGIN:VEVENT
+UID:415615061
+DTSTART:20260717T140326Z
+DTEND:20260717T150326Z
+DTSTAMP:20260717T140326Z
+SUMMARY:🛠️ ostatní - Nová Cerekev
+LOCATION:Nová Cerekev
+GEO:49.417779;15.115665
+URL:geo:49.417779,15.115665
+DESCRIPTION:📍 Nová Cerekev\, Pelhřimov\n\n🚒 CAS (Nová Cerekev)
 END:VEVENT
 END:VCALENDAR
