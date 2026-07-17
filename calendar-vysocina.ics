@@ -958,7 +958,7 @@ LOCATION:U Zbrojnice\, Svratka
 GEO:49.709957;16.035263
 URL:geo:49.709957,16.035263
 DESCRIPTION:📍 U Zbrojnice\, Svratka\, Žďár nad Sázavou\n\n🚒 automobilová pl
- ošina nad 30 m (CHS Žďár nad Sázavou)
+ ošina nad 30 m (CHS Žďár nad Sázavou)\n🚒 CAS (Svratka)
 END:VEVENT
 BEGIN:VEVENT
 UID:415588061
@@ -971,5 +971,17 @@ GEO:49.610557;16.243200
 URL:geo:49.610557,16.243200
 DESCRIPTION:📍 Unčín\, Žďár nad Sázavou\n💬 Asistence ZZS při resuscutaci.\n\
  n🚒 CAS (HS Bystřice nad Pernštejnem)\n🚒 DA (Jimramov)\n🚒 CAS (Jimramov)
+END:VEVENT
+BEGIN:VEVENT
+UID:415591061
+DTSTART:20260717T110407Z
+DTEND:20260717T120407Z
+DTSTAMP:20260717T110407Z
+SUMMARY:🔥 vozidlo - Hrotovice
+LOCATION:Dražka\, Hrotovice
+GEO:49.109072;16.054309
+URL:geo:49.109072,16.054309
+DESCRIPTION:📍 Dražka\, Hrotovice\, Třebíč\n\n🚒 CAS (HS Hrotovice)\n🚒 vyšetř
+ ovací automobil (ÚO Třebíč)
 END:VEVENT
 END:VCALENDAR
