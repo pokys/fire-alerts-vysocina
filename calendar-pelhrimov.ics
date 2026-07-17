@@ -115,4 +115,16 @@ URL:geo:49.536867,15.344422
 DESCRIPTION:📍 Nádražní\, Humpolec\, Pelhřimov\n💬 Likvidace úniku oleje.\n\n
  🚒 CAS (HS Humpolec)
 END:VEVENT
+BEGIN:VEVENT
+UID:415569061
+DTSTART:20260717T045334Z
+DTEND:20260717T055334Z
+DTSTAMP:20260717T045334Z
+SUMMARY:🛠️ strom - Kamenice nad Lipou
+LOCATION:Kamenice nad Lipou
+GEO:49.317293;15.083794
+URL:geo:49.317293,15.083794
+DESCRIPTION:📍 Kamenice nad Lipou\, Pelhřimov\n💬 Nakloněný strom nad vozovko
+ u\, zásah jednotky nebyl třeba.\n\n🚒 CAS (HS Kamenice nad Lipou)
+END:VEVENT
 END:VCALENDAR
