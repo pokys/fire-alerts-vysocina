@@ -935,4 +935,16 @@ URL:geo:49.588031,15.977180
 DESCRIPTION:📍 Počítky\, Žďár nad Sázavou\n💬 Dovoz vody do kravína.\n\n🚒 CAS
   (CHS Žďár nad Sázavou)
 END:VEVENT
+BEGIN:VEVENT
+UID:415580061
+DTSTART:20260717T082737Z
+DTEND:20260717T092737Z
+DTSTAMP:20260717T082737Z
+SUMMARY:🛠️ strom - Kamenice nad Lipou
+LOCATION:Kamenice nad Lipou
+GEO:49.317265;15.083786
+URL:geo:49.317265,15.083786
+DESCRIPTION:📍 Johanka\, Kamenice nad Lipou\, Pelhřimov\n\n🚒 automobilová pl
+ ošina nad 30 m (HS Kamenice nad Lipou)
+END:VEVENT
 END:VCALENDAR
