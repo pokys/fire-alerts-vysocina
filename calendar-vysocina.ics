@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:415470061
-DTSTART:20260715T150132Z
-DTEND:20260715T160132Z
-DTSTAMP:20260715T150132Z
-SUMMARY:🔥 tráva/plocha - Třebíč
-LOCATION:Třebíč
-GEO:49.211174;15.837094
-URL:geo:49.211174,15.837094
-DESCRIPTION:📍 Řípov\, Třebíč\n💬 Likvidace požáru strniště na poli.\n\n🚒 CAS
-  (CHS Třebíč)\n🚒 CAS (CHS Třebíč)\n🚒 automobilová stříkačka (Stařeč)\n🚒 CA
- S (Stařeč)\n🚒 vyšetřovací automobil (ÚO Třebíč)
-END:VEVENT
-BEGIN:VEVENT
 UID:415471061
 DTSTART:20260715T150623Z
 DTEND:20260715T160623Z
@@ -971,8 +958,8 @@ SUMMARY:🛠️ ostatní - Jihlava
 LOCATION:Jihlava
 GEO:49.410472;15.599405
 URL:geo:49.410472,15.599405
-DESCRIPTION:💬 Pročištění kanalizace\n\n🚒 CAS (Jihlava-Bedřichov)\n🚒 CAS (CH
- S Jihlava)
+DESCRIPTION:💬 Pročištění kanalizace a odstranění laguny na vozovce.\n\n🚒 CA
+ S (Jihlava-Bedřichov)\n🚒 CAS (CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:415607061
@@ -985,6 +972,18 @@ GEO:49.035750;15.837406
 URL:geo:49.035750,15.837406
 DESCRIPTION:📍 Lažínky\, Moravské Budějovice\, Třebíč\n💬 Likvidace obtížného
   hmyzu.\n\n🚒 CAS (HS Moravské Budějovice)
+END:VEVENT
+BEGIN:VEVENT
+UID:415608061
+DTSTART:20260717T133545Z
+DTEND:20260717T143545Z
+DTSTAMP:20260717T133545Z
+SUMMARY:🔥 vozidlo - Borovnice
+LOCATION:Borovnice
+GEO:49.666464;16.220807
+URL:geo:49.666464,16.220807
+DESCRIPTION:📍 Borovnice\, Žďár nad Sázavou\n\n🚒 DA (Jimramov)\n🚒 CAS (Jimra
+ mov)\n🚒 vyšetřovací automobil (ÚO Žďár nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:415609061
@@ -1077,6 +1076,17 @@ URL:geo:49.545708,15.770497
 DESCRIPTION:📍 Olešenka\, Havlíčkův Brod\n\n🚒 CAS (Přibyslav)
 END:VEVENT
 BEGIN:VEVENT
+UID:415620061
+DTSTART:20260717T143033Z
+DTEND:20260717T153033Z
+DTSTAMP:20260717T143033Z
+SUMMARY:🛠️ strom - Luka nad Jihlavou
+LOCATION:Luka nad Jihlavou
+GEO:49.368690;15.717897
+URL:geo:49.368690,15.717897
+DESCRIPTION:📍 Luka nad Jihlavou\, Jihlava\n\n🚒 CAS (Luka nad Jihlavou)
+END:VEVENT
+BEGIN:VEVENT
 UID:415621061
 DTSTART:20260717T143316Z
 DTEND:20260717T153316Z
@@ -1086,5 +1096,41 @@ LOCATION:Vír
 GEO:49.553068;16.309056
 URL:geo:49.553068,16.309056
 DESCRIPTION:📍 Vír\, Žďár nad Sázavou\n\n🚒 CAS (HS Bystřice nad Pernštejnem)
+ \n🚒 automobilová plošina nad 30 m (CHS Žďár nad Sázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:415622061
+DTSTART:20260717T143812Z
+DTEND:20260717T153812Z
+DTSTAMP:20260717T143812Z
+SUMMARY:🛠️ strom - Prosetín
+LOCATION:Prosetín
+GEO:49.492322;16.373919
+URL:geo:49.492322,16.373919
+DESCRIPTION:📍 Čtyři Dvory\, Prosetín\, Žďár nad Sázavou\n\n🚒 přívěs motorov
+ á stříkačka (Prosetín-Čtyři Dvory)
+END:VEVENT
+BEGIN:VEVENT
+UID:415623061
+DTSTART:20260717T144124Z
+DTEND:20260717T154124Z
+DTSTAMP:20260717T144124Z
+SUMMARY:🛠️ ostatní - Nové Město na Moravě
+LOCATION:Nezvalova\, Nové Město na Moravě
+GEO:49.568882;16.081771
+URL:geo:49.568882,16.081771
+DESCRIPTION:📍 Nezvalova\, Nové Město na Moravě\, Žďár nad Sázavou\n\n🚒 CAS 
+ (Nové Město na Moravě)
+END:VEVENT
+BEGIN:VEVENT
+UID:415624061
+DTSTART:20260717T144522Z
+DTEND:20260717T154522Z
+DTSTAMP:20260717T144522Z
+SUMMARY:🛠️ strom - Sirákov
+LOCATION:Sirákov
+GEO:49.504806;15.818208
+URL:geo:49.504806,15.818208
+DESCRIPTION:📍 Sirákov\, Žďár nad Sázavou\n\n🚒 pila řetězová (Sirákov)
 END:VEVENT
 END:VCALENDAR
