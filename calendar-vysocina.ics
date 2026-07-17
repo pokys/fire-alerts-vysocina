@@ -5,42 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:415474061
-DTSTART:20260715T163924Z
-DTEND:20260715T173924Z
-DTSTAMP:20260715T163924Z
-SUMMARY:🛠️ obtížný hmyz - Velká Losenice
-LOCATION:Velká Losenice
-GEO:49.578673;15.846220
-URL:geo:49.578673,15.846220
-DESCRIPTION:📍 Velká Losenice\, Žďár nad Sázavou\n💬 Odstranění obtížného hmy
- zu.\n\n🚒 DA (Velká Losenice)
-END:VEVENT
-BEGIN:VEVENT
-UID:415475061
-DTSTART:20260715T165111Z
-DTEND:20260715T175111Z
-DTSTAMP:20260715T165111Z
-SUMMARY:🛠️ obtížný hmyz - Kamenice nad Lipou
-LOCATION:Zahradní\, Kamenice nad Lipou
-GEO:49.295955;15.076942
-URL:geo:49.295955,15.076942
-DESCRIPTION:📍 Zahradní\, Kamenice nad Lipou\, Pelhřimov\n💬 Odstranění obtíž
- ného hmyzu.\n\n🚒 CAS (Kamenice nad Lipou)
-END:VEVENT
-BEGIN:VEVENT
-UID:415476061
-DTSTART:20260715T172123Z
-DTEND:20260715T182123Z
-DTSTAMP:20260715T172123Z
-SUMMARY:🛠️ ostatní - Nové Dvory
-LOCATION:Nové Dvory
-GEO:49.564909;15.818612
-URL:geo:49.564909,15.818612
-DESCRIPTION:📍 Nové Dvory\, Žďár nad Sázavou\n💬 Technická pomoc.\n\n🚒 CAS (N
- ové Dvory)
-END:VEVENT
-BEGIN:VEVENT
 UID:415488061
 DTSTART:20260715T174513Z
 DTEND:20260715T184513Z
@@ -842,7 +806,7 @@ LOCATION:Kouty
 GEO:49.652095;15.286639
 URL:geo:49.652095,15.286639
 DESCRIPTION:📍 Kouty\, Havlíčkův Brod\n💬 Odstranění stromu.\n\n🚒 CAS (HS Led
- eč nad Sázavou)
+ eč nad Sázavou)\n🚒 pila řetězová (HS Ledeč nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:415597061
@@ -900,7 +864,8 @@ LOCATION:Pod Hájem\, Ledeč nad Sázavou
 GEO:49.683427;15.298313
 URL:geo:49.683427,15.298313
 DESCRIPTION:📍 Pod Hájem\, Ledeč nad Sázavou\, Havlíčkův Brod\n💬 Odstranění 
- stromu.\n\n🚒 CAS (HS Ledeč nad Sázavou)
+ stromu.\n\n🚒 CAS (HS Ledeč nad Sázavou)\n🚒 pila řetězová (HS Ledeč nad Sáz
+ avou)
 END:VEVENT
 BEGIN:VEVENT
 UID:415604061
@@ -993,7 +958,7 @@ LOCATION:Ledeč nad Sázavou
 GEO:49.679219;15.285958
 URL:geo:49.679219,15.285958
 DESCRIPTION:📍 Ledeč nad Sázavou\, Havlíčkův Brod\n💬 Odstranění stromu.\n\n🚒
-  CAS (HS Ledeč nad Sázavou)
+  CAS (HS Ledeč nad Sázavou)\n🚒 pila řetězová (HS Ledeč nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:415614061
@@ -1136,7 +1101,8 @@ SUMMARY:🛠️ obtížný hmyz - Radkovice u Budče
 LOCATION:Radkovice u Budče
 GEO:49.080996;15.621052
 URL:geo:49.080996,15.621052
-DESCRIPTION:📍 Radkovice u Budče\, Třebíč\n\n🚒 CAS (HS Jemnice)
+DESCRIPTION:📍 Radkovice u Budče\, Třebíč\n💬 Odstranění vosího hnízda.\n\n🚒 
+ CAS (HS Jemnice)
 END:VEVENT
 BEGIN:VEVENT
 UID:415629061
@@ -1196,7 +1162,8 @@ SUMMARY:🛠️ strom - Kuklík
 LOCATION:Kuklík
 GEO:49.629922;16.113142
 URL:geo:49.629922,16.113142
-DESCRIPTION:📍 Kuklík\, Žďár nad Sázavou\n\n🚒 DA (Kuklík)
+DESCRIPTION:📍 Kuklík\, Žďár nad Sázavou\n💬 Odstranění stromu\n\n🚒 DA (Kuklí
+ k)
 END:VEVENT
 BEGIN:VEVENT
 UID:415635061
@@ -1220,5 +1187,40 @@ GEO:49.296299;15.077262
 URL:geo:49.296299,15.077262
 DESCRIPTION:📍 Zahradní\, Kamenice nad Lipou\, Pelhřimov\n💬 Odstranění obtíž
  ného hmyzu.\n\n🚒 CAS (Kamenice nad Lipou)
+END:VEVENT
+BEGIN:VEVENT
+UID:415639061
+DTSTART:20260717T161242Z
+DTEND:20260717T171242Z
+DTSTAMP:20260717T161242Z
+SUMMARY:🛠️ ostatní - Libice nad Doubravou
+LOCATION:Zámecká\, Libice nad Doubravou
+GEO:49.743328;15.705269
+URL:geo:49.743328,15.705269
+DESCRIPTION:📍 Zámecká\, Libice nad Doubravou\, Havlíčkův Brod\n\n🚒 DA (Libi
+ ce nad Doubravou)\n🚒 CAS (Libice nad Doubravou)
+END:VEVENT
+BEGIN:VEVENT
+UID:415640061
+DTSTART:20260717T162254Z
+DTEND:20260717T172254Z
+DTSTAMP:20260717T162254Z
+SUMMARY:🚗 se zraněním - Česká Bělá
+LOCATION:Česká Bělá
+GEO:49.634648;15.688213
+URL:geo:49.634648,15.688213
+DESCRIPTION:📍 Česká Bělá\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 
+ CAS (HS Chotěboř)
+END:VEVENT
+BEGIN:VEVENT
+UID:415645061
+DTSTART:20260717T163312Z
+DTEND:20260717T173312Z
+DTSTAMP:20260717T163312Z
+SUMMARY:🚗 dopravní nehoda - Veselá
+LOCATION:Veselá
+GEO:49.312107;15.236707
+URL:geo:49.312107,15.236707
+DESCRIPTION:📍 Veselá\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (Počátky)
 END:VEVENT
 END:VCALENDAR

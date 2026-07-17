@@ -187,4 +187,15 @@ URL:geo:49.296299,15.077262
 DESCRIPTION:📍 Zahradní\, Kamenice nad Lipou\, Pelhřimov\n💬 Odstranění obtíž
  ného hmyzu.\n\n🚒 CAS (Kamenice nad Lipou)
 END:VEVENT
+BEGIN:VEVENT
+UID:415645061
+DTSTART:20260717T163312Z
+DTEND:20260717T173312Z
+DTSTAMP:20260717T163312Z
+SUMMARY:🚗 dopravní nehoda - Veselá
+LOCATION:Veselá
+GEO:49.312107;15.236707
+URL:geo:49.312107,15.236707
+DESCRIPTION:📍 Veselá\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (Počátky)
+END:VEVENT
 END:VCALENDAR
