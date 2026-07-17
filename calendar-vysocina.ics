@@ -5,30 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:415488061
-DTSTART:20260715T174513Z
-DTEND:20260715T184513Z
-DTSTAMP:20260715T174513Z
-SUMMARY:🚑 transport pacienta - Horní Dubenky
-LOCATION:Horní Dubenky
-GEO:49.259578;15.317002
-URL:geo:49.259578,15.317002
-DESCRIPTION:📍 Horní Dubenky\, Jihlava\n💬 Spolupráce se ZZS.\n\n🚒 CAS (Horní
-  Dubenky)
-END:VEVENT
-BEGIN:VEVENT
-UID:415477061
-DTSTART:20260715T182951Z
-DTEND:20260715T192951Z
-DTSTAMP:20260715T182951Z
-SUMMARY:🛠️ otevření bytu/auta - Havlíčkův Brod
-LOCATION:Zahradnického\, Havlíčkův Brod
-GEO:49.615892;15.571871
-URL:geo:49.615892,15.571871
-DESCRIPTION:📍 Zahradnického\, Havlíčkův Brod\n💬 Otevření bytu.\n\n🚒 CAS (CH
- S Havlíčkův Brod)
-END:VEVENT
-BEGIN:VEVENT
 UID:415478061
 DTSTART:20260715T192228Z
 DTEND:20260715T202228Z
@@ -923,8 +899,9 @@ SUMMARY:🔥 vozidlo - Borovnice
 LOCATION:Borovnice
 GEO:49.666464;16.220807
 URL:geo:49.666464,16.220807
-DESCRIPTION:📍 Borovnice\, Žďár nad Sázavou\n\n🚒 DA (Jimramov)\n🚒 CAS (Jimra
- mov)\n🚒 vyšetřovací automobil (ÚO Žďár nad Sázavou)
+DESCRIPTION:📍 Borovnice\, Žďár nad Sázavou\n💬 Požár traktoru. Provedena lok
+ alizace a likvidace\n\n🚒 DA (Jimramov)\n🚒 CAS (Jimramov)\n🚒 vyšetřovací au
+ tomobil (ÚO Žďár nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:415609061
@@ -1041,8 +1018,9 @@ SUMMARY:🛠️ strom - Vír
 LOCATION:Vír
 GEO:49.553068;16.309056
 URL:geo:49.553068,16.309056
-DESCRIPTION:📍 Vír\, Žďár nad Sázavou\n\n🚒 CAS (HS Bystřice nad Pernštejnem)
- \n🚒 automobilová plošina nad 30 m (CHS Žďár nad Sázavou)
+DESCRIPTION:📍 Vír\, Žďár nad Sázavou\n💬 Odstranění stromu\n\n🚒 CAS (HS Byst
+ řice nad Pernštejnem)\n🚒 automobilová plošina nad 30 m (CHS Žďár nad Sázav
+ ou)
 END:VEVENT
 BEGIN:VEVENT
 UID:415622061
@@ -1113,8 +1091,9 @@ SUMMARY:🛠️ obtížný hmyz - Bystřice nad Pernštejnem
 LOCATION:Bystřice nad Pernštejnem
 GEO:49.532971;16.290469
 URL:geo:49.532971,16.290469
-DESCRIPTION:📍 Dvořiště\, Bystřice nad Pernštejnem\, Žďár nad Sázavou\n\n🚒 D
- A (Bystřice nad Pernštejnem)\n🚒 CAS (Bystřice nad Pernštejnem)
+DESCRIPTION:📍 Dvořiště\, Bystřice nad Pernštejnem\, Žďár nad Sázavou\n💬 Ods
+ tranění nebezpečného hmyzu\n\n🚒 DA (Bystřice nad Pernštejnem)\n🚒 CAS (Byst
+ řice nad Pernštejnem)
 END:VEVENT
 BEGIN:VEVENT
 UID:415630061
@@ -1137,10 +1116,10 @@ SUMMARY:🔥 Rokytnice nad Rokytnou
 LOCATION:Rokytnice nad Rokytnou
 GEO:49.184237;15.774020
 URL:geo:49.184237,15.774020
-DESCRIPTION:📍 Rokytnice nad Rokytnou\, Třebíč\n\n🚒 DA (Rokytnice nad Rokytn
- ou)\n🚒 CAS (Rokytnice nad Rokytnou)\n🚒 DA (Stařeč)\n🚒 automobilová stříkač
- ka (Stařeč)\n🚒 CAS (Stařeč)\n🚒 DA (Chlístov)\n🚒 CAS (Čechočovice)\n🚒 DA (M
- arkvartice (TR))\n🚒 DA (Mastník)
+DESCRIPTION:📍 Rokytnice nad Rokytnou\, Třebíč\n💬 Taktické cvičení\n\n🚒 DA (
+ Rokytnice nad Rokytnou)\n🚒 CAS (Rokytnice nad Rokytnou)\n🚒 DA (Stařeč)\n🚒 
+ automobilová stříkačka (Stařeč)\n🚒 CAS (Stařeč)\n🚒 DA (Chlístov)\n🚒 CAS (Č
+ echočovice)\n🚒 DA (Markvartice (TR))\n🚒 DA (Mastník)
 END:VEVENT
 BEGIN:VEVENT
 UID:415632061
@@ -1151,7 +1130,8 @@ SUMMARY:🛠️ obtížný hmyz - Žďár nad Sázavou
 LOCATION:Žďár nad Sázavou
 GEO:49.606377;15.951712
 URL:geo:49.606377,15.951712
-DESCRIPTION:📍 Stržanov\, Žďár nad Sázavou\n\n🚒 CAS (Žďár nad Sázavou-Zámek)
+DESCRIPTION:📍 Stržanov\, Žďár nad Sázavou\n💬 Odstranění nebezpečného hmyzu\
+ n\n🚒 CAS (Žďár nad Sázavou-Zámek)
 END:VEVENT
 BEGIN:VEVENT
 UID:415634061
@@ -1174,7 +1154,8 @@ SUMMARY:🛠️ strom - Sirákov
 LOCATION:Sirákov
 GEO:49.504806;15.818208
 URL:geo:49.504806,15.818208
-DESCRIPTION:📍 Sirákov\, Žďár nad Sázavou\n\n🚒 pila řetězová (Sirákov)
+DESCRIPTION:📍 Sirákov\, Žďár nad Sázavou\n💬 Strom odstraněn.\n\n🚒 pila řetě
+ zová (Sirákov)
 END:VEVENT
 BEGIN:VEVENT
 UID:415636061
@@ -1201,6 +1182,18 @@ DESCRIPTION:📍 Zámecká\, Libice nad Doubravou\, Havlíčkův Brod\n\n🚒 DA
  ce nad Doubravou)\n🚒 CAS (Libice nad Doubravou)
 END:VEVENT
 BEGIN:VEVENT
+UID:415647061
+DTSTART:20260717T161507Z
+DTEND:20260717T171507Z
+DTSTAMP:20260717T161507Z
+SUMMARY:🛠️ strom - Kuklík
+LOCATION:Kuklík
+GEO:49.629922;16.113142
+URL:geo:49.629922,16.113142
+DESCRIPTION:📍 Kuklík\, Žďár nad Sázavou\n💬 Odstranění stromu.\n\n🚒 DA (Kukl
+ ík)
+END:VEVENT
+BEGIN:VEVENT
 UID:415640061
 DTSTART:20260717T162254Z
 DTEND:20260717T172254Z
@@ -1213,14 +1206,27 @@ DESCRIPTION:📍 Česká Bělá\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčků
  CAS (HS Chotěboř)
 END:VEVENT
 BEGIN:VEVENT
+UID:415644061
+DTSTART:20260717T163247Z
+DTEND:20260717T173247Z
+DTSTAMP:20260717T163247Z
+SUMMARY:🛠️ strom - Nové Veselí
+LOCATION:Nová\, Nové Veselí
+GEO:49.522020;15.908883
+URL:geo:49.522020,15.908883
+DESCRIPTION:📍 Nová\, Nové Veselí\, Žďár nad Sázavou\n💬 Odstranění stromu.\n
+ \n🚒 CAS (Nové Veselí)
+END:VEVENT
+BEGIN:VEVENT
 UID:415645061
 DTSTART:20260717T163312Z
 DTEND:20260717T173312Z
 DTSTAMP:20260717T163312Z
-SUMMARY:🚗 dopravní nehoda - Veselá
+SUMMARY:⚠️ planý poplach - Veselá
 LOCATION:Veselá
 GEO:49.312107;15.236707
 URL:geo:49.312107,15.236707
-DESCRIPTION:📍 Veselá\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (Počátky)
+DESCRIPTION:📍 Veselá\, Pelhřimov\n💬 Planý poplach. Ohlášena DN přes aplikac
+ i telefonu.\n\n🚒 CAS (CHS Pelhřimov)\n🚒 DA (Počátky)\n🚒 CAS (Počátky)
 END:VEVENT
 END:VCALENDAR
