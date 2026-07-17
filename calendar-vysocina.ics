@@ -881,7 +881,8 @@ SUMMARY:🛠️ obtížný hmyz - Jihlava
 LOCATION:Demlova\, Jihlava
 GEO:49.402049;15.608331
 URL:geo:49.402049,15.608331
-DESCRIPTION:📍 Demlova\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+DESCRIPTION:📍 Demlova\, Jihlava\n💬 Likvidace nebezpečného hmyzu.\n\n🚒 CAS (
+ CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:415554061
@@ -892,8 +893,9 @@ SUMMARY:⚠️ planý poplach - Havlíčkův Brod
 LOCATION:Baštínov\, Havlíčkův Brod
 GEO:49.584617;15.607153
 URL:geo:49.584617,15.607153
-DESCRIPTION:📍 Baštínov\, Mírovka\, Havlíčkův Brod\n💬 Planý poplach.\n\n🚒 CA
- S (CHS Havlíčkův Brod)\n🚒 CAS (CHS Havlíčkův Brod)
+DESCRIPTION:📍 Baštínov\, Mírovka\, Havlíčkův Brod\n💬 Požár hlášený čidlem E
+ PS na PCO - planý poplach.\n\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 CAS (CHS Havlí
+ čkův Brod)
 END:VEVENT
 BEGIN:VEVENT
 UID:415557061
@@ -904,9 +906,10 @@ SUMMARY:🔥 vozidlo - Jihlava
 LOCATION:Jihlava
 GEO:49.433198;15.599832
 URL:geo:49.433198,15.599832
-DESCRIPTION:🚒 CAS (CHS Jihlava) ×2\n🚒 CAS (CHS Jihlava) ×2\n🚒 CAS (CHS Jihl
- ava)\n🚒 RZA (CHS Jihlava)\n🚒 zařízení hasicí a řezací vysokotlaké (CHS Jih
- lava)\n🚒 CAS (Jihlava-Bedřichov)\n🚒 vyšetřovací automobil (ÚO Jihlava)
+DESCRIPTION:💬 Požár návěsu NA.\n\n🚒 CAS (CHS Jihlava) ×2\n🚒 CAS (CHS Jihlav
+ a) ×2\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihlava)\n🚒 zařízení hasicí a řezac
+ í vysokotlaké (CHS Jihlava)\n🚒 CAS (Jihlava-Bedřichov)\n🚒 vyšetřovací auto
+ mobil (ÚO Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:415560061
@@ -919,5 +922,16 @@ GEO:49.263821;15.235587
 URL:geo:49.263821,15.235587
 DESCRIPTION:📍 Sídliště\, Počátky\, Pelhřimov\n💬 Transport pacienta na žádos
  t ZZS.\n\n🚒 CAS (HS Kamenice nad Lipou)\n🚒 CAS (Počátky)
+END:VEVENT
+BEGIN:VEVENT
+UID:415566061
+DTSTART:20260717T035618Z
+DTEND:20260717T045618Z
+DTSTAMP:20260717T035618Z
+SUMMARY:☣️ olej/PHM - Humpolec
+LOCATION:Nádražní\, Humpolec
+GEO:49.536867;15.344422
+URL:geo:49.536867,15.344422
+DESCRIPTION:📍 Nádražní\, Humpolec\, Pelhřimov\n\n🚒 CAS (HS Humpolec)
 END:VEVENT
 END:VCALENDAR
