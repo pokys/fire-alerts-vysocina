@@ -1208,8 +1208,8 @@ SUMMARY:🔥 kůlna/přístřešek - Mrákotín
 LOCATION:Mrákotín
 GEO:49.205467;15.364900
 URL:geo:49.205467,15.364900
-DESCRIPTION:📍 Mrákotín\, Jihlava\n\n🚒 CAS (HS Telč)\n🚒 CAS (HS Telč)\n🚒 CAS
-  (Mrákotín)
+DESCRIPTION:📍 Mrákotín\, Jihlava\n💬 Požár stanu.\n\n🚒 CAS (HS Telč)\n🚒 CAS 
+ (HS Telč)\n🚒 CAS (Mrákotín)\n🚒 vyšetřovací automobil (ÚO Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:415665061
@@ -1220,6 +1220,7 @@ SUMMARY:🛠️ strom - Polnička
 LOCATION:Polnička
 GEO:49.615009;15.935097
 URL:geo:49.615009,15.935097
-DESCRIPTION:📍 Polnička\, Žďár nad Sázavou\n\n🚒 CAS (Polnička)
+DESCRIPTION:📍 Polnička\, Žďár nad Sázavou\n💬 Odstranění stromu.\n\n🚒 CAS (P
+ olnička)
 END:VEVENT
 END:VCALENDAR
