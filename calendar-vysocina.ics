@@ -5,20 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:415480061
-DTSTART:20260715T213334Z
-DTEND:20260715T223334Z
-DTSTAMP:20260715T213334Z
-SUMMARY:🔥 Jihlava
-LOCATION:Palackého\, Jihlava
-GEO:49.397408;15.587419
-URL:geo:49.397408,15.587419
-DESCRIPTION:📍 Palackého\, Jihlava\n💬 Požár odpadu v přízemí bytového domu. 
- Provedena lokalizace a likvidace požáru.\n\n🚒 CAS (CHS Jihlava) ×2\n🚒 AŽ (
- CHS Jihlava)\n🚒 přetlakový ventilátor (CHS Jihlava)\n🚒 CAS (Jihlava-Bedřic
- hov)\n🚒 vyšetřovací automobil (ÚO Jihlava)
-END:VEVENT
-BEGIN:VEVENT
 UID:415481061
 DTSTART:20260716T011411Z
 DTEND:20260716T021411Z
@@ -887,8 +873,8 @@ LOCATION:Borovnice
 GEO:49.666464;16.220807
 URL:geo:49.666464,16.220807
 DESCRIPTION:📍 Borovnice\, Žďár nad Sázavou\n💬 Požár traktoru. Provedena lok
- alizace a likvidace\n\n🚒 DA (Jimramov)\n🚒 CAS (Jimramov)\n🚒 vyšetřovací au
- tomobil (ÚO Žďár nad Sázavou)
+ alizace a likvidace\n\n🚒 CAS (HS Polička)\n🚒 DA (Korouhev)\n🚒 DA (Jimramov
+ )\n🚒 CAS (Jimramov)\n🚒 vyšetřovací automobil (ÚO Žďár nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:415609061
@@ -1005,9 +991,9 @@ SUMMARY:🛠️ strom - Vír
 LOCATION:Vír
 GEO:49.553068;16.309056
 URL:geo:49.553068,16.309056
-DESCRIPTION:📍 Vír\, Žďár nad Sázavou\n💬 Odstranění stromu\n\n🚒 CAS (HS Byst
- řice nad Pernštejnem)\n🚒 automobilová plošina nad 30 m (CHS Žďár nad Sázav
- ou)
+DESCRIPTION:📍 Vír\, Žďár nad Sázavou\n💬 Odstranění stromu.\n\n🚒 CAS (HS Bys
+ třice nad Pernštejnem)\n🚒 automobilová plošina nad 30 m (CHS Žďár nad Sáza
+ vou)
 END:VEVENT
 BEGIN:VEVENT
 UID:415622061
@@ -1225,6 +1211,19 @@ SUMMARY:🛠️ obtížný hmyz - Humpolec
 LOCATION:Humpolec
 GEO:49.506270;15.296902
 URL:geo:49.506270,15.296902
-DESCRIPTION:📍 Kletečná\, Humpolec\, Pelhřimov\n\n🚒 CAS (HS Humpolec)
+DESCRIPTION:📍 Kletečná\, Humpolec\, Pelhřimov\n💬 Odstranění obtížného hmyzu
+ .\n\n🚒 CAS (HS Humpolec)
+END:VEVENT
+BEGIN:VEVENT
+UID:415650061
+DTSTART:20260717T174113Z
+DTEND:20260717T184113Z
+DTSTAMP:20260717T174113Z
+SUMMARY:🛠️ strom - Golčův Jeníkov
+LOCATION:Golčův Jeníkov
+GEO:49.820621;15.484166
+URL:geo:49.820621,15.484166
+DESCRIPTION:📍 Golčův Jeníkov\, Havlíčkův Brod\n💬 Odstranění stromu.\n\n🚒 CA
+ S (Golčův Jeníkov)
 END:VEVENT
 END:VCALENDAR
