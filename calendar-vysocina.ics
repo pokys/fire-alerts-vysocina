@@ -5,30 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:415491061
-DTSTART:20260716T065809Z
-DTEND:20260716T075809Z
-DTSTAMP:20260716T065809Z
-SUMMARY:🛠️ obtížný hmyz - Kramolín
-LOCATION:Kramolín
-GEO:49.131740;16.123718
-URL:geo:49.131740,16.123718
-DESCRIPTION:📍 Kramolín\, Třebíč\n💬 Likvidace obtížného hmyzu.\n\n🚒 CAS (HS 
- Hrotovice)
-END:VEVENT
-BEGIN:VEVENT
-UID:415492061
-DTSTART:20260716T071044Z
-DTEND:20260716T081044Z
-DTSTAMP:20260716T071044Z
-SUMMARY:🛠️ obtížný hmyz - Vilémov
-LOCATION:Vilémov
-GEO:49.821164;15.544019
-URL:geo:49.821164,15.544019
-DESCRIPTION:📍 Vilémov\, Havlíčkův Brod\n💬 Odstranění obtížného hmyzu.\n\n🚒 
- CAS (Golčův Jeníkov)
-END:VEVENT
-BEGIN:VEVENT
 UID:415496061
 DTSTART:20260716T075319Z
 DTEND:20260716T085319Z
@@ -570,7 +546,8 @@ LOCATION:Kamenice nad Lipou
 GEO:49.317345;15.083770
 URL:geo:49.317345,15.083770
 DESCRIPTION:📍 Johanka\, Kamenice nad Lipou\, Pelhřimov\n💬 Odstranění stromu
- .\n\n🚒 automobilová plošina do 30 m (HS Kamenice nad Lipou)
+ .\n\n🚒 automobilová plošina do 30 m (HS Kamenice nad Lipou)\n🚒 pila řetězo
+ vá (HS Kamenice nad Lipou)
 END:VEVENT
 BEGIN:VEVENT
 UID:415582061
@@ -1115,8 +1092,9 @@ SUMMARY:🚗 se zraněním - Česká Bělá
 LOCATION:Česká Bělá
 GEO:49.634648;15.688213
 URL:geo:49.634648,15.688213
-DESCRIPTION:📍 Česká Bělá\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 
- CAS (HS Chotěboř)
+DESCRIPTION:📍 Česká Bělá\, Havlíčkův Brod\n💬 DN OA - motocykl se zraněním o
+ sob. LZS transportovala jednu zraněnou osobu k dalšímu ošetření do FN. Ods
+ tranění následků po DN\n\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 CAS (HS Chotěboř)
 END:VEVENT
 BEGIN:VEVENT
 UID:415644061
@@ -1210,7 +1188,8 @@ SUMMARY:🛠️ strom - Vír
 LOCATION:Vír
 GEO:49.557384;16.323584
 URL:geo:49.557384,16.323584
-DESCRIPTION:📍 Vír\, Žďár nad Sázavou\n\n🚒 DA (Vír)\n🚒 CAS (Vír)
+DESCRIPTION:📍 Vír\, Žďár nad Sázavou\n💬 Odstranění stromu.\n\n🚒 DA (Vír)\n🚒
+  CAS (Vír)
 END:VEVENT
 BEGIN:VEVENT
 UID:415655061
@@ -1221,7 +1200,30 @@ SUMMARY:🛠️ otevření bytu/auta - Velké Meziříčí
 LOCATION:Bezručova\, Velké Meziříčí
 GEO:49.352158;16.006286
 URL:geo:49.352158,16.006286
-DESCRIPTION:📍 Bezručova\, Velké Meziříčí\, Žďár nad Sázavou\n\n🚒 RZA (HS Ve
- lké Meziříčí)
+DESCRIPTION:📍 Bezručova\, Velké Meziříčí\, Žďár nad Sázavou\n💬 Otevření byt
+ u.\n\n🚒 RZA (HS Velké Meziříčí)
+END:VEVENT
+BEGIN:VEVENT
+UID:415656061
+DTSTART:20260717T184430Z
+DTEND:20260717T194430Z
+DTSTAMP:20260717T184430Z
+SUMMARY:🛠️ strom - Polná
+LOCATION:Polná
+GEO:49.520744;15.757964
+URL:geo:49.520744,15.757964
+DESCRIPTION:📍 Hrbov\, Polná\, Jihlava\n\n🚒 CAS (HS Polná)
+END:VEVENT
+BEGIN:VEVENT
+UID:415657061
+DTSTART:20260717T184520Z
+DTEND:20260717T194520Z
+DTSTAMP:20260717T184520Z
+SUMMARY:🛠️ strom - Golčův Jeníkov
+LOCATION:Golčův Jeníkov
+GEO:49.831691;15.502365
+URL:geo:49.831691,15.502365
+DESCRIPTION:📍 Sirákovice\, Golčův Jeníkov\, Havlíčkův Brod\n💬 Odstranění st
+ romu.\n\n🚒 CAS (Golčův Jeníkov)
 END:VEVENT
 END:VCALENDAR
