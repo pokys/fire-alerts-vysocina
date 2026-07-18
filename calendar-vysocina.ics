@@ -1197,8 +1197,9 @@ SUMMARY:🚗 dopravní nehoda - Úsobí
 LOCATION:Úsobí
 GEO:49.509045;15.533882
 URL:geo:49.509045,15.533882
-DESCRIPTION:📍 Chyška\, Úsobí\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)
- \n🚒 CAS (HS Humpolec)
+DESCRIPTION:📍 Chyška\, Úsobí\, Havlíčkův Brod\n💬 DN 3 cyklistů. 3 zraněné o
+ soby. Zajištění zraněných osob a transport do sanitky.\n\n🚒 CAS (CHS Havlí
+ čkův Brod)\n🚒 CAS (HS Humpolec)
 END:VEVENT
 BEGIN:VEVENT
 UID:415700061
@@ -1216,11 +1217,11 @@ UID:415701061
 DTSTART:20260718T151210Z
 DTEND:20260718T161210Z
 DTSTAMP:20260718T151210Z
-SUMMARY:🔥 vozidlo - Slavníč
-LOCATION:Slavníč
-GEO:49.514904;15.459100
-URL:geo:49.514904,15.459100
-DESCRIPTION:📍 Slavníč\, Havlíčkův Brod\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS J
- ihlava)
+SUMMARY:🔥 vozidlo - Skorkov
+LOCATION:Skorkov
+GEO:49.506730;15.467525
+URL:geo:49.506730,15.467525
+DESCRIPTION:📍 Skorkov\, Havlíčkův Brod\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS J
+ ihlava)\n🚒 CAS (HS Humpolec)\n🚒 vyšetřovací automobil (ÚO Havlíčkův Brod)
 END:VEVENT
 END:VCALENDAR
