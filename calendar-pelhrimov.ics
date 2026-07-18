@@ -174,4 +174,15 @@ URL:geo:49.436318,15.213660
 DESCRIPTION:📍 Pražská\, Pelhřimov\n💬 Požár gauče. Lokalizace a likvidace ud
  álosti.\n\n🚒 CAS (CHS Pelhřimov)\n🚒 vyšetřovací automobil (ÚO Pelhřimov)
 END:VEVENT
+BEGIN:VEVENT
+UID:415700061
+DTSTART:20260718T150857Z
+DTEND:20260718T160857Z
+DTSTAMP:20260718T150857Z
+SUMMARY:🛠️ obtížný hmyz - Nová Buková
+LOCATION:Nová Buková
+GEO:49.343261;15.290918
+URL:geo:49.343261,15.290918
+DESCRIPTION:📍 Nová Buková\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)
+END:VEVENT
 END:VCALENDAR
