@@ -1210,9 +1210,10 @@ SUMMARY:🔥 vozidlo - Skorkov
 LOCATION:Skorkov
 GEO:49.506730;15.467525
 URL:geo:49.506730,15.467525
-DESCRIPTION:📍 Skorkov\, Havlíčkův Brod\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS J
- ihlava)\n🚒 autobus (CHS Jihlava)\n🚒 CAS (HS Humpolec)\n🚒 vyšetřovací autom
- obil (ÚO Havlíčkův Brod)
+DESCRIPTION:📍 Skorkov\, Havlíčkův Brod\n💬 Požár autobusu. Lokalizace a likv
+ idace události.\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihlava)\n🚒 autobus (CH
+ S Jihlava)\n🚒 CAS (HS Humpolec)\n🚒 vyšetřovací automobil (ÚO Havlíčkův Bro
+ d)
 END:VEVENT
 BEGIN:VEVENT
 UID:415706061
