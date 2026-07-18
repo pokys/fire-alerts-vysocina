@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:415522061
-DTSTART:20260716T112536Z
-DTEND:20260716T122536Z
-DTSTAMP:20260716T112536Z
-SUMMARY:🛠️ obtížný hmyz - Šebkovice
-LOCATION:Šebkovice
-GEO:49.116212;15.820128
-URL:geo:49.116212,15.820128
-DESCRIPTION:📍 Šebkovice\, Třebíč\n💬 Likvidace obtížného hmyzu.\n\n🚒 CAS (Ja
- roměřice nad Rokytnou)
-END:VEVENT
-BEGIN:VEVENT
 UID:415528061
 DTSTART:20260716T123536Z
 DTEND:20260716T133536Z
@@ -1161,7 +1149,7 @@ LOCATION:Polnička
 GEO:49.615009;15.935097
 URL:geo:49.615009,15.935097
 DESCRIPTION:📍 Polnička\, Žďár nad Sázavou\n💬 Odstranění stromu.\n\n🚒 CAS (P
- olnička)
+ olnička)\n🚒 pila řetězová (Polnička)
 END:VEVENT
 BEGIN:VEVENT
 UID:415667061
@@ -1223,5 +1211,16 @@ URL:geo:49.696492,15.270870
 DESCRIPTION:📍 Ledeč nad Sázavou\, Havlíčkův Brod\n💬 Požár hromady uhlí 2x2m
  \, provedena lokalizace a likvidace.\n\n🚒 CAS (HS Ledeč nad Sázavou)\n🚒 CA
  S (HS Světlá nad Sázavou)\n🚒 CAS (Kožlí)\n🚒 CAS (Ledeč nad Sázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:415679061
+DTSTART:20260718T073204Z
+DTEND:20260718T083204Z
+DTSTAMP:20260718T073204Z
+SUMMARY:🛠️ strom - Žďár nad Sázavou
+LOCATION:Žďár nad Sázavou
+GEO:49.562633;15.939240
+URL:geo:49.562633,15.939240
+DESCRIPTION:🚒 CAS (Žďár nad Sázavou-Zámek)
 END:VEVENT
 END:VCALENDAR
