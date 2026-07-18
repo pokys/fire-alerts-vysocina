@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:415534061
-DTSTART:20260716T133330Z
-DTEND:20260716T143330Z
-DTSTAMP:20260716T133330Z
-SUMMARY:⚠️ planý poplach - Jihlava
-LOCATION:Havlíčkova\, Jihlava
-GEO:49.402029;15.588000
-URL:geo:49.402029,15.588000
-DESCRIPTION:📍 Havlíčkova\, Jihlava\n💬 Požár ohlášený systémem elektrické po
- žární signalizace. Průzkumem bylo zjištěno\, že se jedná o planý poplach.\
- n\n🚒 CAS (CHS Jihlava) ×2\n🚒 CAS (CHS Jihlava) ×2
-END:VEVENT
-BEGIN:VEVENT
 UID:415535061
 DTSTART:20260716T143522Z
 DTEND:20260716T153522Z
@@ -1205,8 +1192,8 @@ SUMMARY:🛠️ ostatní - Jimramov
 LOCATION:Jimramov
 GEO:49.637188;16.226318
 URL:geo:49.637188,16.226318
-DESCRIPTION:📍 Jimramov\, Žďár nad Sázavou\n💬 Asistence při řízení dopravy.\
- n\n🚒 DA (Jimramov)\n🚒 CAS (Jimramov)
+DESCRIPTION:📍 Jimramov\, Žďár nad Sázavou\n💬 ZOČ\n\n🚒 DA (Jimramov)\n🚒 CAS 
+ (Jimramov)
 END:VEVENT
 BEGIN:VEVENT
 UID:415683061
@@ -1220,5 +1207,17 @@ URL:geo:49.547185,15.979461
 DESCRIPTION:📍 Jámy\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 au
  tomobilová plošina nad 30 m (CHS Žďár nad Sázavou)\n🚒 pila řetězová (CHS Ž
  ďár nad Sázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:415684061
+DTSTART:20260718T102739Z
+DTEND:20260718T112739Z
+DTSTAMP:20260718T102739Z
+SUMMARY:🚗 bez zranění - Bystřice nad Pernštejnem
+LOCATION:Rácová\, Bystřice nad Pernštejnem
+GEO:49.524695;16.268905
+URL:geo:49.524695,16.268905
+DESCRIPTION:📍 Rácová\, Bystřice nad Pernštejnem\, Žďár nad Sázavou\n\n🚒 CAS
+  (HS Bystřice nad Pernštejnem)
 END:VEVENT
 END:VCALENDAR
