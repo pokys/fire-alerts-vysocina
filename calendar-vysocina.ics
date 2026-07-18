@@ -1207,8 +1207,8 @@ SUMMARY:🚑 spolupráce ZZS - Sněžné
 LOCATION:Sněžné
 GEO:49.643868;16.119807
 URL:geo:49.643868,16.119807
-DESCRIPTION:📍 Sněžné\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 
- DA (Sněžné)
+DESCRIPTION:📍 Sněžné\, Žďár nad Sázavou\n💬 Pomoc ZZS s resuscitací.\n\n🚒 CA
+ S (CHS Žďár nad Sázavou)\n🚒 DA (Sněžné)
 END:VEVENT
 BEGIN:VEVENT
 UID:415670061
@@ -1219,6 +1219,7 @@ SUMMARY:🔥 venkovní požár - Pelhřimov
 LOCATION:Pražská\, Pelhřimov
 GEO:49.436318;15.213660
 URL:geo:49.436318,15.213660
-DESCRIPTION:📍 Pražská\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)
+DESCRIPTION:📍 Pražská\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)\n🚒 vyšetřovací a
+ utomobil (ÚO Pelhřimov)
 END:VEVENT
 END:VCALENDAR
