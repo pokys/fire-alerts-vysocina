@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:415533061
-DTSTART:20260716T131514Z
-DTEND:20260716T141514Z
-DTSTAMP:20260716T131514Z
-SUMMARY:🛠️ obtížný hmyz - Nové Syrovice
-LOCATION:Nové Syrovice
-GEO:49.014891;15.779883
-URL:geo:49.014891,15.779883
-DESCRIPTION:📍 Nové Syrovice\, Třebíč\n💬 Likvidace obtížného hmyzu.\n\n🚒 DA 
- (Nové Syrovice)
-END:VEVENT
-BEGIN:VEVENT
 UID:415534061
 DTSTART:20260716T133330Z
 DTEND:20260716T143330Z
@@ -1191,11 +1179,11 @@ DTSTART:20260718T075127Z
 DTEND:20260718T085127Z
 DTSTAMP:20260718T075127Z
 SUMMARY:🔥 venkovní požár - Náměšť nad Oslavou
-LOCATION:Podhradí\, Náměšť nad Oslavou
+LOCATION:Náměšť nad Oslavou
 GEO:49.207093;16.161167
 URL:geo:49.207093,16.161167
-DESCRIPTION:📍 Podhradí\, Náměšť nad Oslavou\, Třebíč\n💬 Nedohašené ohniště 
- po opékání buřtů. Lokalizace a likvidace.\n\n🚒 CAS (HS Náměšť nad Oslavou)
+DESCRIPTION:📍 Náměšť nad Oslavou\, Třebíč\n💬 Nedohašené ohniště po opékání 
+ buřtů. Lokalizace a likvidace.\n\n🚒 CAS (HS Náměšť nad Oslavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:415681061
@@ -1219,5 +1207,17 @@ GEO:49.637188;16.226318
 URL:geo:49.637188,16.226318
 DESCRIPTION:📍 Jimramov\, Žďár nad Sázavou\n\n🚒 DA (Jimramov)\n🚒 CAS (Jimram
  ov)
+END:VEVENT
+BEGIN:VEVENT
+UID:415683061
+DTSTART:20260718T085130Z
+DTEND:20260718T095130Z
+DTSTAMP:20260718T085130Z
+SUMMARY:🛠️ strom - Žďár nad Sázavou
+LOCATION:Žďár nad Sázavou
+GEO:49.550541;15.975006
+URL:geo:49.550541,15.975006
+DESCRIPTION:🚒 CAS (CHS Žďár nad Sázavou)\n🚒 automobilová plošina nad 30 m (
+ CHS Žďár nad Sázavou)
 END:VEVENT
 END:VCALENDAR
