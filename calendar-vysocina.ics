@@ -1171,7 +1171,7 @@ SUMMARY:🛠️ strom - Žďár nad Sázavou
 LOCATION:Žďár nad Sázavou
 GEO:49.549518;15.942129
 URL:geo:49.549518,15.942129
-DESCRIPTION:🚒 CAS (Žďár nad Sázavou-Zámek)
+DESCRIPTION:💬 Odstranění stromu.\n\n🚒 CAS (Žďár nad Sázavou-Zámek)
 END:VEVENT
 BEGIN:VEVENT
 UID:415680061
@@ -1213,11 +1213,11 @@ UID:415683061
 DTSTART:20260718T085130Z
 DTEND:20260718T095130Z
 DTSTAMP:20260718T085130Z
-SUMMARY:🛠️ strom - Žďár nad Sázavou
-LOCATION:Žďár nad Sázavou
-GEO:49.550541;15.975006
-URL:geo:49.550541,15.975006
-DESCRIPTION:🚒 CAS (CHS Žďár nad Sázavou)\n🚒 automobilová plošina nad 30 m (
- CHS Žďár nad Sázavou)
+SUMMARY:🛠️ strom - Jámy
+LOCATION:Jámy
+GEO:49.547185;15.979461
+URL:geo:49.547185,15.979461
+DESCRIPTION:📍 Jámy\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 au
+ tomobilová plošina nad 30 m (CHS Žďár nad Sázavou)
 END:VEVENT
 END:VCALENDAR
