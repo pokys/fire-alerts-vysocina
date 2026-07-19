@@ -343,7 +343,7 @@ GEO:49.205467;15.364900
 URL:geo:49.205467,15.364900
 DESCRIPTION:📍 Mrákotín\, Jihlava\n💬 Požár stanu. Lokalizace a likvidace pož
  áru.\n\n🚒 CAS (HS Telč)\n🚒 CAS (HS Telč)\n🚒 CAS (Mrákotín)\n🚒 vyšetřovací 
- automobil (ÚO Jihlava) ×2
+ automobil (ÚO Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:415665061
@@ -1091,6 +1091,30 @@ SUMMARY:🛠️ strom - Tis
 LOCATION:Tis
 GEO:49.729403;15.495439
 URL:geo:49.729403,15.495439
-DESCRIPTION:📍 Kněž\, Tis\, Havlíčkův Brod\n\n🚒 CAS (Habry)
+DESCRIPTION:📍 Kněž\, Tis\, Havlíčkův Brod\n💬 Odstranění stromu.\n\n🚒 CAS (H
+ abry)
+END:VEVENT
+BEGIN:VEVENT
+UID:415756061
+DTSTART:20260719T143200Z
+DTEND:20260719T153200Z
+DTSTAMP:20260719T143200Z
+SUMMARY:🛠️ ostatní - Svépravice
+LOCATION:Svépravice
+GEO:49.497198;15.233920
+URL:geo:49.497198,15.233920
+DESCRIPTION:📍 Svépravice\, Pelhřimov\n\n🚒 CAS (Svépravice)
+END:VEVENT
+BEGIN:VEVENT
+UID:415760061
+DTSTART:20260719T145004Z
+DTEND:20260719T155004Z
+DTSTAMP:20260719T145004Z
+SUMMARY:🔥 vozidlo - Stránecká Zhoř
+LOCATION:Stránecká Zhoř
+GEO:49.377791;15.947233
+URL:geo:49.377791,15.947233
+DESCRIPTION:📍 Kochánov\, Stránecká Zhoř\, Žďár nad Sázavou\n\n🚒 CAS (HS Vel
+ ké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)
 END:VEVENT
 END:VCALENDAR
