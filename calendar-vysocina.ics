@@ -1208,7 +1208,19 @@ SUMMARY:🛠️ obtížný hmyz - Náměšť nad Oslavou
 LOCATION:Havlíčkova\, Náměšť nad Oslavou
 GEO:49.210288;16.151244
 URL:geo:49.210288,16.151244
-DESCRIPTION:📍 Havlíčkova\, Náměšť nad Oslavou\, Třebíč\n\n🚒 CAS (HS Náměšť 
- nad Oslavou)
+DESCRIPTION:📍 Havlíčkova\, Náměšť nad Oslavou\, Třebíč\n💬 Odstranění obtížn
+ ého hmyzu.\n\n🚒 CAS (HS Náměšť nad Oslavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:415728061
+DTSTART:20260719T080528Z
+DTEND:20260719T090528Z
+DTSTAMP:20260719T080528Z
+SUMMARY:🛠️ ostatní - Brzkov
+LOCATION:Brzkov
+GEO:49.525967;15.727135
+URL:geo:49.525967,15.727135
+DESCRIPTION:📍 Brzkov\, Jihlava\n💬 Provzdušnění rybníka.\n\n🚒 přívěs motorov
+ á stříkačka (Brzkov)
 END:VEVENT
 END:VCALENDAR
