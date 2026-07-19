@@ -5,41 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:415612061
-DTSTART:20260717T135507Z
-DTEND:20260717T145507Z
-DTSTAMP:20260717T135507Z
-SUMMARY:🛠️ strom - Třeštice
-LOCATION:Třeštice
-GEO:49.238997;15.463656
-URL:geo:49.238997,15.463656
-DESCRIPTION:📍 Třeštice\, Jihlava\n💬 Odstranění stromu.\n\n🚒 CAS (HS Telč)
-END:VEVENT
-BEGIN:VEVENT
-UID:415613061
-DTSTART:20260717T135558Z
-DTEND:20260717T145558Z
-DTSTAMP:20260717T135558Z
-SUMMARY:🛠️ strom - Ledeč nad Sázavou
-LOCATION:Ledeč nad Sázavou
-GEO:49.679219;15.285958
-URL:geo:49.679219,15.285958
-DESCRIPTION:📍 Ledeč nad Sázavou\, Havlíčkův Brod\n💬 Odstranění stromu.\n\n🚒
-  CAS (HS Ledeč nad Sázavou)\n🚒 pila řetězová (HS Ledeč nad Sázavou)
-END:VEVENT
-BEGIN:VEVENT
-UID:415614061
-DTSTART:20260717T135911Z
-DTEND:20260717T145911Z
-DTSTAMP:20260717T135911Z
-SUMMARY:🛠️ strom - Sirákov
-LOCATION:Sirákov
-GEO:49.505528;15.827434
-URL:geo:49.505528,15.827434
-DESCRIPTION:📍 Sirákov\, Žďár nad Sázavou\n💬 Odstranění stromu.\n\n🚒 CAS (HS
-  Polná)\n🚒 pila řetězová (HS Polná)
-END:VEVENT
-BEGIN:VEVENT
 UID:415615061
 DTSTART:20260717T140326Z
 DTEND:20260717T150326Z
@@ -1076,7 +1041,10 @@ SUMMARY:🚗 se zraněním - Žďár nad Sázavou
 LOCATION:Žďár nad Sázavou
 GEO:49.546497;15.937774
 URL:geo:49.546497,15.937774
-DESCRIPTION:📍 Radonín\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad Sázavou)
+DESCRIPTION:📍 Radonín\, Žďár nad Sázavou\n💬 Střet 2 osobních vozidel\, 4 zr
+ aněné osoby. Předlékařská první pomoc zraněným osobam do příjezdu ZZS. Pro
+ tipožární opatření. Zabezpečení havarovaných vozidel proti úniku porovozní
+ ch kapalin.\n\n🚒 CAS (CHS Žďár nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:415742061
@@ -1125,7 +1093,7 @@ LOCATION:Kojčice
 GEO:49.486138;15.262837
 URL:geo:49.486138,15.262837
 DESCRIPTION:📍 Kojčice\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 CAS (CHS Pelhř
- imov)\n🚒 DA (Kojčice)
+ imov)\n🚒 pila řetězová (CHS Pelhřimov)\n🚒 DA (Kojčice)
 END:VEVENT
 BEGIN:VEVENT
 UID:415747061
@@ -1172,7 +1140,8 @@ SUMMARY:🛠️ otevření bytu/auta - Třebíč
 LOCATION:Jindřichova\, Třebíč
 GEO:49.226575;15.869564
 URL:geo:49.226575,15.869564
-DESCRIPTION:📍 Jindřichova\, Týn\, Třebíč\n\n🚒 CAS (CHS Třebíč)
+DESCRIPTION:📍 Jindřichova\, Týn\, Třebíč\n💬 Otevření bytu.\n\n🚒 CAS (CHS Tř
+ ebíč)
 END:VEVENT
 BEGIN:VEVENT
 UID:415752061
@@ -1185,5 +1154,28 @@ GEO:49.487986;15.718947
 URL:geo:49.487986,15.718947
 DESCRIPTION:📍 Havlíčkova\, Polná\, Jihlava\n💬 Pročištění kanalizace.\n\n🚒 D
  A (Polná)
+END:VEVENT
+BEGIN:VEVENT
+UID:415753061
+DTSTART:20260719T133405Z
+DTEND:20260719T143405Z
+DTSTAMP:20260719T133405Z
+SUMMARY:🛠️ čerpání vody - Kejžlice
+LOCATION:K Čejovu\, Kejžlice
+GEO:49.588366;15.392121
+URL:geo:49.588366,15.392121
+DESCRIPTION:📍 K Čejovu\, Kejžlice\, Pelhřimov\n\n🚒 CAS (Kejžlice)
+END:VEVENT
+BEGIN:VEVENT
+UID:415754061
+DTSTART:20260719T135029Z
+DTEND:20260719T145029Z
+DTSTAMP:20260719T135029Z
+SUMMARY:🛠️ strom - Bystřice nad Pernštejnem
+LOCATION:Bystřice nad Pernštejnem
+GEO:49.535667;16.296538
+URL:geo:49.535667,16.296538
+DESCRIPTION:📍 Dvořiště\, Bystřice nad Pernštejnem\, Žďár nad Sázavou\n\n🚒 C
+ AS (HS Bystřice nad Pernštejnem)
 END:VEVENT
 END:VCALENDAR
