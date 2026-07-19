@@ -5,78 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:415632061
-DTSTART:20260717T160122Z
-DTEND:20260717T170122Z
-DTSTAMP:20260717T160122Z
-SUMMARY:🛠️ obtížný hmyz - Žďár nad Sázavou
-LOCATION:Žďár nad Sázavou
-GEO:49.606377;15.951712
-URL:geo:49.606377,15.951712
-DESCRIPTION:📍 Stržanov\, Žďár nad Sázavou\n💬 Odstranění obtížného hmyzu.\n\
- n🚒 CAS (Žďár nad Sázavou-Zámek)
-END:VEVENT
-BEGIN:VEVENT
-UID:415634061
-DTSTART:20260717T160401Z
-DTEND:20260717T170401Z
-DTSTAMP:20260717T160401Z
-SUMMARY:🛠️ strom - Kuklík
-LOCATION:Kuklík
-GEO:49.629922;16.113142
-URL:geo:49.629922,16.113142
-DESCRIPTION:📍 Kuklík\, Žďár nad Sázavou\n💬 Odstranění stromu\n\n🚒 DA (Kuklí
- k)
-END:VEVENT
-BEGIN:VEVENT
-UID:415635061
-DTSTART:20260717T160608Z
-DTEND:20260717T170608Z
-DTSTAMP:20260717T160608Z
-SUMMARY:🛠️ strom - Sirákov
-LOCATION:Sirákov
-GEO:49.504806;15.818208
-URL:geo:49.504806,15.818208
-DESCRIPTION:📍 Sirákov\, Žďár nad Sázavou\n💬 Odstranění stromu.\n\n🚒 pila ře
- tězová (Sirákov)
-END:VEVENT
-BEGIN:VEVENT
-UID:415636061
-DTSTART:20260717T160647Z
-DTEND:20260717T170647Z
-DTSTAMP:20260717T160647Z
-SUMMARY:🛠️ obtížný hmyz - Kamenice nad Lipou
-LOCATION:Zahradní\, Kamenice nad Lipou
-GEO:49.296299;15.077262
-URL:geo:49.296299,15.077262
-DESCRIPTION:📍 Zahradní\, Kamenice nad Lipou\, Pelhřimov\n💬 Odstranění obtíž
- ného hmyzu.\n\n🚒 CAS (Kamenice nad Lipou)
-END:VEVENT
-BEGIN:VEVENT
-UID:415639061
-DTSTART:20260717T161242Z
-DTEND:20260717T171242Z
-DTSTAMP:20260717T161242Z
-SUMMARY:🛠️ ostatní - Libice nad Doubravou
-LOCATION:Zámecká\, Libice nad Doubravou
-GEO:49.743328;15.705269
-URL:geo:49.743328,15.705269
-DESCRIPTION:📍 Zámecká\, Libice nad Doubravou\, Havlíčkův Brod\n💬 Pročištění
-  kanalizace.\n\n🚒 DA (Libice nad Doubravou)\n🚒 CAS (Libice nad Doubravou)
-END:VEVENT
-BEGIN:VEVENT
-UID:415647061
-DTSTART:20260717T161507Z
-DTEND:20260717T171507Z
-DTSTAMP:20260717T161507Z
-SUMMARY:🛠️ strom - Kuklík
-LOCATION:Kuklík
-GEO:49.629922;16.113142
-URL:geo:49.629922,16.113142
-DESCRIPTION:📍 Kuklík\, Žďár nad Sázavou\n💬 Odstranění stromu.\n\n🚒 DA (Kukl
- ík)
-END:VEVENT
-BEGIN:VEVENT
 UID:415640061
 DTSTART:20260717T162254Z
 DTEND:20260717T172254Z
@@ -1064,7 +992,8 @@ SUMMARY:🛠️ obtížný hmyz - Hořice
 LOCATION:Hořice
 GEO:49.598360;15.187665
 URL:geo:49.598360,15.187665
-DESCRIPTION:📍 Hořice\, Pelhřimov\n\n🚒 CAS (Senožaty)
+DESCRIPTION:📍 Hořice\, Pelhřimov\n💬 Odstranění obtížného hmyzu.\n\n🚒 CAS (S
+ enožaty)
 END:VEVENT
 BEGIN:VEVENT
 UID:415764061
@@ -1087,7 +1016,8 @@ SUMMARY:🛠️ ostatní - Božejov
 LOCATION:Božejov
 GEO:49.360182;15.153395
 URL:geo:49.360182,15.153395
-DESCRIPTION:📍 Božejov\, Pelhřimov\n\n🚒 CAS (Božejov)
+DESCRIPTION:📍 Božejov\, Pelhřimov\n💬 Pročištění ucpané kanalizace.\n\n🚒 CAS
+  (Božejov)
 END:VEVENT
 BEGIN:VEVENT
 UID:415766061
@@ -1098,6 +1028,7 @@ SUMMARY:🛠️ monitoring - Horní Cerekev
 LOCATION:Březinova\, Horní Cerekev
 GEO:49.318715;15.328194
 URL:geo:49.318715,15.328194
-DESCRIPTION:📍 Březinova\, Horní Cerekev\, Pelhřimov\n\n🚒 DA (Horní Cerekev)
+DESCRIPTION:📍 Březinova\, Horní Cerekev\, Pelhřimov\n💬 Monitoring požářiště
+ .\n\n🚒 DA (Horní Cerekev)
 END:VEVENT
 END:VCALENDAR
