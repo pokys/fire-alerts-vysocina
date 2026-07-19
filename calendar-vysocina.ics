@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:415629061
-DTSTART:20260717T153717Z
-DTEND:20260717T163717Z
-DTSTAMP:20260717T153717Z
-SUMMARY:🛠️ obtížný hmyz - Bystřice nad Pernštejnem
-LOCATION:Bystřice nad Pernštejnem
-GEO:49.532971;16.290469
-URL:geo:49.532971,16.290469
-DESCRIPTION:📍 Dvořiště\, Bystřice nad Pernštejnem\, Žďár nad Sázavou\n💬 Ods
- tranění obtížného hmyzu.\n\n🚒 DA (Bystřice nad Pernštejnem)\n🚒 CAS (Bystři
- ce nad Pernštejnem)
-END:VEVENT
-BEGIN:VEVENT
 UID:415630061
 DTSTART:20260717T155842Z
 DTEND:20260717T165842Z
@@ -1081,5 +1068,17 @@ URL:geo:49.377801,15.947245
 DESCRIPTION:📍 Kochánov\, Stránecká Zhoř\, Žďár nad Sázavou\n\n🚒 CAS (HS Vel
  ké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)\n🚒 vyšetřovací automobil (ÚO Žďár 
  nad Sázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:415762061
+DTSTART:20260719T152655Z
+DTEND:20260719T162655Z
+DTSTAMP:20260719T152655Z
+SUMMARY:🛠️ strom - Věchnov
+LOCATION:Věchnov
+GEO:49.486751;16.296663
+URL:geo:49.486751,16.296663
+DESCRIPTION:📍 Věchnov\, Žďár nad Sázavou\n\n🚒 CAS (HS Bystřice nad Pernštej
+ nem)
 END:VEVENT
 END:VCALENDAR
