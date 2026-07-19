@@ -950,4 +950,16 @@ URL:geo:49.394925,15.588771
 DESCRIPTION:📍 Mrštíkova\, Jihlava\n💬 Odchyt netopýra v bytě.\n\n🚒 CAS (CHS 
  Jihlava)
 END:VEVENT
+BEGIN:VEVENT
+UID:415778061
+DTSTART:20260719T220423Z
+DTEND:20260719T230423Z
+DTSTAMP:20260719T220423Z
+SUMMARY:🚗 úklid místa - Moravské Budějovice
+LOCATION:Moravské Budějovice
+GEO:49.032001;15.831361
+URL:geo:49.032001,15.831361
+DESCRIPTION:📍 Lažínky\, Moravské Budějovice\, Třebíč\n\n🚒 CAS (HS Moravské 
+ Budějovice)
+END:VEVENT
 END:VCALENDAR
