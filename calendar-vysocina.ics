@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:415591061
-DTSTART:20260717T110407Z
-DTEND:20260717T120407Z
-DTSTAMP:20260717T110407Z
-SUMMARY:🔥 vozidlo - Hrotovice
-LOCATION:Dražka\, Hrotovice
-GEO:49.109072;16.054309
-URL:geo:49.109072,16.054309
-DESCRIPTION:📍 Dražka\, Hrotovice\, Třebíč\n💬 Požár nákladního automobilu. B
- ez zranění. Lokalizace a likvidace.\n\n🚒 CAS (HS Hrotovice)\n🚒 vyšetřovací
-  automobil (ÚO Třebíč)
-END:VEVENT
-BEGIN:VEVENT
 UID:415593061
 DTSTART:20260717T114401Z
 DTEND:20260717T124401Z
@@ -1168,8 +1155,8 @@ SUMMARY:🛠️ strom - Prosetín
 LOCATION:Prosetín
 GEO:49.492690;16.379884
 URL:geo:49.492690,16.379884
-DESCRIPTION:📍 Čtyři Dvory\, Prosetín\, Žďár nad Sázavou\n\n🚒 přívěs motorov
- á stříkačka (Prosetín-Čtyři Dvory)
+DESCRIPTION:📍 Čtyři Dvory\, Prosetín\, Žďár nad Sázavou\n💬 Odstranění strom
+ u.\n\n🚒 přívěs motorová stříkačka (Prosetín-Čtyři Dvory)
 END:VEVENT
 BEGIN:VEVENT
 UID:415733061
@@ -1206,7 +1193,18 @@ SUMMARY:🛠️ strom - Křižánky
 LOCATION:Křižánky
 GEO:49.681630;16.071426
 URL:geo:49.681630,16.071426
-DESCRIPTION:📍 Moravské Křižánky\, Křižánky\, Žďár nad Sázavou\n\n🚒 DA (Křiž
- ánky)
+DESCRIPTION:📍 Moravské Křižánky\, Křižánky\, Žďár nad Sázavou\n💬 Odstranění
+  stromu.\n\n🚒 DA (Křižánky)
+END:VEVENT
+BEGIN:VEVENT
+UID:415738061
+DTSTART:20260719T110258Z
+DTEND:20260719T120258Z
+DTSTAMP:20260719T110258Z
+SUMMARY:🛠️ strom - Křižánky
+LOCATION:Křižánky
+GEO:49.674908;16.082370
+URL:geo:49.674908,16.082370
+DESCRIPTION:📍 Křižánky\, Žďár nad Sázavou\n\n🚒 DA (Křižánky)
 END:VEVENT
 END:VCALENDAR
