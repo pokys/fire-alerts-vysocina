@@ -1182,7 +1182,8 @@ GEO:49.318715;15.328194
 URL:geo:49.318715,15.328194
 DESCRIPTION:📍 Březinova\, Horní Cerekev\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov
  )\n🚒 CAS (CHS Pelhřimov)\n🚒 AŽ (CHS Pelhřimov)\n🚒 DA (Horní Cerekev)\n🚒 CA
- S (Horní Cerekev)\n🚒 CAS (Batelov)\n🚒 CAS (Počátky) ×2
+ S (Horní Cerekev)\n🚒 CAS (Batelov)\n🚒 CAS (Počátky) ×2\n🚒 vyšetřovací auto
+ mobil (ÚO Pelhřimov)
 END:VEVENT
 BEGIN:VEVENT
 UID:415736061
@@ -1195,5 +1196,17 @@ GEO:49.570025;15.768666
 URL:geo:49.570025,15.768666
 DESCRIPTION:📍 Ronov nad Sázavou\, Přibyslav\, Havlíčkův Brod\n💬 Otevření by
  tu.\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (Přibyslav)
+END:VEVENT
+BEGIN:VEVENT
+UID:415737061
+DTSTART:20260719T103646Z
+DTEND:20260719T113646Z
+DTSTAMP:20260719T103646Z
+SUMMARY:🛠️ strom - Křižánky
+LOCATION:Křižánky
+GEO:49.681630;16.071426
+URL:geo:49.681630,16.071426
+DESCRIPTION:📍 Moravské Křižánky\, Křižánky\, Žďár nad Sázavou\n\n🚒 DA (Křiž
+ ánky)
 END:VEVENT
 END:VCALENDAR
