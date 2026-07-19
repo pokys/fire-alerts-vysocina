@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:415567061
-DTSTART:20260717T043010Z
-DTEND:20260717T053010Z
-DTSTAMP:20260717T043010Z
-SUMMARY:🚑 transport pacienta - Bystřice nad Pernštejnem
-LOCATION:Černý vršek\, Bystřice nad Pernštejnem
-GEO:49.528519;16.245194
-URL:geo:49.528519,16.245194
-DESCRIPTION:📍 Černý vršek\, Bystřice nad Pernštejnem\, Žďár nad Sázavou\n💬 
- Transport pacienta na žádost ZZS.\n\n🚒 CAS (HS Bystřice nad Pernštejnem)
-END:VEVENT
-BEGIN:VEVENT
 UID:415569061
 DTSTART:20260717T045334Z
 DTEND:20260717T055334Z
