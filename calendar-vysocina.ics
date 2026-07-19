@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:415574061
-DTSTART:20260717T070512Z
-DTEND:20260717T080512Z
-DTSTAMP:20260717T070512Z
-SUMMARY:🚑 záchrana ze stromu - Pelhřimov
-LOCATION:Vnitřní\, Pelhřimov
-GEO:49.428591;15.222806
-URL:geo:49.428591,15.222806
-DESCRIPTION:📍 Vnitřní\, Pelhřimov\n💬 Sundání kočky ze střechy bytového domu
- .\n\n🚒 CAS (CHS Pelhřimov)\n🚒 AŽ (CHS Pelhřimov)
-END:VEVENT
-BEGIN:VEVENT
 UID:415576061
 DTSTART:20260717T073248Z
 DTEND:20260717T083248Z
@@ -1207,6 +1195,7 @@ SUMMARY:🛠️ strom - Pelhřimov
 LOCATION:U Agrostroje\, Pelhřimov
 GEO:49.421789;15.222655
 URL:geo:49.421789,15.222655
-DESCRIPTION:📍 U Agrostroje\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)
+DESCRIPTION:📍 U Agrostroje\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)\n🚒 pila řet
+ ězová (CHS Pelhřimov)
 END:VEVENT
 END:VCALENDAR
