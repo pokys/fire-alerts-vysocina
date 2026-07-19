@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:415588061
-DTSTART:20260717T103109Z
-DTEND:20260717T113109Z
-DTSTAMP:20260717T103109Z
-SUMMARY:🚑 spolupráce ZZS - Unčín
-LOCATION:Unčín
-GEO:49.610557;16.243200
-URL:geo:49.610557,16.243200
-DESCRIPTION:📍 Unčín\, Žďár nad Sázavou\n💬 Spolupráce se ZZS.\n\n🚒 CAS (HS B
- ystřice nad Pernštejnem)\n🚒 DA (Jimramov)\n🚒 CAS (Jimramov)
-END:VEVENT
-BEGIN:VEVENT
 UID:415591061
 DTSTART:20260717T110407Z
 DTEND:20260717T120407Z
@@ -1168,7 +1156,8 @@ SUMMARY:🛠️ strom - Švábov
 LOCATION:Švábov
 GEO:49.311235;15.349642
 URL:geo:49.311235,15.349642
-DESCRIPTION:📍 Švábov\, Jihlava\n\n🚒 přívěs motorová stříkačka (Švábov)
+DESCRIPTION:📍 Švábov\, Jihlava\n💬 Odstranění stromu.\n\n🚒 přívěs motorová s
+ tříkačka (Švábov)
 END:VEVENT
 BEGIN:VEVENT
 UID:415732061
@@ -1181,5 +1170,30 @@ GEO:49.492690;16.379884
 URL:geo:49.492690,16.379884
 DESCRIPTION:📍 Čtyři Dvory\, Prosetín\, Žďár nad Sázavou\n\n🚒 přívěs motorov
  á stříkačka (Prosetín-Čtyři Dvory)
+END:VEVENT
+BEGIN:VEVENT
+UID:415733061
+DTSTART:20260719T101407Z
+DTEND:20260719T111407Z
+DTSTAMP:20260719T101407Z
+SUMMARY:🔥 budova - Horní Cerekev
+LOCATION:Březinova\, Horní Cerekev
+GEO:49.318715;15.328194
+URL:geo:49.318715,15.328194
+DESCRIPTION:📍 Březinova\, Horní Cerekev\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov
+ )\n🚒 CAS (CHS Pelhřimov)\n🚒 AŽ (CHS Pelhřimov)\n🚒 DA (Horní Cerekev)\n🚒 CA
+ S (Horní Cerekev)\n🚒 CAS (Batelov)\n🚒 CAS (Počátky) ×2
+END:VEVENT
+BEGIN:VEVENT
+UID:415736061
+DTSTART:20260719T102944Z
+DTEND:20260719T112944Z
+DTSTAMP:20260719T102944Z
+SUMMARY:🛠️ otevření bytu/auta - Přibyslav
+LOCATION:Přibyslav
+GEO:49.570025;15.768666
+URL:geo:49.570025,15.768666
+DESCRIPTION:📍 Ronov nad Sázavou\, Přibyslav\, Havlíčkův Brod\n💬 Otevření by
+ tu.\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (Přibyslav)
 END:VEVENT
 END:VCALENDAR
