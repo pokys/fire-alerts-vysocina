@@ -1169,7 +1169,8 @@ SUMMARY:🛠️ obtížný hmyz - Strážek
 LOCATION:Strážek
 GEO:49.437614;16.174057
 URL:geo:49.437614,16.174057
-DESCRIPTION:📍 Jemnice\, Strážek\, Žďár nad Sázavou\n\n🚒 CAS (Bobrová)
+DESCRIPTION:📍 Jemnice\, Strážek\, Žďár nad Sázavou\n💬 Odstranění obtížného 
+ hmyzu.\n\n🚒 CAS (Bobrová)
 END:VEVENT
 BEGIN:VEVENT
 UID:415731061
@@ -1178,8 +1179,20 @@ DTEND:20260719T105228Z
 DTSTAMP:20260719T095228Z
 SUMMARY:🛠️ strom - Švábov
 LOCATION:Švábov
-GEO:49.308422;15.357027
-URL:geo:49.308422,15.357027
+GEO:49.311235;15.349642
+URL:geo:49.311235,15.349642
 DESCRIPTION:📍 Švábov\, Jihlava\n\n🚒 přívěs motorová stříkačka (Švábov)
+END:VEVENT
+BEGIN:VEVENT
+UID:415732061
+DTSTART:20260719T095629Z
+DTEND:20260719T105629Z
+DTSTAMP:20260719T095629Z
+SUMMARY:🛠️ strom - Prosetín
+LOCATION:Prosetín
+GEO:49.492690;16.379884
+URL:geo:49.492690,16.379884
+DESCRIPTION:📍 Čtyři Dvory\, Prosetín\, Žďár nad Sázavou\n\n🚒 přívěs motorov
+ á stříkačka (Prosetín-Čtyři Dvory)
 END:VEVENT
 END:VCALENDAR
