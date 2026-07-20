@@ -971,7 +971,8 @@ SUMMARY:🛠️ obtížný hmyz - Jihlava
 LOCATION:Královský vršek\, Jihlava
 GEO:49.407925;15.586386
 URL:geo:49.407925,15.586386
-DESCRIPTION:📍 Královský vršek\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+DESCRIPTION:📍 Královský vršek\, Jihlava\n💬 Odstranění obtížného hmyzu.\n\n🚒
+  CAS (CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:415826061
@@ -982,6 +983,19 @@ SUMMARY:🚗 úklid místa - Nový Rychnov
 LOCATION:Nový Rychnov
 GEO:49.384002;15.362928
 URL:geo:49.384002,15.362928
-DESCRIPTION:📍 Nový Rychnov\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)
+DESCRIPTION:📍 Nový Rychnov\, Pelhřimov\n💬 DN OA. Bez zranění. Pomoc s překl
+ ádkou nákladu.\n\n🚒 CAS (CHS Pelhřimov)
+END:VEVENT
+BEGIN:VEVENT
+UID:415827061
+DTSTART:20260720T140332Z
+DTEND:20260720T150332Z
+DTSTAMP:20260720T140332Z
+SUMMARY:🛠️ obtížný hmyz - Pacov
+LOCATION:Jetřichovská\, Pacov
+GEO:49.482100;14.990458
+URL:geo:49.482100,14.990458
+DESCRIPTION:📍 Jetřichovská\, Pacov\, Pelhřimov\n💬 Odstranění obtížného hmyz
+ u.\n\n🚒 CAS (HS Pacov)
 END:VEVENT
 END:VCALENDAR
