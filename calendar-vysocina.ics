@@ -5,17 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:415706061
-DTSTART:20260718T162027Z
-DTEND:20260718T172027Z
-DTSTAMP:20260718T162027Z
-SUMMARY:🛠️ ostatní - Cidlina
-LOCATION:Cidlina
-GEO:49.128193;15.735535
-URL:geo:49.128193,15.735535
-DESCRIPTION:📍 Cidlina\, Třebíč\n💬 ZOČ\n\n🚒 CAS (Cidlina)
-END:VEVENT
-BEGIN:VEVENT
 UID:415708061
 DTSTART:20260718T173045Z
 DTEND:20260718T183045Z
@@ -956,7 +945,8 @@ SUMMARY:🚑 záchrana zvířete - Herálec
 LOCATION:Herálec
 GEO:49.698320;15.958643
 URL:geo:49.698320,15.958643
-DESCRIPTION:📍 Český Herálec\, Herálec\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár
-  nad Sázavou)\n🚒 CAS (Herálec (ZR))\n🚒 CAS (Svratka)
+DESCRIPTION:📍 Český Herálec\, Herálec\, Žďár nad Sázavou\n💬 Transport pacie
+ nta na žádost ZZS.\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 DA (Herálec (ZR))\n🚒
+  CAS (Herálec (ZR))\n🚒 CAS (Svratka)
 END:VEVENT
 END:VCALENDAR
