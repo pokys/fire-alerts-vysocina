@@ -1021,4 +1021,40 @@ URL:geo:49.047240,15.750112
 DESCRIPTION:📍 Husova\, Moravské Budějovice\, Třebíč\n💬 Odstranění obtížného
   hmyzu.\n\n🚒 DA (Moravské Budějovice)
 END:VEVENT
+BEGIN:VEVENT
+UID:415841061
+DTSTART:20260720T170156Z
+DTEND:20260720T180156Z
+DTSTAMP:20260720T170156Z
+SUMMARY:🛠️ obtížný hmyz - Kamenice nad Lipou
+LOCATION:Táborská\, Kamenice nad Lipou
+GEO:49.301304;15.071882
+URL:geo:49.301304,15.071882
+DESCRIPTION:📍 Táborská\, Kamenice nad Lipou\, Pelhřimov\n💬 Odstranění obtíž
+ ného hmyzu.\n\n🚒 CAS (Kamenice nad Lipou)
+END:VEVENT
+BEGIN:VEVENT
+UID:415842061
+DTSTART:20260720T170442Z
+DTEND:20260720T180442Z
+DTSTAMP:20260720T170442Z
+SUMMARY:🛠️ obtížný hmyz - Lípa
+LOCATION:Lípa
+GEO:49.530177;15.508998
+URL:geo:49.530177,15.508998
+DESCRIPTION:📍 Chválkov\, Lípa\, Havlíčkův Brod\n💬 Odstranění obtížného hmyz
+ u.\n\n🚒 CAS (CHS Havlíčkův Brod)
+END:VEVENT
+BEGIN:VEVENT
+UID:415843061
+DTSTART:20260720T170522Z
+DTEND:20260720T180522Z
+DTSTAMP:20260720T170522Z
+SUMMARY:🛠️ obtížný hmyz - Stařeč
+LOCATION:Perk\, Stařeč
+GEO:49.196549;15.825768
+URL:geo:49.196549,15.825768
+DESCRIPTION:📍 Perk\, Stařeč\, Třebíč\n💬 Odstranění obtížného hmyzu.\n\n🚒 DA
+  (Stařeč)
+END:VEVENT
 END:VCALENDAR
