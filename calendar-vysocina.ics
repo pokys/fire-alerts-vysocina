@@ -923,7 +923,8 @@ GEO:49.685543;16.093149
 URL:geo:49.685543,16.093149
 DESCRIPTION:📍 Křižánky\, Žďár nad Sázavou\n💬 Pomoc ZZS s transportem zraněn
  é osoby.\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 VEA (CHS Žďár nad Sázavou)\n🚒 
- DA (Sněžné)\n🚒 CAS (Svratka)\n🚒 DA (HS Chotěboř)\n🚒 DA (ÚO Havlíčkův Brod)
+ DA (Sněžné) ×2\n🚒 CAS (Svratka)\n🚒 DA (HS Chotěboř)\n🚒 DA (ÚO Havlíčkův Br
+ od)
 END:VEVENT
 BEGIN:VEVENT
 UID:415838061
@@ -1054,5 +1055,28 @@ GEO:49.290549;16.221631
 URL:geo:49.290549,16.221631
 DESCRIPTION:📍 Zahradní\, Velká Bíteš\, Žďár nad Sázavou\n💬 Odstranění obtíž
  ného hmyzu.\n\n🚒 CAS (HS Velká Bíteš)
+END:VEVENT
+BEGIN:VEVENT
+UID:415851061
+DTSTART:20260720T185408Z
+DTEND:20260720T195408Z
+DTSTAMP:20260720T185408Z
+SUMMARY:🛠️ strom - Havlíčkův Brod
+LOCATION:Havlíčkův Brod
+GEO:49.603971;15.582389
+URL:geo:49.603971,15.582389
+DESCRIPTION:💬 Odstranění stromu.\n\n🚒 CAS (CHS Havlíčkův Brod)
+END:VEVENT
+BEGIN:VEVENT
+UID:415852061
+DTSTART:20260720T190747Z
+DTEND:20260720T200747Z
+DTSTAMP:20260720T190747Z
+SUMMARY:🚗 dopravní nehoda - Štoky
+LOCATION:Štoky
+GEO:49.505425;15.583780
+URL:geo:49.505425,15.583780
+DESCRIPTION:📍 Štoky\, Havlíčkův Brod\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jih
+ lava)
 END:VEVENT
 END:VCALENDAR
