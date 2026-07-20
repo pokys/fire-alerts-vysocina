@@ -167,11 +167,11 @@ UID:415788061
 DTSTART:20260720T062614Z
 DTEND:20260720T072614Z
 DTSTAMP:20260720T062614Z
-SUMMARY:🛠️ ostatní - Dubovice
+SUMMARY:🛠️ dovoz vody - Dubovice
 LOCATION:Dubovice
 GEO:49.434221;15.177861
 URL:geo:49.434221,15.177861
-DESCRIPTION:📍 Dubovice\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)
+DESCRIPTION:📍 Dubovice\, Pelhřimov\n💬 Dovoz vody.\n\n🚒 CAS (CHS Pelhřimov)
 END:VEVENT
 BEGIN:VEVENT
 UID:415796061
@@ -194,7 +194,8 @@ SUMMARY:🔥 technologie - Pelhřimov
 LOCATION:K Silu\, Pelhřimov
 GEO:49.406113;15.223477
 URL:geo:49.406113,15.223477
-DESCRIPTION:📍 K Silu\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (CHS Pelhř
+DESCRIPTION:📍 K Silu\, Pelhřimov\n💬 Požár odsávání\, bez zranění. Provedena
+  lokalizace a likvidace požáru.\n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (CHS Pelhř
  imov)\n🚒 DA (Rynárec)\n🚒 CAS (Rynárec)\n🚒 CAS (Olešná (PE))\n🚒 vyšetřovací
   automobil (ÚO Pelhřimov)
 END:VEVENT
