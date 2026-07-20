@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:415683061
-DTSTART:20260718T085130Z
-DTEND:20260718T095130Z
-DTSTAMP:20260718T085130Z
-SUMMARY:🛠️ strom - Jámy
-LOCATION:Jámy
-GEO:49.547185;15.979461
-URL:geo:49.547185,15.979461
-DESCRIPTION:📍 Jámy\, Žďár nad Sázavou\n💬 Odstranění stromu.\n\n🚒 CAS (CHS Ž
- ďár nad Sázavou)\n🚒 automobilová plošina nad 30 m (CHS Žďár nad Sázavou)\n
- 🚒 pila řetězová (CHS Žďár nad Sázavou)
-END:VEVENT
-BEGIN:VEVENT
 UID:415684061
 DTSTART:20260718T102739Z
 DTEND:20260718T112739Z
@@ -961,7 +948,30 @@ LOCATION:K Silu\, Pelhřimov
 GEO:49.406113;15.223477
 URL:geo:49.406113,15.223477
 DESCRIPTION:📍 K Silu\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (CHS Pelhř
- imov)\n🚒 CAS (Rynárec)\n🚒 CAS (Olešná (PE))\n🚒 vyšetřovací automobil (ÚO P
- elhřimov)
+ imov)\n🚒 DA (Rynárec)\n🚒 CAS (Rynárec)\n🚒 CAS (Olešná (PE))\n🚒 vyšetřovací
+  automobil (ÚO Pelhřimov)
+END:VEVENT
+BEGIN:VEVENT
+UID:415801061
+DTSTART:20260720T084515Z
+DTEND:20260720T094515Z
+DTSTAMP:20260720T084515Z
+SUMMARY:🛠️ otevření bytu/auta - Bystřice nad Pernštejnem
+LOCATION:Luční\, Bystřice nad Pernštejnem
+GEO:49.523404;16.254144
+URL:geo:49.523404,16.254144
+DESCRIPTION:📍 Luční\, Bystřice nad Pernštejnem\, Žďár nad Sázavou\n\n🚒 CAS 
+ (HS Bystřice nad Pernštejnem)
+END:VEVENT
+BEGIN:VEVENT
+UID:415803061
+DTSTART:20260720T085052Z
+DTEND:20260720T095052Z
+DTSTAMP:20260720T085052Z
+SUMMARY:🛠️ otevření bytu/auta - Třebíč
+LOCATION:Vrchlického\, Třebíč
+GEO:49.205573;15.850213
+URL:geo:49.205573,15.850213
+DESCRIPTION:📍 Vrchlického\, Borovina\, Třebíč\n\n🚒 CAS (CHS Třebíč)
 END:VEVENT
 END:VCALENDAR
