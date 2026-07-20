@@ -5,30 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:415668061
-DTSTART:20260718T000339Z
-DTEND:20260718T010339Z
-DTSTAMP:20260718T000339Z
-SUMMARY:🚑 spolupráce ZZS - Sněžné
-LOCATION:Sněžné
-GEO:49.643868;16.119807
-URL:geo:49.643868,16.119807
-DESCRIPTION:📍 Sněžné\, Žďár nad Sázavou\n💬 Pomoc ZZS s resuscitací.\n\n🚒 CA
- S (CHS Žďár nad Sázavou)\n🚒 DA (Sněžné)
-END:VEVENT
-BEGIN:VEVENT
-UID:415670061
-DTSTART:20260718T003008Z
-DTEND:20260718T013008Z
-DTSTAMP:20260718T003008Z
-SUMMARY:🔥 venkovní požár - Pelhřimov
-LOCATION:Pražská\, Pelhřimov
-GEO:49.436318;15.213660
-URL:geo:49.436318,15.213660
-DESCRIPTION:📍 Pražská\, Pelhřimov\n💬 Požár gauče. Lokalizace a likvidace ud
- álosti.\n\n🚒 CAS (CHS Pelhřimov)\n🚒 vyšetřovací automobil (ÚO Pelhřimov)
-END:VEVENT
-BEGIN:VEVENT
 UID:415675061
 DTSTART:20260718T041858Z
 DTEND:20260718T051858Z
@@ -922,7 +898,8 @@ SUMMARY:🚗 úklid místa - Moravské Budějovice
 LOCATION:Moravské Budějovice
 GEO:49.032001;15.831361
 URL:geo:49.032001,15.831361
-DESCRIPTION:📍 Lažínky\, Moravské Budějovice\, Třebíč\n\n🚒 CAS (HS Moravské 
- Budějovice)
+DESCRIPTION:📍 Lažínky\, Moravské Budějovice\, Třebíč\n💬 Dopravní nehoda 1 o
+ sobního automobilu\, bez zranění. Protipožární opatření\, zajištění místa 
+ zásahu.\n\n🚒 CAS (HS Moravské Budějovice)
 END:VEVENT
 END:VCALENDAR
