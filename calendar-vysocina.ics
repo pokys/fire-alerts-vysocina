@@ -862,8 +862,8 @@ SUMMARY:⚠️ planý poplach - Třebíč
 LOCATION:Brněnská\, Třebíč
 GEO:49.216338;15.903766
 URL:geo:49.216338,15.903766
-DESCRIPTION:📍 Brněnská\, Jejkov\, Třebíč\n💬 Planý poplach.\n\n🚒 CAS (CHS Tř
- ebíč)
+DESCRIPTION:📍 Brněnská\, Jejkov\, Třebíč\n💬 Planý poplach\, nenahlášené pál
+ ení.\n\n🚒 CAS (CHS Třebíč)
 END:VEVENT
 BEGIN:VEVENT
 UID:415776061
@@ -912,5 +912,16 @@ LOCATION:Nerudova\, Třešť
 GEO:49.290146;15.480859
 URL:geo:49.290146,15.480859
 DESCRIPTION:📍 Nerudova\, Třešť\, Jihlava\n\n🚒 CAS (HS Třešť)
+END:VEVENT
+BEGIN:VEVENT
+UID:415782061
+DTSTART:20260720T035315Z
+DTEND:20260720T045315Z
+DTSTAMP:20260720T035315Z
+SUMMARY:🛠️ otevření bytu/auta - Vatín
+LOCATION:Vatín
+GEO:49.526695;15.966775
+URL:geo:49.526695,15.966775
+DESCRIPTION:📍 Vatín\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad Sázavou)
 END:VEVENT
 END:VCALENDAR
