@@ -5,31 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:415709061
-DTSTART:20260718T175350Z
-DTEND:20260718T185350Z
-DTSTAMP:20260718T175350Z
-SUMMARY:🚗 dopravní nehoda - Jihlava
-LOCATION:Jihlava
-GEO:49.399325;15.617846
-URL:geo:49.399325,15.617846
-DESCRIPTION:💬 DN motocyklu\, 1 zraněná osoba. Provedeno zajištění místa neh
- ody.\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihlava)
-END:VEVENT
-BEGIN:VEVENT
-UID:415710061
-DTSTART:20260718T175818Z
-DTEND:20260718T185818Z
-DTSTAMP:20260718T175818Z
-SUMMARY:🚗 úklid místa - Velký Beranov
-LOCATION:Velký Beranov
-GEO:49.410446;15.670680
-URL:geo:49.410446,15.670680
-DESCRIPTION:📍 Velký Beranov\, Jihlava\n💬 DN motocyklu\, 1 zraněná osoba. Pr
- ovedeno zasypání úniku oleje a zajištění místa nehody.\n\n🚒 CAS (CHS Jihla
- va)\n🚒 RZA (CHS Jihlava)
-END:VEVENT
-BEGIN:VEVENT
 UID:415711061
 DTSTART:20260718T180602Z
 DTEND:20260718T190602Z
@@ -973,7 +948,7 @@ GEO:49.685543;16.093149
 URL:geo:49.685543,16.093149
 DESCRIPTION:📍 Křižánky\, Žďár nad Sázavou\n💬 Pomoc ZZS s transportem zraněn
  é osoby.\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 VEA (CHS Žďár nad Sázavou)\n🚒 
- DA (Sněžné)\n🚒 CAS (Svratka)
+ DA (Sněžné)\n🚒 CAS (Svratka)\n🚒 DA (HS Chotěboř)\n🚒 DA (ÚO Havlíčkův Brod)
 END:VEVENT
 BEGIN:VEVENT
 UID:415838061
@@ -1055,6 +1030,30 @@ SUMMARY:🛠️ obtížný hmyz - Trnava
 LOCATION:Trnava
 GEO:49.251764;15.930821
 URL:geo:49.251764,15.930821
-DESCRIPTION:📍 Trnava\, Třebíč\n\n🚒 CAS (CHS Třebíč)
+DESCRIPTION:📍 Trnava\, Třebíč\n💬 Odstranění obtížného hmyzu.\n\n🚒 CAS (CHS 
+ Třebíč)
+END:VEVENT
+BEGIN:VEVENT
+UID:415846061
+DTSTART:20260720T174029Z
+DTEND:20260720T184029Z
+DTSTAMP:20260720T174029Z
+SUMMARY:🛠️ obtížný hmyz - Třebíč
+LOCATION:Třebíč
+GEO:49.212892;15.862533
+URL:geo:49.212892,15.862533
+DESCRIPTION:📍 Podklášteří\, Třebíč\n\n🚒 CAS (CHS Třebíč)
+END:VEVENT
+BEGIN:VEVENT
+UID:415848061
+DTSTART:20260720T174931Z
+DTEND:20260720T184931Z
+DTSTAMP:20260720T174931Z
+SUMMARY:🚑 otevření/asistence - Svratka
+LOCATION:Libušina\, Svratka
+GEO:49.711029;16.037123
+URL:geo:49.711029,16.037123
+DESCRIPTION:📍 Libušina\, Svratka\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad 
+ Sázavou)
 END:VEVENT
 END:VCALENDAR
