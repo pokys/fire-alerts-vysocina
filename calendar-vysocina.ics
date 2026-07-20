@@ -899,7 +899,8 @@ SUMMARY:🚑 otevření/asistence - Třešť
 LOCATION:Nerudova\, Třešť
 GEO:49.290146;15.480859
 URL:geo:49.290146,15.480859
-DESCRIPTION:📍 Nerudova\, Třešť\, Jihlava\n\n🚒 CAS (HS Třešť)
+DESCRIPTION:📍 Nerudova\, Třešť\, Jihlava\n💬 Otevření bytu\, uvnitř zraněná 
+ osoba.\n\n🚒 CAS (HS Třešť)
 END:VEVENT
 BEGIN:VEVENT
 UID:415782061
@@ -910,6 +911,7 @@ SUMMARY:🛠️ otevření bytu/auta - Vatín
 LOCATION:Vatín
 GEO:49.526695;15.966775
 URL:geo:49.526695,15.966775
-DESCRIPTION:📍 Vatín\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad Sázavou)
+DESCRIPTION:📍 Vatín\, Žďár nad Sázavou\n💬 Otevření rodinného domu.\n\n🚒 CAS
+  (CHS Žďár nad Sázavou)
 END:VEVENT
 END:VCALENDAR
