@@ -949,4 +949,40 @@ DESCRIPTION:📍 Český Herálec\, Herálec\, Žďár nad Sázavou\n💬 Transp
  nta na žádost ZZS.\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 DA (Herálec (ZR))\n🚒
   CAS (Herálec (ZR))\n🚒 CAS (Svratka)
 END:VEVENT
+BEGIN:VEVENT
+UID:415835061
+DTSTART:20260720T161955Z
+DTEND:20260720T171955Z
+DTSTAMP:20260720T161955Z
+SUMMARY:🛠️ obtížný hmyz - Borovnice
+LOCATION:Borovnice
+GEO:49.668664;16.201266
+URL:geo:49.668664,16.201266
+DESCRIPTION:📍 Borovnice\, Žďár nad Sázavou\n💬 Odstranění obtížného hmyzu.\n
+ \n🚒 DA (Borovnice)
+END:VEVENT
+BEGIN:VEVENT
+UID:415836061
+DTSTART:20260720T162604Z
+DTEND:20260720T172604Z
+DTSTAMP:20260720T162604Z
+SUMMARY:🔥 Střítež
+LOCATION:Spojovací\, Střítež
+GEO:49.201838;15.890090
+URL:geo:49.201838,15.890090
+DESCRIPTION:📍 Spojovací\, Střítež\, Třebíč\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (CH
+ S Třebíč)
+END:VEVENT
+BEGIN:VEVENT
+UID:415837061
+DTSTART:20260720T162855Z
+DTEND:20260720T172855Z
+DTSTAMP:20260720T162855Z
+SUMMARY:🚑 záchrana zvířete - Křižánky
+LOCATION:Křižánky
+GEO:49.685543;16.093149
+URL:geo:49.685543,16.093149
+DESCRIPTION:📍 Křižánky\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad Sázavou)\n
+ 🚒 VEA (CHS Žďár nad Sázavou)\n🚒 DA (Sněžné)\n🚒 CAS (Svratka)
+END:VEVENT
 END:VCALENDAR
