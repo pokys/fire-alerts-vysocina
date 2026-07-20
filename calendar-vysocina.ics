@@ -1018,7 +1018,8 @@ SUMMARY:🛠️ obtížný hmyz - Jihlava
 LOCATION:Vrchlického\, Jihlava
 GEO:49.399357;15.571606
 URL:geo:49.399357,15.571606
-DESCRIPTION:📍 Vrchlického\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+DESCRIPTION:📍 Vrchlického\, Jihlava\n💬 Odstranění obtížného hmyzu.\n\n🚒 CAS
+  (CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:415846061
@@ -1077,7 +1078,7 @@ SUMMARY:🚗 dopravní nehoda - Štoky
 LOCATION:Štoky
 GEO:49.505425;15.583780
 URL:geo:49.505425,15.583780
-DESCRIPTION:📍 Štoky\, Havlíčkův Brod\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jih
- lava)
+DESCRIPTION:📍 Štoky\, Havlíčkův Brod\n💬 Dopravní nehoda 1 OA\, dvě zraněné 
+ osoby. Zajištění místa nehody.\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihlava)
 END:VEVENT
 END:VCALENDAR
