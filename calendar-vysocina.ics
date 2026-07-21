@@ -135,7 +135,8 @@ SUMMARY:🛠️ ostatní - Chyšná
 LOCATION:Chyšná
 GEO:49.586365;15.099925
 URL:geo:49.586365,15.099925
-DESCRIPTION:📍 Chyšná\, Pelhřimov\n💬 Proplach kanalizace.
+DESCRIPTION:📍 Chyšná\, Pelhřimov\n💬 Proplach kanalizace.\n\n🚒 CAS (Košetice
+ )\n🚒 CAS (Košetice)
 END:VEVENT
 BEGIN:VEVENT
 UID:415798061
@@ -367,7 +368,8 @@ SUMMARY:🛠️ obtížný hmyz - Luka nad Jihlavou
 LOCATION:Luka nad Jihlavou
 GEO:49.360650;15.700170
 URL:geo:49.360650,15.700170
-DESCRIPTION:📍 Luka nad Jihlavou\, Jihlava\n💬 Odstranění obtížného hmyzu.
+DESCRIPTION:📍 Luka nad Jihlavou\, Jihlava\n💬 Odstranění obtížného hmyzu.\n\
+ n🚒 CAS (CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:415840061
@@ -596,7 +598,7 @@ SUMMARY:🛠️ obtížný hmyz - Jihlava
 LOCATION:Jihlava
 GEO:49.433628;15.586432
 URL:geo:49.433628,15.586432
-DESCRIPTION:💬 Odstranění obtížného hmyzu.
+DESCRIPTION:💬 Odstranění obtížného hmyzu.\n\n🚒 CAS (CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:415874061
@@ -804,7 +806,8 @@ SUMMARY:🛠️ obtížný hmyz - Polnička
 LOCATION:Polnička
 GEO:49.604625;15.912060
 URL:geo:49.604625,15.912060
-DESCRIPTION:📍 Polnička\, Žďár nad Sázavou\n💬 Odstranění obtížného hmyzu.
+DESCRIPTION:📍 Polnička\, Žďár nad Sázavou\n💬 Odstranění obtížného hmyzu.\n\
+ n🚒 CAS (Polnička)
 END:VEVENT
 BEGIN:VEVENT
 UID:415897061
