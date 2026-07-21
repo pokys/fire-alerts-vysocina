@@ -890,8 +890,9 @@ SUMMARY:🔥 vozidlo - Hořice
 LOCATION:Hořice
 GEO:49.600820;15.189471
 URL:geo:49.600820,15.189471
-DESCRIPTION:📍 Hořice\, Pelhřimov\n\n🚒 CAS (HS Ledeč nad Sázavou)\n🚒 CAS (HS
-  Humpolec)\n🚒 vyšetřovací automobil (ÚO Pelhřimov)
+DESCRIPTION:📍 Hořice\, Pelhřimov\n💬 Požár OA. Provedena lokalizace a likvid
+ ace požáru.\n\n🚒 CAS (HS Ledeč nad Sázavou)\n🚒 CAS (HS Humpolec)\n🚒 vyšetř
+ ovací automobil (ÚO Pelhřimov)
 END:VEVENT
 BEGIN:VEVENT
 UID:415889061
@@ -962,6 +963,7 @@ SUMMARY:🛠️ obtížný hmyz - Nový Rychnov
 LOCATION:Nový Rychnov
 GEO:49.400502;15.318752
 URL:geo:49.400502,15.318752
-DESCRIPTION:📍 Sázava\, Nový Rychnov\, Pelhřimov\n\n🚒 CAS (Nový Rychnov)
+DESCRIPTION:📍 Sázava\, Nový Rychnov\, Pelhřimov\n💬 Odstranění obtížného hmy
+ zu.\n\n🚒 CAS (Nový Rychnov)
 END:VEVENT
 END:VCALENDAR
