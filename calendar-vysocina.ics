@@ -1024,7 +1024,18 @@ SUMMARY:🛠️ strom - Štěpánov nad Svratkou
 LOCATION:Štěpánov nad Svratkou
 GEO:49.492327;16.373862
 URL:geo:49.492327,16.373862
-DESCRIPTION:📍 Štěpánov nad Svratkou\, Žďár nad Sázavou\n\n🚒 DA (Štěpánov na
- d Svratkou)\n🚒 CAS (Štěpánov nad Svratkou)
+DESCRIPTION:📍 Štěpánov nad Svratkou\, Žďár nad Sázavou\n💬 Odstranění stromu
+ .\n\n🚒 DA (Štěpánov nad Svratkou)\n🚒 CAS (Štěpánov nad Svratkou)
+END:VEVENT
+BEGIN:VEVENT
+UID:415880061
+DTSTART:20260721T115242Z
+DTEND:20260721T125242Z
+DTSTAMP:20260721T115242Z
+SUMMARY:🚗 úklid místa - Jemnice
+LOCATION:V Ráji\, Jemnice
+GEO:49.014578;15.573273
+URL:geo:49.014578,15.573273
+DESCRIPTION:📍 V Ráji\, Jemnice\, Třebíč\n\n🚒 CAS (HS Jemnice)
 END:VEVENT
 END:VCALENDAR
