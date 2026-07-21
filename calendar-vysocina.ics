@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:415778061
-DTSTART:20260719T220423Z
-DTEND:20260719T230423Z
-DTSTAMP:20260719T220423Z
-SUMMARY:🚗 úklid místa - Moravské Budějovice
-LOCATION:Moravské Budějovice
-GEO:49.032001;15.831361
-URL:geo:49.032001,15.831361
-DESCRIPTION:📍 Lažínky\, Moravské Budějovice\, Třebíč\n💬 Dopravní nehoda 1 o
- sobního automobilu\, bez zranění. Protipožární opatření\, zajištění místa 
- zásahu.\n\n🚒 CAS (HS Moravské Budějovice)
-END:VEVENT
-BEGIN:VEVENT
 UID:415779061
 DTSTART:20260720T033344Z
 DTEND:20260720T043344Z
