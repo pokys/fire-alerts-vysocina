@@ -5,42 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:415749061
-DTSTART:20260719T130335Z
-DTEND:20260719T140335Z
-DTSTAMP:20260719T130335Z
-SUMMARY:🛠️ strom - Přibyslav
-LOCATION:Přibyslav
-GEO:49.549959;15.745624
-URL:geo:49.549959,15.745624
-DESCRIPTION:📍 Česká Jablonná\, Přibyslav\, Havlíčkův Brod\n💬 Odstranění str
- omu.\n\n🚒 CAS (Přibyslav)
-END:VEVENT
-BEGIN:VEVENT
-UID:415750061
-DTSTART:20260719T131331Z
-DTEND:20260719T141331Z
-DTSTAMP:20260719T131331Z
-SUMMARY:🛠️ strom - Blatnice
-LOCATION:Blatnice
-GEO:49.062200;15.884396
-URL:geo:49.062200,15.884396
-DESCRIPTION:📍 Blatnice\, Třebíč\n💬 Odstranění stromu.\n\n🚒 CAS (Jaroměřice 
- nad Rokytnou)
-END:VEVENT
-BEGIN:VEVENT
-UID:415751061
-DTSTART:20260719T131549Z
-DTEND:20260719T141549Z
-DTSTAMP:20260719T131549Z
-SUMMARY:🛠️ otevření bytu/auta - Třebíč
-LOCATION:Jindřichova\, Třebíč
-GEO:49.226575;15.869564
-URL:geo:49.226575,15.869564
-DESCRIPTION:📍 Jindřichova\, Týn\, Třebíč\n💬 Otevření bytu.\n\n🚒 CAS (CHS Tř
- ebíč)
-END:VEVENT
-BEGIN:VEVENT
 UID:415752061
 DTSTART:20260719T131858Z
 DTEND:20260719T141858Z
@@ -963,7 +927,8 @@ LOCATION:Krahulov
 GEO:49.220288;15.811045
 URL:geo:49.220288,15.811045
 DESCRIPTION:📍 Krahulov\, Třebíč\n💬 Požár NA s únikem PHM. Likvidace úniku a
-  zajištění místa události.\n\n🚒 CAS (CHS Třebíč)
+  zajištění místa události.\n\n🚒 CAS (CHS Třebíč)\n🚒 vyšetřovací automobil 
+ (ÚO Třebíč)
 END:VEVENT
 BEGIN:VEVENT
 UID:415885061
@@ -974,7 +939,31 @@ SUMMARY:🚗 se zraněním - Humpolec
 LOCATION:Humpolec
 GEO:49.536390;15.333791
 URL:geo:49.536390,15.333791
-DESCRIPTION:📍 Humpolec\, Pelhřimov\n💬 DN OA a kamionu. Tři zraněné osoby.\n
- \n🚒 CAS (HS Humpolec)
+DESCRIPTION:📍 Humpolec\, Pelhřimov\n💬 DN OA a kamionu. Tři zraněné osoby. S
+ polupráce se složkami IZS. Zajištění místa nehody.\n\n🚒 CAS (HS Humpolec)
+END:VEVENT
+BEGIN:VEVENT
+UID:415886061
+DTSTART:20260721T124528Z
+DTEND:20260721T134528Z
+DTSTAMP:20260721T124528Z
+SUMMARY:🛠️ obtížný hmyz - Kněžice
+LOCATION:Kněžice
+GEO:49.270617;15.677357
+URL:geo:49.270617,15.677357
+DESCRIPTION:📍 Kněžice\, Jihlava\n💬 Odstranění obtížného hmyzu.\n\n🚒 DA (Kně
+ žice)\n🚒 CAS (Kněžice)
+END:VEVENT
+BEGIN:VEVENT
+UID:415887061
+DTSTART:20260721T130247Z
+DTEND:20260721T140247Z
+DTSTAMP:20260721T130247Z
+SUMMARY:🔥 vozidlo - Hořice
+LOCATION:Hořice
+GEO:49.600820;15.189471
+URL:geo:49.600820,15.189471
+DESCRIPTION:📍 Hořice\, Pelhřimov\n\n🚒 CAS (HS Ledeč nad Sázavou)\n🚒 CAS (HS
+  Humpolec)
 END:VEVENT
 END:VCALENDAR
