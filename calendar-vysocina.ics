@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:415846061
-DTSTART:20260720T174029Z
-DTEND:20260720T184029Z
-DTSTAMP:20260720T174029Z
-SUMMARY:🛠️ obtížný hmyz - Třebíč
-LOCATION:Třebíč
-GEO:49.212892;15.862533
-URL:geo:49.212892,15.862533
-DESCRIPTION:📍 Podklášteří\, Třebíč\n💬 Odstranění obtížného hmyzu.\n\n🚒 CAS 
- (CHS Třebíč)
-END:VEVENT
-BEGIN:VEVENT
 UID:415848061
 DTSTART:20260720T174931Z
 DTEND:20260720T184931Z
@@ -549,7 +537,7 @@ LOCATION:Palackého\, Jihlava
 GEO:49.397653;15.587193
 URL:geo:49.397653,15.587193
 DESCRIPTION:📍 Palackého\, Jihlava\n💬 Požár hlášený čidlem EPS na PCO - plan
- ý poiplach.\n\n🚒 CAS (CHS Jihlava) ×2\n🚒 CAS (CHS Jihlava) ×2
+ ý poiplach.\n\n🚒 CAS (CHS Jihlava) ×2
 END:VEVENT
 BEGIN:VEVENT
 UID:415920061
@@ -719,7 +707,7 @@ SUMMARY:🛠️ ostatní - Stařeč
 LOCATION:U Hřiště\, Stařeč
 GEO:49.200942;15.829284
 URL:geo:49.200942,15.829284
-DESCRIPTION:📍 U Hřiště\, Stařeč\, Třebíč\n\n🚒 CAS (Stařeč)
+DESCRIPTION:📍 U Hřiště\, Stařeč\, Třebíč\n💬 ZOČ.\n\n🚒 CAS (Stařeč)
 END:VEVENT
 BEGIN:VEVENT
 UID:415955061
@@ -731,5 +719,29 @@ LOCATION:Indusova\, Polná
 GEO:49.484666;15.722353
 URL:geo:49.484666,15.722353
 DESCRIPTION:📍 Indusova\, Polná\, Jihlava\n\n🚒 CAS (Polná)
+END:VEVENT
+BEGIN:VEVENT
+UID:415956061
+DTSTART:20260722T172259Z
+DTEND:20260722T182259Z
+DTSTAMP:20260722T172259Z
+SUMMARY:🛠️ obtížný hmyz - Fryšava pod Žákovou horou
+LOCATION:Fryšava pod Žákovou horou
+GEO:49.629749;16.047791
+URL:geo:49.629749,16.047791
+DESCRIPTION:📍 Fryšava pod Žákovou horou\, Žďár nad Sázavou\n\n🚒 automobilov
+ á stříkačka (Fryšava pod Žákovou horou)
+END:VEVENT
+BEGIN:VEVENT
+UID:415957061
+DTSTART:20260722T173053Z
+DTEND:20260722T183053Z
+DTSTAMP:20260722T173053Z
+SUMMARY:🛠️ obtížný hmyz - Velké Meziříčí
+LOCATION:Hornoměstská\, Velké Meziříčí
+GEO:49.355779;16.007957
+URL:geo:49.355779,16.007957
+DESCRIPTION:📍 Hornoměstská\, Velké Meziříčí\, Žďár nad Sázavou\n\n🚒 CAS (HS
+  Velké Meziříčí)
 END:VEVENT
 END:VCALENDAR
