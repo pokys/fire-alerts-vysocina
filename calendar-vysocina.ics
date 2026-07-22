@@ -767,9 +767,10 @@ SUMMARY:🔥 tráva/plocha - Věž
 LOCATION:Věž
 GEO:49.559397;15.471695
 URL:geo:49.559397,15.471695
-DESCRIPTION:📍 Věž\, Havlíčkův Brod\n💬 Požár pole a balíkovače.\n\n🚒 CAS (CH
- S Havlíčkův Brod)\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 CAS (HS Humpolec)\n🚒 CAS 
- (Herálec (HB))\n🚒 DA (Věž) ×2\n🚒 vyšetřovací automobil (ÚO Havlíčkův Brod)
+DESCRIPTION:📍 Věž\, Havlíčkův Brod\n💬 Požár pole a lisu na balíky.\n\n🚒 CAS
+  (CHS Havlíčkův Brod)\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 CAS (HS Humpolec)\n🚒 
+ CAS (Herálec (HB))\n🚒 DA (Věž) ×2\n🚒 vyšetřovací automobil (ÚO Havlíčkův B
+ rod)
 END:VEVENT
 BEGIN:VEVENT
 UID:415944061
@@ -815,7 +816,8 @@ SUMMARY:🛠️ obtížný hmyz - Jihlava
 LOCATION:Královský vršek\, Jihlava
 GEO:49.407907;15.586611
 URL:geo:49.407907,15.586611
-DESCRIPTION:📍 Královský vršek\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+DESCRIPTION:📍 Královský vršek\, Jihlava\n💬 Likvbidace nebezpečného hmyzu.\n
+ \n🚒 CAS (CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:415949061
@@ -837,7 +839,7 @@ SUMMARY:☣️ neznámá látka - Jihlava
 LOCATION:Jihlava
 GEO:49.409929;15.599186
 URL:geo:49.409929,15.599186
-DESCRIPTION:🚒 CAS (CHS Jihlava)
+DESCRIPTION:💬 Únik neznámé látky do řeky Jihlavy.\n\n🚒 CAS (CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:415952061
