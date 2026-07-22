@@ -906,4 +906,15 @@ DESCRIPTION:📍 Lažínky\, Moravské Budějovice\, Třebíč\n💬 DN OA a mot
  edna zraněná osoba. Zajištění místa nehody proti požáru a úniku provozních
   kapalin.\n\n🚒 CAS (HS Moravské Budějovice)
 END:VEVENT
+BEGIN:VEVENT
+UID:415912061
+DTSTART:20260722T045611Z
+DTEND:20260722T055611Z
+DTSTAMP:20260722T045611Z
+SUMMARY:🚗 dopravní nehoda - Humpolec
+LOCATION:Humpolec
+GEO:49.527576;15.308074
+URL:geo:49.527576,15.308074
+DESCRIPTION:📍 Humpolec\, Pelhřimov\n\n🚒 CAS (HS Humpolec)
+END:VEVENT
 END:VCALENDAR
