@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:415840061
-DTSTART:20260720T164854Z
-DTEND:20260720T174854Z
-DTSTAMP:20260720T164854Z
-SUMMARY:🛠️ obtížný hmyz - Moravské Budějovice
-LOCATION:Husova\, Moravské Budějovice
-GEO:49.047240;15.750112
-URL:geo:49.047240,15.750112
-DESCRIPTION:📍 Husova\, Moravské Budějovice\, Třebíč\n💬 Odstranění obtížného
-  hmyzu.\n\n🚒 DA (Moravské Budějovice)
-END:VEVENT
-BEGIN:VEVENT
 UID:415841061
 DTSTART:20260720T170156Z
 DTEND:20260720T180156Z
@@ -744,7 +732,8 @@ SUMMARY:🛠️ ostatní - Hrotovice
 LOCATION:Sokolská\, Hrotovice
 GEO:49.105585;16.062396
 URL:geo:49.105585,16.062396
-DESCRIPTION:📍 Sokolská\, Hrotovice\, Třebíč\n\n🚒 CAS (Hrotovice)
+DESCRIPTION:📍 Sokolská\, Hrotovice\, Třebíč\n💬 Oplach komunikace.\n\n🚒 CAS 
+ (Hrotovice)
 END:VEVENT
 BEGIN:VEVENT
 UID:415948061
@@ -770,17 +759,6 @@ URL:geo:49.481070,16.108059
 DESCRIPTION:📍 Bobrová\, Žďár nad Sázavou\n💬 Čerpání vody.\n\n🚒 DA (Bobrová)
 END:VEVENT
 BEGIN:VEVENT
-UID:415951061
-DTSTART:20260722T151532Z
-DTEND:20260722T161532Z
-DTSTAMP:20260722T151532Z
-SUMMARY:☣️ neznámá látka - Jihlava
-LOCATION:Jihlava
-GEO:49.409929;15.599186
-URL:geo:49.409929,15.599186
-DESCRIPTION:💬 Únik neznámé látky do řeky Jihlavy.\n\n🚒 CAS (CHS Jihlava)
-END:VEVENT
-BEGIN:VEVENT
 UID:415952061
 DTSTART:20260722T152754Z
 DTEND:20260722T162754Z
@@ -789,7 +767,8 @@ SUMMARY:🛠️ otevření bytu/auta - Lavičky
 LOCATION:Lavičky
 GEO:49.382603;15.975201
 URL:geo:49.382603,15.975201
-DESCRIPTION:📍 Lavičky\, Žďár nad Sázavou\n\n🚒 RZA (HS Velké Meziříčí)
+DESCRIPTION:📍 Lavičky\, Žďár nad Sázavou\n💬 Otevření bytu.\n\n🚒 RZA (HS Vel
+ ké Meziříčí)
 END:VEVENT
 BEGIN:VEVENT
 UID:415954061
