@@ -738,10 +738,23 @@ UID:415980061
 DTSTART:20260723T072744Z
 DTEND:20260723T082744Z
 DTSTAMP:20260723T072744Z
-SUMMARY:🚑 transport pacienta - Humpolec
+SUMMARY:🚑 spolupráce ZZS - Humpolec
 LOCATION:Panskodomská\, Humpolec
 GEO:49.543538;15.360045
 URL:geo:49.543538,15.360045
-DESCRIPTION:📍 Panskodomská\, Humpolec\, Pelhřimov\n\n🚒 CAS (HS Humpolec)
+DESCRIPTION:📍 Panskodomská\, Humpolec\, Pelhřimov\n💬 Pomoc s resuscitací.\n
+ \n🚒 CAS (HS Humpolec)
+END:VEVENT
+BEGIN:VEVENT
+UID:415983061
+DTSTART:20260723T075918Z
+DTEND:20260723T085918Z
+DTSTAMP:20260723T075918Z
+SUMMARY:🛠️ ostatní - Žďár nad Sázavou
+LOCATION:nám. Republiky\, Žďár nad Sázavou
+GEO:49.563154;15.941916
+URL:geo:49.563154,15.941916
+DESCRIPTION:📍 nám. Republiky\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n\n🚒 C
+ AS (Žďár nad Sázavou-Zámek)
 END:VEVENT
 END:VCALENDAR

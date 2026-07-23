@@ -132,10 +132,11 @@ UID:415980061
 DTSTART:20260723T072744Z
 DTEND:20260723T082744Z
 DTSTAMP:20260723T072744Z
-SUMMARY:🚑 transport pacienta - Humpolec
+SUMMARY:🚑 spolupráce ZZS - Humpolec
 LOCATION:Panskodomská\, Humpolec
 GEO:49.543538;15.360045
 URL:geo:49.543538,15.360045
-DESCRIPTION:📍 Panskodomská\, Humpolec\, Pelhřimov\n\n🚒 CAS (HS Humpolec)
+DESCRIPTION:📍 Panskodomská\, Humpolec\, Pelhřimov\n💬 Pomoc s resuscitací.\n
+ \n🚒 CAS (HS Humpolec)
 END:VEVENT
 END:VCALENDAR
