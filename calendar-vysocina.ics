@@ -707,8 +707,8 @@ SUMMARY:🛠️ obtížný hmyz - Kralice nad Oslavou
 LOCATION:Pod Horkama\, Kralice nad Oslavou
 GEO:49.198456;16.205802
 URL:geo:49.198456,16.205802
-DESCRIPTION:📍 Pod Horkama\, Kralice nad Oslavou\, Třebíč\n💬 Odstranění obtí
- žného hmyzu.\n\n🚒 CAS (HS Náměšť nad Oslavou)
+DESCRIPTION:📍 Pod Horkama\, Kralice nad Oslavou\, Třebíč\n💬 Likvidace nebez
+ pečného hmyzu.\n\n🚒 CAS (HS Náměšť nad Oslavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:415980061
@@ -731,8 +731,8 @@ SUMMARY:🛠️ ostatní - Žďár nad Sázavou
 LOCATION:nám. Republiky\, Žďár nad Sázavou
 GEO:49.563154;15.941916
 URL:geo:49.563154,15.941916
-DESCRIPTION:📍 nám. Republiky\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n\n🚒 C
- AS (Žďár nad Sázavou-Zámek)
+DESCRIPTION:📍 nám. Republiky\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n💬 Opl
+ ach komunikace.\n\n🚒 CAS (Žďár nad Sázavou-Zámek)
 END:VEVENT
 BEGIN:VEVENT
 UID:415984061
@@ -770,7 +770,8 @@ SUMMARY:🛠️ strom - Dyjice
 LOCATION:Dyjice
 GEO:49.192158;15.514920
 URL:geo:49.192158,15.514920
-DESCRIPTION:📍 Dyjice\, Jihlava\n\n🚒 CAS (HS Telč)
+DESCRIPTION:📍 Dyjice\, Jihlava\n💬 Odstranění stromu z vozovky.\n\n🚒 CAS (HS
+  Telč)
 END:VEVENT
 BEGIN:VEVENT
 UID:415990061
