@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:415896061
-DTSTART:20260721T150514Z
-DTEND:20260721T160514Z
-DTSTAMP:20260721T150514Z
-SUMMARY:🛠️ obtížný hmyz - Polnička
-LOCATION:Polnička
-GEO:49.604625;15.912060
-URL:geo:49.604625,15.912060
-DESCRIPTION:📍 Polnička\, Žďár nad Sázavou\n💬 Odstranění obtížného hmyzu.\n\
- n🚒 CAS (Polnička)
-END:VEVENT
-BEGIN:VEVENT
 UID:415897061
 DTSTART:20260721T151604Z
 DTEND:20260721T161604Z
@@ -663,9 +651,9 @@ SUMMARY:🔥 vozidlo - Ruda
 LOCATION:Ruda
 GEO:49.303819;16.139721
 URL:geo:49.303819,16.139721
-DESCRIPTION:📍 Ruda\, Žďár nad Sázavou\n\n🚒 CAS (HS Velká Bíteš)\n🚒 CAS (HS 
- Velké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)\n🚒 vyšetřovací automobil (ÚO Žď
- ár nad Sázavou)
+DESCRIPTION:📍 Ruda\, Žďár nad Sázavou\n💬 Požár OA.\n\n🚒 CAS (HS Velká Bíteš
+ )\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)\n🚒 vyšetřovací aut
+ omobil (ÚO Žďár nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:416014061
