@@ -5,43 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:415884061
-DTSTART:20260721T123946Z
-DTEND:20260721T133946Z
-DTSTAMP:20260721T123946Z
-SUMMARY:🔥 vozidlo - Krahulov
-LOCATION:Krahulov
-GEO:49.220288;15.811045
-URL:geo:49.220288,15.811045
-DESCRIPTION:📍 Krahulov\, Třebíč\n💬 Požár NA s únikem PHM. Likvidace požáru 
- a úniku paliva. Dochlazení a zajištění místa události.\n\n🚒 CAS (CHS Třebí
- č)\n🚒 vyšetřovací automobil (ÚO Třebíč)
-END:VEVENT
-BEGIN:VEVENT
-UID:415885061
-DTSTART:20260721T124322Z
-DTEND:20260721T134322Z
-DTSTAMP:20260721T124322Z
-SUMMARY:🚗 se zraněním - Humpolec
-LOCATION:Humpolec
-GEO:49.536390;15.333791
-URL:geo:49.536390,15.333791
-DESCRIPTION:📍 Humpolec\, Pelhřimov\n💬 DN OA a kamionu. Tři zraněné osoby. S
- polupráce se složkami IZS. Zajištění místa nehody.\n\n🚒 CAS (HS Humpolec)
-END:VEVENT
-BEGIN:VEVENT
-UID:415886061
-DTSTART:20260721T124528Z
-DTEND:20260721T134528Z
-DTSTAMP:20260721T124528Z
-SUMMARY:🛠️ obtížný hmyz - Kněžice
-LOCATION:Kněžice
-GEO:49.270617;15.677357
-URL:geo:49.270617,15.677357
-DESCRIPTION:📍 Kněžice\, Jihlava\n💬 Odstranění obtížného hmyzu.\n\n🚒 DA (Kně
- žice)\n🚒 CAS (Kněžice)
-END:VEVENT
-BEGIN:VEVENT
 UID:415887061
 DTSTART:20260721T130247Z
 DTEND:20260721T140247Z
@@ -746,8 +709,8 @@ SUMMARY:🛠️ ostatní - Krucemburk
 LOCATION:Krucemburk
 GEO:49.679258;15.833347
 URL:geo:49.679258,15.833347
-DESCRIPTION:📍 Staré Ransko\, Krucemburk\, Havlíčkův Brod\n\n🚒 CAS (Krucembu
- rk)
+DESCRIPTION:📍 Staré Ransko\, Krucemburk\, Havlíčkův Brod\n💬 Ucpaná kanaliza
+ ce.\n\n🚒 CAS (Krucemburk)
 END:VEVENT
 BEGIN:VEVENT
 UID:415999061
