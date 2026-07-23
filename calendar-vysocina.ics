@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:415880061
-DTSTART:20260721T115242Z
-DTEND:20260721T125242Z
-DTSTAMP:20260721T115242Z
-SUMMARY:🚗 úklid místa - Jemnice
-LOCATION:V Ráji\, Jemnice
-GEO:49.014578;15.573273
-URL:geo:49.014578,15.573273
-DESCRIPTION:📍 V Ráji\, Jemnice\, Třebíč\n💬 DN 2 OA bez zranění. Provedeno p
- rotipožární opatření.\n\n🚒 CAS (HS Jemnice)
-END:VEVENT
-BEGIN:VEVENT
 UID:415884061
 DTSTART:20260721T123946Z
 DTEND:20260721T133946Z
@@ -770,8 +758,8 @@ SUMMARY:🛠️ strom - Velké Meziříčí
 LOCATION:Velké Meziříčí
 GEO:49.361548;16.015025
 URL:geo:49.361548,16.015025
-DESCRIPTION:📍 Velké Meziříčí\, Žďár nad Sázavou\n\n🚒 CAS (HS Velké Meziříčí
- )
+DESCRIPTION:📍 Velké Meziříčí\, Žďár nad Sázavou\n💬 Odstranění stromu.\n\n🚒 
+ CAS (HS Velké Meziříčí)
 END:VEVENT
 BEGIN:VEVENT
 UID:416000061
@@ -782,8 +770,8 @@ SUMMARY:🛠️ ostatní - Golčův Jeníkov
 LOCATION:V Zahradách\, Golčův Jeníkov
 GEO:49.816548;15.479103
 URL:geo:49.816548,15.479103
-DESCRIPTION:📍 V Zahradách\, Golčův Jeníkov\, Havlíčkův Brod\n\n🚒 CAS (Golčů
- v Jeníkov)
+DESCRIPTION:📍 V Zahradách\, Golčův Jeníkov\, Havlíčkův Brod\n💬 Připálené po
+ traviny na sporáku\, odvětráno.\n\n🚒 CAS (Golčův Jeníkov)
 END:VEVENT
 BEGIN:VEVENT
 UID:416001061
@@ -796,5 +784,17 @@ GEO:49.732121;15.817466
 URL:geo:49.732121,15.817466
 DESCRIPTION:📍 Údavy\, Ždírec nad Doubravou\, Havlíčkův Brod\n\n🚒 CAS (HS Ch
  otěboř)\n🚒 CAS (Ždírec nad Doubravou)
+END:VEVENT
+BEGIN:VEVENT
+UID:416004061
+DTSTART:20260723T113656Z
+DTEND:20260723T123656Z
+DTSTAMP:20260723T113656Z
+SUMMARY:🚗 se zraněním - Ledeč nad Sázavou
+LOCATION:Ledeč nad Sázavou
+GEO:49.697515;15.280619
+URL:geo:49.697515,15.280619
+DESCRIPTION:📍 Horní Ledeč\, Ledeč nad Sázavou\, Havlíčkův Brod\n\n🚒 CAS (HS
+  Ledeč nad Sázavou)
 END:VEVENT
 END:VCALENDAR
