@@ -127,4 +127,15 @@ URL:geo:49.463360,15.032031
 DESCRIPTION:📍 Nová Ves\, Důl\, Pelhřimov\n💬 Transport pacienta na žádost ZZ
  S.\n\n🚒 CAS (HS Pacov)
 END:VEVENT
+BEGIN:VEVENT
+UID:415980061
+DTSTART:20260723T072744Z
+DTEND:20260723T082744Z
+DTSTAMP:20260723T072744Z
+SUMMARY:🚑 transport pacienta - Humpolec
+LOCATION:Panskodomská\, Humpolec
+GEO:49.543538;15.360045
+URL:geo:49.543538,15.360045
+DESCRIPTION:📍 Panskodomská\, Humpolec\, Pelhřimov\n\n🚒 CAS (HS Humpolec)
+END:VEVENT
 END:VCALENDAR
