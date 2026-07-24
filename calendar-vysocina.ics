@@ -543,7 +543,7 @@ SUMMARY:🛠️ dovoz vody - Bořetice
 LOCATION:Bořetice
 GEO:49.496064;15.109946
 URL:geo:49.496064,15.109946
-DESCRIPTION:📍 Bořetice\, Pelhřimov\n\n🚒 CAS (HS Pacov)
+DESCRIPTION:📍 Bořetice\, Pelhřimov\n💬 Dovoz vody.\n\n🚒 CAS (HS Pacov)
 END:VEVENT
 BEGIN:VEVENT
 UID:416061061
@@ -554,6 +554,42 @@ SUMMARY:🛠️ otevření bytu/auta - Třešť
 LOCATION:Třešť
 GEO:49.288232;15.497813
 URL:geo:49.288232,15.497813
-DESCRIPTION:📍 Třešť\, Jihlava\n\n🚒 CAS (HS Třešť)
+DESCRIPTION:📍 Třešť\, Jihlava\n💬 Otevření bytu.\n\n🚒 CAS (HS Třešť)
+END:VEVENT
+BEGIN:VEVENT
+UID:416064061
+DTSTART:20260724T161341Z
+DTEND:20260724T171341Z
+DTSTAMP:20260724T161341Z
+SUMMARY:🔥 tráva/plocha - Nevcehle
+LOCATION:Nevcehle
+GEO:49.223709;15.525563
+URL:geo:49.223709,15.525563
+DESCRIPTION:📍 Nevcehle\, Jihlava\n\n🚒 CAS (HS Telč)\n🚒 CAS (HS Telč)\n🚒 CAS
+  (Dlouhá Brtnice)\n🚒 CAS (Stonařov)\n🚒 DA (Nevcehle)
+END:VEVENT
+BEGIN:VEVENT
+UID:416066061
+DTSTART:20260724T162712Z
+DTEND:20260724T172712Z
+DTSTAMP:20260724T162712Z
+SUMMARY:🛠️ strom - Žďár nad Sázavou
+LOCATION:Smetanova\, Žďár nad Sázavou
+GEO:49.559440;15.944268
+URL:geo:49.559440,15.944268
+DESCRIPTION:📍 Smetanova\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n\n🚒 CAS (Ž
+ ďár nad Sázavou-Zámek)
+END:VEVENT
+BEGIN:VEVENT
+UID:416067061
+DTSTART:20260724T162915Z
+DTEND:20260724T172915Z
+DTSTAMP:20260724T162915Z
+SUMMARY:🚗 dopravní nehoda - Moravské Budějovice
+LOCATION:Moravské Budějovice
+GEO:49.040575;15.798974
+URL:geo:49.040575,15.798974
+DESCRIPTION:📍 Moravské Budějovice\, Třebíč\n\n🚒 CAS (HS Moravské Budějovice
+ )
 END:VEVENT
 END:VCALENDAR
