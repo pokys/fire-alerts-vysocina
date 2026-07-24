@@ -103,4 +103,16 @@ URL:geo:49.503811,14.979681
 DESCRIPTION:📍 Jetřichovec\, Pacov\, Pelhřimov\n💬 Došetření požáru zemědělsk
  ého stroje.\n\n🚒 vyšetřovací automobil (ÚO Pelhřimov)
 END:VEVENT
+BEGIN:VEVENT
+UID:416054061
+DTSTART:20260724T131151Z
+DTEND:20260724T141151Z
+DTSTAMP:20260724T131151Z
+SUMMARY:🔥 tráva/plocha - Pacov
+LOCATION:Pacov
+GEO:49.461166;15.014522
+URL:geo:49.461166,15.014522
+DESCRIPTION:📍 Pacov\, Pelhřimov\n\n🚒 CAS (HS Pacov)\n🚒 CAS (HS Pacov)\n🚒 CA
+ S (Pacov)
+END:VEVENT
 END:VCALENDAR
