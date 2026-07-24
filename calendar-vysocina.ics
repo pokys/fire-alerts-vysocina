@@ -569,4 +569,29 @@ DESCRIPTION:📍 Dvorce\, Kyjov\, Havlíčkův Brod\n💬 DN 2x OA se zraněním
  vozidel proti požáru. Odstranění následků po DN.\n\n🚒 CAS (CHS Havlíčkův B
  rod)
 END:VEVENT
+BEGIN:VEVENT
+UID:416048061
+DTSTART:20260724T122030Z
+DTEND:20260724T132030Z
+DTSTAMP:20260724T122030Z
+SUMMARY:🔥 tráva/plocha - Ocmanice
+LOCATION:Ocmanice
+GEO:49.219536;16.110195
+URL:geo:49.219536,16.110195
+DESCRIPTION:📍 Ocmanice\, Třebíč\n\n🚒 CAS (HS Náměšť nad Oslavou)\n🚒 CAS (HS
+  Náměšť nad Oslavou)\n🚒 CAS (HS Velká Bíteš)\n🚒 CAS (Kralice nad Oslavou)\
+ n🚒 osobní automobil (Ocmanice)
+END:VEVENT
+BEGIN:VEVENT
+UID:416049061
+DTSTART:20260724T122411Z
+DTEND:20260724T132411Z
+DTSTAMP:20260724T122411Z
+SUMMARY:🚗 úklid místa - Žďár nad Sázavou
+LOCATION:Žďár nad Sázavou
+GEO:49.558174;15.972399
+URL:geo:49.558174,15.972399
+DESCRIPTION:📍 Žďár nad Sázavou 1\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad 
+ Sázavou)
+END:VEVENT
 END:VCALENDAR
