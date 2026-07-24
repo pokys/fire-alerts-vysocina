@@ -540,7 +540,20 @@ SUMMARY:🔥 tráva/plocha - Pacov
 LOCATION:Pacov
 GEO:49.461166;15.014522
 URL:geo:49.461166,15.014522
-DESCRIPTION:📍 Pacov\, Pelhřimov\n\n🚒 CAS (HS Pacov)\n🚒 CAS (HS Pacov)\n🚒 CA
- S (Pacov)\n🚒 osobní automobil (Pacov)
+DESCRIPTION:📍 Pacov\, Pelhřimov\n💬 Požár strniště. Beze škody.\n\n🚒 CAS (HS
+  Pacov)\n🚒 CAS (HS Pacov)\n🚒 CAS (Pacov)\n🚒 osobní automobil (Pacov)
+END:VEVENT
+BEGIN:VEVENT
+UID:416058061
+DTSTART:20260724T144524Z
+DTEND:20260724T154524Z
+DTSTAMP:20260724T144524Z
+SUMMARY:🔥 tráva/plocha - Lesůňky
+LOCATION:Lesůňky
+GEO:49.112580;15.856222
+URL:geo:49.112580,15.856222
+DESCRIPTION:📍 Lesůňky\, Třebíč\n\n🚒 CAS (HS Moravské Budějovice)\n🚒 CAS (HS
+  Moravské Budějovice)\n🚒 CAS (Jaroměřice nad Rokytnou)\n🚒 CAS (Lesonice)\n
+ 🚒 DA (Lesůňky)
 END:VEVENT
 END:VCALENDAR
