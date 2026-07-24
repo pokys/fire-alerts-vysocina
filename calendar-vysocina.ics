@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:415944061
-DTSTART:20260722T135337Z
-DTEND:20260722T145337Z
-DTSTAMP:20260722T135337Z
-SUMMARY:🛠️ obtížný hmyz - Nové Syrovice
-LOCATION:Nové Syrovice
-GEO:49.017629;15.773452
-URL:geo:49.017629,15.773452
-DESCRIPTION:📍 Nové Syrovice\, Třebíč\n💬 Odstranění obtížného hmyzu.\n\n🚒 DA
-  (Nové Syrovice)
-END:VEVENT
-BEGIN:VEVENT
 UID:415945061
 DTSTART:20260722T141231Z
 DTEND:20260722T151231Z
@@ -525,10 +513,10 @@ SUMMARY:🔥 tráva/plocha - Ocmanice
 LOCATION:Ocmanice
 GEO:49.219536;16.110195
 URL:geo:49.219536,16.110195
-DESCRIPTION:📍 Ocmanice\, Třebíč\n💬 Požár strnišě. Bez zranění\, beze škody.
-  Lokalizace a likvidace.\n\n🚒 CAS (HS Náměšť nad Oslavou)\n🚒 CAS (HS Náměš
- ť nad Oslavou)\n🚒 CAS (HS Velká Bíteš)\n🚒 CAS (Kralice nad Oslavou)\n🚒 oso
- bní automobil (Ocmanice)
+DESCRIPTION:📍 Ocmanice\, Třebíč\n💬 Požár strniště. Bez zranění\, beze škody
+ . Lokalizace a likvidace.\n\n🚒 CAS (HS Náměšť nad Oslavou)\n🚒 CAS (HS Námě
+ šť nad Oslavou)\n🚒 CAS (HS Velká Bíteš)\n🚒 CAS (Kralice nad Oslavou)\n🚒 os
+ obní automobil (Ocmanice)
 END:VEVENT
 BEGIN:VEVENT
 UID:416049061
@@ -576,8 +564,8 @@ SUMMARY:🛠️ obtížný hmyz - Hamry nad Sázavou
 LOCATION:Hamry nad Sázavou
 GEO:49.567586;15.908976
 URL:geo:49.567586,15.908976
-DESCRIPTION:📍 Hamry nad Sázavou\, Žďár nad Sázavou\n\n🚒 CAS (Hamry nad Sáza
- vou-Najdek)
+DESCRIPTION:📍 Hamry nad Sázavou\, Žďár nad Sázavou\n💬 Odstranění obtížného 
+ hmyzu.\n\n🚒 CAS (Hamry nad Sázavou-Najdek)
 END:VEVENT
 BEGIN:VEVENT
 UID:416054061
