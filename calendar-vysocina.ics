@@ -522,4 +522,16 @@ URL:geo:49.677852,16.145002
 DESCRIPTION:📍 Krásné\, Žďár nad Sázavou\n💬 Odstranění obtížného hmyzu.\n\n🚒
   DA (Krásné)
 END:VEVENT
+BEGIN:VEVENT
+UID:416075061
+DTSTART:20260724T200826Z
+DTEND:20260724T210826Z
+DTSTAMP:20260724T200826Z
+SUMMARY:🚑 transport pacienta - Strážek
+LOCATION:Strážek
+GEO:49.431827;16.211978
+URL:geo:49.431827,16.211978
+DESCRIPTION:📍 Mitrov\, Strážek\, Žďár nad Sázavou\n\n🚒 CAS (HS Bystřice nad
+  Pernštejnem)\n🚒 CAS (Strážek)
+END:VEVENT
 END:VCALENDAR
