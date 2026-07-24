@@ -5,21 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:415943061
-DTSTART:20260722T134240Z
-DTEND:20260722T144240Z
-DTSTAMP:20260722T134240Z
-SUMMARY:🔥 tráva/plocha - Věž
-LOCATION:Věž
-GEO:49.559397;15.471695
-URL:geo:49.559397,15.471695
-DESCRIPTION:📍 Věž\, Havlíčkův Brod\n💬 Požár pole a lisu na balíky. Proveden
- a lokalizace a likvidace požáru.\n\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 CAS (CHS
-  Havlíčkův Brod)\n🚒 CAS (HS Humpolec)\n🚒 čerpadlo plovoucí (HS Humpolec)\n
- 🚒 CAS (Herálec (HB))\n🚒 DA (Věž) ×2\n🚒 vyšetřovací automobil (ÚO Havlíčkův
-  Brod)
-END:VEVENT
-BEGIN:VEVENT
 UID:415944061
 DTSTART:20260722T135337Z
 DTEND:20260722T145337Z
@@ -514,8 +499,8 @@ SUMMARY:🛠️ obtížný hmyz - Nové Veselí
 LOCATION:Potoční\, Nové Veselí
 GEO:49.517126;15.907291
 URL:geo:49.517126,15.907291
-DESCRIPTION:📍 Potoční\, Nové Veselí\, Žďár nad Sázavou\n\n🚒 CAS (Nové Vesel
- í)
+DESCRIPTION:📍 Potoční\, Nové Veselí\, Žďár nad Sázavou\n💬 Odstranění obtížn
+ ého hmyzu.\n\n🚒 CAS (Nové Veselí)
 END:VEVENT
 BEGIN:VEVENT
 UID:416038061
@@ -554,8 +539,9 @@ SUMMARY:🚗 úklid místa - Žďár nad Sázavou
 LOCATION:Žďár nad Sázavou
 GEO:49.558174;15.972399
 URL:geo:49.558174,15.972399
-DESCRIPTION:📍 Žďár nad Sázavou 1\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad 
- Sázavou)
+DESCRIPTION:📍 Žďár nad Sázavou 1\, Žďár nad Sázavou\n💬 DN 2 OA\, bez zraněn
+ í. Provedeno zajištění místa nehody a likvidace úniku provozních náplní.\n
+ \n🚒 CAS (CHS Žďár nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:416051061
@@ -578,8 +564,20 @@ SUMMARY:🔥 venkovní požár - Velké Meziříčí
 LOCATION:Františkov\, Velké Meziříčí
 GEO:49.339913;16.031046
 URL:geo:49.339913,16.031046
-DESCRIPTION:📍 Františkov\, Velké Meziříčí\, Žďár nad Sázavou\n\n🚒 CAS (HS V
- elké Meziříčí)
+DESCRIPTION:📍 Františkov\, Velké Meziříčí\, Žďár nad Sázavou\n💬 Požár pařez
+ u. Provedeno prolití.\n\n🚒 CAS (HS Velké Meziříčí)
+END:VEVENT
+BEGIN:VEVENT
+UID:416053061
+DTSTART:20260724T130913Z
+DTEND:20260724T140913Z
+DTSTAMP:20260724T130913Z
+SUMMARY:🛠️ obtížný hmyz - Hamry nad Sázavou
+LOCATION:Hamry nad Sázavou
+GEO:49.567586;15.908976
+URL:geo:49.567586,15.908976
+DESCRIPTION:📍 Hamry nad Sázavou\, Žďár nad Sázavou\n\n🚒 CAS (Hamry nad Sáza
+ vou-Najdek)
 END:VEVENT
 BEGIN:VEVENT
 UID:416054061
@@ -591,6 +589,6 @@ LOCATION:Pacov
 GEO:49.461166;15.014522
 URL:geo:49.461166,15.014522
 DESCRIPTION:📍 Pacov\, Pelhřimov\n\n🚒 CAS (HS Pacov)\n🚒 CAS (HS Pacov)\n🚒 CA
- S (Pacov)
+ S (Pacov)\n🚒 osobní automobil (Pacov)
 END:VEVENT
 END:VCALENDAR
