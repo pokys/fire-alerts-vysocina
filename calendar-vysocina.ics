@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:416017061
-DTSTART:20260723T153506Z
-DTEND:20260723T163506Z
-DTSTAMP:20260723T153506Z
-SUMMARY:🛠️ strom - Hrotovice
-LOCATION:Sokolská\, Hrotovice
-GEO:49.106108;16.061174
-URL:geo:49.106108,16.061174
-DESCRIPTION:📍 Sokolská\, Hrotovice\, Třebíč\n💬 Odstranění stromu.\n\n🚒 CAS 
- (HS Hrotovice)
-END:VEVENT
-BEGIN:VEVENT
 UID:416018061
 DTSTART:20260723T155648Z
 DTEND:20260723T165648Z
@@ -589,12 +577,25 @@ UID:416108061
 DTSTART:20260725T145027Z
 DTEND:20260725T155027Z
 DTSTAMP:20260725T145027Z
-SUMMARY:🔥 tráva/plocha - Kadolec
+SUMMARY:⚠️ planý poplach - Kadolec
 LOCATION:Kadolec
 GEO:49.377438;16.136679
 URL:geo:49.377438,16.136679
-DESCRIPTION:📍 Kadolec\, Žďár nad Sázavou\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZ
- A (HS Velké Meziříčí)\n🚒 stříkačka přenosná (Kadolec)\n🚒 CAS (Osová Bítýšk
- a)\n🚒 CAS (Pikárec)
+DESCRIPTION:📍 Kadolec\, Žďár nad Sázavou\n💬 Planý poplach.\n\n🚒 CAS (HS Vel
+ ké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)\n🚒 stříkačka přenosná (Kadolec)\n🚒
+  CAS (Osová Bítýška)\n🚒 CAS (Pikárec)
+END:VEVENT
+BEGIN:VEVENT
+UID:416113061
+DTSTART:20260725T152909Z
+DTEND:20260725T162909Z
+DTSTAMP:20260725T152909Z
+SUMMARY:🔥 tráva/plocha - Libice nad Doubravou
+LOCATION:Libice nad Doubravou
+GEO:49.771012;15.763583
+URL:geo:49.771012,15.763583
+DESCRIPTION:📍 Křemenice\, Libice nad Doubravou\, Havlíčkův Brod\n\n🚒 CAS (H
+ S Chotěboř)\n🚒 CAS (HS Chotěboř)\n🚒 CAS (Libice nad Doubravou)\n🚒 CAS (Ždí
+ rec nad Doubravou)
 END:VEVENT
 END:VCALENDAR
