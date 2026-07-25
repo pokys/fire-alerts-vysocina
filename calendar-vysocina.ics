@@ -489,12 +489,12 @@ SUMMARY:🔥 les - Havlíčkův Brod
 LOCATION:Havlíčkův Brod
 GEO:49.626135;15.560422
 URL:geo:49.626135,15.560422
-DESCRIPTION:💬 Požár nízkokmeného lesního porostu. Škoda vzniklá požárem 70 
- 000Kč\, uchráněno 2 000 000Kč.\n\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 CAS (CHS H
- avlíčkův Brod)\n🚒 vozidlo účelové - SxS (CHS Havlíčkův Brod)\n🚒 pila řetěz
- ová (CHS Havlíčkův Brod)\n🚒 DA (Havlíčkův Brod-Perknov)\n🚒 CAS (Havlíčkův 
- Brod-Perknov)\n🚒 CAS (HS Světlá nad Sázavou)\n🚒 CAS (Lučice)\n🚒 vyšetřovac
- í automobil (ÚO Havlíčkův Brod)
+DESCRIPTION:💬 Požár nízkokmeného lesního porostu. Provedena lokalizace a li
+ kvidace.\n\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 vozi
+ dlo účelové - SxS (CHS Havlíčkův Brod)\n🚒 pila řetězová (CHS Havlíčkův Bro
+ d)\n🚒 DA (Havlíčkův Brod-Perknov)\n🚒 CAS (Havlíčkův Brod-Perknov)\n🚒 CAS (
+ HS Světlá nad Sázavou)\n🚒 CAS (Lučice)\n🚒 vyšetřovací automobil (ÚO Havlíč
+ kův Brod)
 END:VEVENT
 BEGIN:VEVENT
 UID:416101061
@@ -596,7 +596,8 @@ SUMMARY:🔥 odpad - Pelhřimov
 LOCATION:Pražská\, Pelhřimov
 GEO:49.434922;15.220561
 URL:geo:49.434922,15.220561
-DESCRIPTION:📍 Pražská\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)
+DESCRIPTION:📍 Pražská\, Pelhřimov\n💬 Zahoření obsahu plastové popelnice. Pr
+ ovedeno prolití.\n\n🚒 CAS (CHS Pelhřimov)
 END:VEVENT
 BEGIN:VEVENT
 UID:416115061
@@ -608,5 +609,17 @@ LOCATION:Čejov
 GEO:49.562589;15.364984
 URL:geo:49.562589,15.364984
 DESCRIPTION:📍 Hadina\, Čejov\, Pelhřimov\n\n🚒 CAS (HS Humpolec)
+END:VEVENT
+BEGIN:VEVENT
+UID:416116061
+DTSTART:20260725T164651Z
+DTEND:20260725T174651Z
+DTSTAMP:20260725T164651Z
+SUMMARY:🚗 dopravní nehoda - Moravské Budějovice
+LOCATION:Moravské Budějovice
+GEO:49.047771;15.816546
+URL:geo:49.047771,15.816546
+DESCRIPTION:📍 Moravské Budějovice\, Třebíč\n\n🚒 CAS (HS Moravské Budějovice
+ )
 END:VEVENT
 END:VCALENDAR
