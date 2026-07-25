@@ -657,7 +657,7 @@ SUMMARY:🛠️ ostatní - Slavíkovice
 LOCATION:Slavíkovice
 GEO:49.000642;15.633711
 URL:geo:49.000642,15.633711
-DESCRIPTION:📍 Slavíkovice\, Třebíč\n\n🚒 CAS (HS Jemnice)
+DESCRIPTION:📍 Slavíkovice\, Třebíč\n💬 Odchyt užovky.\n\n🚒 CAS (HS Jemnice)
 END:VEVENT
 BEGIN:VEVENT
 UID:416123061
@@ -668,6 +668,7 @@ SUMMARY:🛠️ ostatní - Přešovice
 LOCATION:Přešovice
 GEO:49.050076;16.063949
 URL:geo:49.050076,16.063949
-DESCRIPTION:📍 Přešovice\, Třebíč\n\n🚒 CAS (HS Hrotovice)
+DESCRIPTION:📍 Přešovice\, Třebíč\n💬 Odchyt užovky a vypuštění do přírody.\n
+ \n🚒 CAS (HS Hrotovice)
 END:VEVENT
 END:VCALENDAR
