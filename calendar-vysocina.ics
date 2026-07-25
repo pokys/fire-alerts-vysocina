@@ -5,70 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:415988061
-DTSTART:20260723T090330Z
-DTEND:20260723T100330Z
-DTSTAMP:20260723T090330Z
-SUMMARY:⚠️ planý poplach - Pelhřimov
-LOCATION:Matějkova\, Pelhřimov
-GEO:49.407425;15.220930
-URL:geo:49.407425,15.220930
-DESCRIPTION:📍 Matějkova\, Pelhřimov\n💬 Požár ohlášený systémem elektrické p
- ožární signalizace. Průzkumem bylo zjištěno\, že se jedná o planý poplach.
- \n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (CHS Pelhřimov)
-END:VEVENT
-BEGIN:VEVENT
-UID:415989061
-DTSTART:20260723T091053Z
-DTEND:20260723T101053Z
-DTSTAMP:20260723T091053Z
-SUMMARY:🛠️ strom - Dyjice
-LOCATION:Dyjice
-GEO:49.192158;15.514920
-URL:geo:49.192158,15.514920
-DESCRIPTION:📍 Dyjice\, Jihlava\n💬 Odstranění stromu z vozovky.\n\n🚒 CAS (HS
-  Telč)\n🚒 pila řetězová (HS Telč)
-END:VEVENT
-BEGIN:VEVENT
-UID:415990061
-DTSTART:20260723T091351Z
-DTEND:20260723T101351Z
-DTSTAMP:20260723T091351Z
-SUMMARY:🚗 dopravní nehoda - Velká Bíteš
-LOCATION:Lánice\, Velká Bíteš
-GEO:49.292080;16.215554
-URL:geo:49.292080,16.215554
-DESCRIPTION:📍 Lánice\, Velká Bíteš\, Žďár nad Sázavou\n💬 DN 2 x OA jedna zr
- aněná osoba ošetřena ZZS. Zajištění místa události.\n\n🚒 CAS (Velká Bíteš)
- \n🚒 CAS (HS Velká Bíteš)
-END:VEVENT
-BEGIN:VEVENT
-UID:415995061
-DTSTART:20260723T103317Z
-DTEND:20260723T113317Z
-DTSTAMP:20260723T103317Z
-SUMMARY:🔥 vozidlo - Lidmaň
-LOCATION:Lidmaň
-GEO:49.375533;15.011821
-URL:geo:49.375533,15.011821
-DESCRIPTION:📍 Lidmaň\, Pelhřimov\n💬 Požár traktoru. Likvidace požáru.\n\n🚒 
- CAS (HS Kamenice nad Lipou)\n🚒 CAS (HS Kamenice nad Lipou)\n🚒 CAS (Černovi
- ce)\n🚒 CAS (Černovice)\n🚒 CAS (Těmice)\n🚒 DA (Lidmaň)\n🚒 vyšetřovací autom
- obil (ÚO Pelhřimov) ×2
-END:VEVENT
-BEGIN:VEVENT
-UID:415997061
-DTSTART:20260723T110513Z
-DTEND:20260723T120513Z
-DTSTAMP:20260723T110513Z
-SUMMARY:🛠️ ostatní - Krucemburk
-LOCATION:Krucemburk
-GEO:49.679258;15.833347
-URL:geo:49.679258,15.833347
-DESCRIPTION:📍 Staré Ransko\, Krucemburk\, Havlíčkův Brod\n💬 Ucpaná kanaliza
- ce.\n\n🚒 CAS (Krucemburk)
-END:VEVENT
-BEGIN:VEVENT
 UID:415999061
 DTSTART:20260723T112024Z
 DTEND:20260723T122024Z
@@ -555,5 +491,100 @@ GEO:49.506478;15.742587
 URL:geo:49.506478,15.742587
 DESCRIPTION:📍 Hrbov\, Polná\, Jihlava\n💬 Transport pacienta na žádost ZZS.\
  n\n🚒 CAS (HS Polná)
+END:VEVENT
+BEGIN:VEVENT
+UID:416088061
+DTSTART:20260725T082234Z
+DTEND:20260725T092234Z
+DTSTAMP:20260725T082234Z
+SUMMARY:🛠️ otevření bytu/auta - Velké Meziříčí
+LOCATION:Bezručova\, Velké Meziříčí
+GEO:49.352194;16.005448
+URL:geo:49.352194,16.005448
+DESCRIPTION:📍 Bezručova\, Velké Meziříčí\, Žďár nad Sázavou\n💬 Otevření byt
+ u.\n\n🚒 RZA (HS Velké Meziříčí)
+END:VEVENT
+BEGIN:VEVENT
+UID:416089061
+DTSTART:20260725T091219Z
+DTEND:20260725T101219Z
+DTSTAMP:20260725T091219Z
+SUMMARY:🛠️ obtížný hmyz - Dalečín
+LOCATION:Dalečín
+GEO:49.583816;16.294707
+URL:geo:49.583816,16.294707
+DESCRIPTION:📍 Hluboké\, Dalečín\, Žďár nad Sázavou\n💬 Odstranění vosího hní
+ zda.\n\n🚒 CAS (HS Bystřice nad Pernštejnem)
+END:VEVENT
+BEGIN:VEVENT
+UID:416092061
+DTSTART:20260725T092647Z
+DTEND:20260725T102647Z
+DTSTAMP:20260725T092647Z
+SUMMARY:🛠️ otevření bytu/auta - Přibyslav
+LOCATION:Tržiště\, Přibyslav
+GEO:49.578716;15.735442
+URL:geo:49.578716,15.735442
+DESCRIPTION:📍 Tržiště\, Přibyslav\, Havlíčkův Brod\n💬 Otevření bytu.\n\n🚒 C
+ AS (HS Polná)\n🚒 CAS (Přibyslav)
+END:VEVENT
+BEGIN:VEVENT
+UID:416093061
+DTSTART:20260725T094858Z
+DTEND:20260725T104858Z
+DTSTAMP:20260725T094858Z
+SUMMARY:🚗 dopravní nehoda - Žirovnice
+LOCATION:Nádražní\, Žirovnice
+GEO:49.251582;15.194502
+URL:geo:49.251582,15.194502
+DESCRIPTION:📍 Nádražní\, Žirovnice\, Pelhřimov\n💬 DN elektrokoloběžky se zr
+ aněním.\n\n🚒 CAS (HS Kamenice nad Lipou)\n🚒 CAS (Počátky)\n🚒 CAS (Žirovnic
+ e)
+END:VEVENT
+BEGIN:VEVENT
+UID:416094061
+DTSTART:20260725T100657Z
+DTEND:20260725T110657Z
+DTSTAMP:20260725T100657Z
+SUMMARY:🛠️ obtížný hmyz - Pelhřimov
+LOCATION:Příkopy\, Pelhřimov
+GEO:49.431103;15.226001
+URL:geo:49.431103,15.226001
+DESCRIPTION:📍 Příkopy\, Pelhřimov\n💬 Odstranění obtížného hmyzu.\n\n🚒 CAS (
+ CHS Pelhřimov)
+END:VEVENT
+BEGIN:VEVENT
+UID:416096061
+DTSTART:20260725T101637Z
+DTEND:20260725T111637Z
+DTSTAMP:20260725T101637Z
+SUMMARY:🚗 dopravní nehoda - Telč
+LOCATION:Telč
+GEO:49.214638;15.455662
+URL:geo:49.214638,15.455662
+DESCRIPTION:📍 Telč\, Jihlava\n\n🚒 CAS (HS Telč)
+END:VEVENT
+BEGIN:VEVENT
+UID:416098061
+DTSTART:20260725T103726Z
+DTEND:20260725T113726Z
+DTSTAMP:20260725T103726Z
+SUMMARY:🛠️ obtížný hmyz - Bystřice nad Pernštejnem
+LOCATION:Nový dvůr\, Bystřice nad Pernštejnem
+GEO:49.519245;16.250376
+URL:geo:49.519245,16.250376
+DESCRIPTION:📍 Nový dvůr\, Bystřice nad Pernštejnem\, Žďár nad Sázavou\n💬 Li
+ kvidace vosího hnízda.\n\n🚒 CAS (HS Bystřice nad Pernštejnem)
+END:VEVENT
+BEGIN:VEVENT
+UID:416099061
+DTSTART:20260725T104120Z
+DTEND:20260725T114120Z
+DTSTAMP:20260725T104120Z
+SUMMARY:🛠️ strom - Radkovice u Hrotovic
+LOCATION:Radkovice u Hrotovic
+GEO:49.043018;15.971173
+URL:geo:49.043018,15.971173
+DESCRIPTION:📍 Radkovice u Hrotovic\, Třebíč\n\n🚒 CAS (HS Hrotovice)
 END:VEVENT
 END:VCALENDAR
