@@ -513,7 +513,8 @@ SUMMARY:🚗 dopravní nehoda - Telč
 LOCATION:Telč
 GEO:49.214638;15.455662
 URL:geo:49.214638,15.455662
-DESCRIPTION:📍 Telč\, Jihlava\n\n🚒 CAS (HS Telč)
+DESCRIPTION:📍 Telč\, Jihlava\n💬 DN motocyklu\, 1 zraněná osoba\, provedeno 
+ zajištění místa nehody.\n\n🚒 CAS (HS Telč)
 END:VEVENT
 BEGIN:VEVENT
 UID:416098061
@@ -532,11 +533,12 @@ UID:416099061
 DTSTART:20260725T104120Z
 DTEND:20260725T114120Z
 DTSTAMP:20260725T104120Z
-SUMMARY:🛠️ strom - Radkovice u Hrotovic
+SUMMARY:⚠️ planý poplach - Radkovice u Hrotovic
 LOCATION:Radkovice u Hrotovic
 GEO:49.043018;15.971173
 URL:geo:49.043018,15.971173
-DESCRIPTION:📍 Radkovice u Hrotovic\, Třebíč\n\n🚒 CAS (HS Hrotovice)
+DESCRIPTION:📍 Radkovice u Hrotovic\, Třebíč\n💬 Planý poplach.\n\n🚒 CAS (HS 
+ Hrotovice)
 END:VEVENT
 BEGIN:VEVENT
 UID:416100061
@@ -545,9 +547,22 @@ DTEND:20260725T121326Z
 DTSTAMP:20260725T111326Z
 SUMMARY:🔥 les - Havlíčkův Brod
 LOCATION:Havlíčkův Brod
-GEO:49.627233;15.557817
-URL:geo:49.627233,15.557817
-DESCRIPTION:🚒 CAS (CHS Havlíčkův Brod)\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 CAS (
- Havlíčkův Brod-Perknov)\n🚒 CAS (HS Světlá nad Sázavou)\n🚒 CAS (Lučice)
+GEO:49.626135;15.560422
+URL:geo:49.626135,15.560422
+DESCRIPTION:🚒 CAS (CHS Havlíčkův Brod)\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 vozid
+ lo účelové - SxS (CHS Havlíčkův Brod)\n🚒 DA (Havlíčkův Brod-Perknov)\n🚒 CA
+ S (Havlíčkův Brod-Perknov)\n🚒 CAS (HS Světlá nad Sázavou)\n🚒 CAS (Lučice)\
+ n🚒 vyšetřovací automobil (ÚO Havlíčkův Brod)
+END:VEVENT
+BEGIN:VEVENT
+UID:416101061
+DTSTART:20260725T121617Z
+DTEND:20260725T131617Z
+DTSTAMP:20260725T121617Z
+SUMMARY:🚗 dopravní nehoda - Jamné
+LOCATION:Jamné
+GEO:49.425011;15.671943
+URL:geo:49.425011,15.671943
+DESCRIPTION:📍 Jamné\, Jihlava\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihlava)
 END:VEVENT
 END:VCALENDAR
