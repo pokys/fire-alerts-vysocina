@@ -719,4 +719,16 @@ URL:geo:49.254842,15.190546
 DESCRIPTION:📍 Žižkova\, Žirovnice\, Pelhřimov\n💬 Otevření bytu.\n\n🚒 CAS (H
  S Kamenice nad Lipou)\n🚒 CAS (Žirovnice)
 END:VEVENT
+BEGIN:VEVENT
+UID:416130061
+DTSTART:20260725T222440Z
+DTEND:20260725T232440Z
+DTSTAMP:20260725T222440Z
+SUMMARY:🛠️ monitoring - Hamry nad Sázavou
+LOCATION:Hamry nad Sázavou
+GEO:49.568150;15.888661
+URL:geo:49.568150,15.888661
+DESCRIPTION:📍 Najdek\, Hamry nad Sázavou\, Žďár nad Sázavou\n\n🚒 DA (Hamry 
+ nad Sázavou-Najdek)
+END:VEVENT
 END:VCALENDAR
