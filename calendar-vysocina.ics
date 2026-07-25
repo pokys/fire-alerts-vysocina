@@ -537,10 +537,11 @@ SUMMARY:🔥 les - Havlíčkův Brod
 LOCATION:Havlíčkův Brod
 GEO:49.626135;15.560422
 URL:geo:49.626135,15.560422
-DESCRIPTION:🚒 CAS (CHS Havlíčkův Brod)\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 vozid
- lo účelové - SxS (CHS Havlíčkův Brod)\n🚒 DA (Havlíčkův Brod-Perknov)\n🚒 CA
- S (Havlíčkův Brod-Perknov)\n🚒 CAS (HS Světlá nad Sázavou)\n🚒 CAS (Lučice)\
- n🚒 vyšetřovací automobil (ÚO Havlíčkův Brod)
+DESCRIPTION:💬 Požár nízkokmeného lesního porostu. Škoda vzniklá požárem 70 
+ 000Kč\, uchráněno 2 000 000Kč.\n\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 CAS (CHS H
+ avlíčkův Brod)\n🚒 vozidlo účelové - SxS (CHS Havlíčkův Brod)\n🚒 DA (Havlíč
+ kův Brod-Perknov)\n🚒 CAS (Havlíčkův Brod-Perknov)\n🚒 CAS (HS Světlá nad Sá
+ zavou)\n🚒 CAS (Lučice)\n🚒 vyšetřovací automobil (ÚO Havlíčkův Brod)
 END:VEVENT
 BEGIN:VEVENT
 UID:416101061
@@ -551,7 +552,8 @@ SUMMARY:🚗 dopravní nehoda - Jamné
 LOCATION:Jamné
 GEO:49.425011;15.671943
 URL:geo:49.425011,15.671943
-DESCRIPTION:📍 Jamné\, Jihlava\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihlava)
+DESCRIPTION:📍 Jamné\, Jihlava\n💬 DN 3 OA bez zranění. Zásah jednotky nebyl 
+ třeba.\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:416102061
@@ -577,5 +579,30 @@ URL:geo:49.144032,15.870169
 DESCRIPTION:📍 Výčapy\, Třebíč\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (CHS Třebíč)\n🚒 
  CAS (Jaroměřice nad Rokytnou)\n🚒 CAS (Jaroměřice nad Rokytnou)\n🚒 DA (Výča
  py)
+END:VEVENT
+BEGIN:VEVENT
+UID:416104061
+DTSTART:20260725T133128Z
+DTEND:20260725T143128Z
+DTSTAMP:20260725T133128Z
+SUMMARY:🔥 technologie - Moravské Budějovice
+LOCATION:Moravské Budějovice
+GEO:49.058796;15.801063
+URL:geo:49.058796,15.801063
+DESCRIPTION:📍 Moravské Budějovice\, Třebíč\n\n🚒 CAS (HS Moravské Budějovice
+ )\n🚒 CAS (HS Moravské Budějovice)\n🚒 CAS (Jaroměřice nad Rokytnou)\n🚒 CAS 
+ (Moravské Budějovice)
+END:VEVENT
+BEGIN:VEVENT
+UID:416105061
+DTSTART:20260725T133145Z
+DTEND:20260725T143145Z
+DTSTAMP:20260725T133145Z
+SUMMARY:🛠️ strom - Humpolec
+LOCATION:Humpolec
+GEO:49.574842;15.359203
+URL:geo:49.574842,15.359203
+DESCRIPTION:📍 Světlice\, Humpolec\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 CA
+ S (HS Humpolec)
 END:VEVENT
 END:VCALENDAR
