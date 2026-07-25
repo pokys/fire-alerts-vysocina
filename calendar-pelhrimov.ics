@@ -132,7 +132,8 @@ SUMMARY:🚑 otevření/asistence - Čejov
 LOCATION:Čejov
 GEO:49.562589;15.364984
 URL:geo:49.562589,15.364984
-DESCRIPTION:📍 Hadina\, Čejov\, Pelhřimov\n\n🚒 CAS (HS Humpolec)
+DESCRIPTION:📍 Hadina\, Čejov\, Pelhřimov\n💬 Otevření bytu.\n\n🚒 CAS (HS Hum
+ polec)
 END:VEVENT
 BEGIN:VEVENT
 UID:416117061
@@ -143,7 +144,8 @@ SUMMARY:🛠️ ostatní - Nová Cerekev
 LOCATION:Nová Cerekev
 GEO:49.428065;15.116924
 URL:geo:49.428065,15.116924
-DESCRIPTION:📍 Nová Cerekev\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (Nov
- á Cerekev)
+DESCRIPTION:📍 Nová Cerekev\, Pelhřimov\n💬 Ohlášen požár OA\, průzkumem zjiš
+ těno\, že se jedná o tech. závadu na OA.\n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (
+ Nová Cerekev)
 END:VEVENT
 END:VCALENDAR
