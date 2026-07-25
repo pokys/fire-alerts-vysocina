@@ -515,9 +515,10 @@ GEO:49.626135;15.560422
 URL:geo:49.626135,15.560422
 DESCRIPTION:💬 Požár nízkokmeného lesního porostu. Škoda vzniklá požárem 70 
  000Kč\, uchráněno 2 000 000Kč.\n\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 CAS (CHS H
- avlíčkův Brod)\n🚒 vozidlo účelové - SxS (CHS Havlíčkův Brod)\n🚒 DA (Havlíč
- kův Brod-Perknov)\n🚒 CAS (Havlíčkův Brod-Perknov)\n🚒 CAS (HS Světlá nad Sá
- zavou)\n🚒 CAS (Lučice)\n🚒 vyšetřovací automobil (ÚO Havlíčkův Brod)
+ avlíčkův Brod)\n🚒 vozidlo účelové - SxS (CHS Havlíčkův Brod)\n🚒 pila řetěz
+ ová (CHS Havlíčkův Brod)\n🚒 DA (Havlíčkův Brod-Perknov)\n🚒 CAS (Havlíčkův 
+ Brod-Perknov)\n🚒 CAS (HS Světlá nad Sázavou)\n🚒 CAS (Lučice)\n🚒 vyšetřovac
+ í automobil (ÚO Havlíčkův Brod)
 END:VEVENT
 BEGIN:VEVENT
 UID:416101061
@@ -593,6 +594,7 @@ LOCATION:Kadolec
 GEO:49.377438;16.136679
 URL:geo:49.377438,16.136679
 DESCRIPTION:📍 Kadolec\, Žďár nad Sázavou\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZ
- A (HS Velké Meziříčí)
+ A (HS Velké Meziříčí)\n🚒 stříkačka přenosná (Kadolec)\n🚒 CAS (Osová Bítýšk
+ a)\n🚒 CAS (Pikárec)
 END:VEVENT
 END:VCALENDAR
