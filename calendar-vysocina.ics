@@ -803,8 +803,9 @@ SUMMARY:🔥 tráva/plocha - Ždírec
 LOCATION:Ždírec
 GEO:49.451325;15.675310
 URL:geo:49.451325,15.675310
-DESCRIPTION:📍 Ždírec\, Jihlava\n\n🚒 CAS (CHS Jihlava)\n🚒 CAS (HS Polná)\n🚒 
- CAS (Polná)\n🚒 DA (Ždírec (JI))
+DESCRIPTION:📍 Ždírec\, Jihlava\n💬 Požár balíků slámy. Provedena lokalizace 
+ a likvidace.\n\n🚒 CAS (CHS Jihlava)\n🚒 CAS (HS Polná)\n🚒 CAS (Polná)\n🚒 DA
+  (Ždírec (JI))
 END:VEVENT
 BEGIN:VEVENT
 UID:416165061
@@ -816,5 +817,16 @@ LOCATION:Havlíčkův Brod
 GEO:49.626969;15.561688
 URL:geo:49.626969,15.561688
 DESCRIPTION:💬 Dohašení ohnište po požáru.\n\n🚒 CAS (Havlíčkův Brod-Perknov)
+END:VEVENT
+BEGIN:VEVENT
+UID:416166061
+DTSTART:20260726T193824Z
+DTEND:20260726T203824Z
+DTSTAMP:20260726T193824Z
+SUMMARY:☣️ olej/PHM - Nová Ves u Chotěboře
+LOCATION:Nová Ves u Chotěboře
+GEO:49.762734;15.652257
+URL:geo:49.762734,15.652257
+DESCRIPTION:📍 Nová Ves u Chotěboře\, Havlíčkův Brod\n\n🚒 CAS (HS Chotěboř)
 END:VEVENT
 END:VCALENDAR
