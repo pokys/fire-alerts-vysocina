@@ -704,8 +704,9 @@ SUMMARY:🛠️ ostatní - Bojiště
 LOCATION:Bojiště
 GEO:49.669026;15.303421
 URL:geo:49.669026,15.303421
-DESCRIPTION:📍 Veliká\, Bojiště\, Havlíčkův Brod\n\n🚒 CAS (HS Ledeč nad Sáza
- vou)\n🚒 účelový automobil do 3500 kg (CHS Havlíčkův Brod)
+DESCRIPTION:📍 Veliká\, Bojiště\, Havlíčkův Brod\n💬 Pomoc se zvednutím býka.
+ \n\n🚒 CAS (HS Ledeč nad Sázavou)\n🚒 účelový automobil do 3500 kg (CHS Havl
+ íčkův Brod)
 END:VEVENT
 BEGIN:VEVENT
 UID:416129061
@@ -742,5 +743,28 @@ GEO:49.434035;15.227696
 URL:geo:49.434035,15.227696
 DESCRIPTION:📍 Humpolecká\, Pelhřimov\n💬 DN 2 OA\, bez zranění. Likvidace ún
  iku provozních kapalin\, úklid komunikace.\n\n🚒 CAS (CHS Pelhřimov)
+END:VEVENT
+BEGIN:VEVENT
+UID:416133061
+DTSTART:20260726T002221Z
+DTEND:20260726T012221Z
+DTSTAMP:20260726T002221Z
+SUMMARY:🚗 dopravní nehoda - Herálec
+LOCATION:Herálec
+GEO:49.527871;15.472312
+URL:geo:49.527871,15.472312
+DESCRIPTION:📍 Herálec\, Havlíčkův Brod\n\n🚒 CAS (HS Humpolec)
+END:VEVENT
+BEGIN:VEVENT
+UID:416135061
+DTSTART:20260726T003048Z
+DTEND:20260726T013048Z
+DTSTAMP:20260726T003048Z
+SUMMARY:🚗 úklid místa - Třebíč
+LOCATION:Komenského nám.\, Třebíč
+GEO:49.215487;15.877353
+URL:geo:49.215487,15.877353
+DESCRIPTION:📍 Komenského nám.\, Vnitřní Město\, Třebíč\n\n🚒 CAS (CHS Třebíč
+ )
 END:VEVENT
 END:VCALENDAR
