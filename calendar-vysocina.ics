@@ -724,12 +724,12 @@ UID:416130061
 DTSTART:20260725T222440Z
 DTEND:20260725T232440Z
 DTSTAMP:20260725T222440Z
-SUMMARY:🛠️ monitoring - Hamry nad Sázavou
+SUMMARY:⚠️ planý poplach - Hamry nad Sázavou
 LOCATION:Hamry nad Sázavou
 GEO:49.568150;15.888661
 URL:geo:49.568150,15.888661
-DESCRIPTION:📍 Najdek\, Hamry nad Sázavou\, Žďár nad Sázavou\n\n🚒 DA (Hamry 
- nad Sázavou-Najdek)
+DESCRIPTION:📍 Najdek\, Hamry nad Sázavou\, Žďár nad Sázavou\n💬 Monitoring k
+ ouře - planý poplach.\n\n🚒 DA (Hamry nad Sázavou-Najdek)
 END:VEVENT
 BEGIN:VEVENT
 UID:416131061
