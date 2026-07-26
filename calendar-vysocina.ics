@@ -766,7 +766,30 @@ SUMMARY:🛠️ otevření bytu/auta - Jakubov u Moravských Budějovic
 LOCATION:Jakubov u Moravských Budějovic
 GEO:49.082663;15.761916
 URL:geo:49.082663,15.761916
-DESCRIPTION:📍 Jakubov u Moravských Budějovic\, Třebíč\n\n🚒 CAS (HS Moravské
-  Budějovice)
+DESCRIPTION:📍 Jakubov u Moravských Budějovic\, Třebíč\n💬 Otevření bytu.\n\n
+ 🚒 CAS (HS Moravské Budějovice)
+END:VEVENT
+BEGIN:VEVENT
+UID:416142061
+DTSTART:20260726T082714Z
+DTEND:20260726T092714Z
+DTSTAMP:20260726T082714Z
+SUMMARY:🛠️ obtížný hmyz - Jihlava
+LOCATION:Jihlava
+GEO:49.382253;15.600070
+URL:geo:49.382253,15.600070
+DESCRIPTION:📍 Sasov\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+END:VEVENT
+BEGIN:VEVENT
+UID:416143061
+DTSTART:20260726T083148Z
+DTEND:20260726T093148Z
+DTSTAMP:20260726T083148Z
+SUMMARY:🛠️ obtížný hmyz - Ostrov nad Oslavou
+LOCATION:Ostrov nad Oslavou
+GEO:49.492500;15.986424
+URL:geo:49.492500,15.986424
+DESCRIPTION:📍 Ostrov nad Oslavou\, Žďár nad Sázavou\n\n🚒 CAS (Ostrov nad Os
+ lavou)
 END:VEVENT
 END:VCALENDAR
