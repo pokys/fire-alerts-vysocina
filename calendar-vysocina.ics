@@ -5,31 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:416066061
-DTSTART:20260724T162712Z
-DTEND:20260724T172712Z
-DTSTAMP:20260724T162712Z
-SUMMARY:🛠️ strom - Žďár nad Sázavou
-LOCATION:Smetanova\, Žďár nad Sázavou
-GEO:49.559440;15.944268
-URL:geo:49.559440,15.944268
-DESCRIPTION:📍 Smetanova\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n💬 Odstraně
- ní větve z komunikace.\n\n🚒 CAS (Žďár nad Sázavou-Zámek)
-END:VEVENT
-BEGIN:VEVENT
-UID:416067061
-DTSTART:20260724T162915Z
-DTEND:20260724T172915Z
-DTSTAMP:20260724T162915Z
-SUMMARY:🚗 dopravní nehoda - Nové Syrovice
-LOCATION:Nové Syrovice
-GEO:49.027673;15.792301
-URL:geo:49.027673,15.792301
-DESCRIPTION:📍 Krnčice\, Nové Syrovice\, Třebíč\n💬 Dopravní nehoda cyklisty 
- se zraněním 1 osoby\, zajištění místa zásahu.\n\n🚒 CAS (HS Moravské Budějo
- vice)
-END:VEVENT
-BEGIN:VEVENT
 UID:416069061
 DTSTART:20260724T163333Z
 DTEND:20260724T173333Z
