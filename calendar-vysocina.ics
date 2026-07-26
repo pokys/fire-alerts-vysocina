@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:416073061
-DTSTART:20260724T190530Z
-DTEND:20260724T200530Z
-DTSTAMP:20260724T190530Z
-SUMMARY:🛠️ obtížný hmyz - Krásné
-LOCATION:Krásné
-GEO:49.677852;16.145002
-URL:geo:49.677852,16.145002
-DESCRIPTION:📍 Krásné\, Žďár nad Sázavou\n💬 Odstranění obtížného hmyzu.\n\n🚒
-  DA (Krásné)
-END:VEVENT
-BEGIN:VEVENT
 UID:416075061
 DTSTART:20260724T200826Z
 DTEND:20260724T210826Z
@@ -234,9 +222,9 @@ URL:geo:49.626135,15.560422
 DESCRIPTION:💬 Požár nízkokmeného lesního porostu. Provedena lokalizace a li
  kvidace.\n\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 vozi
  dlo účelové - SxS (CHS Havlíčkův Brod)\n🚒 pila řetězová (CHS Havlíčkův Bro
- d)\n🚒 DA (Havlíčkův Brod-Perknov)\n🚒 CAS (Havlíčkův Brod-Perknov)\n🚒 CAS (
- HS Světlá nad Sázavou)\n🚒 CAS (Lučice)\n🚒 vyšetřovací automobil (ÚO Havlíč
- kův Brod)
+ d) ×2\n🚒 DA (Havlíčkův Brod-Perknov)\n🚒 CAS (Havlíčkův Brod-Perknov)\n🚒 CA
+ S (HS Světlá nad Sázavou)\n🚒 CAS (Lučice)\n🚒 vyšetřovací automobil (ÚO Hav
+ líčkův Brod)
 END:VEVENT
 BEGIN:VEVENT
 UID:416101061
