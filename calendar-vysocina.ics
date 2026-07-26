@@ -716,8 +716,9 @@ SUMMARY:🔥 les - Jihlava
 LOCATION:Jihlava
 GEO:49.371817;15.511771
 URL:geo:49.371817,15.511771
-DESCRIPTION:📍 Vysoká\, Jihlava\n\n🚒 CAS (CHS Jihlava)\n🚒 CAS (CHS Jihlava)\
- n🚒 CAS (HS Třešť)\n🚒 CAS (Jihlava-Bedřichov)
+DESCRIPTION:📍 Vysoká\, Jihlava\n💬 Požár hrabanky\, beze škody. Lokalizace a
+  likvidaci požáru.\n\n🚒 CAS (CHS Jihlava)\n🚒 CAS (CHS Jihlava)\n🚒 CAS (HS 
+ Třešť)\n🚒 CAS (Jihlava-Bedřichov)
 END:VEVENT
 BEGIN:VEVENT
 UID:416148061
@@ -730,5 +731,27 @@ GEO:49.139074;15.563034
 URL:geo:49.139074,15.563034
 DESCRIPTION:📍 Náměstí\, Nová Říše\, Jihlava\n\n🚒 CAS (HS Telč)\n🚒 CAS (Nová
   Říše)
+END:VEVENT
+BEGIN:VEVENT
+UID:416150061
+DTSTART:20260726T131333Z
+DTEND:20260726T141333Z
+DTSTAMP:20260726T131333Z
+SUMMARY:🛠️ strom - Těchobuz
+LOCATION:Těchobuz
+GEO:49.507035;14.953959
+URL:geo:49.507035,14.953959
+DESCRIPTION:📍 Těchobuz\, Pelhřimov\n\n🚒 CAS (HS Pacov)
+END:VEVENT
+BEGIN:VEVENT
+UID:416151061
+DTSTART:20260726T132211Z
+DTEND:20260726T142211Z
+DTSTAMP:20260726T132211Z
+SUMMARY:🛠️ otevření bytu/auta - Jihlava
+LOCATION:Za Prachárnou\, Jihlava
+GEO:49.397606;15.566229
+URL:geo:49.397606,15.566229
+DESCRIPTION:📍 Za Prachárnou\, Jihlava\n\n🚒 CAS (CHS Jihlava)
 END:VEVENT
 END:VCALENDAR
