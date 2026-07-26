@@ -5,20 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:416038061
-DTSTART:20260724T095134Z
-DTEND:20260724T105134Z
-DTSTAMP:20260724T095134Z
-SUMMARY:🚗 dopravní nehoda - Kyjov
-LOCATION:Kyjov
-GEO:49.613346;15.623985
-URL:geo:49.613346,15.623985
-DESCRIPTION:📍 Dvorce\, Kyjov\, Havlíčkův Brod\n💬 DN 2x OA se zraněním osob.
-  ZZS transportovala dvě zráněné osoby k dalšímu ošetření do ON. Zajištění 
- vozidel proti požáru. Odstranění následků po DN.\n\n🚒 CAS (CHS Havlíčkův B
- rod)
-END:VEVENT
-BEGIN:VEVENT
 UID:416048061
 DTSTART:20260724T122030Z
 DTEND:20260724T132030Z
