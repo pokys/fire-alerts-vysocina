@@ -787,7 +787,10 @@ LOCATION:Předín
 GEO:49.223473;15.701926
 URL:geo:49.223473,15.701926
 DESCRIPTION:📍 Předín\, Třebíč\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (CHS Třebíč)\n🚒 
- DA (Heraltice)\n🚒 DA (Okříšky)\n🚒 CAS (Okříšky) ×2\n🚒 CAS (Opatov (TR))
+ DA (Heraltice)\n🚒 DA (Okříšky)\n🚒 CAS (Okříšky) ×2\n🚒 CAS (Opatov (TR))\n🚒
+  CAS (Dlouhá Brtnice)\n🚒 CAS (Stará Říše)\n🚒 CAS (Rokytnice nad Rokytnou)\
+ n🚒 DA (Želetava)\n🚒 CAS (Želetava)\n🚒 CAS (Kněžice)\n🚒 vyšetřovací automob
+ il (ÚO Třebíč)
 END:VEVENT
 BEGIN:VEVENT
 UID:416217061
@@ -798,7 +801,8 @@ SUMMARY:🛠️ obtížný hmyz - Kamenice
 LOCATION:Kamenice
 GEO:49.367386;15.784215
 URL:geo:49.367386,15.784215
-DESCRIPTION:📍 Kamenice\, Jihlava\n\n🚒 CAS (HS Polná)
+DESCRIPTION:📍 Kamenice\, Jihlava\n💬 Odstranění obtížného hmyzu.\n\n🚒 CAS (H
+ S Polná)
 END:VEVENT
 BEGIN:VEVENT
 UID:416220061
