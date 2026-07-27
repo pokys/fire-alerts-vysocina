@@ -5,31 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:416116061
-DTSTART:20260725T164651Z
-DTEND:20260725T174651Z
-DTSTAMP:20260725T164651Z
-SUMMARY:🚗 dopravní nehoda - Moravské Budějovice
-LOCATION:Moravské Budějovice
-GEO:49.047771;15.816546
-URL:geo:49.047771,15.816546
-DESCRIPTION:📍 Moravské Budějovice\, Třebíč\n💬 DN 1 OA a motocyklu\, jedna z
- raněná osoba. Úklid vozovky.\n\n🚒 CAS (HS Moravské Budějovice)
-END:VEVENT
-BEGIN:VEVENT
-UID:416117061
-DTSTART:20260725T165250Z
-DTEND:20260725T175250Z
-DTSTAMP:20260725T165250Z
-SUMMARY:🛠️ ostatní - Nová Cerekev
-LOCATION:Nová Cerekev
-GEO:49.428065;15.116924
-URL:geo:49.428065,15.116924
-DESCRIPTION:📍 Nová Cerekev\, Pelhřimov\n💬 Ohlášen požár OA\, průzkumem zjiš
- těno\, že se jedná o tech. závadu na OA.\n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (
- Nová Cerekev)
-END:VEVENT
-BEGIN:VEVENT
 UID:416121061
 DTSTART:20260725T172255Z
 DTEND:20260725T182255Z
@@ -803,8 +778,9 @@ SUMMARY:🛠️ ostatní - Lavičky
 LOCATION:Lavičky
 GEO:49.378029;15.979803
 URL:geo:49.378029,15.979803
-DESCRIPTION:📍 Lavičky\, Žďár nad Sázavou\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZ
- A (HS Velké Meziříčí)\n🚒 CAS (Velké Meziříčí)\n🚒 CAS (Velké Meziříčí)
+DESCRIPTION:📍 Lavičky\, Žďár nad Sázavou\n💬 Doutnající balík slámy. Jednotk
+ a provedla prolití. Beze škody.\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (HS Ve
+ lké Meziříčí)\n🚒 CAS (Velké Meziříčí)\n🚒 CAS (Velké Meziříčí)
 END:VEVENT
 BEGIN:VEVENT
 UID:416225061
@@ -827,7 +803,18 @@ SUMMARY:🚑 otevření/asistence - Náměšť nad Oslavou
 LOCATION:Zborovská\, Náměšť nad Oslavou
 GEO:49.202974;16.146649
 URL:geo:49.202974,16.146649
-DESCRIPTION:📍 Zborovská\, Náměšť nad Oslavou\, Třebíč\n\n🚒 CAS (HS Náměšť n
- ad Oslavou)
+DESCRIPTION:📍 Zborovská\, Náměšť nad Oslavou\, Třebíč\n💬 Otevření bytu.\n\n
+ 🚒 CAS (HS Náměšť nad Oslavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:416229061
+DTSTART:20260727T162800Z
+DTEND:20260727T172800Z
+DTSTAMP:20260727T162800Z
+SUMMARY:🔥 venkovní požár - Náměšť nad Oslavou
+LOCATION:Náměšť nad Oslavou
+GEO:49.197822;16.155807
+URL:geo:49.197822,16.155807
+DESCRIPTION:📍 Náměšť nad Oslavou\, Třebíč\n\n🚒 CAS (HS Náměšť nad Oslavou)
 END:VEVENT
 END:VCALENDAR
