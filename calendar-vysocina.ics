@@ -5,33 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:416102061
-DTSTART:20260725T124013Z
-DTEND:20260725T134013Z
-DTSTAMP:20260725T124013Z
-SUMMARY:🔥 tráva/plocha - Černíč
-LOCATION:Černíč
-GEO:49.124359;15.457379
-URL:geo:49.124359,15.457379
-DESCRIPTION:📍 Černíč\, Jihlava\n💬 Požár pole na ploše 2ha. Provedena lokali
- zace a likvidace.\n\n🚒 CAS (HS Telč)\n🚒 CAS (HS Telč)\n🚒 DA (Černíč)\n🚒 CA
- S (Telč)\n🚒 CAS (HS Dačice)\n🚒 CAS (HS Dačice)
-END:VEVENT
-BEGIN:VEVENT
-UID:416103061
-DTSTART:20260725T124016Z
-DTEND:20260725T134016Z
-DTSTAMP:20260725T124016Z
-SUMMARY:🔥 tráva/plocha - Výčapy
-LOCATION:Výčapy
-GEO:49.144032;15.870169
-URL:geo:49.144032,15.870169
-DESCRIPTION:📍 Výčapy\, Třebíč\n💬 Požár balíků slámy. Bez zranění\, beze ško
- dy. Lokalizace a likvidace.\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (CHS Třebíč)\n🚒 C
- AS (Jaroměřice nad Rokytnou)\n🚒 CAS (Jaroměřice nad Rokytnou)\n🚒 DA (Výčap
- y)
-END:VEVENT
-BEGIN:VEVENT
 UID:416104061
 DTSTART:20260725T133128Z
 DTEND:20260725T143128Z
