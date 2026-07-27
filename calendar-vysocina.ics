@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:416127061
-DTSTART:20260725T200242Z
-DTEND:20260725T210242Z
-DTSTAMP:20260725T200242Z
-SUMMARY:🛠️ ostatní - Ždírec nad Doubravou
-LOCATION:Ždírec nad Doubravou
-GEO:49.702522;15.826430
-URL:geo:49.702522,15.826430
-DESCRIPTION:📍 Kohoutov\, Ždírec nad Doubravou\, Havlíčkův Brod\n💬 Odchyt ov
- cí ohrožujících provoz na komunikaci.\n\n🚒 CAS (Ždírec nad Doubravou)
-END:VEVENT
-BEGIN:VEVENT
 UID:416128061
 DTSTART:20260725T205540Z
 DTEND:20260725T215540Z
@@ -679,12 +667,12 @@ SUMMARY:🔥 les - Předín
 LOCATION:Předín
 GEO:49.223473;15.701926
 URL:geo:49.223473,15.701926
-DESCRIPTION:📍 Předín\, Třebíč\n💬 Požár lesa 50x100 m\, Lokalizace.\n\n🚒 CAS
-  (CHS Třebíč)\n🚒 CAS (CHS Třebíč)\n🚒 DA (Heraltice)\n🚒 DA (Okříšky)\n🚒 CAS
-  (Okříšky) ×2\n🚒 CAS (Opatov (TR))\n🚒 CAS (Dlouhá Brtnice)\n🚒 CAS (Stará Ř
- íše)\n🚒 DA (Rokytnice nad Rokytnou)\n🚒 CAS (Rokytnice nad Rokytnou)\n🚒 DA 
- (Želetava)\n🚒 CAS (Želetava)\n🚒 CAS (Kněžice)\n🚒 vyšetřovací automobil (ÚO
-  Třebíč)\n🚒 DA (Předín)\n🚒 CAS (Předín)
+DESCRIPTION:📍 Předín\, Třebíč\n💬 Požár lesa 50x100 m\, Lokalizace a likvida
+ ce.\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (CHS Třebíč)\n🚒 DA (Heraltice)\n🚒 DA (Okř
+ íšky)\n🚒 CAS (Okříšky) ×2\n🚒 CAS (Opatov (TR))\n🚒 CAS (Dlouhá Brtnice)\n🚒 
+ CAS (Stará Říše)\n🚒 DA (Rokytnice nad Rokytnou)\n🚒 CAS (Rokytnice nad Roky
+ tnou)\n🚒 DA (Želetava)\n🚒 CAS (Želetava)\n🚒 CAS (Kněžice)\n🚒 vyšetřovací a
+ utomobil (ÚO Třebíč)\n🚒 DA (Předín)\n🚒 CAS (Předín)
 END:VEVENT
 BEGIN:VEVENT
 UID:416217061
