@@ -5,23 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:416100061
-DTSTART:20260725T111326Z
-DTEND:20260725T121326Z
-DTSTAMP:20260725T111326Z
-SUMMARY:🔥 les - Havlíčkův Brod
-LOCATION:Havlíčkův Brod
-GEO:49.626135;15.560422
-URL:geo:49.626135,15.560422
-DESCRIPTION:💬 Požár nízkokmeného lesního porostu. Provedena lokalizace a li
- kvidace.\n\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 vozi
- dlo účelové - SxS (CHS Havlíčkův Brod)\n🚒 pila řetězová (CHS Havlíčkův Bro
- d) ×2\n🚒 DA (Havlíčkův Brod-Perknov)\n🚒 CAS (Havlíčkův Brod-Perknov)\n🚒 st
- říkačka přenosná (Havlíčkův Brod-Perknov)\n🚒 čerpadlo kalové (Havlíčkův Br
- od-Perknov)\n🚒 CAS (HS Světlá nad Sázavou)\n🚒 CAS (Lučice)\n🚒 vyšetřovací 
- automobil (ÚO Havlíčkův Brod)
-END:VEVENT
-BEGIN:VEVENT
 UID:416101061
 DTSTART:20260725T121617Z
 DTEND:20260725T131617Z
