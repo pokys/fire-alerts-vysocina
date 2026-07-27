@@ -738,8 +738,8 @@ SUMMARY:🛠️ strom - Velké Meziříčí
 LOCATION:Nad Plovárnou\, Velké Meziříčí
 GEO:49.354050;16.007835
 URL:geo:49.354050,16.007835
-DESCRIPTION:📍 Nad Plovárnou\, Velké Meziříčí\, Žďár nad Sázavou\n\n🚒 CAS (H
- S Velké Meziříčí)
+DESCRIPTION:📍 Nad Plovárnou\, Velké Meziříčí\, Žďár nad Sázavou\n💬 Odstraně
+ ní stromu.\n\n🚒 CAS (HS Velké Meziříčí)
 END:VEVENT
 BEGIN:VEVENT
 UID:416210061
@@ -788,5 +788,17 @@ GEO:49.077749;16.190962
 URL:geo:49.077749,16.190962
 DESCRIPTION:📍 Dukovany\, Třebíč\n💬 Otevření rodinného domu.\n\n🚒 CAS (HS Hr
  otovice)
+END:VEVENT
+BEGIN:VEVENT
+UID:416215061
+DTSTART:20260727T142946Z
+DTEND:20260727T152946Z
+DTSTAMP:20260727T142946Z
+SUMMARY:🔥 les - Heraltice
+LOCATION:Heraltice
+GEO:49.225048;15.723444
+URL:geo:49.225048,15.723444
+DESCRIPTION:📍 Heraltice\, Třebíč\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (CHS Třebíč)\
+ n🚒 DA (Heraltice)\n🚒 CAS (Okříšky) ×2\n🚒 CAS (Opatov (TR))
 END:VEVENT
 END:VCALENDAR
