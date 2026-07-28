@@ -768,7 +768,8 @@ SUMMARY:🛠️ obtížný hmyz - Štoky
 LOCATION:Štoky
 GEO:49.505265;15.586675
 URL:geo:49.505265,15.586675
-DESCRIPTION:📍 Štoky\, Havlíčkův Brod\n\n🚒 DA (Štoky)
+DESCRIPTION:📍 Štoky\, Havlíčkův Brod\n💬 Odstranění obtížného hmyzu.\n\n🚒 DA
+  (Štoky)
 END:VEVENT
 BEGIN:VEVENT
 UID:416277061
@@ -779,9 +780,9 @@ SUMMARY:🔥 venkovní požár - Ledeč nad Sázavou
 LOCATION:Ledeč nad Sázavou
 GEO:49.682257;15.301529
 URL:geo:49.682257,15.301529
-DESCRIPTION:📍 Ledeč nad Sázavou\, Havlíčkův Brod\n\n🚒 CAS (HS Ledeč nad Sáz
- avou)\n🚒 CAS (Ledeč nad Sázavou)\n🚒 CAS (HS Světlá nad Sázavou)\n🚒 CAS (Ko
- žlí)
+DESCRIPTION:📍 Ledeč nad Sázavou\, Havlíčkův Brod\n💬 Požár nedohašeného ohni
+ ště. Provedeno uhašení.\n\n🚒 CAS (HS Ledeč nad Sázavou)\n🚒 CAS (Ledeč nad 
+ Sázavou)\n🚒 CAS (HS Světlá nad Sázavou)\n🚒 CAS (Kožlí)
 END:VEVENT
 BEGIN:VEVENT
 UID:416279061
@@ -794,5 +795,16 @@ GEO:49.612873;15.563613
 URL:geo:49.612873,15.563613
 DESCRIPTION:📍 Rozkošská\, Havlíčkův Brod\n💬 Požár odpadkové koše\, bez účas
  ti jednotek.
+END:VEVENT
+BEGIN:VEVENT
+UID:416280061
+DTSTART:20260728T135602Z
+DTEND:20260728T145602Z
+DTSTAMP:20260728T135602Z
+SUMMARY:🚗 bez zranění - Výčapy
+LOCATION:Výčapy
+GEO:49.142323;15.882843
+URL:geo:49.142323,15.882843
+DESCRIPTION:📍 Výčapy\, Třebíč\n\n🚒 CAS (CHS Třebíč)
 END:VEVENT
 END:VCALENDAR
