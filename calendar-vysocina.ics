@@ -767,4 +767,42 @@ GEO:49.405763;15.592800
 URL:geo:49.405763,15.592800
 DESCRIPTION:📍 Okružní\, Jihlava\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihlava)
 END:VEVENT
+BEGIN:VEVENT
+UID:416272061
+DTSTART:20260728T123422Z
+DTEND:20260728T133422Z
+DTSTAMP:20260728T123422Z
+SUMMARY:🔥 tráva/plocha - Nová Cerekev
+LOCATION:Nová Cerekev
+GEO:49.438016;15.131219
+URL:geo:49.438016,15.131219
+DESCRIPTION:📍 Stanovice\, Nová Cerekev\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)
+ \n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (Nová Cerekev) ×2\n🚒 DA (Olešná (PE))\n🚒 CA
+ S (Olešná (PE))\n🚒 CAS (Červená Řečice)\n🚒 CAS (HS Pacov)\n🚒 CAS (HS Pacov
+ )\n🚒 vyšetřovací automobil (ÚO Pelhřimov)
+END:VEVENT
+BEGIN:VEVENT
+UID:416276061
+DTSTART:20260728T124053Z
+DTEND:20260728T134053Z
+DTSTAMP:20260728T124053Z
+SUMMARY:🛠️ obtížný hmyz - Štoky
+LOCATION:Štoky
+GEO:49.505265;15.586675
+URL:geo:49.505265,15.586675
+DESCRIPTION:📍 Štoky\, Havlíčkův Brod\n\n🚒 DA (Štoky)
+END:VEVENT
+BEGIN:VEVENT
+UID:416277061
+DTSTART:20260728T124119Z
+DTEND:20260728T134119Z
+DTSTAMP:20260728T124119Z
+SUMMARY:🔥 venkovní požár - Ledeč nad Sázavou
+LOCATION:Ledeč nad Sázavou
+GEO:49.682257;15.301529
+URL:geo:49.682257,15.301529
+DESCRIPTION:📍 Ledeč nad Sázavou\, Havlíčkův Brod\n\n🚒 CAS (HS Ledeč nad Sáz
+ avou)\n🚒 CAS (Ledeč nad Sázavou)\n🚒 CAS (HS Světlá nad Sázavou)\n🚒 CAS (Ko
+ žlí)
+END:VEVENT
 END:VCALENDAR
