@@ -88,4 +88,16 @@ URL:geo:49.441156,15.252389
 DESCRIPTION:📍 Olešná\, Pelhřimov\n💬 DN se zraněním\, asistence ZZS\, zajišt
  ění místa události.\n\n🚒 CAS (CHS Pelhřimov)
 END:VEVENT
+BEGIN:VEVENT
+UID:416256061
+DTSTART:20260728T084445Z
+DTEND:20260728T094445Z
+DTSTAMP:20260728T084445Z
+SUMMARY:🛠️ spolupráce IZS - Počátky
+LOCATION:Tyršova\, Počátky
+GEO:49.261657;15.238900
+URL:geo:49.261657,15.238900
+DESCRIPTION:📍 Tyršova\, Počátky\, Pelhřimov\n\n🚒 CAS (HS Kamenice nad Lipou
+ )\n🚒 CAS (Počátky)
+END:VEVENT
 END:VCALENDAR
