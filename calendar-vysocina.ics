@@ -758,8 +758,8 @@ SUMMARY:🛠️ obtížný hmyz - Nové Město na Moravě
 LOCATION:Nad Městem\, Nové Město na Moravě
 GEO:49.575923;16.069194
 URL:geo:49.575923,16.069194
-DESCRIPTION:📍 Nad Městem\, Nové Město na Moravě\, Žďár nad Sázavou\n\n🚒 CAS
-  (CHS Žďár nad Sázavou)
+DESCRIPTION:📍 Nad Městem\, Nové Město na Moravě\, Žďár nad Sázavou\n💬 Odstr
+ anění obtížného hmyzu.\n\n🚒 CAS (CHS Žďár nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:416256061
@@ -772,5 +772,29 @@ GEO:49.261657;15.238900
 URL:geo:49.261657,15.238900
 DESCRIPTION:📍 Tyršova\, Počátky\, Pelhřimov\n💬 Spolupráce se ZZS.\n\n🚒 CAS 
  (HS Kamenice nad Lipou)\n🚒 CAS (Počátky)
+END:VEVENT
+BEGIN:VEVENT
+UID:416257061
+DTSTART:20260728T091441Z
+DTEND:20260728T101441Z
+DTSTAMP:20260728T091441Z
+SUMMARY:🛠️ obtížný hmyz - Zubří
+LOCATION:Zubří
+GEO:49.570382;16.122798
+URL:geo:49.570382,16.122798
+DESCRIPTION:📍 Zubří\, Žďár nad Sázavou\n💬 Odstranění obtížného hmyzu.\n\n🚒 
+ CAS (CHS Žďár nad Sázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:416260061
+DTSTART:20260728T093040Z
+DTEND:20260728T103040Z
+DTSTAMP:20260728T093040Z
+SUMMARY:🛠️ obtížný hmyz - Bystřice nad Pernštejnem
+LOCATION:Višňová\, Bystřice nad Pernštejnem
+GEO:49.519631;16.261178
+URL:geo:49.519631,16.261178
+DESCRIPTION:📍 Višňová\, Bystřice nad Pernštejnem\, Žďár nad Sázavou\n\n🚒 CA
+ S (HS Bystřice nad Pernštejnem)
 END:VEVENT
 END:VCALENDAR
