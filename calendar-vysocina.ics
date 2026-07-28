@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:416141061
-DTSTART:20260726T080944Z
-DTEND:20260726T090944Z
-DTSTAMP:20260726T080944Z
-SUMMARY:🛠️ otevření bytu/auta - Jakubov u Moravských Budějovic
-LOCATION:Jakubov u Moravských Budějovic
-GEO:49.082663;15.761916
-URL:geo:49.082663,15.761916
-DESCRIPTION:📍 Jakubov u Moravských Budějovic\, Třebíč\n💬 Otevření bytu.\n\n
- 🚒 CAS (HS Moravské Budějovice)
-END:VEVENT
-BEGIN:VEVENT
 UID:416142061
 DTSTART:20260726T082714Z
 DTEND:20260726T092714Z
@@ -672,8 +660,9 @@ SUMMARY:🚗 dopravní nehoda - Hladov
 LOCATION:Hladov
 GEO:49.209158;15.614249
 URL:geo:49.209158,15.614249
-DESCRIPTION:📍 Hladov\, Jihlava\n\n🚒 CAS (HS Třešť)\n🚒 DA (Želetava)\n🚒 CAS 
- (Želetava)
+DESCRIPTION:📍 Hladov\, Jihlava\n💬 DN 1 OA a NA se zraněním jedné osoby. Pro
+ vedena PPO. Zajištění místa události.\n\n🚒 CAS (HS Třešť)\n🚒 DA (Želetava)
+ \n🚒 CAS (Želetava)
 END:VEVENT
 BEGIN:VEVENT
 UID:416240061
@@ -768,9 +757,9 @@ SUMMARY:🔥 Žďár nad Sázavou
 LOCATION:Brodská\, Žďár nad Sázavou
 GEO:49.564960;15.928785
 URL:geo:49.564960,15.928785
-DESCRIPTION:📍 Brodská\, Žďár nad Sázavou 3\, Žďár nad Sázavou\n\n🚒 CAS (CHS
-  Žďár nad Sázavou) ×2\n🚒 automobilová plošina nad 30 m (CHS Žďár nad Sázav
- ou)\n🚒 CAS (Žďár nad Sázavou-Zámek)
+DESCRIPTION:📍 Brodská\, Žďár nad Sázavou 3\, Žďár nad Sázavou\n💬 Připálené 
+ potraviny na sporáku.\n\n🚒 CAS (CHS Žďár nad Sázavou) ×2\n🚒 automobilová p
+ lošina nad 30 m (CHS Žďár nad Sázavou)\n🚒 CAS (Žďár nad Sázavou-Zámek)
 END:VEVENT
 BEGIN:VEVENT
 UID:416254061
@@ -781,7 +770,7 @@ SUMMARY:🚑 otevření/asistence - Nové Město na Moravě
 LOCATION:Vančurova\, Nové Město na Moravě
 GEO:49.570401;16.079331
 URL:geo:49.570401,16.079331
-DESCRIPTION:📍 Vančurova\, Nové Město na Moravě\, Žďár nad Sázavou\n\n🚒 CAS 
- (CHS Žďár nad Sázavou)
+DESCRIPTION:📍 Vančurova\, Nové Město na Moravě\, Žďár nad Sázavou\n💬 Otevře
+ ní bytu.\n\n🚒 CAS (CHS Žďár nad Sázavou)
 END:VEVENT
 END:VCALENDAR
