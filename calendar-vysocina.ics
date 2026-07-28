@@ -571,11 +571,11 @@ LOCATION:Předín
 GEO:49.223473;15.701926
 URL:geo:49.223473,15.701926
 DESCRIPTION:📍 Předín\, Třebíč\n💬 Požár lesa 50x100 m\, Lokalizace a likvida
- ce.\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (CHS Třebíč)\n🚒 DA (Heraltice)\n🚒 DA (Okř
- íšky)\n🚒 CAS (Okříšky) ×2\n🚒 CAS (Opatov (TR))\n🚒 CAS (Dlouhá Brtnice)\n🚒 
- CAS (Stará Říše)\n🚒 DA (Rokytnice nad Rokytnou)\n🚒 CAS (Rokytnice nad Roky
- tnou)\n🚒 DA (Želetava)\n🚒 CAS (Želetava)\n🚒 CAS (Kněžice)\n🚒 vyšetřovací a
- utomobil (ÚO Třebíč)\n🚒 DA (Předín)\n🚒 CAS (Předín)
+ ce požáru.\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (CHS Třebíč)\n🚒 DA (Heraltice)\n🚒 
+ DA (Okříšky)\n🚒 CAS (Okříšky) ×2\n🚒 CAS (Opatov (TR))\n🚒 CAS (Dlouhá Brtni
+ ce)\n🚒 CAS (Stará Říše)\n🚒 DA (Rokytnice nad Rokytnou)\n🚒 CAS (Rokytnice n
+ ad Rokytnou)\n🚒 DA (Želetava)\n🚒 CAS (Želetava)\n🚒 CAS (Kněžice)\n🚒 vyšetř
+ ovací automobil (ÚO Třebíč)\n🚒 DA (Předín)\n🚒 CAS (Předín)
 END:VEVENT
 BEGIN:VEVENT
 UID:416217061
@@ -599,9 +599,9 @@ LOCATION:Velké Meziříčí
 GEO:49.377263;16.008211
 URL:geo:49.377263,16.008211
 DESCRIPTION:📍 Mostiště\, Velké Meziříčí\, Žďár nad Sázavou\n💬 Požár meze 10
- x10m. Provedena lokalizace a likvidace požáru. Požár beze škody.\n\n🚒 CAS 
- (HS Velké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)\n🚒 DA (Křižanov)\n🚒 CAS (Kř
- ižanov)\n🚒 DA (Velké Meziříčí-Mostiště)\n🚒 CAS (Velké Meziříčí)
+ x10m. Provedena lokalizace a likvidace požáru.\n\n🚒 CAS (HS Velké Meziříčí
+ )\n🚒 RZA (HS Velké Meziříčí)\n🚒 DA (Křižanov)\n🚒 CAS (Křižanov)\n🚒 DA (Vel
+ ké Meziříčí-Mostiště)\n🚒 CAS (Velké Meziříčí)
 END:VEVENT
 BEGIN:VEVENT
 UID:416221061
@@ -625,8 +625,8 @@ LOCATION:Lavičky
 GEO:49.378029;15.979803
 URL:geo:49.378029,15.979803
 DESCRIPTION:📍 Lavičky\, Žďár nad Sázavou\n💬 Doutnající balík slámy. Jednotk
- a provedla prolití. Beze škody.\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (HS Ve
- lké Meziříčí)\n🚒 CAS (Velké Meziříčí)\n🚒 CAS (Velké Meziříčí)
+ a provedla prolití.\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (HS Velké Meziříčí
+ )\n🚒 CAS (Velké Meziříčí)\n🚒 CAS (Velké Meziříčí)
 END:VEVENT
 BEGIN:VEVENT
 UID:416225061
@@ -662,7 +662,7 @@ LOCATION:Náměšť nad Oslavou
 GEO:49.197822;16.155807
 URL:geo:49.197822,16.155807
 DESCRIPTION:📍 Náměšť nad Oslavou\, Třebíč\n💬 Doutnající ohniště. Lokalizace
-  a likvidace události\, veze škody.\n\n🚒 CAS (HS Náměšť nad Oslavou)
+  a likvidace požáru.\n\n🚒 CAS (HS Náměšť nad Oslavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:416232061
