@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:416169061
-DTSTART:20260726T204758Z
-DTEND:20260726T214758Z
-DTSTAMP:20260726T204758Z
-SUMMARY:🚗 bez zranění - Olešná
-LOCATION:Olešná
-GEO:49.446514;15.266489
-URL:geo:49.446514,15.266489
-DESCRIPTION:📍 Olešná\, Pelhřimov\n💬 DN OA bez zranění. Odstranění následků 
- po DN.\n\n🚒 CAS (CHS Pelhřimov)
-END:VEVENT
-BEGIN:VEVENT
 UID:416173061
 DTSTART:20260726T213153Z
 DTEND:20260726T223153Z
@@ -773,17 +761,6 @@ DESCRIPTION:📍 Dolní Bory\, Bory\, Žďár nad Sázavou\n💬 Odstranění ob
  hmyzu.\n\n🚒 CAS (Bory)
 END:VEVENT
 BEGIN:VEVENT
-UID:416299061
-DTSTART:20260728T173901Z
-DTEND:20260728T183901Z
-DTSTAMP:20260728T173901Z
-SUMMARY:🛠️ ostatní - Putimov
-LOCATION:Putimov
-GEO:49.413828;15.268766
-URL:geo:49.413828,15.268766
-DESCRIPTION:📍 Putimov\, Pelhřimov\n\n🚒 CAS (Nový Rychnov)
-END:VEVENT
-BEGIN:VEVENT
 UID:416300061
 DTSTART:20260728T174159Z
 DTEND:20260728T184159Z
@@ -852,8 +829,8 @@ SUMMARY:🛠️ strom - Humpolec
 LOCATION:Humpolec
 GEO:49.573695;15.357794
 URL:geo:49.573695,15.357794
-DESCRIPTION:📍 Světlice\, Humpolec\, Pelhřimov\n\n🚒 CAS (HS Humpolec)\n🚒 pil
- a řetězová (HS Humpolec)
+DESCRIPTION:📍 Světlice\, Humpolec\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 CA
+ S (HS Humpolec)\n🚒 pila řetězová (HS Humpolec)
 END:VEVENT
 BEGIN:VEVENT
 UID:416306061
@@ -864,8 +841,8 @@ SUMMARY:🔥 les - Nová Cerekev
 LOCATION:Nová Cerekev
 GEO:49.440645;15.140129
 URL:geo:49.440645,15.140129
-DESCRIPTION:📍 Stanovice\, Nová Cerekev\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)
- \n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (Nová Cerekev)\n🚒 DA (Olešná (PE))\n🚒 CAS (
- Olešná (PE))
+DESCRIPTION:📍 Stanovice\, Nová Cerekev\, Pelhřimov\n💬 Jednotka provedla uha
+ šení doutnajícího stromu.\n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (CHS Pelhřimov)\
+ n🚒 CAS (Nová Cerekev)\n🚒 DA (Olešná (PE))\n🚒 CAS (Olešná (PE))
 END:VEVENT
 END:VCALENDAR
