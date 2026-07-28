@@ -766,9 +766,9 @@ SUMMARY:🚗 se zraněním - Obrataň
 LOCATION:Obrataň
 GEO:49.426642;14.935591
 URL:geo:49.426642,14.935591
-DESCRIPTION:📍 Obrataň\, Pelhřimov\n💬 DN 2 OA. Jedna zraněná a jedna zachrán
- ěná osoba. Zajištění místa nehody. Úklid vozovky. Řízení dopravy.\n\n🚒 CAS
-  (HS Pacov)\n🚒 CAS (HS Pacov)
+DESCRIPTION:📍 Obrataň\, Pelhřimov\n💬 DN OA a dodávky. Jedna zraněná a jedna
+  zachráněná osoba. Zajištění místa nehody. Úklid vozovky. Řízení dopravy.\
+ n\n🚒 CAS (HS Pacov)\n🚒 CAS (HS Pacov)
 END:VEVENT
 BEGIN:VEVENT
 UID:416286061
@@ -804,8 +804,8 @@ SUMMARY:🚑 otevření/asistence - Velké Meziříčí
 LOCATION:Karlov\, Velké Meziříčí
 GEO:49.345995;16.040123
 URL:geo:49.345995,16.040123
-DESCRIPTION:📍 Karlov\, Velké Meziříčí\, Žďár nad Sázavou\n\n🚒 RZA (HS Velké
-  Meziříčí)
+DESCRIPTION:📍 Karlov\, Velké Meziříčí\, Žďár nad Sázavou\n💬 Otevření OA.\n\
+ n🚒 RZA (HS Velké Meziříčí)
 END:VEVENT
 BEGIN:VEVENT
 UID:416290061
@@ -816,6 +816,30 @@ SUMMARY:🛠️ ostatní - Nová Ves
 LOCATION:Nová Ves
 GEO:49.248516;15.803847
 URL:geo:49.248516,15.803847
-DESCRIPTION:📍 Nová Ves\, Třebíč\n\n🚒 DA (Nová Ves (TR))
+DESCRIPTION:📍 Nová Ves\, Třebíč\n💬 Provzdušnění rybníka.\n\n🚒 DA (Nová Ves 
+ (TR))
+END:VEVENT
+BEGIN:VEVENT
+UID:416291061
+DTSTART:20260728T155321Z
+DTEND:20260728T165321Z
+DTSTAMP:20260728T155321Z
+SUMMARY:🛠️ obtížný hmyz - Mrákotín
+LOCATION:Mrákotín
+GEO:49.185540;15.376878
+URL:geo:49.185540,15.376878
+DESCRIPTION:📍 Mrákotín\, Jihlava\n💬 Odstranění obtížného hmyzu.\n\n🚒 CAS (H
+ S Telč)
+END:VEVENT
+BEGIN:VEVENT
+UID:416293061
+DTSTART:20260728T161125Z
+DTEND:20260728T171125Z
+DTSTAMP:20260728T161125Z
+SUMMARY:🚗 dopravní nehoda - Žďár nad Sázavou
+LOCATION:Žďár nad Sázavou
+GEO:49.560274;15.976337
+URL:geo:49.560274,15.976337
+DESCRIPTION:📍 Mělkovice\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad Sázavou)
 END:VEVENT
 END:VCALENDAR
