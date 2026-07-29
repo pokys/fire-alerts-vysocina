@@ -952,7 +952,18 @@ SUMMARY:🔥 tráva/plocha - Pikárec
 LOCATION:Pikárec
 GEO:49.431385;16.134541
 URL:geo:49.431385,16.134541
-DESCRIPTION:📍 Pikárec\, Žďár nad Sázavou\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 CA
- S (Křižanov)\n🚒 CAS (Pikárec)\n🚒 CAS (Strážek)
+DESCRIPTION:📍 Pikárec\, Žďár nad Sázavou\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 DA
+  (Křižanov)\n🚒 CAS (Křižanov)\n🚒 CAS (Pikárec)\n🚒 CAS (Strážek)
+END:VEVENT
+BEGIN:VEVENT
+UID:416412061
+DTSTART:20260729T192455Z
+DTEND:20260729T202455Z
+DTSTAMP:20260729T192455Z
+SUMMARY:🚗 dopravní nehoda - Olší
+LOCATION:Olší
+GEO:49.151735;15.377500
+URL:geo:49.151735,15.377500
+DESCRIPTION:📍 Olší\, Jihlava\n\n🚒 CAS (HS Telč)
 END:VEVENT
 END:VCALENDAR
