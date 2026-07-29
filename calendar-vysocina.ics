@@ -137,11 +137,12 @@ GEO:49.223473;15.701926
 URL:geo:49.223473,15.701926
 DESCRIPTION:📍 Předín\, Třebíč\n💬 Požár lesa 50x100 m\, Lokalizace a likvida
  ce požáru.\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (CHS Třebíč)\n🚒 DA (Heraltice)\n🚒 
- DA (Okříšky)\n🚒 CAS (Okříšky) ×2\n🚒 CAS (Opatov (TR))\n🚒 elektrocentrála p
- řenosná (Opatov (TR))\n🚒 CAS (Dlouhá Brtnice)\n🚒 CAS (Stará Říše)\n🚒 DA (R
- okytnice nad Rokytnou)\n🚒 CAS (Rokytnice nad Rokytnou)\n🚒 čerpadlo kalové 
- (Rokytnice nad Rokytnou)\n🚒 DA (Želetava)\n🚒 CAS (Želetava)\n🚒 CAS (Kněžic
- e)\n🚒 vyšetřovací automobil (ÚO Třebíč)\n🚒 DA (Předín)\n🚒 CAS (Předín)
+ stříkačka přenosná (Heraltice) ×2\n🚒 DA (Okříšky)\n🚒 CAS (Okříšky) ×2\n🚒 C
+ AS (Opatov (TR))\n🚒 elektrocentrála přenosná (Opatov (TR))\n🚒 CAS (Dlouhá 
+ Brtnice)\n🚒 CAS (Stará Říše)\n🚒 DA (Rokytnice nad Rokytnou)\n🚒 CAS (Rokytn
+ ice nad Rokytnou)\n🚒 čerpadlo kalové (Rokytnice nad Rokytnou)\n🚒 DA (Želet
+ ava)\n🚒 CAS (Želetava)\n🚒 CAS (Kněžice)\n🚒 vyšetřovací automobil (ÚO Třebí
+ č)\n🚒 DA (Předín)\n🚒 CAS (Předín)
 END:VEVENT
 BEGIN:VEVENT
 UID:416217061
@@ -877,11 +878,11 @@ UID:416365061
 DTSTART:20260729T101914Z
 DTEND:20260729T111914Z
 DTSTAMP:20260729T101914Z
-SUMMARY:🚑 otevření/asistence - Žďár nad Sázavou
-LOCATION:Studentská\, Žďár nad Sázavou
+SUMMARY:🛠️ spolupráce IZS - Žďár nad Sázavou
+LOCATION:nám. Republiky\, Žďár nad Sázavou
 GEO:49.568005;15.942365
 URL:geo:49.568005,15.942365
-DESCRIPTION:📍 Studentská\, Žďár nad Sázavou 4\, Žďár nad Sázavou\n\n🚒 CAS (
- CHS Žďár nad Sázavou)
+DESCRIPTION:📍 nám. Republiky\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n💬 Spo
+ lupráce se složkami IZS.\n\n🚒 CAS (CHS Žďár nad Sázavou) ×2
 END:VEVENT
 END:VCALENDAR
