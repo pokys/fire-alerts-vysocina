@@ -818,6 +818,18 @@ SUMMARY:🚑 záchrana zvířete - Kuroslepy
 LOCATION:Kuroslepy
 GEO:49.156284;16.212273
 URL:geo:49.156284,16.212273
-DESCRIPTION:📍 Kuroslepy\, Třebíč\n\n🚒 CAS (HS Náměšť nad Oslavou)
+DESCRIPTION:📍 Kuroslepy\, Třebíč\n💬 Transport pacienta z terénu na žádost Z
+ ZS.\n\n🚒 CAS (HS Náměšť nad Oslavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:416322061
+DTSTART:20260729T055947Z
+DTEND:20260729T065947Z
+DTSTAMP:20260729T055947Z
+SUMMARY:🛠️ ostatní - Slavětice
+LOCATION:Slavětice
+GEO:49.101511;16.115581
+URL:geo:49.101511,16.115581
+DESCRIPTION:📍 Slavětice\, Třebíč\n\n🚒 CAS (Slavětice)
 END:VEVENT
 END:VCALENDAR
