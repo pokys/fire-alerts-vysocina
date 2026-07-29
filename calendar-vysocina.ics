@@ -829,7 +829,8 @@ SUMMARY:🛠️ obtížný hmyz - Pacov
 LOCATION:Pacov
 GEO:49.468453;14.997101
 URL:geo:49.468453,14.997101
-DESCRIPTION:📍 Pacov\, Pelhřimov\n\n🚒 CAS (HS Pacov)
+DESCRIPTION:📍 Pacov\, Pelhřimov\n💬 Odstranění obtížného hmyzu.\n\n🚒 CAS (HS
+  Pacov)
 END:VEVENT
 BEGIN:VEVENT
 UID:416348061
@@ -840,7 +841,20 @@ SUMMARY:🚗 se zraněním - Střítež
 LOCATION:Střítež
 GEO:49.441048;16.257851
 URL:geo:49.441048,16.257851
-DESCRIPTION:📍 Střítež\, Žďár nad Sázavou\n\n🚒 CAS (HS Bystřice nad Pernštej
- nem)
+DESCRIPTION:📍 Střítež\, Žďár nad Sázavou\n💬 DN OA a motorka. Jedna zraněná 
+ osoba. Protipožární opatření. Úklid vozovky. Spolupráce se ZZS.\n\n🚒 CAS (
+ HS Bystřice nad Pernštejnem)
+END:VEVENT
+BEGIN:VEVENT
+UID:416354061
+DTSTART:20260729T085305Z
+DTEND:20260729T095305Z
+DTSTAMP:20260729T085305Z
+SUMMARY:🚗 dopravní nehoda - Bohdalov
+LOCATION:Bohdalov
+GEO:49.474633;15.879037
+URL:geo:49.474633,15.879037
+DESCRIPTION:📍 Bohdalov\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad Sázavou)\n
+ 🚒 CAS (Bohdalov)
 END:VEVENT
 END:VCALENDAR
