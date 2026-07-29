@@ -777,8 +777,8 @@ DTEND:20260729T145842Z
 DTSTAMP:20260729T135842Z
 SUMMARY:🛠️ ostatní - Radotice
 LOCATION:Radotice
-DESCRIPTION:📍 Radotice\, Třebíč\n💬 Zaparkované OA sjeté k řece.\n\n🚒 CAS (H
- S Jemnice)\n🚒 VYA (CHS Třebíč)
+DESCRIPTION:📍 Radotice\, Třebíč\n💬 Vyproštění vozidla.\n\n🚒 CAS (HS Jemnice
+ )\n🚒 VYA (CHS Třebíč)
 END:VEVENT
 BEGIN:VEVENT
 UID:416379061
@@ -814,6 +814,19 @@ SUMMARY:🛠️ strom - Stříbrné Hory
 LOCATION:Stříbrné Hory
 GEO:49.593364;15.685873
 URL:geo:49.593364,15.685873
-DESCRIPTION:📍 Stříbrné Hory\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)
+DESCRIPTION:📍 Stříbrné Hory\, Havlíčkův Brod\n💬 Odstranění stromu.\n\n🚒 CAS
+  (CHS Havlíčkův Brod)
+END:VEVENT
+BEGIN:VEVENT
+UID:416386061
+DTSTART:20260729T150623Z
+DTEND:20260729T160623Z
+DTSTAMP:20260729T150623Z
+SUMMARY:🛠️ obtížný hmyz - Bystřice nad Pernštejnem
+LOCATION:Horní\, Bystřice nad Pernštejnem
+GEO:49.517409;16.270486
+URL:geo:49.517409,16.270486
+DESCRIPTION:📍 Horní\, Bystřice nad Pernštejnem\, Žďár nad Sázavou\n💬 Odstra
+ nění obtížného hmyzu.\n\n🚒 CAS (HS Bystřice nad Pernštejnem)
 END:VEVENT
 END:VCALENDAR
