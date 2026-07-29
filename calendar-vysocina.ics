@@ -815,10 +815,11 @@ SUMMARY:🔥 tráva/plocha - Bobrůvka
 LOCATION:Bobrůvka
 GEO:49.440809;16.090413
 URL:geo:49.440809,16.090413
-DESCRIPTION:📍 Bobrůvka\, Žďár nad Sázavou\n💬 Likvidace požáru slámy na poli
- .\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (Bo
- brová)\n🚒 DA (Bobrůvka)\n🚒 DA (Křižanov)\n🚒 CAS (Křižanov)\n🚒 vyšetřovací 
- automobil (ÚO Žďár nad Sázavou)
+DESCRIPTION:📍 Bobrůvka\, Žďár nad Sázavou\n💬 Požár strniště a slámy. Proved
+ ena lokalizace a likvidace požáru.\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS 
+ (CHS Žďár nad Sázavou)\n🚒 DA (Bobrová)\n🚒 CAS (Bobrová)\n🚒 DA (Bobrůvka)\n
+ 🚒 DA (Křižanov)\n🚒 CAS (Křižanov)\n🚒 vyšetřovací automobil (ÚO Žďár nad Sá
+ zavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:416395061
@@ -829,8 +830,8 @@ SUMMARY:🔥 venkovní požár - Třebíč
 LOCATION:Horova\, Třebíč
 GEO:49.209749;15.856314
 URL:geo:49.209749,15.856314
-DESCRIPTION:📍 Horova\, Borovina\, Třebíč\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (CHS 
- Třebíč)
+DESCRIPTION:📍 Horova\, Borovina\, Třebíč\n💬 Uhašený požár pařezu. Provedeno
+  prolití pařezu.\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (CHS Třebíč)
 END:VEVENT
 BEGIN:VEVENT
 UID:416396061
@@ -841,6 +842,44 @@ SUMMARY:🛠️ obtížný hmyz - Těmice
 LOCATION:Těmice
 GEO:49.342938;15.081382
 URL:geo:49.342938,15.081382
-DESCRIPTION:📍 Babín\, Těmice\, Pelhřimov\n\n🚒 CAS (HS Kamenice nad Lipou)
+DESCRIPTION:📍 Babín\, Těmice\, Pelhřimov\n💬 Odstranění obtížného hmyzu.\n\n
+ 🚒 CAS (HS Kamenice nad Lipou)
+END:VEVENT
+BEGIN:VEVENT
+UID:416398061
+DTSTART:20260729T163619Z
+DTEND:20260729T173619Z
+DTSTAMP:20260729T163619Z
+SUMMARY:🛠️ obtížný hmyz - Ruda
+LOCATION:Ruda
+GEO:49.323034;16.123273
+URL:geo:49.323034,16.123273
+DESCRIPTION:📍 Ruda\, Žďár nad Sázavou\n💬 Odstranění obtížného hmyzu.\n\n🚒 C
+ AS (HS Velké Meziříčí)
+END:VEVENT
+BEGIN:VEVENT
+UID:416399061
+DTSTART:20260729T163804Z
+DTEND:20260729T173804Z
+DTSTAMP:20260729T163804Z
+SUMMARY:⚠️ planý poplach - Havlíčkův Brod
+LOCATION:Reynkova\, Havlíčkův Brod
+GEO:49.617233;15.579301
+URL:geo:49.617233,15.579301
+DESCRIPTION:📍 Reynkova\, Havlíčkův Brod\n💬 Požár ohlášený systémem elektric
+ ké požární signalizace. Průzkumem bylo zjištěno\, že se jedná o planý popl
+ ach.\n\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 CAS (CHS Havlíčkův Brod)
+END:VEVENT
+BEGIN:VEVENT
+UID:416402061
+DTSTART:20260729T165201Z
+DTEND:20260729T175201Z
+DTSTAMP:20260729T165201Z
+SUMMARY:🔥 tráva/plocha - Nová Cerekev
+LOCATION:Nová Cerekev
+GEO:49.433265;15.122630
+URL:geo:49.433265,15.122630
+DESCRIPTION:📍 Nová Cerekev\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (CHS
+  Pelhřimov)\n🚒 CAS (HS Pacov)\n🚒 CAS (Nová Cerekev)
 END:VEVENT
 END:VCALENDAR
