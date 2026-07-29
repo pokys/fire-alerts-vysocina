@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:416180061
-DTSTART:20260727T063434Z
-DTEND:20260727T073434Z
-DTSTAMP:20260727T063434Z
-SUMMARY:⚠️ planý poplach - Třebíč
-LOCATION:Koutkova\, Třebíč
-GEO:49.227618;15.871464
-URL:geo:49.227618,15.871464
-DESCRIPTION:📍 Koutkova\, Týn\, Třebíč\n💬 Požár ohlášený systémem elektrické
-  požární signalizace. Průzkumem bylo zjištěno\, že se jedná o planý poplac
- h.\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (CHS Třebíč)
-END:VEVENT
-BEGIN:VEVENT
 UID:416181061
 DTSTART:20260727T070810Z
 DTEND:20260727T080810Z
