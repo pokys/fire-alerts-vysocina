@@ -137,10 +137,11 @@ GEO:49.223473;15.701926
 URL:geo:49.223473,15.701926
 DESCRIPTION:📍 Předín\, Třebíč\n💬 Požár lesa 50x100 m\, Lokalizace a likvida
  ce požáru.\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (CHS Třebíč)\n🚒 DA (Heraltice)\n🚒 
- DA (Okříšky)\n🚒 CAS (Okříšky) ×2\n🚒 CAS (Opatov (TR))\n🚒 CAS (Dlouhá Brtni
- ce)\n🚒 CAS (Stará Říše)\n🚒 DA (Rokytnice nad Rokytnou)\n🚒 CAS (Rokytnice n
- ad Rokytnou)\n🚒 DA (Želetava)\n🚒 CAS (Želetava)\n🚒 CAS (Kněžice)\n🚒 vyšetř
- ovací automobil (ÚO Třebíč)\n🚒 DA (Předín)\n🚒 CAS (Předín) ×2
+ DA (Okříšky)\n🚒 CAS (Okříšky) ×2\n🚒 CAS (Opatov (TR))\n🚒 elektrocentrála p
+ řenosná (Opatov (TR))\n🚒 CAS (Dlouhá Brtnice)\n🚒 CAS (Stará Říše)\n🚒 DA (R
+ okytnice nad Rokytnou)\n🚒 CAS (Rokytnice nad Rokytnou)\n🚒 čerpadlo kalové 
+ (Rokytnice nad Rokytnou)\n🚒 DA (Želetava)\n🚒 CAS (Želetava)\n🚒 CAS (Kněžic
+ e)\n🚒 vyšetřovací automobil (ÚO Třebíč)\n🚒 DA (Předín)\n🚒 CAS (Předín) ×2
 END:VEVENT
 BEGIN:VEVENT
 UID:416217061
@@ -823,7 +824,7 @@ UID:416348061
 DTSTART:20260729T081144Z
 DTEND:20260729T091144Z
 DTSTAMP:20260729T081144Z
-SUMMARY:🚗 se zraněním - Střítež
+SUMMARY:🚗 dopravní nehoda - Střítež
 LOCATION:Střítež
 GEO:49.441048;16.257851
 URL:geo:49.441048,16.257851
@@ -840,8 +841,8 @@ SUMMARY:🚗 dopravní nehoda - Bohdalov
 LOCATION:Bohdalov
 GEO:49.474633;15.879037
 URL:geo:49.474633,15.879037
-DESCRIPTION:📍 Bohdalov\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad Sázavou)\n
- 🚒 CAS (Bohdalov)
+DESCRIPTION:📍 Bohdalov\, Žďár nad Sázavou\n💬 DN OA a cyklisty. Jedna zraněn
+ á osoba.\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (Bohdalov)
 END:VEVENT
 BEGIN:VEVENT
 UID:416356061
@@ -854,5 +855,16 @@ GEO:49.092424;15.895284
 URL:geo:49.092424,15.895284
 DESCRIPTION:📍 Dobrovského\, Jaroměřice nad Rokytnou\, Třebíč\n\n🚒 CAS (Jaro
  měřice nad Rokytnou)
+END:VEVENT
+BEGIN:VEVENT
+UID:416358061
+DTSTART:20260729T091200Z
+DTEND:20260729T101200Z
+DTSTAMP:20260729T091200Z
+SUMMARY:🛠️ ostatní - Jihlava
+LOCATION:Ke Skalce\, Jihlava
+GEO:49.393226;15.580053
+URL:geo:49.393226,15.580053
+DESCRIPTION:📍 Ke Skalce\, Jihlava\n\n🚒 CAS (KŘ HZS VYS)
 END:VEVENT
 END:VCALENDAR
