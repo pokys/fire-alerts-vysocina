@@ -880,7 +880,8 @@ LOCATION:Baliny
 GEO:49.348551;15.956280
 URL:geo:49.348551,15.956280
 DESCRIPTION:📍 Baliny\, Žďár nad Sázavou\n💬 Odstranění stromu.\n\n🚒 přívěs n
- ákladní (Baliny)\n🚒 CAS (HS Velké Meziříčí)
+ ákladní (Baliny)\n🚒 CAS (HS Velké Meziříčí)\n🚒 pila řetězová (HS Velké Mez
+ iříčí)
 END:VEVENT
 BEGIN:VEVENT
 UID:416402061
@@ -891,8 +892,9 @@ SUMMARY:🔥 tráva/plocha - Nová Cerekev
 LOCATION:Nová Cerekev
 GEO:49.433265;15.122630
 URL:geo:49.433265,15.122630
-DESCRIPTION:📍 Nová Cerekev\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (CHS
-  Pelhřimov)\n🚒 CAS (HS Pacov)\n🚒 CAS (Nová Cerekev) ×2
+DESCRIPTION:📍 Nová Cerekev\, Pelhřimov\n💬 Požár pole. Uhašeno před příjezde
+ m jednotek. Požár beze škody.\n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (CHS Pelhřim
+ ov)\n🚒 CAS (HS Pacov)\n🚒 CAS (Nová Cerekev) ×2
 END:VEVENT
 BEGIN:VEVENT
 UID:416404061
@@ -915,7 +917,8 @@ SUMMARY:🛠️ obtížný hmyz - Pacov
 LOCATION:Svatobarborská\, Pacov
 GEO:49.468770;14.998276
 URL:geo:49.468770,14.998276
-DESCRIPTION:📍 Svatobarborská\, Pacov\, Pelhřimov\n\n🚒 CAS (HS Pacov)
+DESCRIPTION:📍 Svatobarborská\, Pacov\, Pelhřimov\n💬 Odstranění obtížného hm
+ yzu.\n\n🚒 CAS (HS Pacov)
 END:VEVENT
 BEGIN:VEVENT
 UID:416408061
@@ -927,5 +930,16 @@ LOCATION:Sázava
 GEO:49.559761;15.866406
 URL:geo:49.559761,15.866406
 DESCRIPTION:📍 Sázava\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad Sázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:416410061
+DTSTART:20260729T185140Z
+DTEND:20260729T195140Z
+DTSTAMP:20260729T185140Z
+SUMMARY:🛠️ obtížný hmyz - Kaliště
+LOCATION:Kaliště
+GEO:49.593728;15.310015
+URL:geo:49.593728,15.310015
+DESCRIPTION:📍 Kaliště\, Pelhřimov\n\n🚒 DA (Humpolec)
 END:VEVENT
 END:VCALENDAR
