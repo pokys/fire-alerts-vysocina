@@ -789,9 +789,9 @@ SUMMARY:🔥 tráva/plocha - Žirovnice
 LOCATION:Žirovnice
 GEO:49.248339;15.136102
 URL:geo:49.248339,15.136102
-DESCRIPTION:📍 Štítné\, Žirovnice\, Pelhřimov\n\n🚒 CAS (HS Kamenice nad Lipo
- u)\n🚒 CAS (HS Kamenice nad Lipou)\n🚒 CAS (Počátky) ×2\n🚒 CAS (Žirovnice)\n
- 🚒 CAS (Žirovnice)
+DESCRIPTION:📍 Štítné\, Žirovnice\, Pelhřimov\n💬 Likvidace požáru strniště.\
+ n\n🚒 CAS (HS Kamenice nad Lipou)\n🚒 CAS (HS Kamenice nad Lipou)\n🚒 CAS (Po
+ čátky) ×2\n🚒 CAS (Žirovnice)\n🚒 CAS (Žirovnice)
 END:VEVENT
 BEGIN:VEVENT
 UID:416385061
@@ -816,5 +816,28 @@ GEO:49.517409;16.270486
 URL:geo:49.517409,16.270486
 DESCRIPTION:📍 Horní\, Bystřice nad Pernštejnem\, Žďár nad Sázavou\n💬 Odstra
  nění obtížného hmyzu.\n\n🚒 CAS (HS Bystřice nad Pernštejnem)
+END:VEVENT
+BEGIN:VEVENT
+UID:416388061
+DTSTART:20260729T152942Z
+DTEND:20260729T162942Z
+DTSTAMP:20260729T152942Z
+SUMMARY:🔥 tráva/plocha - Petrůvky
+LOCATION:Petrůvky
+GEO:49.162342;15.883650
+URL:geo:49.162342,15.883650
+DESCRIPTION:📍 Petrůvky\, Třebíč\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (CHS Třebíč)
+END:VEVENT
+BEGIN:VEVENT
+UID:416390061
+DTSTART:20260729T153037Z
+DTEND:20260729T163037Z
+DTSTAMP:20260729T153037Z
+SUMMARY:🔥 tráva/plocha - Nevcehle
+LOCATION:Nevcehle
+GEO:49.227580;15.546929
+URL:geo:49.227580,15.546929
+DESCRIPTION:📍 Nevcehle\, Jihlava\n\n🚒 CAS (HS Telč)\n🚒 CAS (HS Telč)\n🚒 CAS
+  (Dlouhá Brtnice)\n🚒 CAS (Stonařov)\n🚒 DA (Nevcehle)
 END:VEVENT
 END:VCALENDAR
