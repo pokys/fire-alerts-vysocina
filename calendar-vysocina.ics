@@ -871,6 +871,18 @@ DESCRIPTION:📍 Reynkova\, Havlíčkův Brod\n💬 Požár ohlášený systéme
  ach.\n\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 CAS (CHS Havlíčkův Brod)
 END:VEVENT
 BEGIN:VEVENT
+UID:416401061
+DTSTART:20260729T164414Z
+DTEND:20260729T174414Z
+DTSTAMP:20260729T164414Z
+SUMMARY:🛠️ strom - Baliny
+LOCATION:Baliny
+GEO:49.348551;15.956280
+URL:geo:49.348551,15.956280
+DESCRIPTION:📍 Baliny\, Žďár nad Sázavou\n💬 Odstranění stromu.\n\n🚒 přívěs n
+ ákladní (Baliny)
+END:VEVENT
+BEGIN:VEVENT
 UID:416402061
 DTSTART:20260729T165201Z
 DTEND:20260729T175201Z
@@ -880,6 +892,6 @@ LOCATION:Nová Cerekev
 GEO:49.433265;15.122630
 URL:geo:49.433265,15.122630
 DESCRIPTION:📍 Nová Cerekev\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (CHS
-  Pelhřimov)\n🚒 CAS (HS Pacov)\n🚒 CAS (Nová Cerekev)
+  Pelhřimov)\n🚒 CAS (HS Pacov)\n🚒 CAS (Nová Cerekev) ×2
 END:VEVENT
 END:VCALENDAR
