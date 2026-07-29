@@ -799,12 +799,12 @@ UID:416391061
 DTSTART:20260729T153608Z
 DTEND:20260729T163608Z
 DTSTAMP:20260729T153608Z
-SUMMARY:🛠️ ostatní - Velké Meziříčí
+SUMMARY:🚑 transport pacienta - Velké Meziříčí
 LOCATION:K Buči\, Velké Meziříčí
 GEO:49.349675;16.031213
 URL:geo:49.349675,16.031213
 DESCRIPTION:📍 K Buči\, Velké Meziříčí\, Žďár nad Sázavou\n💬 Pomoc imobilní 
- osobě.\n\n🚒 CAS (HS Velké Meziříčí)
+ osobě a její transport do vozu ZZS.\n\n🚒 CAS (HS Velké Meziříčí)
 END:VEVENT
 BEGIN:VEVENT
 UID:416394061
@@ -815,8 +815,32 @@ SUMMARY:🔥 tráva/plocha - Bobrůvka
 LOCATION:Bobrůvka
 GEO:49.440809;16.090413
 URL:geo:49.440809,16.090413
-DESCRIPTION:📍 Bobrůvka\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad Sázavou)\n
- 🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (Bobrová)\n🚒 DA (Bobrůvka)\n🚒 DA (Křiž
- anov)\n🚒 CAS (Křižanov)
+DESCRIPTION:📍 Bobrůvka\, Žďár nad Sázavou\n💬 Likvidace požáru slámy na poli
+ .\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (Bo
+ brová)\n🚒 DA (Bobrůvka)\n🚒 DA (Křižanov)\n🚒 CAS (Křižanov)\n🚒 vyšetřovací 
+ automobil (ÚO Žďár nad Sázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:416395061
+DTSTART:20260729T161803Z
+DTEND:20260729T171803Z
+DTSTAMP:20260729T161803Z
+SUMMARY:🔥 venkovní požár - Třebíč
+LOCATION:Horova\, Třebíč
+GEO:49.209749;15.856314
+URL:geo:49.209749,15.856314
+DESCRIPTION:📍 Horova\, Borovina\, Třebíč\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (CHS 
+ Třebíč)
+END:VEVENT
+BEGIN:VEVENT
+UID:416396061
+DTSTART:20260729T163214Z
+DTEND:20260729T173214Z
+DTSTAMP:20260729T163214Z
+SUMMARY:🛠️ obtížný hmyz - Těmice
+LOCATION:Těmice
+GEO:49.342938;15.081382
+URL:geo:49.342938,15.081382
+DESCRIPTION:📍 Babín\, Těmice\, Pelhřimov\n\n🚒 CAS (HS Kamenice nad Lipou)
 END:VEVENT
 END:VCALENDAR
