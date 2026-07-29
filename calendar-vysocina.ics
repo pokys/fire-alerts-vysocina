@@ -929,7 +929,8 @@ SUMMARY:🛠️ obtížný hmyz - Sázava
 LOCATION:Sázava
 GEO:49.559761;15.866406
 URL:geo:49.559761,15.866406
-DESCRIPTION:📍 Sázava\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad Sázavou)
+DESCRIPTION:📍 Sázava\, Žďár nad Sázavou\n💬 Odstranění obtížného hmyzu.\n\n🚒
+  CAS (CHS Žďár nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:416410061
@@ -941,5 +942,17 @@ LOCATION:Kaliště
 GEO:49.593728;15.310015
 URL:geo:49.593728,15.310015
 DESCRIPTION:📍 Kaliště\, Pelhřimov\n\n🚒 DA (Humpolec)
+END:VEVENT
+BEGIN:VEVENT
+UID:416411061
+DTSTART:20260729T191216Z
+DTEND:20260729T201216Z
+DTSTAMP:20260729T191216Z
+SUMMARY:🔥 tráva/plocha - Pikárec
+LOCATION:Pikárec
+GEO:49.431385;16.134541
+URL:geo:49.431385,16.134541
+DESCRIPTION:📍 Pikárec\, Žďár nad Sázavou\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 CA
+ S (Křižanov)\n🚒 CAS (Pikárec)\n🚒 CAS (Strážek)
 END:VEVENT
 END:VCALENDAR
