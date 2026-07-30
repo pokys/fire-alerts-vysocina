@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:416280061
-DTSTART:20260728T135602Z
-DTEND:20260728T145602Z
-DTSTAMP:20260728T135602Z
-SUMMARY:🚗 bez zranění - Výčapy
-LOCATION:Výčapy
-GEO:49.142323;15.882843
-URL:geo:49.142323,15.882843
-DESCRIPTION:📍 Výčapy\, Třebíč\n💬 DN 2 OA\, bez zranění s únikem PHM. Zajišt
- ění místa události.\n\n🚒 CAS (CHS Třebíč)
-END:VEVENT
-BEGIN:VEVENT
 UID:416282061
 DTSTART:20260728T142847Z
 DTEND:20260728T152847Z
@@ -874,7 +862,7 @@ UID:416475061
 DTSTART:20260730T125409Z
 DTEND:20260730T135409Z
 DTSTAMP:20260730T125409Z
-SUMMARY:🛠️ monitoring - Chotěboř
+SUMMARY:🛠️ ostatní - Chotěboř
 LOCATION:Za Vlasárnou\, Chotěboř
 GEO:49.723689;15.668566
 URL:geo:49.723689,15.668566
@@ -890,8 +878,20 @@ SUMMARY:🔥 tráva/plocha - Nové Dvory
 LOCATION:Nové Dvory
 GEO:49.565403;15.800632
 URL:geo:49.565403,15.800632
-DESCRIPTION:📍 Nové Dvory\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad Sázavou)
- \n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (Nové Dvory)\n🚒 CAS (Přibyslav)\n🚒 C
- AS (Přibyslav)\n🚒 CAS (Velká Losenice)
+DESCRIPTION:📍 Nové Dvory\, Žďár nad Sázavou\n💬 Likvidace požáru strniště na
+  poli.\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CA
+ S (Nové Dvory)\n🚒 CAS (Přibyslav)\n🚒 CAS (Přibyslav)\n🚒 CAS (Velká Losenic
+ e)
+END:VEVENT
+BEGIN:VEVENT
+UID:416479061
+DTSTART:20260730T134541Z
+DTEND:20260730T144541Z
+DTSTAMP:20260730T134541Z
+SUMMARY:🚗 dopravní nehoda - Vyskytná
+LOCATION:Vyskytná
+GEO:49.442261;15.330037
+URL:geo:49.442261,15.330037
+DESCRIPTION:📍 Sedliště\, Vyskytná\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)
 END:VEVENT
 END:VCALENDAR
