@@ -5,30 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:416302061
-DTSTART:20260728T180134Z
-DTEND:20260728T190134Z
-DTSTAMP:20260728T180134Z
-SUMMARY:🚑 otevření/asistence - Havlíčkův Brod
-LOCATION:Humpolecká\, Havlíčkův Brod
-GEO:49.597579;15.560731
-URL:geo:49.597579,15.560731
-DESCRIPTION:📍 Humpolecká\, Havlíčkův Brod\n💬 Otevření bytu.\n\n🚒 CAS (CHS H
- avlíčkův Brod)
-END:VEVENT
-BEGIN:VEVENT
-UID:416303061
-DTSTART:20260728T181042Z
-DTEND:20260728T191042Z
-DTSTAMP:20260728T181042Z
-SUMMARY:🛠️ obtížný hmyz - Kněžice
-LOCATION:Kněžice
-GEO:49.259359;15.670131
-URL:geo:49.259359,15.670131
-DESCRIPTION:📍 Kněžice\, Jihlava\n💬 Odstranění obtížného hmyzu.\n\n🚒 DA (Kně
- žice)
-END:VEVENT
-BEGIN:VEVENT
 UID:416304061
 DTSTART:20260728T190159Z
 DTEND:20260728T200159Z
@@ -974,7 +950,7 @@ LOCATION:Bory
 GEO:49.426817;16.023271
 URL:geo:49.426817,16.023271
 DESCRIPTION:📍 Dolní Bory\, Bory\, Žďár nad Sázavou\n💬 Odstranění obtížného 
- hmyzu.\n\n🚒 CAS (Bory)
+ hmyzu.\n\n🚒 DA (Bory)\n🚒 CAS (Bory)
 END:VEVENT
 BEGIN:VEVENT
 UID:416513061
@@ -988,5 +964,29 @@ URL:geo:49.396657,15.588905
 DESCRIPTION:📍 Masarykovo náměstí\, Jihlava\n💬 Požár ohlášený systémem elekt
  rické požární signalizace. Průzkumem bylo zjištěno\, že se jedná o planý p
  oplach.\n\n🚒 CAS (CHS Jihlava) ×2
+END:VEVENT
+BEGIN:VEVENT
+UID:416514061
+DTSTART:20260730T175654Z
+DTEND:20260730T185654Z
+DTSTAMP:20260730T175654Z
+SUMMARY:🛠️ ostatní - Žďár nad Sázavou
+LOCATION:U Pily\, Žďár nad Sázavou
+GEO:49.574912;15.941651
+URL:geo:49.574912,15.941651
+DESCRIPTION:📍 U Pily\, Žďár nad Sázavou 2\, Žďár nad Sázavou\n💬 Tlakování k
+ analizace.\n\n🚒 CAS (Žďár nad Sázavou-Zámek)
+END:VEVENT
+BEGIN:VEVENT
+UID:416515061
+DTSTART:20260730T175737Z
+DTEND:20260730T185737Z
+DTSTAMP:20260730T175737Z
+SUMMARY:🛠️ obtížný hmyz - Kamenice nad Lipou
+LOCATION:Kamenice nad Lipou
+GEO:49.281564;15.060884
+URL:geo:49.281564,15.060884
+DESCRIPTION:📍 Vodná\, Kamenice nad Lipou\, Pelhřimov\n💬 Odstranění obtížnéh
+ o hmyzu.\n\n🚒 CAS (Kamenice nad Lipou)
 END:VEVENT
 END:VCALENDAR
