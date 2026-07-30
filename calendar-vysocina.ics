@@ -39,8 +39,8 @@ GEO:49.440645;15.140129
 URL:geo:49.440645,15.140129
 DESCRIPTION:📍 Stanovice\, Nová Cerekev\, Pelhřimov\n💬 Jednotka provedla uha
  šení doutnajícího stromu.  Beze škody.\n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (CH
- S Pelhřimov)\n🚒 CAS (Nová Cerekev)\n🚒 DA (Olešná (PE))\n🚒 CAS (Olešná (PE)
- )\n🚒 přívěs nákladní (Olešná (PE))
+ S Pelhřimov)\n🚒 CAS (Nová Cerekev) ×2\n🚒 pila řetězová (Nová Cerekev)\n🚒 D
+ A (Olešná (PE))\n🚒 CAS (Olešná (PE))\n🚒 přívěs nákladní (Olešná (PE))
 END:VEVENT
 BEGIN:VEVENT
 UID:416319061
@@ -786,9 +786,9 @@ SUMMARY:🚗 bez zranění - Černá
 LOCATION:Černá
 GEO:49.423540;15.863300
 URL:geo:49.423540,15.863300
-DESCRIPTION:📍 Černá\, Žďár nad Sázavou\n💬 DN NA a autobusu. Bez zranění. Za
- jištění místa události.\n\n🚒 CAS (HS Polná)\n🚒 RZA (HS Velké Meziříčí)\n🚒 
- DA (Černá)
+DESCRIPTION:📍 Černá\, Žďár nad Sázavou\n💬 DN kombajnu a autobusu. Bez zraně
+ ní. Zajištění místa události. Úklid.\n\n🚒 CAS (HS Polná)\n🚒 RZA (HS Velké 
+ Meziříčí)\n🚒 DA (Černá)
 END:VEVENT
 BEGIN:VEVENT
 UID:416491061
@@ -1005,11 +1005,11 @@ UID:416517061
 DTSTART:20260730T182157Z
 DTEND:20260730T192157Z
 DTSTAMP:20260730T182157Z
-SUMMARY:☣️ plyn - Žďár nad Sázavou
+SUMMARY:⚠️ planý poplach - Žďár nad Sázavou
 LOCATION:Jungmannova\, Žďár nad Sázavou
 GEO:49.571587;15.941136
 URL:geo:49.571587,15.941136
-DESCRIPTION:📍 Jungmannova\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n\n🚒 CAS 
- (CHS Žďár nad Sázavou)
+DESCRIPTION:📍 Jungmannova\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n💬 Planý 
+ poplach.\n\n🚒 CAS (CHS Žďár nad Sázavou)
 END:VEVENT
 END:VCALENDAR
