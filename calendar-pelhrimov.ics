@@ -213,4 +213,16 @@ URL:geo:49.281564,15.060884
 DESCRIPTION:📍 Vodná\, Kamenice nad Lipou\, Pelhřimov\n💬 Odstranění obtížnéh
  o hmyzu.\n\n🚒 CAS (Kamenice nad Lipou)
 END:VEVENT
+BEGIN:VEVENT
+UID:416519061
+DTSTART:20260730T193818Z
+DTEND:20260730T203818Z
+DTSTAMP:20260730T193818Z
+SUMMARY:🚗 dopravní nehoda - Humpolec
+LOCATION:Humpolec
+GEO:49.559642;15.270911
+URL:geo:49.559642,15.270911
+DESCRIPTION:📍 Lhotka\, Humpolec\, Pelhřimov\n💬 DN cyklisty. Jedna zraněná o
+ soba. Spolupráce se ZZS.\n\n🚒 CAS (HS Humpolec)
+END:VEVENT
 END:VCALENDAR
