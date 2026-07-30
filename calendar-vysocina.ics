@@ -969,4 +969,16 @@ URL:geo:49.151735,15.377500
 DESCRIPTION:📍 Olší\, Jihlava\n💬 DN 1 OA\, 1 zraněná osoba. Zajištění místa 
  nehody.\n\n🚒 CAS (HS Telč)
 END:VEVENT
+BEGIN:VEVENT
+UID:416413061
+DTSTART:20260730T002712Z
+DTEND:20260730T012712Z
+DTSTAMP:20260730T002712Z
+SUMMARY:🚑 spolupráce ZZS - Ždírec nad Doubravou
+LOCATION:Brodská\, Ždírec nad Doubravou
+GEO:49.698288;15.811778
+URL:geo:49.698288,15.811778
+DESCRIPTION:📍 Brodská\, Ždírec nad Doubravou\, Havlíčkův Brod\n\n🚒 CAS (HS 
+ Chotěboř)\n🚒 CAS (Ždírec nad Doubravou)
+END:VEVENT
 END:VCALENDAR
