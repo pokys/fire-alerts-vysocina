@@ -216,6 +216,18 @@ DESCRIPTION:📍 Popelištná\, Červená Řečice\, Pelhřimov\n💬 Požár po
  lhřimov)\n🚒 CAS (Červená Řečice)
 END:VEVENT
 BEGIN:VEVENT
+UID:416509061
+DTSTART:20260730T172418Z
+DTEND:20260730T182418Z
+DTSTAMP:20260730T172418Z
+SUMMARY:🚑 transport pacienta - Červená Řečice
+LOCATION:Červená Řečice
+GEO:49.510476;15.182924
+URL:geo:49.510476,15.182924
+DESCRIPTION:📍 Červená Řečice\, Pelhřimov\n💬 Transport pacienta na žádost ZZ
+ S.\n\n🚒 CAS (CHS Pelhřimov)
+END:VEVENT
+BEGIN:VEVENT
 UID:416515061
 DTSTART:20260730T175737Z
 DTEND:20260730T185737Z
