@@ -187,8 +187,8 @@ SUMMARY:🚗 úklid místa - Senožaty
 LOCATION:Senožaty
 GEO:49.572064;15.205549
 URL:geo:49.572064,15.205549
-DESCRIPTION:📍 Senožaty\, Pelhřimov\n💬 DN 2 OA se zraněním jedné osoby.\n\n🚒
-  CAS (CHS Pelhřimov)
+DESCRIPTION:📍 Senožaty\, Pelhřimov\n💬 DN 2 OA se zraněním jedné osoby. Zaji
+ štění místa nehody. Úklid vozovky.\n\n🚒 CAS (CHS Pelhřimov)
 END:VEVENT
 BEGIN:VEVENT
 UID:416505061
@@ -211,7 +211,8 @@ SUMMARY:🔥 tráva/plocha - Červená Řečice
 LOCATION:Červená Řečice
 GEO:49.494954;15.203561
 URL:geo:49.494954,15.203561
-DESCRIPTION:📍 Popelištná\, Červená Řečice\, Pelhřimov\n\n🚒 CAS (CHS Pelhřim
- ov)\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (Červená Řečice)
+DESCRIPTION:📍 Popelištná\, Červená Řečice\, Pelhřimov\n💬 Požár pole. Proved
+ ena lokalizace a likvidace požáru.\n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (CHS Pe
+ lhřimov)\n🚒 CAS (Červená Řečice)
 END:VEVENT
 END:VCALENDAR
