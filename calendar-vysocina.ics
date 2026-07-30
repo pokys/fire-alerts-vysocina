@@ -894,7 +894,8 @@ LOCATION:Černá
 GEO:49.423540;15.863300
 URL:geo:49.423540,15.863300
 DESCRIPTION:📍 Černá\, Žďár nad Sázavou\n💬 DN NA a autobusu. Bez zranění. Za
- jištění místa události.\n\n🚒 CAS (HS Polná)\n🚒 RZA (HS Velké Meziříčí)
+ jištění místa události.\n\n🚒 CAS (HS Polná)\n🚒 RZA (HS Velké Meziříčí)\n🚒 
+ DA (Černá)
 END:VEVENT
 BEGIN:VEVENT
 UID:416491061
@@ -930,8 +931,8 @@ SUMMARY:🛠️ obtížný hmyz - Světlá nad Sázavou
 LOCATION:Sázavská\, Světlá nad Sázavou
 GEO:49.667069;15.402731
 URL:geo:49.667069,15.402731
-DESCRIPTION:📍 Sázavská\, Světlá nad Sázavou\, Havlíčkův Brod\n💬 Likvidace o
- btížného hmyzu.\n\n🚒 CAS (HS Světlá nad Sázavou)
+DESCRIPTION:📍 Sázavská\, Světlá nad Sázavou\, Havlíčkův Brod\n💬 Likvidace n
+ ebezpečného hmyzu.\n\n🚒 CAS (HS Světlá nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:416498061
@@ -942,8 +943,8 @@ SUMMARY:🛠️ obtížný hmyz - Štěpánov nad Svratkou
 LOCATION:Štěpánov nad Svratkou
 GEO:49.501900;16.351680
 URL:geo:49.501900,16.351680
-DESCRIPTION:📍 Štěpánov nad Svratkou\, Žďár nad Sázavou\n\n🚒 CAS (HS Bystřic
- e nad Pernštejnem)
+DESCRIPTION:📍 Štěpánov nad Svratkou\, Žďár nad Sázavou\n💬 Likvidace nebezpe
+ čného hmyzu.\n\n🚒 CAS (HS Bystřice nad Pernštejnem)
 END:VEVENT
 BEGIN:VEVENT
 UID:416499061
@@ -954,7 +955,8 @@ SUMMARY:🛠️ strom - Strážek
 LOCATION:Strážek
 GEO:49.442582;16.218518
 URL:geo:49.442582,16.218518
-DESCRIPTION:📍 Mitrov\, Strážek\, Žďár nad Sázavou\n\n🚒 CAS (Strážek)
+DESCRIPTION:📍 Mitrov\, Strážek\, Žďár nad Sázavou\n💬 Odstranění stromu.\n\n
+ 🚒 CAS (Strážek)
 END:VEVENT
 BEGIN:VEVENT
 UID:416500061
@@ -965,6 +967,30 @@ SUMMARY:🔥 vozidlo - Skorkov
 LOCATION:Skorkov
 GEO:49.507256;15.466409
 URL:geo:49.507256,15.466409
-DESCRIPTION:📍 Skorkov\, Havlíčkův Brod\n\n🚒 CAS (HS Humpolec)
+DESCRIPTION:📍 Skorkov\, Havlíčkův Brod\n💬 Požár NA.\n\n🚒 CAS (HS Humpolec)\
+ n🚒 vyšetřovací automobil (ÚO Havlíčkův Brod)
+END:VEVENT
+BEGIN:VEVENT
+UID:416502061
+DTSTART:20260730T163536Z
+DTEND:20260730T173536Z
+DTSTAMP:20260730T163536Z
+SUMMARY:🛠️ obtížný hmyz - Radostín nad Oslavou
+LOCATION:Radostín nad Oslavou
+GEO:49.463910;15.963058
+URL:geo:49.463910,15.963058
+DESCRIPTION:📍 Radostín nad Oslavou\, Žďár nad Sázavou\n💬 Likvidace nebezpeč
+ ného hmyzu.\n\n🚒 CAS (Radostín nad Oslavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:416503061
+DTSTART:20260730T164248Z
+DTEND:20260730T174248Z
+DTSTAMP:20260730T164248Z
+SUMMARY:🚗 úklid místa - Senožaty
+LOCATION:Senožaty
+GEO:49.572064;15.205549
+URL:geo:49.572064,15.205549
+DESCRIPTION:📍 Senožaty\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)
 END:VEVENT
 END:VCALENDAR
