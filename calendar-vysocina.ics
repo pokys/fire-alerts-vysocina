@@ -835,8 +835,8 @@ GEO:49.790889;15.442257
 URL:geo:49.790889,15.442257
 DESCRIPTION:📍 Kobylí Hlava\, Golčův Jeníkov\, Havlíčkův Brod\n💬 Zahoření v 
  motorovém prostoru kombajnu.\n\n🚒 CAS (HS Ledeč nad Sázavou)\n🚒 CAS (Golčů
- v Jeníkov)\n🚒 CAS (Golčův Jeníkov)\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 CAS (CHS
-  Havlíčkův Brod)
+ v Jeníkov)\n🚒 CAS (Golčův Jeníkov)\n🚒 CAS (HS Čáslav)\n🚒 CAS (CHS Havlíčků
+ v Brod)\n🚒 CAS (CHS Havlíčkův Brod)
 END:VEVENT
 BEGIN:VEVENT
 UID:416448061
@@ -872,7 +872,7 @@ GEO:49.362799;16.223896
 URL:geo:49.362799,16.223896
 DESCRIPTION:📍 Rozseč\, Žďár nad Sázavou\n💬 Likvidace požáru strniště na pol
  i.\n\n🚒 CAS (HS Velká Bíteš)\n🚒 CAS (Osová Bítýška)\n🚒 DA (Rozseč (ZR))\n🚒
-  DA (Velká Bíteš)\n🚒 CAS (Velká Bíteš)
+  DA (Velká Bíteš)\n🚒 CAS (Velká Bíteš)\n🚒 DA (Radňovice)\n🚒 DA (Radňoves)
 END:VEVENT
 BEGIN:VEVENT
 UID:416457061
