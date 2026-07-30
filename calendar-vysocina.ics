@@ -5,20 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:416306061
-DTSTART:20260728T194036Z
-DTEND:20260728T204036Z
-DTSTAMP:20260728T194036Z
-SUMMARY:🔥 les - Nová Cerekev
-LOCATION:Nová Cerekev
-GEO:49.440645;15.140129
-URL:geo:49.440645,15.140129
-DESCRIPTION:📍 Stanovice\, Nová Cerekev\, Pelhřimov\n💬 Jednotka provedla uha
- šení doutnajícího stromu.  Beze škody.\n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (CH
- S Pelhřimov)\n🚒 CAS (Nová Cerekev) ×2\n🚒 pila řetězová (Nová Cerekev)\n🚒 D
- A (Olešná (PE))\n🚒 CAS (Olešná (PE))\n🚒 přívěs nákladní (Olešná (PE))
-END:VEVENT
-BEGIN:VEVENT
 UID:416319061
 DTSTART:20260729T053547Z
 DTEND:20260729T063547Z
