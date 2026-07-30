@@ -5,42 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:416295061
-DTSTART:20260728T170352Z
-DTEND:20260728T180352Z
-DTSTAMP:20260728T170352Z
-SUMMARY:🛠️ ostatní - Jihlava
-LOCATION:Hradební\, Jihlava
-GEO:49.392524;15.592869
-URL:geo:49.392524,15.592869
-DESCRIPTION:📍 Hradební\, Jihlava\n💬 Odchyt holuba v prodejně.\n\n🚒 CAS (CHS
-  Jihlava)
-END:VEVENT
-BEGIN:VEVENT
-UID:416296061
-DTSTART:20260728T170429Z
-DTEND:20260728T180429Z
-DTSTAMP:20260728T170429Z
-SUMMARY:🛠️ obtížný hmyz - Herálec
-LOCATION:Herálec
-GEO:49.548694;15.478097
-URL:geo:49.548694,15.478097
-DESCRIPTION:📍 Koječín\, Herálec\, Havlíčkův Brod\n💬 Odstranění obtížného hm
- yzu.\n\n🚒 DA (Herálec (HB))
-END:VEVENT
-BEGIN:VEVENT
-UID:416297061
-DTSTART:20260728T170828Z
-DTEND:20260728T180828Z
-DTSTAMP:20260728T170828Z
-SUMMARY:🛠️ obtížný hmyz - Radenice
-LOCATION:Radenice
-GEO:49.426515;16.068594
-URL:geo:49.426515,16.068594
-DESCRIPTION:📍 Radenice\, Žďár nad Sázavou\n💬 Odstranění obtížného hmyzu.\n\
- n🚒 CAS (Křižanov)
-END:VEVENT
-BEGIN:VEVENT
 UID:416298061
 DTSTART:20260728T172931Z
 DTEND:20260728T182931Z
@@ -869,7 +833,8 @@ SUMMARY:🛠️ ostatní - Vyskytná
 LOCATION:Vyskytná
 GEO:49.426728;15.363141
 URL:geo:49.426728,15.363141
-DESCRIPTION:📍 Vyskytná\, Pelhřimov\n\n🚒 DA (Vyskytná)
+DESCRIPTION:📍 Vyskytná\, Pelhřimov\n💬 Provzdušnění rybníka.\n\n🚒 DA (Vyskyt
+ ná)
 END:VEVENT
 BEGIN:VEVENT
 UID:416489061
@@ -918,9 +883,10 @@ SUMMARY:🔥 tráva/plocha - Přibyslavice
 LOCATION:Přibyslavice
 GEO:49.251760;15.758380
 URL:geo:49.251760,15.758380
-DESCRIPTION:📍 Přibyslavice\, Třebíč\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (CHS Třebí
- č)\n🚒 CAS (Okříšky) ×2\n🚒 DA (Přibyslavice)\n🚒 CAS (Přibyslavice)\n🚒 CAS (
- Přibyslavice)\n🚒 vyšetřovací automobil (ÚO Třebíč)
+DESCRIPTION:📍 Přibyslavice\, Třebíč\n💬 Požár obilného pole a strniště. Prob
+ ěhla lokalizace a likvidace požáru.\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (CHS Třeb
+ íč)\n🚒 CAS (Okříšky) ×2\n🚒 DA (Přibyslavice)\n🚒 CAS (Přibyslavice)\n🚒 CAS 
+ (Přibyslavice)\n🚒 vyšetřovací automobil (ÚO Třebíč)
 END:VEVENT
 BEGIN:VEVENT
 UID:416493061
@@ -943,8 +909,8 @@ SUMMARY:🛠️ obtížný hmyz - Štěpánov nad Svratkou
 LOCATION:Štěpánov nad Svratkou
 GEO:49.501900;16.351680
 URL:geo:49.501900,16.351680
-DESCRIPTION:📍 Štěpánov nad Svratkou\, Žďár nad Sázavou\n💬 Likvidace nebezpe
- čného hmyzu.\n\n🚒 CAS (HS Bystřice nad Pernštejnem)
+DESCRIPTION:📍 Štěpánov nad Svratkou\, Žďár nad Sázavou\n💬 Odstranění obtížn
+ ého hmyzu.\n\n🚒 CAS (HS Bystřice nad Pernštejnem)
 END:VEVENT
 BEGIN:VEVENT
 UID:416499061
@@ -967,8 +933,9 @@ SUMMARY:🔥 vozidlo - Skorkov
 LOCATION:Skorkov
 GEO:49.507256;15.466409
 URL:geo:49.507256,15.466409
-DESCRIPTION:📍 Skorkov\, Havlíčkův Brod\n💬 Požár NA.\n\n🚒 CAS (HS Humpolec)\
- n🚒 vyšetřovací automobil (ÚO Havlíčkův Brod)
+DESCRIPTION:📍 Skorkov\, Havlíčkův Brod\n💬 Požár NA. Provedena lokalizace a 
+ likvidace požáru.\n\n🚒 CAS (HS Humpolec)\n🚒 vyšetřovací automobil (ÚO Havl
+ íčkův Brod)
 END:VEVENT
 BEGIN:VEVENT
 UID:416502061
@@ -992,5 +959,29 @@ LOCATION:Senožaty
 GEO:49.572064;15.205549
 URL:geo:49.572064,15.205549
 DESCRIPTION:📍 Senožaty\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)
+END:VEVENT
+BEGIN:VEVENT
+UID:416504061
+DTSTART:20260730T165333Z
+DTEND:20260730T175333Z
+DTSTAMP:20260730T165333Z
+SUMMARY:🚑 otevření/asistence - Jihlava
+LOCATION:Plukovníka Švece\, Jihlava
+GEO:49.401048;15.580785
+URL:geo:49.401048,15.580785
+DESCRIPTION:📍 Plukovníka Švece\, Jihlava\n💬 Otevření bytu.\n\n🚒 CAS (CHS Ji
+ hlava)
+END:VEVENT
+BEGIN:VEVENT
+UID:416505061
+DTSTART:20260730T165610Z
+DTEND:20260730T175610Z
+DTSTAMP:20260730T165610Z
+SUMMARY:🛠️ obtížný hmyz - Hojovice
+LOCATION:Hojovice
+GEO:49.327736;14.919615
+URL:geo:49.327736,14.919615
+DESCRIPTION:📍 Hojovice\, Pelhřimov\n💬 Odstranění obtížného hmyzu.\n\n🚒 CAS 
+ (Černovice)
 END:VEVENT
 END:VCALENDAR
