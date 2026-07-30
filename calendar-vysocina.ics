@@ -870,8 +870,9 @@ SUMMARY:🔥 tráva/plocha - Rozseč
 LOCATION:Rozseč
 GEO:49.362799;16.223896
 URL:geo:49.362799,16.223896
-DESCRIPTION:📍 Rozseč\, Žďár nad Sázavou\n\n🚒 CAS (HS Velká Bíteš)\n🚒 CAS (O
- sová Bítýška)\n🚒 DA (Rozseč (ZR))\n🚒 DA (Velká Bíteš)\n🚒 CAS (Velká Bíteš)
+DESCRIPTION:📍 Rozseč\, Žďár nad Sázavou\n💬 Likvidace požáru strniště na pol
+ i.\n\n🚒 CAS (HS Velká Bíteš)\n🚒 CAS (Osová Bítýška)\n🚒 DA (Rozseč (ZR))\n🚒
+  DA (Velká Bíteš)\n🚒 CAS (Velká Bíteš)
 END:VEVENT
 BEGIN:VEVENT
 UID:416457061
@@ -884,5 +885,17 @@ GEO:49.292881;15.074469
 URL:geo:49.292881,15.074469
 DESCRIPTION:📍 Masarykova\, Kamenice nad Lipou\, Pelhřimov\n\n🚒 CAS (HS Kame
  nice nad Lipou)
+END:VEVENT
+BEGIN:VEVENT
+UID:416466061
+DTSTART:20260730T102854Z
+DTEND:20260730T112854Z
+DTSTAMP:20260730T102854Z
+SUMMARY:🛠️ obtížný hmyz - Rožná
+LOCATION:Rožná
+GEO:49.477268;16.238484
+URL:geo:49.477268,16.238484
+DESCRIPTION:📍 Rožná\, Žďár nad Sázavou\n💬 Odstranění obtížného hmyzu.\n\n🚒 
+ CAS (Rožná)
 END:VEVENT
 END:VCALENDAR
