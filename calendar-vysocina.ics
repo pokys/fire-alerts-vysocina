@@ -995,8 +995,8 @@ SUMMARY:🔥 vozidlo - Zhoř
 LOCATION:Zhoř
 GEO:49.451000;15.765486
 URL:geo:49.451000,15.765486
-DESCRIPTION:📍 Zhoř\, Jihlava\n\n🚒 CAS (HS Polná)\n🚒 DA (Zhoř (JI))\n🚒 CAS (
- Zhoř (JI))
+DESCRIPTION:📍 Zhoř\, Jihlava\n💬 Požár NA se slámou. Provedeno vyskladnění a
+  prolití nákladu.\n\n🚒 CAS (HS Polná)\n🚒 DA (Zhoř (JI))\n🚒 CAS (Zhoř (JI))
 END:VEVENT
 BEGIN:VEVENT
 UID:416522061
@@ -1043,7 +1043,9 @@ SUMMARY:🚗 se zraněním - Měšín
 LOCATION:Měšín
 GEO:49.431352;15.653452
 URL:geo:49.431352,15.653452
-DESCRIPTION:📍 Měšín\, Jihlava\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihlava)
+DESCRIPTION:📍 Měšín\, Jihlava\n💬 DN dodávky a NA se zraněním tří osob. Prov
+ edena PPO. Zajištění místa události.\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Ji
+ hlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:416529061
@@ -1056,5 +1058,16 @@ GEO:49.562703;15.456457
 URL:geo:49.562703,15.456457
 DESCRIPTION:📍 Věž\, Havlíčkův Brod\n💬 Otevření bytu.\n\n🚒 CAS (CHS Havlíčků
  v Brod)
+END:VEVENT
+BEGIN:VEVENT
+UID:416530061
+DTSTART:20260731T041359Z
+DTEND:20260731T051359Z
+DTSTAMP:20260731T041359Z
+SUMMARY:🚑 Řásná
+LOCATION:Řásná
+GEO:49.223436;15.386974
+URL:geo:49.223436,15.386974
+DESCRIPTION:📍 Řásná\, Jihlava\n\n🚒 CAS (HS Telč)
 END:VEVENT
 END:VCALENDAR
