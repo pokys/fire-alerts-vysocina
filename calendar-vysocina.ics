@@ -1063,10 +1063,10 @@ SUMMARY:☣️ olej/PHM - Herálec
 LOCATION:Herálec
 GEO:49.639252;15.962605
 URL:geo:49.639252,15.962605
-DESCRIPTION:📍 Herálec\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒
-  TA (CHS Žďár nad Sázavou)\n🚒 VEA (CHS Žďár nad Sázavou)\n🚒 CAS (Herálec (
- ZR))\n🚒 CAS (Žďár nad Sázavou-Zámek)\n🚒 osobní automobil (Žďár nad Sázavou
- -Zámek)
+DESCRIPTION:📍 Herálec\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad Sázavou) ×2
+ \n🚒 TA (CHS Žďár nad Sázavou)\n🚒 VEA (CHS Žďár nad Sázavou)\n🚒 CAS (Herále
+ c (ZR))\n🚒 CAS (Žďár nad Sázavou-Zámek)\n🚒 osobní automobil (Žďár nad Sáza
+ vou-Zámek)
 END:VEVENT
 BEGIN:VEVENT
 UID:416549061
@@ -1077,8 +1077,9 @@ SUMMARY:🚗 dopravní nehoda - Světnov
 LOCATION:Světnov
 GEO:49.637119;15.962779
 URL:geo:49.637119,15.962779
-DESCRIPTION:📍 Světnov\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒
-  TA (CHS Žďár nad Sázavou)
+DESCRIPTION:📍 Světnov\, Žďár nad Sázavou\n💬 DN motorky\, 2 zraněné osoby. Z
+ ajištění místa nehody.\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 TA (CHS Žďár nad
+  Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:416552061
