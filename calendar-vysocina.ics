@@ -5,33 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:416394061
-DTSTART:20260729T155907Z
-DTEND:20260729T165907Z
-DTSTAMP:20260729T155907Z
-SUMMARY:🔥 tráva/plocha - Bobrůvka
-LOCATION:Bobrůvka
-GEO:49.440809;16.090413
-URL:geo:49.440809,16.090413
-DESCRIPTION:📍 Bobrůvka\, Žďár nad Sázavou\n💬 Požár strniště a slámy. Proved
- ena lokalizace a likvidace požáru.\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS 
- (CHS Žďár nad Sázavou)\n🚒 DA (Bobrová)\n🚒 CAS (Bobrová)\n🚒 DA (Bobrůvka)\n
- 🚒 DA (Křižanov)\n🚒 CAS (Křižanov)\n🚒 vyšetřovací automobil (ÚO Žďár nad Sá
- zavou)
-END:VEVENT
-BEGIN:VEVENT
-UID:416395061
-DTSTART:20260729T161803Z
-DTEND:20260729T171803Z
-DTSTAMP:20260729T161803Z
-SUMMARY:🔥 venkovní požár - Třebíč
-LOCATION:Horova\, Třebíč
-GEO:49.209749;15.856314
-URL:geo:49.209749,15.856314
-DESCRIPTION:📍 Horova\, Borovina\, Třebíč\n💬 Uhašený požár pařezu. Provedeno
-  prolití pařezu.\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (CHS Třebíč)
-END:VEVENT
-BEGIN:VEVENT
 UID:416396061
 DTSTART:20260729T163214Z
 DTEND:20260729T173214Z
@@ -1205,7 +1178,8 @@ SUMMARY:🚑 záchrana ze stromu - Čejov
 LOCATION:Čejov
 GEO:49.561684;15.382877
 URL:geo:49.561684,15.382877
-DESCRIPTION:📍 Čejov\, Pelhřimov\n\n🚒 AŽ (HS Humpolec)
+DESCRIPTION:📍 Čejov\, Pelhřimov\n💬 Záchrana kočky ze stromu.\n\n🚒 AŽ (HS Hu
+ mpolec)
 END:VEVENT
 BEGIN:VEVENT
 UID:416587061
@@ -1218,5 +1192,51 @@ GEO:49.562772;15.948192
 URL:geo:49.562772,15.948192
 DESCRIPTION:📍 Wolkerova\, Žďár nad Sázavou 4\, Žďár nad Sázavou\n\n🚒 CAS (Ž
  ďár nad Sázavou-Zámek)
+END:VEVENT
+BEGIN:VEVENT
+UID:416588061
+DTSTART:20260731T153437Z
+DTEND:20260731T163437Z
+DTSTAMP:20260731T153437Z
+SUMMARY:🛠️ obtížný hmyz - Žďár nad Sázavou
+LOCATION:Kopečná\, Žďár nad Sázavou
+GEO:49.563113;15.931749
+URL:geo:49.563113,15.931749
+DESCRIPTION:📍 Kopečná\, Žďár nad Sázavou 3\, Žďár nad Sázavou\n\n🚒 CAS (CHS
+  Žďár nad Sázavou)\n🚒 automobilová plošina nad 30 m (CHS Žďár nad Sázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:416591061
+DTSTART:20260731T155025Z
+DTEND:20260731T165025Z
+DTSTAMP:20260731T155025Z
+SUMMARY:🛠️ ostatní - Cetoraz
+LOCATION:Cetoraz
+GEO:49.455232;14.957308
+URL:geo:49.455232,14.957308
+DESCRIPTION:📍 Cetoraz\, Pelhřimov\n\n🚒 DA (Cetoraz)\n🚒 přívěs motorová stří
+ kačka (Cetoraz)
+END:VEVENT
+BEGIN:VEVENT
+UID:416592061
+DTSTART:20260731T155112Z
+DTEND:20260731T165112Z
+DTSTAMP:20260731T155112Z
+SUMMARY:🚑 Krasonice
+LOCATION:Krasonice
+GEO:49.114708;15.636829
+URL:geo:49.114708,15.636829
+DESCRIPTION:📍 Krasonice\, Jihlava\n\n🚒 CAS (HS Telč)
+END:VEVENT
+BEGIN:VEVENT
+UID:416594061
+DTSTART:20260731T155215Z
+DTEND:20260731T165215Z
+DTSTAMP:20260731T155215Z
+SUMMARY:🚑 transport pacienta - Koněšín
+LOCATION:Koněšín
+GEO:49.188921;16.040179
+URL:geo:49.188921,16.040179
+DESCRIPTION:📍 Koněšín\, Třebíč\n\n🚒 CAS (HS Náměšť nad Oslavou)
 END:VEVENT
 END:VCALENDAR
