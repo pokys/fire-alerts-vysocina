@@ -1114,4 +1114,16 @@ URL:geo:49.433434,15.237111
 DESCRIPTION:📍 Okružní\, Pelhřimov\n💬 Odstranění obtížného hmyzu.\n\n🚒 CAS (
  CHS Pelhřimov)
 END:VEVENT
+BEGIN:VEVENT
+UID:416556061
+DTSTART:20260731T110410Z
+DTEND:20260731T120410Z
+DTSTAMP:20260731T110410Z
+SUMMARY:🔥 tráva/plocha - Jihlávka
+LOCATION:Jihlávka
+GEO:49.244290;15.283746
+URL:geo:49.244290,15.283746
+DESCRIPTION:📍 Jihlávka\, Jihlava\n\n🚒 CAS (HS Telč)\n🚒 CAS (HS Telč)\n🚒 CAS
+  (Horní Dubenky)\n🚒 CAS (Počátky) ×2\n🚒 osobní automobil (Jihlávka)
+END:VEVENT
 END:VCALENDAR
