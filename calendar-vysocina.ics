@@ -5,32 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:416375061
-DTSTART:20260729T124019Z
-DTEND:20260729T134019Z
-DTSTAMP:20260729T124019Z
-SUMMARY:🔥 tráva/plocha - Havlíčkův Brod
-LOCATION:Havlíčkův Brod
-GEO:49.594699;15.559600
-URL:geo:49.594699,15.559600
-DESCRIPTION:📍 Šmolovy\, Havlíčkův Brod\n💬 Požár obilného pole. Provedena lo
- kalizace a likvidace požáru.\n\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 CAS (CHS Hav
- líčkův Brod)\n🚒 CAS (Havlíčkův Brod-Perknov)\n🚒 CAS (Herálec (HB))\n🚒 vyše
- třovací automobil (ÚO Havlíčkův Brod)
-END:VEVENT
-BEGIN:VEVENT
-UID:416376061
-DTSTART:20260729T124138Z
-DTEND:20260729T134138Z
-DTSTAMP:20260729T124138Z
-SUMMARY:🛠️ ostatní - Kamenice nad Lipou
-LOCATION:Kamenice nad Lipou
-GEO:49.330845;15.101588
-URL:geo:49.330845,15.101588
-DESCRIPTION:📍 Pravíkov\, Kamenice nad Lipou\, Pelhřimov\n💬 Dovoz vody.\n\n🚒
-  CAS (Kamenice nad Lipou)
-END:VEVENT
-BEGIN:VEVENT
 UID:416377061
 DTSTART:20260729T132652Z
 DTEND:20260729T142652Z
@@ -1139,8 +1113,8 @@ SUMMARY:🛠️ obtížný hmyz - Bystřice nad Pernštejnem
 LOCATION:Okružní\, Bystřice nad Pernštejnem
 GEO:49.525082;16.248904
 URL:geo:49.525082,16.248904
-DESCRIPTION:📍 Okružní\, Bystřice nad Pernštejnem\, Žďár nad Sázavou\n\n🚒 CA
- S (HS Bystřice nad Pernštejnem)
+DESCRIPTION:📍 Okružní\, Bystřice nad Pernštejnem\, Žďár nad Sázavou\n💬 Odst
+ ranění obtížného hmyzu.\n\n🚒 CAS (HS Bystřice nad Pernštejnem)
 END:VEVENT
 BEGIN:VEVENT
 UID:416560061
@@ -1151,8 +1125,8 @@ SUMMARY:🚑 spolupráce ZZS - Jitkov
 LOCATION:Jitkov
 GEO:49.660943;15.731201
 URL:geo:49.660943,15.731201
-DESCRIPTION:📍 Jitkov\, Havlíčkův Brod\n\n🚒 CAS (HS Chotěboř)\n🚒 CAS (Ždírec
-  nad Doubravou)
+DESCRIPTION:📍 Jitkov\, Havlíčkův Brod\n💬 Pomoc ZZS s resuscitací.\n\n🚒 CAS 
+ (HS Chotěboř)\n🚒 CAS (Ždírec nad Doubravou)
 END:VEVENT
 BEGIN:VEVENT
 UID:416562061
@@ -1175,18 +1149,19 @@ LOCATION:Velká Bíteš
 GEO:49.304802;16.283666
 URL:geo:49.304802,16.283666
 DESCRIPTION:📍 Pánov\, Velká Bíteš\, Žďár nad Sázavou\n\n🚒 CAS (HS Velká Bít
- eš)\n🚒 CAS (Osová Bítýška)\n🚒 CAS (Velká Bíteš)
+ eš)\n🚒 CAS (Osová Bítýška)\n🚒 CAS (Velká Bíteš)\n🚒 DA (Křižanov)\n🚒 CAS (K
+ řižanov)\n🚒 vyšetřovací automobil (ÚO Žďár nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:416565061
 DTSTART:20260731T120923Z
 DTEND:20260731T130923Z
 DTSTAMP:20260731T120923Z
-SUMMARY:🔥 vozidlo - Herálec
-LOCATION:Herálec
-GEO:49.517555;15.396861
-URL:geo:49.517555,15.396861
-DESCRIPTION:📍 Kamenice\, Herálec\, Havlíčkův Brod\n\n🚒 CAS (HS Humpolec)
+SUMMARY:⚠️ planý poplach - Humpolec
+LOCATION:Humpolec
+GEO:49.520493;15.388046
+URL:geo:49.520493,15.388046
+DESCRIPTION:📍 Humpolec\, Pelhřimov\n\n🚒 CAS (HS Humpolec)
 END:VEVENT
 BEGIN:VEVENT
 UID:416566061
@@ -1197,7 +1172,22 @@ SUMMARY:🚑 spolupráce ZZS - Jaroměřice nad Rokytnou
 LOCATION:Domky\, Jaroměřice nad Rokytnou
 GEO:49.099182;15.864315
 URL:geo:49.099182,15.864315
-DESCRIPTION:📍 Domky\, Popovice\, Jaroměřice nad Rokytnou\, Třebíč\n\n🚒 CAS 
- (HS Moravské Budějovice)\n🚒 CAS (Jaroměřice nad Rokytnou)
+DESCRIPTION:📍 Domky\, Popovice\, Jaroměřice nad Rokytnou\, Třebíč\n💬 Transp
+ ort pacienta na žádost ZZS.\n\n🚒 CAS (HS Moravské Budějovice)\n🚒 CAS (Jaro
+ měřice nad Rokytnou)
+END:VEVENT
+BEGIN:VEVENT
+UID:416569061
+DTSTART:20260731T121459Z
+DTEND:20260731T131459Z
+DTSTAMP:20260731T121459Z
+SUMMARY:🔥 vozidlo - Loukovice
+LOCATION:Loukovice
+GEO:49.133761;15.793065
+URL:geo:49.133761,15.793065
+DESCRIPTION:📍 Loukovice\, Třebíč\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (CHS Třebíč)\
+ n🚒 CAS (Čáslavice)\n🚒 CAS (Jaroměřice nad Rokytnou)\n🚒 osobní automobil (J
+ aroměřice nad Rokytnou)\n🚒 přívěs motorová stříkačka (Loukovice)\n🚒 vyšetř
+ ovací automobil (ÚO Třebíč)
 END:VEVENT
 END:VCALENDAR
