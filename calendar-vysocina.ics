@@ -5,44 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:416398061
-DTSTART:20260729T163619Z
-DTEND:20260729T173619Z
-DTSTAMP:20260729T163619Z
-SUMMARY:🛠️ obtížný hmyz - Ruda
-LOCATION:Ruda
-GEO:49.323034;16.123273
-URL:geo:49.323034,16.123273
-DESCRIPTION:📍 Ruda\, Žďár nad Sázavou\n💬 Odstranění obtížného hmyzu.\n\n🚒 C
- AS (HS Velké Meziříčí)
-END:VEVENT
-BEGIN:VEVENT
-UID:416399061
-DTSTART:20260729T163804Z
-DTEND:20260729T173804Z
-DTSTAMP:20260729T163804Z
-SUMMARY:⚠️ planý poplach - Havlíčkův Brod
-LOCATION:Reynkova\, Havlíčkův Brod
-GEO:49.617233;15.579301
-URL:geo:49.617233,15.579301
-DESCRIPTION:📍 Reynkova\, Havlíčkův Brod\n💬 Požár ohlášený systémem elektric
- ké požární signalizace. Průzkumem bylo zjištěno\, že se jedná o planý popl
- ach.\n\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 CAS (CHS Havlíčkův Brod)
-END:VEVENT
-BEGIN:VEVENT
-UID:416401061
-DTSTART:20260729T164414Z
-DTEND:20260729T174414Z
-DTSTAMP:20260729T164414Z
-SUMMARY:🛠️ strom - Baliny
-LOCATION:Baliny
-GEO:49.348551;15.956280
-URL:geo:49.348551,15.956280
-DESCRIPTION:📍 Baliny\, Žďár nad Sázavou\n💬 Odstranění stromu.\n\n🚒 přívěs n
- ákladní (Baliny)\n🚒 CAS (HS Velké Meziříčí)\n🚒 pila řetězová (HS Velké Mez
- iříčí)
-END:VEVENT
-BEGIN:VEVENT
 UID:416402061
 DTSTART:20260729T165201Z
 DTEND:20260729T175201Z
@@ -1190,8 +1152,9 @@ SUMMARY:🛠️ obtížný hmyz - Žďár nad Sázavou
 LOCATION:Kopečná\, Žďár nad Sázavou
 GEO:49.563113;15.931749
 URL:geo:49.563113,15.931749
-DESCRIPTION:📍 Kopečná\, Žďár nad Sázavou 3\, Žďár nad Sázavou\n\n🚒 CAS (CHS
-  Žďár nad Sázavou)\n🚒 automobilová plošina nad 30 m (CHS Žďár nad Sázavou)
+DESCRIPTION:📍 Kopečná\, Žďár nad Sázavou 3\, Žďár nad Sázavou\n💬 Odstranění
+  obtížného hmyzu.\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 automobilová plošina 
+ nad 30 m (CHS Žďár nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:416591061
@@ -1240,5 +1203,28 @@ URL:geo:49.508251,15.093177
 DESCRIPTION:📍 Hořepník\, Pelhřimov\n\n🚒 CAS (HS Pacov)\n🚒 CAS (HS Pacov)\n🚒
   CAS (Košetice)\n🚒 CAS (Košetice)\n🚒 CAS (Pacov)\n🚒 DA (Hořepník)\n🚒 CAS (
  Hořepník)
+END:VEVENT
+BEGIN:VEVENT
+UID:416596061
+DTSTART:20260731T162715Z
+DTEND:20260731T172715Z
+DTSTAMP:20260731T162715Z
+SUMMARY:🛠️ strom - Dolní Heřmanice
+LOCATION:Dolní Heřmanice
+GEO:49.329183;16.048723
+URL:geo:49.329183,16.048723
+DESCRIPTION:📍 Dolní Heřmanice\, Žďár nad Sázavou\n\n🚒 CAS (HS Velké Meziříč
+ í)
+END:VEVENT
+BEGIN:VEVENT
+UID:416597061
+DTSTART:20260731T162722Z
+DTEND:20260731T172722Z
+DTSTAMP:20260731T162722Z
+SUMMARY:🛠️ strom - Velké Meziříčí
+LOCATION:Velké Meziříčí
+GEO:49.354291;15.992062
+URL:geo:49.354291,15.992062
+DESCRIPTION:📍 Velké Meziříčí\, Žďár nad Sázavou\n\n🚒 CAS (Velké Meziříčí)
 END:VEVENT
 END:VCALENDAR
