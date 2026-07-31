@@ -5,23 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:416363061
-DTSTART:20260729T100135Z
-DTEND:20260729T110135Z
-DTSTAMP:20260729T100135Z
-SUMMARY:🔥 tráva/plocha - Okrouhlice
-LOCATION:Okrouhlice
-GEO:49.615571;15.502846
-URL:geo:49.615571,15.502846
-DESCRIPTION:📍 Vadín\, Okrouhlice\, Havlíčkův Brod\n💬 Požár strniště a lisu 
- na balíky. Provedena lokalizace a likvidace požáru.\n\n🚒 CAS (CHS Havlíčků
- v Brod)\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 CAS (HS Světlá nad Sázavou)\n🚒 CAS 
- (Lučice)\n🚒 VEA (Okrouhlice)\n🚒 CAS (Havlíčkův Brod-Perknov)\n🚒 CAS (Světl
- á nad Sázavou)\n🚒 CAS (Dolní Město)\n🚒 CAS (Horní Krupá)\n🚒 přívěs nákladn
- í (Hurtova Lhota)\n🚒 CAS (Lipnice nad Sázavou)\n🚒 vyšetřovací automobil (Ú
- O Havlíčkův Brod)
-END:VEVENT
-BEGIN:VEVENT
 UID:416365061
 DTSTART:20260729T101914Z
 DTEND:20260729T111914Z
