@@ -259,4 +259,17 @@ URL:geo:49.455232,14.957308
 DESCRIPTION:📍 Cetoraz\, Pelhřimov\n\n🚒 DA (Cetoraz)\n🚒 přívěs motorová stří
  kačka (Cetoraz)
 END:VEVENT
+BEGIN:VEVENT
+UID:416595061
+DTSTART:20260731T155827Z
+DTEND:20260731T165827Z
+DTSTAMP:20260731T155827Z
+SUMMARY:🔥 tráva/plocha - Hořepník
+LOCATION:Hořepník
+GEO:49.508251;15.093177
+URL:geo:49.508251,15.093177
+DESCRIPTION:📍 Hořepník\, Pelhřimov\n\n🚒 CAS (HS Pacov)\n🚒 CAS (HS Pacov)\n🚒
+  CAS (Košetice)\n🚒 CAS (Košetice)\n🚒 CAS (Pacov)\n🚒 DA (Hořepník)\n🚒 CAS (
+ Hořepník)
+END:VEVENT
 END:VCALENDAR
