@@ -5,31 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:416346061
-DTSTART:20260729T081129Z
-DTEND:20260729T091129Z
-DTSTAMP:20260729T081129Z
-SUMMARY:🛠️ obtížný hmyz - Pacov
-LOCATION:Pacov
-GEO:49.468453;14.997101
-URL:geo:49.468453,14.997101
-DESCRIPTION:📍 Pacov\, Pelhřimov\n💬 Odstranění obtížného hmyzu.\n\n🚒 CAS (HS
-  Pacov)
-END:VEVENT
-BEGIN:VEVENT
-UID:416348061
-DTSTART:20260729T081144Z
-DTEND:20260729T091144Z
-DTSTAMP:20260729T081144Z
-SUMMARY:🚗 dopravní nehoda - Střítež
-LOCATION:Střítež
-GEO:49.441048;16.257851
-URL:geo:49.441048,16.257851
-DESCRIPTION:📍 Střítež\, Žďár nad Sázavou\n💬 DN 1 OA a motocyklu. Jedna zran
- ěná osoba. Protipožární opatření. Úklid vozovky. Spolupráce se ZZS.\n\n🚒 C
- AS (HS Bystřice nad Pernštejnem)
-END:VEVENT
-BEGIN:VEVENT
 UID:416354061
 DTSTART:20260729T085305Z
 DTEND:20260729T095305Z
@@ -1105,8 +1080,8 @@ SUMMARY:🚑 otevření/asistence - Křižanov
 LOCATION:Budín\, Křižanov
 GEO:49.391722;16.108509
 URL:geo:49.391722,16.108509
-DESCRIPTION:📍 Budín\, Křižanov\, Žďár nad Sázavou\n\n🚒 RZA (HS Velké Meziří
- čí)
+DESCRIPTION:📍 Budín\, Křižanov\, Žďár nad Sázavou\n💬 Otevření bytu.\n\n🚒 RZ
+ A (HS Velké Meziříčí)
 END:VEVENT
 BEGIN:VEVENT
 UID:416543061
@@ -1117,7 +1092,19 @@ SUMMARY:🛠️ obtížný hmyz - Bystřice nad Pernštejnem
 LOCATION:Zahradní\, Bystřice nad Pernštejnem
 GEO:49.524266;16.264045
 URL:geo:49.524266,16.264045
-DESCRIPTION:📍 Zahradní\, Bystřice nad Pernštejnem\, Žďár nad Sázavou\n\n🚒 C
- AS (HS Bystřice nad Pernštejnem)
+DESCRIPTION:📍 Zahradní\, Bystřice nad Pernštejnem\, Žďár nad Sázavou\n💬 Ote
+ vření bytu.Odstranění obtížného hmyzu.\n\n🚒 CAS (HS Bystřice nad Pernštejn
+ em)
+END:VEVENT
+BEGIN:VEVENT
+UID:416544061
+DTSTART:20260731T080056Z
+DTEND:20260731T090056Z
+DTSTAMP:20260731T080056Z
+SUMMARY:🛠️ monitoring - Jezdovice
+LOCATION:Jezdovice
+GEO:49.323101;15.484154
+URL:geo:49.323101,15.484154
+DESCRIPTION:📍 Jezdovice\, Jihlava\n\n🚒 CAS (HS Třešť)
 END:VEVENT
 END:VCALENDAR
