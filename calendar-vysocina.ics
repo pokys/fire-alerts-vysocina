@@ -5,30 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:416385061
-DTSTART:20260729T144821Z
-DTEND:20260729T154821Z
-DTSTAMP:20260729T144821Z
-SUMMARY:🛠️ strom - Stříbrné Hory
-LOCATION:Stříbrné Hory
-GEO:49.593364;15.685873
-URL:geo:49.593364,15.685873
-DESCRIPTION:📍 Stříbrné Hory\, Havlíčkův Brod\n💬 Odstranění nalomené větve.\
- n\n🚒 CAS (CHS Havlíčkův Brod)
-END:VEVENT
-BEGIN:VEVENT
-UID:416386061
-DTSTART:20260729T150623Z
-DTEND:20260729T160623Z
-DTSTAMP:20260729T150623Z
-SUMMARY:🛠️ obtížný hmyz - Bystřice nad Pernštejnem
-LOCATION:Horní\, Bystřice nad Pernštejnem
-GEO:49.517409;16.270486
-URL:geo:49.517409,16.270486
-DESCRIPTION:📍 Horní\, Bystřice nad Pernštejnem\, Žďár nad Sázavou\n💬 Odstra
- nění obtížného hmyzu.\n\n🚒 CAS (HS Bystřice nad Pernštejnem)
-END:VEVENT
-BEGIN:VEVENT
 UID:416388061
 DTSTART:20260729T152942Z
 DTEND:20260729T162942Z
@@ -988,10 +964,11 @@ SUMMARY:☣️ olej/PHM - Herálec
 LOCATION:Herálec
 GEO:49.639252;15.962605
 URL:geo:49.639252,15.962605
-DESCRIPTION:📍 Herálec\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad Sázavou) ×2
- \n🚒 TA (CHS Žďár nad Sázavou)\n🚒 VEA (CHS Žďár nad Sázavou)\n🚒 DA (Herálec
-  (ZR))\n🚒 CAS (Herálec (ZR))\n🚒 CAS (Žďár nad Sázavou-Zámek)\n🚒 osobní aut
- omobil (Žďár nad Sázavou-Zámek)
+DESCRIPTION:📍 Herálec\, Žďár nad Sázavou\n💬 Likvidaci úniku oleje na pozemn
+ í komunikaci.\n\n🚒 CAS (CHS Žďár nad Sázavou) ×2\n🚒 TA (CHS Žďár nad Sázav
+ ou)\n🚒 VEA (CHS Žďár nad Sázavou)\n🚒 DA (Herálec (ZR))\n🚒 CAS (Herálec (ZR
+ ))\n🚒 CAS (Žďár nad Sázavou-Zámek)\n🚒 osobní automobil (Žďár nad Sázavou-Z
+ ámek)
 END:VEVENT
 BEGIN:VEVENT
 UID:416549061
@@ -1178,8 +1155,8 @@ SUMMARY:🛠️ obtížný hmyz - Bystřice nad Pernštejnem
 LOCATION:Bystřice nad Pernštejnem
 GEO:49.520932;16.253391
 URL:geo:49.520932,16.253391
-DESCRIPTION:📍 Bystřice nad Pernštejnem\, Žďár nad Sázavou\n\n🚒 CAS (Bystřic
- e nad Pernštejnem)
+DESCRIPTION:📍 Bystřice nad Pernštejnem\, Žďár nad Sázavou\n💬 Odstranění obt
+ ížného hmyzu.\n\n🚒 CAS (Bystřice nad Pernštejnem)
 END:VEVENT
 BEGIN:VEVENT
 UID:416575061
@@ -1190,7 +1167,7 @@ SUMMARY:🛠️ ostatní - Těmice
 LOCATION:Těmice
 GEO:49.351937;15.060430
 URL:geo:49.351937,15.060430
-DESCRIPTION:📍 Těmice\, Pelhřimov\n\n🚒 CAS (Těmice)
+DESCRIPTION:📍 Těmice\, Pelhřimov\n💬 Dovoz vody.\n\n🚒 CAS (Těmice)
 END:VEVENT
 BEGIN:VEVENT
 UID:416577061
@@ -1201,8 +1178,8 @@ SUMMARY:🔥 tráva/plocha - Rovečné
 LOCATION:Rovečné
 GEO:49.576965;16.353747
 URL:geo:49.576965,16.353747
-DESCRIPTION:📍 Rovečné\, Žďár nad Sázavou\n\n🚒 DA (Rovečné)\n🚒 CAS (Vír)\n🚒 
- CAS (HS Bystřice nad Pernštejnem)
+DESCRIPTION:📍 Rovečné\, Žďár nad Sázavou\n💬 Požár strniště.\n\n🚒 DA (Rovečn
+ é)\n🚒 CAS (Vír)\n🚒 CAS (HS Bystřice nad Pernštejnem)
 END:VEVENT
 BEGIN:VEVENT
 UID:416579061
@@ -1238,5 +1215,28 @@ GEO:49.583717;15.936961
 URL:geo:49.583717,15.936961
 DESCRIPTION:📍 Zámek\, Žďár nad Sázavou 2\, Žďár nad Sázavou\n\n🚒 CAS (Žďár 
  nad Sázavou-Zámek)
+END:VEVENT
+BEGIN:VEVENT
+UID:416583061
+DTSTART:20260731T143212Z
+DTEND:20260731T153212Z
+DTSTAMP:20260731T143212Z
+SUMMARY:🛠️ strom - Chlístov
+LOCATION:Chlístov
+GEO:49.209110;15.741237
+URL:geo:49.209110,15.741237
+DESCRIPTION:📍 Chlístov\, Třebíč\n\n🚒 CAS (Rokytnice nad Rokytnou)
+END:VEVENT
+BEGIN:VEVENT
+UID:416584061
+DTSTART:20260731T145202Z
+DTEND:20260731T155202Z
+DTSTAMP:20260731T145202Z
+SUMMARY:🛠️ obtížný hmyz - Bystřice nad Pernštejnem
+LOCATION:Souběžná\, Bystřice nad Pernštejnem
+GEO:49.522668;16.267171
+URL:geo:49.522668,16.267171
+DESCRIPTION:📍 Souběžná\, Bystřice nad Pernštejnem\, Žďár nad Sázavou\n\n🚒 C
+ AS (HS Bystřice nad Pernštejnem)
 END:VEVENT
 END:VCALENDAR
