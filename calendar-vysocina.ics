@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:416402061
-DTSTART:20260729T165201Z
-DTEND:20260729T175201Z
-DTSTAMP:20260729T165201Z
-SUMMARY:🔥 tráva/plocha - Nová Cerekev
-LOCATION:Nová Cerekev
-GEO:49.433265;15.122630
-URL:geo:49.433265,15.122630
-DESCRIPTION:📍 Nová Cerekev\, Pelhřimov\n💬 Požár pole. Uhašeno před příjezde
- m jednotek. Požár beze škody.\n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (CHS Pelhřim
- ov)\n🚒 CAS (HS Pacov)\n🚒 CAS (Nová Cerekev) ×2
-END:VEVENT
-BEGIN:VEVENT
 UID:416404061
 DTSTART:20260729T172654Z
 DTEND:20260729T182654Z
@@ -966,8 +953,10 @@ GEO:49.304802;16.283666
 URL:geo:49.304802,16.283666
 DESCRIPTION:📍 Pánov\, Velká Bíteš\, Žďár nad Sázavou\n💬 Požár pole.\n\n🚒 CA
  S (HS Velká Bíteš)\n🚒 CAS (Osová Bítýška)\n🚒 CAS (Velká Bíteš)\n🚒 osobní a
- utomobil (Velká Bíteš)\n🚒 DA (Křižanov)\n🚒 CAS (Křižanov)\n🚒 vyšetřovací a
- utomobil (ÚO Žďár nad Sázavou)
+ utomobil (Velká Bíteš)\n🚒 DA (Svatoslav)\n🚒 CAS (Svatoslav)\n🚒 DA (Křižano
+ v)\n🚒 CAS (Křižanov)\n🚒 CAS (Veverská Bítýška)\n🚒 CAS (Veverská Bítýška)\n
+ 🚒 DA (Zbraslav)\n🚒 CAS (Zbraslav)\n🚒 vyšetřovací automobil (ÚO Žďár nad Sá
+ zavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:416565061
@@ -1003,10 +992,10 @@ SUMMARY:🔥 vozidlo - Loukovice
 LOCATION:Loukovice
 GEO:49.133761;15.793065
 URL:geo:49.133761,15.793065
-DESCRIPTION:📍 Loukovice\, Třebíč\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (CHS Třebíč)\
- n🚒 CAS (Čáslavice)\n🚒 CAS (Jaroměřice nad Rokytnou)\n🚒 osobní automobil (J
- aroměřice nad Rokytnou)\n🚒 přívěs motorová stříkačka (Loukovice)\n🚒 vyšetř
- ovací automobil (ÚO Třebíč)
+DESCRIPTION:📍 Loukovice\, Třebíč\n💬 Likvidace požáru lisu na balíky slámy.\
+ n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (CHS Třebíč)\n🚒 CAS (Čáslavice)\n🚒 CAS (Jarom
+ ěřice nad Rokytnou)\n🚒 osobní automobil (Jaroměřice nad Rokytnou)\n🚒 přívě
+ s motorová stříkačka (Loukovice)\n🚒 vyšetřovací automobil (ÚO Třebíč)
 END:VEVENT
 BEGIN:VEVENT
 UID:416571061
@@ -1200,9 +1189,9 @@ SUMMARY:🔥 tráva/plocha - Hořepník
 LOCATION:Hořepník
 GEO:49.508251;15.093177
 URL:geo:49.508251,15.093177
-DESCRIPTION:📍 Hořepník\, Pelhřimov\n\n🚒 CAS (HS Pacov)\n🚒 CAS (HS Pacov)\n🚒
-  CAS (Košetice)\n🚒 CAS (Košetice)\n🚒 CAS (Pacov)\n🚒 DA (Hořepník)\n🚒 CAS (
- Hořepník)
+DESCRIPTION:📍 Hořepník\, Pelhřimov\n💬 Požár strniště.\n\n🚒 CAS (HS Pacov)\n
+ 🚒 CAS (HS Pacov)\n🚒 CAS (Košetice)\n🚒 CAS (Košetice)\n🚒 CAS (Pacov)\n🚒 DA 
+ (Hořepník)\n🚒 CAS (Hořepník)
 END:VEVENT
 BEGIN:VEVENT
 UID:416596061
@@ -1213,8 +1202,8 @@ SUMMARY:🛠️ strom - Dolní Heřmanice
 LOCATION:Dolní Heřmanice
 GEO:49.329183;16.048723
 URL:geo:49.329183,16.048723
-DESCRIPTION:📍 Dolní Heřmanice\, Žďár nad Sázavou\n\n🚒 CAS (HS Velké Meziříč
- í)
+DESCRIPTION:📍 Dolní Heřmanice\, Žďár nad Sázavou\n💬 Odstranění stromu.\n\n🚒
+  CAS (HS Velké Meziříčí)
 END:VEVENT
 BEGIN:VEVENT
 UID:416597061
@@ -1225,6 +1214,7 @@ SUMMARY:🛠️ strom - Velké Meziříčí
 LOCATION:Velké Meziříčí
 GEO:49.354291;15.992062
 URL:geo:49.354291,15.992062
-DESCRIPTION:📍 Velké Meziříčí\, Žďár nad Sázavou\n\n🚒 CAS (Velké Meziříčí)
+DESCRIPTION:📍 Velké Meziříčí\, Žďár nad Sázavou\n💬 Odstranění stromu.\n\n🚒 
+ CAS (Velké Meziříčí)
 END:VEVENT
 END:VCALENDAR

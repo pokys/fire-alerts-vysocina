@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Pelhřimov
 BEGIN:VEVENT
-UID:416402061
-DTSTART:20260729T165201Z
-DTEND:20260729T175201Z
-DTSTAMP:20260729T165201Z
-SUMMARY:🔥 tráva/plocha - Nová Cerekev
-LOCATION:Nová Cerekev
-GEO:49.433265;15.122630
-URL:geo:49.433265,15.122630
-DESCRIPTION:📍 Nová Cerekev\, Pelhřimov\n💬 Požár pole. Uhašeno před příjezde
- m jednotek. Požár beze škody.\n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (CHS Pelhřim
- ov)\n🚒 CAS (HS Pacov)\n🚒 CAS (Nová Cerekev) ×2
-END:VEVENT
-BEGIN:VEVENT
 UID:416406061
 DTSTART:20260729T172856Z
 DTEND:20260729T182856Z
@@ -256,8 +243,8 @@ SUMMARY:🔥 tráva/plocha - Hořepník
 LOCATION:Hořepník
 GEO:49.508251;15.093177
 URL:geo:49.508251,15.093177
-DESCRIPTION:📍 Hořepník\, Pelhřimov\n\n🚒 CAS (HS Pacov)\n🚒 CAS (HS Pacov)\n🚒
-  CAS (Košetice)\n🚒 CAS (Košetice)\n🚒 CAS (Pacov)\n🚒 DA (Hořepník)\n🚒 CAS (
- Hořepník)
+DESCRIPTION:📍 Hořepník\, Pelhřimov\n💬 Požár strniště.\n\n🚒 CAS (HS Pacov)\n
+ 🚒 CAS (HS Pacov)\n🚒 CAS (Košetice)\n🚒 CAS (Košetice)\n🚒 CAS (Pacov)\n🚒 DA 
+ (Hořepník)\n🚒 CAS (Hořepník)
 END:VEVENT
 END:VCALENDAR
