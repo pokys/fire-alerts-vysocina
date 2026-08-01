@@ -5,31 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:416476061
-DTSTART:20260730T125621Z
-DTEND:20260730T135621Z
-DTSTAMP:20260730T125621Z
-SUMMARY:🔥 tráva/plocha - Nové Dvory
-LOCATION:Nové Dvory
-GEO:49.565403;15.800632
-URL:geo:49.565403,15.800632
-DESCRIPTION:📍 Nové Dvory\, Žďár nad Sázavou\n💬 Požár strniště.\n\n🚒 CAS (CH
- S Žďár nad Sázavou)\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (Nové Dvory)\n🚒 C
- AS (Přibyslav)\n🚒 CAS (Přibyslav)\n🚒 CAS (Velká Losenice)
-END:VEVENT
-BEGIN:VEVENT
-UID:416479061
-DTSTART:20260730T134541Z
-DTEND:20260730T144541Z
-DTSTAMP:20260730T134541Z
-SUMMARY:🚗 dopravní nehoda - Vyskytná
-LOCATION:Vyskytná
-GEO:49.442261;15.330037
-URL:geo:49.442261,15.330037
-DESCRIPTION:📍 Sedliště\, Vyskytná\, Pelhřimov\n💬 DN OA a NA\, bez zranění. 
- Zajištění místa nehody.\n\n🚒 CAS (CHS Pelhřimov)
-END:VEVENT
-BEGIN:VEVENT
 UID:416480061
 DTSTART:20260730T140705Z
 DTEND:20260730T150705Z
@@ -1234,7 +1209,31 @@ SUMMARY:🔥 tráva/plocha - Křešín
 LOCATION:Křešín
 GEO:49.596295;15.027567
 URL:geo:49.596295,15.027567
-DESCRIPTION:📍 Mohelnice\, Křešín\, Pelhřimov\n\n🚒 CAS (HS Pacov)\n🚒 CAS (HS
-  Pacov)\n🚒 CAS (Košetice)\n🚒 CAS (Lukavec)\n🚒 DA (Křešín)
+DESCRIPTION:📍 Mohelnice\, Křešín\, Pelhřimov\n💬 Požár slámy na poli. Beze š
+ kody. Zajištění místa události.\n\n🚒 CAS (HS Pacov)\n🚒 CAS (HS Pacov)\n🚒 C
+ AS (Košetice)\n🚒 CAS (Lukavec)\n🚒 DA (Křešín)
+END:VEVENT
+BEGIN:VEVENT
+UID:416637061
+DTSTART:20260801T085518Z
+DTEND:20260801T095518Z
+DTSTAMP:20260801T085518Z
+SUMMARY:☣️ olej/PHM - Třebíč
+LOCATION:Táborská\, Třebíč
+GEO:49.225323;15.874227
+URL:geo:49.225323,15.874227
+DESCRIPTION:📍 Táborská\, Týn\, Třebíč\n💬 Únik oleje na pozemní komunikaci. 
+ Likvidace pomocí sorbentu.\n\n🚒 CAS (CHS Třebíč)
+END:VEVENT
+BEGIN:VEVENT
+UID:416639061
+DTSTART:20260801T090640Z
+DTEND:20260801T100640Z
+DTSTAMP:20260801T090640Z
+SUMMARY:🔥 odpad - Jihlava
+LOCATION:Masarykovo náměstí\, Jihlava
+GEO:49.396767;15.590065
+URL:geo:49.396767,15.590065
+DESCRIPTION:📍 Masarykovo náměstí\, Jihlava\n\n🚒 CAS (CHS Jihlava)
 END:VEVENT
 END:VCALENDAR
