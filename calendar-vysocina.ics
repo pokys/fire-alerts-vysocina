@@ -5,30 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:416483061
-DTSTART:20260730T145338Z
-DTEND:20260730T155338Z
-DTSTAMP:20260730T145338Z
-SUMMARY:🚗 dopravní nehoda - Horní Újezd
-LOCATION:Horní Újezd
-GEO:49.128375;15.850424
-URL:geo:49.128375,15.850424
-DESCRIPTION:📍 Horní Újezd\, Třebíč\n💬 DN motocyklu jedna zraněná osoba. Říz
- ení dopravy a zajištění místa události.\n\n🚒 CAS (CHS Třebíč)
-END:VEVENT
-BEGIN:VEVENT
-UID:416484061
-DTSTART:20260730T145544Z
-DTEND:20260730T155544Z
-DTSTAMP:20260730T145544Z
-SUMMARY:⚠️ planý poplach - Třešť
-LOCATION:Třešť
-GEO:49.306213;15.483151
-URL:geo:49.306213,15.483151
-DESCRIPTION:📍 Třešť\, Jihlava\n💬 Ohlášen kouř prostoru skládky dřeva\, průz
- kumem nepotvrzeno.\n\n🚒 CAS (HS Třešť)
-END:VEVENT
-BEGIN:VEVENT
 UID:416486061
 DTSTART:20260730T150654Z
 DTEND:20260730T160654Z
@@ -1234,7 +1210,30 @@ SUMMARY:🚑 spolupráce ZZS - Náměšť nad Oslavou
 LOCATION:Masarykovo nám.\, Náměšť nad Oslavou
 GEO:49.207058;16.157554
 URL:geo:49.207058,16.157554
-DESCRIPTION:📍 Masarykovo nám.\, Náměšť nad Oslavou\, Třebíč\n\n🚒 CAS (HS Ná
- měšť nad Oslavou)
+DESCRIPTION:📍 Masarykovo nám.\, Náměšť nad Oslavou\, Třebíč\n💬 Asistence ZZ
+ S.\n\n🚒 CAS (HS Náměšť nad Oslavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:416644061
+DTSTART:20260801T102703Z
+DTEND:20260801T112703Z
+DTSTAMP:20260801T102703Z
+SUMMARY:🔥 vozidlo - Velké Meziříčí
+LOCATION:Velké Meziříčí
+GEO:49.357396;16.023191
+URL:geo:49.357396,16.023191
+DESCRIPTION:📍 Velké Meziříčí\, Žďár nad Sázavou\n\n🚒 CAS (HS Velké Meziříčí
+ )\n🚒 RZA (HS Velké Meziříčí)
+END:VEVENT
+BEGIN:VEVENT
+UID:416646061
+DTSTART:20260801T102829Z
+DTEND:20260801T112829Z
+DTSTAMP:20260801T102829Z
+SUMMARY:🛠️ obtížný hmyz - Humpolec
+LOCATION:Hálkova\, Humpolec
+GEO:49.539022;15.354646
+URL:geo:49.539022,15.354646
+DESCRIPTION:📍 Hálkova\, Humpolec\, Pelhřimov\n\n🚒 CAS (HS Humpolec)
 END:VEVENT
 END:VCALENDAR
