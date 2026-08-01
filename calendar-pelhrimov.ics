@@ -246,4 +246,16 @@ GEO:49.427220;15.012284
 URL:geo:49.427220,15.012284
 DESCRIPTION:📍 Kámen\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 CAS (HS Pacov)
 END:VEVENT
+BEGIN:VEVENT
+UID:416624061
+DTSTART:20260801T025323Z
+DTEND:20260801T035323Z
+DTSTAMP:20260801T025323Z
+SUMMARY:🚑 transport pacienta - Horní Cerekev
+LOCATION:Štítného\, Horní Cerekev
+GEO:49.319702;15.323540
+URL:geo:49.319702,15.323540
+DESCRIPTION:📍 Štítného\, Horní Cerekev\, Pelhřimov\n💬 Transport pacienta na
+  žádost ZZS.\n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (Horní Cerekev)
+END:VEVENT
 END:VCALENDAR
