@@ -5,32 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:416470061
-DTSTART:20260730T120041Z
-DTEND:20260730T130041Z
-DTSTAMP:20260730T120041Z
-SUMMARY:🚗 dopravní nehoda - Havlíčkův Brod
-LOCATION:Nádražní\, Havlíčkův Brod
-GEO:49.602706;15.581734
-URL:geo:49.602706,15.581734
-DESCRIPTION:📍 Nádražní\, Havlíčkův Brod\n💬 DN cyklista a elektrokoloběžka\,
-  jedna zraněná osoba. Zajištění místa události.\n\n🚒 CAS (CHS Havlíčkův Br
- od)
-END:VEVENT
-BEGIN:VEVENT
-UID:416472061
-DTSTART:20260730T123720Z
-DTEND:20260730T133720Z
-DTSTAMP:20260730T123720Z
-SUMMARY:🚗 se zraněním - Stonařov
-LOCATION:Stonařov
-GEO:49.282320;15.585296
-URL:geo:49.282320,15.585296
-DESCRIPTION:📍 Stonařov\, Jihlava\n💬 DN OA a vozidla ZZS. Tři zraněné oosby 
- odvezeny ZZS do nemocnice. Zajištění místa události.\n\n🚒 CAS (Stonařov)\n
- 🚒 CAS (HS Třešť)
-END:VEVENT
-BEGIN:VEVENT
 UID:416473061
 DTSTART:20260730T125313Z
 DTEND:20260730T135313Z
@@ -1237,6 +1211,31 @@ LOCATION:Sadová\, Pacov
 GEO:49.473767;14.998603
 URL:geo:49.473767,14.998603
 DESCRIPTION:📍 Sadová\, Pacov\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 CAS (HS
-  Pacov)
+  Pacov)\n🚒 pila řetězová (HS Pacov)
+END:VEVENT
+BEGIN:VEVENT
+UID:416626061
+DTSTART:20260801T065829Z
+DTEND:20260801T075829Z
+DTSTAMP:20260801T065829Z
+SUMMARY:🚑 otevření/asistence - Kamenice nad Lipou
+LOCATION:Vackova\, Kamenice nad Lipou
+GEO:49.303013;15.076787
+URL:geo:49.303013,15.076787
+DESCRIPTION:📍 Vackova\, Kamenice nad Lipou\, Pelhřimov\n💬 Záchrana netopýra
+  z provozovny obchodu\,\n\n🚒 CAS (HS Kamenice nad Lipou)
+END:VEVENT
+BEGIN:VEVENT
+UID:416627061
+DTSTART:20260801T070006Z
+DTEND:20260801T080006Z
+DTSTAMP:20260801T070006Z
+SUMMARY:🔥 trafostanice - Moravec
+LOCATION:Moravec
+GEO:49.445736;16.144321
+URL:geo:49.445736,16.144321
+DESCRIPTION:📍 Moravec\, Žďár nad Sázavou\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZ
+ A (HS Velké Meziříčí)\n🚒 DA (Bobrová)\n🚒 CAS (Bobrová)\n🚒 CAS (Strážek)\n🚒
+  DA (Moravec)
 END:VEVENT
 END:VCALENDAR

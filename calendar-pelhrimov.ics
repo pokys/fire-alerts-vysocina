@@ -268,6 +268,18 @@ LOCATION:Sadová\, Pacov
 GEO:49.473767;14.998603
 URL:geo:49.473767,14.998603
 DESCRIPTION:📍 Sadová\, Pacov\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 CAS (HS
-  Pacov)
+  Pacov)\n🚒 pila řetězová (HS Pacov)
+END:VEVENT
+BEGIN:VEVENT
+UID:416626061
+DTSTART:20260801T065829Z
+DTEND:20260801T075829Z
+DTSTAMP:20260801T065829Z
+SUMMARY:🚑 otevření/asistence - Kamenice nad Lipou
+LOCATION:Vackova\, Kamenice nad Lipou
+GEO:49.303013;15.076787
+URL:geo:49.303013,15.076787
+DESCRIPTION:📍 Vackova\, Kamenice nad Lipou\, Pelhřimov\n💬 Záchrana netopýra
+  z provozovny obchodu\,\n\n🚒 CAS (HS Kamenice nad Lipou)
 END:VEVENT
 END:VCALENDAR
