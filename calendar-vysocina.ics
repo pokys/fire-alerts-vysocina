@@ -5,45 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:416565061
-DTSTART:20260731T120923Z
-DTEND:20260731T130923Z
-DTSTAMP:20260731T120923Z
-SUMMARY:⚠️ planý poplach - Humpolec
-LOCATION:Humpolec
-GEO:49.520493;15.388046
-URL:geo:49.520493,15.388046
-DESCRIPTION:📍 Humpolec\, Pelhřimov\n💬 Ohlášen požár OA\, průzkumem zjištěno
- \, že se jedná o technickou závadu.\n\n🚒 CAS (HS Humpolec)
-END:VEVENT
-BEGIN:VEVENT
-UID:416566061
-DTSTART:20260731T121219Z
-DTEND:20260731T131219Z
-DTSTAMP:20260731T121219Z
-SUMMARY:🚑 transport pacienta - Jaroměřice nad Rokytnou
-LOCATION:Domky\, Jaroměřice nad Rokytnou
-GEO:49.099182;15.864315
-URL:geo:49.099182,15.864315
-DESCRIPTION:📍 Domky\, Popovice\, Jaroměřice nad Rokytnou\, Třebíč\n💬 Transp
- ort pacienta na žádost ZZS.\n\n🚒 CAS (HS Moravské Budějovice)\n🚒 CAS (Jaro
- měřice nad Rokytnou)
-END:VEVENT
-BEGIN:VEVENT
-UID:416569061
-DTSTART:20260731T121459Z
-DTEND:20260731T131459Z
-DTSTAMP:20260731T121459Z
-SUMMARY:🔥 vozidlo - Loukovice
-LOCATION:Loukovice
-GEO:49.133761;15.793065
-URL:geo:49.133761,15.793065
-DESCRIPTION:📍 Loukovice\, Třebíč\n💬 Likvidace požáru lisu na balíky slámy.\
- n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (CHS Třebíč)\n🚒 CAS (Čáslavice)\n🚒 CAS (Jarom
- ěřice nad Rokytnou)\n🚒 osobní automobil (Jaroměřice nad Rokytnou)\n🚒 přívě
- s motorová stříkačka (Loukovice)\n🚒 vyšetřovací automobil (ÚO Třebíč)
-END:VEVENT
-BEGIN:VEVENT
 UID:416571061
 DTSTART:20260731T124058Z
 DTEND:20260731T134058Z
