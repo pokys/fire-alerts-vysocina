@@ -5,21 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:416546061
-DTSTART:20260731T085937Z
-DTEND:20260731T095937Z
-DTSTAMP:20260731T085937Z
-SUMMARY:☣️ olej/PHM - Herálec
-LOCATION:Herálec
-GEO:49.639252;15.962605
-URL:geo:49.639252,15.962605
-DESCRIPTION:📍 Herálec\, Žďár nad Sázavou\n💬 Likvidaci úniku oleje na pozemn
- í komunikaci.\n\n🚒 CAS (CHS Žďár nad Sázavou) ×2\n🚒 TA (CHS Žďár nad Sázav
- ou)\n🚒 VEA (CHS Žďár nad Sázavou)\n🚒 DA (Herálec (ZR))\n🚒 CAS (Herálec (ZR
- ))\n🚒 CAS (Žďár nad Sázavou-Zámek)\n🚒 osobní automobil (Žďár nad Sázavou-Z
- ámek)
-END:VEVENT
-BEGIN:VEVENT
 UID:416549061
 DTSTART:20260731T091657Z
 DTEND:20260731T101657Z
