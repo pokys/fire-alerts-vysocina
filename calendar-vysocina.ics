@@ -5,58 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:416559061
-DTSTART:20260731T115514Z
-DTEND:20260731T125514Z
-DTSTAMP:20260731T115514Z
-SUMMARY:🛠️ obtížný hmyz - Bystřice nad Pernštejnem
-LOCATION:Okružní\, Bystřice nad Pernštejnem
-GEO:49.525082;16.248904
-URL:geo:49.525082,16.248904
-DESCRIPTION:📍 Okružní\, Bystřice nad Pernštejnem\, Žďár nad Sázavou\n💬 Odst
- ranění obtížného hmyzu.\n\n🚒 CAS (HS Bystřice nad Pernštejnem)
-END:VEVENT
-BEGIN:VEVENT
-UID:416560061
-DTSTART:20260731T115539Z
-DTEND:20260731T125539Z
-DTSTAMP:20260731T115539Z
-SUMMARY:🚑 spolupráce ZZS - Jitkov
-LOCATION:Jitkov
-GEO:49.660943;15.731201
-URL:geo:49.660943,15.731201
-DESCRIPTION:📍 Jitkov\, Havlíčkův Brod\n💬 Pomoc ZZS s resuscitací.\n\n🚒 CAS 
- (HS Chotěboř)\n🚒 CAS (Ždírec nad Doubravou)
-END:VEVENT
-BEGIN:VEVENT
-UID:416562061
-DTSTART:20260731T115853Z
-DTEND:20260731T125853Z
-DTSTAMP:20260731T115853Z
-SUMMARY:🛠️ strom - Větrný Jeníkov
-LOCATION:Větrný Jeníkov
-GEO:49.464768;15.496809
-URL:geo:49.464768,15.496809
-DESCRIPTION:📍 Větrný Jeníkov\, Jihlava\n💬 Odstranění nalomené větve.\n\n🚒 C
- AS (Větrný Jeníkov)
-END:VEVENT
-BEGIN:VEVENT
-UID:416563061
-DTSTART:20260731T120010Z
-DTEND:20260731T130010Z
-DTSTAMP:20260731T120010Z
-SUMMARY:🔥 tráva/plocha - Velká Bíteš
-LOCATION:Velká Bíteš
-GEO:49.304802;16.283666
-URL:geo:49.304802,16.283666
-DESCRIPTION:📍 Pánov\, Velká Bíteš\, Žďár nad Sázavou\n💬 Požár pole.\n\n🚒 CA
- S (HS Velká Bíteš)\n🚒 čerpadlo plovoucí (HS Velká Bíteš)\n🚒 CAS (Osová Bít
- ýška)\n🚒 CAS (Velká Bíteš)\n🚒 osobní automobil (Velká Bíteš)\n🚒 DA (Svatos
- lav)\n🚒 CAS (Svatoslav)\n🚒 DA (Křižanov)\n🚒 CAS (Křižanov)\n🚒 CAS (Veversk
- á Bítýška)\n🚒 CAS (Veverská Bítýška)\n🚒 DA (Zbraslav)\n🚒 CAS (Zbraslav)\n🚒
-  vyšetřovací automobil (ÚO Žďár nad Sázavou)
-END:VEVENT
-BEGIN:VEVENT
 UID:416565061
 DTSTART:20260731T120923Z
 DTEND:20260731T130923Z
