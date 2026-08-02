@@ -464,7 +464,8 @@ LOCATION:Velká Bíteš
 GEO:49.305020;16.282937
 URL:geo:49.305020,16.282937
 DESCRIPTION:📍 Pánov\, Velká Bíteš\, Žďár nad Sázavou\n💬 Požár stromu.\n\n🚒 
- CAS (HS Velká Bíteš)\n🚒 DA (Svatoslav)\n🚒 CAS (Svatoslav)
+ CAS (HS Velká Bíteš)\n🚒 pila řetězová (HS Velká Bíteš)\n🚒 DA (Svatoslav)\n
+ 🚒 CAS (Svatoslav)
 END:VEVENT
 BEGIN:VEVENT
 UID:416608061
@@ -1100,7 +1101,7 @@ SUMMARY:🛠️ obtížný hmyz - Nová Ves u Světlé
 LOCATION:Nová Ves u Světlé
 GEO:49.648808;15.436662
 URL:geo:49.648808,15.436662
-DESCRIPTION:📍 Nová Ves u Světlé\, Havlíčkův Brod\n\n🚒 CAS (HS Světlá nad Sá
- zavou)
+DESCRIPTION:📍 Nová Ves u Světlé\, Havlíčkův Brod\n💬 Likvidace obtížného hmy
+ zu na retase kulturního domu.\n\n🚒 CAS (HS Světlá nad Sázavou)
 END:VEVENT
 END:VCALENDAR
