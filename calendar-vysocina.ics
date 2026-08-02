@@ -1148,4 +1148,16 @@ URL:geo:49.053169,15.818188
 DESCRIPTION:📍 U Mastníka\, Moravské Budějovice\, Třebíč\n💬 Transport pacien
  ta na žádost ZZS.\n\n🚒 CAS (HS Moravské Budějovice)
 END:VEVENT
+BEGIN:VEVENT
+UID:416683061
+DTSTART:20260802T042317Z
+DTEND:20260802T052317Z
+DTSTAMP:20260802T042317Z
+SUMMARY:🚑 transport pacienta - Moravské Budějovice
+LOCATION:Šafaříkova\, Moravské Budějovice
+GEO:49.052251;15.817679
+URL:geo:49.052251,15.817679
+DESCRIPTION:📍 Šafaříkova\, Moravské Budějovice\, Třebíč\n\n🚒 CAS (HS Moravs
+ ké Budějovice)
+END:VEVENT
 END:VCALENDAR
