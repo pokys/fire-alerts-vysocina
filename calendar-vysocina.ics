@@ -820,19 +820,8 @@ LOCATION:Borovnice
 GEO:49.664021;16.208630
 URL:geo:49.664021,16.208630
 DESCRIPTION:📍 Borovnice\, Žďár nad Sázavou\n💬 Pátrání po pohřešované osobě.
-  Osoba nalezena v pořádku.\n\n🚒 DA (Borovnice)\n🚒 CAS (CHS Žďár nad Sázavo
- u)\n🚒 DA (Jimramov)\n🚒 CAS (Jimramov)
-END:VEVENT
-BEGIN:VEVENT
-UID:416708061
-DTSTART:20260802T160304Z
-DTEND:20260802T170304Z
-DTSTAMP:20260802T160304Z
-SUMMARY:🛠️ čerpání vody - Kralice nad Oslavou
-LOCATION:Na Výhoně\, Kralice nad Oslavou
-GEO:49.193768;16.204460
-URL:geo:49.193768,16.204460
-DESCRIPTION:📍 Na Výhoně\, Kralice nad Oslavou\, Třebíč\n\n🚒 CAS (Kralice na
- d Oslavou)
+  Osoba nalezena v pořádku.\n\n🚒 DA (Borovnice)\n🚒 DA (Korouhev)\n🚒 DA (Pol
+ ička)\n🚒 CAS (Polička)\n🚒 CAS (Telecí)\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 DA
+  (Jimramov)\n🚒 CAS (Jimramov)
 END:VEVENT
 END:VCALENDAR
