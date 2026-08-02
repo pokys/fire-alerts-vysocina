@@ -5,30 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:416531061
-DTSTART:20260731T044814Z
-DTEND:20260731T054814Z
-DTSTAMP:20260731T044814Z
-SUMMARY:🛠️ čerpání vody - Třebíč
-LOCATION:Tomáše Bati\, Třebíč
-GEO:49.207076;15.858980
-URL:geo:49.207076,15.858980
-DESCRIPTION:📍 Tomáše Bati\, Borovina\, Třebíč\n💬 Odstranění obtížného hmyzu
- .\n\n🚒 CAS (CHS Třebíč)
-END:VEVENT
-BEGIN:VEVENT
-UID:416532061
-DTSTART:20260731T045101Z
-DTEND:20260731T055101Z
-DTSTAMP:20260731T045101Z
-SUMMARY:🛠️ strom - Záborná
-LOCATION:Záborná
-GEO:49.483700;15.763134
-URL:geo:49.483700,15.763134
-DESCRIPTION:📍 Záborná\, Jihlava\n💬 Odstranění stromu z vozovky.\n\n🚒 CAS (H
- S Polná)\n🚒 pila řetězová (HS Polná)
-END:VEVENT
-BEGIN:VEVENT
 UID:416533061
 DTSTART:20260731T054907Z
 DTEND:20260731T064907Z
@@ -1085,7 +1061,8 @@ SUMMARY:🛠️ obtížný hmyz - Jihlava
 LOCATION:Stará cesta\, Jihlava
 GEO:49.399811;15.615632
 URL:geo:49.399811,15.615632
-DESCRIPTION:📍 Stará cesta\, Helenín\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+DESCRIPTION:📍 Stará cesta\, Helenín\, Jihlava\n💬 Likvidace nebezpečného hmy
+ zu.\n\n🚒 CAS (CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:416675061
@@ -1096,8 +1073,8 @@ SUMMARY:🚗 dopravní nehoda - Luka nad Jihlavou
 LOCATION:Luka nad Jihlavou
 GEO:49.400584;15.680818
 URL:geo:49.400584,15.680818
-DESCRIPTION:📍 Otín\, Luka nad Jihlavou\, Jihlava\n\n🚒 CAS (CHS Jihlava)\n🚒 
- RZA (CHS Jihlava)
+DESCRIPTION:📍 Otín\, Luka nad Jihlavou\, Jihlava\n💬 DN motorkáře.Zajištění 
+ místa události.\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:416676061
@@ -1120,10 +1097,10 @@ SUMMARY:🔥 tráva/plocha - Radkov
 LOCATION:Radkov
 GEO:49.428494;16.138365
 URL:geo:49.428494,16.138365
-DESCRIPTION:📍 Radkov\, Žďár nad Sázavou\n💬 Likvidace požáru strniště.\n\n🚒 
- CAS (HS Bystřice nad Pernštejnem)\n🚒 CAS (HS Bystřice nad Pernštejnem)\n🚒 
- CAS (Bobrová)\n🚒 DA (Radkov (ZR))\n🚒 CAS (Strážek)\n🚒 CAS (Pikárec)\n🚒 vyš
- etřovací automobil (ÚO Žďár nad Sázavou)
+DESCRIPTION:📍 Radkov\, Žďár nad Sázavou\n💬 Požár strniště.\n\n🚒 CAS (HS Bys
+ třice nad Pernštejnem)\n🚒 CAS (HS Bystřice nad Pernštejnem)\n🚒 CAS (Bobrov
+ á)\n🚒 DA (Radkov (ZR))\n🚒 CAS (Strážek)\n🚒 CAS (Pikárec)\n🚒 vyšetřovací au
+ tomobil (ÚO Žďár nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:416681061
@@ -1157,7 +1134,7 @@ SUMMARY:🚑 transport pacienta - Moravské Budějovice
 LOCATION:Šafaříkova\, Moravské Budějovice
 GEO:49.052251;15.817679
 URL:geo:49.052251,15.817679
-DESCRIPTION:📍 Šafaříkova\, Moravské Budějovice\, Třebíč\n\n🚒 CAS (HS Moravs
- ké Budějovice)
+DESCRIPTION:📍 Šafaříkova\, Moravské Budějovice\, Třebíč\n💬 Transport pacien
+ ta na žádost ZZS.\n\n🚒 CAS (HS Moravské Budějovice)
 END:VEVENT
 END:VCALENDAR
