@@ -1062,4 +1062,16 @@ URL:geo:49.516481,15.900274
 DESCRIPTION:📍 Krátká\, Nové Veselí\, Žďár nad Sázavou\n💬 Proplach kanalizac
  e.\n\n🚒 CAS (Nové Veselí)
 END:VEVENT
+BEGIN:VEVENT
+UID:416697061
+DTSTART:20260802T101245Z
+DTEND:20260802T111245Z
+DTSTAMP:20260802T101245Z
+SUMMARY:🛠️ ostatní - Velké Meziříčí
+LOCATION:U Světlé\, Velké Meziříčí
+GEO:49.358023;16.004952
+URL:geo:49.358023,16.004952
+DESCRIPTION:📍 U Světlé\, Velké Meziříčí\, Žďár nad Sázavou\n💬 Odchyt hada.\
+ n\n🚒 CAS (HS Velké Meziříčí)
+END:VEVENT
 END:VCALENDAR
