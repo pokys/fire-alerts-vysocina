@@ -953,7 +953,8 @@ SUMMARY:🛠️ ostatní - Polná
 LOCATION:Třebízského\, Polná
 GEO:49.487276;15.718661
 URL:geo:49.487276,15.718661
-DESCRIPTION:📍 Třebízského\, Polná\, Jihlava\n\n🚒 CAS (Polná)
+DESCRIPTION:📍 Třebízského\, Polná\, Jihlava\n💬 Úklid komunikace\n\n🚒 CAS (P
+ olná)
 END:VEVENT
 BEGIN:VEVENT
 UID:416699061
@@ -965,5 +966,17 @@ LOCATION:Proseč
 GEO:49.601405;15.328137
 URL:geo:49.601405,15.328137
 DESCRIPTION:📍 Proseč\, Pelhřimov\n💬 Otevření RD.\n\n🚒 CAS (HS Humpolec)
+END:VEVENT
+BEGIN:VEVENT
+UID:416701061
+DTSTART:20260802T125136Z
+DTEND:20260802T135136Z
+DTSTAMP:20260802T125136Z
+SUMMARY:🚑 transport pacienta - Křižánky
+LOCATION:Křižánky
+GEO:49.670666;16.032050
+URL:geo:49.670666,16.032050
+DESCRIPTION:📍 Moravské Křižánky\, Křižánky\, Žďár nad Sázavou\n\n🚒 CAS (CHS
+  Žďár nad Sázavou)\n🚒 VEA (CHS Žďár nad Sázavou)\n🚒 CAS (Svratka)
 END:VEVENT
 END:VCALENDAR
