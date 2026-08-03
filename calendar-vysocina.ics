@@ -698,9 +698,9 @@ SUMMARY:🚗 dopravní nehoda - Havlíčkova Borová
 LOCATION:Dlážděná\, Havlíčkova Borová
 GEO:49.625629;15.778968
 URL:geo:49.625629,15.778968
-DESCRIPTION:📍 Dlážděná\, Havlíčkova Borová\, Havlíčkův Brod\n💬 DN 2x OA se 
- zraněním 2 osob. Vyproštění osob z aut. Zajištění místa nehody proti požár
- u a úniku provozních kapalin.\n\n🚒 CAS (HS Chotěboř)\n🚒 CAS (Přibyslav)
+DESCRIPTION:📍 Dlážděná\, Havlíčkova Borová\, Havlíčkův Brod\n💬 DN 2 OA se z
+ raněním 2 osob. Vyproštění osob z aut. Zajištění místa nehody proti požáru
+  a úniku provozních kapalin.\n\n🚒 CAS (HS Chotěboř)\n🚒 CAS (Přibyslav)
 END:VEVENT
 BEGIN:VEVENT
 UID:416724061
@@ -712,6 +712,17 @@ LOCATION:Lhotka
 GEO:49.211718;15.385176
 URL:geo:49.211718,15.385176
 DESCRIPTION:📍 Lhotka\, Jihlava\n💬 Odstranění obtížného hmyzu.\n\n🚒 CAS (HS 
- Telč)
+ Telč) ×2
+END:VEVENT
+BEGIN:VEVENT
+UID:416728061
+DTSTART:20260803T061217Z
+DTEND:20260803T071217Z
+DTSTAMP:20260803T061217Z
+SUMMARY:🚑 spolupráce ZZS - Maleč
+LOCATION:Maleč
+GEO:49.763100;15.685549
+URL:geo:49.763100,15.685549
+DESCRIPTION:📍 Hranice\, Maleč\, Havlíčkův Brod\n\n🚒 CAS (HS Chotěboř)
 END:VEVENT
 END:VCALENDAR
