@@ -47,8 +47,7 @@ SUMMARY:🛠️ strom - Pacov
 LOCATION:Ferd. Čermáka\, Pacov
 GEO:49.469036;15.004317
 URL:geo:49.469036,15.004317
-DESCRIPTION:📍 Ferd. Čermáka\, Pacov\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 
- CAS (HS Pacov)\n🚒 pila řetězová (HS Pacov)
+DESCRIPTION:📍 Ferd. Čermáka\, Pacov\, Pelhřimov\n💬 Odstranění stromu.
 END:VEVENT
 BEGIN:VEVENT
 UID:416793061
@@ -60,7 +59,7 @@ LOCATION:Na Sadech\, Černovice
 GEO:49.371307;14.962324
 URL:geo:49.371307,14.962324
 DESCRIPTION:📍 Na Sadech\, Černovice\, Pelhřimov\n💬 Odstranění obtížného hmy
- zu.\n\n🚒 CAS (Černovice)
+ zu.
 END:VEVENT
 BEGIN:VEVENT
 UID:416800061
