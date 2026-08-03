@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:416674061
-DTSTART:20260801T163921Z
-DTEND:20260801T173921Z
-DTSTAMP:20260801T163921Z
-SUMMARY:🛠️ obtížný hmyz - Jihlava
-LOCATION:Stará cesta\, Jihlava
-GEO:49.399811;15.615632
-URL:geo:49.399811,15.615632
-DESCRIPTION:📍 Stará cesta\, Helenín\, Jihlava\n💬 Likvidace nebezpečného hmy
- zu.\n\n🚒 CAS (CHS Jihlava)
-END:VEVENT
-BEGIN:VEVENT
 UID:416675061
 DTSTART:20260801T173637Z
 DTEND:20260801T183637Z
@@ -697,7 +685,8 @@ SUMMARY:🛠️ strom - Pacov
 LOCATION:Ferd. Pakosty\, Pacov
 GEO:49.465734;14.999896
 URL:geo:49.465734,14.999896
-DESCRIPTION:📍 Ferd. Pakosty\, Pacov\, Pelhřimov\n\n🚒 CAS (HS Pacov)
+DESCRIPTION:📍 Ferd. Pakosty\, Pacov\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 
+ CAS (HS Pacov)
 END:VEVENT
 BEGIN:VEVENT
 UID:416783061
@@ -734,5 +723,17 @@ GEO:49.696163;15.413862
 URL:geo:49.696163,15.413862
 DESCRIPTION:📍 Druhanov\, Havlíčkův Brod\n💬 Odstranění obtížného hmyzu.\n\n🚒
   nákladní automobil do 3500 kg (Druhanov)
+END:VEVENT
+BEGIN:VEVENT
+UID:416788061
+DTSTART:20260803T161703Z
+DTEND:20260803T171703Z
+DTSTAMP:20260803T161703Z
+SUMMARY:⚠️ planý poplach - Velké Meziříčí
+LOCATION:Velké Meziříčí
+GEO:49.354314;15.989259
+URL:geo:49.354314,15.989259
+DESCRIPTION:📍 Velké Meziříčí\, Žďár nad Sázavou\n💬 Planý poplach.\n\n🚒 CAS 
+ (HS Velké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)
 END:VEVENT
 END:VCALENDAR
