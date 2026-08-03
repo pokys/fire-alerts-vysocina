@@ -697,8 +697,8 @@ SUMMARY:🛠️ obtížný hmyz - Žďár nad Sázavou
 LOCATION:Žďár nad Sázavou
 GEO:49.555211;16.007622
 URL:geo:49.555211,16.007622
-DESCRIPTION:📍 Veselíčko\, Žďár nad Sázavou\n\n🚒 CAS (Žďár nad Sázavou-Zámek
- )
+DESCRIPTION:📍 Veselíčko\, Žďár nad Sázavou\n💬 Odstranění obtížného hmyzu.\n
+ \n🚒 CAS (Žďár nad Sázavou-Zámek)
 END:VEVENT
 BEGIN:VEVENT
 UID:416784061
@@ -747,5 +747,41 @@ GEO:49.724990;15.647605
 URL:geo:49.724990,15.647605
 DESCRIPTION:📍 Chotěboř\, Havlíčkův Brod\n\n🚒 CAS (HS Chotěboř)\n🚒 CAS (Chot
  ěboř)\n🚒 CAS (Libice nad Doubravou)\n🚒 CAS (Ždírec nad Doubravou)
+END:VEVENT
+BEGIN:VEVENT
+UID:416790061
+DTSTART:20260803T165425Z
+DTEND:20260803T175425Z
+DTSTAMP:20260803T165425Z
+SUMMARY:🛠️ obtížný hmyz - Lesonice
+LOCATION:Lesonice
+GEO:49.107856;15.755883
+URL:geo:49.107856,15.755883
+DESCRIPTION:📍 Lesonice\, Třebíč\n💬 Odstranění obtížného hmyzu.\n\n🚒 CAS (Le
+ sonice)
+END:VEVENT
+BEGIN:VEVENT
+UID:416792061
+DTSTART:20260803T170635Z
+DTEND:20260803T180635Z
+DTSTAMP:20260803T170635Z
+SUMMARY:🛠️ obtížný hmyz - Golčův Jeníkov
+LOCATION:5. května\, Golčův Jeníkov
+GEO:49.806268;15.479129
+URL:geo:49.806268,15.479129
+DESCRIPTION:📍 5. května\, Golčův Jeníkov\, Havlíčkův Brod\n\n🚒 CAS (Golčův 
+ Jeníkov)
+END:VEVENT
+BEGIN:VEVENT
+UID:416795061
+DTSTART:20260803T171115Z
+DTEND:20260803T181115Z
+DTSTAMP:20260803T171115Z
+SUMMARY:🛠️ obtížný hmyz - Lipnice nad Sázavou
+LOCATION:Lipnice nad Sázavou
+GEO:49.611672;15.405464
+URL:geo:49.611672,15.405464
+DESCRIPTION:📍 Lipnice nad Sázavou\, Havlíčkův Brod\n\n🚒 CAS (Lipnice nad Sá
+ zavou)
 END:VEVENT
 END:VCALENDAR
