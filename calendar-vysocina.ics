@@ -782,7 +782,8 @@ SUMMARY:🛠️ obtížný hmyz - Třešť
 LOCATION:Revoluční\, Třešť
 GEO:49.290108;15.483539
 URL:geo:49.290108,15.483539
-DESCRIPTION:📍 Revoluční\, Třešť\, Jihlava\n\n🚒 CAS (HS Třešť)
+DESCRIPTION:📍 Revoluční\, Třešť\, Jihlava\n💬 Odstranění obtížného hmyzu.\n\
+ n🚒 CAS (HS Třešť)
 END:VEVENT
 BEGIN:VEVENT
 UID:416797061
@@ -827,7 +828,8 @@ SUMMARY:🛠️ obtížný hmyz - Lesonice
 LOCATION:Lesonice
 GEO:49.107030;15.754475
 URL:geo:49.107030,15.754475
-DESCRIPTION:📍 Lesonice\, Třebíč\n\n🚒 CAS (Lesonice)
+DESCRIPTION:📍 Lesonice\, Třebíč\n💬 Odstranění obtížného hmyzu.\n\n🚒 CAS (Le
+ sonice)
 END:VEVENT
 BEGIN:VEVENT
 UID:416802061
@@ -850,8 +852,8 @@ SUMMARY:🛠️ obtížný hmyz - Hamry nad Sázavou
 LOCATION:Hamry nad Sázavou
 GEO:49.567684;15.892629
 URL:geo:49.567684,15.892629
-DESCRIPTION:📍 Najdek\, Hamry nad Sázavou\, Žďár nad Sázavou\n\n🚒 DA (Hamry 
- nad Sázavou-Najdek)
+DESCRIPTION:📍 Najdek\, Hamry nad Sázavou\, Žďár nad Sázavou\n💬 Odstranění o
+ btížného hmyzu.\n\n🚒 DA (Hamry nad Sázavou-Najdek)
 END:VEVENT
 BEGIN:VEVENT
 UID:416804061
@@ -860,8 +862,8 @@ DTEND:20260803T190346Z
 DTSTAMP:20260803T180346Z
 SUMMARY:🛠️ otevření bytu/auta - Batelov
 LOCATION:Batelov
-GEO:49.289788;15.413174
-URL:geo:49.289788,15.413174
+GEO:49.288218;15.411575
+URL:geo:49.288218,15.411575
 DESCRIPTION:📍 Lovětín\, Batelov\, Jihlava\n\n🚒 CAS (HS Třešť)
 END:VEVENT
 BEGIN:VEVENT
@@ -869,12 +871,23 @@ UID:416805061
 DTSTART:20260803T180545Z
 DTEND:20260803T190545Z
 DTSTAMP:20260803T180545Z
-SUMMARY:🔥 les - Častrov
+SUMMARY:🔥 tráva/plocha - Častrov
 LOCATION:Častrov
 GEO:49.326111;15.184251
 URL:geo:49.326111,15.184251
-DESCRIPTION:📍 Častrov\, Pelhřimov\n\n🚒 CAS (HS Kamenice nad Lipou)\n🚒 CAS (
- HS Kamenice nad Lipou)\n🚒 CAS (Počátky) ×2\n🚒 CAS (Žirovnice)\n🚒 DA (Častr
- ov)
+DESCRIPTION:📍 Častrov\, Pelhřimov\n💬 Požár hrabanky a odpadu. Provedena lok
+ alizace a likvidace.\n\n🚒 CAS (HS Kamenice nad Lipou)\n🚒 CAS (HS Kamenice 
+ nad Lipou)\n🚒 CAS (Počátky) ×2\n🚒 CAS (Žirovnice)\n🚒 DA (Častrov)
+END:VEVENT
+BEGIN:VEVENT
+UID:416807061
+DTSTART:20260803T182443Z
+DTEND:20260803T192443Z
+DTSTAMP:20260803T182443Z
+SUMMARY:🛠️ obtížný hmyz - Pálovice
+LOCATION:Pálovice
+GEO:49.004006;15.538013
+URL:geo:49.004006,15.538013
+DESCRIPTION:📍 Pálovice\, Třebíč\n\n🚒 CAS (HS Jemnice)
 END:VEVENT
 END:VCALENDAR
