@@ -5,32 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:416626061
-DTSTART:20260801T065829Z
-DTEND:20260801T075829Z
-DTSTAMP:20260801T065829Z
-SUMMARY:🚑 otevření/asistence - Kamenice nad Lipou
-LOCATION:Vackova\, Kamenice nad Lipou
-GEO:49.303013;15.076787
-URL:geo:49.303013,15.076787
-DESCRIPTION:📍 Vackova\, Kamenice nad Lipou\, Pelhřimov\n💬 Záchrana netopýra
-  z provozovny obchodu\,\n\n🚒 CAS (HS Kamenice nad Lipou)
-END:VEVENT
-BEGIN:VEVENT
-UID:416627061
-DTSTART:20260801T070006Z
-DTEND:20260801T080006Z
-DTSTAMP:20260801T070006Z
-SUMMARY:🔥 trafostanice - Moravec
-LOCATION:Moravec
-GEO:49.445736;16.144321
-URL:geo:49.445736,16.144321
-DESCRIPTION:📍 Moravec\, Žďár nad Sázavou\n💬 Ohlášen požár trafostanice\, ne
- potvrzeno. Zajištění místa události.\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (
- HS Velké Meziříčí)\n🚒 DA (Bobrová)\n🚒 CAS (Bobrová)\n🚒 CAS (Strážek)\n🚒 DA
-  (Moravec)
-END:VEVENT
-BEGIN:VEVENT
 UID:416629061
 DTSTART:20260801T073223Z
 DTEND:20260801T083223Z
@@ -723,6 +697,7 @@ SUMMARY:🚑 spolupráce ZZS - Maleč
 LOCATION:Maleč
 GEO:49.763100;15.685549
 URL:geo:49.763100,15.685549
-DESCRIPTION:📍 Hranice\, Maleč\, Havlíčkův Brod\n\n🚒 CAS (HS Chotěboř)
+DESCRIPTION:📍 Hranice\, Maleč\, Havlíčkův Brod\n💬 Spolupráce s ZZS.\n\n🚒 CA
+ S (HS Chotěboř)
 END:VEVENT
 END:VCALENDAR
