@@ -671,8 +671,9 @@ SUMMARY:🚗 dopravní nehoda - Žďár nad Sázavou
 LOCATION:Smetanova\, Žďár nad Sázavou
 GEO:49.560898;15.943909
 URL:geo:49.560898,15.943909
-DESCRIPTION:📍 Smetanova\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n\n🚒 CAS (C
- HS Žďár nad Sázavou)
+DESCRIPTION:📍 Smetanova\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n💬 DN OA a 
+ motorky. Jednotka provedla protipožární opatření. Odtah OA mimo komunikaci
+ .\n\n🚒 CAS (CHS Žďár nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:416775061
@@ -696,6 +697,41 @@ SUMMARY:🛠️ obtížný hmyz - Havlíčkův Brod
 LOCATION:Žižkov II\, Havlíčkův Brod
 GEO:49.609864;15.593885
 URL:geo:49.609864,15.593885
-DESCRIPTION:📍 Žižkov II\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)
+DESCRIPTION:📍 Žižkov II\, Havlíčkův Brod\n💬 Odstranění obtížného hmyzu.\n\n
+ 🚒 CAS (CHS Havlíčkův Brod)
+END:VEVENT
+BEGIN:VEVENT
+UID:416779061
+DTSTART:20260803T151408Z
+DTEND:20260803T161408Z
+DTSTAMP:20260803T151408Z
+SUMMARY:🛠️ ostatní - Polná
+LOCATION:Indusova\, Polná
+GEO:49.484666;15.722353
+URL:geo:49.484666,15.722353
+DESCRIPTION:📍 Indusova\, Polná\, Jihlava\n\n🚒 CAS (Polná)
+END:VEVENT
+BEGIN:VEVENT
+UID:416781061
+DTSTART:20260803T152112Z
+DTEND:20260803T162112Z
+DTSTAMP:20260803T152112Z
+SUMMARY:🛠️ obtížný hmyz - Žďár nad Sázavou
+LOCATION:Kopečná\, Žďár nad Sázavou
+GEO:49.563113;15.931749
+URL:geo:49.563113,15.931749
+DESCRIPTION:📍 Kopečná\, Žďár nad Sázavou 3\, Žďár nad Sázavou\n\n🚒 CAS (CHS
+  Žďár nad Sázavou)\n🚒 automobilová plošina nad 30 m (CHS Žďár nad Sázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:416782061
+DTSTART:20260803T153027Z
+DTEND:20260803T163027Z
+DTSTAMP:20260803T153027Z
+SUMMARY:🛠️ strom - Pacov
+LOCATION:Ferd. Pakosty\, Pacov
+GEO:49.465734;14.999896
+URL:geo:49.465734,14.999896
+DESCRIPTION:📍 Ferd. Pakosty\, Pacov\, Pelhřimov\n\n🚒 CAS (HS Pacov)
 END:VEVENT
 END:VCALENDAR
