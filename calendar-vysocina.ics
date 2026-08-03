@@ -667,4 +667,28 @@ URL:geo:49.556915,15.945112
 DESCRIPTION:📍 Palachova\, Žďár nad Sázavou 6\, Žďár nad Sázavou\n💬 Pomoc\n\
  n🚒 CAS (CHS Žďár nad Sázavou)
 END:VEVENT
+BEGIN:VEVENT
+UID:416747061
+DTSTART:20260803T103154Z
+DTEND:20260803T113154Z
+DTSTAMP:20260803T103154Z
+SUMMARY:🔥 les - Žďár nad Sázavou
+LOCATION:Žďár nad Sázavou
+GEO:49.558660;15.916100
+URL:geo:49.558660,15.916100
+DESCRIPTION:📍 Žďár nad Sázavou 1\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad 
+ Sázavou)\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (Žďár nad Sázavou-Zámek)\n🚒 
+ vyšetřovací automobil (ÚO Žďár nad Sázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:416748061
+DTSTART:20260803T104043Z
+DTEND:20260803T114043Z
+DTSTAMP:20260803T104043Z
+SUMMARY:🛠️ ostatní - Jimramov
+LOCATION:Jimramov
+GEO:49.618801;16.259733
+URL:geo:49.618801,16.259733
+DESCRIPTION:📍 Ubušín\, Jimramov\, Žďár nad Sázavou\n\n🚒 CAS (Jimramov)
+END:VEVENT
 END:VCALENDAR
