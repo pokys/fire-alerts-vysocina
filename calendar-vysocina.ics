@@ -624,8 +624,9 @@ SUMMARY:🔥 les - Řídelov
 LOCATION:Řídelov
 GEO:49.236052;15.402676
 URL:geo:49.236052,15.402676
-DESCRIPTION:📍 Řídelov\, Jihlava\n\n🚒 CAS (HS Telč)\n🚒 CAS (HS Telč)\n🚒 CAS 
- (Batelov)\n🚒 CAS (Mrákotín)\n🚒 osobní automobil (Řídelov)
+DESCRIPTION:📍 Řídelov\, Jihlava\n💬 Doutnající ohniště. Lokalizace a likvida
+ ce požáru.\n\n🚒 CAS (HS Telč)\n🚒 CAS (HS Telč)\n🚒 CAS (Batelov)\n🚒 CAS (Mr
+ ákotín)\n🚒 osobní automobil (Řídelov)
 END:VEVENT
 BEGIN:VEVENT
 UID:416740061
@@ -637,7 +638,9 @@ LOCATION:náměstí Zachariáše z Hradce\, Telč
 GEO:49.184833;15.452034
 URL:geo:49.184833,15.452034
 DESCRIPTION:📍 náměstí Zachariáše z Hradce\, Telč-Vnitřní Město\, Telč\, Jih
- lava\n\n🚒 CAS (HS Telč)\n🚒 CAS (HS Telč)
+ lava\n💬 Požár ohlášený systémem elektrické požární signalizace. Průzkumem 
+ bylo zjištěno\, že se jedná o planý poplach.\n\n🚒 CAS (HS Telč)\n🚒 CAS (HS
+  Telč)
 END:VEVENT
 BEGIN:VEVENT
 UID:416741061
@@ -648,7 +651,9 @@ SUMMARY:⚠️ planý poplach - Jihlava
 LOCATION:Pelhřimovská\, Jihlava
 GEO:49.394737;15.553775
 URL:geo:49.394737,15.553775
-DESCRIPTION:📍 Pelhřimovská\, Pístov\, Jihlava\n\n🚒 CAS (CHS Jihlava) ×2
+DESCRIPTION:📍 Pelhřimovská\, Pístov\, Jihlava\n💬 Požár ohlášený systémem el
+ ektrické požární signalizace. Průzkumem bylo zjištěno\, že se jedná o plan
+ ý poplach.\n\n🚒 CAS (CHS Jihlava) ×2
 END:VEVENT
 BEGIN:VEVENT
 UID:416744061
@@ -659,7 +664,7 @@ SUMMARY:🚑 otevření/asistence - Žďár nad Sázavou
 LOCATION:Palachova\, Žďár nad Sázavou
 GEO:49.556915;15.945112
 URL:geo:49.556915,15.945112
-DESCRIPTION:📍 Palachova\, Žďár nad Sázavou 6\, Žďár nad Sázavou\n\n🚒 CAS (C
- HS Žďár nad Sázavou)
+DESCRIPTION:📍 Palachova\, Žďár nad Sázavou 6\, Žďár nad Sázavou\n💬 Pomoc\n\
+ n🚒 CAS (CHS Žďár nad Sázavou)
 END:VEVENT
 END:VCALENDAR
