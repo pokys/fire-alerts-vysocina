@@ -1125,7 +1125,8 @@ SUMMARY:🛠️ obtížný hmyz - Hrotovice
 LOCATION:Hladov\, Hrotovice
 GEO:49.110185;16.056692
 URL:geo:49.110185,16.056692
-DESCRIPTION:📍 Hladov\, Hrotovice\, Třebíč\n\n🚒 CAS (HS Hrotovice)
+DESCRIPTION:📍 Hladov\, Hrotovice\, Třebíč\n💬 Likvidace obtížného hmyzu.\n\n
+ 🚒 CAS (HS Hrotovice)
 END:VEVENT
 BEGIN:VEVENT
 UID:416895061
@@ -1148,5 +1149,16 @@ LOCATION:Luka nad Jihlavou
 GEO:49.374031;15.701935
 URL:geo:49.374031,15.701935
 DESCRIPTION:📍 Luka nad Jihlavou\, Jihlava\n\n🚒 CAS (Luka nad Jihlavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:416897061
+DTSTART:20260804T173045Z
+DTEND:20260804T183045Z
+DTSTAMP:20260804T173045Z
+SUMMARY:🛠️ obtížný hmyz - Budišov
+LOCATION:Budišov
+GEO:49.262192;16.026573
+URL:geo:49.262192,16.026573
+DESCRIPTION:📍 Budišov\, Třebíč\n\n🚒 DA (Budišov)
 END:VEVENT
 END:VCALENDAR
