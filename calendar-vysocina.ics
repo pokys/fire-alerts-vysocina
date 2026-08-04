@@ -1039,7 +1039,8 @@ SUMMARY:🛠️ obtížný hmyz - Měřín
 LOCATION:Za Hřbitovem\, Měřín
 GEO:49.392168;15.890852
 URL:geo:49.392168,15.890852
-DESCRIPTION:📍 Za Hřbitovem\, Měřín\, Žďár nad Sázavou\n\n🚒 CAS (Měřín)
+DESCRIPTION:📍 Za Hřbitovem\, Měřín\, Žďár nad Sázavou\n💬 Odstranění obtížné
+ ho hmyzu.\n\n🚒 CAS (Měřín)
 END:VEVENT
 BEGIN:VEVENT
 UID:416878061
@@ -1100,5 +1101,29 @@ LOCATION:Blažkov
 GEO:49.473073;16.185162
 URL:geo:49.473073,16.185162
 DESCRIPTION:📍 Blažkov\, Žďár nad Sázavou\n\n🚒 CAS (Blažkov)
+END:VEVENT
+BEGIN:VEVENT
+UID:416890061
+DTSTART:20260804T165933Z
+DTEND:20260804T175933Z
+DTSTAMP:20260804T165933Z
+SUMMARY:🛠️ obtížný hmyz - Křižanov
+LOCATION:Na Zahrádkách\, Křižanov
+GEO:49.387389;16.105402
+URL:geo:49.387389,16.105402
+DESCRIPTION:📍 Na Zahrádkách\, Křižanov\, Žďár nad Sázavou\n💬 Odstranění obt
+ ížného hmyzu.\n\n🚒 CAS (Křižanov)
+END:VEVENT
+BEGIN:VEVENT
+UID:416891061
+DTSTART:20260804T170030Z
+DTEND:20260804T180030Z
+DTSTAMP:20260804T170030Z
+SUMMARY:🛠️ obtížný hmyz - Golčův Jeníkov
+LOCATION:Nám. T. G. Masaryka\, Golčův Jeníkov
+GEO:49.816081;15.477680
+URL:geo:49.816081,15.477680
+DESCRIPTION:📍 Nám. T. G. Masaryka\, Golčův Jeníkov\, Havlíčkův Brod\n\n🚒 CA
+ S (Golčův Jeníkov)
 END:VEVENT
 END:VCALENDAR
