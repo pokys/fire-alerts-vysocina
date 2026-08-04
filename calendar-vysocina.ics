@@ -932,9 +932,10 @@ LOCATION:Lípa
 GEO:49.555764;15.514916
 URL:geo:49.555764,15.514916
 DESCRIPTION:📍 Lípa\, Havlíčkův Brod\n💬 Požár lesa 1 ha. Lokalizace a likvid
- ace.\n\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 CAS (Her
- álec (HB))\n🚒 DA (Lípa)\n🚒 přívěs nákladní (Lípa)\n🚒 CAS (Štoky)\n🚒 vyšetř
- ovací automobil (ÚO Havlíčkův Brod)
+ ace.\n\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 čerpadlo
+  plovoucí (CHS Havlíčkův Brod)\n🚒 CAS (Herálec (HB))\n🚒 DA (Lípa)\n🚒 přívě
+ s nákladní (Lípa)\n🚒 CAS (Štoky)\n🚒 vyšetřovací automobil (ÚO Havlíčkův Br
+ od)
 END:VEVENT
 BEGIN:VEVENT
 UID:416857061
@@ -970,10 +971,10 @@ SUMMARY:🔥 tráva/plocha - Křelovice
 LOCATION:Křelovice
 GEO:49.539598;15.171072
 URL:geo:49.539598,15.171072
-DESCRIPTION:📍 Křelovice\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (CHS Pe
- lhřimov)\n🚒 CAS (Červená Řečice)\n🚒 CAS (Senožaty)\n🚒 CAS (Senožaty)\n🚒 CA
- S (Želiv)\n🚒 CAS (Želiv)\n🚒 DA (Křelovice) ×2\n🚒 CAS (Košetice)\n🚒 CAS (Ko
- šetice)\n🚒 CAS (Onšov)
+DESCRIPTION:📍 Křelovice\, Pelhřimov\n💬 Požár je beze škody.\n\n🚒 CAS (CHS P
+ elhřimov)\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (Červená Řečice)\n🚒 CAS (Senožaty)
+ \n🚒 CAS (Senožaty)\n🚒 CAS (Želiv)\n🚒 CAS (Želiv)\n🚒 DA (Křelovice) ×2\n🚒 C
+ AS (Košetice)\n🚒 CAS (Košetice)\n🚒 CAS (Onšov)
 END:VEVENT
 BEGIN:VEVENT
 UID:416862061
@@ -1010,8 +1011,9 @@ SUMMARY:🚗 dopravní nehoda - Opatov
 LOCATION:Opatov
 GEO:49.420364;15.395544
 URL:geo:49.420364,15.395544
-DESCRIPTION:📍 Opatov\, Jihlava\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihlava)\
- n🚒 CAS (CHS Pelhřimov)
+DESCRIPTION:📍 Opatov\, Jihlava\n💬 DN 3 OA\, vyproštění osob. 9 zraněných os
+ ob\, Zajištění místa nehody\, protipožární opatření.\n\n🚒 CAS (CHS Jihlava
+ )\n🚒 RZA (CHS Jihlava)\n🚒 CAS (CHS Pelhřimov)
 END:VEVENT
 BEGIN:VEVENT
 UID:416870061
@@ -1022,17 +1024,32 @@ SUMMARY:🚑 spolupráce ZZS - Jihlava
 LOCATION:Dusíkova\, Jihlava
 GEO:49.403781;15.567323
 URL:geo:49.403781,15.567323
-DESCRIPTION:📍 Dusíkova\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+DESCRIPTION:📍 Dusíkova\, Jihlava\n💬 Spolupráce se ZZS.\n\n🚒 CAS (CHS Jihlav
+ a)
 END:VEVENT
 BEGIN:VEVENT
 UID:416871061
 DTSTART:20260804T150417Z
 DTEND:20260804T160417Z
 DTSTAMP:20260804T150417Z
-SUMMARY:🔥 Jihlava
+SUMMARY:⚠️ planý poplach - Jihlava
 LOCATION:Hluboká\, Jihlava
 GEO:49.396797;15.591461
 URL:geo:49.396797,15.591461
-DESCRIPTION:📍 Hluboká\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+DESCRIPTION:📍 Hluboká\, Jihlava\n💬 Požár ohlášený systémem elektrické požár
+ ní signalizace. Průzkumem bylo zjištěno\, že se jedná o planý poplach.\n\n
+ 🚒 CAS (CHS Jihlava)
+END:VEVENT
+BEGIN:VEVENT
+UID:416874061
+DTSTART:20260804T151916Z
+DTEND:20260804T161916Z
+DTSTAMP:20260804T151916Z
+SUMMARY:🛠️ obtížný hmyz - Herálec
+LOCATION:Herálec
+GEO:49.531139;15.469786
+URL:geo:49.531139,15.469786
+DESCRIPTION:📍 Herálec\, Havlíčkův Brod\n💬 Odstranění obtížného hmyzu.\n\n🚒 
+ CAS (Herálec (HB))
 END:VEVENT
 END:VCALENDAR
