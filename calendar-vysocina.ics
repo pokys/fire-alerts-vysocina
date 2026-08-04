@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:416705061
-DTSTART:20260802T141403Z
-DTEND:20260802T151403Z
-DTSTAMP:20260802T141403Z
-SUMMARY:🛠️ strom - Matějov
-LOCATION:Matějov
-GEO:49.536946;15.858775
-URL:geo:49.536946,15.858775
-DESCRIPTION:📍 Matějov\, Žďár nad Sázavou\n💬 Odstranění stromu.\n\n🚒 CAS (CH
- S Žďár nad Sázavou)
-END:VEVENT
-BEGIN:VEVENT
 UID:416706061
 DTSTART:20260802T141859Z
 DTEND:20260802T151859Z
@@ -982,8 +970,9 @@ SUMMARY:🚗 dopravní nehoda - Velká Losenice
 LOCATION:Velká Losenice
 GEO:49.583573;15.818505
 URL:geo:49.583573,15.818505
-DESCRIPTION:📍 Velká Losenice\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad Sáza
- vou)
+DESCRIPTION:📍 Velká Losenice\, Žďár nad Sázavou\n💬 DN 2 OA. Jednotka proved
+ la protipožární opatření. Úklid komunikace zajištění místa nehody. 1 zraně
+ ná osoba v péči ZZS.\n\n🚒 CAS (CHS Žďár nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:416861061
@@ -1020,7 +1009,18 @@ SUMMARY:🚗 dopravní nehoda - Křižánky
 LOCATION:Křižánky
 GEO:49.678391;16.076047
 URL:geo:49.678391,16.076047
-DESCRIPTION:📍 Moravské Křižánky\, Křižánky\, Žďár nad Sázavou\n\n🚒 CAS (CHS
-  Žďár nad Sázavou)\n🚒 CAS (Sněžné)
+DESCRIPTION:📍 Moravské Křižánky\, Křižánky\, Žďár nad Sázavou\n💬 DN 1 OA\, 
+ jedna zraněná osoba.\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (Sněžné)
+END:VEVENT
+BEGIN:VEVENT
+UID:416867061
+DTSTART:20260804T140611Z
+DTEND:20260804T150611Z
+DTSTAMP:20260804T140611Z
+SUMMARY:🛠️ ostatní - Nové Veselí
+LOCATION:Nové Veselí
+GEO:49.519765;15.908525
+URL:geo:49.519765,15.908525
+DESCRIPTION:📍 Nové Veselí\, Žďár nad Sázavou\n\n🚒 CAS (Nové Veselí)
 END:VEVENT
 END:VCALENDAR
