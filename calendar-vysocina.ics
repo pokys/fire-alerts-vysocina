@@ -868,8 +868,9 @@ SUMMARY:🚗 bez zranění - Ždírec nad Doubravou
 LOCATION:Průmyslová\, Ždírec nad Doubravou
 GEO:49.697472;15.802365
 URL:geo:49.697472,15.802365
-DESCRIPTION:📍 Průmyslová\, Ždírec nad Doubravou\, Havlíčkův Brod\n\n🚒 CAS (
- HS Chotěboř)\n🚒 CAS (Ždírec nad Doubravou)
+DESCRIPTION:📍 Průmyslová\, Ždírec nad Doubravou\, Havlíčkův Brod\n💬 DN OA a
+  dodávka\, zranění 1 osoby. Zajištění místa nehody proti požáru a úniku pr
+ ovozních kapalin.\n\n🚒 CAS (HS Chotěboř)\n🚒 CAS (Ždírec nad Doubravou)
 END:VEVENT
 BEGIN:VEVENT
 UID:416838061
@@ -878,8 +879,8 @@ DTEND:20260804T110524Z
 DTSTAMP:20260804T100524Z
 SUMMARY:🛠️ obtížný hmyz - Vilémov
 LOCATION:Vilémov
-GEO:49.816039;15.535357
-URL:geo:49.816039,15.535357
+GEO:49.815724;15.536074
+URL:geo:49.815724,15.536074
 DESCRIPTION:📍 Vilémov\, Havlíčkův Brod\n💬 Odstranění obtížného hmyzu.\n\n🚒 
  CAS (Golčův Jeníkov)\n🚒 automobilová plošina do 30 m (HS Chotěboř)
 END:VEVENT
