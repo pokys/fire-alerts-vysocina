@@ -921,6 +921,18 @@ DESCRIPTION:📍 Heraltice\, Třebíč\n💬 Odstranění obtížného hmyzu.\n\
  kříšky)
 END:VEVENT
 BEGIN:VEVENT
+UID:416851061
+DTSTART:20260804T120859Z
+DTEND:20260804T130859Z
+DTSTAMP:20260804T120859Z
+SUMMARY:🚑 záchrana ze stromu - Třebíč
+LOCATION:Kanciborek\, Třebíč
+GEO:49.212033;15.869447
+URL:geo:49.212033,15.869447
+DESCRIPTION:📍 Kanciborek\, Stařečka\, Třebíč\n💬 Spolupráce s PČR.\n\n🚒 CAS 
+ (CHS Třebíč)\n🚒 automobilová plošina nad 30 m (CHS Třebíč)
+END:VEVENT
+BEGIN:VEVENT
 UID:416852061
 DTSTART:20260804T120928Z
 DTEND:20260804T130928Z
@@ -930,7 +942,8 @@ LOCATION:Kámen
 GEO:49.723805;15.507611
 URL:geo:49.723805,15.507611
 DESCRIPTION:📍 Kámen\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 CAS (
- CHS Havlíčkův Brod)\n🚒 CAS (HS Světlá nad Sázavou)\n🚒 CAS (Habry)
+ CHS Havlíčkův Brod)\n🚒 CAS (HS Světlá nad Sázavou)\n🚒 CAS (Habry)\n🚒 CAS (
+ Habry)
 END:VEVENT
 BEGIN:VEVENT
 UID:416853061
@@ -943,5 +956,42 @@ GEO:49.584374;15.699909
 URL:geo:49.584374,15.699909
 DESCRIPTION:📍 Hesov\, Přibyslav\, Havlíčkův Brod\n\n🚒 CAS (HS Polná)\n🚒 CAS
   (Přibyslav)
+END:VEVENT
+BEGIN:VEVENT
+UID:416854061
+DTSTART:20260804T121418Z
+DTEND:20260804T131418Z
+DTSTAMP:20260804T121418Z
+SUMMARY:🔥 tráva/plocha - Lukavec
+LOCATION:Lukavec
+GEO:49.570048;14.956190
+URL:geo:49.570048,14.956190
+DESCRIPTION:📍 Velká Ves\, Lukavec\, Pelhřimov\n\n🚒 CAS (HS Pacov)\n🚒 CAS (H
+ S Pacov)\n🚒 CAS (Pacov)\n🚒 CAS (Lukavec)\n🚒 CAS (Pacov-Jetřichovec)\n🚒 CAS
+  (Košetice)\n🚒 CAS (Košetice)\n🚒 CAS (Onšov)
+END:VEVENT
+BEGIN:VEVENT
+UID:416855061
+DTSTART:20260804T121749Z
+DTEND:20260804T131749Z
+DTSTAMP:20260804T121749Z
+SUMMARY:🔥 tráva/plocha - Lípa
+LOCATION:Lípa
+GEO:49.555764;15.514916
+URL:geo:49.555764,15.514916
+DESCRIPTION:📍 Lípa\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 CAS (H
+ erálec (HB))\n🚒 DA (Lípa)\n🚒 CAS (Štoky)
+END:VEVENT
+BEGIN:VEVENT
+UID:416857061
+DTSTART:20260804T122509Z
+DTEND:20260804T132509Z
+DTSTAMP:20260804T122509Z
+SUMMARY:🛠️ otevření bytu/auta - Hybrálec
+LOCATION:Hybrálec
+GEO:49.429813;15.554894
+URL:geo:49.429813,15.554894
+DESCRIPTION:📍 Hybrálec\, Jihlava\n💬 Spolupráce s PČR.\n\n🚒 CAS (CHS Jihlava
+ )
 END:VEVENT
 END:VCALENDAR
