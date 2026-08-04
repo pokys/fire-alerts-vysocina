@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:416712061
-DTSTART:20260802T173150Z
-DTEND:20260802T183150Z
-DTSTAMP:20260802T173150Z
-SUMMARY:🛠️ obtížný hmyz - Rokytnice nad Rokytnou
-LOCATION:Rokytnice nad Rokytnou
-GEO:49.189326;15.768921
-URL:geo:49.189326,15.768921
-DESCRIPTION:📍 Rokytnice nad Rokytnou\, Třebíč\n💬 Odstranění obtížného hmyzu
- .\n\n🚒 CAS (Rokytnice nad Rokytnou)
-END:VEVENT
-BEGIN:VEVENT
 UID:416713061
 DTSTART:20260802T180018Z
 DTEND:20260802T190018Z
@@ -979,7 +967,9 @@ GEO:49.420364;15.395544
 URL:geo:49.420364,15.395544
 DESCRIPTION:📍 Opatov\, Jihlava\n💬 DN 3 OA\, vyproštění osob. 9 zraněných os
  ob\, Zajištění místa nehody\, protipožární opatření.\n\n🚒 CAS (CHS Jihlava
- )\n🚒 RZA (CHS Jihlava)\n🚒 CAS (CHS Pelhřimov)
+ )\n🚒 RZA (CHS Jihlava)\n🚒 HVZ - nástroj střihací (CHS Jihlava)\n🚒 HVZ - ná
+ stroj rozpínací s čelistmi (CHS Jihlava)\n🚒 HVZ - nástroj rozpínací telesk
+ opický (CHS Jihlava)\n🚒 CAS (CHS Pelhřimov)
 END:VEVENT
 BEGIN:VEVENT
 UID:416870061
@@ -1113,5 +1103,50 @@ GEO:49.816081;15.477680
 URL:geo:49.816081,15.477680
 DESCRIPTION:📍 Nám. T. G. Masaryka\, Golčův Jeníkov\, Havlíčkův Brod\n\n🚒 CA
  S (Golčův Jeníkov)
+END:VEVENT
+BEGIN:VEVENT
+UID:416893061
+DTSTART:20260804T171755Z
+DTEND:20260804T181755Z
+DTSTAMP:20260804T171755Z
+SUMMARY:🛠️ obtížný hmyz - Borovnice
+LOCATION:Borovnice
+GEO:49.665146;16.206956
+URL:geo:49.665146,16.206956
+DESCRIPTION:📍 Borovnice\, Žďár nad Sázavou\n💬 Odstranění obtížného hmyzu.\n
+ \n🚒 DA (Borovnice)
+END:VEVENT
+BEGIN:VEVENT
+UID:416894061
+DTSTART:20260804T171846Z
+DTEND:20260804T181846Z
+DTSTAMP:20260804T171846Z
+SUMMARY:🛠️ obtížný hmyz - Hrotovice
+LOCATION:Hladov\, Hrotovice
+GEO:49.110185;16.056692
+URL:geo:49.110185,16.056692
+DESCRIPTION:📍 Hladov\, Hrotovice\, Třebíč\n\n🚒 CAS (HS Hrotovice)
+END:VEVENT
+BEGIN:VEVENT
+UID:416895061
+DTSTART:20260804T172231Z
+DTEND:20260804T182231Z
+DTSTAMP:20260804T172231Z
+SUMMARY:🛠️ obtížný hmyz - Netín
+LOCATION:Netín
+GEO:49.413011;15.950701
+URL:geo:49.413011,15.950701
+DESCRIPTION:📍 Netín\, Žďár nad Sázavou\n\n🚒 DA (Netín)
+END:VEVENT
+BEGIN:VEVENT
+UID:416896061
+DTSTART:20260804T172606Z
+DTEND:20260804T182606Z
+DTSTAMP:20260804T172606Z
+SUMMARY:🛠️ obtížný hmyz - Luka nad Jihlavou
+LOCATION:Luka nad Jihlavou
+GEO:49.374031;15.701935
+URL:geo:49.374031,15.701935
+DESCRIPTION:📍 Luka nad Jihlavou\, Jihlava\n\n🚒 CAS (Luka nad Jihlavou)
 END:VEVENT
 END:VCALENDAR
