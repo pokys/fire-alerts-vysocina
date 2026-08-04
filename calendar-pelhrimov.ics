@@ -103,9 +103,9 @@ GEO:49.570048;14.956190
 URL:geo:49.570048,14.956190
 DESCRIPTION:📍 Velká Ves\, Lukavec\, Pelhřimov\n💬 Požár stohu. Jednotky prov
  edly lokalizaci a likvidaci požáru.\n\n🚒 CAS (HS Pacov)\n🚒 CAS (HS Pacov)\
- n🚒 CAS (Pacov)\n🚒 osobní automobil (Pacov)\n🚒 CAS (Lukavec)\n🚒 CAS (Pacov-
- Jetřichovec)\n🚒 CAS (Košetice)\n🚒 CAS (Košetice)\n🚒 CAS (Onšov)\n🚒 vyšetřo
- vací automobil (ÚO Pelhřimov)
+ n🚒 čerpadlo plovoucí (HS Pacov)\n🚒 CAS (Pacov)\n🚒 osobní automobil (Pacov)
+ \n🚒 CAS (Lukavec)\n🚒 CAS (Pacov-Jetřichovec)\n🚒 CAS (Košetice)\n🚒 CAS (Koš
+ etice)\n🚒 CAS (Onšov)\n🚒 vyšetřovací automobil (ÚO Pelhřimov)
 END:VEVENT
 BEGIN:VEVENT
 UID:416861061
@@ -121,5 +121,16 @@ DESCRIPTION:📍 Křelovice\, Pelhřimov\n💬 Požár strniště 30x50m. Jednot
  n🚒 CAS (Červená Řečice)\n🚒 CAS (Senožaty)\n🚒 CAS (Senožaty)\n🚒 CAS (Želiv)
  \n🚒 CAS (Želiv)\n🚒 DA (Křelovice) ×2\n🚒 CAS (Košetice)\n🚒 CAS (Košetice)\n
  🚒 CAS (Onšov)
+END:VEVENT
+BEGIN:VEVENT
+UID:416901061
+DTSTART:20260804T190932Z
+DTEND:20260804T200932Z
+DTSTAMP:20260804T190932Z
+SUMMARY:🛠️ strom - Senožaty
+LOCATION:Senožaty
+GEO:49.559950;15.189924
+URL:geo:49.559950,15.189924
+DESCRIPTION:📍 Senožaty\, Pelhřimov\n\n🚒 CAS (Senožaty)
 END:VEVENT
 END:VCALENDAR
