@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:416741061
-DTSTART:20260803T093509Z
-DTEND:20260803T103509Z
-DTSTAMP:20260803T093509Z
-SUMMARY:⚠️ planý poplach - Jihlava
-LOCATION:Pelhřimovská\, Jihlava
-GEO:49.394737;15.553775
-URL:geo:49.394737,15.553775
-DESCRIPTION:📍 Pelhřimovská\, Pístov\, Jihlava\n💬 Požár ohlášený systémem el
- ektrické požární signalizace. Průzkumem bylo zjištěno\, že se jedná o plan
- ý poplach.\n\n🚒 CAS (CHS Jihlava) ×2
-END:VEVENT
-BEGIN:VEVENT
 UID:416744061
 DTSTART:20260803T095426Z
 DTEND:20260803T105426Z
