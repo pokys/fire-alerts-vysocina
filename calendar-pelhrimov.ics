@@ -105,7 +105,8 @@ DESCRIPTION:📍 Velká Ves\, Lukavec\, Pelhřimov\n💬 Požár stohu. Jednotky
  edly lokalizaci a likvidaci požáru.\n\n🚒 CAS (HS Pacov) ×2\n🚒 CAS (HS Paco
  v) ×2\n🚒 čerpadlo plovoucí (HS Pacov)\n🚒 CAS (Pacov)\n🚒 osobní automobil (
  Pacov)\n🚒 CAS (Lukavec) ×2\n🚒 CAS (Pacov-Jetřichovec)\n🚒 CAS (Košetice)\n🚒
-  CAS (Košetice)\n🚒 CAS (Onšov)\n🚒 vyšetřovací automobil (ÚO Pelhřimov)
+  CAS (Košetice)\n🚒 CAS (Onšov)\n🚒 CAS (Načeradec)\n🚒 CAS (Čechtice)\n🚒 CAS
+  (Čechtice)\n🚒 vyšetřovací automobil (ÚO Pelhřimov)
 END:VEVENT
 BEGIN:VEVENT
 UID:416861061
@@ -145,5 +146,17 @@ GEO:49.292921;15.246919
 URL:geo:49.292921,15.246919
 DESCRIPTION:📍 Polesí\, Pelhřimov\n💬 Transport pacienta na žádost ZZS.\n\n🚒 
  CAS (HS Kamenice nad Lipou)\n🚒 CAS (Počátky)
+END:VEVENT
+BEGIN:VEVENT
+UID:416926061
+DTSTART:20260805T083135Z
+DTEND:20260805T093135Z
+DTSTAMP:20260805T083135Z
+SUMMARY:🛠️ spolupráce IZS - Pacov
+LOCATION:Nádražní\, Pacov
+GEO:49.467312;15.009238
+URL:geo:49.467312,15.009238
+DESCRIPTION:📍 Nádražní\, Pacov\, Pelhřimov\n\n🚒 CAS (HS Pacov)\n🚒 CAS (HS P
+ acov)\n🚒 CAS (HS Pacov)
 END:VEVENT
 END:VCALENDAR
