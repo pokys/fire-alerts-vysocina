@@ -5,59 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:416760061
-DTSTART:20260803T122011Z
-DTEND:20260803T132011Z
-DTSTAMP:20260803T122011Z
-SUMMARY:🛠️ obtížný hmyz - Radešínská Svratka
-LOCATION:Radešínská Svratka
-GEO:49.517765;16.094651
-URL:geo:49.517765,16.094651
-DESCRIPTION:📍 Radešínská Svratka\, Žďár nad Sázavou\n💬 Odstranění obtížného
-  hmyzu.\n\n🚒 DA (Radešínská Svratka)
-END:VEVENT
-BEGIN:VEVENT
-UID:416762061
-DTSTART:20260803T122322Z
-DTEND:20260803T132322Z
-DTSTAMP:20260803T122322Z
-SUMMARY:⚠️ planý poplach - Telč
-LOCATION:náměstí Zachariáše z Hradce\, Telč
-GEO:49.184833;15.452034
-URL:geo:49.184833,15.452034
-DESCRIPTION:📍 náměstí Zachariáše z Hradce\, Telč-Vnitřní Město\, Telč\, Jih
- lava\n💬 Požár ohlášený systémem elektrické požární signalizace. Průzkumem 
- bylo zjištěno\, že se jedná o planý poplach.\n\n🚒 CAS (HS Telč)\n🚒 CAS (HS
-  Telč)
-END:VEVENT
-BEGIN:VEVENT
-UID:416763061
-DTSTART:20260803T122410Z
-DTEND:20260803T132410Z
-DTSTAMP:20260803T122410Z
-SUMMARY:🚗 dopravní nehoda - Velké Meziříčí
-LOCATION:Vrchovecká\, Velké Meziříčí
-GEO:49.370178;16.015071
-URL:geo:49.370178,16.015071
-DESCRIPTION:📍 Vrchovecká\, Velké Meziříčí\, Žďár nad Sázavou\n💬 DN OA. Nára
- z do zídky. Jednotka provedla protipožární opatření. 1 zraněná osoba v péč
- i ZZS.\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)
-END:VEVENT
-BEGIN:VEVENT
-UID:416764061
-DTSTART:20260803T122734Z
-DTEND:20260803T132734Z
-DTSTAMP:20260803T122734Z
-SUMMARY:🔥 venkovní požár - Ostrov nad Oslavou
-LOCATION:Ostrov nad Oslavou
-GEO:49.471150;16.014341
-URL:geo:49.471150,16.014341
-DESCRIPTION:📍 Suky\, Ostrov nad Oslavou\, Žďár nad Sázavou\n💬 Požár větví 2
- x2m. Jednotka provedla uhašení. Beze škody.\n\n🚒 CAS (CHS Žďár nad Sázavou
- )\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (Nové Veselí) ×2\n🚒 CAS (Ostrov nad
-  Oslavou)\n🚒 CAS (Radostín nad Oslavou)
-END:VEVENT
-BEGIN:VEVENT
 UID:416765061
 DTSTART:20260803T130314Z
 DTEND:20260803T140314Z
