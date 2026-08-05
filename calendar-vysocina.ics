@@ -5,106 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:416810061
-DTSTART:20260803T214455Z
-DTEND:20260803T224455Z
-DTSTAMP:20260803T214455Z
-SUMMARY:🛠️ ostatní - Havlíčkův Brod
-LOCATION:Na Spravedlnosti\, Havlíčkův Brod
-GEO:49.614385;15.577424
-URL:geo:49.614385,15.577424
-DESCRIPTION:📍 Na Spravedlnosti\, Havlíčkův Brod\n💬 Pomoc imobilní osobě.\n\
- n🚒 CAS (CHS Havlíčkův Brod)
-END:VEVENT
-BEGIN:VEVENT
-UID:416812061
-DTSTART:20260804T020915Z
-DTEND:20260804T030915Z
-DTSTAMP:20260804T020915Z
-SUMMARY:🚑 otevření/asistence - Náměšť nad Oslavou
-LOCATION:Husova\, Náměšť nad Oslavou
-GEO:49.209083;16.154259
-URL:geo:49.209083,16.154259
-DESCRIPTION:📍 Husova\, Náměšť nad Oslavou\, Třebíč\n💬 Otevření bytu na žádo
- st ZZS.\n\n🚒 CAS (HS Náměšť nad Oslavou) ×2
-END:VEVENT
-BEGIN:VEVENT
-UID:416814061
-DTSTART:20260804T022104Z
-DTEND:20260804T032104Z
-DTSTAMP:20260804T022104Z
-SUMMARY:🚑 spolupráce ZZS - Náměšť nad Oslavou
-LOCATION:Husova\, Náměšť nad Oslavou
-GEO:49.211128;16.145420
-URL:geo:49.211128,16.145420
-DESCRIPTION:📍 Husova\, Náměšť nad Oslavou\, Třebíč\n💬 Asistence ZZS při res
- uscitaci.\n\n🚒 CAS (HS Náměšť nad Oslavou)
-END:VEVENT
-BEGIN:VEVENT
-UID:416817061
-DTSTART:20260804T043743Z
-DTEND:20260804T053743Z
-DTSTAMP:20260804T043743Z
-SUMMARY:🛠️ otevření bytu/auta - Třebíč
-LOCATION:C. Boudy\, Třebíč
-GEO:49.222009;15.892519
-URL:geo:49.222009,15.892519
-DESCRIPTION:📍 C. Boudy\, Nové Dvory\, Třebíč\n💬 Otevření bytu.\n\n🚒 CAS (CH
- S Třebíč)
-END:VEVENT
-BEGIN:VEVENT
-UID:416819061
-DTSTART:20260804T055024Z
-DTEND:20260804T065024Z
-DTSTAMP:20260804T055024Z
-SUMMARY:🛠️ ostatní - Hrotovice
-LOCATION:1. máje\, Hrotovice
-GEO:49.102247;16.065065
-URL:geo:49.102247,16.065065
-DESCRIPTION:📍 1. máje\, Hrotovice\, Třebíč\n💬 Pročištění kanalizace.\n\n🚒 C
- AS (HS Hrotovice)
-END:VEVENT
-BEGIN:VEVENT
-UID:416820061
-DTSTART:20260804T061838Z
-DTEND:20260804T071838Z
-DTSTAMP:20260804T061838Z
-SUMMARY:🔥 tráva/plocha - Hořepník
-LOCATION:Hořepník
-GEO:49.508320;15.102130
-URL:geo:49.508320,15.102130
-DESCRIPTION:📍 Hořepník\, Pelhřimov\n💬 Požár trávy a klestí na ploše 5x4m. J
- ednotky provedly lokalizaci a likvidaci požáru. Beze škody.\n\n🚒 CAS (HS P
- acov)\n🚒 CAS (HS Pacov)\n🚒 CAS (Košetice)\n🚒 CAS (Košetice)\n🚒 CAS (Pacov)
- \n🚒 CAS (Hořepník)
-END:VEVENT
-BEGIN:VEVENT
-UID:416825061
-DTSTART:20260804T072048Z
-DTEND:20260804T082048Z
-DTSTAMP:20260804T072048Z
-SUMMARY:🔥 technologie - Herálec
-LOCATION:Herálec
-GEO:49.548314;15.474939
-URL:geo:49.548314,15.474939
-DESCRIPTION:📍 Koječín\, Herálec\, Havlíčkův Brod\n💬 Požár rozdružovačky na 
- slámu. Lokalizace a likvidace.\n\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 CAS (CHS H
- avlíčkův Brod)\n🚒 CAS (HS Humpolec)\n🚒 CAS (Herálec (HB))\n🚒 vyšetřovací a
- utomobil (ÚO Havlíčkův Brod)
-END:VEVENT
-BEGIN:VEVENT
-UID:416826061
-DTSTART:20260804T073846Z
-DTEND:20260804T083846Z
-DTSTAMP:20260804T073846Z
-SUMMARY:🛠️ obtížný hmyz - Ledeč nad Sázavou
-LOCATION:Pod Hájem\, Ledeč nad Sázavou
-GEO:49.683422;15.298482
-URL:geo:49.683422,15.298482
-DESCRIPTION:📍 Pod Hájem\, Ledeč nad Sázavou\, Havlíčkův Brod\n💬 Odstranění 
- obtížného hmyzu.\n\n🚒 CAS (HS Ledeč nad Sázavou)
-END:VEVENT
-BEGIN:VEVENT
 UID:416836061
 DTSTART:20260804T095503Z
 DTEND:20260804T105503Z
@@ -801,9 +701,10 @@ SUMMARY:🔥 tráva/plocha - Lukavec
 LOCATION:Lukavec
 GEO:49.565059;14.958207
 URL:geo:49.565059,14.958207
-DESCRIPTION:📍 Velká Ves\, Lukavec\, Pelhřimov\n\n🚒 CAS (HS Pacov)\n🚒 CAS (H
- S Pacov)\n🚒 CAS (Pacov)\n🚒 osobní automobil (Pacov)\n🚒 DA (Lukavec)\n🚒 CAS
-  (Lukavec)\n🚒 CAS (Pacov-Jetřichovec)
+DESCRIPTION:📍 Velká Ves\, Lukavec\, Pelhřimov\n💬 Požár zbytku stohu. Proved
+ ena lokalizace a likvidace požáru.\n\n🚒 CAS (HS Pacov)\n🚒 CAS (HS Pacov)\n
+ 🚒 CAS (Pacov)\n🚒 osobní automobil (Pacov)\n🚒 DA (Lukavec)\n🚒 CAS (Lukavec)
+ \n🚒 CAS (Pacov-Jetřichovec)
 END:VEVENT
 BEGIN:VEVENT
 UID:416944061
@@ -959,7 +860,7 @@ LOCATION:Nové Syrovice
 GEO:49.020513;15.771662
 URL:geo:49.020513,15.771662
 DESCRIPTION:📍 Nové Syrovice\, Třebíč\n💬 Odstranění stromu.\n\n🚒 CAS (HS Mor
- avské Budějovice)
+ avské Budějovice) ×2
 END:VEVENT
 BEGIN:VEVENT
 UID:416958061
@@ -1146,7 +1047,8 @@ SUMMARY:🛠️ obtížný hmyz - Strážek
 LOCATION:Strážek
 GEO:49.439413;16.174395
 URL:geo:49.439413,16.174395
-DESCRIPTION:📍 Jemnice\, Strážek\, Žďár nad Sázavou\n\n🚒 CAS (Bobrová)
+DESCRIPTION:📍 Jemnice\, Strážek\, Žďár nad Sázavou\n💬 Odstranění obtížného 
+ hmyzu.\n\n🚒 CAS (Bobrová)
 END:VEVENT
 BEGIN:VEVENT
 UID:416982061
@@ -1157,7 +1059,8 @@ SUMMARY:🛠️ strom - Bochovice
 LOCATION:Bochovice
 GEO:49.326492;15.902931
 URL:geo:49.326492,15.902931
-DESCRIPTION:📍 Bochovice\, Třebíč\n\n🚒 CAS (HS Velké Meziříčí)
+DESCRIPTION:📍 Bochovice\, Třebíč\n💬 Odstranění stromu.\n\n🚒 CAS (HS Velké M
+ eziříčí)
 END:VEVENT
 BEGIN:VEVENT
 UID:416983061
@@ -1168,7 +1071,8 @@ SUMMARY:🛠️ obtížný hmyz - Dukovany
 LOCATION:Dukovany
 GEO:49.077561;16.193778
 URL:geo:49.077561,16.193778
-DESCRIPTION:📍 Dukovany\, Třebíč\n\n🚒 DA (Dukovany)
+DESCRIPTION:📍 Dukovany\, Třebíč\n💬 Odstranění obtížného hmyzu.\n\n🚒 DA (Duk
+ ovany)
 END:VEVENT
 BEGIN:VEVENT
 UID:416985061
@@ -1192,7 +1096,8 @@ SUMMARY:🛠️ strom - Mikulovice
 LOCATION:Mikulovice
 GEO:49.169213;15.853443
 URL:geo:49.169213,15.853443
-DESCRIPTION:📍 Mikulovice\, Třebíč\n\n🚒 CAS (Jaroměřice nad Rokytnou)
+DESCRIPTION:📍 Mikulovice\, Třebíč\n💬 Odstranění stromu.\n\n🚒 CAS (Jaroměřic
+ e nad Rokytnou)
 END:VEVENT
 BEGIN:VEVENT
 UID:416987061
@@ -1214,8 +1119,20 @@ SUMMARY:🛠️ strom - Polnička
 LOCATION:Polnička
 GEO:49.609489;15.889460
 URL:geo:49.609489,15.889460
-DESCRIPTION:📍 Polnička\, Žďár nad Sázavou\n\n🚒 DA (Polnička)\n🚒 CAS (Polnič
- ka)
+DESCRIPTION:📍 Polnička\, Žďár nad Sázavou\n💬 Odstranění stromu.\n\n🚒 DA (Po
+ lnička)\n🚒 CAS (Polnička)
+END:VEVENT
+BEGIN:VEVENT
+UID:416990061
+DTSTART:20260805T162742Z
+DTEND:20260805T172742Z
+DTSTAMP:20260805T162742Z
+SUMMARY:🛠️ čerpání vody - Třebíč
+LOCATION:Tkalcovská\, Třebíč
+GEO:49.215598;15.890989
+URL:geo:49.215598,15.890989
+DESCRIPTION:📍 Tkalcovská\, Nové Dvory\, Třebíč\n💬 Čerpání vody.\n\n🚒 CAS (C
+ HS Třebíč)
 END:VEVENT
 BEGIN:VEVENT
 UID:416991061
@@ -1227,5 +1144,84 @@ LOCATION:Štoky
 GEO:49.498605;15.593610
 URL:geo:49.498605,15.593610
 DESCRIPTION:📍 Štoky\, Havlíčkův Brod\n\n🚒 CAS (Štoky)
+END:VEVENT
+BEGIN:VEVENT
+UID:416992061
+DTSTART:20260805T163228Z
+DTEND:20260805T173228Z
+DTSTAMP:20260805T163228Z
+SUMMARY:🛠️ strom - Kožichovice
+LOCATION:Žďárského\, Kožichovice
+GEO:49.208877;15.911406
+URL:geo:49.208877,15.911406
+DESCRIPTION:📍 Žďárského\, Kožichovice\, Třebíč\n\n🚒 CAS (CHS Třebíč)
+END:VEVENT
+BEGIN:VEVENT
+UID:416993061
+DTSTART:20260805T163749Z
+DTEND:20260805T173749Z
+DTSTAMP:20260805T163749Z
+SUMMARY:🛠️ obtížný hmyz - Havlíčkův Brod
+LOCATION:Havlíčkův Brod
+GEO:49.579822;15.619277
+URL:geo:49.579822,15.619277
+DESCRIPTION:📍 Mírovka\, Havlíčkův Brod\n💬 Odstranění obtížného hmyzu.\n\n🚒 
+ DA (Havlíčkův Brod-Mírovka)
+END:VEVENT
+BEGIN:VEVENT
+UID:416994061
+DTSTART:20260805T163804Z
+DTEND:20260805T173804Z
+DTSTAMP:20260805T163804Z
+SUMMARY:🛠️ strom - Polnička
+LOCATION:Polnička
+GEO:49.602042;15.919269
+URL:geo:49.602042,15.919269
+DESCRIPTION:📍 Polnička\, Žďár nad Sázavou\n\n🚒 CAS (Polnička)
+END:VEVENT
+BEGIN:VEVENT
+UID:416995061
+DTSTART:20260805T164331Z
+DTEND:20260805T174331Z
+DTSTAMP:20260805T164331Z
+SUMMARY:🚗 dopravní nehoda - Krahulčí
+LOCATION:Krahulčí
+GEO:49.179418;15.400020
+URL:geo:49.179418,15.400020
+DESCRIPTION:📍 Krahulčí\, Jihlava\n\n🚒 CAS (HS Telč)
+END:VEVENT
+BEGIN:VEVENT
+UID:416996061
+DTSTART:20260805T164657Z
+DTEND:20260805T174657Z
+DTSTAMP:20260805T164657Z
+SUMMARY:☣️ neznámá látka - Jihlava
+LOCATION:Jihlava
+GEO:49.405340;15.605053
+URL:geo:49.405340,15.605053
+DESCRIPTION:🚒 CAS (CHS Jihlava)
+END:VEVENT
+BEGIN:VEVENT
+UID:417000061
+DTSTART:20260805T165017Z
+DTEND:20260805T175017Z
+DTSTAMP:20260805T165017Z
+SUMMARY:🛠️ strom - Chlumětín
+LOCATION:Chlumětín
+GEO:49.722612;16.004701
+URL:geo:49.722612,16.004701
+DESCRIPTION:📍 Chlumětín\, Žďár nad Sázavou\n\n🚒 DA (Chlumětín)
+END:VEVENT
+BEGIN:VEVENT
+UID:417001061
+DTSTART:20260805T165126Z
+DTEND:20260805T175126Z
+DTSTAMP:20260805T165126Z
+SUMMARY:🛠️ strom - Uhelná Příbram
+LOCATION:Uhelná Příbram
+GEO:49.771564;15.609799
+URL:geo:49.771564,15.609799
+DESCRIPTION:📍 Pukšice\, Uhelná Příbram\, Havlíčkův Brod\n\n🚒 CAS (HS Chotěb
+ oř)
 END:VEVENT
 END:VCALENDAR
