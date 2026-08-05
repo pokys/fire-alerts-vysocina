@@ -5,32 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:416765061
-DTSTART:20260803T130314Z
-DTEND:20260803T140314Z
-DTSTAMP:20260803T130314Z
-SUMMARY:🔥 vozidlo - Vysoké Studnice
-LOCATION:Vysoké Studnice
-GEO:49.389620;15.729337
-URL:geo:49.389620,15.729337
-DESCRIPTION:📍 Vysoké Studnice\, Jihlava\n💬 Požár balíkovače a pole. Lokaliz
- ace a likvidace události.\n\n🚒 CAS (CHS Jihlava)\n🚒 CAS (CHS Jihlava)\n🚒 C
- AS (Luka nad Jihlavou)\n🚒 CAS (Kamenice (JI))\n🚒 DA (Vysoké Studnice)\n🚒 v
- yšetřovací automobil (ÚO Jihlava)
-END:VEVENT
-BEGIN:VEVENT
-UID:416767061
-DTSTART:20260803T131221Z
-DTEND:20260803T141221Z
-DTSTAMP:20260803T131221Z
-SUMMARY:🛠️ obtížný hmyz - Vilémovice
-LOCATION:Vilémovice
-GEO:49.687249;15.325775
-URL:geo:49.687249,15.325775
-DESCRIPTION:📍 Vilémovice\, Havlíčkův Brod\n💬 Odstranění obtížného hmyzu.\n\
- n🚒 CAS (HS Ledeč nad Sázavou)
-END:VEVENT
-BEGIN:VEVENT
 UID:416768061
 DTSTART:20260803T131606Z
 DTEND:20260803T141606Z
@@ -1079,9 +1053,9 @@ SUMMARY:🔥 venkovní požár - Dalečín
 LOCATION:Dalečín
 GEO:49.576028;16.270978
 URL:geo:49.576028,16.270978
-DESCRIPTION:📍 Dalečín\, Žďár nad Sázavou\n\n🚒 CAS (HS Bystřice nad Pernštej
- nem)\n🚒 vozidlo účelové - SxS (HS Bystřice nad Pernštejnem)\n🚒 přívěs nákl
- adní (HS Bystřice nad Pernštejnem)
+DESCRIPTION:📍 Dalečín\, Žďár nad Sázavou\n💬 Uhašení nedohašeného ohniště.\n
+ \n🚒 CAS (HS Bystřice nad Pernštejnem)\n🚒 vozidlo účelové - SxS (HS Bystřic
+ e nad Pernštejnem)\n🚒 přívěs nákladní (HS Bystřice nad Pernštejnem)
 END:VEVENT
 BEGIN:VEVENT
 UID:416935061
@@ -1092,10 +1066,11 @@ SUMMARY:🔥 tráva/plocha - Osové
 LOCATION:Osové
 GEO:49.332173;16.009437
 URL:geo:49.332173,16.009437
-DESCRIPTION:📍 Osové\, Žďár nad Sázavou\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 CAS 
- (Rudíkov)\n🚒 DA (Velké Meziříčí)\n🚒 CAS (Velké Meziříčí)\n🚒 CAS (Velké Mez
- iříčí)\n🚒 CAS (Křižanov)\n🚒 DA (Budišov)\n🚒 CAS (Budišov)\n🚒 CAS (Měřín)\n
- 🚒 DA (Oslavice)\n🚒 vyšetřovací automobil (ÚO Žďár nad Sázavou)
+DESCRIPTION:📍 Osové\, Žďár nad Sázavou\n💬 Požár pole a stromů.\n\n🚒 CAS (HS
+  Velké Meziříčí)\n🚒 CAS (Rudíkov)\n🚒 DA (Velké Meziříčí)\n🚒 CAS (Velké Mez
+ iříčí)\n🚒 CAS (Velké Meziříčí)\n🚒 CAS (Křižanov)\n🚒 DA (Budišov)\n🚒 CAS (B
+ udišov)\n🚒 CAS (Měřín)\n🚒 DA (Oslavice)\n🚒 vyšetřovací automobil (ÚO Žďár 
+ nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:416936061
@@ -1106,7 +1081,9 @@ SUMMARY:🚗 dopravní nehoda - Žďár nad Sázavou
 LOCATION:Jamská\, Žďár nad Sázavou
 GEO:49.554284;15.958012
 URL:geo:49.554284,15.958012
-DESCRIPTION:📍 Jamská\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n\n🚒 CAS (CHS 
- Žďár nad Sázavou)\n🚒 vyšetřovací automobil (ÚO Žďár nad Sázavou)
+DESCRIPTION:📍 Jamská\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n💬 DN 2 OA a k
+ amion. Jedna zraněná osoba. Zajištění místa nehody. Předlékařská pomoc. Úk
+ lid vozovky.\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 vyšetřovací automobil (ÚO 
+ Žďár nad Sázavou)
 END:VEVENT
 END:VCALENDAR
