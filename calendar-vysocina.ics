@@ -955,8 +955,8 @@ SUMMARY:🚗 dopravní nehoda - Náměšť nad Oslavou
 LOCATION:Náměšť nad Oslavou
 GEO:49.208458;16.149173
 URL:geo:49.208458,16.149173
-DESCRIPTION:📍 Náměšť nad Oslavou\, Třebíč\n💬 DN 2 OA\, na místě 2 zraněné o
- soby. Zajištění místa nehody.\n\n🚒 CAS (HS Náměšť nad Oslavou)
+DESCRIPTION:📍 Náměšť nad Oslavou\, Třebíč\n💬 DN 2 x OA\, na místě dvě zraně
+ né osoby. Zajištění místa nehody.\n\n🚒 CAS (HS Náměšť nad Oslavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:416926061
@@ -1043,10 +1043,9 @@ SUMMARY:🚗 dopravní nehoda - Žďár nad Sázavou
 LOCATION:Jamská\, Žďár nad Sázavou
 GEO:49.554284;15.958012
 URL:geo:49.554284,15.958012
-DESCRIPTION:📍 Jamská\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n💬 DN 2 OA a k
- amion. Jedna zraněná osoba. Zajištění místa nehody. Předlékařská pomoc. Úk
- lid vozovky.\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 vyšetřovací automobil (ÚO 
- Žďár nad Sázavou)
+DESCRIPTION:📍 Jamská\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n💬 DN 2 x OA a
+  kamion. Jedna zraněná osoba. Zajištění místa nehody.\n\n🚒 CAS (CHS Žďár n
+ ad Sázavou)\n🚒 vyšetřovací automobil (ÚO Žďár nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:416941061
@@ -1130,8 +1129,8 @@ DTEND:20260805T151345Z
 DTSTAMP:20260805T141345Z
 SUMMARY:🔥 tráva/plocha - Žirovnice
 LOCATION:Žirovnice
-GEO:49.276704;15.161801
-URL:geo:49.276704,15.161801
+GEO:49.281122;15.165096
+URL:geo:49.281122,15.165096
 DESCRIPTION:📍 Stranná\, Žirovnice\, Pelhřimov\n\n🚒 CAS (HS Kamenice nad Lip
  ou)\n🚒 CAS (HS Kamenice nad Lipou)\n🚒 CAS (Počátky) ×2\n🚒 CAS (Žirovnice)\
  n🚒 CAS (Žirovnice)
