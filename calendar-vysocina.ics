@@ -968,8 +968,8 @@ SUMMARY:🛠️ strom - Víska
 LOCATION:Víska
 GEO:49.771427;15.654199
 URL:geo:49.771427,15.654199
-DESCRIPTION:📍 Víska\, Havlíčkův Brod\n\n🚒 CAS (HS Chotěboř) ×2\n🚒 AŽ (CHS H
- avlíčkův Brod)\n🚒 DA (Víska)\n🚒 DA (Víska)
+DESCRIPTION:📍 Víska\, Havlíčkův Brod\n💬 Odstranění stromu.\n\n🚒 CAS (HS Cho
+ těboř) ×2\n🚒 AŽ (CHS Havlíčkův Brod)\n🚒 DA (Víska)\n🚒 DA (Víska)
 END:VEVENT
 BEGIN:VEVENT
 UID:417021061
@@ -993,7 +993,8 @@ LOCATION:Nová Ves u Chotěboře
 GEO:49.758943;15.641220
 URL:geo:49.758943,15.641220
 DESCRIPTION:📍 Nová Ves u Chotěboře\, Havlíčkův Brod\n💬 Odstranění stromu.\n
- \n🚒 CAS (HS Chotěboř)\n🚒 CAS (Chotěboř)\n🚒 CAS (Maleč)
+ \n🚒 CAS (HS Chotěboř)\n🚒 pila řetězová (HS Chotěboř)\n🚒 CAS (Chotěboř)\n🚒 
+ CAS (Maleč)
 END:VEVENT
 BEGIN:VEVENT
 UID:417025061
@@ -1201,10 +1202,11 @@ UID:417047061
 DTSTART:20260805T213010Z
 DTEND:20260805T223010Z
 DTSTAMP:20260805T213010Z
-SUMMARY:🔥 les - Jemnice
+SUMMARY:⚠️ planý poplach - Jemnice
 LOCATION:Jemnice
 GEO:49.031607;15.576176
 URL:geo:49.031607,15.576176
-DESCRIPTION:📍 Jemnice\, Třebíč\n\n🚒 CAS (HS Jemnice)\n🚒 CAS (Jemnice)
+DESCRIPTION:📍 Jemnice\, Třebíč\n💬 Planý poplach.\n\n🚒 CAS (HS Jemnice)\n🚒 C
+ AS (Jemnice)\n🚒 CAS (HS Dačice)\n🚒 CAS (HS Dačice)
 END:VEVENT
 END:VCALENDAR
