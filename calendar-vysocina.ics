@@ -1070,8 +1070,8 @@ SUMMARY:🚑 otevření/asistence - Moravské Budějovice
 LOCATION:Šafaříkova\, Moravské Budějovice
 GEO:49.052135;15.818045
 URL:geo:49.052135,15.818045
-DESCRIPTION:📍 Šafaříkova\, Moravské Budějovice\, Třebíč\n\n🚒 CAS (HS Moravs
- ké Budějovice)
+DESCRIPTION:📍 Šafaříkova\, Moravské Budějovice\, Třebíč\n💬 Záchrana osob uv
+ ízlých ve výtahu\, bez zranění.\n\n🚒 CAS (HS Moravské Budějovice)
 END:VEVENT
 BEGIN:VEVENT
 UID:416942061
@@ -1083,7 +1083,20 @@ LOCATION:Komárovice
 GEO:49.065178;15.712016
 URL:geo:49.065178,15.712016
 DESCRIPTION:📍 Komárovice\, Třebíč\n\n🚒 CAS (HS Jemnice)\n🚒 CAS (HS Moravské
-  Budějovice)\n🚒 CAS (Budkov)\n🚒 DA (Komárovice)\n🚒 přívěs motorová stříkač
- ka (Komárovice)
+  Budějovice)\n🚒 CAS (HS Moravské Budějovice)\n🚒 CAS (Budkov)\n🚒 DA (Komáro
+ vice)\n🚒 přívěs motorová stříkačka (Komárovice)
+END:VEVENT
+BEGIN:VEVENT
+UID:416943061
+DTSTART:20260805T134241Z
+DTEND:20260805T144241Z
+DTSTAMP:20260805T134241Z
+SUMMARY:🔥 tráva/plocha - Lukavec
+LOCATION:Lukavec
+GEO:49.568697;14.960155
+URL:geo:49.568697,14.960155
+DESCRIPTION:📍 Velká Ves\, Lukavec\, Pelhřimov\n\n🚒 CAS (HS Pacov)\n🚒 CAS (H
+ S Pacov)\n🚒 CAS (Pacov)\n🚒 osobní automobil (Pacov)\n🚒 CAS (Lukavec)\n🚒 CA
+ S (Pacov-Jetřichovec)
 END:VEVENT
 END:VCALENDAR
