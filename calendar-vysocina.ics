@@ -801,7 +801,7 @@ LOCATION:Jeřišno
 GEO:49.787701;15.641689
 URL:geo:49.787701,15.641689
 DESCRIPTION:📍 Heřmaň\, Jeřišno\, Havlíčkův Brod\n💬 Odstranění stromu.\n\n🚒 
- CAS (HS Chotěboř)\n🚒 CAS (HS Chotěboř)
+ CAS (HS Chotěboř)\n🚒 CAS (HS Chotěboř)\n🚒 pila řetězová (HS Chotěboř)
 END:VEVENT
 BEGIN:VEVENT
 UID:417007061
@@ -825,7 +825,7 @@ LOCATION:Jeřišno
 GEO:49.782574;15.628408
 URL:geo:49.782574,15.628408
 DESCRIPTION:📍 Vestecká Lhotka\, Jeřišno\, Havlíčkův Brod\n💬 Odstranění stro
- mu.\n\n🚒 CAS (HS Chotěboř)
+ mu.\n\n🚒 CAS (HS Chotěboř)\n🚒 pila řetězová (HS Chotěboř)
 END:VEVENT
 BEGIN:VEVENT
 UID:417009061
@@ -957,7 +957,7 @@ LOCATION:Jeřišno
 GEO:49.799214;15.631434
 URL:geo:49.799214,15.631434
 DESCRIPTION:📍 Chuchel\, Jeřišno\, Havlíčkův Brod\n💬 Odstranění stromu.\n\n🚒
-  CAS (HS Chotěboř)
+  CAS (HS Chotěboř)\n🚒 pila řetězová (HS Chotěboř)
 END:VEVENT
 BEGIN:VEVENT
 UID:417020061
@@ -969,7 +969,8 @@ LOCATION:Víska
 GEO:49.771427;15.654199
 URL:geo:49.771427,15.654199
 DESCRIPTION:📍 Víska\, Havlíčkův Brod\n💬 Odstranění stromu.\n\n🚒 CAS (HS Cho
- těboř) ×2\n🚒 AŽ (CHS Havlíčkův Brod)\n🚒 DA (Víska)\n🚒 DA (Víska)
+ těboř) ×2\n🚒 pila řetězová (HS Chotěboř)\n🚒 AŽ (CHS Havlíčkův Brod)\n🚒 DA 
+ (Víska)\n🚒 DA (Víska)
 END:VEVENT
 BEGIN:VEVENT
 UID:417021061
