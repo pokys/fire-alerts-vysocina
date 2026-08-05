@@ -5,31 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:416768061
-DTSTART:20260803T131606Z
-DTEND:20260803T141606Z
-DTSTAMP:20260803T131606Z
-SUMMARY:🛠️ otevření bytu/auta - Bystřice nad Pernštejnem
-LOCATION:Spojovací\, Bystřice nad Pernštejnem
-GEO:49.525806;16.251490
-URL:geo:49.525806,16.251490
-DESCRIPTION:📍 Spojovací\, Bystřice nad Pernštejnem\, Žďár nad Sázavou\n💬 Ot
- evření bytu.\n\n🚒 CAS (HS Bystřice nad Pernštejnem)
-END:VEVENT
-BEGIN:VEVENT
-UID:416769061
-DTSTART:20260803T133059Z
-DTEND:20260803T143059Z
-DTSTAMP:20260803T133059Z
-SUMMARY:🚗 dopravní nehoda - Žďár nad Sázavou
-LOCATION:Smetanova\, Žďár nad Sázavou
-GEO:49.560898;15.943909
-URL:geo:49.560898,15.943909
-DESCRIPTION:📍 Smetanova\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n💬 DN OA a 
- motorky\, jedna zraněná osoba. Jednotka provedla protipožární opatření. Od
- tah OA mimo komunikaci.\n\n🚒 CAS (CHS Žďár nad Sázavou)
-END:VEVENT
-BEGIN:VEVENT
 UID:416775061
 DTSTART:20260803T143435Z
 DTEND:20260803T153435Z
