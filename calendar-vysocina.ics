@@ -1078,13 +1078,13 @@ UID:416942061
 DTSTART:20260805T133122Z
 DTEND:20260805T143122Z
 DTSTAMP:20260805T133122Z
-SUMMARY:🔥 les - Komárovice
+SUMMARY:⚠️ planý poplach - Komárovice
 LOCATION:Komárovice
 GEO:49.065178;15.712016
 URL:geo:49.065178,15.712016
-DESCRIPTION:📍 Komárovice\, Třebíč\n\n🚒 CAS (HS Jemnice)\n🚒 CAS (HS Moravské
-  Budějovice)\n🚒 CAS (HS Moravské Budějovice)\n🚒 CAS (Budkov)\n🚒 DA (Komáro
- vice)\n🚒 přívěs motorová stříkačka (Komárovice)
+DESCRIPTION:📍 Komárovice\, Třebíč\n💬 Planý poplach.\n\n🚒 CAS (HS Jemnice)\n
+ 🚒 CAS (HS Moravské Budějovice)\n🚒 CAS (HS Moravské Budějovice)\n🚒 CAS (Bud
+ kov)\n🚒 DA (Komárovice)\n🚒 přívěs motorová stříkačka (Komárovice)
 END:VEVENT
 BEGIN:VEVENT
 UID:416943061
@@ -1096,7 +1096,42 @@ LOCATION:Lukavec
 GEO:49.568697;14.960155
 URL:geo:49.568697,14.960155
 DESCRIPTION:📍 Velká Ves\, Lukavec\, Pelhřimov\n\n🚒 CAS (HS Pacov)\n🚒 CAS (H
- S Pacov)\n🚒 CAS (Pacov)\n🚒 osobní automobil (Pacov)\n🚒 CAS (Lukavec)\n🚒 CA
- S (Pacov-Jetřichovec)
+ S Pacov)\n🚒 CAS (Pacov)\n🚒 osobní automobil (Pacov)\n🚒 DA (Lukavec)\n🚒 CAS
+  (Lukavec)\n🚒 CAS (Pacov-Jetřichovec)
+END:VEVENT
+BEGIN:VEVENT
+UID:416944061
+DTSTART:20260805T135319Z
+DTEND:20260805T145319Z
+DTSTAMP:20260805T135319Z
+SUMMARY:🚗 dopravní nehoda - Vyskytná
+LOCATION:Vyskytná
+GEO:49.422812;15.367572
+URL:geo:49.422812,15.367572
+DESCRIPTION:📍 Vyskytná\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)
+END:VEVENT
+BEGIN:VEVENT
+UID:416945061
+DTSTART:20260805T135704Z
+DTEND:20260805T145704Z
+DTSTAMP:20260805T135704Z
+SUMMARY:⚠️ planý poplach - Velká Losenice
+LOCATION:Velká Losenice
+GEO:49.566018;15.849804
+URL:geo:49.566018,15.849804
+DESCRIPTION:📍 Velká Losenice\, Žďár nad Sázavou\n💬 Planý poplach.\n\n🚒 CAS 
+ (CHS Žďár nad Sázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:416946061
+DTSTART:20260805T141005Z
+DTEND:20260805T151005Z
+DTSTAMP:20260805T141005Z
+SUMMARY:🔥 tráva/plocha - Ocmanice
+LOCATION:Ocmanice
+GEO:49.218768;16.130697
+URL:geo:49.218768,16.130697
+DESCRIPTION:📍 Ocmanice\, Třebíč\n\n🚒 CAS (HS Náměšť nad Oslavou)\n🚒 CAS (HS
+  Velká Bíteš)\n🚒 CAS (Kralice nad Oslavou)\n🚒 osobní automobil (Ocmanice)
 END:VEVENT
 END:VCALENDAR
