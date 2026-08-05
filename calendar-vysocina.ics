@@ -1067,8 +1067,21 @@ SUMMARY:🛠️ strom - Leština u Světlé
 LOCATION:Leština u Světlé
 GEO:49.755471;15.394901
 URL:geo:49.755471,15.394901
-DESCRIPTION:📍 Dobrnice\, Leština u Světlé\, Havlíčkův Brod\n\n🚒 CAS (Leštin
- a u Světlé)
+DESCRIPTION:📍 Dobrnice\, Leština u Světlé\, Havlíčkův Brod\n💬 Odstranění st
+ romu.\n\n🚒 CAS (Leština u Světlé)
+END:VEVENT
+BEGIN:VEVENT
+UID:416933061
+DTSTART:20260805T113501Z
+DTEND:20260805T123501Z
+DTSTAMP:20260805T113501Z
+SUMMARY:🔥 venkovní požár - Dalečín
+LOCATION:Dalečín
+GEO:49.576028;16.270978
+URL:geo:49.576028,16.270978
+DESCRIPTION:📍 Dalečín\, Žďár nad Sázavou\n\n🚒 CAS (HS Bystřice nad Pernštej
+ nem)\n🚒 vozidlo účelové - SxS (HS Bystřice nad Pernštejnem)\n🚒 přívěs nákl
+ adní (HS Bystřice nad Pernštejnem)
 END:VEVENT
 BEGIN:VEVENT
 UID:416935061
@@ -1080,7 +1093,9 @@ LOCATION:Osové
 GEO:49.332173;16.009437
 URL:geo:49.332173,16.009437
 DESCRIPTION:📍 Osové\, Žďár nad Sázavou\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 CAS 
- (Rudíkov)\n🚒 CAS (Velké Meziříčí)
+ (Rudíkov)\n🚒 CAS (Velké Meziříčí)\n🚒 CAS (Velké Meziříčí)\n🚒 CAS (Křižanov
+ )\n🚒 CAS (Budišov)\n🚒 CAS (Měřín)\n🚒 DA (Oslavice)\n🚒 vyšetřovací automobi
+ l (ÚO Žďár nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:416936061
@@ -1089,9 +1104,9 @@ DTEND:20260805T131223Z
 DTSTAMP:20260805T121223Z
 SUMMARY:🚗 dopravní nehoda - Žďár nad Sázavou
 LOCATION:Jamská\, Žďár nad Sázavou
-GEO:49.555937;15.957729
-URL:geo:49.555937,15.957729
+GEO:49.554284;15.958012
+URL:geo:49.554284,15.958012
 DESCRIPTION:📍 Jamská\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n\n🚒 CAS (CHS 
- Žďár nad Sázavou)
+ Žďár nad Sázavou)\n🚒 vyšetřovací automobil (ÚO Žďár nad Sázavou)
 END:VEVENT
 END:VCALENDAR
