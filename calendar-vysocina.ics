@@ -1166,4 +1166,15 @@ URL:geo:49.570957,15.944395
 DESCRIPTION:📍 Luční\, Žďár nad Sázavou 5\, Žďár nad Sázavou\n💬 Transport pa
  cienta na žádost ZZS.\n\n🚒 CAS (CHS Žďár nad Sázavou)
 END:VEVENT
+BEGIN:VEVENT
+UID:416908061
+DTSTART:20260805T020513Z
+DTEND:20260805T030513Z
+DTSTAMP:20260805T020513Z
+SUMMARY:🚑 otevření/asistence - Jihlava
+LOCATION:U Hřbitova\, Jihlava
+GEO:49.393247;15.575538
+URL:geo:49.393247,15.575538
+DESCRIPTION:📍 U Hřbitova\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+END:VEVENT
 END:VCALENDAR
