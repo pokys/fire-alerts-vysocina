@@ -5,42 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:416783061
-DTSTART:20260803T155636Z
-DTEND:20260803T165636Z
-DTSTAMP:20260803T155636Z
-SUMMARY:🛠️ obtížný hmyz - Žďár nad Sázavou
-LOCATION:Žďár nad Sázavou
-GEO:49.555211;16.007622
-URL:geo:49.555211,16.007622
-DESCRIPTION:📍 Veselíčko\, Žďár nad Sázavou\n💬 Odstranění obtížného hmyzu.\n
- \n🚒 CAS (Žďár nad Sázavou-Zámek)
-END:VEVENT
-BEGIN:VEVENT
-UID:416784061
-DTSTART:20260803T160038Z
-DTEND:20260803T170038Z
-DTSTAMP:20260803T160038Z
-SUMMARY:🛠️ obtížný hmyz - Bystřice nad Pernštejnem
-LOCATION:Zahradní\, Bystřice nad Pernštejnem
-GEO:49.527002;16.258289
-URL:geo:49.527002,16.258289
-DESCRIPTION:📍 Zahradní\, Bystřice nad Pernštejnem\, Žďár nad Sázavou\n💬 Ods
- tranění obtížného hmyzu.\n\n🚒 CAS (Bystřice nad Pernštejnem)
-END:VEVENT
-BEGIN:VEVENT
-UID:416787061
-DTSTART:20260803T161131Z
-DTEND:20260803T171131Z
-DTSTAMP:20260803T161131Z
-SUMMARY:🛠️ obtížný hmyz - Druhanov
-LOCATION:Druhanov
-GEO:49.696163;15.413862
-URL:geo:49.696163,15.413862
-DESCRIPTION:📍 Druhanov\, Havlíčkův Brod\n💬 Odstranění obtížného hmyzu.\n\n🚒
-  nákladní automobil do 3500 kg (Druhanov)
-END:VEVENT
-BEGIN:VEVENT
 UID:416788061
 DTSTART:20260803T161703Z
 DTEND:20260803T171703Z
@@ -1082,9 +1046,10 @@ SUMMARY:🔥 tráva/plocha - Žirovnice
 LOCATION:Žirovnice
 GEO:49.281122;15.165096
 URL:geo:49.281122,15.165096
-DESCRIPTION:📍 Stranná\, Žirovnice\, Pelhřimov\n\n🚒 CAS (HS Kamenice nad Lip
- ou)\n🚒 CAS (HS Kamenice nad Lipou)\n🚒 CAS (Počátky) ×2\n🚒 CAS (Žirovnice)\
- n🚒 CAS (Žirovnice)
+DESCRIPTION:📍 Stranná\, Žirovnice\, Pelhřimov\n💬 Požár strniště. Provedena 
+ lokalizace a likvidace požáru.\n\n🚒 CAS (HS Kamenice nad Lipou)\n🚒 CAS (HS
+  Kamenice nad Lipou)\n🚒 CAS (Počátky) ×2\n🚒 CAS (Žirovnice)\n🚒 CAS (Žirovn
+ ice)
 END:VEVENT
 BEGIN:VEVENT
 UID:416948061
@@ -1164,7 +1129,7 @@ SUMMARY:🛠️ strom - Věstín
 LOCATION:Věstín
 GEO:49.570591;16.345825
 URL:geo:49.570591,16.345825
-DESCRIPTION:📍 Věstín\, Žďár nad Sázavou\n\n🚒 DA (Vír)
+DESCRIPTION:📍 Věstín\, Žďár nad Sázavou\n💬 Odstranění stromu.\n\n🚒 DA (Vír)
 END:VEVENT
 BEGIN:VEVENT
 UID:416956061
@@ -1175,7 +1140,7 @@ SUMMARY:🛠️ strom - Trnava
 LOCATION:Trnava
 GEO:49.271476;15.947851
 URL:geo:49.271476,15.947851
-DESCRIPTION:📍 Trnava\, Třebíč\n\n🚒 CAS (Trnava)
+DESCRIPTION:📍 Trnava\, Třebíč\n💬 Odstranění stromu.\n\n🚒 CAS (Trnava)
 END:VEVENT
 BEGIN:VEVENT
 UID:416957061
@@ -1199,5 +1164,73 @@ GEO:49.045743;15.791068
 URL:geo:49.045743,15.791068
 DESCRIPTION:📍 Husova\, Moravské Budějovice\, Třebíč\n💬 Odstranění stromu.\n
  \n🚒 CAS (Moravské Budějovice)
+END:VEVENT
+BEGIN:VEVENT
+UID:416959061
+DTSTART:20260805T153723Z
+DTEND:20260805T163723Z
+DTSTAMP:20260805T153723Z
+SUMMARY:🛠️ ostatní - Moravské Budějovice
+LOCATION:Čechova\, Moravské Budějovice
+GEO:49.045552;15.812249
+URL:geo:49.045552,15.812249
+DESCRIPTION:📍 Čechova\, Moravské Budějovice\, Třebíč\n\n🚒 CAS (HS Moravské 
+ Budějovice)\n🚒 CAS (HS Moravské Budějovice)
+END:VEVENT
+BEGIN:VEVENT
+UID:416961061
+DTSTART:20260805T153954Z
+DTEND:20260805T163954Z
+DTSTAMP:20260805T153954Z
+SUMMARY:🛠️ strom - Jihlava
+LOCATION:Jihlava
+GEO:49.405527;15.572188
+URL:geo:49.405527,15.572188
+DESCRIPTION:🚒 CAS (CHS Jihlava)
+END:VEVENT
+BEGIN:VEVENT
+UID:416962061
+DTSTART:20260805T154208Z
+DTEND:20260805T164208Z
+DTSTAMP:20260805T154208Z
+SUMMARY:🛠️ obtížný hmyz - Dukovany
+LOCATION:Dukovany
+GEO:49.080084;16.192790
+URL:geo:49.080084,16.192790
+DESCRIPTION:📍 Dukovany\, Třebíč\n💬 Odstranění obtížného hmyzu.\n\n🚒 DA (Duk
+ ovany)
+END:VEVENT
+BEGIN:VEVENT
+UID:416963061
+DTSTART:20260805T154309Z
+DTEND:20260805T164309Z
+DTSTAMP:20260805T154309Z
+SUMMARY:🛠️ strom - Dolní Cerekev
+LOCATION:Dolní Cerekev
+GEO:49.348542;15.457402
+URL:geo:49.348542,15.457402
+DESCRIPTION:📍 Dolní Cerekev\, Jihlava\n\n🚒 CAS (Dolní Cerekev)
+END:VEVENT
+BEGIN:VEVENT
+UID:416967061
+DTSTART:20260805T154910Z
+DTEND:20260805T164910Z
+DTSTAMP:20260805T154910Z
+SUMMARY:🛠️ strom - Šebkovice
+LOCATION:Šebkovice
+GEO:49.128350;15.804714
+URL:geo:49.128350,15.804714
+DESCRIPTION:📍 Šebkovice\, Třebíč\n\n🚒 CAS (Jaroměřice nad Rokytnou)
+END:VEVENT
+BEGIN:VEVENT
+UID:416970061
+DTSTART:20260805T155203Z
+DTEND:20260805T165203Z
+DTSTAMP:20260805T155203Z
+SUMMARY:🛠️ strom - Trnava
+LOCATION:Trnava
+GEO:49.268938;15.939311
+URL:geo:49.268938,15.939311
+DESCRIPTION:📍 Trnava\, Třebíč\n💬 Odstranění stromu.\n\n🚒 CAS (Trnava)
 END:VEVENT
 END:VCALENDAR
