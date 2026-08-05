@@ -1061,4 +1061,29 @@ DESCRIPTION:📍 Jamská\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n💬 D
  lid vozovky.\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 vyšetřovací automobil (ÚO 
  Žďár nad Sázavou)
 END:VEVENT
+BEGIN:VEVENT
+UID:416941061
+DTSTART:20260805T132555Z
+DTEND:20260805T142555Z
+DTSTAMP:20260805T132555Z
+SUMMARY:🚑 otevření/asistence - Moravské Budějovice
+LOCATION:Šafaříkova\, Moravské Budějovice
+GEO:49.052135;15.818045
+URL:geo:49.052135,15.818045
+DESCRIPTION:📍 Šafaříkova\, Moravské Budějovice\, Třebíč\n\n🚒 CAS (HS Moravs
+ ké Budějovice)
+END:VEVENT
+BEGIN:VEVENT
+UID:416942061
+DTSTART:20260805T133122Z
+DTEND:20260805T143122Z
+DTSTAMP:20260805T133122Z
+SUMMARY:🔥 les - Komárovice
+LOCATION:Komárovice
+GEO:49.065178;15.712016
+URL:geo:49.065178,15.712016
+DESCRIPTION:📍 Komárovice\, Třebíč\n\n🚒 CAS (HS Jemnice)\n🚒 CAS (HS Moravské
+  Budějovice)\n🚒 CAS (Budkov)\n🚒 DA (Komárovice)\n🚒 přívěs motorová stříkač
+ ka (Komárovice)
+END:VEVENT
 END:VCALENDAR
