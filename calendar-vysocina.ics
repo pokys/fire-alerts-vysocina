@@ -932,7 +932,8 @@ SUMMARY:🛠️ strom - Herálec
 LOCATION:Herálec
 GEO:49.681920;15.996628
 URL:geo:49.681920,15.996628
-DESCRIPTION:📍 Herálec\, Žďár nad Sázavou\n\n🚒 CAS (Svratka)
+DESCRIPTION:📍 Herálec\, Žďár nad Sázavou\n💬 Odstranění stromu.\n\n🚒 CAS (Sv
+ ratka)
 END:VEVENT
 BEGIN:VEVENT
 UID:417017061
@@ -1105,12 +1106,12 @@ UID:417035061
 DTSTART:20260805T182103Z
 DTEND:20260805T192103Z
 DTSTAMP:20260805T182103Z
-SUMMARY:🛠️ ostatní - Herálec
+SUMMARY:🛠️ strom - Herálec
 LOCATION:Herálec
 GEO:49.694483;15.972410
 URL:geo:49.694483,15.972410
-DESCRIPTION:📍 Český Herálec\, Herálec\, Žďár nad Sázavou\n\n🚒 DA (Herálec (
- ZR))
+DESCRIPTION:📍 Český Herálec\, Herálec\, Žďár nad Sázavou\n💬 Odstranění stro
+ mu.\n\n🚒 DA (Herálec (ZR))
 END:VEVENT
 BEGIN:VEVENT
 UID:417036061
