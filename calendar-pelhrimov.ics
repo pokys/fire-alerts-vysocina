@@ -170,6 +170,18 @@ SUMMARY:🛠️ strom - Čáslavsko
 LOCATION:Čáslavsko
 GEO:49.592545;14.991671
 URL:geo:49.592545,14.991671
-DESCRIPTION:📍 Jelenov\, Čáslavsko\, Pelhřimov\n\n🚒 CAS (Lukavec)
+DESCRIPTION:📍 Jelenov\, Čáslavsko\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 CA
+ S (Lukavec)
+END:VEVENT
+BEGIN:VEVENT
+UID:417050061
+DTSTART:20260806T011730Z
+DTEND:20260806T021730Z
+DTSTAMP:20260806T011730Z
+SUMMARY:🛠️ strom - Čáslavsko
+LOCATION:Čáslavsko
+GEO:49.592730;14.993643
+URL:geo:49.592730,14.993643
+DESCRIPTION:📍 Čáslavsko\, Pelhřimov\n\n🚒 CAS (Lukavec)
 END:VEVENT
 END:VCALENDAR
