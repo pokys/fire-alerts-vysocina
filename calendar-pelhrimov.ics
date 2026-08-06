@@ -5,22 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Pelhřimov
 BEGIN:VEVENT
-UID:416854061
-DTSTART:20260804T121418Z
-DTEND:20260804T131418Z
-DTSTAMP:20260804T121418Z
-SUMMARY:🔥 tráva/plocha - Lukavec
-LOCATION:Lukavec
-GEO:49.570048;14.956190
-URL:geo:49.570048,14.956190
-DESCRIPTION:📍 Velká Ves\, Lukavec\, Pelhřimov\n💬 Požár stohu. Jednotky prov
- edly lokalizaci a likvidaci požáru.\n\n🚒 CAS (HS Pacov) ×2\n🚒 CAS (HS Paco
- v) ×2\n🚒 čerpadlo plovoucí (HS Pacov)\n🚒 CAS (Pacov)\n🚒 osobní automobil (
- Pacov)\n🚒 CAS (Lukavec) ×2\n🚒 CAS (Pacov-Jetřichovec)\n🚒 CAS (Košetice)\n🚒
-  CAS (Košetice)\n🚒 CAS (Onšov)\n🚒 CAS (Načeradec)\n🚒 CAS (Čechtice)\n🚒 CAS
-  (Čechtice)\n🚒 vyšetřovací automobil (ÚO Pelhřimov)
-END:VEVENT
-BEGIN:VEVENT
 UID:416861061
 DTSTART:20260804T133916Z
 DTEND:20260804T143916Z
