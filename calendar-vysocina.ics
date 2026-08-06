@@ -5,54 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:416977061
-DTSTART:20260805T161046Z
-DTEND:20260805T171046Z
-DTSTAMP:20260805T161046Z
-SUMMARY:🛠️ strom - Počátky
-LOCATION:Počátky
-GEO:49.244382;15.255224
-URL:geo:49.244382,15.255224
-DESCRIPTION:📍 Horní Vilímeč\, Počátky\, Pelhřimov\n💬 Odstranění stromu.\n\n
- 🚒 CAS (Počátky)
-END:VEVENT
-BEGIN:VEVENT
-UID:416980061
-DTSTART:20260805T161449Z
-DTEND:20260805T171449Z
-DTSTAMP:20260805T161449Z
-SUMMARY:🛠️ čerpání vody - Třebíč
-LOCATION:Okrajová\, Třebíč
-GEO:49.208043;15.889887
-URL:geo:49.208043,15.889887
-DESCRIPTION:📍 Okrajová\, Horka-Domky\, Třebíč\n💬 Čerpání vody.\n\n🚒 DA (Sta
- řeč)\n🚒 CAS (Stařeč)\n🚒 CAS (CHS Třebíč)
-END:VEVENT
-BEGIN:VEVENT
-UID:416981061
-DTSTART:20260805T161459Z
-DTEND:20260805T171459Z
-DTSTAMP:20260805T161459Z
-SUMMARY:🛠️ obtížný hmyz - Strážek
-LOCATION:Strážek
-GEO:49.439413;16.174395
-URL:geo:49.439413,16.174395
-DESCRIPTION:📍 Jemnice\, Strážek\, Žďár nad Sázavou\n💬 Odstranění obtížného 
- hmyzu.\n\n🚒 CAS (Bobrová)
-END:VEVENT
-BEGIN:VEVENT
-UID:416982061
-DTSTART:20260805T161714Z
-DTEND:20260805T171714Z
-DTSTAMP:20260805T161714Z
-SUMMARY:🛠️ strom - Bochovice
-LOCATION:Bochovice
-GEO:49.326492;15.902931
-URL:geo:49.326492,15.902931
-DESCRIPTION:📍 Bochovice\, Třebíč\n💬 Odstranění stromu.\n\n🚒 CAS (HS Velké M
- eziříčí)
-END:VEVENT
-BEGIN:VEVENT
 UID:416983061
 DTSTART:20260805T161821Z
 DTEND:20260805T171821Z
@@ -985,7 +937,7 @@ LOCATION:Velká Bíteš
 GEO:49.295858;16.218539
 URL:geo:49.295858,16.218539
 DESCRIPTION:📍 Velká Bíteš\, Žďár nad Sázavou\n💬 Odstranění obtížného hmyzu.
- \n\n🚒 DA (Velká Bíteš)\n🚒 CAS (Velká Bíteš)
+ \n\n🚒 DA (Velká Bíteš)
 END:VEVENT
 BEGIN:VEVENT
 UID:417108061
@@ -1150,7 +1102,7 @@ UID:417130061
 DTSTART:20260806T141843Z
 DTEND:20260806T151843Z
 DTSTAMP:20260806T141843Z
-SUMMARY:🔥 les - Častrov
+SUMMARY:🔥 tráva/plocha - Častrov
 LOCATION:Častrov
 GEO:49.291542;15.218666
 URL:geo:49.291542,15.218666
@@ -1179,9 +1131,10 @@ SUMMARY:🔥 les - Budkov
 LOCATION:Budkov
 GEO:49.038683;15.706029
 URL:geo:49.038683,15.706029
-DESCRIPTION:📍 Budkov\, Třebíč\n\n🚒 CAS (HS Jemnice)\n🚒 CAS (HS Moravské Bud
- ějovice)\n🚒 CAS (HS Moravské Budějovice)\n🚒 DA (Budkov)\n🚒 CAS (Budkov)\n🚒
-  vyšetřovací automobil (ÚO Třebíč)
+DESCRIPTION:📍 Budkov\, Třebíč\n💬 Požár lesní školky. Provedena lokalizace a
+  likvidace požáru.\n\n🚒 CAS (HS Jemnice)\n🚒 CAS (HS Moravské Budějovice)\n
+ 🚒 CAS (HS Moravské Budějovice)\n🚒 DA (Budkov)\n🚒 CAS (Budkov)\n🚒 vyšetřova
+ cí automobil (ÚO Třebíč)
 END:VEVENT
 BEGIN:VEVENT
 UID:417133061
@@ -1204,6 +1157,52 @@ SUMMARY:🛠️ obtížný hmyz - Vícenice
 LOCATION:Vícenice
 GEO:49.090669;15.813768
 URL:geo:49.090669,15.813768
-DESCRIPTION:📍 Vícenice\, Třebíč\n\n🚒 CAS (Jaroměřice nad Rokytnou)
+DESCRIPTION:📍 Vícenice\, Třebíč\n💬 Odstranění obtížného hmyzu.\n\n🚒 CAS (Ja
+ roměřice nad Rokytnou)
+END:VEVENT
+BEGIN:VEVENT
+UID:417142061
+DTSTART:20260806T152724Z
+DTEND:20260806T162724Z
+DTSTAMP:20260806T152724Z
+SUMMARY:🛠️ otevření bytu/auta - Polná
+LOCATION:Husovo náměstí\, Polná
+GEO:49.486565;15.719876
+URL:geo:49.486565,15.719876
+DESCRIPTION:📍 Husovo náměstí\, Polná\, Jihlava\n\n🚒 CAS (HS Polná)
+END:VEVENT
+BEGIN:VEVENT
+UID:417143061
+DTSTART:20260806T153812Z
+DTEND:20260806T163812Z
+DTSTAMP:20260806T153812Z
+SUMMARY:🛠️ ostatní - Žirovnice
+LOCATION:Žižkova\, Žirovnice
+GEO:49.254880;15.187298
+URL:geo:49.254880,15.187298
+DESCRIPTION:📍 Žižkova\, Žirovnice\, Pelhřimov\n💬 Pomoc s imobilní osobou\, 
+ bez zranění.\n\n🚒 CAS (HS Kamenice nad Lipou)\n🚒 CAS (Žirovnice)
+END:VEVENT
+BEGIN:VEVENT
+UID:417144061
+DTSTART:20260806T154031Z
+DTEND:20260806T164031Z
+DTSTAMP:20260806T154031Z
+SUMMARY:🛠️ otevření bytu/auta - Polná
+LOCATION:Husovo náměstí\, Polná
+GEO:49.487215;15.720090
+URL:geo:49.487215,15.720090
+DESCRIPTION:📍 Husovo náměstí\, Polná\, Jihlava\n\n🚒 CAS (HS Polná)
+END:VEVENT
+BEGIN:VEVENT
+UID:417147061
+DTSTART:20260806T162506Z
+DTEND:20260806T172506Z
+DTSTAMP:20260806T162506Z
+SUMMARY:🛠️ ostatní - Rohy
+LOCATION:Rohy
+GEO:49.305520;16.006322
+URL:geo:49.305520,16.006322
+DESCRIPTION:📍 Rohy\, Třebíč\n\n🚒 CAS (HS Velké Meziříčí)
 END:VEVENT
 END:VCALENDAR
