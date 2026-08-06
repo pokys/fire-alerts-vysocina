@@ -5,29 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:416967061
-DTSTART:20260805T154910Z
-DTEND:20260805T164910Z
-DTSTAMP:20260805T154910Z
-SUMMARY:🛠️ strom - Šebkovice
-LOCATION:Šebkovice
-GEO:49.128350;15.804714
-URL:geo:49.128350,15.804714
-DESCRIPTION:📍 Šebkovice\, Třebíč\n💬 Odstranění stromu.\n\n🚒 CAS (Jaroměřice
-  nad Rokytnou)
-END:VEVENT
-BEGIN:VEVENT
-UID:416970061
-DTSTART:20260805T155203Z
-DTEND:20260805T165203Z
-DTSTAMP:20260805T155203Z
-SUMMARY:🛠️ strom - Trnava
-LOCATION:Trnava
-GEO:49.268938;15.939311
-URL:geo:49.268938,15.939311
-DESCRIPTION:📍 Trnava\, Třebíč\n💬 Odstranění stromu.\n\n🚒 CAS (Trnava)
-END:VEVENT
-BEGIN:VEVENT
 UID:416971061
 DTSTART:20260805T155507Z
 DTEND:20260805T165507Z
@@ -849,7 +826,8 @@ LOCATION:Víska
 GEO:49.769467;15.651028
 URL:geo:49.769467,15.651028
 DESCRIPTION:📍 Víska\, Havlíčkův Brod\n💬 Odstranění stromu.\n\n🚒 CAS (HS Cho
- těboř)\n🚒 automobilová plošina do 30 m (HS Chotěboř)
+ těboř)\n🚒 automobilová plošina do 30 m (HS Chotěboř)\n🚒 pila řetězová (HS 
+ Chotěboř)
 END:VEVENT
 BEGIN:VEVENT
 UID:417064061
@@ -969,8 +947,8 @@ SUMMARY:🛠️ strom - Nová Ves u Chotěboře
 LOCATION:Nová Ves u Chotěboře
 GEO:49.756105;15.647986
 URL:geo:49.756105,15.647986
-DESCRIPTION:📍 Nová Ves u Chotěboře\, Havlíčkův Brod\n\n🚒 DA (Nová Ves u Cho
- těboře)
+DESCRIPTION:📍 Nová Ves u Chotěboře\, Havlíčkův Brod\n💬 Odstranění stromu.\n
+ \n🚒 DA (Nová Ves u Chotěboře)
 END:VEVENT
 BEGIN:VEVENT
 UID:417097061
@@ -993,7 +971,8 @@ SUMMARY:🛠️ strom - Olešná
 LOCATION:Olešná
 GEO:49.437061;15.288219
 URL:geo:49.437061,15.288219
-DESCRIPTION:📍 Plevnice\, Olešná\, Pelhřimov\n\n🚒 AŽ (CHS Pelhřimov)
+DESCRIPTION:📍 Plevnice\, Olešná\, Pelhřimov\n💬 Odstranění stromu\n\n🚒 AŽ (C
+ HS Pelhřimov)
 END:VEVENT
 BEGIN:VEVENT
 UID:417101061
@@ -1004,7 +983,7 @@ SUMMARY:☣️ olej/PHM - Jihlava
 LOCATION:Jihlava
 GEO:49.411236;15.578590
 URL:geo:49.411236,15.578590
-DESCRIPTION:🚒 CAS (CHS Jihlava)
+DESCRIPTION:💬 Likvidace úniku oleje z vozovky.\n\n🚒 CAS (CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:417102061
@@ -1015,8 +994,8 @@ SUMMARY:🚗 úklid místa - Velká Bíteš
 LOCATION:Velká Bíteš
 GEO:49.253907;16.216525
 URL:geo:49.253907,16.216525
-DESCRIPTION:📍 Velká Bíteš\, Žďár nad Sázavou\n💬 DN 2 OA. Bez zranění. Zajiš
- tění místa události. Úklid vozovky.\n\n🚒 CAS (HS Velká Bíteš)
+DESCRIPTION:📍 Velká Bíteš\, Žďár nad Sázavou\n💬 DN 2 x OA. Bez zranění. Zaj
+ ištění místa události. Úklid vozovky.\n\n🚒 CAS (HS Velká Bíteš)
 END:VEVENT
 BEGIN:VEVENT
 UID:417103061
@@ -1039,8 +1018,8 @@ SUMMARY:🛠️ obtížný hmyz - Jihlava
 LOCATION:Havlíčkova\, Jihlava
 GEO:49.403047;15.589059
 URL:geo:49.403047,15.589059
-DESCRIPTION:📍 Havlíčkova\, Jihlava\n💬 Odstranění obtížného hmyzu.\n\n🚒 CAS 
- (CHS Jihlava)
+DESCRIPTION:📍 Havlíčkova\, Jihlava\n💬 Likvidace nebezpečného hmyzu.\n\n🚒 CA
+ S (CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:417106061
@@ -1052,7 +1031,8 @@ LOCATION:Nová Ves u Chotěboře
 GEO:49.758814;15.641538
 URL:geo:49.758814,15.641538
 DESCRIPTION:📍 Nová Ves u Chotěboře\, Havlíčkův Brod\n💬 Odstranění stromu.\n
- \n🚒 CAS (HS Chotěboř)\n🚒 automobilová plošina do 30 m (HS Chotěboř)
+ \n🚒 CAS (HS Chotěboř)\n🚒 automobilová plošina do 30 m (HS Chotěboř)\n🚒 pil
+ a řetězová (HS Chotěboř)
 END:VEVENT
 BEGIN:VEVENT
 UID:417107061
@@ -1099,8 +1079,8 @@ SUMMARY:🛠️ strom - Nová Ves u Chotěboře
 LOCATION:Nová Ves u Chotěboře
 GEO:49.757885;15.642858
 URL:geo:49.757885,15.642858
-DESCRIPTION:📍 Nová Ves u Chotěboře\, Havlíčkův Brod\n\n🚒 CAS (HS Chotěboř)\
- n🚒 automobilová plošina do 30 m (HS Chotěboř)
+DESCRIPTION:📍 Nová Ves u Chotěboře\, Havlíčkův Brod\n💬 Odstranění stromu.\n
+ \n🚒 CAS (HS Chotěboř)\n🚒 automobilová plošina do 30 m (HS Chotěboř)
 END:VEVENT
 BEGIN:VEVENT
 UID:417114061
@@ -1170,8 +1150,9 @@ SUMMARY:🚗 dopravní nehoda - Žďár nad Sázavou
 LOCATION:Strojírenská\, Žďár nad Sázavou
 GEO:49.558605;15.938893
 URL:geo:49.558605,15.938893
-DESCRIPTION:📍 Strojírenská\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad Sázavo
- u)
+DESCRIPTION:📍 Strojírenská\, Žďár nad Sázavou\n💬 DN OA a motorka. Jedna zra
+ něná osoba. Zajištění místa nehody. Předlékařská pomoc.\n\n🚒 CAS (CHS Žďár
+  nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:417123061
@@ -1194,6 +1175,30 @@ LOCATION:Číchovská\, Přibyslavice
 GEO:49.266649;15.773333
 URL:geo:49.266649,15.773333
 DESCRIPTION:📍 Číchovská\, Přibyslavice\, Třebíč\n\n🚒 CAS (CHS Třebíč)\n🚒 CA
- S (Přibyslavice)\n🚒 CAS (Přibyslavice)
+ S (Přibyslavice)\n🚒 CAS (Přibyslavice)\n🚒 osobní automobil (HS Náměšť nad 
+ Oslavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:417126061
+DTSTART:20260806T134141Z
+DTEND:20260806T144141Z
+DTSTAMP:20260806T134141Z
+SUMMARY:🔥 tráva/plocha - Jamné
+LOCATION:Jamné
+GEO:49.435948;15.723707
+URL:geo:49.435948,15.723707
+DESCRIPTION:📍 Jamné\, Jihlava\n\n🚒 CAS (HS Polná)\n🚒 CAS (Zhoř (JI))\n🚒 DA 
+ (Jamné)\n🚒 CAS (Polná)
+END:VEVENT
+BEGIN:VEVENT
+UID:417127061
+DTSTART:20260806T134704Z
+DTEND:20260806T144704Z
+DTSTAMP:20260806T134704Z
+SUMMARY:🚗 dopravní nehoda - Sázava
+LOCATION:Sázava
+GEO:49.573043;15.872056
+URL:geo:49.573043,15.872056
+DESCRIPTION:📍 Sázava\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad Sázavou)
 END:VEVENT
 END:VCALENDAR
