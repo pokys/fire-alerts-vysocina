@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:416954061
-DTSTART:20260805T152031Z
-DTEND:20260805T162031Z
-DTSTAMP:20260805T152031Z
-SUMMARY:🛠️ strom - Třebíč
-LOCATION:Horácká\, Třebíč
-GEO:49.224095;15.858578
-URL:geo:49.224095,15.858578
-DESCRIPTION:📍 Horácká\, Podklášteří\, Třebíč\n💬 Odstranění stromu.\n\n🚒 CAS
-  (CHS Třebíč)
-END:VEVENT
-BEGIN:VEVENT
 UID:416955061
 DTSTART:20260805T152103Z
 DTEND:20260805T162103Z
@@ -1122,7 +1110,8 @@ SUMMARY:🚗 úklid místa - Velká Bíteš
 LOCATION:Velká Bíteš
 GEO:49.253907;16.216525
 URL:geo:49.253907,16.216525
-DESCRIPTION:📍 Velká Bíteš\, Žďár nad Sázavou\n\n🚒 CAS (HS Velká Bíteš)
+DESCRIPTION:📍 Velká Bíteš\, Žďár nad Sázavou\n💬 DN 2 OA. Bez zranění. Zajiš
+ tění místa události. Úklid vozovky.\n\n🚒 CAS (HS Velká Bíteš)
 END:VEVENT
 BEGIN:VEVENT
 UID:417103061
@@ -1145,7 +1134,8 @@ SUMMARY:🛠️ obtížný hmyz - Jihlava
 LOCATION:Havlíčkova\, Jihlava
 GEO:49.403047;15.589059
 URL:geo:49.403047,15.589059
-DESCRIPTION:📍 Havlíčkova\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+DESCRIPTION:📍 Havlíčkova\, Jihlava\n💬 Odstranění obtížného hmyzu.\n\n🚒 CAS 
+ (CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:417106061
@@ -1156,8 +1146,8 @@ SUMMARY:🛠️ strom - Nová Ves u Chotěboře
 LOCATION:Nová Ves u Chotěboře
 GEO:49.758814;15.641538
 URL:geo:49.758814,15.641538
-DESCRIPTION:📍 Nová Ves u Chotěboře\, Havlíčkův Brod\n\n🚒 CAS (HS Chotěboř)\
- n🚒 automobilová plošina do 30 m (HS Chotěboř)
+DESCRIPTION:📍 Nová Ves u Chotěboře\, Havlíčkův Brod\n💬 Odstranění stromu.\n
+ \n🚒 CAS (HS Chotěboř)\n🚒 automobilová plošina do 30 m (HS Chotěboř)
 END:VEVENT
 BEGIN:VEVENT
 UID:417107061
@@ -1192,7 +1182,19 @@ SUMMARY:🚑 otevření/asistence - Havlíčkův Brod
 LOCATION:Sídliště Pražská\, Havlíčkův Brod
 GEO:49.613991;15.574514
 URL:geo:49.613991,15.574514
-DESCRIPTION:📍 Sídliště Pražská\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Bro
- d)
+DESCRIPTION:📍 Sídliště Pražská\, Havlíčkův Brod\n💬 Otevření bytu.\n\n🚒 CAS 
+ (CHS Havlíčkův Brod)
+END:VEVENT
+BEGIN:VEVENT
+UID:417113061
+DTSTART:20260806T124844Z
+DTEND:20260806T134844Z
+DTSTAMP:20260806T124844Z
+SUMMARY:🛠️ strom - Nová Ves u Chotěboře
+LOCATION:Nová Ves u Chotěboře
+GEO:49.757885;15.642858
+URL:geo:49.757885,15.642858
+DESCRIPTION:📍 Nová Ves u Chotěboře\, Havlíčkův Brod\n\n🚒 CAS (HS Chotěboř)\
+ n🚒 automobilová plošina do 30 m (HS Chotěboř)
 END:VEVENT
 END:VCALENDAR
