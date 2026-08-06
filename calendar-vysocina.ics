@@ -147,11 +147,11 @@ SUMMARY:🔥 tráva/plocha - Osové
 LOCATION:Osové
 GEO:49.332173;16.009437
 URL:geo:49.332173,16.009437
-DESCRIPTION:📍 Osové\, Žďár nad Sázavou\n💬 Požár pole a stromů.\n\n🚒 CAS (HS
-  Velké Meziříčí)\n🚒 CAS (Rudíkov)\n🚒 DA (Velké Meziříčí)\n🚒 CAS (Velké Mez
- iříčí)\n🚒 CAS (Velké Meziříčí)\n🚒 CAS (Křižanov)\n🚒 DA (Budišov)\n🚒 CAS (B
- udišov)\n🚒 CAS (Měřín)\n🚒 DA (Oslavice)\n🚒 vyšetřovací automobil (ÚO Žďár 
- nad Sázavou)
+DESCRIPTION:📍 Osové\, Žďár nad Sázavou\n💬 Požár pole a stromů. Provedena lo
+ kalizace a likvidace požáru.\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 CAS (Rudíkov)
+ \n🚒 DA (Velké Meziříčí)\n🚒 CAS (Velké Meziříčí)\n🚒 CAS (Velké Meziříčí)\n🚒
+  CAS (Křižanov)\n🚒 DA (Budišov)\n🚒 CAS (Budišov)\n🚒 CAS (Měřín)\n🚒 DA (Osl
+ avice)\n🚒 vyšetřovací automobil (ÚO Žďár nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:416936061
@@ -1209,6 +1209,7 @@ SUMMARY:🛠️ strom - Čáslavsko
 LOCATION:Čáslavsko
 GEO:49.592730;14.993643
 URL:geo:49.592730,14.993643
-DESCRIPTION:📍 Čáslavsko\, Pelhřimov\n\n🚒 CAS (Lukavec)
+DESCRIPTION:📍 Čáslavsko\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 CAS (Lukavec
+ )
 END:VEVENT
 END:VCALENDAR
