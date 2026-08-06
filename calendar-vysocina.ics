@@ -780,7 +780,7 @@ GEO:49.769467;15.651028
 URL:geo:49.769467,15.651028
 DESCRIPTION:📍 Víska\, Havlíčkův Brod\n💬 Odstranění stromu.\n\n🚒 CAS (HS Cho
  těboř)\n🚒 automobilová plošina do 30 m (HS Chotěboř)\n🚒 pila řetězová (HS 
- Chotěboř)
+ Chotěboř) ×2
 END:VEVENT
 BEGIN:VEVENT
 UID:417064061
@@ -1081,7 +1081,7 @@ LOCATION:Těchobuz
 GEO:49.507963;14.949080
 URL:geo:49.507963,14.949080
 DESCRIPTION:📍 Těchobuz\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 CAS (HS Pacov
- )
+ )\n🚒 pila řetězová (HS Pacov)
 END:VEVENT
 BEGIN:VEVENT
 UID:417121061
@@ -1166,8 +1166,9 @@ SUMMARY:🔥 les - Častrov
 LOCATION:Častrov
 GEO:49.291542;15.218666
 URL:geo:49.291542,15.218666
-DESCRIPTION:📍 Ctiboř\, Častrov\, Pelhřimov\n\n🚒 CAS (HS Kamenice nad Lipou)
- \n🚒 CAS (HS Kamenice nad Lipou)\n🚒 CAS (Počátky) ×2
+DESCRIPTION:📍 Ctiboř\, Častrov\, Pelhřimov\n💬 Požár stromu po úderu blesku.
+  Provedena lokalizace a likvidace.\n\n🚒 CAS (HS Kamenice nad Lipou)\n🚒 CAS
+  (HS Kamenice nad Lipou)\n🚒 CAS (Počátky) ×2
 END:VEVENT
 BEGIN:VEVENT
 UID:417131061
@@ -1178,7 +1179,8 @@ SUMMARY:🛠️ strom - Rudíkov
 LOCATION:Rudíkov
 GEO:49.275072;15.941134
 URL:geo:49.275072,15.941134
-DESCRIPTION:📍 Rudíkov\, Třebíč\n\n🚒 DA (Rudíkov)\n🚒 CAS (Rudíkov)
+DESCRIPTION:📍 Rudíkov\, Třebíč\n💬 Odstranění stromu.\n\n🚒 DA (Rudíkov)\n🚒 C
+ AS (Rudíkov)
 END:VEVENT
 BEGIN:VEVENT
 UID:417132061
@@ -1187,10 +1189,11 @@ DTEND:20260806T152705Z
 DTSTAMP:20260806T142705Z
 SUMMARY:🔥 les - Budkov
 LOCATION:Budkov
-GEO:49.047759;15.699036
-URL:geo:49.047759,15.699036
+GEO:49.038683;15.706029
+URL:geo:49.038683,15.706029
 DESCRIPTION:📍 Budkov\, Třebíč\n\n🚒 CAS (HS Jemnice)\n🚒 CAS (HS Moravské Bud
- ějovice)\n🚒 CAS (HS Moravské Budějovice)\n🚒 DA (Budkov)\n🚒 CAS (Budkov)
+ ějovice)\n🚒 CAS (HS Moravské Budějovice)\n🚒 DA (Budkov)\n🚒 CAS (Budkov)\n🚒
+  vyšetřovací automobil (ÚO Třebíč)
 END:VEVENT
 BEGIN:VEVENT
 UID:417133061
