@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:416941061
-DTSTART:20260805T132555Z
-DTEND:20260805T142555Z
-DTSTAMP:20260805T132555Z
-SUMMARY:🚑 otevření/asistence - Moravské Budějovice
-LOCATION:Šafaříkova\, Moravské Budějovice
-GEO:49.052135;15.818045
-URL:geo:49.052135,15.818045
-DESCRIPTION:📍 Šafaříkova\, Moravské Budějovice\, Třebíč\n💬 Záchrana osob uv
- ízlých ve výtahu\, bez zranění.\n\n🚒 CAS (HS Moravské Budějovice)
-END:VEVENT
-BEGIN:VEVENT
 UID:416942061
 DTSTART:20260805T133122Z
 DTEND:20260805T143122Z
@@ -1200,6 +1188,18 @@ LOCATION:Žižkova\, Jihlava
 GEO:49.394740;15.576078
 URL:geo:49.394740,15.576078
 DESCRIPTION:📍 Žižkova\, Jihlava\n\n🚒 CAS (CHS Jihlava) ×2\n🚒 automobilový n
- osič kontejnerů (CHS Jihlava)
+ osič kontejnerů (CHS Jihlava)\n🚒 vyšetřovací automobil (ÚO Jihlava)
+END:VEVENT
+BEGIN:VEVENT
+UID:417091061
+DTSTART:20260806T091813Z
+DTEND:20260806T101813Z
+DTSTAMP:20260806T091813Z
+SUMMARY:🛠️ strom - Nová Ves u Chotěboře
+LOCATION:Nová Ves u Chotěboře
+GEO:49.758762;15.652188
+URL:geo:49.758762,15.652188
+DESCRIPTION:📍 Nová Ves u Chotěboře\, Havlíčkův Brod\n\n🚒 CAS (HS Chotěboř)\
+ n🚒 automobilová plošina do 30 m (HS Chotěboř)
 END:VEVENT
 END:VCALENDAR
