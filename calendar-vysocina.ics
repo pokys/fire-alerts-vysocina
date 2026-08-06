@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:416942061
-DTSTART:20260805T133122Z
-DTEND:20260805T143122Z
-DTSTAMP:20260805T133122Z
-SUMMARY:⚠️ planý poplach - Komárovice
-LOCATION:Komárovice
-GEO:49.065178;15.712016
-URL:geo:49.065178,15.712016
-DESCRIPTION:📍 Komárovice\, Třebíč\n💬 Planý poplach.\n\n🚒 CAS (HS Jemnice)\n
- 🚒 CAS (HS Moravské Budějovice)\n🚒 CAS (HS Moravské Budějovice)\n🚒 CAS (Bud
- kov)\n🚒 DA (Komárovice)\n🚒 přívěs motorová stříkačka (Komárovice)
-END:VEVENT
-BEGIN:VEVENT
 UID:416943061
 DTSTART:20260805T134241Z
 DTEND:20260805T144241Z
@@ -1153,7 +1140,7 @@ LOCATION:Brněnská\, Jihlava
 GEO:49.395334;15.598479
 URL:geo:49.395334,15.598479
 DESCRIPTION:📍 Brněnská\, Jihlava\n💬 Odstranění stromu.\n\n🚒 CAS (CHS Jihlav
- a)\n🚒 AŽ (CHS Jihlava)
+ a)\n🚒 AŽ (CHS Jihlava)\n🚒 pila řetězová (CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:417073061
@@ -1202,5 +1189,17 @@ GEO:49.758762;15.652188
 URL:geo:49.758762,15.652188
 DESCRIPTION:📍 Nová Ves u Chotěboře\, Havlíčkův Brod\n\n🚒 CAS (HS Chotěboř)\
  n🚒 automobilová plošina do 30 m (HS Chotěboř)
+END:VEVENT
+BEGIN:VEVENT
+UID:417095061
+DTSTART:20260806T095847Z
+DTEND:20260806T105847Z
+DTSTAMP:20260806T095847Z
+SUMMARY:🛠️ strom - Nová Ves u Chotěboře
+LOCATION:Nová Ves u Chotěboře
+GEO:49.756105;15.647986
+URL:geo:49.756105,15.647986
+DESCRIPTION:📍 Nová Ves u Chotěboře\, Havlíčkův Brod\n\n🚒 DA (Nová Ves u Cho
+ těboře)
 END:VEVENT
 END:VCALENDAR
