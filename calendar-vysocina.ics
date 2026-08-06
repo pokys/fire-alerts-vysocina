@@ -1141,9 +1141,9 @@ DTEND:20260806T072552Z
 DTSTAMP:20260806T062552Z
 SUMMARY:🛠️ strom - Jihlava
 LOCATION:Jihlava
-GEO:49.417012;15.560903
-URL:geo:49.417012,15.560903
-DESCRIPTION:📍 Staré Hory\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+GEO:49.413830;15.553376
+URL:geo:49.413830,15.553376
+DESCRIPTION:🚒 CAS (CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:417067061
@@ -1165,7 +1165,8 @@ SUMMARY:🛠️ ostatní - Podmoky
 LOCATION:Podmoky
 GEO:49.830714;15.456599
 URL:geo:49.830714,15.456599
-DESCRIPTION:📍 Podmoky\, Havlíčkův Brod\n\n🚒 CAS (HS Ledeč nad Sázavou)
+DESCRIPTION:📍 Podmoky\, Havlíčkův Brod\n💬 Technická pomoc.\n\n🚒 CAS (HS Led
+ eč nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:417071061
@@ -1187,7 +1188,8 @@ SUMMARY:🛠️ strom - Chlumětín
 LOCATION:Chlumětín
 GEO:49.723088;15.978853
 URL:geo:49.723088,15.978853
-DESCRIPTION:📍 Chlumětín\, Žďár nad Sázavou\n\n🚒 DA (Chlumětín)
+DESCRIPTION:📍 Chlumětín\, Žďár nad Sázavou\n💬 Odstranění stromu.\n\n🚒 DA (C
+ hlumětín)
 END:VEVENT
 BEGIN:VEVENT
 UID:417080061
