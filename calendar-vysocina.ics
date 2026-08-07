@@ -5,42 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:417017061
-DTSTART:20260805T173744Z
-DTEND:20260805T183744Z
-DTSTAMP:20260805T173744Z
-SUMMARY:🛠️ strom - Písečné
-LOCATION:Písečné
-GEO:49.575595;16.233286
-URL:geo:49.575595,16.233286
-DESCRIPTION:📍 Písečné\, Žďár nad Sázavou\n💬 Odstranění stromu.\n\n🚒 DA (Dal
- ečín)\n🚒 pila řetězová (Dalečín)
-END:VEVENT
-BEGIN:VEVENT
-UID:417018061
-DTSTART:20260805T173905Z
-DTEND:20260805T183905Z
-DTSTAMP:20260805T173905Z
-SUMMARY:🛠️ strom - Uhelná Příbram
-LOCATION:Uhelná Příbram
-GEO:49.775516;15.617772
-URL:geo:49.775516,15.617772
-DESCRIPTION:📍 Pukšice\, Uhelná Příbram\, Havlíčkův Brod\n💬 Odstranění strom
- u.\n\n🚒 CAS (Uhelná Příbram)
-END:VEVENT
-BEGIN:VEVENT
-UID:417019061
-DTSTART:20260805T173907Z
-DTEND:20260805T183907Z
-DTSTAMP:20260805T173907Z
-SUMMARY:🛠️ strom - Jeřišno
-LOCATION:Jeřišno
-GEO:49.799214;15.631434
-URL:geo:49.799214,15.631434
-DESCRIPTION:📍 Chuchel\, Jeřišno\, Havlíčkův Brod\n💬 Odstranění stromu.\n\n🚒
-  CAS (HS Chotěboř)\n🚒 pila řetězová (HS Chotěboř)
-END:VEVENT
-BEGIN:VEVENT
 UID:417020061
 DTSTART:20260805T174440Z
 DTEND:20260805T184440Z
@@ -1115,8 +1079,8 @@ SUMMARY:🚗 úklid místa - Třebíč
 LOCATION:Bráfova tř.\, Třebíč
 GEO:49.213742;15.880666
 URL:geo:49.213742,15.880666
-DESCRIPTION:📍 Bráfova tř.\, Horka-Domky\, Třebíč\n💬 DN 2 OA bez zranění\, p
- rotipožární opatření a úklid vozovky.\n\n🚒 CAS (CHS Třebíč)
+DESCRIPTION:📍 Bráfova tř.\, Horka-Domky\, Třebíč\n💬 DN 2 x OA bez zranění. 
+ Úklid vozovky a zajištění místa události.\n\n🚒 CAS (CHS Třebíč)
 END:VEVENT
 BEGIN:VEVENT
 UID:417192061
@@ -1127,8 +1091,9 @@ SUMMARY:🚗 dopravní nehoda - Jihlava
 LOCATION:Jihlava
 GEO:49.407573;15.605567
 URL:geo:49.407573,15.605567
-DESCRIPTION:📍 Hruškové Dvory\, Jihlava\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS J
- ihlava)
+DESCRIPTION:📍 Hruškové Dvory\, Jihlava\n💬 DN OA mimo vozovku. Jedna zraněá 
+ osoba vyproštěna pomocí specikálního nářadí. Zajištění místa události.\n\n
+ 🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:417193061
@@ -1152,7 +1117,8 @@ LOCATION:Víska
 GEO:49.770312;15.652562
 URL:geo:49.770312,15.652562
 DESCRIPTION:📍 Víska\, Havlíčkův Brod\n💬 Odstranění stromu.\n\n🚒 CAS (HS Cho
- těboř)\n🚒 automobilová plošina do 30 m (HS Chotěboř)
+ těboř)\n🚒 automobilová plošina do 30 m (HS Chotěboř)\n🚒 pila řetězová (HS 
+ Chotěboř)
 END:VEVENT
 BEGIN:VEVENT
 UID:417196061
@@ -1213,5 +1179,39 @@ GEO:49.751797;15.642262
 URL:geo:49.751797,15.642262
 DESCRIPTION:📍 Nová Ves u Chotěboře\, Havlíčkův Brod\n💬 Odstranění stromu.\n
  \n🚒 CAS (HS Chotěboř)\n🚒 automobilová plošina do 30 m (HS Chotěboř)
+END:VEVENT
+BEGIN:VEVENT
+UID:417202061
+DTSTART:20260807T141844Z
+DTEND:20260807T151844Z
+DTSTAMP:20260807T141844Z
+SUMMARY:🚗 úklid místa - Havlíčkův Brod
+LOCATION:Nerudova\, Havlíčkův Brod
+GEO:49.608830;15.569977
+URL:geo:49.608830,15.569977
+DESCRIPTION:📍 Nerudova\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)
+END:VEVENT
+BEGIN:VEVENT
+UID:417205061
+DTSTART:20260807T142631Z
+DTEND:20260807T152631Z
+DTSTAMP:20260807T142631Z
+SUMMARY:🛠️ monitoring - Jezdovice
+LOCATION:Jezdovice
+GEO:49.319985;15.478656
+URL:geo:49.319985,15.478656
+DESCRIPTION:📍 Jezdovice\, Jihlava\n\n🚒 CAS (HS Třešť)
+END:VEVENT
+BEGIN:VEVENT
+UID:417206061
+DTSTART:20260807T142643Z
+DTEND:20260807T152643Z
+DTSTAMP:20260807T142643Z
+SUMMARY:🛠️ obtížný hmyz - Ujčov
+LOCATION:Ujčov
+GEO:49.472420;16.315628
+URL:geo:49.472420,16.315628
+DESCRIPTION:📍 Kovářová\, Ujčov\, Žďár nad Sázavou\n\n🚒 CAS (Bystřice nad Pe
+ rnštejnem)
 END:VEVENT
 END:VCALENDAR
