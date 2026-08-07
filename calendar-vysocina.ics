@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:416992061
-DTSTART:20260805T163228Z
-DTEND:20260805T173228Z
-DTSTAMP:20260805T163228Z
-SUMMARY:🛠️ strom - Kožichovice
-LOCATION:Žďárského\, Kožichovice
-GEO:49.208877;15.911406
-URL:geo:49.208877,15.911406
-DESCRIPTION:📍 Žďárského\, Kožichovice\, Třebíč\n💬 Odstranění stromu.\n\n🚒 C
- AS (CHS Třebíč)\n🚒 pila řetězová (CHS Třebíč)
-END:VEVENT
-BEGIN:VEVENT
 UID:416993061
 DTSTART:20260805T163749Z
 DTEND:20260805T173749Z
@@ -1211,5 +1199,16 @@ DESCRIPTION:📍 K Novému nádraží\, Velké Meziříčí\, Žďár nad Sázav
   ohlášený systémem elektrické požární signalizace. Průzkumem bylo zjištěno
  \, že se jedná o planý poplach.\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (HS Ve
  lké Meziříčí)
+END:VEVENT
+BEGIN:VEVENT
+UID:417164061
+DTSTART:20260807T052134Z
+DTEND:20260807T062134Z
+DTSTAMP:20260807T052134Z
+SUMMARY:☣️ olej/PHM - Počítky
+LOCATION:Počítky
+GEO:49.588458;15.975892
+URL:geo:49.588458,15.975892
+DESCRIPTION:📍 Počítky\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad Sázavou)
 END:VEVENT
 END:VCALENDAR
