@@ -1163,8 +1163,9 @@ SUMMARY:🚗 úklid místa - Třebíč
 LOCATION:Třebíč
 GEO:49.212626;15.834329
 URL:geo:49.212626,15.834329
-DESCRIPTION:📍 Řípov\, Třebíč\n💬 DN 2 OA s únikem provozních kapalin.\n\n🚒 C
- AS (CHS Třebíč)
+DESCRIPTION:📍 Řípov\, Třebíč\n💬 DN 2 OA se 2 zraněnými osobami s únikem pro
+ vozních kapalin. Protipožární opatření a úklid vozovky.\n\n🚒 CAS (CHS Třeb
+ íč)
 END:VEVENT
 BEGIN:VEVENT
 UID:417211061
@@ -1186,7 +1187,8 @@ SUMMARY:🚑 spolupráce ZZS - Třešť
 LOCATION:Fialková\, Třešť
 GEO:49.291068;15.479716
 URL:geo:49.291068,15.479716
-DESCRIPTION:📍 Fialková\, Třešť\, Jihlava\n\n🚒 CAS (HS Třešť)
+DESCRIPTION:📍 Fialková\, Třešť\, Jihlava\n💬 Pomoc ZZS s transportem pacient
+ a.\n\n🚒 CAS (HS Třešť)
 END:VEVENT
 BEGIN:VEVENT
 UID:417213061
@@ -1198,6 +1200,7 @@ LOCATION:Nová Cerekev
 GEO:49.441076;15.146717
 URL:geo:49.441076,15.146717
 DESCRIPTION:📍 Stanovice\, Nová Cerekev\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)
+ \n🚒 vyšetřovací automobil (ÚO Pelhřimov)
 END:VEVENT
 BEGIN:VEVENT
 UID:417214061
@@ -1206,8 +1209,9 @@ DTEND:20260807T171130Z
 DTSTAMP:20260807T161130Z
 SUMMARY:🛠️ obtížný hmyz - Jemnice
 LOCATION:Znojemská\, Jemnice
-GEO:49.015198;15.578750
-URL:geo:49.015198,15.578750
-DESCRIPTION:📍 Znojemská\, Jemnice\, Třebíč\n\n🚒 CAS (HS Jemnice)
+GEO:49.015199;15.580568
+URL:geo:49.015199,15.580568
+DESCRIPTION:📍 Znojemská\, Jemnice\, Třebíč\n💬 Odstranění obtížného hmyzu.\n
+ \n🚒 CAS (HS Jemnice)
 END:VEVENT
 END:VCALENDAR
