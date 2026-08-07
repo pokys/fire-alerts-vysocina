@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:417016061
-DTSTART:20260805T173514Z
-DTEND:20260805T183514Z
-DTSTAMP:20260805T173514Z
-SUMMARY:🛠️ strom - Herálec
-LOCATION:Herálec
-GEO:49.681920;15.996628
-URL:geo:49.681920,15.996628
-DESCRIPTION:📍 Herálec\, Žďár nad Sázavou\n💬 Odstranění stromu.\n\n🚒 CAS (Sv
- ratka)
-END:VEVENT
-BEGIN:VEVENT
 UID:417017061
 DTSTART:20260805T173744Z
 DTEND:20260805T183744Z
@@ -1163,8 +1151,8 @@ SUMMARY:🛠️ strom - Víska
 LOCATION:Víska
 GEO:49.770312;15.652562
 URL:geo:49.770312,15.652562
-DESCRIPTION:📍 Víska\, Havlíčkův Brod\n\n🚒 CAS (HS Chotěboř)\n🚒 automobilová
-  plošina do 30 m (HS Chotěboř)
+DESCRIPTION:📍 Víska\, Havlíčkův Brod\n💬 Odstranění stromu.\n\n🚒 CAS (HS Cho
+ těboř)\n🚒 automobilová plošina do 30 m (HS Chotěboř)
 END:VEVENT
 BEGIN:VEVENT
 UID:417196061
@@ -1195,12 +1183,12 @@ UID:417199061
 DTSTART:20260807T125805Z
 DTEND:20260807T135805Z
 DTSTAMP:20260807T125805Z
-SUMMARY:🚑 otevření/asistence - Věstín
+SUMMARY:⚠️ planý poplach - Věstín
 LOCATION:Věstín
 GEO:49.566514;16.338150
 URL:geo:49.566514,16.338150
-DESCRIPTION:📍 Věstín\, Žďár nad Sázavou\n\n🚒 CAS (HS Bystřice nad Pernštejn
- em)
+DESCRIPTION:📍 Věstín\, Žďár nad Sázavou\n💬 Planý poplach.\n\n🚒 CAS (HS Byst
+ řice nad Pernštejnem)
 END:VEVENT
 BEGIN:VEVENT
 UID:417200061
@@ -1212,5 +1200,17 @@ LOCATION:Olešná
 GEO:49.446729;15.261832
 URL:geo:49.446729,15.261832
 DESCRIPTION:📍 Olešná\, Pelhřimov\n\n🚒 vyšetřovací automobil (ÚO Pelhřimov)
+END:VEVENT
+BEGIN:VEVENT
+UID:417201061
+DTSTART:20260807T131908Z
+DTEND:20260807T141908Z
+DTSTAMP:20260807T131908Z
+SUMMARY:🛠️ strom - Nová Ves u Chotěboře
+LOCATION:Nová Ves u Chotěboře
+GEO:49.751797;15.642262
+URL:geo:49.751797,15.642262
+DESCRIPTION:📍 Nová Ves u Chotěboře\, Havlíčkův Brod\n\n🚒 CAS (HS Chotěboř)\
+ n🚒 automobilová plošina do 30 m (HS Chotěboř)
 END:VEVENT
 END:VCALENDAR
