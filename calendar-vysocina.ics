@@ -1128,8 +1128,8 @@ SUMMARY:🚗 úklid místa - Havlíčkův Brod
 LOCATION:Nerudova\, Havlíčkův Brod
 GEO:49.608830;15.569977
 URL:geo:49.608830,15.569977
-DESCRIPTION:📍 Nerudova\, Havlíčkův Brod\n💬 DN 2 OA\, 1 zraněná osoba.\n\n🚒 
- CAS (CHS Havlíčkův Brod)
+DESCRIPTION:📍 Nerudova\, Havlíčkův Brod\n💬 DN 2 x OA\, jedna zraněná osoba.
+  Zajištění místa události.\n\n🚒 CAS (CHS Havlíčkův Brod)
 END:VEVENT
 BEGIN:VEVENT
 UID:417205061
@@ -1140,7 +1140,8 @@ SUMMARY:⚠️ planý poplach - Jezdovice
 LOCATION:Jezdovice
 GEO:49.319985;15.478656
 URL:geo:49.319985,15.478656
-DESCRIPTION:📍 Jezdovice\, Jihlava\n\n🚒 CAS (HS Třešť)
+DESCRIPTION:📍 Jezdovice\, Jihlava\n💬 Ohlášen kouř z lesa. Průzkumem zjištěn
+ o\, žese jedná o pálení -  planý poplach.\n\n🚒 CAS (HS Třešť)
 END:VEVENT
 BEGIN:VEVENT
 UID:417206061
@@ -1163,9 +1164,9 @@ SUMMARY:🚗 úklid místa - Třebíč
 LOCATION:Třebíč
 GEO:49.212626;15.834329
 URL:geo:49.212626,15.834329
-DESCRIPTION:📍 Řípov\, Třebíč\n💬 DN 2 OA se 2 zraněnými osobami s únikem pro
- vozních kapalin. Protipožární opatření a úklid vozovky.\n\n🚒 CAS (CHS Třeb
- íč)
+DESCRIPTION:📍 Řípov\, Třebíč\n💬 DN 2 x OA\, dvě zraněné osoby. Likvidace ún
+ iku provozních kapali\, úklid vozovky a zajištění místa události.\n\n🚒 CAS
+  (CHS Třebíč)
 END:VEVENT
 BEGIN:VEVENT
 UID:417211061
@@ -1176,7 +1177,8 @@ SUMMARY:🛠️ obtížný hmyz - Pavlov
 LOCATION:Pavlov
 GEO:49.695526;15.343999
 URL:geo:49.695526,15.343999
-DESCRIPTION:📍 Pavlov\, Havlíčkův Brod\n\n🚒 CAS (HS Ledeč nad Sázavou)
+DESCRIPTION:📍 Pavlov\, Havlíčkův Brod\n💬 Odstranění obtížného hmyzu.\n\n🚒 C
+ AS (HS Ledeč nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:417212061
@@ -1199,8 +1201,8 @@ SUMMARY:🔥 vozidlo - Nová Cerekev
 LOCATION:Nová Cerekev
 GEO:49.441076;15.146717
 URL:geo:49.441076,15.146717
-DESCRIPTION:📍 Stanovice\, Nová Cerekev\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)
- \n🚒 vyšetřovací automobil (ÚO Pelhřimov)
+DESCRIPTION:📍 Stanovice\, Nová Cerekev\, Pelhřimov\n💬 Požár OA.\n\n🚒 CAS (C
+ HS Pelhřimov)\n🚒 vyšetřovací automobil (ÚO Pelhřimov)
 END:VEVENT
 BEGIN:VEVENT
 UID:417214061
