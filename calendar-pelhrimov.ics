@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Pelhřimov
 BEGIN:VEVENT
-UID:416944061
-DTSTART:20260805T135319Z
-DTEND:20260805T145319Z
-DTSTAMP:20260805T135319Z
-SUMMARY:🚗 dopravní nehoda - Vyskytná
-LOCATION:Vyskytná
-GEO:49.422812;15.367572
-URL:geo:49.422812,15.367572
-DESCRIPTION:📍 Vyskytná\, Pelhřimov\n💬 DN motorkáře\, se zraněním jedné osob
- y. Zajištění místa nehody.\n\n🚒 CAS (CHS Pelhřimov)
-END:VEVENT
-BEGIN:VEVENT
 UID:416947061
 DTSTART:20260805T141345Z
 DTEND:20260805T151345Z
@@ -160,6 +148,7 @@ SUMMARY:🔥 budova - Olešná
 LOCATION:Olešná
 GEO:49.446729;15.261832
 URL:geo:49.446729,15.261832
-DESCRIPTION:📍 Olešná\, Pelhřimov\n\n🚒 vyšetřovací automobil (ÚO Pelhřimov)
+DESCRIPTION:📍 Olešná\, Pelhřimov\n💬 Požár sporáku.\n\n🚒 vyšetřovací automob
+ il (ÚO Pelhřimov)
 END:VEVENT
 END:VCALENDAR

@@ -1199,7 +1199,8 @@ SUMMARY:🔥 budova - Olešná
 LOCATION:Olešná
 GEO:49.446729;15.261832
 URL:geo:49.446729,15.261832
-DESCRIPTION:📍 Olešná\, Pelhřimov\n\n🚒 vyšetřovací automobil (ÚO Pelhřimov)
+DESCRIPTION:📍 Olešná\, Pelhřimov\n💬 Požár sporáku.\n\n🚒 vyšetřovací automob
+ il (ÚO Pelhřimov)
 END:VEVENT
 BEGIN:VEVENT
 UID:417201061
@@ -1210,7 +1211,7 @@ SUMMARY:🛠️ strom - Nová Ves u Chotěboře
 LOCATION:Nová Ves u Chotěboře
 GEO:49.751797;15.642262
 URL:geo:49.751797,15.642262
-DESCRIPTION:📍 Nová Ves u Chotěboře\, Havlíčkův Brod\n\n🚒 CAS (HS Chotěboř)\
- n🚒 automobilová plošina do 30 m (HS Chotěboř)
+DESCRIPTION:📍 Nová Ves u Chotěboře\, Havlíčkův Brod\n💬 Odstranění stromu.\n
+ \n🚒 CAS (HS Chotěboř)\n🚒 automobilová plošina do 30 m (HS Chotěboř)
 END:VEVENT
 END:VCALENDAR
