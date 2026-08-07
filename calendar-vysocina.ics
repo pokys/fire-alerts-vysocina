@@ -5,30 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:417007061
-DTSTART:20260805T170314Z
-DTEND:20260805T180314Z
-DTSTAMP:20260805T170314Z
-SUMMARY:🛠️ odstranění překážky - Polnička
-LOCATION:Polnička
-GEO:49.605866;15.912546
-URL:geo:49.605866,15.912546
-DESCRIPTION:📍 Polnička\, Žďár nad Sázavou\n💬 Pročištění kanalizace.\n\n🚒 CA
- S (Polnička)
-END:VEVENT
-BEGIN:VEVENT
-UID:417008061
-DTSTART:20260805T170707Z
-DTEND:20260805T180707Z
-DTSTAMP:20260805T170707Z
-SUMMARY:🛠️ strom - Jeřišno
-LOCATION:Jeřišno
-GEO:49.782574;15.628408
-URL:geo:49.782574,15.628408
-DESCRIPTION:📍 Vestecká Lhotka\, Jeřišno\, Havlíčkův Brod\n💬 Odstranění stro
- mu.\n\n🚒 CAS (HS Chotěboř)\n🚒 pila řetězová (HS Chotěboř)
-END:VEVENT
-BEGIN:VEVENT
 UID:417009061
 DTSTART:20260805T171311Z
 DTEND:20260805T181311Z
@@ -1114,8 +1090,8 @@ SUMMARY:🚗 úklid místa - Veselý Žďár
 LOCATION:Veselý Žďár
 GEO:49.647392;15.512991
 URL:geo:49.647392,15.512991
-DESCRIPTION:📍 Veselý Žďár\, Havlíčkův Brod\n💬 DN 2 OA\, 1 zraněná osoba.\n\
- n🚒 CAS (CHS Havlíčkův Brod)
+DESCRIPTION:📍 Veselý Žďár\, Havlíčkův Brod\n💬 DN 2 x OA\, jedna zraněná oso
+ ba. Zajištění místa události.\n\n🚒 CAS (CHS Havlíčkův Brod)
 END:VEVENT
 BEGIN:VEVENT
 UID:417177061
@@ -1126,7 +1102,8 @@ SUMMARY:🛠️ obtížný hmyz - Telč
 LOCATION:Mlýnská\, Telč
 GEO:49.181171;15.454922
 URL:geo:49.181171,15.454922
-DESCRIPTION:📍 Mlýnská\, Telč-Podolí\, Telč\, Jihlava\n\n🚒 CAS (HS Telč)
+DESCRIPTION:📍 Mlýnská\, Telč-Podolí\, Telč\, Jihlava\n💬 Likvidace nebezpečn
+ ého hmyzu.\n\n🚒 CAS (HS Telč)
 END:VEVENT
 BEGIN:VEVENT
 UID:417178061
@@ -1137,8 +1114,8 @@ SUMMARY:🛠️ ostatní - Třebíč
 LOCATION:Kubišova\, Třebíč
 GEO:49.206386;15.887891
 URL:geo:49.206386,15.887891
-DESCRIPTION:📍 Kubišova\, Horka-Domky\, Třebíč\n💬 Kontrola zakouření ze zásu
- vky.\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (CHS Třebíč)
+DESCRIPTION:📍 Kubišova\, Horka-Domky\, Třebíč\n💬 Ohlášen požár zásuvky\, pr
+ ůzkumem nepotvrzeno.\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (CHS Třebíč)
 END:VEVENT
 BEGIN:VEVENT
 UID:417179061
@@ -1184,7 +1161,8 @@ SUMMARY:🚑 otevření/asistence - Havlíčkův Brod
 LOCATION:U Topíren\, Havlíčkův Brod
 GEO:49.600076;15.589475
 URL:geo:49.600076,15.589475
-DESCRIPTION:📍 U Topíren\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)
+DESCRIPTION:📍 U Topíren\, Havlíčkův Brod\n💬 Otevření dveří.\n\n🚒 CAS (CHS H
+ avlíčkův Brod)
 END:VEVENT
 BEGIN:VEVENT
 UID:417184061
@@ -1195,8 +1173,9 @@ SUMMARY:🚗 dopravní nehoda - Měřín
 LOCATION:Náměstí\, Měřín
 GEO:49.394349;15.881539
 URL:geo:49.394349,15.881539
-DESCRIPTION:📍 Náměstí\, Měřín\, Žďár nad Sázavou\n💬 DN 2 OA s 1 zraněnou os
- obou.\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)
+DESCRIPTION:📍 Náměstí\, Měřín\, Žďár nad Sázavou\n💬 DN 2 x OA\, jedna zraně
+ ná osoba. Zajištění místa události.\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (H
+ S Velké Meziříčí)
 END:VEVENT
 BEGIN:VEVENT
 UID:417187061
@@ -1208,5 +1187,28 @@ LOCATION:Dolní Sokolovec
 GEO:49.723660;15.718668
 URL:geo:49.723660,15.718668
 DESCRIPTION:📍 Dolní Sokolovec\, Havlíčkův Brod\n\n🚒 CAS (HS Chotěboř)
+END:VEVENT
+BEGIN:VEVENT
+UID:417188061
+DTSTART:20260807T095531Z
+DTEND:20260807T105531Z
+DTSTAMP:20260807T095531Z
+SUMMARY:🛠️ obtížný hmyz - Velká Bíteš
+LOCATION:Masarykovo náměstí\, Velká Bíteš
+GEO:49.288545;16.225727
+URL:geo:49.288545,16.225727
+DESCRIPTION:📍 Masarykovo náměstí\, Velká Bíteš\, Žďár nad Sázavou\n\n🚒 CAS 
+ (HS Velká Bíteš)
+END:VEVENT
+BEGIN:VEVENT
+UID:417189061
+DTSTART:20260807T100848Z
+DTEND:20260807T110848Z
+DTSTAMP:20260807T100848Z
+SUMMARY:🚗 úklid místa - Třebíč
+LOCATION:Bráfova tř.\, Třebíč
+GEO:49.213742;15.880666
+URL:geo:49.213742,15.880666
+DESCRIPTION:📍 Bráfova tř.\, Horka-Domky\, Třebíč\n\n🚒 CAS (CHS Třebíč)
 END:VEVENT
 END:VCALENDAR
