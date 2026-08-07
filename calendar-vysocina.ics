@@ -1129,8 +1129,8 @@ SUMMARY:🛠️ ostatní - Křoví
 LOCATION:Křoví
 GEO:49.306944;16.261501
 URL:geo:49.306944,16.261501
-DESCRIPTION:📍 Křoví\, Žďár nad Sázavou\n\n🚒 CAS (HS Velká Bíteš)\n🚒 DA (Křo
- ví)\n🚒 CAS (Křoví)
+DESCRIPTION:📍 Křoví\, Žďár nad Sázavou\n💬 Zajištění krav uteklých z ohradní
+ ku.\n\n🚒 CAS (HS Velká Bíteš)\n🚒 DA (Křoví)\n🚒 CAS (Křoví)
 END:VEVENT
 BEGIN:VEVENT
 UID:417198061
@@ -1196,7 +1196,7 @@ UID:417205061
 DTSTART:20260807T142631Z
 DTEND:20260807T152631Z
 DTSTAMP:20260807T142631Z
-SUMMARY:🛠️ monitoring - Jezdovice
+SUMMARY:⚠️ planý poplach - Jezdovice
 LOCATION:Jezdovice
 GEO:49.319985;15.478656
 URL:geo:49.319985,15.478656
