@@ -1186,7 +1186,8 @@ SUMMARY:☣️ olej/PHM - Dolní Sokolovec
 LOCATION:Dolní Sokolovec
 GEO:49.723660;15.718668
 URL:geo:49.723660,15.718668
-DESCRIPTION:📍 Dolní Sokolovec\, Havlíčkův Brod\n\n🚒 CAS (HS Chotěboř)
+DESCRIPTION:📍 Dolní Sokolovec\, Havlíčkův Brod\n💬 Likvidace olejové skvrny.
+ \n\n🚒 CAS (HS Chotěboř)
 END:VEVENT
 BEGIN:VEVENT
 UID:417188061
@@ -1197,8 +1198,8 @@ SUMMARY:🛠️ obtížný hmyz - Velká Bíteš
 LOCATION:Masarykovo náměstí\, Velká Bíteš
 GEO:49.288545;16.225727
 URL:geo:49.288545,16.225727
-DESCRIPTION:📍 Masarykovo náměstí\, Velká Bíteš\, Žďár nad Sázavou\n\n🚒 CAS 
- (HS Velká Bíteš)
+DESCRIPTION:📍 Masarykovo náměstí\, Velká Bíteš\, Žďár nad Sázavou\n💬 Odstra
+ nění obtížného hmyzu.\n\n🚒 CAS (HS Velká Bíteš)
 END:VEVENT
 BEGIN:VEVENT
 UID:417189061
@@ -1209,6 +1210,7 @@ SUMMARY:🚗 úklid místa - Třebíč
 LOCATION:Bráfova tř.\, Třebíč
 GEO:49.213742;15.880666
 URL:geo:49.213742,15.880666
-DESCRIPTION:📍 Bráfova tř.\, Horka-Domky\, Třebíč\n\n🚒 CAS (CHS Třebíč)
+DESCRIPTION:📍 Bráfova tř.\, Horka-Domky\, Třebíč\n💬 DN 2 OA bez zranění\, p
+ rotipožární opatření a úklid vozovky.\n\n🚒 CAS (CHS Třebíč)
 END:VEVENT
 END:VCALENDAR
