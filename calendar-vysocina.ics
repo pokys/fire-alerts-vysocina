@@ -1049,11 +1049,23 @@ UID:417248061
 DTSTART:20260808T084820Z
 DTEND:20260808T094820Z
 DTSTAMP:20260808T084820Z
-SUMMARY:🚗 dopravní nehoda - Počátky
+SUMMARY:⚠️ planý poplach - Počátky
 LOCATION:Počátky
 GEO:49.275329;15.262840
 URL:geo:49.275329,15.262840
-DESCRIPTION:📍 Heřmaneč\, Počátky\, Pelhřimov\n\n🚒 CAS (HS Kamenice nad Lipo
- u)\n🚒 CAS (Počátky)
+DESCRIPTION:📍 Heřmaneč\, Počátky\, Pelhřimov\n💬 Planý poplach.\n\n🚒 CAS (HS
+  Kamenice nad Lipou)\n🚒 CAS (Počátky)
+END:VEVENT
+BEGIN:VEVENT
+UID:417249061
+DTSTART:20260808T091105Z
+DTEND:20260808T101105Z
+DTSTAMP:20260808T091105Z
+SUMMARY:🔥 budova - Jemnice
+LOCATION:Tyršova\, Jemnice
+GEO:49.017329;15.576854
+URL:geo:49.017329,15.576854
+DESCRIPTION:📍 Tyršova\, Jemnice\, Třebíč\n\n🚒 CAS (HS Jemnice)\n🚒 CAS (Jemn
+ ice)
 END:VEVENT
 END:VCALENDAR
