@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:417085061
-DTSTART:20260806T083559Z
-DTEND:20260806T093559Z
-DTSTAMP:20260806T083559Z
-SUMMARY:🔥 trafostanice - Jihlava
-LOCATION:Žižkova\, Jihlava
-GEO:49.394740;15.576078
-URL:geo:49.394740,15.576078
-DESCRIPTION:📍 Žižkova\, Jihlava\n💬 Požár kabelu v trafostanici.\n\n🚒 CAS (C
- HS Jihlava) ×2\n🚒 automobilový nosič kontejnerů (CHS Jihlava)\n🚒 přetlakov
- ý ventilátor (CHS Jihlava)\n🚒 vyšetřovací automobil (ÚO Jihlava)
-END:VEVENT
-BEGIN:VEVENT
 UID:417091061
 DTSTART:20260806T091813Z
 DTEND:20260806T101813Z
