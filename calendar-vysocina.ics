@@ -5,30 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:417108061
-DTSTART:20260806T120635Z
-DTEND:20260806T130635Z
-DTSTAMP:20260806T120635Z
-SUMMARY:🛠️ ostatní - Koněšín
-LOCATION:Koněšín
-GEO:49.192804;16.008125
-URL:geo:49.192804,16.008125
-DESCRIPTION:📍 Koněšín\, Třebíč\n💬 Odstranění nebezpečných stavů.\n\n🚒 VEA (
- CHS Třebíč)\n🚒 loď se zabudovaným motorem (VZS Dalešice)
-END:VEVENT
-BEGIN:VEVENT
-UID:417110061
-DTSTART:20260806T120958Z
-DTEND:20260806T130958Z
-DTSTAMP:20260806T120958Z
-SUMMARY:🚑 otevření/asistence - Havlíčkův Brod
-LOCATION:Sídliště Pražská\, Havlíčkův Brod
-GEO:49.613991;15.574514
-URL:geo:49.613991,15.574514
-DESCRIPTION:📍 Sídliště Pražská\, Havlíčkův Brod\n💬 Otevření bytu.\n\n🚒 CAS 
- (CHS Havlíčkův Brod)
-END:VEVENT
-BEGIN:VEVENT
 UID:417113061
 DTSTART:20260806T124844Z
 DTEND:20260806T134844Z
@@ -958,8 +934,8 @@ SUMMARY:🛠️ spolupráce IZS - Nové Město na Moravě
 LOCATION:Žďárská\, Nové Město na Moravě
 GEO:49.560986;16.071230
 URL:geo:49.560986,16.071230
-DESCRIPTION:📍 Žďárská\, Nové Město na Moravě\, Žďár nad Sázavou\n\n🚒 CAS (C
- HS Žďár nad Sázavou)
+DESCRIPTION:📍 Žďárská\, Nové Město na Moravě\, Žďár nad Sázavou\n💬 Spoluprá
+ ce s PČR.\n\n🚒 CAS (CHS Žďár nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:417253061
@@ -970,8 +946,8 @@ SUMMARY:🚑 spolupráce ZZS - Bohdalov
 LOCATION:Bohdalov
 GEO:49.456433;15.856437
 URL:geo:49.456433,15.856437
-DESCRIPTION:📍 Chroustov\, Bohdalov\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár na
- d Sázavou)\n🚒 CAS (Bohdalov)
+DESCRIPTION:📍 Chroustov\, Bohdalov\, Žďár nad Sázavou\n💬 Pomoc ZZS s resusc
+ itací.\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (Bohdalov)
 END:VEVENT
 BEGIN:VEVENT
 UID:417254061
@@ -984,8 +960,9 @@ GEO:49.038464;15.717352
 URL:geo:49.038464,15.717352
 DESCRIPTION:📍 Rácovice\, Třebíč\n\n🚒 CAS (HS Moravské Budějovice)\n🚒 CAS (H
  S Moravské Budějovice)\n🚒 přívěs motorová stříkačka (Rácovice)\n🚒 CAS (Tře
- belovice)\n🚒 CAS (HS Jemnice)\n🚒 CAS (Moravské Budějovice)\n🚒 vyšetřovací 
- automobil (ÚO Třebíč)\n🚒 CAS (Budkov)
+ belovice)\n🚒 CAS (HS Jemnice)\n🚒 CAS (HS Jemnice)\n🚒 DA (Moravské Budějovi
+ ce)\n🚒 CAS (Moravské Budějovice)\n🚒 vyšetřovací automobil (ÚO Třebíč)\n🚒 C
+ AS (Budkov)
 END:VEVENT
 BEGIN:VEVENT
 UID:417255061
@@ -1006,8 +983,31 @@ DTEND:20260808T123747Z
 DTSTAMP:20260808T113747Z
 SUMMARY:🚗 se zraněním - Vysoká
 LOCATION:Vysoká
-GEO:49.558445;15.625244
-URL:geo:49.558445,15.625244
+GEO:49.557495;15.620784
+URL:geo:49.557495,15.620784
 DESCRIPTION:📍 Vysoká\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)
+END:VEVENT
+BEGIN:VEVENT
+UID:417260061
+DTSTART:20260808T115716Z
+DTEND:20260808T125716Z
+DTSTAMP:20260808T115716Z
+SUMMARY:🛠️ obtížný hmyz - Bory
+LOCATION:Bory
+GEO:49.428618;16.017885
+URL:geo:49.428618,16.017885
+DESCRIPTION:📍 Dolní Bory\, Bory\, Žďár nad Sázavou\n\n🚒 CAS (Bory)
+END:VEVENT
+BEGIN:VEVENT
+UID:417261061
+DTSTART:20260808T121132Z
+DTEND:20260808T131132Z
+DTSTAMP:20260808T121132Z
+SUMMARY:🛠️ otevření bytu/auta - Ždírec nad Doubravou
+LOCATION:V Údolí\, Ždírec nad Doubravou
+GEO:49.690895;15.810662
+URL:geo:49.690895,15.810662
+DESCRIPTION:📍 V Údolí\, Ždírec nad Doubravou\, Havlíčkův Brod\n\n🚒 CAS (Ždí
+ rec nad Doubravou)\n🚒 CAS (HS Chotěboř)
 END:VEVENT
 END:VCALENDAR
