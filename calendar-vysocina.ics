@@ -5,20 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:417152061
-DTSTART:20260806T175349Z
-DTEND:20260806T185349Z
-DTSTAMP:20260806T175349Z
-SUMMARY:🔥 les - Stařeč
-LOCATION:Stařeč
-GEO:49.186555;15.799406
-URL:geo:49.186555,15.799406
-DESCRIPTION:📍 Stařeč\, Třebíč\n💬 Požár lesa 30x20m. Lokalizace a likvidace.
- \n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (CHS Třebíč)\n🚒 DA (Stařeč) ×2\n🚒 automobilo
- vá stříkačka (Stařeč)\n🚒 CAS (Stařeč)\n🚒 vyšetřovací automobil (ÚO Třebíč)
- \n🚒 DA (Rokytnice nad Rokytnou)\n🚒 CAS (Rokytnice nad Rokytnou)
-END:VEVENT
-BEGIN:VEVENT
 UID:417155061
 DTSTART:20260806T205649Z
 DTEND:20260806T215649Z
