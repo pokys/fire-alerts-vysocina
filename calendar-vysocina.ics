@@ -5,31 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:417104061
-DTSTART:20260806T113958Z
-DTEND:20260806T123958Z
-DTSTAMP:20260806T113958Z
-SUMMARY:🛠️ obtížný hmyz - Jihlava
-LOCATION:Havlíčkova\, Jihlava
-GEO:49.403047;15.589059
-URL:geo:49.403047,15.589059
-DESCRIPTION:📍 Havlíčkova\, Jihlava\n💬 Likvidace nebezpečného hmyzu.\n\n🚒 CA
- S (CHS Jihlava)
-END:VEVENT
-BEGIN:VEVENT
-UID:417106061
-DTSTART:20260806T114404Z
-DTEND:20260806T124404Z
-DTSTAMP:20260806T114404Z
-SUMMARY:🛠️ strom - Nová Ves u Chotěboře
-LOCATION:Nová Ves u Chotěboře
-GEO:49.758814;15.641538
-URL:geo:49.758814,15.641538
-DESCRIPTION:📍 Nová Ves u Chotěboře\, Havlíčkův Brod\n💬 Odstranění stromu.\n
- \n🚒 CAS (HS Chotěboř)\n🚒 automobilová plošina do 30 m (HS Chotěboř)\n🚒 pil
- a řetězová (HS Chotěboř)
-END:VEVENT
-BEGIN:VEVENT
 UID:417107061
 DTSTART:20260806T115838Z
 DTEND:20260806T125838Z
@@ -1009,5 +984,31 @@ GEO:49.456433;15.856437
 URL:geo:49.456433,15.856437
 DESCRIPTION:📍 Chroustov\, Bohdalov\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár na
  d Sázavou)\n🚒 CAS (Bohdalov)
+END:VEVENT
+BEGIN:VEVENT
+UID:417254061
+DTSTART:20260808T111644Z
+DTEND:20260808T121644Z
+DTSTAMP:20260808T111644Z
+SUMMARY:🔥 les - Rácovice
+LOCATION:Rácovice
+GEO:49.038464;15.717352
+URL:geo:49.038464,15.717352
+DESCRIPTION:📍 Rácovice\, Třebíč\n\n🚒 CAS (HS Moravské Budějovice)\n🚒 CAS (H
+ S Moravské Budějovice)\n🚒 přívěs motorová stříkačka (Rácovice)\n🚒 CAS (Tře
+ belovice)\n🚒 CAS (HS Jemnice)\n🚒 CAS (Moravské Budějovice)\n🚒 vyšetřovací 
+ automobil (ÚO Třebíč)
+END:VEVENT
+BEGIN:VEVENT
+UID:417255061
+DTSTART:20260808T112916Z
+DTEND:20260808T122916Z
+DTSTAMP:20260808T112916Z
+SUMMARY:🚑 spolupráce ZZS - Havlíčkova Borová
+LOCATION:Horecká\, Havlíčkova Borová
+GEO:49.634728;15.779291
+URL:geo:49.634728,15.779291
+DESCRIPTION:📍 Horecká\, Havlíčkova Borová\, Havlíčkův Brod\n\n🚒 CAS (HS Cho
+ těboř)\n🚒 CAS (Havlíčkova Borová)
 END:VEVENT
 END:VCALENDAR
