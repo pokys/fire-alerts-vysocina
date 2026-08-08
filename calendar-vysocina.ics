@@ -903,7 +903,7 @@ LOCATION:Velká Bíteš
 GEO:49.296303;16.218558
 URL:geo:49.296303,16.218558
 DESCRIPTION:📍 Velká Bíteš\, Žďár nad Sázavou\n💬 Pomoc ZZS s resuscitací.\n\
- n🚒 CAS (HS Velká Bíteš)
+ n🚒 CAS (HS Velká Bíteš) ×2
 END:VEVENT
 BEGIN:VEVENT
 UID:417265061
@@ -938,6 +938,18 @@ SUMMARY:🛠️ obtížný hmyz - Osová Bítýška
 LOCATION:Osová Bítýška
 GEO:49.323281;16.168010
 URL:geo:49.323281,16.168010
-DESCRIPTION:📍 Osová Bítýška\, Žďár nad Sázavou\n\n🚒 CAS (HS Velká Bíteš)
+DESCRIPTION:📍 Osová Bítýška\, Žďár nad Sázavou\n💬 Odstranění obtížného hmyz
+ u.\n\n🚒 CAS (HS Velká Bíteš)
+END:VEVENT
+BEGIN:VEVENT
+UID:417269061
+DTSTART:20260808T140411Z
+DTEND:20260808T150411Z
+DTSTAMP:20260808T140411Z
+SUMMARY:🛠️ obtížný hmyz - Řečice
+LOCATION:Řečice
+GEO:49.513215;16.064523
+URL:geo:49.513215,16.064523
+DESCRIPTION:📍 Řečice\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad Sázavou)
 END:VEVENT
 END:VCALENDAR
