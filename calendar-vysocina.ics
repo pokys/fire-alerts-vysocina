@@ -719,11 +719,12 @@ SUMMARY:🔥 les - Rácovice
 LOCATION:Rácovice
 GEO:49.038464;15.717352
 URL:geo:49.038464,15.717352
-DESCRIPTION:📍 Rácovice\, Třebíč\n💬 Požár lesního porostu.\n\n🚒 CAS (HS Mora
- vské Budějovice)\n🚒 CAS (HS Moravské Budějovice)\n🚒 přívěs motorová stříka
- čka (Rácovice)\n🚒 CAS (Třebelovice)\n🚒 CAS (HS Jemnice)\n🚒 CAS (HS Jemnice
- )\n🚒 DA (Moravské Budějovice)\n🚒 CAS (Moravské Budějovice)\n🚒 vyšetřovací 
- automobil (ÚO Třebíč)\n🚒 CAS (Budkov)
+DESCRIPTION:📍 Rácovice\, Třebíč\n💬 Požár lesního porostu. Provedena lokaliz
+ ace a likvidace požáru.\n\n🚒 CAS (HS Moravské Budějovice)\n🚒 CAS (HS Morav
+ ské Budějovice)\n🚒 přívěs motorová stříkačka (Rácovice)\n🚒 CAS (Třebelovic
+ e)\n🚒 CAS (HS Jemnice)\n🚒 CAS (HS Jemnice)\n🚒 DA (Moravské Budějovice)\n🚒 
+ CAS (Moravské Budějovice)\n🚒 vyšetřovací automobil (ÚO Třebíč)\n🚒 CAS (Bud
+ kov)
 END:VEVENT
 BEGIN:VEVENT
 UID:417255061
@@ -806,8 +807,8 @@ SUMMARY:🚗 dopravní nehoda - Uhelná Příbram
 LOCATION:Uhelná Příbram
 GEO:49.768459;15.581433
 URL:geo:49.768459,15.581433
-DESCRIPTION:📍 Uhelná Příbram\, Havlíčkův Brod\n💬 DN OA a motocyklu\, 1 zran
- ěná osoba.\n\n🚒 CAS (HS Chotěboř)
+DESCRIPTION:📍 Uhelná Příbram\, Havlíčkův Brod\n💬 DN OA a motocyklu\, jedna 
+ zraněná osoba.\n\n🚒 CAS (HS Chotěboř)
 END:VEVENT
 BEGIN:VEVENT
 UID:417267061
@@ -889,7 +890,8 @@ SUMMARY:🚗 dopravní nehoda - Svojkovice
 LOCATION:Svojkovice
 GEO:49.158522;15.647878
 URL:geo:49.158522,15.647878
-DESCRIPTION:📍 Svojkovice\, Jihlava\n\n🚒 CAS (HS Telč)\n🚒 CAS (Želetava)
+DESCRIPTION:📍 Svojkovice\, Jihlava\n💬 DN OA a motorky\, jedna zraněná osoba
+ . Zajištění místa události.\n\n🚒 CAS (HS Telč)\n🚒 CAS (Želetava)
 END:VEVENT
 BEGIN:VEVENT
 UID:417278061
@@ -900,7 +902,8 @@ SUMMARY:🚑 spolupráce ZZS - Rynárec
 LOCATION:Rynárec
 GEO:49.389603;15.234722
 URL:geo:49.389603,15.234722
-DESCRIPTION:📍 Rynárec\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)
+DESCRIPTION:📍 Rynárec\, Pelhřimov\n💬 Asistence ZZS.\n\n🚒 CAS (CHS Pelhřimov
+ )
 END:VEVENT
 BEGIN:VEVENT
 UID:417281061
@@ -911,7 +914,30 @@ SUMMARY:🚑 spolupráce ZZS - Koberovice
 LOCATION:Koberovice
 GEO:49.586782;15.263445
 URL:geo:49.586782,15.263445
-DESCRIPTION:📍 Koberovice\, Pelhřimov\n\n🚒 CAS (HS Humpolec)\n🚒 RZA (HS Hump
- olec)
+DESCRIPTION:📍 Koberovice\, Pelhřimov\n💬 Asistence ZZS.\n\n🚒 CAS (HS Humpole
+ c)\n🚒 RZA (HS Humpolec)
+END:VEVENT
+BEGIN:VEVENT
+UID:417283061
+DTSTART:20260808T164434Z
+DTEND:20260808T174434Z
+DTSTAMP:20260808T164434Z
+SUMMARY:🛠️ obtížný hmyz - Daňkovice
+LOCATION:Daňkovice
+GEO:49.656376;16.146595
+URL:geo:49.656376,16.146595
+DESCRIPTION:📍 Daňkovice\, Žďár nad Sázavou\n\n🚒 DA (Daňkovice)
+END:VEVENT
+BEGIN:VEVENT
+UID:417284061
+DTSTART:20260808T165256Z
+DTEND:20260808T175256Z
+DTSTAMP:20260808T165256Z
+SUMMARY:🛠️ obtížný hmyz - Ždírec nad Doubravou
+LOCATION:Na Kopaninách\, Ždírec nad Doubravou
+GEO:49.693358;15.813253
+URL:geo:49.693358,15.813253
+DESCRIPTION:📍 Na Kopaninách\, Ždírec nad Doubravou\, Havlíčkův Brod\n\n🚒 CA
+ S (Ždírec nad Doubravou)
 END:VEVENT
 END:VCALENDAR
