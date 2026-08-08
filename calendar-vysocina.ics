@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:417099061
-DTSTART:20260806T103220Z
-DTEND:20260806T113220Z
-DTSTAMP:20260806T103220Z
-SUMMARY:🛠️ strom - Olešná
-LOCATION:Olešná
-GEO:49.437061;15.288219
-URL:geo:49.437061,15.288219
-DESCRIPTION:📍 Plevnice\, Olešná\, Pelhřimov\n💬 Odstranění stromu\n\n🚒 AŽ (C
- HS Pelhřimov)\n🚒 pila řetězová (CHS Pelhřimov) ×2
-END:VEVENT
-BEGIN:VEVENT
 UID:417101061
 DTSTART:20260806T104606Z
 DTEND:20260806T114606Z
@@ -1030,7 +1018,7 @@ SUMMARY:🔥 budova - Jemnice
 LOCATION:Tyršova\, Jemnice
 GEO:49.017329;15.576854
 URL:geo:49.017329,15.576854
-DESCRIPTION:📍 Tyršova\, Jemnice\, Třebíč\n\n🚒 CAS (HS Jemnice)\n🚒 CAS (Jemn
- ice)
+DESCRIPTION:📍 Tyršova\, Jemnice\, Třebíč\n💬 Zahoření kotle v kotelně.\n\n🚒 
+ CAS (HS Jemnice)\n🚒 CAS (Jemnice)
 END:VEVENT
 END:VCALENDAR
