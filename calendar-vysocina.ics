@@ -5,20 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:417157061
-DTSTART:20260806T221918Z
-DTEND:20260806T231918Z
-DTSTAMP:20260806T221918Z
-SUMMARY:🔥 budova - Kožichovice
-LOCATION:Kožichovice
-GEO:49.202951;15.911004
-URL:geo:49.202951,15.911004
-DESCRIPTION:📍 Kožichovice\, Třebíč\n💬 Požár slepičárny. Lokalizace a likvid
- ace.\n\n🚒 DA (CHS Třebíč)\n🚒 CAS (CHS Třebíč) ×2\n🚒 CAS (CHS Třebíč) ×2\n🚒
-  pila kotoučová (CHS Třebíč) ×2\n🚒 CAS (HS Hrotovice)\n🚒 DA (Kožichovice)\
- n🚒 vyšetřovací automobil (ÚO Třebíč)
-END:VEVENT
-BEGIN:VEVENT
 UID:417158061
 DTSTART:20260806T224439Z
 DTEND:20260806T234439Z
