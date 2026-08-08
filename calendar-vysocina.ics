@@ -646,7 +646,8 @@ LOCATION:Tyršova\, Jemnice
 GEO:49.017329;15.576854
 URL:geo:49.017329,15.576854
 DESCRIPTION:📍 Tyršova\, Jemnice\, Třebíč\n💬 Zahoření kotle v kotelně.\n\n🚒 
- CAS (HS Jemnice)\n🚒 CAS (Jemnice)\n🚒 CAS (HS Dačice)
+ CAS (HS Jemnice)\n🚒 přetlakový ventilátor (HS Jemnice)\n🚒 CAS (Jemnice)\n🚒
+  CAS (HS Dačice)
 END:VEVENT
 BEGIN:VEVENT
 UID:417252061
