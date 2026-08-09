@@ -819,8 +819,8 @@ SUMMARY:🚑 otevření/asistence - Vyklantice
 LOCATION:Vyklantice
 GEO:49.564997;15.038895
 URL:geo:49.564997,15.038895
-DESCRIPTION:📍 Starý Smrdov\, Vyklantice\, Pelhřimov\n\n🚒 CAS (HS Pacov)\n🚒 
- CAS (Lukavec)
+DESCRIPTION:📍 Starý Smrdov\, Vyklantice\, Pelhřimov\n💬 Otevření dveří.\n\n🚒
+  CAS (HS Pacov)\n🚒 CAS (Lukavec)
 END:VEVENT
 BEGIN:VEVENT
 UID:417345061
@@ -831,6 +831,7 @@ SUMMARY:🚑 otevření/asistence - Humpolec
 LOCATION:Masarykova\, Humpolec
 GEO:49.537553;15.354747
 URL:geo:49.537553,15.354747
-DESCRIPTION:📍 Masarykova\, Humpolec\, Pelhřimov\n\n🚒 CAS (HS Humpolec)
+DESCRIPTION:📍 Masarykova\, Humpolec\, Pelhřimov\n💬 Záchrana kocoura.\n\n🚒 C
+ AS (HS Humpolec)
 END:VEVENT
 END:VCALENDAR
