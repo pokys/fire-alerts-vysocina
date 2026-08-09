@@ -100,4 +100,15 @@ URL:geo:49.426495,15.229800
 DESCRIPTION:📍 F. B. Vaňka\, Pelhřimov\n💬 DN OA\, jedna zraněná osoba. Zajiš
  tění místa nehody.\n\n🚒 CAS (CHS Pelhřimov)
 END:VEVENT
+BEGIN:VEVENT
+UID:417301061
+DTSTART:20260809T100452Z
+DTEND:20260809T110452Z
+DTSTAMP:20260809T100452Z
+SUMMARY:🛠️ strom - Střítež pod Křemešníkem
+LOCATION:Střítež pod Křemešníkem
+GEO:49.440271;15.328974
+URL:geo:49.440271,15.328974
+DESCRIPTION:📍 Střítež pod Křemešníkem\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)
+END:VEVENT
 END:VCALENDAR
