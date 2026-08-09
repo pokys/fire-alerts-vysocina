@@ -114,4 +114,15 @@ DESCRIPTION:📍 Masarykova\, Kamenice nad Lipou\, Pelhřimov\n💬 Požár perg
  )\n🚒 CAS (Kamenice nad Lipou)\n🚒 CAS (Kamenice nad Lipou)\n🚒 CAS (Těmice)\
  n🚒 vyšetřovací automobil (ÚO Pelhřimov)
 END:VEVENT
+BEGIN:VEVENT
+UID:417317061
+DTSTART:20260809T140428Z
+DTEND:20260809T150428Z
+DTSTAMP:20260809T140428Z
+SUMMARY:🛠️ strom - Košetice
+LOCATION:Košetice
+GEO:49.562287;15.121235
+URL:geo:49.562287,15.121235
+DESCRIPTION:📍 Košetice\, Pelhřimov\n\n🚒 CAS (Košetice)
+END:VEVENT
 END:VCALENDAR
