@@ -750,12 +750,13 @@ UID:417321061
 DTSTART:20260809T153406Z
 DTEND:20260809T163406Z
 DTSTAMP:20260809T153406Z
-SUMMARY:🔥 vozidlo - Rozseč
+SUMMARY:🔥 tráva/plocha - Rozseč
 LOCATION:Rozseč
 GEO:49.155421;15.615029
 URL:geo:49.155421,15.615029
-DESCRIPTION:📍 Rozseč\, Jihlava\n\n🚒 CAS (HS Telč)\n🚒 CAS (HS Telč)\n🚒 DA (N
- ová Říše)\n🚒 CAS (Nová Říše)\n🚒 CAS (Stará Říše)\n🚒 DA (Rozseč (JI))
+DESCRIPTION:📍 Rozseč\, Jihlava\n💬 Požár suché trávy. Uhašeno před příjezdem
+  jednotek.\n\n🚒 CAS (HS Telč)\n🚒 CAS (HS Telč)\n🚒 DA (Nová Říše)\n🚒 CAS (N
+ ová Říše)\n🚒 CAS (Stará Říše)\n🚒 DA (Rozseč (JI))
 END:VEVENT
 BEGIN:VEVENT
 UID:417322061
@@ -766,7 +767,8 @@ SUMMARY:🛠️ otevření bytu/auta - Větrný Jeníkov
 LOCATION:Větrný Jeníkov
 GEO:49.475976;15.478870
 URL:geo:49.475976,15.478870
-DESCRIPTION:📍 Větrný Jeníkov\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+DESCRIPTION:📍 Větrný Jeníkov\, Jihlava\n💬 Odstranění obtížného hmyzu.\n\n🚒 
+ CAS (CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:417323061
@@ -777,7 +779,8 @@ SUMMARY:🛠️ obtížný hmyz - Otín
 LOCATION:Otín
 GEO:49.266941;15.571146
 URL:geo:49.266941,15.571146
-DESCRIPTION:📍 Otín\, Jihlava\n\n🚒 CAS (HS Třešť)
+DESCRIPTION:📍 Otín\, Jihlava\n💬 Odstranění obtížného hmyzu.\n\n🚒 CAS (HS Tř
+ ešť)
 END:VEVENT
 BEGIN:VEVENT
 UID:417324061
@@ -788,6 +791,41 @@ SUMMARY:🚑 otevření/asistence - Studenec
 LOCATION:Studenec
 GEO:49.205343;16.064454
 URL:geo:49.205343,16.064454
-DESCRIPTION:📍 Studenec\, Třebíč\n\n🚒 CAS (HS Náměšť nad Oslavou)
+DESCRIPTION:📍 Studenec\, Třebíč\n💬 Otevření bytu.\n\n🚒 CAS (HS Náměšť nad O
+ slavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:417325061
+DTSTART:20260809T163450Z
+DTEND:20260809T173450Z
+DTSTAMP:20260809T163450Z
+SUMMARY:🚑 záchrana ze stromu - Havlíčkův Brod
+LOCATION:Na Valech\, Havlíčkův Brod
+GEO:49.605816;15.580858
+URL:geo:49.605816,15.580858
+DESCRIPTION:📍 Na Valech\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)
+END:VEVENT
+BEGIN:VEVENT
+UID:417326061
+DTSTART:20260809T164114Z
+DTEND:20260809T174114Z
+DTSTAMP:20260809T164114Z
+SUMMARY:🚗 dopravní nehoda - Senožaty
+LOCATION:Senožaty
+GEO:49.569827;15.202822
+URL:geo:49.569827,15.202822
+DESCRIPTION:📍 Senožaty\, Pelhřimov\n\n🚒 CAS (HS Humpolec)\n🚒 RZA (HS Humpol
+ ec)
+END:VEVENT
+BEGIN:VEVENT
+UID:417327061
+DTSTART:20260809T164747Z
+DTEND:20260809T174747Z
+DTSTAMP:20260809T164747Z
+SUMMARY:🛠️ obtížný hmyz - Rudolec
+LOCATION:Rudolec
+GEO:49.477713;15.838250
+URL:geo:49.477713,15.838250
+DESCRIPTION:📍 Rudolec\, Žďár nad Sázavou\n\n🚒 DA (Rudolec)
 END:VEVENT
 END:VCALENDAR
