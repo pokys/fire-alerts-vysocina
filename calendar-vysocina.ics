@@ -798,8 +798,21 @@ SUMMARY:🔥 budova - Kamenice nad Lipou
 LOCATION:Masarykova\, Kamenice nad Lipou
 GEO:49.298196;15.075891
 URL:geo:49.298196,15.075891
-DESCRIPTION:📍 Masarykova\, Kamenice nad Lipou\, Pelhřimov\n\n🚒 CAS (HS Kame
- nice nad Lipou)\n🚒 CAS (HS Kamenice nad Lipou)\n🚒 CAS (Kamenice nad Lipou)
- \n🚒 CAS (Kamenice nad Lipou)\n🚒 CAS (Těmice)
+DESCRIPTION:📍 Masarykova\, Kamenice nad Lipou\, Pelhřimov\n💬 Požár pergoly 
+ před domem.\n\n🚒 CAS (HS Kamenice nad Lipou)\n🚒 CAS (HS Kamenice nad Lipou
+ )\n🚒 CAS (Kamenice nad Lipou)\n🚒 CAS (Kamenice nad Lipou)\n🚒 CAS (Těmice)\
+ n🚒 vyšetřovací automobil (ÚO Pelhřimov)
+END:VEVENT
+BEGIN:VEVENT
+UID:417315061
+DTSTART:20260809T125648Z
+DTEND:20260809T135648Z
+DTSTAMP:20260809T125648Z
+SUMMARY:🚑 spolupráce ZZS - Svratka
+LOCATION:Libušina\, Svratka
+GEO:49.710427;16.041404
+URL:geo:49.710427,16.041404
+DESCRIPTION:📍 Libušina\, Svratka\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad 
+ Sázavou)\n🚒 CAS (Svratka)
 END:VEVENT
 END:VCALENDAR
