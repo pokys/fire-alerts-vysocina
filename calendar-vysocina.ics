@@ -790,7 +790,8 @@ SUMMARY:🛠️ strom - Tis
 LOCATION:Tis
 GEO:49.731616;15.496276
 URL:geo:49.731616,15.496276
-DESCRIPTION:📍 Kněž\, Tis\, Havlíčkův Brod\n\n🚒 CAS (Habry)\n🚒 CAS (Habry)
+DESCRIPTION:📍 Kněž\, Tis\, Havlíčkův Brod\n💬 Odstranění stromu.\n\n🚒 CAS (H
+ abry)\n🚒 CAS (Habry)
 END:VEVENT
 BEGIN:VEVENT
 UID:417300061
@@ -814,7 +815,7 @@ LOCATION:Střítež pod Křemešníkem
 GEO:49.440271;15.328974
 URL:geo:49.440271,15.328974
 DESCRIPTION:📍 Střítež pod Křemešníkem\, Pelhřimov\n💬 Odstranění stromu.\n\n
- 🚒 CAS (CHS Pelhřimov)
+ 🚒 CAS (CHS Pelhřimov)\n🚒 pila řetězová (CHS Pelhřimov)
 END:VEVENT
 BEGIN:VEVENT
 UID:417303061
@@ -826,5 +827,17 @@ LOCATION:Stonařov
 GEO:49.282648;15.585096
 URL:geo:49.282648,15.585096
 DESCRIPTION:📍 Stonařov\, Jihlava\n\n🚒 CAS (HS Třešť)\n🚒 CAS (Stonařov)
+END:VEVENT
+BEGIN:VEVENT
+UID:417305061
+DTSTART:20260809T105406Z
+DTEND:20260809T115406Z
+DTSTAMP:20260809T105406Z
+SUMMARY:🛠️ obtížný hmyz - Moravské Budějovice
+LOCATION:Moravské Budějovice
+GEO:49.036338;15.837975
+URL:geo:49.036338,15.837975
+DESCRIPTION:📍 Lažínky\, Moravské Budějovice\, Třebíč\n\n🚒 CAS (Moravské Bud
+ ějovice)
 END:VEVENT
 END:VCALENDAR
