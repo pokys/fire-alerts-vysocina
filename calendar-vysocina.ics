@@ -877,4 +877,16 @@ DESCRIPTION:📍 Údavy\, Ždírec nad Doubravou\, Havlíčkův Brod\n💬 Dopra
  oda 1 OA\, bez zranění. Likvidace úniku provozních kapalin sorbentem\, říz
  ení dopravy.\n\n🚒 CAS (HS Chotěboř)\n🚒 CAS (Ždírec nad Doubravou)
 END:VEVENT
+BEGIN:VEVENT
+UID:417294061
+DTSTART:20260809T065208Z
+DTEND:20260809T075208Z
+DTSTAMP:20260809T065208Z
+SUMMARY:🛠️ čerpání vody - Hamry nad Sázavou
+LOCATION:Hamry nad Sázavou
+GEO:49.562658;15.900179
+URL:geo:49.562658,15.900179
+DESCRIPTION:📍 Hamry nad Sázavou\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad S
+ ázavou)
+END:VEVENT
 END:VCALENDAR
