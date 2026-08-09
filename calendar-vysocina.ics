@@ -801,7 +801,8 @@ SUMMARY:🛠️ ostatní - Moravec
 LOCATION:Moravec
 GEO:49.453594;16.153216
 URL:geo:49.453594,16.153216
-DESCRIPTION:📍 Moravec\, Žďár nad Sázavou\n\n🚒 CAS (HS Velké Meziříčí)
+DESCRIPTION:📍 Moravec\, Žďár nad Sázavou\n💬 Spolupráce s PČR.\n\n🚒 CAS (HS 
+ Velké Meziříčí)
 END:VEVENT
 BEGIN:VEVENT
 UID:417332061
@@ -812,7 +813,8 @@ SUMMARY:🛠️ strom - Krásněves
 LOCATION:Krásněves
 GEO:49.437246;15.980049
 URL:geo:49.437246,15.980049
-DESCRIPTION:📍 Krásněves\, Žďár nad Sázavou\n\n🚒 CAS (Krásněves)
+DESCRIPTION:📍 Krásněves\, Žďár nad Sázavou\n💬 Odstranění větve.\n\n🚒 CAS (K
+ rásněves)
 END:VEVENT
 BEGIN:VEVENT
 UID:417334061
@@ -823,6 +825,7 @@ SUMMARY:🛠️ obtížný hmyz - Druhanov
 LOCATION:Druhanov
 GEO:49.698093;15.409022
 URL:geo:49.698093,15.409022
-DESCRIPTION:📍 Druhanov\, Havlíčkův Brod\n\n🚒 CAS (Druhanov)
+DESCRIPTION:📍 Druhanov\, Havlíčkův Brod\n💬 Odstranění obtížného hmyzu.\n\n🚒
+  CAS (Druhanov)
 END:VEVENT
 END:VCALENDAR
