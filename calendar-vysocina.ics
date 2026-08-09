@@ -5,31 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:417195061
-DTSTART:20260807T114916Z
-DTEND:20260807T124916Z
-DTSTAMP:20260807T114916Z
-SUMMARY:🛠️ strom - Víska
-LOCATION:Víska
-GEO:49.770312;15.652562
-URL:geo:49.770312,15.652562
-DESCRIPTION:📍 Víska\, Havlíčkův Brod\n💬 Odstranění stromu.\n\n🚒 CAS (HS Cho
- těboř)\n🚒 automobilová plošina do 30 m (HS Chotěboř)\n🚒 pila řetězová (HS 
- Chotěboř)
-END:VEVENT
-BEGIN:VEVENT
-UID:417196061
-DTSTART:20260807T115707Z
-DTEND:20260807T125707Z
-DTSTAMP:20260807T115707Z
-SUMMARY:🛠️ ostatní - Křoví
-LOCATION:Křoví
-GEO:49.306944;16.261501
-URL:geo:49.306944,16.261501
-DESCRIPTION:📍 Křoví\, Žďár nad Sázavou\n💬 Zajištění krav uteklých z ohradní
- ku.\n\n🚒 CAS (HS Velká Bíteš)\n🚒 DA (Křoví)\n🚒 CAS (Křoví)
-END:VEVENT
-BEGIN:VEVENT
 UID:417198061
 DTSTART:20260807T120339Z
 DTEND:20260807T130339Z
@@ -812,7 +787,18 @@ SUMMARY:🛠️ obtížný hmyz - Moravské Budějovice
 LOCATION:Moravské Budějovice
 GEO:49.036338;15.837975
 URL:geo:49.036338,15.837975
-DESCRIPTION:📍 Lažínky\, Moravské Budějovice\, Třebíč\n\n🚒 CAS (Moravské Bud
- ějovice)
+DESCRIPTION:📍 Lažínky\, Moravské Budějovice\, Třebíč\n💬 Odstranění obtížnéh
+ o hmyzu.\n\n🚒 CAS (Moravské Budějovice)
+END:VEVENT
+BEGIN:VEVENT
+UID:417307061
+DTSTART:20260809T113449Z
+DTEND:20260809T123449Z
+DTSTAMP:20260809T113449Z
+SUMMARY:🛠️ strom - Unčín
+LOCATION:Unčín
+GEO:49.612793;16.233605
+URL:geo:49.612793,16.233605
+DESCRIPTION:📍 Unčín\, Žďár nad Sázavou\n\n🚒 DA (Dalečín)\n🚒 CAS (Dalečín)
 END:VEVENT
 END:VCALENDAR
