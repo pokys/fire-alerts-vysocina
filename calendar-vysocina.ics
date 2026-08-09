@@ -798,4 +798,16 @@ URL:geo:49.698093,15.409022
 DESCRIPTION:📍 Druhanov\, Havlíčkův Brod\n💬 Odstranění obtížného hmyzu.\n\n🚒
   CAS (Druhanov)
 END:VEVENT
+BEGIN:VEVENT
+UID:417341061
+DTSTART:20260809T203532Z
+DTEND:20260809T213532Z
+DTSTAMP:20260809T203532Z
+SUMMARY:🚗 úklid místa - Bystřice nad Pernštejnem
+LOCATION:Bystřice nad Pernštejnem
+GEO:49.563668;16.312473
+URL:geo:49.563668,16.312473
+DESCRIPTION:📍 Karasín\, Bystřice nad Pernštejnem\, Žďár nad Sázavou\n\n🚒 CA
+ S (HS Bystřice nad Pernštejnem)
+END:VEVENT
 END:VCALENDAR
