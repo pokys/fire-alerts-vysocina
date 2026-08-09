@@ -913,4 +913,16 @@ URL:geo:49.190687,15.451482
 DESCRIPTION:📍 Havlíčkova\, Telč-Štěpnice\, Telč\, Jihlava\n💬 Pomoc se zvedn
  utím imobilní osoby.\n\n🚒 CAS (HS Telč)
 END:VEVENT
+BEGIN:VEVENT
+UID:417292061
+DTSTART:20260809T051014Z
+DTEND:20260809T061014Z
+DTSTAMP:20260809T051014Z
+SUMMARY:🚗 úklid místa - Ždírec nad Doubravou
+LOCATION:Ždírec nad Doubravou
+GEO:49.739829;15.823039
+URL:geo:49.739829,15.823039
+DESCRIPTION:📍 Údavy\, Ždírec nad Doubravou\, Havlíčkův Brod\n\n🚒 CAS (HS Ch
+ otěboř)\n🚒 CAS (Ždírec nad Doubravou)
+END:VEVENT
 END:VCALENDAR
