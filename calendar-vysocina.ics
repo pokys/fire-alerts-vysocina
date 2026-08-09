@@ -728,7 +728,8 @@ SUMMARY:🚗 se zraněním - Stonařov
 LOCATION:Stonařov
 GEO:49.282648;15.585096
 URL:geo:49.282648,15.585096
-DESCRIPTION:📍 Stonařov\, Jihlava\n\n🚒 CAS (HS Třešť)\n🚒 CAS (Stonařov)
+DESCRIPTION:📍 Stonařov\, Jihlava\n💬 DN 2 OA\, 5 zraněných osob\, poskytnuta
+  předlékařská pomoc.\n\n🚒 CAS (HS Třešť)\n🚒 CAS (Stonařov)
 END:VEVENT
 BEGIN:VEVENT
 UID:417305061
@@ -763,7 +764,8 @@ SUMMARY:🛠️ ostatní - Jihlava
 LOCATION:Jihlava
 GEO:49.406854;15.633312
 URL:geo:49.406854,15.633312
-DESCRIPTION:📍 Helenín\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+DESCRIPTION:📍 Helenín\, Jihlava\n💬 Hlášený úhyn ryb\, zjištěno\, že se jedn
+ á o událost staršího data.\n\n🚒 CAS (CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:417312061
