@@ -138,4 +138,16 @@ URL:geo:49.537553,15.354747
 DESCRIPTION:📍 Masarykova\, Humpolec\, Pelhřimov\n💬 Záchrana kocoura.\n\n🚒 C
  AS (HS Humpolec)
 END:VEVENT
+BEGIN:VEVENT
+UID:417358061
+DTSTART:20260810T080630Z
+DTEND:20260810T090630Z
+DTSTAMP:20260810T080630Z
+SUMMARY:🛠️ spolupráce IZS - Počátky
+LOCATION:Žirovnická\, Počátky
+GEO:49.259438;15.234538
+URL:geo:49.259438,15.234538
+DESCRIPTION:📍 Žirovnická\, Počátky\, Pelhřimov\n\n🚒 CAS (HS Kamenice nad Li
+ pou)\n🚒 CAS (Počátky)
+END:VEVENT
 END:VCALENDAR
