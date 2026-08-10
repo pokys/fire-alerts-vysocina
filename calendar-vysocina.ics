@@ -901,8 +901,8 @@ SUMMARY:🔥 trafostanice - Kožlí
 LOCATION:Kožlí
 GEO:49.706000;15.234042
 URL:geo:49.706000,15.234042
-DESCRIPTION:📍 Sechov\, Kožlí\, Havlíčkův Brod\n\n🚒 CAS (HS Ledeč nad Sázavo
- u)\n🚒 CAS (Kožlí)
+DESCRIPTION:📍 Sechov\, Kožlí\, Havlíčkův Brod\n💬 Požár trafostanice po pádu
+  stromu.\n\n🚒 CAS (HS Ledeč nad Sázavou)\n🚒 CAS (Kožlí)
 END:VEVENT
 BEGIN:VEVENT
 UID:417406061
@@ -924,7 +924,8 @@ SUMMARY:🚗 dopravní nehoda - Pelhřimov
 LOCATION:Pelhřimov
 GEO:49.418938;15.167936
 URL:geo:49.418938,15.167936
-DESCRIPTION:📍 Vlásenice\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)
+DESCRIPTION:📍 Vlásenice\, Pelhřimov\n💬 DN 2 OA\, 1 zraněná osoba.\n\n🚒 CAS 
+ (CHS Pelhřimov)
 END:VEVENT
 BEGIN:VEVENT
 UID:417408061
@@ -970,7 +971,8 @@ SUMMARY:🛠️ strom - Dobronín
 LOCATION:Dobronín
 GEO:49.491907;15.615637
 URL:geo:49.491907,15.615637
-DESCRIPTION:📍 Dobronín\, Jihlava\n\n🚒 CAS (HS Polná)
+DESCRIPTION:📍 Dobronín\, Jihlava\n\n🚒 CAS (HS Polná)\n🚒 pila řetězová (HS P
+ olná)
 END:VEVENT
 BEGIN:VEVENT
 UID:417414061
@@ -991,9 +993,9 @@ DTEND:20260810T190549Z
 DTSTAMP:20260810T180549Z
 SUMMARY:🛠️ obtížný hmyz - Hamry nad Sázavou
 LOCATION:Hamry nad Sázavou
-GEO:49.566023;15.901686
-URL:geo:49.566023,15.901686
-DESCRIPTION:📍 Hamry nad Sázavou\, Žďár nad Sázavou\n\n🚒 DA (Hamry nad Sázav
- ou-Najdek)
+GEO:49.564990;15.901789
+URL:geo:49.564990,15.901789
+DESCRIPTION:📍 Hamry nad Sázavou\, Žďár nad Sázavou\n💬 Odstranění obtížného 
+ hmyzu.\n\n🚒 DA (Hamry nad Sázavou-Najdek)
 END:VEVENT
 END:VCALENDAR
