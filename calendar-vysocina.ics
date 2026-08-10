@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:417274061
-DTSTART:20260808T155611Z
-DTEND:20260808T165611Z
-DTSTAMP:20260808T155611Z
-SUMMARY:🛠️ obtížný hmyz - Vír
-LOCATION:Vír
-GEO:49.560268;16.308649
-URL:geo:49.560268,16.308649
-DESCRIPTION:📍 Vír\, Žďár nad Sázavou\n💬 Odstranění obtížného hmyzu.\n\n🚒 DA
-  (Vír)\n🚒 CAS (Vír)
-END:VEVENT
-BEGIN:VEVENT
 UID:417275061
 DTSTART:20260808T160529Z
 DTEND:20260808T170529Z
@@ -830,8 +818,8 @@ SUMMARY:🛠️ obtížný hmyz - Luka nad Jihlavou
 LOCATION:Luka nad Jihlavou
 GEO:49.373910;15.684383
 URL:geo:49.373910,15.684383
-DESCRIPTION:📍 Předboř\, Luka nad Jihlavou\, Jihlava\n\n🚒 CAS (Luka nad Jihl
- avou)
+DESCRIPTION:📍 Předboř\, Luka nad Jihlavou\, Jihlava\n💬 Odstranění obtížného
+  hmyzu.\n\n🚒 CAS (Luka nad Jihlavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:417388061
@@ -868,5 +856,17 @@ GEO:49.183642;15.776836
 URL:geo:49.183642,15.776836
 DESCRIPTION:📍 Rokytnice nad Rokytnou\, Třebíč\n\n🚒 CAS (Rokytnice nad Rokyt
  nou)
+END:VEVENT
+BEGIN:VEVENT
+UID:417392061
+DTSTART:20260810T154945Z
+DTEND:20260810T164945Z
+DTSTAMP:20260810T154945Z
+SUMMARY:🛠️ obtížný hmyz - Žďár nad Sázavou
+LOCATION:Žďár nad Sázavou
+GEO:49.546411;15.973311
+URL:geo:49.546411,15.973311
+DESCRIPTION:📍 Žďár nad Sázavou 1\, Žďár nad Sázavou\n\n🚒 CAS (Žďár nad Sáza
+ vou-Zámek)
 END:VEVENT
 END:VCALENDAR
