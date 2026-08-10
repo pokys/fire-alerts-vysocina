@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:417284061
-DTSTART:20260808T165256Z
-DTEND:20260808T175256Z
-DTSTAMP:20260808T165256Z
-SUMMARY:🛠️ obtížný hmyz - Ždírec nad Doubravou
-LOCATION:Na Kopaninách\, Ždírec nad Doubravou
-GEO:49.693358;15.813253
-URL:geo:49.693358,15.813253
-DESCRIPTION:📍 Na Kopaninách\, Ždírec nad Doubravou\, Havlíčkův Brod\n💬 Odst
- ranění obtížného hmyzu.\n\n🚒 CAS (Ždírec nad Doubravou)
-END:VEVENT
-BEGIN:VEVENT
 UID:417286061
 DTSTART:20260808T170644Z
 DTEND:20260808T180644Z
@@ -830,7 +818,8 @@ SUMMARY:🛠️ obtížný hmyz - Oponešice
 LOCATION:Oponešice
 GEO:49.035104;15.653563
 URL:geo:49.035104,15.653563
-DESCRIPTION:📍 Oponešice\, Třebíč\n\n🚒 CAS (HS Jemnice)
+DESCRIPTION:📍 Oponešice\, Třebíč\n💬 Odstranění obtížného hmyzu.\n\n🚒 CAS (H
+ S Jemnice)
 END:VEVENT
 BEGIN:VEVENT
 UID:417395061
@@ -841,7 +830,8 @@ SUMMARY:🛠️ obtížný hmyz - Číhalín
 LOCATION:Číhalín
 GEO:49.264909;15.808064
 URL:geo:49.264909,15.808064
-DESCRIPTION:📍 Číhalín\, Třebíč\n\n🚒 CAS (Přibyslavice)
+DESCRIPTION:📍 Číhalín\, Třebíč\n💬 Odstranění obtížného hmyzu.\n\n🚒 CAS (Při
+ byslavice)
 END:VEVENT
 BEGIN:VEVENT
 UID:417396061
@@ -853,7 +843,7 @@ LOCATION:Husova\, Moravské Budějovice
 GEO:49.046341;15.801829
 URL:geo:49.046341,15.801829
 DESCRIPTION:📍 Husova\, Moravské Budějovice\, Třebíč\n💬 Odstranění stromu.\n
- \n🚒 CAS (HS Moravské Budějovice)
+ \n🚒 CAS (HS Moravské Budějovice)\n🚒 pila řetězová (HS Moravské Budějovice)
 END:VEVENT
 BEGIN:VEVENT
 UID:417397061
@@ -864,8 +854,8 @@ SUMMARY:🚑 otevření/asistence - Stránecká Zhoř
 LOCATION:Stránecká Zhoř
 GEO:49.378042;15.947798
 URL:geo:49.378042,15.947798
-DESCRIPTION:📍 Kochánov\, Stránecká Zhoř\, Žďár nad Sázavou\n\n🚒 CAS (HS Vel
- ké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)
+DESCRIPTION:📍 Kochánov\, Stránecká Zhoř\, Žďár nad Sázavou\n💬 Otevření OA.\
+ n\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)
 END:VEVENT
 BEGIN:VEVENT
 UID:417398061
@@ -878,5 +868,16 @@ GEO:49.145069;15.555096
 URL:geo:49.145069,15.555096
 DESCRIPTION:📍 Nová Říše\, Jihlava\n\n🚒 CAS (HS Telč)\n🚒 CAS (HS Telč)\n🚒 CA
  S (Nová Říše)\n🚒 CAS (Stará Říše)
+END:VEVENT
+BEGIN:VEVENT
+UID:417399061
+DTSTART:20260810T163433Z
+DTEND:20260810T173433Z
+DTSTAMP:20260810T163433Z
+SUMMARY:🛠️ obtížný hmyz - Jihlava
+LOCATION:Užhorodská\, Jihlava
+GEO:49.406911;15.550911
+URL:geo:49.406911,15.550911
+DESCRIPTION:📍 Užhorodská\, Horní Kosov\, Jihlava\n\n🚒 CAS (CHS Jihlava)
 END:VEVENT
 END:VCALENDAR
