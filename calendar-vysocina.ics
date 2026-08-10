@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:417261061
-DTSTART:20260808T121132Z
-DTEND:20260808T131132Z
-DTSTAMP:20260808T121132Z
-SUMMARY:🛠️ otevření bytu/auta - Ždírec nad Doubravou
-LOCATION:V Údolí\, Ždírec nad Doubravou
-GEO:49.690895;15.810662
-URL:geo:49.690895,15.810662
-DESCRIPTION:📍 V Údolí\, Ždírec nad Doubravou\, Havlíčkův Brod\n💬 Otevření b
- ytu.\n\n🚒 CAS (Ždírec nad Doubravou)\n🚒 CAS (HS Chotěboř)
-END:VEVENT
-BEGIN:VEVENT
 UID:417262061
 DTSTART:20260808T122755Z
 DTEND:20260808T132755Z
@@ -835,6 +823,30 @@ SUMMARY:🚗 dopravní nehoda - Sazomín
 LOCATION:Sazomín
 GEO:49.510426;15.979047
 URL:geo:49.510426,15.979047
-DESCRIPTION:📍 Sazomín\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad Sázavou)
+DESCRIPTION:📍 Sazomín\, Žďár nad Sázavou\n💬 DN NA a OA se zraněním. Zajiště
+ ní místa události.\n\n🚒 CAS (CHS Žďár nad Sázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:417375061
+DTSTART:20260810T115803Z
+DTEND:20260810T125803Z
+DTSTAMP:20260810T115803Z
+SUMMARY:🔥 trafostanice - Ždírec nad Doubravou
+LOCATION:Ždírec nad Doubravou
+GEO:49.706809;15.839678
+URL:geo:49.706809,15.839678
+DESCRIPTION:📍 Benátky\, Ždírec nad Doubravou\, Havlíčkův Brod\n💬 Požár - zp
+ ětný zápis
+END:VEVENT
+BEGIN:VEVENT
+UID:417377061
+DTSTART:20260810T120423Z
+DTEND:20260810T130423Z
+DTSTAMP:20260810T120423Z
+SUMMARY:🛠️ obtížný hmyz - Obyčtov
+LOCATION:Obyčtov
+GEO:49.503339;16.000680
+URL:geo:49.503339,16.000680
+DESCRIPTION:📍 Obyčtov\, Žďár nad Sázavou\n\n🚒 DA (Obyčtov)
 END:VEVENT
 END:VCALENDAR
