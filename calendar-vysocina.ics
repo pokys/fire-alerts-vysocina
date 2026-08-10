@@ -792,7 +792,19 @@ SUMMARY:🚗 dopravní nehoda - Brtnice
 LOCATION:Pod Kaplou\, Brtnice
 GEO:49.307374;15.680356
 URL:geo:49.307374,15.680356
-DESCRIPTION:📍 Pod Kaplou\, Brtnice\, Jihlava\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA 
+DESCRIPTION:📍 Pod Kaplou\, Brtnice\, Jihlava\n💬 DN OA a motocyklu\, 1 zraně
+ ná osoba. Provedeno zajištění místa nehody.\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA 
  (CHS Jihlava)
+END:VEVENT
+BEGIN:VEVENT
+UID:417356061
+DTSTART:20260810T073018Z
+DTEND:20260810T083018Z
+DTSTAMP:20260810T073018Z
+SUMMARY:🛠️ obtížný hmyz - Sněžné
+LOCATION:Sněžné
+GEO:49.651484;16.089759
+URL:geo:49.651484,16.089759
+DESCRIPTION:📍 Blatiny\, Sněžné\, Žďár nad Sázavou\n\n🚒 CAS (Sněžné)
 END:VEVENT
 END:VCALENDAR
