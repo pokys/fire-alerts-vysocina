@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:417253061
-DTSTART:20260808T111308Z
-DTEND:20260808T121308Z
-DTSTAMP:20260808T111308Z
-SUMMARY:🚑 spolupráce ZZS - Bohdalov
-LOCATION:Bohdalov
-GEO:49.456433;15.856437
-URL:geo:49.456433,15.856437
-DESCRIPTION:📍 Chroustov\, Bohdalov\, Žďár nad Sázavou\n💬 Pomoc ZZS s resusc
- itací.\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (Bohdalov)
-END:VEVENT
-BEGIN:VEVENT
 UID:417254061
 DTSTART:20260808T111644Z
 DTEND:20260808T121644Z
@@ -805,7 +793,8 @@ LOCATION:Borek
 GEO:49.808587;15.592476
 URL:geo:49.808587,15.592476
 DESCRIPTION:📍 Borek\, Havlíčkův Brod\n💬 DN 2 OA bez zranění. Zajištění míst
- a události.\n\n🚒 CAS (Golčův Jeníkov)\n🚒 CAS (HS Chotěboř)
+ a události a likvidace uniklých provozních náplní.\n\n🚒 CAS (Golčův Jeníko
+ v)\n🚒 CAS (HS Chotěboř)
 END:VEVENT
 BEGIN:VEVENT
 UID:417362061
@@ -848,10 +837,23 @@ UID:417365061
 DTSTART:20260810T100600Z
 DTEND:20260810T110600Z
 DTSTAMP:20260810T100600Z
-SUMMARY:🛠️ ostatní - Havlíčkův Brod
+SUMMARY:🛠️ otevření bytu/auta - Havlíčkův Brod
 LOCATION:Jihlavská\, Havlíčkův Brod
 GEO:49.601566;15.578896
 URL:geo:49.601566,15.578896
-DESCRIPTION:📍 Jihlavská\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)
+DESCRIPTION:📍 Jihlavská\, Havlíčkův Brod\n💬 Otevření bytu.\n\n🚒 CAS (CHS Ha
+ vlíčkův Brod)
+END:VEVENT
+BEGIN:VEVENT
+UID:417369061
+DTSTART:20260810T110538Z
+DTEND:20260810T120538Z
+DTSTAMP:20260810T110538Z
+SUMMARY:🛠️ otevření bytu/auta - Náměšť nad Oslavou
+LOCATION:Zámek\, Náměšť nad Oslavou
+GEO:49.210581;16.163640
+URL:geo:49.210581,16.163640
+DESCRIPTION:📍 Zámek\, Náměšť nad Oslavou\, Třebíč\n\n🚒 CAS (HS Náměšť nad O
+ slavou)
 END:VEVENT
 END:VCALENDAR
