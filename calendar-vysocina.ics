@@ -5,20 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:417233061
-DTSTART:20260808T031946Z
-DTEND:20260808T041946Z
-DTSTAMP:20260808T031946Z
-SUMMARY:🔥 technologie - Sázava
-LOCATION:Sázava
-GEO:49.563690;15.866514
-URL:geo:49.563690,15.866514
-DESCRIPTION:📍 Sázava\, Žďár nad Sázavou\n💬 Požár palet.\n\n🚒 CAS (CHS Žďár 
- nad Sázavou)\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (Sázava (ZR))\n🚒 CAS (Žď
- ár nad Sázavou-Zámek)\n🚒 CAS (Velká Losenice)\n🚒 vyšetřovací automobil (ÚO
-  Žďár nad Sázavou)
-END:VEVENT
-BEGIN:VEVENT
 UID:417237061
 DTSTART:20260808T064556Z
 DTEND:20260808T074556Z
