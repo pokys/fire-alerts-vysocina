@@ -946,7 +946,8 @@ SUMMARY:🛠️ strom - Golčův Jeníkov
 LOCATION:Golčův Jeníkov
 GEO:49.808168;15.496042
 URL:geo:49.808168,15.496042
-DESCRIPTION:📍 Golčův Jeníkov\, Havlíčkův Brod\n\n🚒 CAS (Golčův Jeníkov)
+DESCRIPTION:📍 Golčův Jeníkov\, Havlíčkův Brod\n💬 Odstranění stromu.\n\n🚒 CA
+ S (Golčův Jeníkov)
 END:VEVENT
 BEGIN:VEVENT
 UID:417412061
@@ -957,7 +958,8 @@ SUMMARY:🚗 úklid místa - Chotěboř
 LOCATION:Chotěboř
 GEO:49.728257;15.672549
 URL:geo:49.728257,15.672549
-DESCRIPTION:📍 Chotěboř\, Havlíčkův Brod\n\n🚒 CAS (HS Chotěboř)
+DESCRIPTION:📍 Chotěboř\, Havlíčkův Brod\n💬 Odstranění větve z OA.\n\n🚒 CAS 
+ (HS Chotěboř)
 END:VEVENT
 BEGIN:VEVENT
 UID:417413061
@@ -979,7 +981,8 @@ SUMMARY:🛠️ obtížný hmyz - Lukavec
 LOCATION:Lukavec
 GEO:49.551219;14.979698
 URL:geo:49.551219,14.979698
-DESCRIPTION:📍 Týmova Ves\, Lukavec\, Pelhřimov\n\n🚒 CAS (Lukavec)
+DESCRIPTION:📍 Týmova Ves\, Lukavec\, Pelhřimov\n💬 Odstranění obtížného hmyz
+ u.\n\n🚒 CAS (Lukavec)
 END:VEVENT
 BEGIN:VEVENT
 UID:417415061
