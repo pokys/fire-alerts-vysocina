@@ -833,4 +833,40 @@ URL:geo:49.373910,15.684383
 DESCRIPTION:📍 Předboř\, Luka nad Jihlavou\, Jihlava\n\n🚒 CAS (Luka nad Jihl
  avou)
 END:VEVENT
+BEGIN:VEVENT
+UID:417388061
+DTSTART:20260810T151522Z
+DTEND:20260810T161522Z
+DTSTAMP:20260810T151522Z
+SUMMARY:🛠️ obtížný hmyz - Žďár nad Sázavou
+LOCATION:Purkyňova\, Žďár nad Sázavou
+GEO:49.577123;15.937160
+URL:geo:49.577123,15.937160
+DESCRIPTION:📍 Purkyňova\, Žďár nad Sázavou 2\, Žďár nad Sázavou\n💬 Odstraně
+ ní obtížného hmyzu.\n\n🚒 CAS (Žďár nad Sázavou-Zámek)
+END:VEVENT
+BEGIN:VEVENT
+UID:417389061
+DTSTART:20260810T152810Z
+DTEND:20260810T162810Z
+DTSTAMP:20260810T152810Z
+SUMMARY:🛠️ obtížný hmyz - Světlá nad Sázavou
+LOCATION:Na Bradle\, Světlá nad Sázavou
+GEO:49.669018;15.395670
+URL:geo:49.669018,15.395670
+DESCRIPTION:📍 Na Bradle\, Světlá nad Sázavou\, Havlíčkův Brod\n\n🚒 CAS (HS 
+ Světlá nad Sázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:417390061
+DTSTART:20260810T152913Z
+DTEND:20260810T162913Z
+DTSTAMP:20260810T152913Z
+SUMMARY:🛠️ obtížný hmyz - Rokytnice nad Rokytnou
+LOCATION:Rokytnice nad Rokytnou
+GEO:49.183642;15.776836
+URL:geo:49.183642,15.776836
+DESCRIPTION:📍 Rokytnice nad Rokytnou\, Třebíč\n\n🚒 CAS (Rokytnice nad Rokyt
+ nou)
+END:VEVENT
 END:VCALENDAR
