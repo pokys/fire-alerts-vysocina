@@ -891,8 +891,8 @@ SUMMARY:🛠️ strom - Olešná
 LOCATION:Olešná
 GEO:49.438168;15.261668
 URL:geo:49.438168,15.261668
-DESCRIPTION:📍 Olešná\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 DA (Olešná (PE)
- )\n🚒 CAS (Olešná (PE))
+DESCRIPTION:📍 Olešná\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 CAS (Olešná (PE
+ ))\n🚒 pila řetězová (Olešná (PE))
 END:VEVENT
 BEGIN:VEVENT
 UID:417409061
@@ -1026,5 +1026,29 @@ URL:geo:49.105475,16.062622
 DESCRIPTION:📍 Sokolská\, Hrotovice\, Třebíč\n💬 Požár ohlášený systémem elek
  trické požární signalizace. Průzkumem bylo zjištěno\, že se jedná o planý 
  poplach.\n\n🚒 CAS (HS Hrotovice)
+END:VEVENT
+BEGIN:VEVENT
+UID:417439061
+DTSTART:20260811T071948Z
+DTEND:20260811T081948Z
+DTSTAMP:20260811T071948Z
+SUMMARY:🛠️ strom - Skuhrov
+LOCATION:Skuhrov
+GEO:49.690097;15.529818
+URL:geo:49.690097,15.529818
+DESCRIPTION:📍 Skuhrov\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)
+END:VEVENT
+BEGIN:VEVENT
+UID:417441061
+DTSTART:20260811T072656Z
+DTEND:20260811T082656Z
+DTSTAMP:20260811T072656Z
+SUMMARY:🔥 les - Věcov
+LOCATION:Věcov
+GEO:49.607631;16.198423
+URL:geo:49.607631,16.198423
+DESCRIPTION:📍 Jimramovské Pavlovice\, Věcov\, Žďár nad Sázavou\n\n🚒 CAS (HS
+  Bystřice nad Pernštejnem)\n🚒 CAS (HS Bystřice nad Pernštejnem)\n🚒 CAS (Ji
+ mramov)\n🚒 DA (Věcov-Jimramovské Pavlovice)\n🚒 CAS (Věcov)
 END:VEVENT
 END:VCALENDAR
