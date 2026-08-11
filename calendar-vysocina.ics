@@ -5,42 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:417328061
-DTSTART:20260809T170204Z
-DTEND:20260809T180204Z
-DTSTAMP:20260809T170204Z
-SUMMARY:🛠️ obtížný hmyz - Radošov
-LOCATION:Radošov
-GEO:49.334192;15.793012
-URL:geo:49.334192,15.793012
-DESCRIPTION:📍 Radošov\, Třebíč\n💬 Odstranění obtížného hmyzu.\n\n🚒 CAS (CHS
-  Třebíč)
-END:VEVENT
-BEGIN:VEVENT
-UID:417329061
-DTSTART:20260809T170518Z
-DTEND:20260809T180518Z
-DTSTAMP:20260809T170518Z
-SUMMARY:🔥 venkovní požár - Třebíč
-LOCATION:M. Majerové\, Třebíč
-GEO:49.221006;15.884806
-URL:geo:49.221006,15.884806
-DESCRIPTION:📍 M. Majerové\, Týn\, Třebíč\n💬 Požár pohovky.\n\n🚒 CAS (CHS Tř
- ebíč)\n🚒 CAS (CHS Třebíč)
-END:VEVENT
-BEGIN:VEVENT
-UID:417330061
-DTSTART:20260809T170713Z
-DTEND:20260809T180713Z
-DTSTAMP:20260809T170713Z
-SUMMARY:🚑 transport pacienta - Horní Dubenky
-LOCATION:sídliště Janštejn\, Horní Dubenky
-GEO:49.250469;15.322070
-URL:geo:49.250469,15.322070
-DESCRIPTION:📍 sídliště Janštejn\, Horní Dubenky\, Jihlava\n💬 Transpoprt pac
- ienta.\n\n🚒 CAS (HS Telč)\n🚒 CAS (Horní Dubenky)
-END:VEVENT
-BEGIN:VEVENT
 UID:417331061
 DTSTART:20260809T175221Z
 DTEND:20260809T185221Z
@@ -1069,8 +1033,9 @@ SUMMARY:🚗 se zraněním - Stránecká Zhoř
 LOCATION:Stránecká Zhoř
 GEO:49.378468;15.951480
 URL:geo:49.378468,15.951480
-DESCRIPTION:📍 Kochánov\, Stránecká Zhoř\, Žďár nad Sázavou\n\n🚒 CAS (HS Vel
- ké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)
+DESCRIPTION:📍 Kochánov\, Stránecká Zhoř\, Žďár nad Sázavou\n💬 DN 3 OA. 2 zr
+ aněné osoby v péči ZZS. Provedeno protipožární opatření. Zajištění místa n
+ ehody.\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)
 END:VEVENT
 BEGIN:VEVENT
 UID:417496061
@@ -1093,5 +1058,51 @@ LOCATION:Nový Rychnov
 GEO:49.393818;15.329881
 URL:geo:49.393818,15.329881
 DESCRIPTION:📍 Sázava\, Nový Rychnov\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)
+END:VEVENT
+BEGIN:VEVENT
+UID:417498061
+DTSTART:20260811T165824Z
+DTEND:20260811T175824Z
+DTSTAMP:20260811T165824Z
+SUMMARY:🛠️ obtížný hmyz - Bystřice nad Pernštejnem
+LOCATION:Tyršova\, Bystřice nad Pernštejnem
+GEO:49.523122;16.259420
+URL:geo:49.523122,16.259420
+DESCRIPTION:📍 Tyršova\, Bystřice nad Pernštejnem\, Žďár nad Sázavou\n💬 Odst
+ ranění obtížného hmyzu.\n\n🚒 CAS (Bystřice nad Pernštejnem)
+END:VEVENT
+BEGIN:VEVENT
+UID:417499061
+DTSTART:20260811T170145Z
+DTEND:20260811T180145Z
+DTSTAMP:20260811T170145Z
+SUMMARY:🚗 bez zranění - Urbanov
+LOCATION:Urbanov
+GEO:49.214355;15.514010
+URL:geo:49.214355,15.514010
+DESCRIPTION:📍 Urbanov\, Jihlava\n\n🚒 CAS (HS Telč)
+END:VEVENT
+BEGIN:VEVENT
+UID:417500061
+DTSTART:20260811T170421Z
+DTEND:20260811T180421Z
+DTSTAMP:20260811T170421Z
+SUMMARY:🛠️ obtížný hmyz - Nové Město na Moravě
+LOCATION:Vlachovická\, Nové Město na Moravě
+GEO:49.579193;16.051630
+URL:geo:49.579193,16.051630
+DESCRIPTION:📍 Vlachovická\, Nové Město na Moravě\, Žďár nad Sázavou\n💬 Odst
+ ranění obtížného hmyzu.\n\n🚒 CAS (CHS Žďár nad Sázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:417502061
+DTSTART:20260811T171259Z
+DTEND:20260811T181259Z
+DTSTAMP:20260811T171259Z
+SUMMARY:🚗 dopravní nehoda - Třebíč
+LOCATION:Chlumeckého\, Třebíč
+GEO:49.212479;15.885068
+URL:geo:49.212479,15.885068
+DESCRIPTION:📍 Chlumeckého\, Horka-Domky\, Třebíč\n\n🚒 CAS (CHS Třebíč)
 END:VEVENT
 END:VCALENDAR
