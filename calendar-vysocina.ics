@@ -1122,4 +1122,16 @@ DESCRIPTION:📍 Slavíčkova\, Telč-Podolí\, Telč\, Jihlava\n💬 DN 1 NA\, 
  anění. Provedena likvidace uniklého oleje a úklid vozovky.\n\n🚒 CAS (HS Te
  lč)
 END:VEVENT
+BEGIN:VEVENT
+UID:417507061
+DTSTART:20260811T210923Z
+DTEND:20260811T220923Z
+DTSTAMP:20260811T210923Z
+SUMMARY:🛠️ ostatní - Žirovnice
+LOCATION:Havlíčkovo náměstí\, Žirovnice
+GEO:49.253669;15.186148
+URL:geo:49.253669,15.186148
+DESCRIPTION:📍 Havlíčkovo náměstí\, Žirovnice\, Pelhřimov\n\n🚒 CAS (HS Kamen
+ ice nad Lipou)
+END:VEVENT
 END:VCALENDAR
