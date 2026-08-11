@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:417331061
-DTSTART:20260809T175221Z
-DTEND:20260809T185221Z
-DTSTAMP:20260809T175221Z
-SUMMARY:🛠️ ostatní - Moravec
-LOCATION:Moravec
-GEO:49.453594;16.153216
-URL:geo:49.453594,16.153216
-DESCRIPTION:📍 Moravec\, Žďár nad Sázavou\n💬 Spolupráce s PČR.\n\n🚒 CAS (HS 
- Velké Meziříčí)
-END:VEVENT
-BEGIN:VEVENT
 UID:417332061
 DTSTART:20260809T180222Z
 DTEND:20260809T190222Z
@@ -1058,7 +1046,8 @@ SUMMARY:🚗 dopravní nehoda - Nový Rychnov
 LOCATION:Nový Rychnov
 GEO:49.393818;15.329881
 URL:geo:49.393818,15.329881
-DESCRIPTION:📍 Sázava\, Nový Rychnov\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)
+DESCRIPTION:📍 Sázava\, Nový Rychnov\, Pelhřimov\n💬 DN cyklisty. Zajištění m
+ ísta události.\n\n🚒 CAS (CHS Pelhřimov)
 END:VEVENT
 BEGIN:VEVENT
 UID:417498061
@@ -1116,7 +1105,9 @@ SUMMARY:🚗 dopravní nehoda - Třebíč
 LOCATION:Chlumeckého\, Třebíč
 GEO:49.212479;15.885068
 URL:geo:49.212479,15.885068
-DESCRIPTION:📍 Chlumeckého\, Horka-Domky\, Třebíč\n\n🚒 CAS (CHS Třebíč)
+DESCRIPTION:📍 Chlumeckého\, Horka-Domky\, Třebíč\n💬 Dopravní nehoda 1 OA a 
+ chodce se zraněním. Řízení dopravy\, zajištění místa\, spolupráce se složk
+ ami IZS.\n\n🚒 CAS (CHS Třebíč)
 END:VEVENT
 BEGIN:VEVENT
 UID:417503061
@@ -1127,7 +1118,8 @@ SUMMARY:🛠️ obtížný hmyz - Havlíčkův Brod
 LOCATION:Ledečská\, Havlíčkův Brod
 GEO:49.606088;15.568638
 URL:geo:49.606088,15.568638
-DESCRIPTION:📍 Ledečská\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)
+DESCRIPTION:📍 Ledečská\, Havlíčkův Brod\n💬 Odstranění obtížného hmyzu.\n\n🚒
+  CAS (CHS Havlíčkův Brod)
 END:VEVENT
 BEGIN:VEVENT
 UID:417504061
