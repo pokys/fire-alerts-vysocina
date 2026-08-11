@@ -5,42 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:417324061
-DTSTART:20260809T163222Z
-DTEND:20260809T173222Z
-DTSTAMP:20260809T163222Z
-SUMMARY:🚑 otevření/asistence - Studenec
-LOCATION:Studenec
-GEO:49.205343;16.064454
-URL:geo:49.205343,16.064454
-DESCRIPTION:📍 Studenec\, Třebíč\n💬 Otevření bytu.\n\n🚒 CAS (HS Náměšť nad O
- slavou)
-END:VEVENT
-BEGIN:VEVENT
-UID:417325061
-DTSTART:20260809T163450Z
-DTEND:20260809T173450Z
-DTSTAMP:20260809T163450Z
-SUMMARY:🚑 záchrana ze stromu - Havlíčkův Brod
-LOCATION:Na Valech\, Havlíčkův Brod
-GEO:49.605816;15.580858
-URL:geo:49.605816,15.580858
-DESCRIPTION:📍 Na Valech\, Havlíčkův Brod\n💬 Záchrana ptáka z okapového svod
- u.\n\n🚒 CAS (CHS Havlíčkův Brod)
-END:VEVENT
-BEGIN:VEVENT
-UID:417326061
-DTSTART:20260809T164114Z
-DTEND:20260809T174114Z
-DTSTAMP:20260809T164114Z
-SUMMARY:🚗 dopravní nehoda - Senožaty
-LOCATION:Senožaty
-GEO:49.569827;15.202822
-URL:geo:49.569827,15.202822
-DESCRIPTION:📍 Senožaty\, Pelhřimov\n💬 DN 2 x OA\, dvě zraněné osoby. Zajišt
- ění místa události.\n\n🚒 CAS (HS Humpolec)\n🚒 RZA (HS Humpolec)
-END:VEVENT
-BEGIN:VEVENT
 UID:417327061
 DTSTART:20260809T164747Z
 DTEND:20260809T174747Z
@@ -956,10 +920,10 @@ SUMMARY:🔥 les - Nové Syrovice
 LOCATION:Nové Syrovice
 DESCRIPTION:📍 Nové Syrovice\, Třebíč\n💬 Požár strniště 150x100m\, požár les
  a 200x60m. Lokalizace a likvidace.\n\n🚒 CAS (HS Jemnice)\n🚒 CAS (HS Moravs
- ké Budějovice)\n🚒 CAS (HS Moravské Budějovice)\n🚒 DA (Dešov)\n🚒 CAS (Třebe
- lovice)\n🚒 vyšetřovací automobil (ÚO Třebíč)\n🚒 CAS (Jaroměřice nad Rokytn
- ou)\n🚒 CAS (Jaroměřice nad Rokytnou)\n🚒 CAS (Moravské Budějovice)\n🚒 DA (N
- ové Syrovice)
+ ké Budějovice)\n🚒 CAS (HS Moravské Budějovice)\n🚒 čerpadlo plovoucí (HS Mo
+ ravské Budějovice)\n🚒 DA (Dešov)\n🚒 CAS (Třebelovice)\n🚒 vyšetřovací autom
+ obil (ÚO Třebíč)\n🚒 CAS (Jaroměřice nad Rokytnou)\n🚒 CAS (Jaroměřice nad R
+ okytnou)\n🚒 CAS (Moravské Budějovice)\n🚒 DA (Nové Syrovice)
 END:VEVENT
 BEGIN:VEVENT
 UID:417468061
@@ -1105,8 +1069,8 @@ SUMMARY:🛠️ strom - Bystřice nad Pernštejnem
 LOCATION:Bystřice nad Pernštejnem
 GEO:49.554734;16.217398
 URL:geo:49.554734,16.217398
-DESCRIPTION:📍 Domanín\, Bystřice nad Pernštejnem\, Žďár nad Sázavou\n\n🚒 CA
- S (HS Bystřice nad Pernštejnem)
+DESCRIPTION:📍 Domanín\, Bystřice nad Pernštejnem\, Žďár nad Sázavou\n💬 Odst
+ ranění stromu.\n\n🚒 CAS (HS Bystřice nad Pernštejnem)
 END:VEVENT
 BEGIN:VEVENT
 UID:417491061
