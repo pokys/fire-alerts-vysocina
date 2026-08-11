@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:417317061
-DTSTART:20260809T140428Z
-DTEND:20260809T150428Z
-DTSTAMP:20260809T140428Z
-SUMMARY:🛠️ strom - Košetice
-LOCATION:Košetice
-GEO:49.562287;15.121235
-URL:geo:49.562287,15.121235
-DESCRIPTION:📍 Košetice\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 CAS (Košetice
- )
-END:VEVENT
-BEGIN:VEVENT
 UID:417318061
 DTSTART:20260809T143813Z
 DTEND:20260809T153813Z
@@ -1028,10 +1016,11 @@ DTSTAMP:20260811T112319Z
 SUMMARY:🔥 tráva/plocha - Nové Syrovice
 LOCATION:Nové Syrovice
 DESCRIPTION:📍 Nové Syrovice\, Třebíč\n💬 Požár strniště 150x100m\, požár les
- a 200x60m.\n\n🚒 CAS (HS Jemnice)\n🚒 CAS (HS Moravské Budějovice)\n🚒 CAS (H
- S Moravské Budějovice)\n🚒 DA (Dešov)\n🚒 CAS (Třebelovice)\n🚒 vyšetřovací a
- utomobil (ÚO Třebíč)\n🚒 CAS (Jaroměřice nad Rokytnou)\n🚒 CAS (Jaroměřice n
- ad Rokytnou)\n🚒 CAS (Moravské Budějovice)\n🚒 DA (Nové Syrovice)
+ a 200x60m. Lokalizace a likvidace.\n\n🚒 CAS (HS Jemnice)\n🚒 CAS (HS Moravs
+ ké Budějovice)\n🚒 CAS (HS Moravské Budějovice)\n🚒 DA (Dešov)\n🚒 CAS (Třebe
+ lovice)\n🚒 vyšetřovací automobil (ÚO Třebíč)\n🚒 CAS (Jaroměřice nad Rokytn
+ ou)\n🚒 CAS (Jaroměřice nad Rokytnou)\n🚒 CAS (Moravské Budějovice)\n🚒 DA (N
+ ové Syrovice)
 END:VEVENT
 BEGIN:VEVENT
 UID:417468061
@@ -1093,5 +1082,60 @@ GEO:49.207900;15.841804
 URL:geo:49.207900,15.841804
 DESCRIPTION:📍 Zahraničního odboje\, Borovina\, Třebíč\n💬 Odstranění obtížné
  ho hmyzu.\n\n🚒 CAS (CHS Třebíč)
+END:VEVENT
+BEGIN:VEVENT
+UID:417477061
+DTSTART:20260811T135135Z
+DTEND:20260811T145135Z
+DTSTAMP:20260811T135135Z
+SUMMARY:☣️ plyn - Polnička
+LOCATION:Polnička
+GEO:49.609761;15.914113
+URL:geo:49.609761,15.914113
+DESCRIPTION:📍 Polnička\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad Sázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:417479061
+DTSTART:20260811T140301Z
+DTEND:20260811T150301Z
+DTSTAMP:20260811T140301Z
+SUMMARY:🛠️ ostatní - Polná
+LOCATION:Zahradní\, Polná
+GEO:49.490634;15.719223
+URL:geo:49.490634,15.719223
+DESCRIPTION:📍 Zahradní\, Polná\, Jihlava\n\n🚒 CAS (HS Polná)
+END:VEVENT
+BEGIN:VEVENT
+UID:417480061
+DTSTART:20260811T140430Z
+DTEND:20260811T150430Z
+DTSTAMP:20260811T140430Z
+SUMMARY:🚗 dopravní nehoda - Zdeňkov
+LOCATION:Zdeňkov
+GEO:49.144319;15.617581
+URL:geo:49.144319,15.617581
+DESCRIPTION:📍 Zdeňkov\, Jihlava\n\n🚒 CAS (HS Telč)\n🚒 CAS (Želetava)
+END:VEVENT
+BEGIN:VEVENT
+UID:417481061
+DTSTART:20260811T140851Z
+DTEND:20260811T150851Z
+DTSTAMP:20260811T140851Z
+SUMMARY:🛠️ obtížný hmyz - Batelov
+LOCATION:Za Tratí\, Batelov
+GEO:49.317952;15.391441
+URL:geo:49.317952,15.391441
+DESCRIPTION:📍 Za Tratí\, Batelov\, Jihlava\n\n🚒 CAS (Batelov)
+END:VEVENT
+BEGIN:VEVENT
+UID:417482061
+DTSTART:20260811T141023Z
+DTEND:20260811T151023Z
+DTSTAMP:20260811T141023Z
+SUMMARY:🛠️ ostatní - Zhořec
+LOCATION:Zhořec
+GEO:49.489378;14.965162
+URL:geo:49.489378,14.965162
+DESCRIPTION:📍 Zhořec\, Pelhřimov\n\n🚒 CAS (Pacov)
 END:VEVENT
 END:VCALENDAR
