@@ -1027,11 +1027,11 @@ DTEND:20260811T122319Z
 DTSTAMP:20260811T112319Z
 SUMMARY:🔥 tráva/plocha - Nové Syrovice
 LOCATION:Nové Syrovice
-DESCRIPTION:📍 Nové Syrovice\, Třebíč\n\n🚒 CAS (HS Jemnice)\n🚒 CAS (HS Morav
- ské Budějovice)\n🚒 CAS (HS Moravské Budějovice)\n🚒 DA (Dešov)\n🚒 CAS (Třeb
- elovice)\n🚒 vyšetřovací automobil (ÚO Třebíč)\n🚒 CAS (Jaroměřice nad Rokyt
- nou)\n🚒 CAS (Jaroměřice nad Rokytnou)\n🚒 CAS (Moravské Budějovice)\n🚒 DA (
- Nové Syrovice)
+DESCRIPTION:📍 Nové Syrovice\, Třebíč\n💬 Požár strniště 150x100m\, požár les
+ a 200x60m.\n\n🚒 CAS (HS Jemnice)\n🚒 CAS (HS Moravské Budějovice)\n🚒 CAS (H
+ S Moravské Budějovice)\n🚒 DA (Dešov)\n🚒 CAS (Třebelovice)\n🚒 vyšetřovací a
+ utomobil (ÚO Třebíč)\n🚒 CAS (Jaroměřice nad Rokytnou)\n🚒 CAS (Jaroměřice n
+ ad Rokytnou)\n🚒 CAS (Moravské Budějovice)\n🚒 DA (Nové Syrovice)
 END:VEVENT
 BEGIN:VEVENT
 UID:417468061
@@ -1068,5 +1068,30 @@ GEO:49.397910;15.564021
 URL:geo:49.397910,15.564021
 DESCRIPTION:📍 Za Prachárnou\, Jihlava\n\n🚒 CAS (CHS Jihlava)\n🚒 AŽ (CHS Jih
  lava)
+END:VEVENT
+BEGIN:VEVENT
+UID:417474061
+DTSTART:20260811T133804Z
+DTEND:20260811T143804Z
+DTSTAMP:20260811T133804Z
+SUMMARY:⚠️ planý poplach - Žďár nad Sázavou
+LOCATION:Jihlavská\, Žďár nad Sázavou
+GEO:49.548882;15.940434
+URL:geo:49.548882,15.940434
+DESCRIPTION:📍 Jihlavská\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n💬 Požár oh
+ lášený systémem elektrické požární signalizace. Průzkumem bylo zjištěno\, 
+ že se jedná o planý poplach.\n\n🚒 CAS (CHS Žďár nad Sázavou) ×2
+END:VEVENT
+BEGIN:VEVENT
+UID:417475061
+DTSTART:20260811T134317Z
+DTEND:20260811T144317Z
+DTSTAMP:20260811T134317Z
+SUMMARY:🛠️ obtížný hmyz - Třebíč
+LOCATION:Zahraničního odboje\, Třebíč
+GEO:49.207900;15.841804
+URL:geo:49.207900,15.841804
+DESCRIPTION:📍 Zahraničního odboje\, Borovina\, Třebíč\n💬 Odstranění obtížné
+ ho hmyzu.\n\n🚒 CAS (CHS Třebíč)
 END:VEVENT
 END:VCALENDAR
