@@ -456,6 +456,18 @@ DESCRIPTION:📍 Jihlavská\, Havlíčkův Brod\n💬 Otevření bytu.\n\n🚒 C
  vlíčkův Brod)
 END:VEVENT
 BEGIN:VEVENT
+UID:417369061
+DTSTART:20260810T110538Z
+DTEND:20260810T120538Z
+DTSTAMP:20260810T110538Z
+SUMMARY:🛠️ otevření bytu/auta - Náměšť nad Oslavou
+LOCATION:Zámek\, Náměšť nad Oslavou
+GEO:49.210581;16.163640
+URL:geo:49.210581,16.163640
+DESCRIPTION:📍 Zámek\, Náměšť nad Oslavou\, Třebíč\n💬 Otevření OA.\n\n🚒 CAS 
+ (HS Náměšť nad Oslavou)
+END:VEVENT
+BEGIN:VEVENT
 UID:417370061
 DTSTART:20260810T112010Z
 DTEND:20260810T122010Z
@@ -1016,10 +1028,11 @@ SUMMARY:🔥 vozidlo - Píšť
 LOCATION:Píšť
 GEO:49.612540;15.192311
 URL:geo:49.612540,15.192311
-DESCRIPTION:📍 Píšť\, Pelhřimov\n\n🚒 CAS (HS Humpolec)\n🚒 CAS (HS Humpolec)\
- n🚒 RZA (HS Humpolec)\n🚒 DA (Hořice)\n🚒 CAS (Hořice)\n🚒 přívěs motorová stř
- íkačka (Hořice)\n🚒 CAS (Senožaty)\n🚒 DA (Píšť)\n🚒 vyšetřovací automobil (Ú
- O Pelhřimov)\n🚒 CAS (CHS Pelhřimov)
+DESCRIPTION:📍 Píšť\, Pelhřimov\n💬 Požár sběracího návěsu. Jednotky provely 
+ lokalizaci a likvidaci požáru.\n\n🚒 CAS (HS Humpolec)\n🚒 CAS (HS Humpolec)
+ \n🚒 RZA (HS Humpolec)\n🚒 DA (Hořice)\n🚒 CAS (Hořice)\n🚒 přívěs motorová st
+ říkačka (Hořice)\n🚒 CAS (Senožaty)\n🚒 DA (Píšť)\n🚒 vyšetřovací automobil (
+ ÚO Pelhřimov)\n🚒 CAS (CHS Pelhřimov)
 END:VEVENT
 BEGIN:VEVENT
 UID:417454061
@@ -1045,5 +1058,28 @@ GEO:49.027181;15.788438
 URL:geo:49.027181,15.788438
 DESCRIPTION:📍 Krnčice\, Nové Syrovice\, Třebíč\n💬 Pročištění kanalizace.\n\
  n🚒 CAS (HS Moravské Budějovice)
+END:VEVENT
+BEGIN:VEVENT
+UID:417460061
+DTSTART:20260811T105547Z
+DTEND:20260811T115547Z
+DTSTAMP:20260811T105547Z
+SUMMARY:🚑 otevření/asistence - Bystřice nad Pernštejnem
+LOCATION:Lipová\, Bystřice nad Pernštejnem
+GEO:49.517882;16.261272
+URL:geo:49.517882,16.261272
+DESCRIPTION:📍 Lipová\, Bystřice nad Pernštejnem\, Žďár nad Sázavou\n💬 Otevř
+ ení bytu.\n\n🚒 CAS (HS Bystřice nad Pernštejnem)
+END:VEVENT
+BEGIN:VEVENT
+UID:417462061
+DTSTART:20260811T110648Z
+DTEND:20260811T120648Z
+DTSTAMP:20260811T110648Z
+SUMMARY:☣️ olej/PHM - Třebíč
+LOCATION:Budischowského\, Třebíč
+GEO:49.206595;15.856510
+URL:geo:49.206595,15.856510
+DESCRIPTION:📍 Budischowského\, Borovina\, Třebíč\n\n🚒 CAS (CHS Třebíč)
 END:VEVENT
 END:VCALENDAR
