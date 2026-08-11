@@ -148,8 +148,8 @@ SUMMARY:🚗 dopravní nehoda - Pelhřimov
 LOCATION:Pelhřimov
 GEO:49.418938;15.167936
 URL:geo:49.418938,15.167936
-DESCRIPTION:📍 Vlásenice\, Pelhřimov\n💬 DN 2 OA\, 1 zraněná osoba.\n\n🚒 CAS 
- (CHS Pelhřimov)
+DESCRIPTION:📍 Vlásenice\, Pelhřimov\n💬 DN 2 x OA\, jedna zraněná osoba. Zaj
+ ištění místa události.\n\n🚒 CAS (CHS Pelhřimov)
 END:VEVENT
 BEGIN:VEVENT
 UID:417408061
@@ -160,7 +160,8 @@ SUMMARY:🛠️ strom - Olešná
 LOCATION:Olešná
 GEO:49.438168;15.261668
 URL:geo:49.438168,15.261668
-DESCRIPTION:📍 Olešná\, Pelhřimov\n\n🚒 DA (Olešná (PE))\n🚒 CAS (Olešná (PE))
+DESCRIPTION:📍 Olešná\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 DA (Olešná (PE)
+ )\n🚒 CAS (Olešná (PE))
 END:VEVENT
 BEGIN:VEVENT
 UID:417414061

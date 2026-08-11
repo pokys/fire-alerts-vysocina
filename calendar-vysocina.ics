@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:417292061
-DTSTART:20260809T051014Z
-DTEND:20260809T061014Z
-DTSTAMP:20260809T051014Z
-SUMMARY:🚗 úklid místa - Ždírec nad Doubravou
-LOCATION:Ždírec nad Doubravou
-GEO:49.739829;15.823039
-URL:geo:49.739829,15.823039
-DESCRIPTION:📍 Údavy\, Ždírec nad Doubravou\, Havlíčkův Brod\n💬 Dopravní neh
- oda 1 OA\, bez zranění. Likvidace úniku provozních kapalin sorbentem\, říz
- ení dopravy.\n\n🚒 CAS (HS Chotěboř)\n🚒 CAS (Ždírec nad Doubravou)
-END:VEVENT
-BEGIN:VEVENT
 UID:417294061
 DTSTART:20260809T065208Z
 DTEND:20260809T075208Z
@@ -794,8 +781,8 @@ SUMMARY:🔥 tráva/plocha - Nová Říše
 LOCATION:Nová Říše
 GEO:49.145069;15.555096
 URL:geo:49.145069,15.555096
-DESCRIPTION:📍 Nová Říše\, Jihlava\n\n🚒 CAS (HS Telč)\n🚒 CAS (HS Telč)\n🚒 CA
- S (Nová Říše)\n🚒 CAS (Stará Říše)
+DESCRIPTION:📍 Nová Říše\, Jihlava\n💬 Požár strniště.\n\n🚒 CAS (HS Telč)\n🚒 
+ CAS (HS Telč)\n🚒 CAS (Nová Říše)\n🚒 CAS (Stará Říše)
 END:VEVENT
 BEGIN:VEVENT
 UID:417399061
@@ -806,7 +793,8 @@ SUMMARY:🛠️ obtížný hmyz - Jihlava
 LOCATION:Užhorodská\, Jihlava
 GEO:49.406911;15.550911
 URL:geo:49.406911,15.550911
-DESCRIPTION:📍 Užhorodská\, Horní Kosov\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+DESCRIPTION:📍 Užhorodská\, Horní Kosov\, Jihlava\n💬 Lividace nebezpočného h
+ myzu.\n\n🚒 CAS (CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:417400061
@@ -889,7 +877,8 @@ SUMMARY:🛠️ obtížný hmyz - Kněžice
 LOCATION:Kněžice
 GEO:49.262298;15.669160
 URL:geo:49.262298,15.669160
-DESCRIPTION:📍 Kněžice\, Jihlava\n\n🚒 DA (Kněžice)
+DESCRIPTION:📍 Kněžice\, Jihlava\n💬 Likvidace nebezpečného hmyzu.\n\n🚒 DA (K
+ něžice)
 END:VEVENT
 BEGIN:VEVENT
 UID:417407061
@@ -900,8 +889,8 @@ SUMMARY:🚗 dopravní nehoda - Pelhřimov
 LOCATION:Pelhřimov
 GEO:49.418938;15.167936
 URL:geo:49.418938,15.167936
-DESCRIPTION:📍 Vlásenice\, Pelhřimov\n💬 DN 2 OA\, 1 zraněná osoba.\n\n🚒 CAS 
- (CHS Pelhřimov)
+DESCRIPTION:📍 Vlásenice\, Pelhřimov\n💬 DN 2 x OA\, jedna zraněná osoba. Zaj
+ ištění místa události.\n\n🚒 CAS (CHS Pelhřimov)
 END:VEVENT
 BEGIN:VEVENT
 UID:417408061
@@ -912,7 +901,8 @@ SUMMARY:🛠️ strom - Olešná
 LOCATION:Olešná
 GEO:49.438168;15.261668
 URL:geo:49.438168,15.261668
-DESCRIPTION:📍 Olešná\, Pelhřimov\n\n🚒 DA (Olešná (PE))\n🚒 CAS (Olešná (PE))
+DESCRIPTION:📍 Olešná\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 DA (Olešná (PE)
+ )\n🚒 CAS (Olešná (PE))
 END:VEVENT
 BEGIN:VEVENT
 UID:417409061
@@ -947,8 +937,8 @@ SUMMARY:🛠️ strom - Dobronín
 LOCATION:Dobronín
 GEO:49.491907;15.615637
 URL:geo:49.491907,15.615637
-DESCRIPTION:📍 Dobronín\, Jihlava\n\n🚒 CAS (HS Polná)\n🚒 pila řetězová (HS P
- olná)
+DESCRIPTION:📍 Dobronín\, Jihlava\n💬 Odtsranění stromu.\n\n🚒 CAS (HS Polná)\
+ n🚒 pila řetězová (HS Polná)
 END:VEVENT
 BEGIN:VEVENT
 UID:417414061
@@ -995,7 +985,8 @@ SUMMARY:🛠️ ostatní - Jihlava
 LOCATION:Březinova\, Jihlava
 GEO:49.400547;15.602074
 URL:geo:49.400547,15.602074
-DESCRIPTION:📍 Březinova\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+DESCRIPTION:📍 Březinova\, Jihlava\n💬 Pomoc imobilní osobě.\n\n🚒 CAS (CHS Ji
+ hlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:417419061
