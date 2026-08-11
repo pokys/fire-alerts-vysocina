@@ -1033,7 +1033,8 @@ SUMMARY:🚗 bez zranění - Urbanov
 LOCATION:Urbanov
 GEO:49.214355;15.514010
 URL:geo:49.214355,15.514010
-DESCRIPTION:📍 Urbanov\, Jihlava\n\n🚒 CAS (HS Telč)
+DESCRIPTION:📍 Urbanov\, Jihlava\n💬 DN 1 OA\, bez zranění\, provedeno zajišt
+ ění místa nehody a řízení dopravy.\n\n🚒 CAS (HS Telč)
 END:VEVENT
 BEGIN:VEVENT
 UID:417500061
@@ -1117,6 +1118,8 @@ SUMMARY:🚗 úklid místa - Telč
 LOCATION:Slavíčkova\, Telč
 GEO:49.179154;15.462918
 URL:geo:49.179154,15.462918
-DESCRIPTION:📍 Slavíčkova\, Telč-Podolí\, Telč\, Jihlava\n\n🚒 CAS (HS Telč)
+DESCRIPTION:📍 Slavíčkova\, Telč-Podolí\, Telč\, Jihlava\n💬 DN 1 NA\, bez zr
+ anění. Provedena likvidace uniklého oleje a úklid vozovky.\n\n🚒 CAS (HS Te
+ lč)
 END:VEVENT
 END:VCALENDAR
