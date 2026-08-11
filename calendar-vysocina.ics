@@ -1036,7 +1036,8 @@ SUMMARY:🛠️ strom - Skuhrov
 LOCATION:Skuhrov
 GEO:49.690097;15.529818
 URL:geo:49.690097,15.529818
-DESCRIPTION:📍 Skuhrov\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)
+DESCRIPTION:📍 Skuhrov\, Havlíčkův Brod\n💬 Odstranění stromu.\n\n🚒 CAS (CHS 
+ Havlíčkův Brod)
 END:VEVENT
 BEGIN:VEVENT
 UID:417441061
@@ -1072,6 +1073,7 @@ SUMMARY:🛠️ obtížný hmyz - Jihlava
 LOCATION:Polenská\, Jihlava
 GEO:49.407372;15.591848
 URL:geo:49.407372,15.591848
-DESCRIPTION:📍 Polenská\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+DESCRIPTION:📍 Polenská\, Jihlava\n💬 Odstranění stromu.\n\n🚒 CAS (CHS Jihlav
+ a)
 END:VEVENT
 END:VCALENDAR
