@@ -1089,18 +1089,8 @@ SUMMARY:🛠️ obtížný hmyz - Batelov
 LOCATION:Za Tratí\, Batelov
 GEO:49.317952;15.391441
 URL:geo:49.317952,15.391441
-DESCRIPTION:📍 Za Tratí\, Batelov\, Jihlava\n\n🚒 CAS (Batelov)
-END:VEVENT
-BEGIN:VEVENT
-UID:417482061
-DTSTART:20260811T141023Z
-DTEND:20260811T151023Z
-DTSTAMP:20260811T141023Z
-SUMMARY:🛠️ ostatní - Zhořec
-LOCATION:Zhořec
-GEO:49.489378;14.965162
-URL:geo:49.489378,14.965162
-DESCRIPTION:📍 Zhořec\, Pelhřimov\n\n🚒 CAS (Pacov)
+DESCRIPTION:📍 Za Tratí\, Batelov\, Jihlava\n💬 Odstranění obtížného hmyzu.\n
+ \n🚒 CAS (Batelov)
 END:VEVENT
 BEGIN:VEVENT
 UID:417483061
@@ -1111,6 +1101,31 @@ SUMMARY:🔥 venkovní požár - Jihlava
 LOCATION:Jihlava
 GEO:49.394938;15.553557
 URL:geo:49.394938,15.553557
-DESCRIPTION:📍 Pístov\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+DESCRIPTION:📍 Pístov\, Jihlava\n💬 Požár samozavlažovacího zařízerní v květi
+ náči. Byla provedena lokalizace a likvidace PO. Beze škody.\n\n🚒 CAS (CHS 
+ Jihlava)
+END:VEVENT
+BEGIN:VEVENT
+UID:417487061
+DTSTART:20260811T154554Z
+DTEND:20260811T164554Z
+DTSTAMP:20260811T154554Z
+SUMMARY:🚗 dopravní nehoda - Jemnice
+LOCATION:Červenomlýnská\, Jemnice
+GEO:49.024872;15.569697
+URL:geo:49.024872,15.569697
+DESCRIPTION:📍 Červenomlýnská\, Jemnice\, Třebíč\n\n🚒 CAS (HS Jemnice)
+END:VEVENT
+BEGIN:VEVENT
+UID:417489061
+DTSTART:20260811T155051Z
+DTEND:20260811T165051Z
+DTSTAMP:20260811T155051Z
+SUMMARY:🛠️ strom - Bystřice nad Pernštejnem
+LOCATION:Bystřice nad Pernštejnem
+GEO:49.554734;16.217398
+URL:geo:49.554734,16.217398
+DESCRIPTION:📍 Domanín\, Bystřice nad Pernštejnem\, Žďár nad Sázavou\n\n🚒 CA
+ S (HS Bystřice nad Pernštejnem)
 END:VEVENT
 END:VCALENDAR
