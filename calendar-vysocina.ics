@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:417382061
-DTSTART:20260810T134929Z
-DTEND:20260810T144929Z
-DTSTAMP:20260810T134929Z
-SUMMARY:🛠️ strom - Křelovice
-LOCATION:Křelovice
-GEO:49.533272;15.194065
-URL:geo:49.533272,15.194065
-DESCRIPTION:📍 Křelovice\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 DA (Křelovic
- e)\n🚒 pila řetězová (Křelovice)
-END:VEVENT
-BEGIN:VEVENT
 UID:417384061
 DTSTART:20260810T141553Z
 DTEND:20260810T151553Z
@@ -969,7 +957,10 @@ LOCATION:Studenec
 GEO:49.219282;16.075223
 URL:geo:49.219282,16.075223
 DESCRIPTION:📍 Studenec\, Třebíč\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (CHS Třebíč)\n
- 🚒 CAS (HS Náměšť nad Oslavou)\n🚒 CAS (Pozďatín)\n🚒 DA (Studenec)
+ 🚒 CAS (HS Náměšť nad Oslavou)\n🚒 CAS (Pozďatín)\n🚒 DA (Studenec)\n🚒 CAS (K
+ ralice nad Oslavou)\n🚒 CAS (HS Hrotovice)\n🚒 kombinovaný hasicí automobil 
+ (VHJ 2427 Náměšť nad Oslavou)\n🚒 DA (Budišov)\n🚒 CAS (Budišov)\n🚒 CAS (Bud
+ išov-Mihoukovice)\n🚒 CAS (Nárameč)\n🚒 vyšetřovací automobil (ÚO Třebíč)
 END:VEVENT
 BEGIN:VEVENT
 UID:417536061
