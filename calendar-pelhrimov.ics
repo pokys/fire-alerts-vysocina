@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Pelhřimov
 BEGIN:VEVENT
-UID:417359061
-DTSTART:20260810T084634Z
-DTEND:20260810T094634Z
-DTSTAMP:20260810T084634Z
-SUMMARY:🛠️ obtížný hmyz - Humpolec
-LOCATION:U Nemocnice\, Humpolec
-GEO:49.538718;15.364062
-URL:geo:49.538718,15.364062
-DESCRIPTION:📍 U Nemocnice\, Humpolec\, Pelhřimov\n💬 Odstranění obtížného hm
- yzu.\n\n🚒 CAS (HS Humpolec)\n🚒 AŽ (HS Humpolec)
-END:VEVENT
-BEGIN:VEVENT
 UID:417382061
 DTSTART:20260810T134929Z
 DTEND:20260810T144929Z
@@ -129,6 +117,18 @@ DESCRIPTION:📍 Píšť\, Pelhřimov\n💬 Požár sběracího návěsu. Jednot
  (ÚO Pelhřimov)\n🚒 CAS (CHS Pelhřimov)
 END:VEVENT
 BEGIN:VEVENT
+UID:417497061
+DTSTART:20260811T162400Z
+DTEND:20260811T172400Z
+DTSTAMP:20260811T162400Z
+SUMMARY:🚗 dopravní nehoda - Nový Rychnov
+LOCATION:Nový Rychnov
+GEO:49.393818;15.329881
+URL:geo:49.393818,15.329881
+DESCRIPTION:📍 Sázava\, Nový Rychnov\, Pelhřimov\n💬 DN cyklisty. Zajištění m
+ ísta události.\n\n🚒 CAS (CHS Pelhřimov)
+END:VEVENT
+BEGIN:VEVENT
 UID:417496061
 DTSTART:20260811T163452Z
 DTEND:20260811T173452Z
@@ -139,18 +139,6 @@ GEO:49.455484;15.152849
 URL:geo:49.455484,15.152849
 DESCRIPTION:📍 Lipice\, Pelhřimov\n💬 Odstranění stromu na komunikaci.\n\n🚒 C
  AS (CHS Pelhřimov)\n🚒 pila řetězová (CHS Pelhřimov)
-END:VEVENT
-BEGIN:VEVENT
-UID:417497061
-DTSTART:20260811T163524Z
-DTEND:20260811T173524Z
-DTSTAMP:20260811T163524Z
-SUMMARY:🚗 dopravní nehoda - Nový Rychnov
-LOCATION:Nový Rychnov
-GEO:49.393818;15.329881
-URL:geo:49.393818,15.329881
-DESCRIPTION:📍 Sázava\, Nový Rychnov\, Pelhřimov\n💬 DN cyklisty. Zajištění m
- ísta události.\n\n🚒 CAS (CHS Pelhřimov)
 END:VEVENT
 BEGIN:VEVENT
 UID:417501061
@@ -176,5 +164,16 @@ URL:geo:49.253669,15.186148
 DESCRIPTION:📍 Havlíčkovo náměstí\, Žirovnice\, Pelhřimov\n💬 Voda protékajíc
  í stropem bytu. Jednotka provedla zastavení vody v bytě.\n\n🚒 CAS (HS Kame
  nice nad Lipou)
+END:VEVENT
+BEGIN:VEVENT
+UID:417524061
+DTSTART:20260812T084913Z
+DTEND:20260812T094913Z
+DTSTAMP:20260812T084913Z
+SUMMARY:🚑 transport pacienta - Pacov
+LOCATION:Antonína Sovy\, Pacov
+GEO:49.469099;15.005279
+URL:geo:49.469099,15.005279
+DESCRIPTION:📍 Antonína Sovy\, Pacov\, Pelhřimov\n\n🚒 CAS (HS Pacov)
 END:VEVENT
 END:VCALENDAR
