@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:417392061
-DTSTART:20260810T154945Z
-DTEND:20260810T164945Z
-DTSTAMP:20260810T154945Z
-SUMMARY:🛠️ obtížný hmyz - Žďár nad Sázavou
-LOCATION:Žďár nad Sázavou
-GEO:49.546411;15.973311
-URL:geo:49.546411,15.973311
-DESCRIPTION:📍 Žďár nad Sázavou 1\, Žďár nad Sázavou\n💬 Odstranění obtížného
-  hmyzu.\n\n🚒 CAS (Žďár nad Sázavou-Zámek)
-END:VEVENT
-BEGIN:VEVENT
 UID:417394061
 DTSTART:20260810T160351Z
 DTEND:20260810T170351Z
@@ -893,7 +881,7 @@ DESCRIPTION:📍 Studenec\, Třebíč\n💬 Požár lesa 100x 150m. Lokalizace.\
  n🚒 DA (Lipník)\n🚒 CAS (Lipník)\n🚒 DA (Rudíkov)\n🚒 CAS (Rudíkov)\n🚒 CAS (Tr
  nava)\n🚒 automobilový nosič kontejnerů (CHS Jihlava)\n🚒 kontejner protiply
  nový (CHS Jihlava)\n🚒 DA (Smrk)\n🚒 CAS (Slavětice)\n🚒 DA (Hrotovice)\n🚒 CA
- S (Hrotovice)
+ S (Hrotovice)\n🚒 DA (Kralice nad Oslavou-Horní Lhotice)
 END:VEVENT
 BEGIN:VEVENT
 UID:417536061
@@ -928,7 +916,8 @@ SUMMARY:🛠️ obtížný hmyz - Jiřice
 LOCATION:Jiřice
 GEO:49.553515;15.322750
 URL:geo:49.553515,15.322750
-DESCRIPTION:📍 Jiřice\, Pelhřimov\n\n🚒 CAS (HS Humpolec)
+DESCRIPTION:📍 Jiřice\, Pelhřimov\n💬 Odstranění obtížného hmyzu.\n\n🚒 CAS (H
+ S Humpolec)
 END:VEVENT
 BEGIN:VEVENT
 UID:417544061
