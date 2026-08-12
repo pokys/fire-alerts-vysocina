@@ -961,4 +961,16 @@ URL:geo:49.558277,16.067577
 DESCRIPTION:📍 Jamborova\, Nové Město na Moravě\, Žďár nad Sázavou\n💬 Odstra
  nění obtížného hmyzu.\n\n🚒 CAS (CHS Žďár nad Sázavou)
 END:VEVENT
+BEGIN:VEVENT
+UID:417529061
+DTSTART:20260812T122433Z
+DTEND:20260812T132433Z
+DTSTAMP:20260812T122433Z
+SUMMARY:🚗 dopravní nehoda - Jihlava
+LOCATION:Matky Boží\, Jihlava
+GEO:49.394643;15.586367
+URL:geo:49.394643,15.586367
+DESCRIPTION:📍 Matky Boží\, Jihlava\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihla
+ va)
+END:VEVENT
 END:VCALENDAR
