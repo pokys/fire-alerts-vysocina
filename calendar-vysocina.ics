@@ -125,11 +125,11 @@ URL:geo:49.620641,15.411057
 DESCRIPTION:📍 Lipnice nad Sázavou\, Havlíčkův Brod\n💬 Únik neznámé látky na
   vodní plochu. Postaveny norné stěny.\n\n🚒 CAS (HS Světlá nad Sázavou) ×3\
  n🚒 osobní automobil (HS Světlá nad Sázavou) ×2\n🚒 přívěs lodní (HS Světlá 
- nad Sázavou) ×2\n🚒 automobilový nosič kontejnerů (CHS Havlíčkův Brod) ×2\n
+ nad Sázavou) ×2\n🚒 automobilový nosič kontejnerů (CHS Havlíčkův Brod) ×3\n
  🚒 vozidlo účelové - SxS (CHS Havlíčkův Brod)\n🚒 přívěs nákladní (CHS Havlí
  čkův Brod)\n🚒 kontejner technický - chemický (CHS Havlíčkův Brod)\n🚒 konte
- jner nákladní (CHS Havlíčkův Brod)\n🚒 VEA (ÚO Havlíčkův Brod)\n🚒 VYA (CHS 
- Jihlava)\n🚒 CAS (Lipnice nad Sázavou)
+ jner nákladní (CHS Havlíčkův Brod) ×2\n🚒 VEA (ÚO Havlíčkův Brod)\n🚒 VYA (C
+ HS Jihlava)\n🚒 CAS (Lipnice nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:417371061
@@ -1120,6 +1120,7 @@ SUMMARY:🛠️ strom - Velká Bíteš
 LOCATION:Velká Bíteš
 GEO:49.292832;16.234131
 URL:geo:49.292832,16.234131
-DESCRIPTION:📍 Velká Bíteš\, Žďár nad Sázavou\n\n🚒 AŽ (HS Velká Bíteš)
+DESCRIPTION:📍 Velká Bíteš\, Žďár nad Sázavou\n💬 Odstranění stromu.\n\n🚒 AŽ 
+ (HS Velká Bíteš)
 END:VEVENT
 END:VCALENDAR
