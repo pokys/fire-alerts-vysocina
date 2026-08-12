@@ -936,8 +936,10 @@ DESCRIPTION:📍 Studenec\, Třebíč\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (CHS
  tín)\n🚒 DA (Studenec)\n🚒 CAS (Kralice nad Oslavou)\n🚒 CAS (HS Hrotovice)\n
  🚒 kombinovaný hasicí automobil (VHJ 2427 Náměšť nad Oslavou)\n🚒 DA (Budišo
  v)\n🚒 CAS (Budišov)\n🚒 CAS (Budišov-Mihoukovice)\n🚒 CAS (Nárameč)\n🚒 vyšet
- řovací automobil (ÚO Třebíč)\n🚒 CAS (Dalešice)\n🚒 CAS (Lipník)\n🚒 CAS (Rud
- íkov)\n🚒 CAS (Trnava)
+ řovací automobil (ÚO Třebíč)\n🚒 DA (Dalešice)\n🚒 CAS (Dalešice)\n🚒 CAS (Li
+ pník)\n🚒 DA (Rudíkov)\n🚒 CAS (Rudíkov)\n🚒 CAS (Trnava)\n🚒 automobilový nos
+ ič kontejnerů (CHS Jihlava)\n🚒 kontejner protiplynový (CHS Jihlava)\n🚒 DA 
+ (Smrk)\n🚒 CAS (Slavětice)
 END:VEVENT
 BEGIN:VEVENT
 UID:417536061
@@ -960,6 +962,18 @@ SUMMARY:🚑 transport pacienta - Jemnice
 LOCATION:Pod Tržištěm\, Jemnice
 GEO:49.019693;15.576622
 URL:geo:49.019693,15.576622
-DESCRIPTION:📍 Pod Tržištěm\, Jemnice\, Třebíč\n\n🚒 CAS (HS Jemnice)
+DESCRIPTION:📍 Pod Tržištěm\, Jemnice\, Třebíč\n💬 Transport pacienta na žádo
+ st ZZS.\n\n🚒 CAS (HS Jemnice)
+END:VEVENT
+BEGIN:VEVENT
+UID:417542061
+DTSTART:20260812T144257Z
+DTEND:20260812T154257Z
+DTSTAMP:20260812T144257Z
+SUMMARY:🛠️ obtížný hmyz - Jiřice
+LOCATION:Jiřice
+GEO:49.553515;15.322750
+URL:geo:49.553515,15.322750
+DESCRIPTION:📍 Jiřice\, Pelhřimov\n\n🚒 CAS (HS Humpolec)
 END:VEVENT
 END:VCALENDAR
