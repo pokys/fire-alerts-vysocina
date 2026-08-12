@@ -936,18 +936,6 @@ DESCRIPTION:📍 Matky Boží\, Jihlava\n💬 DN motocyklu a OA\, 1 zraněná os
  Zajištění místa DN.\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
-UID:417532061
-DTSTART:20260812T131313Z
-DTEND:20260812T141313Z
-DTSTAMP:20260812T131313Z
-SUMMARY:🛠️ monitoring - Radostín nad Oslavou
-LOCATION:Radostín nad Oslavou
-GEO:49.468305;15.971925
-URL:geo:49.468305,15.971925
-DESCRIPTION:📍 Radostín nad Oslavou\, Žďár nad Sázavou\n\n🚒 CAS (Radostín na
- d Oslavou)
-END:VEVENT
-BEGIN:VEVENT
 UID:417534061
 DTSTART:20260812T132527Z
 DTEND:20260812T142527Z
@@ -971,6 +959,7 @@ SUMMARY:🛠️ ostatní - Jemnice
 LOCATION:Lípová\, Jemnice
 GEO:49.018496;15.576720
 URL:geo:49.018496,15.576720
-DESCRIPTION:📍 Lípová\, Jemnice\, Třebíč\n\n🚒 CAS (HS Jemnice)
+DESCRIPTION:📍 Lípová\, Jemnice\, Třebíč\n💬 Pomoc imobilní osobě.\n\n🚒 CAS (
+ HS Jemnice)
 END:VEVENT
 END:VCALENDAR
