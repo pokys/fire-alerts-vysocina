@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:417365061
-DTSTART:20260810T100600Z
-DTEND:20260810T110600Z
-DTSTAMP:20260810T100600Z
-SUMMARY:🛠️ otevření bytu/auta - Havlíčkův Brod
-LOCATION:Jihlavská\, Havlíčkův Brod
-GEO:49.601566;15.578896
-URL:geo:49.601566,15.578896
-DESCRIPTION:📍 Jihlavská\, Havlíčkův Brod\n💬 Otevření bytu.\n\n🚒 CAS (CHS Ha
- vlíčkův Brod)
-END:VEVENT
-BEGIN:VEVENT
 UID:417369061
 DTSTART:20260810T110538Z
 DTEND:20260810T120538Z
@@ -27,24 +15,6 @@ GEO:49.210581;16.163640
 URL:geo:49.210581,16.163640
 DESCRIPTION:📍 Zámek\, Náměšť nad Oslavou\, Třebíč\n💬 Otevření OA.\n\n🚒 CAS 
  (HS Náměšť nad Oslavou)
-END:VEVENT
-BEGIN:VEVENT
-UID:417370061
-DTSTART:20260810T112010Z
-DTEND:20260810T122010Z
-DTSTAMP:20260810T112010Z
-SUMMARY:☣️ neznámá látka - Lipnice nad Sázavou
-LOCATION:Lipnice nad Sázavou
-GEO:49.620641;15.411057
-URL:geo:49.620641,15.411057
-DESCRIPTION:📍 Lipnice nad Sázavou\, Havlíčkův Brod\n💬 Únik neznámé látky na
-  vodní plochu. Postaveny norné stěny.\n\n🚒 CAS (HS Světlá nad Sázavou) ×3\
- n🚒 osobní automobil (HS Světlá nad Sázavou) ×2\n🚒 přívěs lodní (HS Světlá 
- nad Sázavou) ×2\n🚒 automobilový nosič kontejnerů (CHS Havlíčkův Brod) ×3\n
- 🚒 vozidlo účelové - SxS (CHS Havlíčkův Brod)\n🚒 přívěs nákladní (CHS Havlí
- čkův Brod)\n🚒 kontejner technický - chemický (CHS Havlíčkův Brod)\n🚒 konte
- jner nákladní (CHS Havlíčkův Brod) ×2\n🚒 VEA (ÚO Havlíčkův Brod)\n🚒 VYA (C
- HS Jihlava)\n🚒 CAS (Lipnice nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:417371061
