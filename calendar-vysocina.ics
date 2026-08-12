@@ -808,19 +808,20 @@ LOCATION:Horní Ves
 GEO:49.293330;15.325977
 URL:geo:49.293330,15.325977
 DESCRIPTION:📍 Horní Ves\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (CHS Pe
- lhřimov)\n🚒 CAS (Horní Cerekev)\n🚒 CAS (Počátky)\n🚒 DA (Horní Ves)
+ lhřimov)\n🚒 CAS (Horní Cerekev)\n🚒 CAS (Počátky) ×2\n🚒 DA (Horní Ves)
 END:VEVENT
 BEGIN:VEVENT
 UID:417556061
 DTSTART:20260812T181248Z
 DTEND:20260812T191248Z
 DTSTAMP:20260812T181248Z
-SUMMARY:🔥 tráva/plocha - Jaroměřice nad Rokytnou
+SUMMARY:⚠️ planý poplach - Jaroměřice nad Rokytnou
 LOCATION:Jaroměřice nad Rokytnou
 GEO:49.100470;15.865049
 URL:geo:49.100470,15.865049
-DESCRIPTION:📍 Jaroměřice nad Rokytnou\, Třebíč\n\n🚒 CAS (HS Moravské Budějo
- vice)\n🚒 CAS (HS Moravské Budějovice)\n🚒 CAS (Jaroměřice nad Rokytnou)\n🚒 
- CAS (Jaroměřice nad Rokytnou)\n🚒 CAS (Moravské Budějovice)
+DESCRIPTION:📍 Jaroměřice nad Rokytnou\, Třebíč\n💬 Kouř z pole. Průzkumem zj
+ ištěno\, že se jedná o planý poplach.\n\n🚒 CAS (HS Moravské Budějovice)\n🚒
+  CAS (HS Moravské Budějovice)\n🚒 CAS (Jaroměřice nad Rokytnou)\n🚒 CAS (Jar
+ oměřice nad Rokytnou)\n🚒 CAS (Moravské Budějovice)
 END:VEVENT
 END:VCALENDAR
