@@ -780,8 +780,8 @@ SUMMARY:🚑 transport pacienta - Žďár nad Sázavou
 LOCATION:Dvorská\, Žďár nad Sázavou
 GEO:49.582707;15.929164
 URL:geo:49.582707,15.929164
-DESCRIPTION:📍 Dvorská\, Žďár nad Sázavou 2\, Žďár nad Sázavou\n\n🚒 CAS (CHS
-  Žďár nad Sázavou)
+DESCRIPTION:📍 Dvorská\, Žďár nad Sázavou 2\, Žďár nad Sázavou\n💬 Transport 
+ pacienta na žádost ZZS.\n\n🚒 CAS (CHS Žďár nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:417588061
@@ -794,5 +794,27 @@ GEO:49.668333;15.403019
 URL:geo:49.668333,15.403019
 DESCRIPTION:📍 Lánecká\, Světlá nad Sázavou\, Havlíčkův Brod\n💬 Vyproštění u
  vízlého holuba.\n\n🚒 CAS (HS Světlá nad Sázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:417589061
+DTSTART:20260813T123909Z
+DTEND:20260813T133909Z
+DTSTAMP:20260813T123909Z
+SUMMARY:🛠️ strom - Jemnice
+LOCATION:Červenomlýnská\, Jemnice
+GEO:49.028816;15.567821
+URL:geo:49.028816,15.567821
+DESCRIPTION:📍 Červenomlýnská\, Jemnice\, Třebíč\n\n🚒 CAS (HS Jemnice)
+END:VEVENT
+BEGIN:VEVENT
+UID:417590061
+DTSTART:20260813T124755Z
+DTEND:20260813T134755Z
+DTSTAMP:20260813T124755Z
+SUMMARY:🛠️ obtížný hmyz - Lhánice
+LOCATION:Lhánice
+GEO:49.108235;16.225026
+URL:geo:49.108235,16.225026
+DESCRIPTION:📍 Lhánice\, Třebíč\n\n🚒 CAS (Mohelno)
 END:VEVENT
 END:VCALENDAR
