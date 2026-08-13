@@ -782,4 +782,16 @@ URL:geo:49.418969,15.739144
 DESCRIPTION:📍 Rybné\, Jihlava\n\n🚒 CAS (HS Polná)\n🚒 CAS (Zhoř (JI))\n🚒 CAS
   (Polná)\n🚒 přívěs motorová stříkačka (Rybné)
 END:VEVENT
+BEGIN:VEVENT
+UID:417587061
+DTSTART:20260813T120846Z
+DTEND:20260813T130846Z
+DTSTAMP:20260813T120846Z
+SUMMARY:🚑 transport pacienta - Žďár nad Sázavou
+LOCATION:Dvorská\, Žďár nad Sázavou
+GEO:49.582707;15.929164
+URL:geo:49.582707,15.929164
+DESCRIPTION:📍 Dvorská\, Žďár nad Sázavou 2\, Žďár nad Sázavou\n\n🚒 CAS (CHS
+  Žďár nad Sázavou)
+END:VEVENT
 END:VCALENDAR
