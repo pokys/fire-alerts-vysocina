@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:417491061
-DTSTART:20260811T160215Z
-DTEND:20260811T170215Z
-DTSTAMP:20260811T160215Z
-SUMMARY:🚗 se zraněním - Stránecká Zhoř
-LOCATION:Stránecká Zhoř
-GEO:49.378468;15.951480
-URL:geo:49.378468,15.951480
-DESCRIPTION:📍 Kochánov\, Stránecká Zhoř\, Žďár nad Sázavou\n💬 DN 3 OA. 2 zr
- aněné osoby v péči ZZS. Provedeno protipožární opatření. Zajištění místa n
- ehody.\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)
-END:VEVENT
-BEGIN:VEVENT
 UID:417497061
 DTSTART:20260811T162400Z
 DTEND:20260811T172400Z
@@ -288,13 +275,13 @@ DESCRIPTION:📍 Studenec\, Třebíč\n💬 Požár lesa 100x 150m. Lokalizace.\
  zďatín)\n🚒 DA (Studenec) ×2\n🚒 DA (Kralice nad Oslavou)\n🚒 CAS (Kralice na
  d Oslavou) ×2\n🚒 TA (Kralice nad Oslavou)\n🚒 vozidlo účelové - SxS (Kralic
  e nad Oslavou)\n🚒 CAS (HS Hrotovice)\n🚒 kombinovaný hasicí automobil (VHJ 
- 2427 Náměšť nad Oslavou) ×2\n🚒 DA (Budišov)\n🚒 CAS (Budišov)\n🚒 CAS (Budiš
- ov-Mihoukovice)\n🚒 CAS (Nárameč)\n🚒 vyšetřovací automobil (ÚO Třebíč)\n🚒 D
- A (Dalešice)\n🚒 CAS (Dalešice)\n🚒 DA (Lipník)\n🚒 CAS (Lipník)\n🚒 osobní au
- tomobil (Lipník)\n🚒 DA (Rudíkov)\n🚒 CAS (Rudíkov)\n🚒 CAS (Trnava)\n🚒 autom
- obilový nosič kontejnerů (CHS Jihlava)\n🚒 kontejner protiplynový (CHS Jihl
- ava)\n🚒 DA (Smrk)\n🚒 CAS (Slavětice)\n🚒 DA (Hrotovice)\n🚒 CAS (Hrotovice)\
- n🚒 DA (Kralice nad Oslavou-Horní Lhotice)
+ 2427 Náměšť nad Oslavou) ×2\n🚒 DA (Budišov)\n🚒 CAS (Budišov) ×2\n🚒 CAS (Bu
+ dišov-Mihoukovice) ×2\n🚒 CAS (Nárameč) ×2\n🚒 vyšetřovací automobil (ÚO Tře
+ bíč)\n🚒 DA (Dalešice)\n🚒 CAS (Dalešice) ×2\n🚒 DA (Lipník)\n🚒 CAS (Lipník)\
+ n🚒 osobní automobil (Lipník)\n🚒 DA (Rudíkov)\n🚒 CAS (Rudíkov)\n🚒 CAS (Trna
+ va)\n🚒 automobilový nosič kontejnerů (CHS Jihlava)\n🚒 kontejner protiplyno
+ vý (CHS Jihlava)\n🚒 DA (Smrk)\n🚒 CAS (Slavětice)\n🚒 DA (Hrotovice)\n🚒 CAS 
+ (Hrotovice)\n🚒 DA (Kralice nad Oslavou-Horní Lhotice)\n🚒 CAS (Tasov)
 END:VEVENT
 BEGIN:VEVENT
 UID:417536061
@@ -755,7 +742,8 @@ SUMMARY:🛠️ obtížný hmyz - Tasov
 LOCATION:Tasov
 GEO:49.287372;16.080039
 URL:geo:49.287372,16.080039
-DESCRIPTION:📍 Tasov\, Žďár nad Sázavou\n\n🚒 CAS (Tasov)
+DESCRIPTION:📍 Tasov\, Žďár nad Sázavou\n💬 Odstranění obtížného hmyzu.\n\n🚒 
+ CAS (Tasov)
 END:VEVENT
 BEGIN:VEVENT
 UID:417601061
@@ -777,6 +765,19 @@ SUMMARY:🚗 se zraněním - Stará Říše
 LOCATION:Stará Říše
 GEO:49.177305;15.595002
 URL:geo:49.177305,15.595002
-DESCRIPTION:📍 Stará Říše\, Jihlava\n\n🚒 CAS (HS Telč)
+DESCRIPTION:📍 Stará Říše\, Jihlava\n💬 DN 2 OA se zraněním dvou osob. Zajišt
+ ění místa události.\n\n🚒 CAS (HS Telč)
+END:VEVENT
+BEGIN:VEVENT
+UID:417609061
+DTSTART:20260813T160954Z
+DTEND:20260813T170954Z
+DTSTAMP:20260813T160954Z
+SUMMARY:🛠️ obtížný hmyz - Radostín nad Oslavou
+LOCATION:Radostín nad Oslavou
+GEO:49.464033;15.970870
+URL:geo:49.464033,15.970870
+DESCRIPTION:📍 Radostín nad Oslavou\, Žďár nad Sázavou\n\n🚒 CAS (Radostín na
+ d Oslavou)
 END:VEVENT
 END:VCALENDAR
