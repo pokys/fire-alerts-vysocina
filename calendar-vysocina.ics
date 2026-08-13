@@ -165,15 +165,16 @@ DESCRIPTION:📍 Studenec\, Třebíč\n💬 Požár lesa 100x 150m. Lokalizace.\
  il (HS Náměšť nad Oslavou) ×2\n🚒 CAS (Pozďatín) ×2\n🚒 osobní automobil (Po
  zďatín)\n🚒 DA (Studenec) ×2\n🚒 DA (Kralice nad Oslavou)\n🚒 CAS (Kralice na
  d Oslavou) ×2\n🚒 TA (Kralice nad Oslavou)\n🚒 vozidlo účelové - SxS (Kralic
- e nad Oslavou)\n🚒 CAS (HS Hrotovice)\n🚒 kombinovaný hasicí automobil (VHJ 
- 2427 Náměšť nad Oslavou) ×2\n🚒 DA (Budišov)\n🚒 CAS (Budišov) ×2\n🚒 CAS (Bu
- dišov-Mihoukovice) ×2\n🚒 CAS (Nárameč) ×2\n🚒 vyšetřovací automobil (ÚO Tře
- bíč)\n🚒 DA (Dalešice) ×2\n🚒 CAS (Dalešice) ×2\n🚒 DA (Lipník)\n🚒 CAS (Lipní
- k)\n🚒 osobní automobil (Lipník)\n🚒 DA (Rudíkov) ×2\n🚒 CAS (Rudíkov) ×2\n🚒 
- CAS (Trnava)\n🚒 automobilový nosič kontejnerů (CHS Jihlava)\n🚒 kontejner p
- rotiplynový (CHS Jihlava)\n🚒 DA (Smrk) ×2\n🚒 osobní automobil (Smrk)\n🚒 CA
- S (Slavětice)\n🚒 DA (Hrotovice)\n🚒 CAS (Hrotovice)\n🚒 DA (Kralice nad Osla
- vou-Horní Lhotice)\n🚒 CAS (Tasov)\n🚒 DA (Okarec)
+ e nad Oslavou)\n🚒 CAS (HS Hrotovice)\n🚒 CAS (VHJ 2427 Náměšť nad Oslavou) 
+ ×2\n🚒 kombinovaný hasicí automobil (VHJ 2427 Náměšť nad Oslavou)\n🚒 DA (Bu
+ dišov)\n🚒 CAS (Budišov) ×2\n🚒 CAS (Budišov-Mihoukovice) ×2\n🚒 CAS (Nárameč
+ ) ×2\n🚒 vyšetřovací automobil (ÚO Třebíč)\n🚒 DA (Dalešice) ×2\n🚒 CAS (Dale
+ šice) ×2\n🚒 DA (Lipník)\n🚒 CAS (Lipník)\n🚒 osobní automobil (Lipník)\n🚒 DA
+  (Rudíkov) ×2\n🚒 CAS (Rudíkov) ×2\n🚒 CAS (Trnava)\n🚒 automobilový nosič ko
+ ntejnerů (CHS Jihlava)\n🚒 kontejner protiplynový (CHS Jihlava)\n🚒 DA (Smrk
+ ) ×2\n🚒 osobní automobil (Smrk)\n🚒 CAS (Slavětice)\n🚒 DA (Hrotovice)\n🚒 CA
+ S (Hrotovice)\n🚒 DA (Kralice nad Oslavou-Horní Lhotice)\n🚒 CAS (Tasov)\n🚒 
+ DA (Okarec)
 END:VEVENT
 BEGIN:VEVENT
 UID:417536061
@@ -686,6 +687,18 @@ DESCRIPTION:📍 Polnička\, Žďár nad Sázavou\n💬 Odstranění obtížnéh
  n🚒 CAS (Polnička)
 END:VEVENT
 BEGIN:VEVENT
+UID:417612061
+DTSTART:20260813T165801Z
+DTEND:20260813T175801Z
+DTSTAMP:20260813T165801Z
+SUMMARY:🛠️ obtížný hmyz - Netín
+LOCATION:Netín
+GEO:49.414249;15.952561
+URL:geo:49.414249,15.952561
+DESCRIPTION:📍 Netín\, Žďár nad Sázavou\n💬 Odstranění obtížného hmyzu.\n\n🚒 
+ DA (Netín)
+END:VEVENT
+BEGIN:VEVENT
 UID:417613061
 DTSTART:20260813T170354Z
 DTEND:20260813T180354Z
@@ -708,5 +721,17 @@ GEO:49.816398;15.471767
 URL:geo:49.816398,15.471767
 DESCRIPTION:📍 Komenského\, Golčův Jeníkov\, Havlíčkův Brod\n\n🚒 CAS (Golčův
   Jeníkov)
+END:VEVENT
+BEGIN:VEVENT
+UID:417615061
+DTSTART:20260813T171231Z
+DTEND:20260813T181231Z
+DTSTAMP:20260813T171231Z
+SUMMARY:🛠️ obtížný hmyz - Daňkovice
+LOCATION:Daňkovice
+GEO:49.655822;16.146818
+URL:geo:49.655822,16.146818
+DESCRIPTION:📍 Daňkovice\, Žďár nad Sázavou\n💬 Odstranění obtížného hmyzu.\n
+ \n🚒 CAS (Daňkovice)
 END:VEVENT
 END:VCALENDAR
