@@ -5,32 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:417467061
-DTSTART:20260811T112319Z
-DTEND:20260811T122319Z
-DTSTAMP:20260811T112319Z
-SUMMARY:🔥 les - Nové Syrovice
-LOCATION:Nové Syrovice
-DESCRIPTION:📍 Nové Syrovice\, Třebíč\n💬 Požár strniště 150x100m\, požár les
- a 200x60m. Lokalizace a likvidace.\n\n🚒 CAS (HS Jemnice)\n🚒 CAS (HS Moravs
- ké Budějovice)\n🚒 CAS (HS Moravské Budějovice)\n🚒 čerpadlo plovoucí (HS Mo
- ravské Budějovice)\n🚒 DA (Dešov)\n🚒 CAS (Třebelovice)\n🚒 vyšetřovací autom
- obil (ÚO Třebíč)\n🚒 CAS (Jaroměřice nad Rokytnou)\n🚒 CAS (Jaroměřice nad R
- okytnou)\n🚒 CAS (Moravské Budějovice)\n🚒 DA (Nové Syrovice)
-END:VEVENT
-BEGIN:VEVENT
-UID:417468061
-DTSTART:20260811T112414Z
-DTEND:20260811T122414Z
-DTSTAMP:20260811T112414Z
-SUMMARY:🛠️ obtížný hmyz - Čížov
-LOCATION:Čížov
-GEO:49.352774;15.571017
-URL:geo:49.352774,15.571017
-DESCRIPTION:📍 Čížov\, Jihlava\n💬 Odstranění obtížného hmyzu.\n\n🚒 CAS (CHS 
- Jihlava)\n🚒 AŽ (CHS Jihlava)
-END:VEVENT
-BEGIN:VEVENT
 UID:417469061
 DTSTART:20260811T115215Z
 DTEND:20260811T125215Z
