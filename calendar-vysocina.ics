@@ -719,8 +719,8 @@ SUMMARY:🛠️ obtížný hmyz - Golčův Jeníkov
 LOCATION:Komenského\, Golčův Jeníkov
 GEO:49.816398;15.471767
 URL:geo:49.816398,15.471767
-DESCRIPTION:📍 Komenského\, Golčův Jeníkov\, Havlíčkův Brod\n\n🚒 CAS (Golčův
-  Jeníkov)
+DESCRIPTION:📍 Komenského\, Golčův Jeníkov\, Havlíčkův Brod\n💬 Odstranění ob
+ tížného hmyzu.\n\n🚒 CAS (Golčův Jeníkov)
 END:VEVENT
 BEGIN:VEVENT
 UID:417615061
@@ -733,5 +733,29 @@ GEO:49.655822;16.146818
 URL:geo:49.655822,16.146818
 DESCRIPTION:📍 Daňkovice\, Žďár nad Sázavou\n💬 Odstranění obtížného hmyzu.\n
  \n🚒 CAS (Daňkovice)
+END:VEVENT
+BEGIN:VEVENT
+UID:417616061
+DTSTART:20260813T173441Z
+DTEND:20260813T183441Z
+DTSTAMP:20260813T173441Z
+SUMMARY:🛠️ obtížný hmyz - Daňkovice
+LOCATION:Daňkovice
+GEO:49.654463;16.147029
+URL:geo:49.654463,16.147029
+DESCRIPTION:📍 Daňkovice\, Žďár nad Sázavou\n💬 Odstranění obtížného hmyzu.\n
+ \n🚒 CAS (Daňkovice)
+END:VEVENT
+BEGIN:VEVENT
+UID:417617061
+DTSTART:20260813T173449Z
+DTEND:20260813T183449Z
+DTSTAMP:20260813T173449Z
+SUMMARY:🛠️ obtížný hmyz - Přibyslav
+LOCATION:Pecháčkova\, Přibyslav
+GEO:49.578333;15.744830
+URL:geo:49.578333,15.744830
+DESCRIPTION:📍 Pecháčkova\, Přibyslav\, Havlíčkův Brod\n💬 Odstranění obtížné
+ ho hmyzu.\n\n🚒 CAS (Přibyslav)
 END:VEVENT
 END:VCALENDAR
