@@ -5,55 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:417499061
-DTSTART:20260811T170145Z
-DTEND:20260811T180145Z
-DTSTAMP:20260811T170145Z
-SUMMARY:🚗 bez zranění - Urbanov
-LOCATION:Urbanov
-GEO:49.214355;15.514010
-URL:geo:49.214355,15.514010
-DESCRIPTION:📍 Urbanov\, Jihlava\n💬 DN 1 OA\, bez zranění. Provedeno zajiště
- ní místa nehody a řízení dopravy.\n\n🚒 CAS (HS Telč)
-END:VEVENT
-BEGIN:VEVENT
-UID:417500061
-DTSTART:20260811T170421Z
-DTEND:20260811T180421Z
-DTSTAMP:20260811T170421Z
-SUMMARY:🛠️ obtížný hmyz - Nové Město na Moravě
-LOCATION:Vlachovická\, Nové Město na Moravě
-GEO:49.579193;16.051630
-URL:geo:49.579193,16.051630
-DESCRIPTION:📍 Vlachovická\, Nové Město na Moravě\, Žďár nad Sázavou\n💬 Odst
- ranění obtížného hmyzu.\n\n🚒 CAS (CHS Žďár nad Sázavou)
-END:VEVENT
-BEGIN:VEVENT
-UID:417501061
-DTSTART:20260811T171000Z
-DTEND:20260811T181000Z
-DTSTAMP:20260811T171000Z
-SUMMARY:🛠️ obtížný hmyz - Kamenice nad Lipou
-LOCATION:Na Sušírně\, Kamenice nad Lipou
-GEO:49.301724;15.073533
-URL:geo:49.301724,15.073533
-DESCRIPTION:📍 Na Sušírně\, Kamenice nad Lipou\, Pelhřimov\n💬 Likvidace obtí
- žného hmyzu.\n\n🚒 CAS (Kamenice nad Lipou)
-END:VEVENT
-BEGIN:VEVENT
-UID:417502061
-DTSTART:20260811T171259Z
-DTEND:20260811T181259Z
-DTSTAMP:20260811T171259Z
-SUMMARY:🚗 dopravní nehoda - Třebíč
-LOCATION:Chlumeckého\, Třebíč
-GEO:49.212479;15.885068
-URL:geo:49.212479,15.885068
-DESCRIPTION:📍 Chlumeckého\, Horka-Domky\, Třebíč\n💬 Dopravní nehoda 1 OA a 
- chodce se zraněním. Řízení dopravy\, zajištění místa\, spolupráce se složk
- ami IZS.\n\n🚒 CAS (CHS Třebíč)
-END:VEVENT
-BEGIN:VEVENT
 UID:417503061
 DTSTART:20260811T171957Z
 DTEND:20260811T181957Z
@@ -241,11 +192,12 @@ DESCRIPTION:📍 Studenec\, Třebíč\n💬 Požár lesa 100x 150m. Lokalizace.\
  e nad Oslavou)\n🚒 CAS (HS Hrotovice)\n🚒 kombinovaný hasicí automobil (VHJ 
  2427 Náměšť nad Oslavou) ×2\n🚒 DA (Budišov)\n🚒 CAS (Budišov) ×2\n🚒 CAS (Bu
  dišov-Mihoukovice) ×2\n🚒 CAS (Nárameč) ×2\n🚒 vyšetřovací automobil (ÚO Tře
- bíč)\n🚒 DA (Dalešice)\n🚒 CAS (Dalešice) ×2\n🚒 DA (Lipník)\n🚒 CAS (Lipník)\
- n🚒 osobní automobil (Lipník)\n🚒 DA (Rudíkov)\n🚒 CAS (Rudíkov)\n🚒 CAS (Trna
- va)\n🚒 automobilový nosič kontejnerů (CHS Jihlava)\n🚒 kontejner protiplyno
- vý (CHS Jihlava)\n🚒 DA (Smrk) ×2\n🚒 CAS (Slavětice)\n🚒 DA (Hrotovice)\n🚒 C
- AS (Hrotovice)\n🚒 DA (Kralice nad Oslavou-Horní Lhotice)\n🚒 CAS (Tasov)
+ bíč)\n🚒 DA (Dalešice) ×2\n🚒 CAS (Dalešice) ×2\n🚒 DA (Lipník)\n🚒 CAS (Lipní
+ k)\n🚒 osobní automobil (Lipník)\n🚒 DA (Rudíkov) ×2\n🚒 CAS (Rudíkov) ×2\n🚒 
+ CAS (Trnava)\n🚒 automobilový nosič kontejnerů (CHS Jihlava)\n🚒 kontejner p
+ rotiplynový (CHS Jihlava)\n🚒 DA (Smrk) ×2\n🚒 osobní automobil (Smrk)\n🚒 CA
+ S (Slavětice)\n🚒 DA (Hrotovice)\n🚒 CAS (Hrotovice)\n🚒 DA (Kralice nad Osla
+ vou-Horní Lhotice)\n🚒 CAS (Tasov)\n🚒 DA (Okarec)
 END:VEVENT
 BEGIN:VEVENT
 UID:417536061
@@ -756,5 +708,29 @@ GEO:49.603820;15.924060
 URL:geo:49.603820,15.924060
 DESCRIPTION:📍 Polnička\, Žďár nad Sázavou\n💬 Odstranění obtížného hmyzu.\n\
  n🚒 CAS (Polnička)
+END:VEVENT
+BEGIN:VEVENT
+UID:417613061
+DTSTART:20260813T170354Z
+DTEND:20260813T180354Z
+DTSTAMP:20260813T170354Z
+SUMMARY:🚗 dopravní nehoda - Vojnův Městec
+LOCATION:Vojnův Městec
+GEO:49.672425;15.890429
+URL:geo:49.672425,15.890429
+DESCRIPTION:📍 Vojnův Městec\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad Sázav
+ ou)\n🚒 CAS (Ždírec nad Doubravou)
+END:VEVENT
+BEGIN:VEVENT
+UID:417614061
+DTSTART:20260813T170716Z
+DTEND:20260813T180716Z
+DTSTAMP:20260813T170716Z
+SUMMARY:🛠️ obtížný hmyz - Golčův Jeníkov
+LOCATION:Komenského\, Golčův Jeníkov
+GEO:49.816398;15.471767
+URL:geo:49.816398,15.471767
+DESCRIPTION:📍 Komenského\, Golčův Jeníkov\, Havlíčkův Brod\n\n🚒 CAS (Golčův
+  Jeníkov)
 END:VEVENT
 END:VCALENDAR
