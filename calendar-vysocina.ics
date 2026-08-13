@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:417505061
-DTSTART:20260811T180209Z
-DTEND:20260811T190209Z
-DTSTAMP:20260811T180209Z
-SUMMARY:🔥 venkovní požár - Jihlava
-LOCATION:Demlova\, Jihlava
-GEO:49.398563;15.608689
-URL:geo:49.398563,15.608689
-DESCRIPTION:📍 Demlova\, Jihlava\n💬 Požár odpadkového koše. Provedeno prolit
- í.\n\n🚒 CAS (CHS Jihlava)
-END:VEVENT
-BEGIN:VEVENT
 UID:417506061
 DTSTART:20260811T194527Z
 DTEND:20260811T204527Z
@@ -707,8 +695,9 @@ SUMMARY:🚗 dopravní nehoda - Vojnův Městec
 LOCATION:Vojnův Městec
 GEO:49.672425;15.890429
 URL:geo:49.672425,15.890429
-DESCRIPTION:📍 Vojnův Městec\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad Sázav
- ou)\n🚒 CAS (Ždírec nad Doubravou)
+DESCRIPTION:📍 Vojnův Městec\, Žďár nad Sázavou\n💬 DN motorky. 1 zraněná oso
+ ba v péči ZZS. Jednotka provedla úklid vozovky. Zajištění místa nehody.\n\
+ n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (Ždírec nad Doubravou)
 END:VEVENT
 BEGIN:VEVENT
 UID:417614061
@@ -757,5 +746,17 @@ GEO:49.578333;15.744830
 URL:geo:49.578333,15.744830
 DESCRIPTION:📍 Pecháčkova\, Přibyslav\, Havlíčkův Brod\n💬 Odstranění obtížné
  ho hmyzu.\n\n🚒 CAS (Přibyslav)
+END:VEVENT
+BEGIN:VEVENT
+UID:417618061
+DTSTART:20260813T180111Z
+DTEND:20260813T190111Z
+DTSTAMP:20260813T180111Z
+SUMMARY:🛠️ obtížný hmyz - Herálec
+LOCATION:Herálec
+GEO:49.694242;15.983590
+URL:geo:49.694242,15.983590
+DESCRIPTION:📍 Český Herálec\, Herálec\, Žďár nad Sázavou\n\n🚒 CAS (Herálec 
+ (ZR))
 END:VEVENT
 END:VCALENDAR
