@@ -148,7 +148,6 @@ LOCATION:Družstevní\, Želetava
 GEO:49.139389;15.667725
 URL:geo:49.139389,15.667725
 DESCRIPTION:📍 Družstevní\, Želetava\, Třebíč\n💬 Odstranění obtížného hmyzu.
- \n\n🚒 CAS (Želetava)
 END:VEVENT
 BEGIN:VEVENT
 UID:417505061
@@ -401,8 +400,7 @@ SUMMARY:🛠️ obtížný hmyz - Boršov
 LOCATION:Boršov
 GEO:49.402101;15.431391
 URL:geo:49.402101,15.431391
-DESCRIPTION:📍 Boršov\, Jihlava\n💬 Odstranění obtížného hmyzu.\n\n🚒 CAS (CHS
-  Jihlava)
+DESCRIPTION:📍 Boršov\, Jihlava\n💬 Odstranění obtížného hmyzu.
 END:VEVENT
 BEGIN:VEVENT
 UID:417549061
@@ -635,7 +633,7 @@ LOCATION:třída Legií\, Pelhřimov
 GEO:49.426954;15.223624
 URL:geo:49.426954,15.223624
 DESCRIPTION:📍 třída Legií\, Pelhřimov\n💬 DN OA a chodce\, se zraněním. Zaji
- štění místa nehody.\n\n🚒 CAS (CHS Pelhřimov)
+ štění místa nehody.
 END:VEVENT
 BEGIN:VEVENT
 UID:417582061
