@@ -953,7 +953,8 @@ SUMMARY:🛠️ obtížný hmyz - Babice
 LOCATION:Babice
 GEO:49.123055;15.769190
 URL:geo:49.123055,15.769190
-DESCRIPTION:📍 Babice\, Třebíč\n\n🚒 DA (Babice (TR))
+DESCRIPTION:📍 Babice\, Třebíč\n💬 Odstranění obtížného hmyzu.\n\n🚒 DA (Babic
+ e (TR))
 END:VEVENT
 BEGIN:VEVENT
 UID:417691061
@@ -964,8 +965,8 @@ SUMMARY:🛠️ strom - Velká Bíteš
 LOCATION:Velká Bíteš
 GEO:49.267661;16.221624
 URL:geo:49.267661,16.221624
-DESCRIPTION:📍 Jindřichov\, Velká Bíteš\, Žďár nad Sázavou\n\n🚒 CAS (HS Velk
- á Bíteš)
+DESCRIPTION:📍 Jindřichov\, Velká Bíteš\, Žďár nad Sázavou\n💬 Odstranění str
+ omu.\n\n🚒 CAS (HS Velká Bíteš)
 END:VEVENT
 BEGIN:VEVENT
 UID:417694061
@@ -978,6 +979,19 @@ GEO:49.342327;15.602859
 URL:geo:49.342327,15.602859
 DESCRIPTION:📍 Čížov\, Jihlava\n\n🚒 CAS (CHS Jihlava)\n🚒 CAS (CHS Jihlava)\n
  🚒 CAS (Stonařov)\n🚒 přívěs motorová stříkačka (Čížov)\n🚒 CAS (Jihlava-Bedř
- ichov)
+ ichov)\n🚒 CAS (HS Třešť)\n🚒 CAS (Luka nad Jihlavou)\n🚒 CAS (Dlouhá Brtnice
+ )\n🚒 CAS (Kněžice)
+END:VEVENT
+BEGIN:VEVENT
+UID:417695061
+DTSTART:20260814T145401Z
+DTEND:20260814T155401Z
+DTSTAMP:20260814T145401Z
+SUMMARY:🛠️ obtížný hmyz - Golčův Jeníkov
+LOCATION:Golčův Jeníkov
+GEO:49.831556;15.482797
+URL:geo:49.831556,15.482797
+DESCRIPTION:📍 Stupárovice\, Golčův Jeníkov\, Havlíčkův Brod\n\n🚒 CAS (Golčů
+ v Jeníkov)
 END:VEVENT
 END:VCALENDAR
