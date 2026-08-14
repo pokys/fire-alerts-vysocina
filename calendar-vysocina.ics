@@ -706,8 +706,8 @@ SUMMARY:🚑 spolupráce ZZS - Osová Bítýška
 LOCATION:Osová Bítýška
 GEO:49.323621;16.168075
 URL:geo:49.323621,16.168075
-DESCRIPTION:📍 Osová Bítýška\, Žďár nad Sázavou\n💬 Spolupráce se ZZS\,\n\n🚒 
- CAS (HS Velká Bíteš)
+DESCRIPTION:📍 Osová Bítýška\, Žďár nad Sázavou\n💬 Spolupráce se ZZS.\n\n🚒 C
+ AS (HS Velká Bíteš)
 END:VEVENT
 BEGIN:VEVENT
 UID:417639061
@@ -766,7 +766,30 @@ SUMMARY:🚑 záchrana na vodě - Žďár nad Sázavou
 LOCATION:Bezručova\, Žďár nad Sázavou
 GEO:49.572672;15.939576
 URL:geo:49.572672,15.939576
-DESCRIPTION:📍 Bezručova\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n\n🚒 CAS (C
- HS Žďár nad Sázavou)
+DESCRIPTION:📍 Bezručova\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n💬 Spoluprá
+ ce se ZZS.\n\n🚒 CAS (CHS Žďár nad Sázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:417648061
+DTSTART:20260814T093321Z
+DTEND:20260814T103321Z
+DTSTAMP:20260814T093321Z
+SUMMARY:🛠️ otevření bytu/auta - Náměšť nad Oslavou
+LOCATION:Kaštanová\, Náměšť nad Oslavou
+GEO:49.210707;16.163384
+URL:geo:49.210707,16.163384
+DESCRIPTION:📍 Kaštanová\, Náměšť nad Oslavou\, Třebíč\n💬 Otevření bytu.\n\n
+ 🚒 CAS (HS Náměšť nad Oslavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:417650061
+DTSTART:20260814T094728Z
+DTEND:20260814T104728Z
+DTSTAMP:20260814T094728Z
+SUMMARY:🛠️ obtížný hmyz - Chotěboř
+LOCATION:Fominova\, Chotěboř
+GEO:49.718601;15.669052
+URL:geo:49.718601,15.669052
+DESCRIPTION:📍 Fominova\, Chotěboř\, Havlíčkův Brod\n\n🚒 CAS (HS Chotěboř)
 END:VEVENT
 END:VCALENDAR
