@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:417548061
-DTSTART:20260812T163757Z
-DTEND:20260812T173757Z
-DTSTAMP:20260812T163757Z
-SUMMARY:🛠️ obtížný hmyz - Boršov
-LOCATION:Boršov
-GEO:49.402101;15.431391
-URL:geo:49.402101,15.431391
-DESCRIPTION:📍 Boršov\, Jihlava\n💬 Odstranění obtížného hmyzu.\n\n🚒 CAS (CHS
-  Jihlava)
-END:VEVENT
-BEGIN:VEVENT
 UID:417549061
 DTSTART:20260812T165241Z
 DTEND:20260812T175241Z
@@ -994,7 +982,8 @@ SUMMARY:🚑 otevření/asistence - Třešť
 LOCATION:Palackého\, Třešť
 GEO:49.281794;15.474705
 URL:geo:49.281794,15.474705
-DESCRIPTION:📍 Palackého\, Třešť\, Jihlava\n\n🚒 CAS (HS Telč)
+DESCRIPTION:📍 Palackého\, Třešť\, Jihlava\n💬 Otevření bytu. Pomoc imobilní 
+ osobě.\n\n🚒 CAS (HS Telč)
 END:VEVENT
 BEGIN:VEVENT
 UID:417700061
@@ -1005,7 +994,8 @@ SUMMARY:🚗 se zraněním - Věžnice
 LOCATION:Věžnice
 GEO:49.396948;15.766579
 URL:geo:49.396948,15.766579
-DESCRIPTION:📍 Věžnice\, Jihlava\n\n🚒 RZA (CHS Jihlava)\n🚒 CAS (HS Polná)
+DESCRIPTION:📍 Věžnice\, Jihlava\n💬 DN 1 OA se zraněním dvou osob. Zajištění
+  místa události.\n\n🚒 RZA (CHS Jihlava)\n🚒 CAS (HS Polná)
 END:VEVENT
 BEGIN:VEVENT
 UID:417701061
@@ -1016,5 +1006,18 @@ SUMMARY:🛠️ obtížný hmyz - Radotice
 LOCATION:Radotice
 DESCRIPTION:📍 Radotice\, Třebíč\n💬 Odstranění obtížného hmyzu.\n\n🚒 CAS (HS
   Jemnice)
+END:VEVENT
+BEGIN:VEVENT
+UID:417703061
+DTSTART:20260814T161209Z
+DTEND:20260814T171209Z
+DTSTAMP:20260814T161209Z
+SUMMARY:🔥 tráva/plocha - Křižanov
+LOCATION:Křižanov
+GEO:49.392694;16.114716
+URL:geo:49.392694,16.114716
+DESCRIPTION:📍 Křižanov\, Žďár nad Sázavou\n💬 Požár trávy u silnice. Provede
+ na lokalizace a likvidace požáru.\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 CAS (Kři
+ žanov)
 END:VEVENT
 END:VCALENDAR
