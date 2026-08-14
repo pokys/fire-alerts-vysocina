@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:417536061
-DTSTART:20260812T133210Z
-DTEND:20260812T143210Z
-DTSTAMP:20260812T133210Z
-SUMMARY:🛠️ ostatní - Jemnice
-LOCATION:Lípová\, Jemnice
-GEO:49.018496;15.576720
-URL:geo:49.018496,15.576720
-DESCRIPTION:📍 Lípová\, Jemnice\, Třebíč\n💬 Pomoc imobilní osobě.\n\n🚒 CAS (
- HS Jemnice)
-END:VEVENT
-BEGIN:VEVENT
 UID:417540061
 DTSTART:20260812T142127Z
 DTEND:20260812T152127Z
@@ -901,8 +889,8 @@ SUMMARY:🛠️ obtížný hmyz - Žďár nad Sázavou
 LOCATION:Purkyňova\, Žďár nad Sázavou
 GEO:49.577123;15.937160
 URL:geo:49.577123,15.937160
-DESCRIPTION:📍 Purkyňova\, Žďár nad Sázavou 2\, Žďár nad Sázavou\n\n🚒 CAS (Ž
- ďár nad Sázavou-Zámek)
+DESCRIPTION:📍 Purkyňova\, Žďár nad Sázavou 2\, Žďár nad Sázavou\n💬 Odstraně
+ ní obtížného hmyzu.\n\n🚒 CAS (Žďár nad Sázavou-Zámek)
 END:VEVENT
 BEGIN:VEVENT
 UID:417675061
@@ -938,5 +926,28 @@ URL:geo:49.614218,16.088042
 DESCRIPTION:📍 Studnice\, Nové Město na Moravě\, Žďár nad Sázavou\n\n🚒 CAS (
  CHS Žďár nad Sázavou)\n🚒 CAS (Nové Město na Moravě)\n🚒 TA (Nové Město na M
  oravě)
+END:VEVENT
+BEGIN:VEVENT
+UID:417679061
+DTSTART:20260814T130152Z
+DTEND:20260814T140152Z
+DTSTAMP:20260814T130152Z
+SUMMARY:🛠️ ostatní - Lidmaň
+LOCATION:Lidmaň
+GEO:49.381835;15.036722
+URL:geo:49.381835,15.036722
+DESCRIPTION:📍 Lidmaň\, Pelhřimov\n\n🚒 CAS (Černovice)
+END:VEVENT
+BEGIN:VEVENT
+UID:417680061
+DTSTART:20260814T132723Z
+DTEND:20260814T142723Z
+DTSTAMP:20260814T132723Z
+SUMMARY:🚗 dopravní nehoda - Kejžlice
+LOCATION:Kejžlice
+GEO:49.585779;15.395417
+URL:geo:49.585779,15.395417
+DESCRIPTION:📍 Kejžlice\, Pelhřimov\n\n🚒 CAS (HS Humpolec)\n🚒 RZA (HS Humpol
+ ec)
 END:VEVENT
 END:VCALENDAR
