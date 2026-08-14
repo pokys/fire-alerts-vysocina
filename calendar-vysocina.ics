@@ -903,8 +903,9 @@ SUMMARY:🔥 venkovní požár - Slavníč
 LOCATION:Slavníč
 GEO:49.505849;15.449716
 URL:geo:49.505849,15.449716
-DESCRIPTION:📍 Slavníč\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 CAS
-  (CHS Havlíčkův Brod)\n🚒 CAS (Herálec (HB))
+DESCRIPTION:📍 Slavníč\, Havlíčkův Brod\n💬 Požár odpadu. Provedena lokalizac
+ e a likvidace požáru.\n\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 CAS (CHS Havlíčkův 
+ Brod)\n🚒 CAS (Herálec (HB))
 END:VEVENT
 BEGIN:VEVENT
 UID:417673061
@@ -916,5 +917,28 @@ LOCATION:Maxima Gorkého\, Třebíč
 GEO:49.220307;15.895700
 URL:geo:49.220307,15.895700
 DESCRIPTION:📍 Maxima Gorkého\, Nové Dvory\, Třebíč\n\n🚒 CAS (CHS Třebíč)
+END:VEVENT
+BEGIN:VEVENT
+UID:417674061
+DTSTART:20260814T123429Z
+DTEND:20260814T133429Z
+DTSTAMP:20260814T123429Z
+SUMMARY:🛠️ obtížný hmyz - Žďár nad Sázavou
+LOCATION:Purkyňova\, Žďár nad Sázavou
+GEO:49.577123;15.937160
+URL:geo:49.577123,15.937160
+DESCRIPTION:📍 Purkyňova\, Žďár nad Sázavou 2\, Žďár nad Sázavou\n\n🚒 CAS (Ž
+ ďár nad Sázavou-Zámek)
+END:VEVENT
+BEGIN:VEVENT
+UID:417675061
+DTSTART:20260814T123630Z
+DTEND:20260814T133630Z
+DTSTAMP:20260814T123630Z
+SUMMARY:🚗 úklid místa - Okarec
+LOCATION:Okarec
+GEO:49.204420;16.086997
+URL:geo:49.204420,16.086997
+DESCRIPTION:📍 Okarec\, Třebíč\n\n🚒 CAS (HS Náměšť nad Oslavou)
 END:VEVENT
 END:VCALENDAR
