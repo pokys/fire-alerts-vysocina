@@ -878,7 +878,8 @@ SUMMARY:🛠️ ostatní - Třebíč
 LOCATION:Maxima Gorkého\, Třebíč
 GEO:49.220307;15.895700
 URL:geo:49.220307,15.895700
-DESCRIPTION:📍 Maxima Gorkého\, Nové Dvory\, Třebíč\n\n🚒 CAS (CHS Třebíč)
+DESCRIPTION:📍 Maxima Gorkého\, Nové Dvory\, Třebíč\n💬 Pomoc imobilní osobě.
+ \n\n🚒 CAS (CHS Třebíč)
 END:VEVENT
 BEGIN:VEVENT
 UID:417674061
@@ -912,7 +913,8 @@ SUMMARY:🛠️ otevření bytu/auta - Třebíč
 LOCATION:Gen. Svobody\, Třebíč
 GEO:49.224991;15.882941
 URL:geo:49.224991,15.882941
-DESCRIPTION:📍 Gen. Svobody\, Nové Dvory\, Třebíč\n\n🚒 CAS (CHS Třebíč)
+DESCRIPTION:📍 Gen. Svobody\, Nové Dvory\, Třebíč\n💬 Otevření bytu.\n\n🚒 CAS
+  (CHS Třebíč)
 END:VEVENT
 BEGIN:VEVENT
 UID:417678061
