@@ -5,20 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:417556061
-DTSTART:20260812T181248Z
-DTEND:20260812T191248Z
-DTSTAMP:20260812T181248Z
-SUMMARY:⚠️ planý poplach - Jaroměřice nad Rokytnou
-LOCATION:Jaroměřice nad Rokytnou
-GEO:49.100470;15.865049
-URL:geo:49.100470,15.865049
-DESCRIPTION:📍 Jaroměřice nad Rokytnou\, Třebíč\n💬 Kouř z pole. Průzkumem zj
- ištěno\, že se jedná o planý poplach.\n\n🚒 CAS (HS Moravské Budějovice)\n🚒
-  CAS (HS Moravské Budějovice)\n🚒 CAS (Jaroměřice nad Rokytnou)\n🚒 CAS (Jar
- oměřice nad Rokytnou)\n🚒 CAS (Moravské Budějovice)
-END:VEVENT
-BEGIN:VEVENT
 UID:417557061
 DTSTART:20260812T201919Z
 DTEND:20260812T211919Z
@@ -798,7 +784,8 @@ GEO:49.670689;15.293925
 URL:geo:49.670689,15.293925
 DESCRIPTION:📍 Ledeč nad Sázavou\, Havlíčkův Brod\n💬 DN 1 OA se zraněním dvo
  u osob. Jedna osoba vyproštěna a předána do péče ZZS. Zajištění místa udál
- osti.\n\n🚒 CAS (HS Ledeč nad Sázavou)
+ osti.\n\n🚒 CAS (HS Ledeč nad Sázavou)\n🚒 pila řetězová (HS Ledeč nad Sázav
+ ou)
 END:VEVENT
 BEGIN:VEVENT
 UID:417687061
@@ -906,12 +893,12 @@ UID:417700061
 DTSTART:20260814T155958Z
 DTEND:20260814T165958Z
 DTSTAMP:20260814T155958Z
-SUMMARY:🚗 se zraněním - Věžnice
+SUMMARY:🚗 bez zranění - Věžnice
 LOCATION:Věžnice
 GEO:49.396948;15.766579
 URL:geo:49.396948,15.766579
-DESCRIPTION:📍 Věžnice\, Jihlava\n💬 DN 1 OA se zraněním dvou osob. Zajištění
-  místa události.\n\n🚒 RZA (CHS Jihlava)\n🚒 CAS (HS Polná)
+DESCRIPTION:📍 Věžnice\, Jihlava\n💬 DN 1 OA bez zranění. Zajištění místa udá
+ losti.\n\n🚒 RZA (CHS Jihlava)\n🚒 CAS (HS Polná)
 END:VEVENT
 BEGIN:VEVENT
 UID:417701061
@@ -957,7 +944,8 @@ SUMMARY:🛠️ obtížný hmyz - Chotěboř
 LOCATION:V Drážkách\, Chotěboř
 GEO:49.718151;15.667697
 URL:geo:49.718151,15.667697
-DESCRIPTION:📍 V Drážkách\, Chotěboř\, Havlíčkův Brod\n\n🚒 CAS (Chotěboř)
+DESCRIPTION:📍 V Drážkách\, Chotěboř\, Havlíčkův Brod\n💬 Odstranění obtížnéh
+ o hmyzu.\n\n🚒 CAS (Chotěboř)
 END:VEVENT
 BEGIN:VEVENT
 UID:417706061
