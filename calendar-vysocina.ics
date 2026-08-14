@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:417544061
-DTSTART:20260812T145928Z
-DTEND:20260812T155928Z
-DTSTAMP:20260812T145928Z
-SUMMARY:🛠️ obtížný hmyz - Havlíčkova Borová
-LOCATION:Havlíčkova\, Havlíčkova Borová
-GEO:49.633452;15.779539
-URL:geo:49.633452,15.779539
-DESCRIPTION:📍 Havlíčkova\, Havlíčkova Borová\, Havlíčkův Brod\n💬 Odstranění
-  obtížného hmyzu.\n\n🚒 CAS (Havlíčkova Borová)
-END:VEVENT
-BEGIN:VEVENT
 UID:417546061
 DTSTART:20260812T155128Z
 DTEND:20260812T165128Z
@@ -902,9 +890,10 @@ SUMMARY:🚗 úklid místa - Nové Město na Moravě
 LOCATION:Nové Město na Moravě
 GEO:49.614218;16.088042
 URL:geo:49.614218,16.088042
-DESCRIPTION:📍 Studnice\, Nové Město na Moravě\, Žďár nad Sázavou\n\n🚒 CAS (
- CHS Žďár nad Sázavou)\n🚒 CAS (Nové Město na Moravě)\n🚒 TA (Nové Město na M
- oravě)
+DESCRIPTION:📍 Studnice\, Nové Město na Moravě\, Žďár nad Sázavou\n💬 DN trak
+ tor a OA\, bez zranění. Jednotka provedla zajištění místa nehody a zlikvid
+ ovala únik provozních kapalin sorbentem.\n\n🚒 CAS (CHS Žďár nad Sázavou)\n
+ 🚒 CAS (Nové Město na Moravě)\n🚒 TA (Nové Město na Moravě)
 END:VEVENT
 BEGIN:VEVENT
 UID:417680061
@@ -915,8 +904,8 @@ SUMMARY:🚗 dopravní nehoda - Kejžlice
 LOCATION:Kejžlice
 GEO:49.585779;15.395417
 URL:geo:49.585779,15.395417
-DESCRIPTION:📍 Kejžlice\, Pelhřimov\n\n🚒 CAS (HS Humpolec)\n🚒 RZA (HS Humpol
- ec)
+DESCRIPTION:📍 Kejžlice\, Pelhřimov\n💬 DN 1 OA\, bez zranění. Zajištění míst
+ a nehody.\n\n🚒 CAS (HS Humpolec)\n🚒 RZA (HS Humpolec)
 END:VEVENT
 BEGIN:VEVENT
 UID:417682061
@@ -954,5 +943,41 @@ GEO:49.743182;15.656675
 URL:geo:49.743182,15.656675
 DESCRIPTION:📍 Nová Ves u Chotěboře\, Havlíčkův Brod\n💬 DN 3 OA. Zajištění M
  ísta události.\n\n🚒 CAS (HS Chotěboř)
+END:VEVENT
+BEGIN:VEVENT
+UID:417690061
+DTSTART:20260814T143502Z
+DTEND:20260814T153502Z
+DTSTAMP:20260814T143502Z
+SUMMARY:🛠️ obtížný hmyz - Babice
+LOCATION:Babice
+GEO:49.123055;15.769190
+URL:geo:49.123055,15.769190
+DESCRIPTION:📍 Babice\, Třebíč\n\n🚒 DA (Babice (TR))
+END:VEVENT
+BEGIN:VEVENT
+UID:417691061
+DTSTART:20260814T144335Z
+DTEND:20260814T154335Z
+DTSTAMP:20260814T144335Z
+SUMMARY:🛠️ strom - Velká Bíteš
+LOCATION:Velká Bíteš
+GEO:49.267661;16.221624
+URL:geo:49.267661,16.221624
+DESCRIPTION:📍 Jindřichov\, Velká Bíteš\, Žďár nad Sázavou\n\n🚒 CAS (HS Velk
+ á Bíteš)
+END:VEVENT
+BEGIN:VEVENT
+UID:417694061
+DTSTART:20260814T145157Z
+DTEND:20260814T155157Z
+DTSTAMP:20260814T145157Z
+SUMMARY:🔥 tráva/plocha - Čížov
+LOCATION:Čížov
+GEO:49.342327;15.602859
+URL:geo:49.342327,15.602859
+DESCRIPTION:📍 Čížov\, Jihlava\n\n🚒 CAS (CHS Jihlava)\n🚒 CAS (CHS Jihlava)\n
+ 🚒 CAS (Stonařov)\n🚒 přívěs motorová stříkačka (Čížov)\n🚒 CAS (Jihlava-Bedř
+ ichov)
 END:VEVENT
 END:VCALENDAR
