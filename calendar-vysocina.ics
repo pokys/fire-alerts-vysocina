@@ -5,30 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:417550061
-DTSTART:20260812T170259Z
-DTEND:20260812T180259Z
-DTSTAMP:20260812T170259Z
-SUMMARY:🚗 dopravní nehoda - Měšín
-LOCATION:Měšín
-GEO:49.442789;15.662027
-URL:geo:49.442789,15.662027
-DESCRIPTION:📍 Měšín\, Jihlava\n💬 DN OA a motocyklu\,1 zraněná osoba. Proved
- eno zajištění místa nehody.\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihlava)
-END:VEVENT
-BEGIN:VEVENT
-UID:417551061
-DTSTART:20260812T170640Z
-DTEND:20260812T180640Z
-DTSTAMP:20260812T170640Z
-SUMMARY:🛠️ obtížný hmyz - Daňkovice
-LOCATION:Daňkovice
-GEO:49.655822;16.146818
-URL:geo:49.655822,16.146818
-DESCRIPTION:📍 Daňkovice\, Žďár nad Sázavou\n💬 Odstranění obtížného hmyzu.\n
- \n🚒 DA (Daňkovice)
-END:VEVENT
-BEGIN:VEVENT
 UID:417552061
 DTSTART:20260812T172805Z
 DTEND:20260812T182805Z
@@ -931,10 +907,10 @@ GEO:49.342327;15.602859
 URL:geo:49.342327,15.602859
 DESCRIPTION:📍 Čížov\, Jihlava\n💬 Požár lisu na balíky a strniště na ploše 3
  00 x 500m. Provedena lokalizace a likvidace požáru.\n\n🚒 CAS (CHS Jihlava)
- \n🚒 CAS (CHS Jihlava)\n🚒 CAS (Stonařov)\n🚒 DA (Čížov)\n🚒 přívěs motorová s
- tříkačka (Čížov)\n🚒 CAS (Jihlava-Bedřichov)\n🚒 CAS (HS Třešť)\n🚒 CAS (Luka
-  nad Jihlavou)\n🚒 CAS (Luka nad Jihlavou)\n🚒 CAS (Dlouhá Brtnice)\n🚒 CAS (
- Kněžice)\n🚒 vyšetřovací automobil (ÚO Jihlava)
+  ×2\n🚒 CAS (CHS Jihlava)\n🚒 CAS (Stonařov)\n🚒 DA (Čížov)\n🚒 přívěs motorov
+ á stříkačka (Čížov)\n🚒 CAS (Jihlava-Bedřichov)\n🚒 CAS (HS Třešť)\n🚒 CAS (L
+ uka nad Jihlavou)\n🚒 CAS (Luka nad Jihlavou)\n🚒 CAS (Dlouhá Brtnice)\n🚒 CA
+ S (Kněžice)\n🚒 vyšetřovací automobil (ÚO Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:417695061
@@ -1019,5 +995,27 @@ URL:geo:49.392694,16.114716
 DESCRIPTION:📍 Křižanov\, Žďár nad Sázavou\n💬 Požár trávy u silnice. Provede
  na lokalizace a likvidace požáru.\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 CAS (Kři
  žanov)
+END:VEVENT
+BEGIN:VEVENT
+UID:417705061
+DTSTART:20260814T170210Z
+DTEND:20260814T180210Z
+DTSTAMP:20260814T170210Z
+SUMMARY:🛠️ obtížný hmyz - Chotěboř
+LOCATION:V Drážkách\, Chotěboř
+GEO:49.718151;15.667697
+URL:geo:49.718151,15.667697
+DESCRIPTION:📍 V Drážkách\, Chotěboř\, Havlíčkův Brod\n\n🚒 CAS (Chotěboř)
+END:VEVENT
+BEGIN:VEVENT
+UID:417706061
+DTSTART:20260814T170410Z
+DTEND:20260814T180410Z
+DTSTAMP:20260814T170410Z
+SUMMARY:🛠️ otevření bytu/auta - Havlíčkův Brod
+LOCATION:U Kasáren\, Havlíčkův Brod
+GEO:49.597981;15.566133
+URL:geo:49.597981,15.566133
+DESCRIPTION:📍 U Kasáren\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)
 END:VEVENT
 END:VCALENDAR
