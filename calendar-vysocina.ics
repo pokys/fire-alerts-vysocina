@@ -814,18 +814,54 @@ SUMMARY:🛠️ ostatní - Michalovice
 LOCATION:Michalovice
 GEO:49.578461;15.525858
 URL:geo:49.578461,15.525858
-DESCRIPTION:📍 Michalovice\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)
+DESCRIPTION:📍 Michalovice\, Havlíčkův Brod\n💬 Odchyt hada.\n\n🚒 CAS (CHS Ha
+ vlíčkův Brod)
 END:VEVENT
 BEGIN:VEVENT
 UID:417654061
 DTSTART:20260814T100734Z
 DTEND:20260814T110734Z
 DTSTAMP:20260814T100734Z
-SUMMARY:🚗 se zraněním - Stránecká Zhoř
+SUMMARY:⚠️ planý poplach - Stránecká Zhoř
 LOCATION:Stránecká Zhoř
 GEO:49.383788;15.951318
 URL:geo:49.383788,15.951318
-DESCRIPTION:📍 Kochánov\, Stránecká Zhoř\, Žďár nad Sázavou\n\n🚒 CAS (HS Vel
- ké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)
+DESCRIPTION:📍 Kochánov\, Stránecká Zhoř\, Žďár nad Sázavou\n💬 Planý poplach
+ .\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)
+END:VEVENT
+BEGIN:VEVENT
+UID:417656061
+DTSTART:20260814T101817Z
+DTEND:20260814T111817Z
+DTSTAMP:20260814T101817Z
+SUMMARY:⚠️ planý poplach - Jihlava
+LOCATION:Pelhřimovská\, Jihlava
+GEO:49.394553;15.551922
+URL:geo:49.394553,15.551922
+DESCRIPTION:📍 Pelhřimovská\, Pístov\, Jihlava\n💬 Požár ohlášený systémem el
+ ektrické požární signalizace. Průzkumem bylo zjištěno\, že se jedná o plan
+ ý poplach.\n\n🚒 CAS (CHS Jihlava) ×2
+END:VEVENT
+BEGIN:VEVENT
+UID:417658061
+DTSTART:20260814T102214Z
+DTEND:20260814T112214Z
+DTSTAMP:20260814T102214Z
+SUMMARY:🛠️ strom - Lípa
+LOCATION:Lípa
+GEO:49.568387;15.556911
+URL:geo:49.568387,15.556911
+DESCRIPTION:📍 Petrkov\, Lípa\, Havlíčkův Brod\n\n🚒 AŽ (CHS Havlíčkův Brod)
+END:VEVENT
+BEGIN:VEVENT
+UID:417659061
+DTSTART:20260814T102855Z
+DTEND:20260814T112855Z
+DTSTAMP:20260814T102855Z
+SUMMARY:🛠️ obtížný hmyz - Štoky
+LOCATION:Štoky
+GEO:49.504380;15.589219
+URL:geo:49.504380,15.589219
+DESCRIPTION:📍 Štoky\, Havlíčkův Brod\n\n🚒 DA (Štoky)
 END:VEVENT
 END:VCALENDAR
