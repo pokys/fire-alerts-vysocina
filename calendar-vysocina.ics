@@ -803,10 +803,10 @@ SUMMARY:🔥 les - Sázava
 LOCATION:Sázava
 GEO:49.570583;15.868785
 URL:geo:49.570583,15.868785
-DESCRIPTION:📍 Sázava\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 
- CAS (CHS Žďár nad Sázavou)\n🚒 CAS (Sázava (ZR))\n🚒 CAS (Velká Losenice)\n🚒
-  CAS (Žďár nad Sázavou-Zámek)\n🚒 vyšetřovací automobil (ÚO Žďár nad Sázavo
- u)
+DESCRIPTION:📍 Sázava\, Žďár nad Sázavou\n💬 Požár hrabanky. Provedena lokali
+ zace a likvidace.\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (CHS Žďár nad Sáz
+ avou)\n🚒 CAS (Sázava (ZR))\n🚒 CAS (Velká Losenice)\n🚒 CAS (Žďár nad Sázavo
+ u-Zámek)\n🚒 vyšetřovací automobil (ÚO Žďár nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:417668061
@@ -941,8 +941,8 @@ SUMMARY:🚗 dopravní nehoda - Nová Ves u Chotěboře
 LOCATION:Nová Ves u Chotěboře
 GEO:49.743182;15.656675
 URL:geo:49.743182,15.656675
-DESCRIPTION:📍 Nová Ves u Chotěboře\, Havlíčkův Brod\n💬 DN 3 OA. Zajištění M
- ísta události.\n\n🚒 CAS (HS Chotěboř)
+DESCRIPTION:📍 Nová Ves u Chotěboře\, Havlíčkův Brod\n💬 DN 3 OA\, bez zraněn
+ í. Provedena PPO. Zajištění místa události.\n\n🚒 CAS (HS Chotěboř)
 END:VEVENT
 BEGIN:VEVENT
 UID:417690061
@@ -966,7 +966,7 @@ LOCATION:Velká Bíteš
 GEO:49.267661;16.221624
 URL:geo:49.267661,16.221624
 DESCRIPTION:📍 Jindřichov\, Velká Bíteš\, Žďár nad Sázavou\n💬 Odstranění str
- omu.\n\n🚒 CAS (HS Velká Bíteš)
+ omu.\n\n🚒 CAS (HS Velká Bíteš)\n🚒 pila řetězová (HS Velká Bíteš)
 END:VEVENT
 BEGIN:VEVENT
 UID:417694061
@@ -977,10 +977,11 @@ SUMMARY:🔥 tráva/plocha - Čížov
 LOCATION:Čížov
 GEO:49.342327;15.602859
 URL:geo:49.342327,15.602859
-DESCRIPTION:📍 Čížov\, Jihlava\n\n🚒 CAS (CHS Jihlava)\n🚒 CAS (CHS Jihlava)\n
- 🚒 CAS (Stonařov)\n🚒 přívěs motorová stříkačka (Čížov)\n🚒 CAS (Jihlava-Bedř
- ichov)\n🚒 CAS (HS Třešť)\n🚒 CAS (Luka nad Jihlavou)\n🚒 CAS (Dlouhá Brtnice
- )\n🚒 CAS (Kněžice)
+DESCRIPTION:📍 Čížov\, Jihlava\n💬 Požár strniště na ploše 300 x 500m.\n\n🚒 C
+ AS (CHS Jihlava)\n🚒 CAS (CHS Jihlava)\n🚒 CAS (Stonařov)\n🚒 DA (Čížov)\n🚒 p
+ řívěs motorová stříkačka (Čížov)\n🚒 CAS (Jihlava-Bedřichov)\n🚒 CAS (HS Tře
+ šť)\n🚒 CAS (Luka nad Jihlavou)\n🚒 CAS (Luka nad Jihlavou)\n🚒 CAS (Dlouhá B
+ rtnice)\n🚒 CAS (Kněžice)
 END:VEVENT
 BEGIN:VEVENT
 UID:417695061
@@ -991,7 +992,7 @@ SUMMARY:🛠️ obtížný hmyz - Golčův Jeníkov
 LOCATION:Golčův Jeníkov
 GEO:49.831556;15.482797
 URL:geo:49.831556,15.482797
-DESCRIPTION:📍 Stupárovice\, Golčův Jeníkov\, Havlíčkův Brod\n\n🚒 CAS (Golčů
- v Jeníkov)
+DESCRIPTION:📍 Stupárovice\, Golčův Jeníkov\, Havlíčkův Brod\n💬 Odstranění o
+ btížného hmyzu.\n\n🚒 CAS (Golčův Jeníkov)
 END:VEVENT
 END:VCALENDAR
