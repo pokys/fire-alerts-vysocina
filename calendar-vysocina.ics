@@ -1002,12 +1002,13 @@ UID:417714061
 DTSTART:20260814T182543Z
 DTEND:20260814T192543Z
 DTSTAMP:20260814T182543Z
-SUMMARY:🔥 technologie - Jihlava
+SUMMARY:⚠️ planý poplach - Jihlava
 LOCATION:Jihlava
 GEO:49.442342;15.614171
 URL:geo:49.442342,15.614171
-DESCRIPTION:📍 Pávov\, Jihlava\n\n🚒 CAS (CHS Jihlava) ×2\n🚒 CAS (CHS Jihlava
- ) ×2
+DESCRIPTION:📍 Pávov\, Jihlava\n💬 Požár ohlášený systémem elektrické požární
+  signalizace. Průzkumem bylo zjištěno\, že se jedná o planý poplach.\n\n🚒 
+ CAS (CHS Jihlava) ×2\n🚒 CAS (CHS Jihlava) ×2
 END:VEVENT
 BEGIN:VEVENT
 UID:417715061
@@ -1018,7 +1019,8 @@ SUMMARY:☣️ plyn - Havlíčkův Brod
 LOCATION:Havlíčkova\, Havlíčkův Brod
 GEO:49.608491;15.571407
 URL:geo:49.608491,15.571407
-DESCRIPTION:📍 Havlíčkova\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)
+DESCRIPTION:📍 Havlíčkova\, Havlíčkův Brod\n💬 Prověření úniku plynu.\n\n🚒 CA
+ S (CHS Havlíčkův Brod)
 END:VEVENT
 BEGIN:VEVENT
 UID:417716061
@@ -1029,6 +1031,18 @@ SUMMARY:🚑 transport pacienta - Kámen
 LOCATION:Kámen
 GEO:49.422330;15.017189
 URL:geo:49.422330,15.017189
-DESCRIPTION:📍 Kámen\, Pelhřimov\n\n🚒 CAS (HS Pacov)
+DESCRIPTION:📍 Kámen\, Pelhřimov\n💬 Transport pacienta na žádost ZZS.\n\n🚒 C
+ AS (HS Pacov)
+END:VEVENT
+BEGIN:VEVENT
+UID:417717061
+DTSTART:20260814T192220Z
+DTEND:20260814T202220Z
+DTSTAMP:20260814T192220Z
+SUMMARY:🚗 dopravní nehoda - Třebíč
+LOCATION:Račerovická\, Třebíč
+GEO:49.224743;15.861336
+URL:geo:49.224743,15.861336
+DESCRIPTION:📍 Račerovická\, Podklášteří\, Třebíč\n\n🚒 CAS (CHS Třebíč)
 END:VEVENT
 END:VCALENDAR
