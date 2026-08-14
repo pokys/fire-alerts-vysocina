@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:417546061
-DTSTART:20260812T155128Z
-DTEND:20260812T165128Z
-DTSTAMP:20260812T155128Z
-SUMMARY:🛠️ obtížný hmyz - Batelov
-LOCATION:V Zahradách\, Batelov
-GEO:49.313833;15.388926
-URL:geo:49.313833,15.388926
-DESCRIPTION:📍 V Zahradách\, Batelov\, Jihlava\n💬 Odstranění obtížného hmyzu
- .\n\n🚒 CAS (Batelov)
-END:VEVENT
-BEGIN:VEVENT
 UID:417547061
 DTSTART:20260812T161140Z
 DTEND:20260812T171140Z
@@ -977,11 +965,12 @@ SUMMARY:🔥 tráva/plocha - Čížov
 LOCATION:Čížov
 GEO:49.342327;15.602859
 URL:geo:49.342327,15.602859
-DESCRIPTION:📍 Čížov\, Jihlava\n💬 Požár strniště na ploše 300 x 500m.\n\n🚒 C
- AS (CHS Jihlava)\n🚒 CAS (CHS Jihlava)\n🚒 CAS (Stonařov)\n🚒 DA (Čížov)\n🚒 p
- řívěs motorová stříkačka (Čížov)\n🚒 CAS (Jihlava-Bedřichov)\n🚒 CAS (HS Tře
- šť)\n🚒 CAS (Luka nad Jihlavou)\n🚒 CAS (Luka nad Jihlavou)\n🚒 CAS (Dlouhá B
- rtnice)\n🚒 CAS (Kněžice)
+DESCRIPTION:📍 Čížov\, Jihlava\n💬 Požár lisu na balíky a strniště na ploše 3
+ 00 x 500m. Provedena lokalizace a likvidace požáru.\n\n🚒 CAS (CHS Jihlava)
+ \n🚒 CAS (CHS Jihlava)\n🚒 CAS (Stonařov)\n🚒 DA (Čížov)\n🚒 přívěs motorová s
+ tříkačka (Čížov)\n🚒 CAS (Jihlava-Bedřichov)\n🚒 CAS (HS Třešť)\n🚒 CAS (Luka
+  nad Jihlavou)\n🚒 CAS (Luka nad Jihlavou)\n🚒 CAS (Dlouhá Brtnice)\n🚒 CAS (
+ Kněžice)\n🚒 vyšetřovací automobil (ÚO Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:417695061
@@ -994,5 +983,28 @@ GEO:49.831556;15.482797
 URL:geo:49.831556,15.482797
 DESCRIPTION:📍 Stupárovice\, Golčův Jeníkov\, Havlíčkův Brod\n💬 Odstranění o
  btížného hmyzu.\n\n🚒 CAS (Golčův Jeníkov)
+END:VEVENT
+BEGIN:VEVENT
+UID:417697061
+DTSTART:20260814T153504Z
+DTEND:20260814T163504Z
+DTSTAMP:20260814T153504Z
+SUMMARY:🛠️ obtížný hmyz - Světlá nad Sázavou
+LOCATION:Horní\, Světlá nad Sázavou
+GEO:49.668294;15.403432
+URL:geo:49.668294,15.403432
+DESCRIPTION:📍 Horní\, Světlá nad Sázavou\, Havlíčkův Brod\n💬 Odstranění obt
+ ížného hmyzu.\n\n🚒 CAS (HS Světlá nad Sázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:417698061
+DTSTART:20260814T154555Z
+DTEND:20260814T164555Z
+DTSTAMP:20260814T154555Z
+SUMMARY:🚑 otevření/asistence - Třešť
+LOCATION:Palackého\, Třešť
+GEO:49.281794;15.474705
+URL:geo:49.281794,15.474705
+DESCRIPTION:📍 Palackého\, Třešť\, Jihlava\n\n🚒 CAS (HS Telč)
 END:VEVENT
 END:VCALENDAR
