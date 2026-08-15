@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:417575061
-DTSTART:20260813T080840Z
-DTEND:20260813T090840Z
-DTSTAMP:20260813T080840Z
-SUMMARY:🛠️ obtížný hmyz - Havlíčkův Brod
-LOCATION:Zahradnického\, Havlíčkův Brod
-GEO:49.616394;15.572711
-URL:geo:49.616394,15.572711
-DESCRIPTION:📍 Zahradnického\, Havlíčkův Brod\n💬 Odstranění obtížného hmyzu.
- \n\n🚒 CAS (CHS Havlíčkův Brod)
-END:VEVENT
-BEGIN:VEVENT
 UID:417576061
 DTSTART:20260813T085732Z
 DTEND:20260813T095732Z
@@ -1068,8 +1056,8 @@ SUMMARY:⚠️ planý poplach - Píšť
 LOCATION:Píšť
 GEO:49.612996;15.186753
 URL:geo:49.612996,15.186753
-DESCRIPTION:📍 Píšť\, Pelhřimov\n\n🚒 CAS (Hořice)\n🚒 vozidlo účelové - SxS (
- Hořice)
+DESCRIPTION:📍 Píšť\, Pelhřimov\n💬 Planý poplach.\n\n🚒 CAS (Hořice)\n🚒 vozid
+ lo účelové - SxS (Hořice)
 END:VEVENT
 BEGIN:VEVENT
 UID:417735061
@@ -1080,7 +1068,8 @@ SUMMARY:🚗 úklid místa - Obrataň
 LOCATION:Obrataň
 GEO:49.421578;14.966562
 URL:geo:49.421578,14.966562
-DESCRIPTION:📍 Obrataň\, Pelhřimov\n\n🚒 CAS (HS Pacov)
+DESCRIPTION:📍 Obrataň\, Pelhřimov\n💬 DN 3 OA\, bez zranění.\n\n🚒 CAS (HS Pa
+ cov)
 END:VEVENT
 BEGIN:VEVENT
 UID:417736061
@@ -1089,10 +1078,10 @@ DTEND:20260815T082135Z
 DTSTAMP:20260815T072135Z
 SUMMARY:🔥 tráva/plocha - Žďár nad Sázavou
 LOCATION:Žďár nad Sázavou
-GEO:49.547299;15.950320
-URL:geo:49.547299,15.950320
-DESCRIPTION:📍 Žďár nad Sázavou 1\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad 
- Sázavou) ×2\n🚒 CAS (CHS Žďár nad Sázavou) ×2\n🚒 CAS (Žďár nad Sázavou-Záme
- k) ×2
+GEO:49.548116;15.950590
+URL:geo:49.548116,15.950590
+DESCRIPTION:📍 Žďár nad Sázavou 1\, Žďár nad Sázavou\n💬 Likvidace požáru trá
+ vy na ploše 10 m2.\n\n🚒 CAS (CHS Žďár nad Sázavou) ×2\n🚒 CAS (CHS Žďár nad
+  Sázavou) ×2\n🚒 CAS (Žďár nad Sázavou-Zámek) ×2
 END:VEVENT
 END:VCALENDAR
