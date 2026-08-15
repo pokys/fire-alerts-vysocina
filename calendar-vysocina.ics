@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:417576061
-DTSTART:20260813T085732Z
-DTEND:20260813T095732Z
-DTSTAMP:20260813T085732Z
-SUMMARY:🛠️ strom - Nová Ves u Chotěboře
-LOCATION:Nová Ves u Chotěboře
-GEO:49.753779;15.645820
-URL:geo:49.753779,15.645820
-DESCRIPTION:📍 Nová Ves u Chotěboře\, Havlíčkův Brod\n💬 Odstranění stromu.\n
- \n🚒 CAS (HS Chotěboř)\n🚒 automobilová plošina do 30 m (HS Chotěboř)\n🚒 pil
- a řetězová (HS Chotěboř)
-END:VEVENT
-BEGIN:VEVENT
 UID:417577061
 DTSTART:20260813T093322Z
 DTEND:20260813T103322Z
@@ -843,8 +830,8 @@ DTEND:20260814T171146Z
 DTSTAMP:20260814T161146Z
 SUMMARY:🛠️ strom - Červená Lhota
 LOCATION:Červená Lhota
-GEO:49.276171;15.784053
-URL:geo:49.276171,15.784053
+GEO:49.276933;15.782212
+URL:geo:49.276933,15.782212
 DESCRIPTION:📍 Červená Lhota\, Třebíč\n💬 Odstranění stromu.\n\n🚒 CAS (CHS Tř
  ebíč) ×2
 END:VEVENT
@@ -1083,5 +1070,28 @@ URL:geo:49.548116,15.950590
 DESCRIPTION:📍 Žďár nad Sázavou 1\, Žďár nad Sázavou\n💬 Likvidace požáru trá
  vy na ploše 10 m2.\n\n🚒 CAS (CHS Žďár nad Sázavou) ×2\n🚒 CAS (CHS Žďár nad
   Sázavou) ×2\n🚒 CAS (Žďár nad Sázavou-Zámek) ×2
+END:VEVENT
+BEGIN:VEVENT
+UID:417739061
+DTSTART:20260815T084014Z
+DTEND:20260815T094014Z
+DTSTAMP:20260815T084014Z
+SUMMARY:🚑 transport pacienta - Moravské Budějovice
+LOCATION:nám. ČSA\, Moravské Budějovice
+GEO:49.051369;15.810095
+URL:geo:49.051369,15.810095
+DESCRIPTION:📍 nám. ČSA\, Moravské Budějovice\, Třebíč\n\n🚒 CAS (HS Moravské
+  Budějovice)
+END:VEVENT
+BEGIN:VEVENT
+UID:417740061
+DTSTART:20260815T084433Z
+DTEND:20260815T094433Z
+DTSTAMP:20260815T084433Z
+SUMMARY:🚑 otevření/asistence - Třešť
+LOCATION:Luční\, Třešť
+GEO:49.288755;15.485415
+URL:geo:49.288755,15.485415
+DESCRIPTION:📍 Luční\, Třešť\, Jihlava\n\n🚒 CAS (HS Třešť)
 END:VEVENT
 END:VCALENDAR
