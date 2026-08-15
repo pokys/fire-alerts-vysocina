@@ -1048,4 +1048,17 @@ URL:geo:49.218668,15.905214
 DESCRIPTION:📍 Na Kopcích\, Nové Město\, Třebíč\n💬 Pomoc imobilní osobě.\n\n
  🚒 CAS (CHS Třebíč)
 END:VEVENT
+BEGIN:VEVENT
+UID:417725061
+DTSTART:20260815T045617Z
+DTEND:20260815T055617Z
+DTSTAMP:20260815T045617Z
+SUMMARY:🔥 Horní Cerekev
+LOCATION:Havlíčkova\, Horní Cerekev
+GEO:49.319786;15.330761
+URL:geo:49.319786,15.330761
+DESCRIPTION:📍 Havlíčkova\, Horní Cerekev\, Pelhřimov\n💬 Požár hlášený čidle
+ m EPS na PCO - planý poplach.\n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (CHS Pelhřim
+ ov)\n🚒 CAS (Horní Cerekev)\n🚒 CAS (Batelov)\n🚒 CAS (Počátky)
+END:VEVENT
 END:VCALENDAR
