@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:417612061
-DTSTART:20260813T165801Z
-DTEND:20260813T175801Z
-DTSTAMP:20260813T165801Z
-SUMMARY:🛠️ obtížný hmyz - Netín
-LOCATION:Netín
-GEO:49.414249;15.952561
-URL:geo:49.414249,15.952561
-DESCRIPTION:📍 Netín\, Žďár nad Sázavou\n💬 Odstranění obtížného hmyzu.\n\n🚒 
- DA (Netín)
-END:VEVENT
-BEGIN:VEVENT
 UID:417613061
 DTSTART:20260813T170354Z
 DTEND:20260813T180354Z
@@ -975,7 +963,8 @@ SUMMARY:🚗 bez zranění - Kostelec
 LOCATION:Kostelec
 GEO:49.377158;15.506409
 URL:geo:49.377158,15.506409
-DESCRIPTION:📍 Kostelec\, Jihlava\n\n🚒 RZA (CHS Jihlava)\n🚒 CAS (HS Třešť)
+DESCRIPTION:📍 Kostelec\, Jihlava\n💬 DN 1 OA a motocyklu bez zranění. Zajišt
+ ění místa události.\n\n🚒 RZA (CHS Jihlava)\n🚒 CAS (HS Třešť)
 END:VEVENT
 BEGIN:VEVENT
 UID:417759061
@@ -986,7 +975,8 @@ SUMMARY:🛠️ ostatní - Mohelno
 LOCATION:Mohelno
 GEO:49.117337;16.193646
 URL:geo:49.117337,16.193646
-DESCRIPTION:📍 Mohelno\, Třebíč\n\n🚒 CAS (HS Náměšť nad Oslavou)
+DESCRIPTION:📍 Mohelno\, Třebíč\n💬 Odchyt hada.\n\n🚒 CAS (HS Náměšť nad Osla
+ vou)
 END:VEVENT
 BEGIN:VEVENT
 UID:417761061
@@ -997,7 +987,7 @@ SUMMARY:🛠️ obtížný hmyz - Ždírec nad Doubravou
 LOCATION:Ždírec nad Doubravou
 GEO:49.734577;15.819614
 URL:geo:49.734577,15.819614
-DESCRIPTION:📍 Údavy\, Ždírec nad Doubravou\, Havlíčkův Brod\n\n🚒 CAS (Ždíre
- c nad Doubravou)
+DESCRIPTION:📍 Údavy\, Ždírec nad Doubravou\, Havlíčkův Brod\n💬 Odstranění o
+ btížného hmyzu.\n\n🚒 CAS (Ždírec nad Doubravou)
 END:VEVENT
 END:VCALENDAR
