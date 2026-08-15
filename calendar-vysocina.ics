@@ -887,8 +887,8 @@ SUMMARY:🚗 úklid místa - Obrataň
 LOCATION:Obrataň
 GEO:49.421578;14.966562
 URL:geo:49.421578,14.966562
-DESCRIPTION:📍 Obrataň\, Pelhřimov\n💬 DN 3 xOA\, bez zranění. Likvidace únik
- u provozních kapalin. Zajištění místa události.\n\n🚒 CAS (HS Pacov)
+DESCRIPTION:📍 Obrataň\, Pelhřimov\n💬 DN 3 OA\, bez zranění. Likvidace úniku
+  provozních kapalin. Zajištění místa události.\n\n🚒 CAS (HS Pacov)
 END:VEVENT
 BEGIN:VEVENT
 UID:417736061
@@ -947,9 +947,9 @@ SUMMARY:🚗 bez zranění - Stránecká Zhoř
 LOCATION:Stránecká Zhoř
 GEO:49.383398;15.931279
 URL:geo:49.383398,15.931279
-DESCRIPTION:📍 Stránecká Zhoř\, Žďár nad Sázavou\n💬 DN 2 x OA bez zranění. Z
- ajištění místa nehody.\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (HS Velké Meziř
- íčí)
+DESCRIPTION:📍 Stránecká Zhoř\, Žďár nad Sázavou\n💬 DN 2 OA bez zranění. Zaj
+ ištění místa nehody.\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (HS Velké Meziříč
+ í)
 END:VEVENT
 BEGIN:VEVENT
 UID:417748061
@@ -1009,6 +1009,7 @@ SUMMARY:🚑 transport pacienta - Humpolec
 LOCATION:Lnářská\, Humpolec
 GEO:49.540245;15.353200
 URL:geo:49.540245,15.353200
-DESCRIPTION:📍 Lnářská\, Humpolec\, Pelhřimov\n\n🚒 CAS (HS Humpolec)
+DESCRIPTION:📍 Lnářská\, Humpolec\, Pelhřimov\n💬 Transport pacienta na žádos
+ t ZZS.\n\n🚒 CAS (HS Humpolec)
 END:VEVENT
 END:VCALENDAR
