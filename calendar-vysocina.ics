@@ -1000,4 +1000,15 @@ DESCRIPTION:📍 Nová Ves\, Třebíč\n💬 Likvidace požáru keřů na ploše
  \n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (CHS Třebíč)\n🚒 DA (Nová Ves (TR))\n🚒 CAS (O
  kříšky) ×2\n🚒 CAS (Přibyslavice)\n🚒 CAS (Přibyslavice)
 END:VEVENT
+BEGIN:VEVENT
+UID:417754061
+DTSTART:20260815T134326Z
+DTEND:20260815T144326Z
+DTSTAMP:20260815T134326Z
+SUMMARY:🚑 transport pacienta - Humpolec
+LOCATION:Lnářská\, Humpolec
+GEO:49.540245;15.353200
+URL:geo:49.540245,15.353200
+DESCRIPTION:📍 Lnářská\, Humpolec\, Pelhřimov\n\n🚒 CAS (HS Humpolec)
+END:VEVENT
 END:VCALENDAR
