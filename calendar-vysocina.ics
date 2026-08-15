@@ -746,8 +746,8 @@ DTEND:20260814T171146Z
 DTSTAMP:20260814T161146Z
 SUMMARY:🛠️ strom - Červená Lhota
 LOCATION:Červená Lhota
-GEO:49.276933;15.782212
-URL:geo:49.276933,15.782212
+GEO:49.276151;15.784029
+URL:geo:49.276151,15.784029
 DESCRIPTION:📍 Červená Lhota\, Třebíč\n💬 Odstranění stromu.\n\n🚒 CAS (CHS Tř
  ebíč) ×2
 END:VEVENT
@@ -1027,11 +1027,23 @@ UID:417744061
 DTSTART:20260815T093353Z
 DTEND:20260815T103353Z
 DTSTAMP:20260815T093353Z
-SUMMARY:🚗 se zraněním - Stránecká Zhoř
+SUMMARY:🚗 bez zranění - Stránecká Zhoř
 LOCATION:Stránecká Zhoř
 GEO:49.383398;15.931279
 URL:geo:49.383398,15.931279
-DESCRIPTION:📍 Stránecká Zhoř\, Žďár nad Sázavou\n💬 DN 3 OA.\n\n🚒 CAS (HS Ve
- lké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)
+DESCRIPTION:📍 Stránecká Zhoř\, Žďár nad Sázavou\n💬 DN 2 OA bez zranění\, Za
+ jištění místa nehody a protipožární opatření.\n\n🚒 CAS (HS Velké Meziříčí)
+ \n🚒 RZA (HS Velké Meziříčí)
+END:VEVENT
+BEGIN:VEVENT
+UID:417748061
+DTSTART:20260815T104600Z
+DTEND:20260815T114600Z
+DTSTAMP:20260815T104600Z
+SUMMARY:🛠️ obtížný hmyz - Komorovice
+LOCATION:Komorovice
+GEO:49.510527;15.333018
+URL:geo:49.510527,15.333018
+DESCRIPTION:📍 Komorovice\, Pelhřimov\n\n🚒 CAS (HS Humpolec)
 END:VEVENT
 END:VCALENDAR
