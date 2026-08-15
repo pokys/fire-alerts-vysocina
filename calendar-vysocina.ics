@@ -5,43 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:417613061
-DTSTART:20260813T170354Z
-DTEND:20260813T180354Z
-DTSTAMP:20260813T170354Z
-SUMMARY:🚗 dopravní nehoda - Vojnův Městec
-LOCATION:Vojnův Městec
-GEO:49.672425;15.890429
-URL:geo:49.672425,15.890429
-DESCRIPTION:📍 Vojnův Městec\, Žďár nad Sázavou\n💬 DN motorky. 1 zraněná oso
- ba v péči ZZS. Jednotka provedla úklid vozovky. Zajištění místa nehody.\n\
- n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (Ždírec nad Doubravou)
-END:VEVENT
-BEGIN:VEVENT
-UID:417614061
-DTSTART:20260813T170716Z
-DTEND:20260813T180716Z
-DTSTAMP:20260813T170716Z
-SUMMARY:🛠️ obtížný hmyz - Golčův Jeníkov
-LOCATION:Komenského\, Golčův Jeníkov
-GEO:49.816398;15.471767
-URL:geo:49.816398,15.471767
-DESCRIPTION:📍 Komenského\, Golčův Jeníkov\, Havlíčkův Brod\n💬 Odstranění ob
- tížného hmyzu.\n\n🚒 CAS (Golčův Jeníkov)
-END:VEVENT
-BEGIN:VEVENT
-UID:417615061
-DTSTART:20260813T171231Z
-DTEND:20260813T181231Z
-DTSTAMP:20260813T171231Z
-SUMMARY:🛠️ obtížný hmyz - Daňkovice
-LOCATION:Daňkovice
-GEO:49.655822;16.146818
-URL:geo:49.655822,16.146818
-DESCRIPTION:📍 Daňkovice\, Žďár nad Sázavou\n💬 Odstranění obtížného hmyzu.\n
- \n🚒 CAS (Daňkovice)
-END:VEVENT
-BEGIN:VEVENT
 UID:417616061
 DTSTART:20260813T173441Z
 DTEND:20260813T183441Z
