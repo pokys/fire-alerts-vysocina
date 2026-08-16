@@ -5,20 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:417667061
-DTSTART:20260814T111839Z
-DTEND:20260814T121839Z
-DTSTAMP:20260814T111839Z
-SUMMARY:🔥 les - Sázava
-LOCATION:Sázava
-GEO:49.570583;15.868785
-URL:geo:49.570583,15.868785
-DESCRIPTION:📍 Sázava\, Žďár nad Sázavou\n💬 Požár hrabanky. Provedena lokali
- zace a likvidace.\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (CHS Žďár nad Sáz
- avou)\n🚒 CAS (Sázava (ZR))\n🚒 CAS (Velká Losenice)\n🚒 CAS (Žďár nad Sázavo
- u-Zámek)\n🚒 vyšetřovací automobil (ÚO Žďár nad Sázavou)
-END:VEVENT
-BEGIN:VEVENT
 UID:417668061
 DTSTART:20260814T114319Z
 DTEND:20260814T124319Z
