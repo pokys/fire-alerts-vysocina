@@ -5,34 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:417694061
-DTSTART:20260814T145157Z
-DTEND:20260814T155157Z
-DTSTAMP:20260814T145157Z
-SUMMARY:🔥 vozidlo - Čížov
-LOCATION:Čížov
-GEO:49.342327;15.602859
-URL:geo:49.342327,15.602859
-DESCRIPTION:📍 Čížov\, Jihlava\n💬 Požár lisu na balíky a strniště na ploše 3
- 00 x 500m. Provedena lokalizace a likvidace požáru.\n\n🚒 CAS (CHS Jihlava)
-  ×2\n🚒 CAS (CHS Jihlava)\n🚒 CAS (Stonařov)\n🚒 DA (Čížov)\n🚒 přívěs motorov
- á stříkačka (Čížov)\n🚒 CAS (Jihlava-Bedřichov)\n🚒 CAS (HS Třešť)\n🚒 CAS (L
- uka nad Jihlavou)\n🚒 CAS (Luka nad Jihlavou)\n🚒 CAS (Dlouhá Brtnice)\n🚒 CA
- S (Kněžice)\n🚒 vyšetřovací automobil (ÚO Jihlava)
-END:VEVENT
-BEGIN:VEVENT
-UID:417695061
-DTSTART:20260814T145401Z
-DTEND:20260814T155401Z
-DTSTAMP:20260814T145401Z
-SUMMARY:🛠️ obtížný hmyz - Golčův Jeníkov
-LOCATION:Golčův Jeníkov
-GEO:49.831556;15.482797
-URL:geo:49.831556,15.482797
-DESCRIPTION:📍 Stupárovice\, Golčův Jeníkov\, Havlíčkův Brod\n💬 Odstranění o
- btížného hmyzu.\n\n🚒 CAS (Golčův Jeníkov)
-END:VEVENT
-BEGIN:VEVENT
 UID:417697061
 DTSTART:20260814T153504Z
 DTEND:20260814T163504Z
@@ -627,7 +599,8 @@ SUMMARY:🛠️ obtížný hmyz - Černíč
 LOCATION:Černíč
 GEO:49.128816;15.454013
 URL:geo:49.128816,15.454013
-DESCRIPTION:📍 Černíč\, Jihlava\n\n🚒 CAS (HS Telč)
+DESCRIPTION:📍 Černíč\, Jihlava\n💬 Likvidace vosího hnízda.\n\n🚒 CAS (HS Tel
+ č)
 END:VEVENT
 BEGIN:VEVENT
 UID:417791061
@@ -638,7 +611,8 @@ SUMMARY:🚑 otevření/asistence - Jihlava
 LOCATION:Za Prachárnou\, Jihlava
 GEO:49.397606;15.566229
 URL:geo:49.397606,15.566229
-DESCRIPTION:📍 Za Prachárnou\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+DESCRIPTION:📍 Za Prachárnou\, Jihlava\n💬 Pomc imobilní osobě.\n\n🚒 CAS (CHS
+  Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:417793061
@@ -673,8 +647,8 @@ SUMMARY:🚑 transport pacienta - Telč
 LOCATION:Na Sádkách\, Telč
 GEO:49.188118;15.444834
 URL:geo:49.188118,15.444834
-DESCRIPTION:📍 Na Sádkách\, Telč-Štěpnice\, Telč\, Jihlava\n\n🚒 CAS (HS Telč
- )
+DESCRIPTION:📍 Na Sádkách\, Telč-Štěpnice\, Telč\, Jihlava\n💬 Transport paci
+ enta.\n\n🚒 CAS (HS Telč)
 END:VEVENT
 BEGIN:VEVENT
 UID:417796061
@@ -685,8 +659,9 @@ SUMMARY:🚗 úklid místa - Žďár nad Sázavou
 LOCATION:Dolní\, Žďár nad Sázavou
 GEO:49.566782;15.939384
 URL:geo:49.566782,15.939384
-DESCRIPTION:📍 Dolní\, Žďár nad Sázavou\n💬 DN 2 OA bez zranění\, likvidace ú
- niku provozních kapalin.\n\n🚒 CAS (CHS Žďár nad Sázavou)
+DESCRIPTION:📍 Dolní\, Žďár nad Sázavou\n💬 DN 2 x OA bez zranění\, likvidace
+  úniku provozních kapalin. Zajištění místa události.\n\n🚒 CAS (CHS Žďár na
+ d Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:417797061
@@ -697,8 +672,8 @@ SUMMARY:🚗 dopravní nehoda - Telč
 LOCATION:Telč
 GEO:49.196282;15.443154
 URL:geo:49.196282,15.443154
-DESCRIPTION:📍 Telč-Štěpnice\, Telč\, Jihlava\n\n🚒 CAS (HS Telč)\n🚒 CAS (HS 
- Telč)
+DESCRIPTION:📍 Telč-Štěpnice\, Telč\, Jihlava\n💬 DN OA a motorkáře\, jedna o
+ soba exitus. Zajištění místa události.\n\n🚒 CAS (HS Telč)\n🚒 CAS (HS Telč)
 END:VEVENT
 BEGIN:VEVENT
 UID:417802061
@@ -709,8 +684,8 @@ SUMMARY:🛠️ obtížný hmyz - Netín
 LOCATION:Netín
 GEO:49.412683;15.950913
 URL:geo:49.412683,15.950913
-DESCRIPTION:📍 Netín\, Žďár nad Sázavou\n💬 Odstranění obtížného hmyzu.\n\n🚒 
- DA (Netín)
+DESCRIPTION:📍 Netín\, Žďár nad Sázavou\n💬 Likvidace nebezpečného hmyzu.\n\n
+ 🚒 DA (Netín)
 END:VEVENT
 BEGIN:VEVENT
 UID:417804061
@@ -734,7 +709,8 @@ SUMMARY:🚑 Jihlava
 LOCATION:Masarykovo náměstí\, Jihlava
 GEO:49.394238;15.592438
 URL:geo:49.394238,15.592438
-DESCRIPTION:📍 Masarykovo náměstí\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+DESCRIPTION:📍 Masarykovo náměstí\, Jihlava\n💬 Záchrana kočky.\n\n🚒 CAS (CHS
+  Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:417806061
@@ -758,9 +734,9 @@ SUMMARY:🔥 trafostanice - Sudice
 LOCATION:Sudice
 GEO:49.180716;16.242586
 URL:geo:49.180716,16.242586
-DESCRIPTION:📍 Sudice\, Třebíč\n💬 Likvidace požáru pojistky v transformátoru
- .\n\n🚒 CAS (HS Náměšť nad Oslavou)\n🚒 CAS (Kralice nad Oslavou)\n🚒 TA (Kra
- lice nad Oslavou)\n🚒 DA (Sudice)
+DESCRIPTION:📍 Sudice\, Třebíč\n💬 Požár transformátoru.\n\n🚒 CAS (HS Náměšť 
+ nad Oslavou)\n🚒 CAS (Kralice nad Oslavou)\n🚒 TA (Kralice nad Oslavou)\n🚒 D
+ A (Sudice)
 END:VEVENT
 BEGIN:VEVENT
 UID:417809061
@@ -771,7 +747,8 @@ SUMMARY:☣️ olej/PHM - Jihlava
 LOCATION:Brněnská\, Jihlava
 GEO:49.397146;15.609092
 URL:geo:49.397146,15.609092
-DESCRIPTION:📍 Brněnská\, Helenín\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+DESCRIPTION:📍 Brněnská\, Helenín\, Jihlava\n💬 Likvidace úniku oleje z OA. Ú
+ nik zlikvidován pomocí sorbentu.\n\n🚒 CAS (CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:417810061
@@ -782,8 +759,8 @@ SUMMARY:🚗 dopravní nehoda - Pacov
 LOCATION:Pacov
 GEO:49.496929;15.035083
 URL:geo:49.496929,15.035083
-DESCRIPTION:📍 Roučkovice\, Pacov\, Pelhřimov\n💬 DN 1 OA\, 1 zraněná osoba.\
- n\n🚒 CAS (HS Pacov)
+DESCRIPTION:📍 Roučkovice\, Pacov\, Pelhřimov\n💬 DN OA\, jedna zraněná osoba
+ . Zajištění místa události.\n\n🚒 CAS (HS Pacov)
 END:VEVENT
 BEGIN:VEVENT
 UID:417811061
