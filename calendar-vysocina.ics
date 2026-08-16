@@ -858,8 +858,9 @@ SUMMARY:🚗 dopravní nehoda - Jihlava
 LOCATION:Jiráskova\, Jihlava
 GEO:49.402148;15.575485
 URL:geo:49.402148,15.575485
-DESCRIPTION:📍 Jiráskova\, Jihlava\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihlav
- a)
+DESCRIPTION:📍 Jiráskova\, Jihlava\n💬 DN 2 x OA jedna zraněná osoba. Likvida
+ ce úniku provozních kapalin. Zajištění místa události.\n\n🚒 CAS (CHS Jihla
+ va)\n🚒 RZA (CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:417832061
@@ -870,8 +871,8 @@ SUMMARY:🚑 transport pacienta - Náměšť nad Oslavou
 LOCATION:Husova\, Náměšť nad Oslavou
 GEO:49.211128;16.145420
 URL:geo:49.211128,16.145420
-DESCRIPTION:📍 Husova\, Náměšť nad Oslavou\, Třebíč\n\n🚒 CAS (HS Náměšť nad 
- Oslavou)
+DESCRIPTION:📍 Husova\, Náměšť nad Oslavou\, Třebíč\n💬 Transport zraněné oso
+ by do vozidla ZZS.\n\n🚒 CAS (HS Náměšť nad Oslavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:417834061
