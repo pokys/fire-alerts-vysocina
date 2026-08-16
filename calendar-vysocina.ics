@@ -5,30 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:417705061
-DTSTART:20260814T170210Z
-DTEND:20260814T180210Z
-DTSTAMP:20260814T170210Z
-SUMMARY:🛠️ obtížný hmyz - Chotěboř
-LOCATION:V Drážkách\, Chotěboř
-GEO:49.718151;15.667697
-URL:geo:49.718151,15.667697
-DESCRIPTION:📍 V Drážkách\, Chotěboř\, Havlíčkův Brod\n💬 Odstranění obtížnéh
- o hmyzu.\n\n🚒 CAS (Chotěboř)
-END:VEVENT
-BEGIN:VEVENT
-UID:417706061
-DTSTART:20260814T170410Z
-DTEND:20260814T180410Z
-DTSTAMP:20260814T170410Z
-SUMMARY:🛠️ otevření bytu/auta - Havlíčkův Brod
-LOCATION:U Kasáren\, Havlíčkův Brod
-GEO:49.597981;15.566133
-URL:geo:49.597981,15.566133
-DESCRIPTION:📍 U Kasáren\, Havlíčkův Brod\n💬 Otevření bytu.\n\n🚒 CAS (CHS Ha
- vlíčkův Brod)
-END:VEVENT
-BEGIN:VEVENT
 UID:417709061
 DTSTART:20260814T172046Z
 DTEND:20260814T182046Z
@@ -872,7 +848,7 @@ LOCATION:Husova\, Náměšť nad Oslavou
 GEO:49.211128;16.145420
 URL:geo:49.211128,16.145420
 DESCRIPTION:📍 Husova\, Náměšť nad Oslavou\, Třebíč\n💬 Transport zraněné oso
- by do vozidla ZZS.\n\n🚒 CAS (HS Náměšť nad Oslavou)
+ by do vozidla ZZS.\n\n🚒 CAS (HS Náměšť nad Oslavou)\n🚒 CAS (CHS Třebíč)
 END:VEVENT
 BEGIN:VEVENT
 UID:417834061
