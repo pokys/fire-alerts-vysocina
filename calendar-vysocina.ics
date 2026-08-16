@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:417642061
-DTSTART:20260814T083835Z
-DTEND:20260814T093835Z
-DTSTAMP:20260814T083835Z
-SUMMARY:🚗 dopravní nehoda - Jívoví
-LOCATION:Jívoví
-GEO:49.410915;16.080702
-URL:geo:49.410915,16.080702
-DESCRIPTION:📍 Jívoví\, Žďár nad Sázavou\n💬 DN 1 OA se zraněním 1 osoby. Zaj
- ištění místa nehody.\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (HS Velké Meziříč
- í)\n🚒 CAS (Křižanov)
-END:VEVENT
-BEGIN:VEVENT
 UID:417644061
 DTSTART:20260814T084739Z
 DTEND:20260814T094739Z
@@ -1042,6 +1029,7 @@ SUMMARY:🛠️ obtížný hmyz - Netín
 LOCATION:Netín
 GEO:49.412683;15.950913
 URL:geo:49.412683,15.950913
-DESCRIPTION:📍 Netín\, Žďár nad Sázavou\n\n🚒 DA (Netín)
+DESCRIPTION:📍 Netín\, Žďár nad Sázavou\n💬 Odstranění obtížného hmyzu.\n\n🚒 
+ DA (Netín)
 END:VEVENT
 END:VCALENDAR
