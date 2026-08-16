@@ -782,10 +782,10 @@ SUMMARY:🔥 les - Stařeč
 LOCATION:Stařeč
 GEO:49.197428;15.794614
 URL:geo:49.197428,15.794614
-DESCRIPTION:📍 Stařeč\, Třebíč\n💬 Požár lesa na ploše 20 x 30m.\n\n🚒 CAS (CH
- S Třebíč)\n🚒 CAS (CHS Třebíč)\n🚒 automobilová stříkačka (Stařeč)\n🚒 CAS (S
- tařeč)\n🚒 CAS (Okříšky) ×2\n🚒 DA (Rokytnice nad Rokytnou)\n🚒 CAS (Rokytnic
- e nad Rokytnou)\n🚒 vyšetřovací automobil (ÚO Třebíč)
+DESCRIPTION:📍 Stařeč\, Třebíč\n💬 Likvidace požáru lesa na ploše 60 x 80 m.\
+ n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (CHS Třebíč)\n🚒 automobilová stříkačka (Staře
+ č)\n🚒 CAS (Stařeč)\n🚒 CAS (Okříšky) ×2\n🚒 DA (Rokytnice nad Rokytnou)\n🚒 C
+ AS (Rokytnice nad Rokytnou)\n🚒 vyšetřovací automobil (ÚO Třebíč)
 END:VEVENT
 BEGIN:VEVENT
 UID:417822061
@@ -844,10 +844,10 @@ SUMMARY:🔥 les - Újezd
 LOCATION:Újezd
 GEO:49.500069;15.895119
 URL:geo:49.500069,15.895119
-DESCRIPTION:📍 Újezd\, Žďár nad Sázavou\n💬 Likvidace požáru lesní hrabanky n
- a ploše 50 m2.\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (CHS Žďár nad Sázavo
- u)\n🚒 CAS (Bohdalov)\n🚒 CAS (Nové Veselí)\n🚒 DA (Újezd)\n🚒 vyšetřovací aut
- omobil (ÚO Žďár nad Sázavou)
+DESCRIPTION:📍 Újezd\, Žďár nad Sázavou\n💬 Požár lesní hrabanky na ploše 50 
+ m2.\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (
+ Bohdalov)\n🚒 CAS (Nové Veselí)\n🚒 DA (Újezd)\n🚒 vyšetřovací automobil (ÚO 
+ Žďár nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:417831061
@@ -872,5 +872,17 @@ GEO:49.211128;16.145420
 URL:geo:49.211128,16.145420
 DESCRIPTION:📍 Husova\, Náměšť nad Oslavou\, Třebíč\n\n🚒 CAS (HS Náměšť nad 
  Oslavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:417834061
+DTSTART:20260816T162942Z
+DTEND:20260816T172942Z
+DTSTAMP:20260816T162942Z
+SUMMARY:🛠️ obtížný hmyz - Ždírec nad Doubravou
+LOCATION:Zahradní\, Ždírec nad Doubravou
+GEO:49.697987;15.804225
+URL:geo:49.697987,15.804225
+DESCRIPTION:📍 Zahradní\, Ždírec nad Doubravou\, Havlíčkův Brod\n\n🚒 CAS (Žd
+ írec nad Doubravou)
 END:VEVENT
 END:VCALENDAR
