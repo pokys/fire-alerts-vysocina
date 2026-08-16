@@ -5,42 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:417650061
-DTSTART:20260814T094728Z
-DTEND:20260814T104728Z
-DTSTAMP:20260814T094728Z
-SUMMARY:🛠️ obtížný hmyz - Chotěboř
-LOCATION:Fominova\, Chotěboř
-GEO:49.718601;15.669052
-URL:geo:49.718601,15.669052
-DESCRIPTION:📍 Fominova\, Chotěboř\, Havlíčkův Brod\n💬 Odstranění obtížného 
- hmyzu.\n\n🚒 CAS (HS Chotěboř)
-END:VEVENT
-BEGIN:VEVENT
-UID:417651061
-DTSTART:20260814T095550Z
-DTEND:20260814T105550Z
-DTSTAMP:20260814T095550Z
-SUMMARY:⚠️ planý poplach - Pelhřimov
-LOCATION:Pelhřimov
-GEO:49.419105;15.201612
-URL:geo:49.419105,15.201612
-DESCRIPTION:💬 Planý poplach.\n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (CHS Pelhřimov
- )
-END:VEVENT
-BEGIN:VEVENT
-UID:417652061
-DTSTART:20260814T095817Z
-DTEND:20260814T105817Z
-DTSTAMP:20260814T095817Z
-SUMMARY:🛠️ ostatní - Michalovice
-LOCATION:Michalovice
-GEO:49.578461;15.525858
-URL:geo:49.578461,15.525858
-DESCRIPTION:📍 Michalovice\, Havlíčkův Brod\n💬 Odchyt hada.\n\n🚒 CAS (CHS Ha
- vlíčkův Brod)
-END:VEVENT
-BEGIN:VEVENT
 UID:417654061
 DTSTART:20260814T100734Z
 DTEND:20260814T110734Z
@@ -1030,8 +994,9 @@ SUMMARY:🚑 záchrana zvířete - Nové Město na Moravě
 LOCATION:Nové Město na Moravě
 GEO:49.582272;16.048758
 URL:geo:49.582272,16.048758
-DESCRIPTION:📍 Nové Město na Moravě\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár na
- d Sázavou)\n🚒 TA (Nové Město na Moravě)
+DESCRIPTION:📍 Nové Město na Moravě\, Žďár nad Sázavou\n💬 Transport cyklisty
+  po pádu na žádost ZZS.\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 TA (Nové Město 
+ na Moravě)
 END:VEVENT
 BEGIN:VEVENT
 UID:417807061
@@ -1043,6 +1008,18 @@ LOCATION:Sudice
 GEO:49.180716;16.242586
 URL:geo:49.180716,16.242586
 DESCRIPTION:📍 Sudice\, Třebíč\n\n🚒 CAS (HS Náměšť nad Oslavou)\n🚒 CAS (Kral
- ice nad Oslavou)\n🚒 automobilová stříkačka (Sudice)
+ ice nad Oslavou)\n🚒 TA (Kralice nad Oslavou)\n🚒 automobilová stříkačka (Su
+ dice)
+END:VEVENT
+BEGIN:VEVENT
+UID:417809061
+DTSTART:20260816T094024Z
+DTEND:20260816T104024Z
+DTSTAMP:20260816T094024Z
+SUMMARY:☣️ olej/PHM - Jihlava
+LOCATION:Brněnská\, Jihlava
+GEO:49.397146;15.609092
+URL:geo:49.397146,15.609092
+DESCRIPTION:📍 Brněnská\, Helenín\, Jihlava\n\n🚒 CAS (CHS Jihlava)
 END:VEVENT
 END:VCALENDAR
