@@ -5,32 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:417709061
-DTSTART:20260814T172046Z
-DTEND:20260814T182046Z
-DTSTAMP:20260814T172046Z
-SUMMARY:🛠️ obtížný hmyz - Hradec
-LOCATION:Hradec
-GEO:49.700643;15.287403
-URL:geo:49.700643,15.287403
-DESCRIPTION:📍 Hradec\, Havlíčkův Brod\n💬 Odstranění obtížného hmyzu.\n\n🚒 D
- A (Hradec)
-END:VEVENT
-BEGIN:VEVENT
-UID:417710061
-DTSTART:20260814T172224Z
-DTEND:20260814T182224Z
-DTSTAMP:20260814T172224Z
-SUMMARY:🚗 dopravní nehoda - Karlov
-LOCATION:Karlov
-GEO:49.644375;15.913668
-URL:geo:49.644375,15.913668
-DESCRIPTION:📍 Karlov\, Žďár nad Sázavou\n💬 DN dodávky a motocyklu. 1 zraněn
- á osoba v péči ZZS. Provedeno protipožární opatření. Řízení provozu.\n\n🚒 
- CAS (CHS Žďár nad Sázavou)\n🚒 CAS (Žďár nad Sázavou-Zámek)\n🚒 osobní autom
- obil (Žďár nad Sázavou-Zámek)
-END:VEVENT
-BEGIN:VEVENT
 UID:417712061
 DTSTART:20260814T172942Z
 DTEND:20260814T182942Z
