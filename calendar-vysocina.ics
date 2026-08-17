@@ -791,7 +791,7 @@ LOCATION:Golčův Jeníkov
 GEO:49.793771;15.442826
 URL:geo:49.793771,15.442826
 DESCRIPTION:📍 Kobylí Hlava\, Golčův Jeníkov\, Havlíčkův Brod\n💬 Odstranění 
- stromu.\n\n🚒 CAS (Golčův Jeníkov)
+ stromu.\n\n🚒 CAS (Golčův Jeníkov) ×2
 END:VEVENT
 BEGIN:VEVENT
 UID:417880061
@@ -825,8 +825,8 @@ SUMMARY:🛠️ strom - Vojnův Městec
 LOCATION:Vojnův Městec
 GEO:49.664650;15.879453
 URL:geo:49.664650,15.879453
-DESCRIPTION:📍 Vojnův Městec\, Žďár nad Sázavou\n\n🚒 DA (Vojnův Městec)\n🚒 C
- AS (Vojnův Městec)
+DESCRIPTION:📍 Vojnův Městec\, Žďár nad Sázavou\n💬 Odstranění stromu.\n\n🚒 D
+ A (Vojnův Městec)\n🚒 CAS (Vojnův Městec)
 END:VEVENT
 BEGIN:VEVENT
 UID:417884061
@@ -837,7 +837,8 @@ SUMMARY:🛠️ strom - Golčův Jeníkov
 LOCATION:Golčův Jeníkov
 GEO:49.801659;15.460341
 URL:geo:49.801659,15.460341
-DESCRIPTION:📍 Golčův Jeníkov\, Havlíčkův Brod\n\n🚒 CAS (Golčův Jeníkov)
+DESCRIPTION:📍 Golčův Jeníkov\, Havlíčkův Brod\n💬 Odstranění stromu.\n\n🚒 CA
+ S (Golčův Jeníkov)
 END:VEVENT
 BEGIN:VEVENT
 UID:417885061
@@ -872,7 +873,8 @@ SUMMARY:🛠️ strom - Jihlava
 LOCATION:U Koželuhů\, Jihlava
 GEO:49.391667;15.590864
 URL:geo:49.391667,15.590864
-DESCRIPTION:📍 U Koželuhů\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+DESCRIPTION:📍 U Koželuhů\, Jihlava\n💬 Odstranění stromu.\n\n🚒 CAS (CHS Jihl
+ ava)
 END:VEVENT
 BEGIN:VEVENT
 UID:417888061
@@ -883,7 +885,19 @@ SUMMARY:🛠️ strom - Telč
 LOCATION:Radkovská\, Telč
 GEO:49.171685;15.459861
 URL:geo:49.171685,15.459861
-DESCRIPTION:📍 Radkovská\, Telč\, Jihlava\n\n🚒 CAS (HS Telč)
+DESCRIPTION:📍 Radkovská\, Telč\, Jihlava\n💬 Odstranění stromu.\n\n🚒 CAS (HS
+  Telč)
+END:VEVENT
+BEGIN:VEVENT
+UID:417889061
+DTSTART:20260817T131323Z
+DTEND:20260817T141323Z
+DTSTAMP:20260817T131323Z
+SUMMARY:🛠️ strom - Zvěstovice
+LOCATION:Zvěstovice
+GEO:49.849175;15.513079
+URL:geo:49.849175,15.513079
+DESCRIPTION:📍 Zvěstovice\, Havlíčkův Brod\n\n🚒 CAS (Golčův Jeníkov)
 END:VEVENT
 BEGIN:VEVENT
 UID:417890061
@@ -894,7 +908,8 @@ SUMMARY:🛠️ ostatní - Svratka
 LOCATION:Svratka
 GEO:49.708127;16.025121
 URL:geo:49.708127,16.025121
-DESCRIPTION:📍 Svratka\, Žďár nad Sázavou\n\n🚒 CAS (Svratka)
+DESCRIPTION:📍 Svratka\, Žďár nad Sázavou\n💬 Odčerpání vody z komunikace.\n\
+ n🚒 CAS (Svratka)
 END:VEVENT
 BEGIN:VEVENT
 UID:417891061
@@ -907,5 +922,17 @@ GEO:49.799073;15.460176
 URL:geo:49.799073,15.460176
 DESCRIPTION:📍 Golčův Jeníkov\, Havlíčkův Brod\n💬 Odstranění stromu.\n\n🚒 CA
  S (Golčův Jeníkov)
+END:VEVENT
+BEGIN:VEVENT
+UID:417892061
+DTSTART:20260817T135048Z
+DTEND:20260817T145048Z
+DTSTAMP:20260817T135048Z
+SUMMARY:🚑 otevření/asistence - Náměšť nad Oslavou
+LOCATION:Husova\, Náměšť nad Oslavou
+GEO:49.211444;16.146746
+URL:geo:49.211444,16.146746
+DESCRIPTION:📍 Husova\, Náměšť nad Oslavou\, Třebíč\n\n🚒 CAS (HS Náměšť nad 
+ Oslavou)
 END:VEVENT
 END:VCALENDAR
