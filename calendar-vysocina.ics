@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:417761061
-DTSTART:20260815T160959Z
-DTEND:20260815T170959Z
-DTSTAMP:20260815T160959Z
-SUMMARY:🛠️ obtížný hmyz - Ždírec nad Doubravou
-LOCATION:Ždírec nad Doubravou
-GEO:49.734577;15.819614
-URL:geo:49.734577,15.819614
-DESCRIPTION:📍 Údavy\, Ždírec nad Doubravou\, Havlíčkův Brod\n💬 Odstranění o
- btížného hmyzu.\n\n🚒 CAS (Ždírec nad Doubravou)
-END:VEVENT
-BEGIN:VEVENT
 UID:417770061
 DTSTART:20260815T174446Z
 DTEND:20260815T184446Z
@@ -970,8 +958,8 @@ SUMMARY:🛠️ strom - Jedlá
 LOCATION:Jedlá
 GEO:49.720761;15.250144
 URL:geo:49.720761,15.250144
-DESCRIPTION:📍 Dobrá Voda\, Jedlá\, Havlíčkův Brod\n\n🚒 CAS (HS Ledeč nad Sá
- zavou)
+DESCRIPTION:📍 Dobrá Voda\, Jedlá\, Havlíčkův Brod\n💬 Odstranění stromu.\n\n
+ 🚒 CAS (HS Ledeč nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:417903061
@@ -998,6 +986,18 @@ DESCRIPTION:📍 Obránců míru\, Nové Dvory\, Třebíč\n💬 Otevření bytu
   (CHS Třebíč)
 END:VEVENT
 BEGIN:VEVENT
+UID:417906061
+DTSTART:20260817T154954Z
+DTEND:20260817T164954Z
+DTSTAMP:20260817T154954Z
+SUMMARY:🛠️ obtížný hmyz - Rohozná
+LOCATION:Rohozná
+GEO:49.355293;15.393648
+URL:geo:49.355293,15.393648
+DESCRIPTION:📍 Rohozná\, Jihlava\n💬 Odstranění obtížného hmyzu.\n\n🚒 CAS (Ro
+ hozná)
+END:VEVENT
+BEGIN:VEVENT
 UID:417907061
 DTSTART:20260817T155226Z
 DTEND:20260817T165226Z
@@ -1006,6 +1006,29 @@ SUMMARY:🛠️ obtížný hmyz - Ostrov nad Oslavou
 LOCATION:Ostrov nad Oslavou
 GEO:49.485885;15.990761
 URL:geo:49.485885,15.990761
+DESCRIPTION:📍 Ostrov nad Oslavou\, Žďár nad Sázavou\n💬 Odstranění obtížného
+  hmyzu.\n\n🚒 CAS (Ostrov nad Oslavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:417909061
+DTSTART:20260817T160025Z
+DTEND:20260817T170025Z
+DTSTAMP:20260817T160025Z
+SUMMARY:🛠️ strom - Žďár nad Sázavou
+GEO:49.584211;15.939879
+URL:geo:49.584211,15.939879
+DESCRIPTION:📍 Žďár nad Sázavou\n💬 Odstranění stromu.\n\n🚒 CAS (Žďár nad Sáz
+ avou-Zámek)
+END:VEVENT
+BEGIN:VEVENT
+UID:417910061
+DTSTART:20260817T160833Z
+DTEND:20260817T170833Z
+DTSTAMP:20260817T160833Z
+SUMMARY:🛠️ obtížný hmyz - Ostrov nad Oslavou
+LOCATION:Ostrov nad Oslavou
+GEO:49.489918;15.985329
+URL:geo:49.489918,15.985329
 DESCRIPTION:📍 Ostrov nad Oslavou\, Žďár nad Sázavou\n💬 Odstranění obtížného
   hmyzu.\n\n🚒 CAS (Ostrov nad Oslavou)
 END:VEVENT
