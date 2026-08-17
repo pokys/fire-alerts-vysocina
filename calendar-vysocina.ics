@@ -1079,6 +1079,18 @@ SUMMARY:🛠️ obtížný hmyz - Havlíčkův Brod
 LOCATION:Máchova\, Havlíčkův Brod
 GEO:49.604959;15.591208
 URL:geo:49.604959,15.591208
-DESCRIPTION:📍 Máchova\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)
+DESCRIPTION:📍 Máchova\, Havlíčkův Brod\n💬 Odstranění obtížného hmyzu.\n\n🚒 
+ CAS (CHS Havlíčkův Brod)
+END:VEVENT
+BEGIN:VEVENT
+UID:417917061
+DTSTART:20260817T170213Z
+DTEND:20260817T180213Z
+DTSTAMP:20260817T170213Z
+SUMMARY:🛠️ obtížný hmyz - Netín
+LOCATION:Netín
+GEO:49.414759;15.937899
+URL:geo:49.414759,15.937899
+DESCRIPTION:📍 Netín\, Žďár nad Sázavou\n\n🚒 DA (Netín)
 END:VEVENT
 END:VCALENDAR
