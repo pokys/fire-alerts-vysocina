@@ -720,7 +720,7 @@ LOCATION:Jihlava
 GEO:49.389244;15.602556
 URL:geo:49.389244,15.602556
 DESCRIPTION:💬 Provzdušnění rybníka.\n\n🚒 CAS (CHS Jihlava)\n🚒 CAS (CHS Jihl
- ava)\n🚒 CAS (Jihlava-Bedřichov)
+ ava)\n🚒 čerpadlo plovoucí (CHS Jihlava)\n🚒 CAS (Jihlava-Bedřichov)
 END:VEVENT
 BEGIN:VEVENT
 UID:417845061
@@ -769,5 +769,18 @@ GEO:49.569861;15.748965
 URL:geo:49.569861,15.748965
 DESCRIPTION:📍 Přibyslav\, Havlíčkův Brod\n💬 Odstranění stromu.\n\n🚒 CAS (Př
  ibyslav)
+END:VEVENT
+BEGIN:VEVENT
+UID:417855061
+DTSTART:20260817T071921Z
+DTEND:20260817T081921Z
+DTSTAMP:20260817T071921Z
+SUMMARY:🔥 tráva/plocha - Sněžné
+LOCATION:Sněžné
+GEO:49.663963;16.092037
+URL:geo:49.663963,16.092037
+DESCRIPTION:📍 Milovy\, Sněžné\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad Sáz
+ avou)\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 DA (Sněžné)\n🚒 CAS (Sněžné)\n🚒 CAS 
+ (Svratka)
 END:VEVENT
 END:VCALENDAR
