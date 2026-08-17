@@ -933,7 +933,9 @@ SUMMARY:🔥 vozidlo - Jihlava
 LOCATION:Jihlava
 GEO:49.400620;15.588846
 URL:geo:49.400620,15.588846
-DESCRIPTION:🚒 CAS (CHS Jihlava) ×2\n🚒 vyšetřovací automobil (ÚO Jihlava)
+DESCRIPTION:💬 Kouř z OA v motorové části vozidla. Příčina byla stanovena ja
+ ko technická závada.\n\n🚒 CAS (CHS Jihlava) ×2\n🚒 vyšetřovací automobil (Ú
+ O Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:417899061
@@ -970,5 +972,41 @@ GEO:49.720761;15.250144
 URL:geo:49.720761,15.250144
 DESCRIPTION:📍 Dobrá Voda\, Jedlá\, Havlíčkův Brod\n\n🚒 CAS (HS Ledeč nad Sá
  zavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:417903061
+DTSTART:20260817T153822Z
+DTEND:20260817T163822Z
+DTSTAMP:20260817T153822Z
+SUMMARY:🛠️ ostatní - Herálec
+LOCATION:Herálec
+GEO:49.691228;15.993899
+URL:geo:49.691228,15.993899
+DESCRIPTION:📍 Herálec\, Žďár nad Sázavou\n💬 Proplach kanalizace.\n\n🚒 CAS (
+ Herálec (ZR))
+END:VEVENT
+BEGIN:VEVENT
+UID:417905061
+DTSTART:20260817T154308Z
+DTEND:20260817T164308Z
+DTSTAMP:20260817T154308Z
+SUMMARY:🚑 otevření/asistence - Třebíč
+LOCATION:Obránců míru\, Třebíč
+GEO:49.217851;15.888746
+URL:geo:49.217851,15.888746
+DESCRIPTION:📍 Obránců míru\, Nové Dvory\, Třebíč\n💬 Otevření bytu.\n\n🚒 CAS
+  (CHS Třebíč)
+END:VEVENT
+BEGIN:VEVENT
+UID:417907061
+DTSTART:20260817T155226Z
+DTEND:20260817T165226Z
+DTSTAMP:20260817T155226Z
+SUMMARY:🛠️ obtížný hmyz - Ostrov nad Oslavou
+LOCATION:Ostrov nad Oslavou
+GEO:49.485885;15.990761
+URL:geo:49.485885,15.990761
+DESCRIPTION:📍 Ostrov nad Oslavou\, Žďár nad Sázavou\n💬 Odstranění obtížného
+  hmyzu.\n\n🚒 CAS (Ostrov nad Oslavou)
 END:VEVENT
 END:VCALENDAR
