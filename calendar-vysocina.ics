@@ -762,4 +762,16 @@ DESCRIPTION:📍 K Novému nádraží\, Velké Meziříčí\, Žďár nad Sázav
   čidlem EPS-planý poplach.\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (HS Velké M
  eziříčí)
 END:VEVENT
+BEGIN:VEVENT
+UID:417863061
+DTSTART:20260817T100633Z
+DTEND:20260817T110633Z
+DTSTAMP:20260817T100633Z
+SUMMARY:🔥 Třebíč
+LOCATION:Kateřiny z Valdštejna\, Třebíč
+GEO:49.213457;15.886122
+URL:geo:49.213457,15.886122
+DESCRIPTION:📍 Kateřiny z Valdštejna\, Jejkov\, Třebíč\n\n🚒 CAS (CHS Třebíč)
+ \n🚒 CAS (CHS Třebíč)
+END:VEVENT
 END:VCALENDAR
