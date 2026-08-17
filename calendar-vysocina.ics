@@ -765,11 +765,23 @@ UID:417870061
 DTSTART:20260817T114448Z
 DTEND:20260817T124448Z
 DTSTAMP:20260817T114448Z
-SUMMARY:🚗 se zraněním - Stránecká Zhoř
+SUMMARY:⚠️ planý poplach - Stránecká Zhoř
 LOCATION:Stránecká Zhoř
 GEO:49.376604;15.952202
 URL:geo:49.376604,15.952202
-DESCRIPTION:📍 Kochánov\, Stránecká Zhoř\, Žďár nad Sázavou\n\n🚒 CAS (HS Vel
- ké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)
+DESCRIPTION:📍 Kochánov\, Stránecká Zhoř\, Žďár nad Sázavou\n💬 Planý poplach
+ .\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)
+END:VEVENT
+BEGIN:VEVENT
+UID:417871061
+DTSTART:20260817T115931Z
+DTEND:20260817T125931Z
+DTSTAMP:20260817T115931Z
+SUMMARY:☣️ olej/PHM - Ledeč nad Sázavou
+LOCATION:Pivovarská\, Ledeč nad Sázavou
+GEO:49.703190;15.280858
+URL:geo:49.703190,15.280858
+DESCRIPTION:📍 Pivovarská\, Ledeč nad Sázavou\, Havlíčkův Brod\n\n🚒 CAS (HS 
+ Ledeč nad Sázavou)
 END:VEVENT
 END:VCALENDAR
