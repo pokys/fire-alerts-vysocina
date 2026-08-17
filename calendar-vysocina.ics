@@ -1069,4 +1069,16 @@ URL:geo:49.203682,15.884424
 DESCRIPTION:📍 Na Hvězdě\, Třebíč\n💬 DN 1 OA\, 1 zraněná osoba. Poskytnutí p
  rvní předlékařské pomoci\, zajištění místa nehody.\n\n🚒 CAS (CHS Třebíč)
 END:VEVENT
+BEGIN:VEVENT
+UID:417925061
+DTSTART:20260817T220032Z
+DTEND:20260817T230032Z
+DTSTAMP:20260817T220032Z
+SUMMARY:🛠️ ostatní - Ždírec nad Doubravou
+LOCATION:Květinová\, Ždírec nad Doubravou
+GEO:49.694641;15.813689
+URL:geo:49.694641,15.813689
+DESCRIPTION:📍 Květinová\, Ždírec nad Doubravou\, Havlíčkův Brod\n💬 Pomoc im
+ obilní osobě.\n\n🚒 CAS (Ždírec nad Doubravou)
+END:VEVENT
 END:VCALENDAR
