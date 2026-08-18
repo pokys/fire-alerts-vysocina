@@ -826,7 +826,7 @@ GEO:49.398329;15.583166
 URL:geo:49.398329,15.583166
 DESCRIPTION:📍 Tolstého\, Jihlava\n💬 Požár ohlášený systémem elektrické požá
  rní signalizace. Průzkumem bylo zjištěno\, že se jedná o planý poplach.\n\
- n🚒 CAS (CHS Jihlava) ×2\n🚒 CAS (CHS Jihlava) ×2
+ n🚒 CAS (CHS Jihlava) ×2
 END:VEVENT
 BEGIN:VEVENT
 UID:418012061
@@ -972,5 +972,28 @@ GEO:49.206584;15.880144
 URL:geo:49.206584,15.880144
 DESCRIPTION:📍 Václavské nám.\, Horka-Domky\, Třebíč\n💬 Pomoc imobilní osobě
  .\n\n🚒 CAS (CHS Třebíč)
+END:VEVENT
+BEGIN:VEVENT
+UID:418027061
+DTSTART:20260818T165635Z
+DTEND:20260818T175635Z
+DTSTAMP:20260818T165635Z
+SUMMARY:🛠️ obtížný hmyz - Chotěboř
+LOCATION:Za Vlasárnou\, Chotěboř
+GEO:49.722490;15.667015
+URL:geo:49.722490,15.667015
+DESCRIPTION:📍 Za Vlasárnou\, Chotěboř\, Havlíčkův Brod\n\n🚒 CAS (HS Chotěbo
+ ř)
+END:VEVENT
+BEGIN:VEVENT
+UID:418028061
+DTSTART:20260818T170701Z
+DTEND:20260818T180701Z
+DTSTAMP:20260818T170701Z
+SUMMARY:🛠️ obtížný hmyz - Bory
+LOCATION:Bory
+GEO:49.428301;16.026144
+URL:geo:49.428301,16.026144
+DESCRIPTION:📍 Horní Bory\, Bory\, Žďár nad Sázavou\n\n🚒 CAS (Bory)
 END:VEVENT
 END:VCALENDAR
