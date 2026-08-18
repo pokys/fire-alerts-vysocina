@@ -984,7 +984,18 @@ SUMMARY:🛠️ obtížný hmyz - Lipnice nad Sázavou
 LOCATION:Lipnice nad Sázavou
 GEO:49.610310;15.418344
 URL:geo:49.610310,15.418344
-DESCRIPTION:📍 Lipnice nad Sázavou\, Havlíčkův Brod\n\n🚒 DA (Lipnice nad Sáz
- avou)\n🚒 CAS (Lipnice nad Sázavou)
+DESCRIPTION:📍 Lipnice nad Sázavou\, Havlíčkův Brod\n💬 Odstranění obtížného 
+ hmyzu.\n\n🚒 DA (Lipnice nad Sázavou)\n🚒 CAS (Lipnice nad Sázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:417984061
+DTSTART:20260818T080737Z
+DTEND:20260818T090737Z
+DTSTAMP:20260818T080737Z
+SUMMARY:☣️ olej/PHM - Třešť
+LOCATION:Palackého\, Třešť
+GEO:49.285623;15.481628
+URL:geo:49.285623,15.481628
+DESCRIPTION:📍 Palackého\, Třešť\, Jihlava\n\n🚒 CAS (HS Třešť)
 END:VEVENT
 END:VCALENDAR
