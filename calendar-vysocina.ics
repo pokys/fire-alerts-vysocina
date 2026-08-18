@@ -1008,7 +1008,8 @@ SUMMARY:☣️ olej/PHM - Jihlava
 LOCATION:Jiráskova\, Jihlava
 GEO:49.402331;15.575964
 URL:geo:49.402331,15.575964
-DESCRIPTION:📍 Jiráskova\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+DESCRIPTION:📍 Jiráskova\, Jihlava\n💬 Likvidace úniku oleje z OA pomocí sorb
+ entu.\n\n🚒 CAS (CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:417921061
@@ -1043,8 +1044,8 @@ SUMMARY:🚗 dopravní nehoda - Třebíč
 LOCATION:Na Hvězdě\, Třebíč
 GEO:49.203682;15.884424
 URL:geo:49.203682,15.884424
-DESCRIPTION:📍 Na Hvězdě\, Třebíč\n💬 DN 1 OA\, 1 zraněná osoba. Poskytnutí p
- rvní předlékařské pomoci\, zajištění místa nehody.\n\n🚒 CAS (CHS Třebíč)
+DESCRIPTION:📍 Na Hvězdě\, Třebíč\n💬 DN OA\, zraněná osoba. Poskytnutí první
+  předlékařské pomoci\, zajištění místa nehody.\n\n🚒 CAS (CHS Třebíč)
 END:VEVENT
 BEGIN:VEVENT
 UID:417925061
@@ -1067,6 +1068,7 @@ SUMMARY:🛠️ monitoring - Jihlava
 LOCATION:Jihlava
 GEO:49.388348;15.605415
 URL:geo:49.388348,15.605415
-DESCRIPTION:🚒 CAS (CHS Jihlava)\n🚒 CAS (CHS Jihlava)
+DESCRIPTION:💬 Provzdušnění rybníka.\n\n🚒 CAS (CHS Jihlava)\n🚒 CAS (CHS Jihl
+ ava)
 END:VEVENT
 END:VCALENDAR
