@@ -932,7 +932,8 @@ SUMMARY:🚑 spolupráce ZZS - Chřenovice
 LOCATION:Chřenovice
 GEO:49.717064;15.212842
 URL:geo:49.717064,15.212842
-DESCRIPTION:📍 Chřenovice\, Havlíčkův Brod\n\n🚒 CAS (HS Ledeč nad Sázavou)
+DESCRIPTION:📍 Chřenovice\, Havlíčkův Brod\n💬 Asistence ZZS při resuscitaci.
+ \n\n🚒 CAS (HS Ledeč nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:417995061
@@ -969,5 +970,17 @@ GEO:49.252374;15.197049
 URL:geo:49.252374,15.197049
 DESCRIPTION:📍 Sídliště\, Žirovnice\, Pelhřimov\n\n🚒 CAS (HS Kamenice nad Li
  pou)
+END:VEVENT
+BEGIN:VEVENT
+UID:417998061
+DTSTART:20260818T104133Z
+DTEND:20260818T114133Z
+DTSTAMP:20260818T104133Z
+SUMMARY:🔥 vozidlo - Březník
+LOCATION:Březník
+GEO:49.171477;16.197415
+URL:geo:49.171477,16.197415
+DESCRIPTION:📍 Březník\, Třebíč\n\n🚒 CAS (HS Náměšť nad Oslavou)\n🚒 DA (Břez
+ ník)\n🚒 CAS (Kralice nad Oslavou)\n🚒 CAS (Mohelno)
 END:VEVENT
 END:VCALENDAR
