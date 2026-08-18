@@ -952,7 +952,7 @@ UID:417996061
 DTSTART:20260818T101500Z
 DTEND:20260818T111500Z
 DTSTAMP:20260818T101500Z
-SUMMARY:🚗 bez zranění - Humpolec
+SUMMARY:🚗 dopravní nehoda - Humpolec
 LOCATION:Humpolec
 GEO:49.524722;15.368695
 URL:geo:49.524722,15.368695
@@ -969,8 +969,8 @@ SUMMARY:🛠️ otevření bytu/auta - Žirovnice
 LOCATION:Sídliště\, Žirovnice
 GEO:49.252374;15.197049
 URL:geo:49.252374,15.197049
-DESCRIPTION:📍 Sídliště\, Žirovnice\, Pelhřimov\n\n🚒 CAS (HS Kamenice nad Li
- pou)
+DESCRIPTION:📍 Sídliště\, Žirovnice\, Pelhřimov\n💬 Otevření bytu.\n\n🚒 CAS (
+ HS Kamenice nad Lipou)
 END:VEVENT
 BEGIN:VEVENT
 UID:417998061
@@ -981,8 +981,9 @@ SUMMARY:🔥 vozidlo - Březník
 LOCATION:Březník
 GEO:49.171477;16.197415
 URL:geo:49.171477,16.197415
-DESCRIPTION:📍 Březník\, Třebíč\n\n🚒 CAS (HS Náměšť nad Oslavou)\n🚒 DA (Břez
- ník)\n🚒 CAS (Kralice nad Oslavou)\n🚒 CAS (Mohelno)\n🚒 vyšetřovací automobi
- l (ÚO Třebíč)
+DESCRIPTION:📍 Březník\, Třebíč\n💬 Požár automobilu\, lokalizace a likvidace
+ \, zajištění místa.\n\n🚒 CAS (HS Náměšť nad Oslavou)\n🚒 DA (Březník)\n🚒 CA
+ S (Kralice nad Oslavou)\n🚒 CAS (Mohelno)\n🚒 vyšetřovací automobil (ÚO Třeb
+ íč)
 END:VEVENT
 END:VCALENDAR
