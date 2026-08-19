@@ -5,41 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:417906061
-DTSTART:20260817T154954Z
-DTEND:20260817T164954Z
-DTSTAMP:20260817T154954Z
-SUMMARY:🛠️ obtížný hmyz - Rohozná
-LOCATION:Rohozná
-GEO:49.355293;15.393648
-URL:geo:49.355293,15.393648
-DESCRIPTION:📍 Rohozná\, Jihlava\n💬 Odstranění obtížného hmyzu.\n\n🚒 CAS (Ro
- hozná)
-END:VEVENT
-BEGIN:VEVENT
-UID:417907061
-DTSTART:20260817T155226Z
-DTEND:20260817T165226Z
-DTSTAMP:20260817T155226Z
-SUMMARY:🛠️ obtížný hmyz - Ostrov nad Oslavou
-LOCATION:Ostrov nad Oslavou
-GEO:49.485885;15.990761
-URL:geo:49.485885,15.990761
-DESCRIPTION:📍 Ostrov nad Oslavou\, Žďár nad Sázavou\n💬 Odstranění obtížného
-  hmyzu.\n\n🚒 CAS (Ostrov nad Oslavou)
-END:VEVENT
-BEGIN:VEVENT
-UID:417909061
-DTSTART:20260817T160025Z
-DTEND:20260817T170025Z
-DTSTAMP:20260817T160025Z
-SUMMARY:🛠️ strom - Žďár nad Sázavou
-GEO:49.584211;15.939879
-URL:geo:49.584211,15.939879
-DESCRIPTION:📍 Žďár nad Sázavou\n💬 Odstranění stromu.\n\n🚒 CAS (Žďár nad Sáz
- avou-Zámek)
-END:VEVENT
-BEGIN:VEVENT
 UID:417910061
 DTSTART:20260817T160833Z
 DTEND:20260817T170833Z
@@ -728,8 +693,10 @@ SUMMARY:☣️ olej/PHM - Velká Bíteš
 LOCATION:Velká Bíteš
 GEO:49.270051;16.277856
 URL:geo:49.270051,16.277856
-DESCRIPTION:📍 Velká Bíteš\, Žďár nad Sázavou\n\n🚒 CAS (HS Velká Bíteš)\n🚒 o
- sobní automobil (HS Velká Bíteš)\n🚒 RZA (HS Velké Meziříčí)
+DESCRIPTION:📍 Velká Bíteš\, Žďár nad Sázavou\n💬 D1 166\,5 km směr Brno. Úni
+ k oleje na komunikaci po techniké závadě dodávky.Jednotky provedly úklid v
+ ozovky pomocí sorbentu.\n\n🚒 CAS (HS Velká Bíteš)\n🚒 osobní automobil (HS 
+ Velká Bíteš)\n🚒 RZA (HS Velké Meziříčí)
 END:VEVENT
 BEGIN:VEVENT
 UID:418092061
@@ -777,8 +744,8 @@ SUMMARY:🚑 otevření/asistence - Jaroměřice nad Rokytnou
 LOCATION:Panská\, Jaroměřice nad Rokytnou
 GEO:49.095743;15.892070
 URL:geo:49.095743,15.892070
-DESCRIPTION:📍 Panská\, Jaroměřice nad Rokytnou\, Třebíč\n\n🚒 CAS (HS Moravs
- ké Budějovice)
+DESCRIPTION:📍 Panská\, Jaroměřice nad Rokytnou\, Třebíč\n💬 Otevření rodinné
+ ho domu.\n\n🚒 CAS (HS Moravské Budějovice)
 END:VEVENT
 BEGIN:VEVENT
 UID:418097061
@@ -789,7 +756,29 @@ SUMMARY:🛠️ obtížný hmyz - Žďár nad Sázavou
 LOCATION:Libušínská\, Žďár nad Sázavou
 GEO:49.568635;15.938396
 URL:geo:49.568635,15.938396
-DESCRIPTION:📍 Libušínská\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n\n🚒 CAS (
- CHS Žďár nad Sázavou)
+DESCRIPTION:📍 Libušínská\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n💬 Odstran
+ ění obtížného hmyzu.\n\n🚒 CAS (CHS Žďár nad Sázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:418099061
+DTSTART:20260819T153813Z
+DTEND:20260819T163813Z
+DTSTAMP:20260819T153813Z
+SUMMARY:🛠️ obtížný hmyz - Pacov
+LOCATION:Výstavní\, Pacov
+GEO:49.471141;14.995007
+URL:geo:49.471141,14.995007
+DESCRIPTION:📍 Výstavní\, Pacov\, Pelhřimov\n\n🚒 CAS (HS Pacov)
+END:VEVENT
+BEGIN:VEVENT
+UID:418100061
+DTSTART:20260819T154310Z
+DTEND:20260819T164310Z
+DTSTAMP:20260819T154310Z
+SUMMARY:☣️ olej/PHM - Brtnice
+LOCATION:Za Pivovarem\, Brtnice
+GEO:49.308314;15.670569
+URL:geo:49.308314,15.670569
+DESCRIPTION:📍 Za Pivovarem\, Brtnice\, Jihlava\n\n🚒 CAS (CHS Jihlava)
 END:VEVENT
 END:VCALENDAR
