@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:417852061
-DTSTART:20260817T065158Z
-DTEND:20260817T075158Z
-DTSTAMP:20260817T065158Z
-SUMMARY:🛠️ strom - Přibyslav
-LOCATION:Přibyslav
-GEO:49.569861;15.748965
-URL:geo:49.569861,15.748965
-DESCRIPTION:📍 Přibyslav\, Havlíčkův Brod\n💬 Odstranění stromu.\n\n🚒 CAS (Př
- ibyslav)
-END:VEVENT
-BEGIN:VEVENT
 UID:417855061
 DTSTART:20260817T071921Z
 DTEND:20260817T081921Z
@@ -132,7 +120,8 @@ SUMMARY:🛠️ strom - Třeštice
 LOCATION:Třeštice
 GEO:49.241530;15.458792
 URL:geo:49.241530,15.458792
-DESCRIPTION:📍 Třeštice\, Jihlava\n💬 Odstranění stromu.\n\n🚒 CAS (Třeštice)
+DESCRIPTION:📍 Třeštice\, Jihlava\n💬 Odstranění stromu.\n\n🚒 DA (Třeštice)\n
+ 🚒 pila řetězová (Třeštice)
 END:VEVENT
 BEGIN:VEVENT
 UID:417879061
@@ -954,6 +943,7 @@ SUMMARY:🛠️ ostatní - Mladé Bříště
 LOCATION:Mladé Bříště
 GEO:49.491463;15.335167
 URL:geo:49.491463,15.335167
-DESCRIPTION:📍 Mladé Bříště\, Pelhřimov\n\n🚒 AŽ (CHS Pelhřimov)
+DESCRIPTION:📍 Mladé Bříště\, Pelhřimov\n💬 Zajištění střešní konstrukce.\n\n
+ 🚒 AŽ (CHS Pelhřimov)
 END:VEVENT
 END:VCALENDAR
