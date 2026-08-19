@@ -946,8 +946,8 @@ SUMMARY:🛠️ obtížný hmyz - Bory
 LOCATION:Bory
 GEO:49.428301;16.026144
 URL:geo:49.428301,16.026144
-DESCRIPTION:📍 Horní Bory\, Bory\, Žďár nad Sázavou\n💬 Odstranění obtížného 
- hmyzu.\n\n🚒 CAS (Bory)
+DESCRIPTION:📍 Horní Bory\, Bory\, Žďár nad Sázavou\n💬 Likvidace nebezpečnéh
+ o hmyzu.\n\n🚒 CAS (Bory)
 END:VEVENT
 BEGIN:VEVENT
 UID:418029061
@@ -970,7 +970,7 @@ SUMMARY:🛠️ strom - Jihlava
 LOCATION:Jihlava
 GEO:49.412137;15.578977
 URL:geo:49.412137,15.578977
-DESCRIPTION:🚒 CAS (CHS Jihlava)
+DESCRIPTION:💬 Odstranění stromu.\n\n🚒 CAS (CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:418036061
@@ -981,8 +981,8 @@ SUMMARY:🚗 úklid místa - Číměř
 LOCATION:Číměř
 GEO:49.196805;15.993740
 URL:geo:49.196805,15.993740
-DESCRIPTION:📍 Číměř\, Třebíč\n💬 DN 1 OA\, bez zranění. Zajištění místa neho
- dy.\n\n🚒 CAS (CHS Třebíč)
+DESCRIPTION:📍 Číměř\, Třebíč\n💬 DN OA\, bez zranění. Zajištění místa nehody
+ .\n\n🚒 CAS (CHS Třebíč)
 END:VEVENT
 BEGIN:VEVENT
 UID:418038061
