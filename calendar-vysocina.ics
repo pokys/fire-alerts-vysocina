@@ -895,8 +895,8 @@ SUMMARY:🚑 transport pacienta - Sejřek
 LOCATION:Sejřek
 GEO:49.446804;16.310551
 URL:geo:49.446804,16.310551
-DESCRIPTION:📍 Sejřek\, Žďár nad Sázavou\n\n🚒 CAS (HS Bystřice nad Pernštejn
- em)
+DESCRIPTION:📍 Sejřek\, Žďár nad Sázavou\n💬 Transport pacienta na žádost ZZS
+ .\n\n🚒 CAS (HS Bystřice nad Pernštejnem)
 END:VEVENT
 BEGIN:VEVENT
 UID:418070061
@@ -919,7 +919,8 @@ SUMMARY:🛠️ otevření bytu/auta - Lhotka
 LOCATION:Lhotka
 GEO:49.584979;15.998446
 URL:geo:49.584979,15.998446
-DESCRIPTION:📍 Lhotka\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad Sázavou)
+DESCRIPTION:📍 Lhotka\, Žďár nad Sázavou\n💬 Otevření bytu.\n\n🚒 CAS (CHS Žďá
+ r nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:418079061
