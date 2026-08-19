@@ -643,10 +643,10 @@ SUMMARY:☣️ olej/PHM - Velká Bíteš
 LOCATION:Velká Bíteš
 GEO:49.270051;16.277856
 URL:geo:49.270051,16.277856
-DESCRIPTION:📍 Velká Bíteš\, Žďár nad Sázavou\n💬 D1 166\,5 km směr Brno. Úni
- k oleje na komunikaci z důvodu technické závady na dodávce. .Jednotky prov
- edly úklid vozovky pomocí sorbentu.\n\n🚒 CAS (HS Velká Bíteš)\n🚒 osobní au
- tomobil (HS Velká Bíteš)\n🚒 RZA (HS Velké Meziříčí)\n🚒 TA (HS Rosice)
+DESCRIPTION:📍 Velká Bíteš\, Žďár nad Sázavou\n💬 Únik oleje na komunikaci z 
+ důvodu technické závady na dodávce.Jednotky provedly úklid vozovky pomocí 
+ sorbentu.\n\n🚒 CAS (HS Velká Bíteš)\n🚒 osobní automobil (HS Velká Bíteš)\n
+ 🚒 RZA (HS Velké Meziříčí)\n🚒 TA (HS Rosice)
 END:VEVENT
 BEGIN:VEVENT
 UID:418092061
@@ -718,7 +718,8 @@ SUMMARY:🛠️ obtížný hmyz - Pacov
 LOCATION:Výstavní\, Pacov
 GEO:49.471141;14.995007
 URL:geo:49.471141,14.995007
-DESCRIPTION:📍 Výstavní\, Pacov\, Pelhřimov\n\n🚒 CAS (HS Pacov)
+DESCRIPTION:📍 Výstavní\, Pacov\, Pelhřimov\n💬 Odstranění obtížného hmyzu.\n
+ \n🚒 CAS (HS Pacov)
 END:VEVENT
 BEGIN:VEVENT
 UID:418100061
@@ -729,6 +730,30 @@ SUMMARY:☣️ olej/PHM - Brtnice
 LOCATION:Za Pivovarem\, Brtnice
 GEO:49.308314;15.670569
 URL:geo:49.308314,15.670569
-DESCRIPTION:📍 Za Pivovarem\, Brtnice\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+DESCRIPTION:📍 Za Pivovarem\, Brtnice\, Jihlava\n💬 Likvidace úniku oleje z O
+ A po technické závadě.\n\n🚒 CAS (CHS Jihlava)
+END:VEVENT
+BEGIN:VEVENT
+UID:418101061
+DTSTART:20260819T161823Z
+DTEND:20260819T171823Z
+DTSTAMP:20260819T161823Z
+SUMMARY:🛠️ obtížný hmyz - Měřín
+LOCATION:Měřín
+GEO:49.383832;15.902216
+URL:geo:49.383832,15.902216
+DESCRIPTION:📍 Pustina\, Měřín\, Žďár nad Sázavou\n\n🚒 CAS (Měřín)
+END:VEVENT
+BEGIN:VEVENT
+UID:418102061
+DTSTART:20260819T162100Z
+DTEND:20260819T172100Z
+DTSTAMP:20260819T162100Z
+SUMMARY:🛠️ odstranění překážky - Vyklantice
+LOCATION:Vyklantice
+GEO:49.554386;15.040807
+URL:geo:49.554386,15.040807
+DESCRIPTION:📍 Staré Vyklantice\, Vyklantice\, Pelhřimov\n💬 Pročištění kanal
+ izace.\n\n🚒 CAS (Lukavec)
 END:VEVENT
 END:VCALENDAR
