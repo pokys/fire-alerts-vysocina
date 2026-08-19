@@ -5,20 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:417851061
-DTSTART:20260817T064821Z
-DTEND:20260817T074821Z
-DTSTAMP:20260817T064821Z
-SUMMARY:🔥 trafostanice - Žďár nad Sázavou
-LOCATION:Drátenická\, Žďár nad Sázavou
-GEO:49.571461;15.937706
-URL:geo:49.571461,15.937706
-DESCRIPTION:📍 Drátenická\, Žďár nad Sázavou 8\, Žďár nad Sázavou\n💬 Požár k
- ompresoru. Provedena lokalizace a likvidace.\n\n🚒 CAS (CHS Žďár nad Sázavo
- u) ×2\n🚒 CAS (Žďár nad Sázavou-Zámek)\n🚒 vyšetřovací automobil (ÚO Žďár na
- d Sázavou)
-END:VEVENT
-BEGIN:VEVENT
 UID:417852061
 DTSTART:20260817T065158Z
 DTEND:20260817T075158Z
