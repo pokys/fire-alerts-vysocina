@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:417984061
-DTSTART:20260818T080737Z
-DTEND:20260818T090737Z
-DTSTAMP:20260818T080737Z
-SUMMARY:☣️ olej/PHM - Třešť
-LOCATION:Palackého\, Třešť
-GEO:49.285623;15.481628
-URL:geo:49.285623,15.481628
-DESCRIPTION:📍 Palackého\, Třešť\, Jihlava\n💬 Odstranění úniku oleje z pozem
- ní komunikace.\n\n🚒 CAS (HS Třešť)
-END:VEVENT
-BEGIN:VEVENT
 UID:417987061
 DTSTART:20260818T083530Z
 DTEND:20260818T093530Z
@@ -754,9 +742,9 @@ SUMMARY:🚑 transport pacienta - Chotěboř
 LOCATION:Chotěboř
 GEO:49.702271;15.729985
 URL:geo:49.702271,15.729985
-DESCRIPTION:📍 Bílek\, Chotěboř\, Havlíčkův Brod\n\n🚒 CAS (HS Chotěboř)\n🚒 D
- A (ÚO Havlíčkův Brod)\n🚒 DA (CHS Havlíčkův Brod)\n🚒 CAS (CHS Havlíčkův Bro
- d)
+DESCRIPTION:📍 Bílek\, Chotěboř\, Havlíčkův Brod\n💬 Transport pacienta na žá
+ dost ZZS.\n\n🚒 CAS (HS Chotěboř)\n🚒 DA (ÚO Havlíčkův Brod)\n🚒 DA (CHS Havl
+ íčkův Brod)\n🚒 CAS (CHS Havlíčkův Brod)
 END:VEVENT
 BEGIN:VEVENT
 UID:418117061
