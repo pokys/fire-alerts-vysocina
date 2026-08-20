@@ -5,20 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:417998061
-DTSTART:20260818T104133Z
-DTEND:20260818T114133Z
-DTSTAMP:20260818T104133Z
-SUMMARY:🔥 vozidlo - Březník
-LOCATION:Březník
-GEO:49.171477;16.197415
-URL:geo:49.171477,16.197415
-DESCRIPTION:📍 Březník\, Třebíč\n💬 Požár automobilu\, lokalizace a likvidace
- \, zajištění místa.\n\n🚒 CAS (HS Náměšť nad Oslavou)\n🚒 DA (Březník)\n🚒 CA
- S (Kralice nad Oslavou)\n🚒 CAS (Mohelno)\n🚒 vyšetřovací automobil (ÚO Třeb
- íč)
-END:VEVENT
-BEGIN:VEVENT
 UID:418009061
 DTSTART:20260818T115820Z
 DTEND:20260818T125820Z
