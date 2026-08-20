@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:418027061
-DTSTART:20260818T165635Z
-DTEND:20260818T175635Z
-DTSTAMP:20260818T165635Z
-SUMMARY:🛠️ obtížný hmyz - Chotěboř
-LOCATION:Za Vlasárnou\, Chotěboř
-GEO:49.722490;15.667015
-URL:geo:49.722490,15.667015
-DESCRIPTION:📍 Za Vlasárnou\, Chotěboř\, Havlíčkův Brod\n💬 Likvidace obtížné
- ho hmyzu.\n\n🚒 CAS (HS Chotěboř)
-END:VEVENT
-BEGIN:VEVENT
 UID:418028061
 DTSTART:20260818T170701Z
 DTEND:20260818T180701Z
@@ -775,8 +763,8 @@ SUMMARY:🛠️ obtížný hmyz - Nové Město na Moravě
 LOCATION:Lesní\, Nové Město na Moravě
 GEO:49.572635;16.068928
 URL:geo:49.572635,16.068928
-DESCRIPTION:📍 Lesní\, Nové Město na Moravě\, Žďár nad Sázavou\n\n🚒 CAS (CHS
-  Žďár nad Sázavou)
+DESCRIPTION:📍 Lesní\, Nové Město na Moravě\, Žďár nad Sázavou\n💬 Odstranění
+  obtížného hmyzu.\n\n🚒 CAS (CHS Žďár nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:418152061
@@ -788,5 +776,29 @@ LOCATION:Třebenice
 GEO:49.165371;16.005005
 URL:geo:49.165371,16.005005
 DESCRIPTION:📍 Třebenice\, Třebíč\n\n🚒 CAS (HS Hrotovice)
+END:VEVENT
+BEGIN:VEVENT
+UID:418153061
+DTSTART:20260820T163919Z
+DTEND:20260820T173919Z
+DTSTAMP:20260820T163919Z
+SUMMARY:🛠️ ostatní - Počátky
+LOCATION:Žižkova\, Počátky
+GEO:49.264017;15.241020
+URL:geo:49.264017,15.241020
+DESCRIPTION:📍 Žižkova\, Počátky\, Pelhřimov\n💬 Oplach znečištěné komunikace
+  od nánosů bahna.\n\n🚒 CAS (Počátky)
+END:VEVENT
+BEGIN:VEVENT
+UID:418154061
+DTSTART:20260820T164218Z
+DTEND:20260820T174218Z
+DTSTAMP:20260820T164218Z
+SUMMARY:🛠️ otevření bytu/auta - Nové Město na Moravě
+LOCATION:Budovatelů\, Nové Město na Moravě
+GEO:49.563515;16.077920
+URL:geo:49.563515,16.077920
+DESCRIPTION:📍 Budovatelů\, Nové Město na Moravě\, Žďár nad Sázavou\n\n🚒 CAS
+  (CHS Žďár nad Sázavou)
 END:VEVENT
 END:VCALENDAR
