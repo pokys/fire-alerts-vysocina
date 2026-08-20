@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:417928061
-DTSTART:20260818T050556Z
-DTEND:20260818T060556Z
-DTSTAMP:20260818T050556Z
-SUMMARY:⚠️ planý poplach - Třebíč
-LOCATION:Karlovo nám.\, Třebíč
-GEO:49.215845;15.878118
-URL:geo:49.215845,15.878118
-DESCRIPTION:📍 Karlovo nám.\, Vnitřní Město\, Třebíč\n💬 Požár ohlášený systé
- mem elektrické požární signalizace. Průzkumem bylo zjištěno\, že se jedná 
- o planý poplach.\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (CHS Třebíč)
-END:VEVENT
-BEGIN:VEVENT
 UID:417974061
 DTSTART:20260818T070204Z
 DTEND:20260818T080204Z
@@ -718,8 +705,8 @@ SUMMARY:🚑 otevření/asistence - Pacov
 LOCATION:U Parku\, Pacov
 GEO:49.475472;15.002257
 URL:geo:49.475472,15.002257
-DESCRIPTION:📍 U Parku\, Pacov\, Pelhřimov\n💬 Záchrana osoby z uzavřeného RD
- .\n\n🚒 CAS (HS Pacov)
+DESCRIPTION:📍 U Parku\, Pacov\, Pelhřimov\n💬 Otevření rodinného domu.\n\n🚒 
+ CAS (HS Pacov)
 END:VEVENT
 BEGIN:VEVENT
 UID:418109061
