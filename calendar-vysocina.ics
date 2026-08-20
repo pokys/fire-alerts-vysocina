@@ -809,11 +809,11 @@ UID:418158061
 DTSTART:20260820T211006Z
 DTEND:20260820T221006Z
 DTSTAMP:20260820T211006Z
-SUMMARY:🚗 se zraněním - Cerekvička-Rosice
+SUMMARY:⚠️ planý poplach - Cerekvička-Rosice
 LOCATION:Cerekvička-Rosice
 GEO:49.320019;15.575248
 URL:geo:49.320019,15.575248
-DESCRIPTION:📍 Cerekvička\, Cerekvička-Rosice\, Jihlava\n\n🚒 CAS (CHS Jihlav
- a)\n🚒 RZA (CHS Jihlava)
+DESCRIPTION:📍 Cerekvička\, Cerekvička-Rosice\, Jihlava\n💬 Planý poplach.\n\
+ n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihlava)
 END:VEVENT
 END:VCALENDAR
