@@ -197,4 +197,15 @@ URL:geo:49.564545,14.989845
 DESCRIPTION:📍 Antonína Sovy\, Lukavec\, Pelhřimov\n💬 Předlékařská pomoc a t
  ransport pacienta na žádost ZZS.\n\n🚒 CAS (HS Pacov)\n🚒 CAS (Lukavec)
 END:VEVENT
+BEGIN:VEVENT
+UID:418198061
+DTSTART:20260821T121056Z
+DTEND:20260821T131056Z
+DTSTAMP:20260821T121056Z
+SUMMARY:☣️ olej/PHM - Pacov
+LOCATION:Ondřejovická\, Pacov
+GEO:49.469187;15.001602
+URL:geo:49.469187,15.001602
+DESCRIPTION:📍 Ondřejovická\, Pacov\, Pelhřimov\n\n🚒 CAS (HS Pacov)
+END:VEVENT
 END:VCALENDAR
