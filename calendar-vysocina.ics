@@ -892,4 +892,27 @@ URL:geo:49.394827,15.114284
 DESCRIPTION:📍 Myslov\, Nová Cerekev\, Pelhřimov\n💬 Odstranění obtížného hmy
  zu.\n\n🚒 CAS (Nová Cerekev)
 END:VEVENT
+BEGIN:VEVENT
+UID:418200061
+DTSTART:20260821T123639Z
+DTEND:20260821T133639Z
+DTSTAMP:20260821T123639Z
+SUMMARY:🚗 se zraněním - Bystřice nad Pernštejnem
+LOCATION:Bystřice nad Pernštejnem
+GEO:49.546061;16.175862
+URL:geo:49.546061,16.175862
+DESCRIPTION:📍 Rovné\, Bystřice nad Pernštejnem\, Žďár nad Sázavou\n\n🚒 CAS 
+ (HS Bystřice nad Pernštejnem)
+END:VEVENT
+BEGIN:VEVENT
+UID:418202061
+DTSTART:20260821T123733Z
+DTEND:20260821T133733Z
+DTSTAMP:20260821T123733Z
+SUMMARY:🚑 záchrana zvířete - Dobronín
+LOCATION:Nad Valchou\, Dobronín
+GEO:49.472301;15.638514
+URL:geo:49.472301,15.638514
+DESCRIPTION:📍 Nad Valchou\, Dobronín\, Jihlava\n\n🚒 CAS (HS Polná)
+END:VEVENT
 END:VCALENDAR
