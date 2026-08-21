@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:418079061
-DTSTART:20260819T113450Z
-DTEND:20260819T123450Z
-DTSTAMP:20260819T113450Z
-SUMMARY:🔥 venkovní požár - Moravec
-LOCATION:Moravec
-GEO:49.435894;16.141106
-URL:geo:49.435894,16.141106
-DESCRIPTION:📍 Moravec\, Žďár nad Sázavou\n💬 Požár odpadu. Uhašeno před přij
- ezdem jednotek. Beze škody.\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (HS Velké 
- Meziříčí)\n🚒 CAS (Bobrová)\n🚒 DA (Moravec)\n🚒 CAS (Strážek)
-END:VEVENT
-BEGIN:VEVENT
 UID:418083061
 DTSTART:20260819T121028Z
 DTEND:20260819T131028Z
@@ -784,7 +771,7 @@ GEO:49.398329;15.583166
 URL:geo:49.398329,15.583166
 DESCRIPTION:📍 Tolstého\, Jihlava\n💬 Požár ohlášený systémem elektrické požá
  rní signalizace. Průzkumem bylo zjištěno\, že se jedná o planý poplach.\n\
- n🚒 CAS (CHS Jihlava) ×2\n🚒 CAS (CHS Jihlava) ×2
+ n🚒 CAS (CHS Jihlava) ×2
 END:VEVENT
 BEGIN:VEVENT
 UID:418176061
@@ -891,5 +878,17 @@ LOCATION:Markvartice
 GEO:49.181282;15.628561
 URL:geo:49.181282,15.628561
 DESCRIPTION:📍 Markvartice\, Jihlava\n\n🚒 CAS (HS Telč)\n🚒 CAS (Želetava)
+END:VEVENT
+BEGIN:VEVENT
+UID:418197061
+DTSTART:20260821T112507Z
+DTEND:20260821T122507Z
+DTSTAMP:20260821T112507Z
+SUMMARY:🚑 spolupráce ZZS - Hamry nad Sázavou
+LOCATION:Hamry nad Sázavou
+GEO:49.562668;15.900191
+URL:geo:49.562668,15.900191
+DESCRIPTION:📍 Hamry nad Sázavou\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad S
+ ázavou)
 END:VEVENT
 END:VCALENDAR
