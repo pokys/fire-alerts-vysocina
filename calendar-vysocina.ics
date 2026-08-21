@@ -884,12 +884,12 @@ UID:418207061
 DTSTART:20260821T134335Z
 DTEND:20260821T144335Z
 DTSTAMP:20260821T134335Z
-SUMMARY:🛠️ spolupráce IZS - Náměšť nad Oslavou
+SUMMARY:🚑 transport pacienta - Náměšť nad Oslavou
 LOCATION:Nádražní\, Náměšť nad Oslavou
 GEO:49.207736;16.147144
 URL:geo:49.207736,16.147144
-DESCRIPTION:📍 Nádražní\, Náměšť nad Oslavou\, Třebíč\n\n🚒 CAS (HS Náměšť na
- d Oslavou)
+DESCRIPTION:📍 Nádražní\, Náměšť nad Oslavou\, Třebíč\n💬 Záchrana a transpor
+ t zraněné osoby.\n\n🚒 CAS (HS Náměšť nad Oslavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:418209061
@@ -912,6 +912,29 @@ SUMMARY:🛠️ strom - Chotěboř
 LOCATION:Chotěboř
 GEO:49.706467;15.710707
 URL:geo:49.706467,15.710707
-DESCRIPTION:📍 Chotěboř\, Havlíčkův Brod\n\n🚒 CAS (HS Chotěboř)
+DESCRIPTION:📍 Chotěboř\, Havlíčkův Brod\n💬 Odstranění stromu.\n\n🚒 CAS (HS 
+ Chotěboř)
+END:VEVENT
+BEGIN:VEVENT
+UID:418212061
+DTSTART:20260821T141444Z
+DTEND:20260821T151444Z
+DTSTAMP:20260821T141444Z
+SUMMARY:🛠️ ostatní - Žirovnice
+LOCATION:Branka\, Žirovnice
+GEO:49.251736;15.183727
+URL:geo:49.251736,15.183727
+DESCRIPTION:📍 Branka\, Žirovnice\, Pelhřimov\n\n🚒 CAS (Žirovnice)
+END:VEVENT
+BEGIN:VEVENT
+UID:418213061
+DTSTART:20260821T142600Z
+DTEND:20260821T152600Z
+DTSTAMP:20260821T142600Z
+SUMMARY:🚗 dopravní nehoda - Třebíč
+LOCATION:Nádražní\, Třebíč
+GEO:49.211546;15.883190
+URL:geo:49.211546,15.883190
+DESCRIPTION:📍 Nádražní\, Horka-Domky\, Třebíč\n\n🚒 CAS (CHS Třebíč)
 END:VEVENT
 END:VCALENDAR
