@@ -840,7 +840,7 @@ LOCATION:Chotěboř
 GEO:49.706467;15.710707
 URL:geo:49.706467,15.710707
 DESCRIPTION:📍 Chotěboř\, Havlíčkův Brod\n💬 Odstranění stromu.\n\n🚒 CAS (HS 
- Chotěboř)
+ Chotěboř)\n🚒 pila řetězová (HS Chotěboř)
 END:VEVENT
 BEGIN:VEVENT
 UID:418212061
@@ -913,6 +913,19 @@ SUMMARY:🛠️ obtížný hmyz - Třebíč
 LOCATION:Dělnické nám.\, Třebíč
 GEO:49.209302;15.864231
 URL:geo:49.209302,15.864231
-DESCRIPTION:📍 Dělnické nám.\, Borovina\, Třebíč\n\n🚒 CAS (CHS Třebíč)
+DESCRIPTION:📍 Dělnické nám.\, Borovina\, Třebíč\n💬 Odstranění obtížného hmy
+ zu.\n\n🚒 CAS (CHS Třebíč)
+END:VEVENT
+BEGIN:VEVENT
+UID:418218061
+DTSTART:20260821T154439Z
+DTEND:20260821T164439Z
+DTSTAMP:20260821T154439Z
+SUMMARY:🛠️ obtížný hmyz - Třešť
+LOCATION:Křížkovského\, Třešť
+GEO:49.298885;15.475194
+URL:geo:49.298885,15.475194
+DESCRIPTION:📍 Křížkovského\, Třešť\, Jihlava\n💬 Odstranění obtížného hmyzu.
+ \n\n🚒 CAS (HS Třešť)
 END:VEVENT
 END:VCALENDAR
