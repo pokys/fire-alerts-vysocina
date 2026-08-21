@@ -1069,7 +1069,8 @@ SUMMARY:🛠️ ostatní - Humpolec
 LOCATION:Kamarytova\, Humpolec
 GEO:49.543231;15.353587
 URL:geo:49.543231,15.353587
-DESCRIPTION:📍 Kamarytova\, Humpolec\, Pelhřimov\n\n🚒 CAS (Humpolec)
+DESCRIPTION:📍 Kamarytova\, Humpolec\, Pelhřimov\n💬 Vrácení poklopu kanaliza
+ ce zpět na místo.\n\n🚒 CAS (Humpolec)
 END:VEVENT
 BEGIN:VEVENT
 UID:418251061
@@ -1105,7 +1106,8 @@ SUMMARY:🚑 otevření/asistence - Žirovnice
 LOCATION:Žižkova\, Žirovnice
 GEO:49.254880;15.187298
 URL:geo:49.254880,15.187298
-DESCRIPTION:📍 Žižkova\, Žirovnice\, Pelhřimov\n\n🚒 CAS (Žirovnice)
+DESCRIPTION:📍 Žižkova\, Žirovnice\, Pelhřimov\n💬 Pomoc s imobilní osobou.\n
+ \n🚒 CAS (Žirovnice)
 END:VEVENT
 BEGIN:VEVENT
 UID:418254061
@@ -1140,8 +1142,8 @@ SUMMARY:🛠️ čerpání vody - Golčův Jeníkov
 LOCATION:Komenského\, Golčův Jeníkov
 GEO:49.816392;15.470900
 URL:geo:49.816392,15.470900
-DESCRIPTION:📍 Komenského\, Golčův Jeníkov\, Havlíčkův Brod\n\n🚒 CAS (Golčův
-  Jeníkov)
+DESCRIPTION:📍 Komenského\, Golčův Jeníkov\, Havlíčkův Brod\n💬 Čerpání vody.
+ \n\n🚒 CAS (Golčův Jeníkov)
 END:VEVENT
 BEGIN:VEVENT
 UID:418258061
@@ -1176,5 +1178,38 @@ GEO:49.588618;15.976448
 URL:geo:49.588618,15.976448
 DESCRIPTION:📍 Počítky\, Žďár nad Sázavou\n💬 Odstranění stromu.\n\n🚒 CAS (CH
  S Žďár nad Sázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:418265061
+DTSTART:20260821T210420Z
+DTEND:20260821T220420Z
+DTSTAMP:20260821T210420Z
+SUMMARY:🛠️ strom - Přeckov
+LOCATION:Přeckov
+GEO:49.280073;15.901309
+URL:geo:49.280073,15.901309
+DESCRIPTION:📍 Přeckov\, Třebíč\n💬 Odstranění stromu.\n\n🚒 CAS (Rudíkov)
+END:VEVENT
+BEGIN:VEVENT
+UID:418266061
+DTSTART:20260821T210524Z
+DTEND:20260821T220524Z
+DTSTAMP:20260821T210524Z
+SUMMARY:🛠️ strom - Křešín
+LOCATION:Křešín
+GEO:49.591596;15.055392
+URL:geo:49.591596,15.055392
+DESCRIPTION:📍 Čeněnice\, Křešín\, Pelhřimov\n\n🚒 CAS (Košetice)
+END:VEVENT
+BEGIN:VEVENT
+UID:418267061
+DTSTART:20260821T210731Z
+DTEND:20260821T220731Z
+DTSTAMP:20260821T210731Z
+SUMMARY:🛠️ strom - Rozsochatec
+LOCATION:Rozsochatec
+GEO:49.695521;15.650072
+URL:geo:49.695521,15.650072
+DESCRIPTION:📍 Rozsochatec\, Havlíčkův Brod\n\n🚒 CAS (HS Chotěboř)
 END:VEVENT
 END:VCALENDAR
