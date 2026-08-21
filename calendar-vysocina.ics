@@ -793,8 +793,8 @@ SUMMARY:🛠️ strom - Velká Bíteš
 LOCATION:Velká Bíteš
 GEO:49.254182;16.216823
 URL:geo:49.254182,16.216823
-DESCRIPTION:📍 Jindřichov\, Velká Bíteš\, Žďár nad Sázavou\n\n🚒 CAS (HS Velk
- á Bíteš)\n🚒 AŽ (HS Velká Bíteš)
+DESCRIPTION:📍 Jindřichov\, Velká Bíteš\, Žďár nad Sázavou\n💬 Odstranění str
+ omu.\n\n🚒 CAS (HS Velká Bíteš)\n🚒 AŽ (HS Velká Bíteš)
 END:VEVENT
 BEGIN:VEVENT
 UID:418170061
@@ -832,5 +832,27 @@ URL:geo:49.398329,15.583166
 DESCRIPTION:📍 Tolstého\, Jihlava\n💬 Požár ohlášený systémem elektrické požá
  rní signalizace. Průzkumem bylo zjištěno\, že se jedná o planý poplach.\n\
  n🚒 CAS (CHS Jihlava) ×2\n🚒 CAS (CHS Jihlava) ×2
+END:VEVENT
+BEGIN:VEVENT
+UID:418176061
+DTSTART:20260821T090837Z
+DTEND:20260821T100837Z
+DTSTAMP:20260821T090837Z
+SUMMARY:🚗 dopravní nehoda - Třebíč
+LOCATION:Znojemská\, Třebíč
+GEO:49.200988;15.887990
+URL:geo:49.200988,15.887990
+DESCRIPTION:📍 Znojemská\, Horka-Domky\, Třebíč\n\n🚒 CAS (CHS Třebíč)
+END:VEVENT
+BEGIN:VEVENT
+UID:418177061
+DTSTART:20260821T090918Z
+DTEND:20260821T100918Z
+DTSTAMP:20260821T090918Z
+SUMMARY:🚑 otevření/asistence - Jihlava
+LOCATION:Havlíčkova\, Jihlava
+GEO:49.402246;15.588334
+URL:geo:49.402246,15.588334
+DESCRIPTION:📍 Havlíčkova\, Jihlava\n\n🚒 CAS (CHS Jihlava)
 END:VEVENT
 END:VCALENDAR
