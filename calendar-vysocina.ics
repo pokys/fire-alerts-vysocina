@@ -842,7 +842,8 @@ SUMMARY:🛠️ strom - Telč
 LOCATION:U Háje\, Telč
 GEO:49.172662;15.457148
 URL:geo:49.172662,15.457148
-DESCRIPTION:📍 U Háje\, Telč-Staré Město\, Telč\, Jihlava\n\n🚒 CAS (HS Telč)
+DESCRIPTION:📍 U Háje\, Telč-Staré Město\, Telč\, Jihlava\n💬 Odstranění stro
+ mu.\n\n🚒 CAS (HS Telč)
 END:VEVENT
 BEGIN:VEVENT
 UID:418183061
@@ -853,8 +854,8 @@ SUMMARY:🛠️ obtížný hmyz - Žďár nad Sázavou
 LOCATION:Okružní\, Žďár nad Sázavou
 GEO:49.567055;15.930495
 URL:geo:49.567055,15.930495
-DESCRIPTION:📍 Okružní\, Žďár nad Sázavou 3\, Žďár nad Sázavou\n\n🚒 CAS (CHS
-  Žďár nad Sázavou)
+DESCRIPTION:📍 Okružní\, Žďár nad Sázavou 3\, Žďár nad Sázavou\n💬 Odstranění
+  obtížného hmyzu.\n\n🚒 CAS (CHS Žďár nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:418184061
@@ -865,7 +866,8 @@ SUMMARY:🚑 transport pacienta - Kaliště
 LOCATION:Kaliště
 GEO:49.603669;15.281948
 URL:geo:49.603669,15.281948
-DESCRIPTION:📍 Podivice\, Kaliště\, Pelhřimov\n\n🚒 CAS (HS Humpolec)
+DESCRIPTION:📍 Podivice\, Kaliště\, Pelhřimov\n💬 Transport pacienta na žádos
+ t ZZS.\n\n🚒 CAS (HS Humpolec)
 END:VEVENT
 BEGIN:VEVENT
 UID:418185061
@@ -876,8 +878,8 @@ SUMMARY:🛠️ obtížný hmyz - Lísek
 LOCATION:Lísek
 GEO:49.580952;16.184949
 URL:geo:49.580952,16.184949
-DESCRIPTION:📍 Lhota\, Lísek\, Žďár nad Sázavou\n\n🚒 CAS (HS Bystřice nad Pe
- rnštejnem)
+DESCRIPTION:📍 Lhota\, Lísek\, Žďár nad Sázavou\n💬 Odstranění obtížného hmyz
+ u.\n\n🚒 CAS (HS Bystřice nad Pernštejnem)
 END:VEVENT
 BEGIN:VEVENT
 UID:418186061
