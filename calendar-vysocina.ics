@@ -928,4 +928,28 @@ URL:geo:49.298885,15.475194
 DESCRIPTION:📍 Křížkovského\, Třešť\, Jihlava\n💬 Odstranění obtížného hmyzu.
  \n\n🚒 CAS (HS Třešť)
 END:VEVENT
+BEGIN:VEVENT
+UID:418219061
+DTSTART:20260821T155700Z
+DTEND:20260821T165700Z
+DTSTAMP:20260821T155700Z
+SUMMARY:🛠️ obtížný hmyz - Větrný Jeníkov
+LOCATION:Větrný Jeníkov
+GEO:49.475750;15.485309
+URL:geo:49.475750,15.485309
+DESCRIPTION:📍 Větrný Jeníkov\, Jihlava\n💬 Odstranění obtížného hmyzu.\n\n🚒 
+ CAS (Větrný Jeníkov)
+END:VEVENT
+BEGIN:VEVENT
+UID:418220061
+DTSTART:20260821T155729Z
+DTEND:20260821T165729Z
+DTSTAMP:20260821T155729Z
+SUMMARY:🛠️ čerpání vody - Golčův Jeníkov
+LOCATION:Komenského\, Golčův Jeníkov
+GEO:49.816947;15.469912
+URL:geo:49.816947,15.469912
+DESCRIPTION:📍 Komenského\, Golčův Jeníkov\, Havlíčkův Brod\n💬 Čerpání vody.
+ \n\n🚒 CAS (Golčův Jeníkov)
+END:VEVENT
 END:VCALENDAR
