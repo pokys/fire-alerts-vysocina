@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:418068061
-DTSTART:20260819T100055Z
-DTEND:20260819T110055Z
-DTSTAMP:20260819T100055Z
-SUMMARY:🚑 spolupráce ZZS - Třešť
-LOCATION:Luční\, Třešť
-GEO:49.289140;15.485245
-URL:geo:49.289140,15.485245
-DESCRIPTION:📍 Luční\, Třešť\, Jihlava\n💬 Spolupráce se ZZS.\n\n🚒 CAS (HS Tř
- ešť)
-END:VEVENT
-BEGIN:VEVENT
 UID:418069061
 DTSTART:20260819T100725Z
 DTEND:20260819T110725Z
@@ -794,7 +782,8 @@ LOCATION:Velká Bíteš
 GEO:49.254182;16.216823
 URL:geo:49.254182,16.216823
 DESCRIPTION:📍 Jindřichov\, Velká Bíteš\, Žďár nad Sázavou\n💬 Odstranění str
- omu.\n\n🚒 CAS (HS Velká Bíteš)\n🚒 AŽ (HS Velká Bíteš)
+ omu.\n\n🚒 CAS (HS Velká Bíteš)\n🚒 AŽ (HS Velká Bíteš)\n🚒 pila řetězová (HS
+  Velká Bíteš)
 END:VEVENT
 BEGIN:VEVENT
 UID:418170061
@@ -817,8 +806,8 @@ SUMMARY:🔥 vozidlo - Kámen
 LOCATION:Kámen
 GEO:49.711601;15.524327
 URL:geo:49.711601,15.524327
-DESCRIPTION:📍 Kámen\, Havlíčkův Brod\n\n🚒 vyšetřovací automobil (ÚO Havlíčk
- ův Brod)
+DESCRIPTION:📍 Kámen\, Havlíčkův Brod\n💬 Požár nakladače. Bez účasti JPO.\n\
+ n🚒 vyšetřovací automobil (ÚO Havlíčkův Brod)
 END:VEVENT
 BEGIN:VEVENT
 UID:418174061
@@ -842,7 +831,8 @@ SUMMARY:🚗 dopravní nehoda - Třebíč
 LOCATION:Znojemská\, Třebíč
 GEO:49.200988;15.887990
 URL:geo:49.200988,15.887990
-DESCRIPTION:📍 Znojemská\, Horka-Domky\, Třebíč\n\n🚒 CAS (CHS Třebíč)
+DESCRIPTION:📍 Znojemská\, Horka-Domky\, Třebíč\n💬 DN 3 OA se zraněním jedné
+  osoby. Jednotka provedla zajištění místa nehody.\n\n🚒 CAS (CHS Třebíč)
 END:VEVENT
 BEGIN:VEVENT
 UID:418177061
@@ -864,6 +854,7 @@ SUMMARY:🛠️ obtížný hmyz - Jihlava
 LOCATION:Jungmannova\, Jihlava
 GEO:49.418673;15.592710
 URL:geo:49.418673,15.592710
-DESCRIPTION:📍 Jungmannova\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+DESCRIPTION:📍 Jungmannova\, Jihlava\n💬 Odstranění obtížného hmyzu.\n\n🚒 CAS
+  (CHS Jihlava)
 END:VEVENT
 END:VCALENDAR
