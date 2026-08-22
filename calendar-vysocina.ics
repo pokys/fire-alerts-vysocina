@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:418234061
-DTSTART:20260821T181225Z
-DTEND:20260821T191225Z
-DTSTAMP:20260821T181225Z
-SUMMARY:🛠️ obtížný hmyz - Nová Ves
-LOCATION:Nová Ves
-GEO:49.249582;15.804152
-URL:geo:49.249582,15.804152
-DESCRIPTION:📍 Nová Ves\, Třebíč\n💬 Odstranění obtížného hmyzu.\n\n🚒 DA (Nov
- á Ves (TR))
-END:VEVENT
-BEGIN:VEVENT
 UID:418236061
 DTSTART:20260821T193717Z
 DTEND:20260821T203717Z
@@ -1076,7 +1064,7 @@ LOCATION:Humpolec
 GEO:49.569274;15.352679
 URL:geo:49.569274,15.352679
 DESCRIPTION:📍 Světlice\, Humpolec\, Pelhřimov\n💬 Oplach komunikace.\n\n🚒 př
- ívěs nákladní (Humpolec-Světlice)
+ ívěs nákladní (Humpolec-Světlice)\n🚒 CAS (HS Humpolec)
 END:VEVENT
 BEGIN:VEVENT
 UID:418359061
@@ -1101,7 +1089,7 @@ LOCATION:Řemenovská\, Pelhřimov
 GEO:49.432032;15.229017
 URL:geo:49.432032,15.229017
 DESCRIPTION:📍 Řemenovská\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 CAS (CHS Pe
- lhřimov)\n🚒 AŽ (CHS Pelhřimov)
+ lhřimov)\n🚒 AŽ (CHS Pelhřimov)\n🚒 pila řetězová (CHS Pelhřimov)
 END:VEVENT
 BEGIN:VEVENT
 UID:418362061
@@ -1185,7 +1173,8 @@ SUMMARY:🚗 dopravní nehoda - Jihlava
 LOCATION:Jihlava
 GEO:49.380939;15.512427
 URL:geo:49.380939,15.512427
-DESCRIPTION:🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihlava)
+DESCRIPTION:💬 DN motocyklu se zraněním jedné osoby. Zajištění místa událost
+ i.\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:418374061
@@ -1196,7 +1185,8 @@ SUMMARY:🛠️ strom - Golčův Jeníkov
 LOCATION:Golčův Jeníkov
 GEO:49.816261;15.476861
 URL:geo:49.816261,15.476861
-DESCRIPTION:📍 Golčův Jeníkov\, Havlíčkův Brod\n\n🚒 CAS (Golčův Jeníkov)
+DESCRIPTION:📍 Golčův Jeníkov\, Havlíčkův Brod\n💬 Odstranění stromu.\n\n🚒 CA
+ S (Golčův Jeníkov)
 END:VEVENT
 BEGIN:VEVENT
 UID:418375061
@@ -1209,5 +1199,17 @@ GEO:49.410611;15.670011
 URL:geo:49.410611,15.670011
 DESCRIPTION:📍 Velký Beranov\, Jihlava\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Ji
  hlava)
+END:VEVENT
+BEGIN:VEVENT
+UID:418376061
+DTSTART:20260822T151222Z
+DTEND:20260822T161222Z
+DTSTAMP:20260822T151222Z
+SUMMARY:🚗 úklid místa - Kostelec
+LOCATION:Kostelec
+GEO:49.361298;15.490667
+URL:geo:49.361298,15.490667
+DESCRIPTION:📍 Kostelec\, Jihlava\n\n🚒 DA (Kostelec)\n🚒 CAS (CHS Jihlava)\n🚒
+  CAS (CHS Jihlava)
 END:VEVENT
 END:VCALENDAR

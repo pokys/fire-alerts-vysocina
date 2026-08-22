@@ -520,7 +520,7 @@ LOCATION:Humpolec
 GEO:49.569274;15.352679
 URL:geo:49.569274,15.352679
 DESCRIPTION:📍 Světlice\, Humpolec\, Pelhřimov\n💬 Oplach komunikace.\n\n🚒 př
- ívěs nákladní (Humpolec-Světlice)
+ ívěs nákladní (Humpolec-Světlice)\n🚒 CAS (HS Humpolec)
 END:VEVENT
 BEGIN:VEVENT
 UID:418360061
@@ -532,7 +532,7 @@ LOCATION:Řemenovská\, Pelhřimov
 GEO:49.432032;15.229017
 URL:geo:49.432032,15.229017
 DESCRIPTION:📍 Řemenovská\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 CAS (CHS Pe
- lhřimov)\n🚒 AŽ (CHS Pelhřimov)
+ lhřimov)\n🚒 AŽ (CHS Pelhřimov)\n🚒 pila řetězová (CHS Pelhřimov)
 END:VEVENT
 BEGIN:VEVENT
 UID:418364061
