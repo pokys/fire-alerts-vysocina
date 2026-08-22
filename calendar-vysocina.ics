@@ -712,7 +712,7 @@ LOCATION:Pacov
 GEO:49.446593;14.996376
 URL:geo:49.446593,14.996376
 DESCRIPTION:📍 Pacov\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 CAS (HS Pacov)\n
- 🚒 CAS (HS Pacov)\n🚒 pila řetězová (HS Pacov)
+ 🚒 pila řetězová (HS Pacov)
 END:VEVENT
 BEGIN:VEVENT
 UID:418316061
@@ -1208,8 +1208,9 @@ DTEND:20260822T165146Z
 DTSTAMP:20260822T155146Z
 SUMMARY:🚗 dopravní nehoda - Cejle
 LOCATION:Cejle
-GEO:49.358036;15.481656
-URL:geo:49.358036,15.481656
-DESCRIPTION:📍 Cejle\, Jihlava\n\n🚒 RZA (CHS Jihlava)\n🚒 CAS (HS Třešť)
+GEO:49.358417;15.476715
+URL:geo:49.358417,15.476715
+DESCRIPTION:📍 Cejle\, Jihlava\n\n🚒 RZA (CHS Jihlava)\n🚒 CAS (HS Třešť)\n🚒 D
+ A (Kostelec)
 END:VEVENT
 END:VCALENDAR
