@@ -5,55 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:418209061
-DTSTART:20260821T134502Z
-DTEND:20260821T144502Z
-DTSTAMP:20260821T134502Z
-SUMMARY:🛠️ otevření bytu/auta - Světlá nad Sázavou
-LOCATION:Nové Město\, Světlá nad Sázavou
-GEO:49.667942;15.402550
-URL:geo:49.667942,15.402550
-DESCRIPTION:📍 Nové Město\, Světlá nad Sázavou\, Havlíčkův Brod\n💬 Otevření 
- bytu.\n\n🚒 CAS (HS Světlá nad Sázavou)
-END:VEVENT
-BEGIN:VEVENT
-UID:418211061
-DTSTART:20260821T141227Z
-DTEND:20260821T151227Z
-DTSTAMP:20260821T141227Z
-SUMMARY:🛠️ strom - Chotěboř
-LOCATION:Chotěboř
-GEO:49.706467;15.710707
-URL:geo:49.706467,15.710707
-DESCRIPTION:📍 Chotěboř\, Havlíčkův Brod\n💬 Odstranění stromu.\n\n🚒 CAS (HS 
- Chotěboř)\n🚒 pila řetězová (HS Chotěboř)
-END:VEVENT
-BEGIN:VEVENT
-UID:418212061
-DTSTART:20260821T141444Z
-DTEND:20260821T151444Z
-DTSTAMP:20260821T141444Z
-SUMMARY:🛠️ ostatní - Žirovnice
-LOCATION:Branka\, Žirovnice
-GEO:49.251736;15.183727
-URL:geo:49.251736,15.183727
-DESCRIPTION:📍 Branka\, Žirovnice\, Pelhřimov\n💬 Tlakování kanalizace.\n\n🚒 
- CAS (Žirovnice)
-END:VEVENT
-BEGIN:VEVENT
-UID:418213061
-DTSTART:20260821T142600Z
-DTEND:20260821T152600Z
-DTSTAMP:20260821T142600Z
-SUMMARY:🚗 dopravní nehoda - Třebíč
-LOCATION:Nádražní\, Třebíč
-GEO:49.211546;15.883190
-URL:geo:49.211546,15.883190
-DESCRIPTION:📍 Nádražní\, Horka-Domky\, Třebíč\n💬 DN 2 OA a skutru se zraněn
- ím jedné osoby. Jednotka pomohla s ošetřením zraněné osoby a jejím transpo
- rtem do vozu ZZS a provedla zajištění místa nehody.\n\n🚒 CAS (CHS Třebíč)
-END:VEVENT
-BEGIN:VEVENT
 UID:418214061
 DTSTART:20260821T144400Z
 DTEND:20260821T154400Z
@@ -990,7 +941,7 @@ LOCATION:Ve Vilách\, Velké Meziříčí
 GEO:49.352652;16.026417
 URL:geo:49.352652,16.026417
 DESCRIPTION:📍 Ve Vilách\, Velké Meziříčí\, Žďár nad Sázavou\n💬 Odstranění s
- tromu.\n\n🚒 CAS (HS Velké Meziříčí)
+ tromu.\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 pila řetězová (HS Velké Meziříčí)
 END:VEVENT
 BEGIN:VEVENT
 UID:418318061
@@ -1155,8 +1106,8 @@ DTEND:20260822T093226Z
 DTSTAMP:20260822T083226Z
 SUMMARY:🛠️ spolupráce IZS - Želetava
 LOCATION:Želetava
-GEO:49.121900;15.702682
-URL:geo:49.121900,15.702682
+GEO:49.127416;15.687773
+URL:geo:49.127416,15.687773
 DESCRIPTION:📍 Horky\, Želetava\, Třebíč\n\n🚒 CAS (HS Moravské Budějovice)\n
  🚒 DA (Želetava-Horky)\n🚒 CAS (Lesonice)\n🚒 CAS (Želetava)
 END:VEVENT
@@ -1204,5 +1155,53 @@ GEO:49.587147;15.543114
 URL:geo:49.587147,15.543114
 DESCRIPTION:📍 Šmolovy\, Havlíčkův Brod\n💬 Odstranění obtížného hmyzu.\n\n🚒 
  CAS (CHS Havlíčkův Brod)
+END:VEVENT
+BEGIN:VEVENT
+UID:418349061
+DTSTART:20260822T090214Z
+DTEND:20260822T100214Z
+DTSTAMP:20260822T090214Z
+SUMMARY:🛠️ strom - Červená Řečice
+LOCATION:Červená Řečice
+GEO:49.510424;15.185357
+URL:geo:49.510424,15.185357
+DESCRIPTION:📍 Červená Řečice\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 DA (Čer
+ vená Řečice)\n🚒 CAS (Červená Řečice)
+END:VEVENT
+BEGIN:VEVENT
+UID:418350061
+DTSTART:20260822T090300Z
+DTEND:20260822T100300Z
+DTSTAMP:20260822T090300Z
+SUMMARY:🚗 dopravní nehoda - Humpolec
+LOCATION:Mánesova\, Humpolec
+GEO:49.544472;15.349797
+URL:geo:49.544472,15.349797
+DESCRIPTION:📍 Mánesova\, Humpolec\, Pelhřimov\n\n🚒 CAS (HS Humpolec)\n🚒 RZA
+  (HS Humpolec)
+END:VEVENT
+BEGIN:VEVENT
+UID:418351061
+DTSTART:20260822T090337Z
+DTEND:20260822T100337Z
+DTSTAMP:20260822T090337Z
+SUMMARY:🚗 úklid místa - Horní Cerekev
+LOCATION:Horní Cerekev
+GEO:49.353962;15.356170
+URL:geo:49.353962,15.356170
+DESCRIPTION:📍 Těšenov\, Horní Cerekev\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)\
+ n🚒 CAS (Horní Cerekev)
+END:VEVENT
+BEGIN:VEVENT
+UID:418352061
+DTSTART:20260822T090556Z
+DTEND:20260822T100556Z
+DTSTAMP:20260822T090556Z
+SUMMARY:🚗 dopravní nehoda - Moravské Budějovice
+LOCATION:Moravské Budějovice
+GEO:49.033986;15.758239
+URL:geo:49.033986,15.758239
+DESCRIPTION:📍 Jackov\, Moravské Budějovice\, Třebíč\n\n🚒 CAS (HS Moravské B
+ udějovice)\n🚒 CAS (Moravské Budějovice)
 END:VEVENT
 END:VCALENDAR
