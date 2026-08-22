@@ -413,4 +413,16 @@ URL:geo:49.412784,15.115243
 DESCRIPTION:📍 Nová Cerekev\, Pelhřimov\n💬 Odstranění bahna a oplach komunik
  ace.\n\n🚒 CAS (Nová Cerekev)
 END:VEVENT
+BEGIN:VEVENT
+UID:418304061
+DTSTART:20260822T051034Z
+DTEND:20260822T061034Z
+DTSTAMP:20260822T051034Z
+SUMMARY:🛠️ čerpání vody - Nová Cerekev
+LOCATION:Nová Cerekev
+GEO:49.412920;15.113507
+URL:geo:49.412920,15.113507
+DESCRIPTION:📍 Nová Cerekev\, Pelhřimov\n💬 Čerpání vody.\n\n🚒 CAS (Nová Cere
+ kev)\n🚒 CAS (Nová Cerekev)
+END:VEVENT
 END:VCALENDAR
