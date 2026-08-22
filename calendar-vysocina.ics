@@ -1124,7 +1124,7 @@ LOCATION:Koněšín
 GEO:49.179563;16.043792
 URL:geo:49.179563,16.043792
 DESCRIPTION:📍 Koněšín\, Třebíč\n\n🚒 CAS (HS Náměšť nad Oslavou)\n🚒 loď se z
- abudovaným motorem (VZS Dalešice)
+ abudovaným motorem (VZS Dalešice) ×2
 END:VEVENT
 BEGIN:VEVENT
 UID:418360061
@@ -1183,9 +1183,9 @@ SUMMARY:🔥 kůlna/přístřešek - Velké Janovice
 LOCATION:Velké Janovice
 GEO:49.587796;16.219665
 URL:geo:49.587796,16.219665
-DESCRIPTION:📍 Velké Janovice\, Žďár nad Sázavou\n💬 Požár dřeva po přístřešk
- em. Provedena likvidace.\n\n🚒 CAS (HS Bystřice nad Pernštejnem)\n🚒 CAS (Da
- lečín)\n🚒 vyšetřovací automobil (ÚO Žďár nad Sázavou)
+DESCRIPTION:📍 Velké Janovice\, Žďár nad Sázavou\n💬 Požár dřeva pod přístřeš
+ kem. Provedena lokalizace a likvidace požáru.\n\n🚒 CAS (HS Bystřice nad Pe
+ rnštejnem)\n🚒 CAS (Dalečín)\n🚒 vyšetřovací automobil (ÚO Žďár nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:418370061
@@ -1196,7 +1196,8 @@ SUMMARY:🚑 transport pacienta - Jihlava
 LOCATION:Vrchlického\, Jihlava
 GEO:49.399007;15.571422
 URL:geo:49.399007,15.571422
-DESCRIPTION:📍 Vrchlického\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+DESCRIPTION:📍 Vrchlického\, Jihlava\n💬 Transport pacienta na žádost ZZS.\n\
+ n🚒 CAS (CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:418371061
