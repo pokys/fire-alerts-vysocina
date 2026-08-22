@@ -989,7 +989,7 @@ LOCATION:V Kaštanech\, Třešť
 GEO:49.297386;15.487502
 URL:geo:49.297386,15.487502
 DESCRIPTION:📍 V Kaštanech\, Třešť\, Jihlava\n💬 Odstranění stromu.\n\n🚒 CAS 
- (HS Třešť)
+ (HS Třešť)\n🚒 pila řetězová (HS Třešť)
 END:VEVENT
 BEGIN:VEVENT
 UID:418329061
@@ -1181,8 +1181,9 @@ SUMMARY:🚗 dopravní nehoda - Moravské Budějovice
 LOCATION:Moravské Budějovice
 GEO:49.033986;15.758239
 URL:geo:49.033986,15.758239
-DESCRIPTION:📍 Jackov\, Moravské Budějovice\, Třebíč\n\n🚒 CAS (HS Moravské B
- udějovice)\n🚒 CAS (Moravské Budějovice)
+DESCRIPTION:📍 Jackov\, Moravské Budějovice\, Třebíč\n💬 DN 2 OA se zraněním 
+ jedné osoby. Jednotky provedly\n\n🚒 CAS (HS Moravské Budějovice)\n🚒 CAS (M
+ oravské Budějovice)
 END:VEVENT
 BEGIN:VEVENT
 UID:418354061
