@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:418216061
-DTSTART:20260821T150516Z
-DTEND:20260821T160516Z
-DTSTAMP:20260821T150516Z
-SUMMARY:⚠️ planý poplach - Telč
-LOCATION:Třebíčská\, Telč
-GEO:49.187153;15.471737
-URL:geo:49.187153,15.471737
-DESCRIPTION:📍 Třebíčská\, Telč-Štěpnice\, Telč\, Jihlava\n💬 Požár ohlášený 
- systémem elektrické požární signalizace. Průzkumem bylo zjištěno\, že se j
- edná o planý poplach.\n\n🚒 CAS (HS Telč)\n🚒 CAS (HS Telč)
-END:VEVENT
-BEGIN:VEVENT
 UID:418217061
 DTSTART:20260821T152544Z
 DTEND:20260821T162544Z
@@ -1182,8 +1169,9 @@ LOCATION:Moravské Budějovice
 GEO:49.033986;15.758239
 URL:geo:49.033986,15.758239
 DESCRIPTION:📍 Jackov\, Moravské Budějovice\, Třebíč\n💬 DN 2 OA se zraněním 
- jedné osoby. Jednotky provedly\n\n🚒 CAS (HS Moravské Budějovice)\n🚒 CAS (M
- oravské Budějovice)
+ jedné osoby. Jednotky provedly zajištění místa nehody\, vyproštění havarov
+ aného vozidla na komunikaci a zlikvidovaly uniklé provozní kapaliny sorben
+ tem.\n\n🚒 CAS (HS Moravské Budějovice)\n🚒 CAS (Moravské Budějovice)
 END:VEVENT
 BEGIN:VEVENT
 UID:418354061
@@ -1206,5 +1194,17 @@ LOCATION:Třebíč
 GEO:49.262178;15.830145
 URL:geo:49.262178,15.830145
 DESCRIPTION:📍 Račerovice\, Třebíč\n\n🚒 CAS (CHS Třebíč)
+END:VEVENT
+BEGIN:VEVENT
+UID:418356061
+DTSTART:20260822T112239Z
+DTEND:20260822T122239Z
+DTSTAMP:20260822T112239Z
+SUMMARY:🛠️ obtížný hmyz - Komorovice
+LOCATION:Komorovice
+GEO:49.510527;15.333018
+URL:geo:49.510527,15.333018
+DESCRIPTION:📍 Komorovice\, Pelhřimov\n💬 Odstranění obtížného hmyzu.\n\n🚒 CA
+ S (HS Humpolec)
 END:VEVENT
 END:VCALENDAR
