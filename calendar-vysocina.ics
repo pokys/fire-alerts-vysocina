@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:418152061
-DTSTART:20260820T162505Z
-DTEND:20260820T172505Z
-DTSTAMP:20260820T162505Z
-SUMMARY:🚗 dopravní nehoda - Třebenice
-LOCATION:Třebenice
-GEO:49.165371;16.005005
-URL:geo:49.165371,16.005005
-DESCRIPTION:📍 Třebenice\, Třebíč\n💬 Dopravní nehoda 1 OA a motocyklu. Zajiš
- tění místa zásahu.\n\n🚒 CAS (HS Hrotovice)
-END:VEVENT
-BEGIN:VEVENT
 UID:418153061
 DTSTART:20260820T163919Z
 DTEND:20260820T173919Z
@@ -876,7 +864,7 @@ LOCATION:Rozsochatec
 GEO:49.695521;15.650072
 URL:geo:49.695521,15.650072
 DESCRIPTION:📍 Rozsochatec\, Havlíčkův Brod\n💬 Odstranění stromu.\n\n🚒 CAS (
- HS Chotěboř)
+ HS Chotěboř)\n🚒 pila řetězová (HS Chotěboř)
 END:VEVENT
 BEGIN:VEVENT
 UID:418269061
@@ -913,7 +901,7 @@ LOCATION:Chotěboř
 GEO:49.681505;15.686199
 URL:geo:49.681505,15.686199
 DESCRIPTION:📍 Počátky\, Chotěboř\, Havlíčkův Brod\n💬 Odstranění stromu.\n\n
- 🚒 CAS (HS Chotěboř)
+ 🚒 CAS (HS Chotěboř)\n🚒 pila řetězová (HS Chotěboř)
 END:VEVENT
 BEGIN:VEVENT
 UID:418272061
@@ -1080,7 +1068,7 @@ LOCATION:Rozsochy
 GEO:49.540928;16.199680
 URL:geo:49.540928,16.199680
 DESCRIPTION:📍 Rozsochy\, Žďár nad Sázavou\n💬 Odstranění stromu.\n\n🚒 CAS (H
- S Bystřice nad Pernštejnem)
+ S Bystřice nad Pernštejnem)\n🚒 pila řetězová (HS Bystřice nad Pernštejnem)
 END:VEVENT
 BEGIN:VEVENT
 UID:418287061
@@ -1212,6 +1200,19 @@ SUMMARY:🛠️ strom - Bratřice
 LOCATION:Bratřice
 GEO:49.512136;14.985469
 URL:geo:49.512136,14.985469
-DESCRIPTION:📍 Bratřice\, Pelhřimov\n\n🚒 CAS (HS Pacov)
+DESCRIPTION:📍 Bratřice\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 CAS (HS Pacov
+ )
+END:VEVENT
+BEGIN:VEVENT
+UID:418300061
+DTSTART:20260822T042008Z
+DTEND:20260822T052008Z
+DTSTAMP:20260822T042008Z
+SUMMARY:🛠️ strom - Humpolec
+LOCATION:Humpolec
+GEO:49.500546;15.289533
+URL:geo:49.500546,15.289533
+DESCRIPTION:📍 Kletečná\, Humpolec\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 CA
+ S (HS Humpolec)
 END:VEVENT
 END:VCALENDAR
