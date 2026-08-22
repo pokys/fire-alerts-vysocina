@@ -529,7 +529,19 @@ SUMMARY:🚗 úklid místa - Horní Cerekev
 LOCATION:Horní Cerekev
 GEO:49.353962;15.356170
 URL:geo:49.353962,15.356170
-DESCRIPTION:📍 Těšenov\, Horní Cerekev\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)\
- n🚒 CAS (Horní Cerekev)
+DESCRIPTION:📍 Těšenov\, Horní Cerekev\, Pelhřimov\n💬 DN 1 OA\, bez zranění.
+  Likvidace úniku PHM pomocí sorbentu. Zajištění místa nehody.\n\n🚒 CAS (CH
+ S Pelhřimov)\n🚒 CAS (Horní Cerekev)
+END:VEVENT
+BEGIN:VEVENT
+UID:418354061
+DTSTART:20260822T104910Z
+DTEND:20260822T114910Z
+DTSTAMP:20260822T104910Z
+SUMMARY:🚗 dopravní nehoda - Věžná
+LOCATION:Věžná
+GEO:49.422661;14.981247
+URL:geo:49.422661,14.981247
+DESCRIPTION:📍 Věžná\, Pelhřimov\n\n🚒 CAS (HS Pacov)
 END:VEVENT
 END:VCALENDAR
