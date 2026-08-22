@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:418199061
-DTSTART:20260821T121425Z
-DTEND:20260821T131425Z
-DTSTAMP:20260821T121425Z
-SUMMARY:🛠️ obtížný hmyz - Nová Cerekev
-LOCATION:Nová Cerekev
-GEO:49.394827;15.114284
-URL:geo:49.394827,15.114284
-DESCRIPTION:📍 Myslov\, Nová Cerekev\, Pelhřimov\n💬 Odstranění obtížného hmy
- zu.\n\n🚒 CAS (Nová Cerekev)
-END:VEVENT
-BEGIN:VEVENT
 UID:418200061
 DTSTART:20260821T123639Z
 DTEND:20260821T133639Z
@@ -1170,8 +1158,8 @@ SUMMARY:🛠️ otevření bytu/auta - Žďár nad Sázavou
 LOCATION:Nezvalova\, Žďár nad Sázavou
 GEO:49.562074;15.946870
 URL:geo:49.562074,15.946870
-DESCRIPTION:📍 Nezvalova\, Žďár nad Sázavou 4\, Žďár nad Sázavou\n\n🚒 CAS (C
- HS Žďár nad Sázavou)
+DESCRIPTION:📍 Nezvalova\, Žďár nad Sázavou 4\, Žďár nad Sázavou\n💬 Otevření
+  bytu.\n\n🚒 CAS (CHS Žďár nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:418332061
@@ -1182,7 +1170,8 @@ SUMMARY:🛠️ strom - Větrný Jeníkov
 LOCATION:Větrný Jeníkov
 GEO:49.474191;15.482030
 URL:geo:49.474191,15.482030
-DESCRIPTION:📍 Větrný Jeníkov\, Jihlava\n\n🚒 CAS (Větrný Jeníkov)
+DESCRIPTION:📍 Větrný Jeníkov\, Jihlava\n💬 Odstranění stromu.\n\n🚒 CAS (Větr
+ ný Jeníkov)
 END:VEVENT
 BEGIN:VEVENT
 UID:418333061
@@ -1205,7 +1194,19 @@ SUMMARY:🛠️ čerpání vody - Golčův Jeníkov
 LOCATION:Komenského\, Golčův Jeníkov
 GEO:49.816106;15.471864
 URL:geo:49.816106,15.471864
-DESCRIPTION:📍 Komenského\, Golčův Jeníkov\, Havlíčkův Brod\n\n🚒 CAS (Golčův
-  Jeníkov)
+DESCRIPTION:📍 Komenského\, Golčův Jeníkov\, Havlíčkův Brod\n💬 Čerpání vody.
+ \n\n🚒 CAS (Golčův Jeníkov)
+END:VEVENT
+BEGIN:VEVENT
+UID:418335061
+DTSTART:20260822T074159Z
+DTEND:20260822T084159Z
+DTSTAMP:20260822T074159Z
+SUMMARY:🛠️ strom - Ledeč nad Sázavou
+LOCATION:Hrnčíře\, Ledeč nad Sázavou
+GEO:49.693481;15.272615
+URL:geo:49.693481,15.272615
+DESCRIPTION:📍 Hrnčíře\, Ledeč nad Sázavou\, Havlíčkův Brod\n\n🚒 AŽ (HS Lede
+ č nad Sázavou)
 END:VEVENT
 END:VCALENDAR
