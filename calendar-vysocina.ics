@@ -5,47 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:418157061
-DTSTART:20260820T182542Z
-DTEND:20260820T192542Z
-DTSTAMP:20260820T182542Z
-SUMMARY:🔥 venkovní požár - Bystřice nad Pernštejnem
-LOCATION:Bystřice nad Pernštejnem
-GEO:49.560499;16.270467
-URL:geo:49.560499,16.270467
-DESCRIPTION:📍 Karasín\, Bystřice nad Pernštejnem\, Žďár nad Sázavou\n💬 Požá
- r odpadu. Provedena lokalizace a likvidace.\n\n🚒 CAS (HS Bystřice nad Pern
- štejnem)\n🚒 CAS (Bystřice nad Pernštejnem)\n🚒 CAS (Dalečín)
-END:VEVENT
-BEGIN:VEVENT
-UID:418158061
-DTSTART:20260820T211006Z
-DTEND:20260820T221006Z
-DTSTAMP:20260820T211006Z
-SUMMARY:⚠️ planý poplach - Cerekvička-Rosice
-LOCATION:Cerekvička-Rosice
-GEO:49.320019;15.575248
-URL:geo:49.320019,15.575248
-DESCRIPTION:📍 Cerekvička\, Cerekvička-Rosice\, Jihlava\n💬 Planý poplach.\n\
- n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihlava)
-END:VEVENT
-BEGIN:VEVENT
-UID:418160061
-DTSTART:20260821T021549Z
-DTEND:20260821T031549Z
-DTSTAMP:20260821T021549Z
-SUMMARY:🔥 budova - Třebíč
-LOCATION:Hrotovická\, Třebíč
-GEO:49.208551;15.895779
-URL:geo:49.208551,15.895779
-DESCRIPTION:📍 Hrotovická\, Jejkov\, Třebíč\n💬 Požár servisní budovy garáže\
- , bez zranění. Jednotky provedly lokalizaci a likvidaci požáru.\n\n🚒 CAS (
- CHS Třebíč)\n🚒 CAS (CHS Třebíč)\n🚒 pila kotoučová (CHS Třebíč)\n🚒 CAS (Jar
- oměřice nad Rokytnou)\n🚒 CAS (Jaroměřice nad Rokytnou)\n🚒 automobilová stř
- íkačka (Stařeč)\n🚒 CAS (Stařeč)\n🚒 vyšetřovací automobil (ÚO Třebíč)\n🚒 vy
- šetřovací automobil (ÚO Havlíčkův Brod)
-END:VEVENT
-BEGIN:VEVENT
 UID:418168061
 DTSTART:20260821T062613Z
 DTEND:20260821T072613Z
@@ -1200,8 +1159,8 @@ SUMMARY:🛠️ strom - Žďár nad Sázavou
 LOCATION:Žďár nad Sázavou
 GEO:49.557514;15.926954
 URL:geo:49.557514,15.926954
-DESCRIPTION:📍 Žďár nad Sázavou 1\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad 
- Sázavou)\n🚒 pila řetězová (CHS Žďár nad Sázavou)
+DESCRIPTION:📍 Žďár nad Sázavou 1\, Žďár nad Sázavou\n💬 Odstranění stromu.\n
+ \n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 pila řetězová (CHS Žďár nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:418306061
@@ -1213,5 +1172,39 @@ LOCATION:Pacov
 GEO:49.451120;14.993292
 URL:geo:49.451120,14.993292
 DESCRIPTION:📍 Pacov\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 CAS (HS Pacov)
+END:VEVENT
+BEGIN:VEVENT
+UID:418307061
+DTSTART:20260822T060212Z
+DTEND:20260822T070212Z
+DTSTAMP:20260822T060212Z
+SUMMARY:🛠️ strom - Polná
+LOCATION:Polná
+GEO:49.501884;15.734769
+URL:geo:49.501884,15.734769
+DESCRIPTION:📍 Polná\, Jihlava\n\n🚒 CAS (HS Polná)
+END:VEVENT
+BEGIN:VEVENT
+UID:418309061
+DTSTART:20260822T061024Z
+DTEND:20260822T071024Z
+DTSTAMP:20260822T061024Z
+SUMMARY:🛠️ ostatní - Samšín
+LOCATION:Samšín
+GEO:49.486516;15.085009
+URL:geo:49.486516,15.085009
+DESCRIPTION:📍 Přáslavice\, Samšín\, Pelhřimov\n\n🚒 DA (Samšín - Přáslavice)
+END:VEVENT
+BEGIN:VEVENT
+UID:418311061
+DTSTART:20260822T061312Z
+DTEND:20260822T071312Z
+DTSTAMP:20260822T061312Z
+SUMMARY:🛠️ ostatní - Golčův Jeníkov
+LOCATION:Komenského\, Golčův Jeníkov
+GEO:49.816271;15.472785
+URL:geo:49.816271,15.472785
+DESCRIPTION:📍 Komenského\, Golčův Jeníkov\, Havlíčkův Brod\n\n🚒 CAS (Golčův
+  Jeníkov)
 END:VEVENT
 END:VCALENDAR
