@@ -386,7 +386,7 @@ LOCATION:Nová Cerekev
 GEO:49.412784;15.115243
 URL:geo:49.412784,15.115243
 DESCRIPTION:📍 Nová Cerekev\, Pelhřimov\n💬 Odstranění bahna a oplach komunik
- ace.\n\n🚒 CAS (Nová Cerekev)
+ ace.\n\n🚒 CAS (Nová Cerekev) ×2
 END:VEVENT
 BEGIN:VEVENT
 UID:418304061
@@ -399,5 +399,16 @@ GEO:49.412920;15.113507
 URL:geo:49.412920,15.113507
 DESCRIPTION:📍 Nová Cerekev\, Pelhřimov\n💬 Čerpání vody.\n\n🚒 CAS (Nová Cere
  kev)\n🚒 CAS (Nová Cerekev)
+END:VEVENT
+BEGIN:VEVENT
+UID:418306061
+DTSTART:20260822T055143Z
+DTEND:20260822T065143Z
+DTSTAMP:20260822T055143Z
+SUMMARY:🛠️ strom - Pacov
+LOCATION:Pacov
+GEO:49.451120;14.993292
+URL:geo:49.451120,14.993292
+DESCRIPTION:📍 Pacov\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 CAS (HS Pacov)
 END:VEVENT
 END:VCALENDAR
