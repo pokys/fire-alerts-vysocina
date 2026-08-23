@@ -5,42 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Pelhřimov
 BEGIN:VEVENT
-UID:418250061
-DTSTART:20260821T200217Z
-DTEND:20260821T210217Z
-DTSTAMP:20260821T200217Z
-SUMMARY:🛠️ ostatní - Humpolec
-LOCATION:Kamarytova\, Humpolec
-GEO:49.543231;15.353587
-URL:geo:49.543231,15.353587
-DESCRIPTION:📍 Kamarytova\, Humpolec\, Pelhřimov\n💬 Vrácení poklopu kanaliza
- ce zpět na místo.\n\n🚒 CAS (Humpolec)
-END:VEVENT
-BEGIN:VEVENT
-UID:418253061
-DTSTART:20260821T201005Z
-DTEND:20260821T211005Z
-DTSTAMP:20260821T201005Z
-SUMMARY:🚑 otevření/asistence - Žirovnice
-LOCATION:Žižkova\, Žirovnice
-GEO:49.254880;15.187298
-URL:geo:49.254880,15.187298
-DESCRIPTION:📍 Žižkova\, Žirovnice\, Pelhřimov\n💬 Pomoc s imobilní osobou.\n
- \n🚒 CAS (Žirovnice)
-END:VEVENT
-BEGIN:VEVENT
-UID:418254061
-DTSTART:20260821T201455Z
-DTEND:20260821T211455Z
-DTSTAMP:20260821T201455Z
-SUMMARY:🛠️ ostatní - Koberovice
-LOCATION:Koberovice
-GEO:49.580627;15.272501
-URL:geo:49.580627,15.272501
-DESCRIPTION:📍 Lohenice\, Koberovice\, Pelhřimov\n💬 Odstranění bahna z vozov
- ky.\n\n🚒 CAS (Senožaty)\n🚒 DA (Koberovice)
-END:VEVENT
-BEGIN:VEVENT
 UID:418256061
 DTSTART:20260821T201639Z
 DTEND:20260821T211639Z
@@ -481,6 +445,8 @@ SUMMARY:☣️ olej/PHM - Červená Řečice
 LOCATION:Červená Řečice
 GEO:49.522025;15.171992
 URL:geo:49.522025,15.171992
-DESCRIPTION:📍 Červená Řečice\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)
+DESCRIPTION:📍 Červená Řečice\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)\n🚒 automo
+ bilový nosič kontejnerů (CHS Pelhřimov)\n🚒 kontejner technický (CHS Pelhři
+ mov)
 END:VEVENT
 END:VCALENDAR

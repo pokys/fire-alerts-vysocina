@@ -1204,8 +1204,8 @@ SUMMARY:🔥 venkovní požár - Světlá nad Sázavou
 LOCATION:Nádražní\, Světlá nad Sázavou
 GEO:49.670153;15.416381
 URL:geo:49.670153,15.416381
-DESCRIPTION:📍 Nádražní\, Světlá nad Sázavou\, Havlíčkův Brod\n\n🚒 CAS (HS S
- větlá nad Sázavou)
+DESCRIPTION:📍 Nádražní\, Světlá nad Sázavou\, Havlíčkův Brod\n💬 Požár odpad
+ u.\n\n🚒 CAS (HS Světlá nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:418452061
@@ -1216,6 +1216,8 @@ SUMMARY:☣️ olej/PHM - Červená Řečice
 LOCATION:Červená Řečice
 GEO:49.522025;15.171992
 URL:geo:49.522025,15.171992
-DESCRIPTION:📍 Červená Řečice\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)
+DESCRIPTION:📍 Červená Řečice\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)\n🚒 automo
+ bilový nosič kontejnerů (CHS Pelhřimov)\n🚒 kontejner technický (CHS Pelhři
+ mov)
 END:VEVENT
 END:VCALENDAR
