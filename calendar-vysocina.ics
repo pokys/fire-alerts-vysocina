@@ -1176,8 +1176,8 @@ SUMMARY:🛠️ čerpání vody - Žďár nad Sázavou
 LOCATION:Studniční\, Žďár nad Sázavou
 GEO:49.576797;15.942857
 URL:geo:49.576797,15.942857
-DESCRIPTION:📍 Studniční\, Žďár nad Sázavou 2\, Žďár nad Sázavou\n\n🚒 osobní
-  automobil (Žďár nad Sázavou-Zámek)
+DESCRIPTION:📍 Studniční\, Žďár nad Sázavou 2\, Žďár nad Sázavou\n💬 Čerpání 
+ vody.\n\n🚒 osobní automobil (Žďár nad Sázavou-Zámek)
 END:VEVENT
 BEGIN:VEVENT
 UID:418395061
@@ -1212,6 +1212,7 @@ SUMMARY:🛠️ obtížný hmyz - Pošná
 LOCATION:Pošná
 GEO:49.456930;15.040943
 URL:geo:49.456930,15.040943
-DESCRIPTION:📍 Pošná\, Pelhřimov\n\n🚒 CAS (HS Pacov)
+DESCRIPTION:📍 Pošná\, Pelhřimov\n💬 Odstranění obtížného hmyzu.\n\n🚒 CAS (HS
+  Pacov)
 END:VEVENT
 END:VCALENDAR
