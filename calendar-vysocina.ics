@@ -975,7 +975,7 @@ LOCATION:Vilémovice
 GEO:49.686825;15.318887
 URL:geo:49.686825,15.318887
 DESCRIPTION:📍 Vilémovice\, Havlíčkův Brod\n💬 Likvidace obtížného hmyzu.\n\n
- 🚒 CAS (HS Ledeč nad Sázavou)
+ 🚒 CAS (HS Ledeč nad Sázavou)\n🚒 vysavač na hmyz (HS Ledeč nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:418396061
@@ -1190,8 +1190,8 @@ SUMMARY:🚗 dopravní nehoda - Černovice
 LOCATION:Černovice
 GEO:49.347443;14.998879
 URL:geo:49.347443,14.998879
-DESCRIPTION:📍 Benešov\, Černovice\, Pelhřimov\n\n🚒 CAS (HS Kamenice nad Lip
- ou)
+DESCRIPTION:📍 Benešov\, Černovice\, Pelhřimov\n💬 DN motorkáře se zraněním.\
+ n\n🚒 CAS (HS Kamenice nad Lipou)
 END:VEVENT
 BEGIN:VEVENT
 UID:418438061
@@ -1202,8 +1202,8 @@ SUMMARY:🛠️ ostatní - Žďár nad Sázavou
 LOCATION:1. máje\, Žďár nad Sázavou
 GEO:49.561164;15.935162
 URL:geo:49.561164,15.935162
-DESCRIPTION:📍 1. máje\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n\n🚒 CAS (Žďá
- r nad Sázavou-Zámek)
+DESCRIPTION:📍 1. máje\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n💬 Asistence 
+ MP.\n\n🚒 CAS (Žďár nad Sázavou-Zámek)
 END:VEVENT
 BEGIN:VEVENT
 UID:418439061
