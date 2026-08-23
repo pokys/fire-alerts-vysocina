@@ -1095,8 +1095,9 @@ SUMMARY:🛠️ ostatní - Velké Meziříčí
 LOCATION:Velké Meziříčí
 GEO:49.365785;15.984511
 URL:geo:49.365785,15.984511
-DESCRIPTION:📍 Velké Meziříčí\, Žďár nad Sázavou\n💬 Asistence při technické 
- závadě na OA.\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)
+DESCRIPTION:📍 Velké Meziříčí\, Žďár nad Sázavou\n💬 Ohlášen požár OA\, průzk
+ umem zjištěno\, že se jedná o technickou závadu na vozidle.\n\n🚒 CAS (HS V
+ elké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)
 END:VEVENT
 BEGIN:VEVENT
 UID:418406061
@@ -1118,7 +1119,8 @@ SUMMARY:🚑 Bobrová
 LOCATION:Bobrová
 GEO:49.480824;16.110339
 URL:geo:49.480824,16.110339
-DESCRIPTION:📍 Bobrová\, Žďár nad Sázavou\n\n🚒 DA (Bobrová)\n🚒 CAS (Bobrová)
+DESCRIPTION:📍 Bobrová\, Žďár nad Sázavou\n💬 Záchrana psa z kanalizace.\n\n🚒
+  DA (Bobrová)\n🚒 CAS (Bobrová)
 END:VEVENT
 BEGIN:VEVENT
 UID:418408061
@@ -1129,9 +1131,9 @@ SUMMARY:🚗 dopravní nehoda - Radenice
 LOCATION:Radenice
 GEO:49.433432;16.063318
 URL:geo:49.433432,16.063318
-DESCRIPTION:📍 Radenice\, Žďár nad Sázavou\n💬 DN 1 OA náraz do stromu\, 1 zr
- aněná osoba. Vyproštění zraněné osoby\, Zajištění místa nehody.\n\n🚒 CAS (
- HS Velké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)\n🚒 CAS (Křižanov)
+DESCRIPTION:📍 Radenice\, Žďár nad Sázavou\n💬 DN OA náraz do stromu\, jedna 
+ zraněná osoba. Vyproštění zraněné osoby\, Zajištění místa nehody.\n\n🚒 CAS
+  (HS Velké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)\n🚒 CAS (Křižanov)
 END:VEVENT
 BEGIN:VEVENT
 UID:418409061
@@ -1153,7 +1155,9 @@ SUMMARY:🚗 úklid místa - Hubenov
 LOCATION:Hubenov
 GEO:49.400235;15.461914
 URL:geo:49.400235,15.461914
-DESCRIPTION:📍 Hubenov\, Jihlava\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihlava)
+DESCRIPTION:📍 Hubenov\, Jihlava\n💬 DN 2 x OA\, tři zraněné osoby. Likvidace
+  úniku provozních kapalin. Zajištění místa události.\n\n🚒 CAS (CHS Jihlava
+ )\n🚒 RZA (CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:418415061
@@ -1187,8 +1191,8 @@ SUMMARY:🛠️ obtížný hmyz - Žďár nad Sázavou
 LOCATION:Brodská\, Žďár nad Sázavou
 GEO:49.564960;15.928785
 URL:geo:49.564960,15.928785
-DESCRIPTION:📍 Brodská\, Žďár nad Sázavou 3\, Žďár nad Sázavou\n\n🚒 CAS (CHS
-  Žďár nad Sázavou)
+DESCRIPTION:📍 Brodská\, Žďár nad Sázavou 3\, Žďár nad Sázavou\n💬 Odstranění
+  obtížného hmyzu.\n\n🚒 CAS (CHS Žďár nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:418428061
@@ -1199,7 +1203,7 @@ SUMMARY:🛠️ spolupráce IZS - Pelhřimov
 LOCATION:Pelhřimov
 GEO:49.426629;15.238014
 URL:geo:49.426629,15.238014
-DESCRIPTION:🚒 CAS (CHS Pelhřimov)
+DESCRIPTION:💬 Spolupráce se ZZS.\n\n🚒 CAS (CHS Pelhřimov)
 END:VEVENT
 BEGIN:VEVENT
 UID:418429061
@@ -1210,7 +1214,8 @@ SUMMARY:🚗 dopravní nehoda - Lavičky
 LOCATION:Lavičky
 GEO:49.367936;15.978513
 URL:geo:49.367936,15.978513
-DESCRIPTION:📍 Lavičky\, Žďár nad Sázavou\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZ
- A (HS Velké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)
+DESCRIPTION:📍 Lavičky\, Žďár nad Sázavou\n💬 DN 2 OA\, 2 zraněné osoby. Zaji
+ štění místa nehody.\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (HS Velké Meziříčí
+ )\n🚒 RZA (HS Velké Meziříčí)
 END:VEVENT
 END:VCALENDAR
