@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:418276061
-DTSTART:20260821T214612Z
-DTEND:20260821T224612Z
-DTSTAMP:20260821T214612Z
-SUMMARY:🛠️ strom - Herálec
-LOCATION:Herálec
-GEO:49.534153;15.472235
-URL:geo:49.534153,15.472235
-DESCRIPTION:📍 Herálec\, Havlíčkův Brod\n💬 Odstranění stromu.\n\n🚒 CAS (Herá
- lec (HB))
-END:VEVENT
-BEGIN:VEVENT
 UID:418277061
 DTSTART:20260821T215038Z
 DTEND:20260821T225038Z
@@ -998,7 +986,8 @@ SUMMARY:🛠️ otevření bytu/auta - Hrotovice
 LOCATION:Letná\, Hrotovice
 GEO:49.105297;16.065880
 URL:geo:49.105297,16.065880
-DESCRIPTION:📍 Letná\, Hrotovice\, Třebíč\n\n🚒 CAS (HS Hrotovice)
+DESCRIPTION:📍 Letná\, Hrotovice\, Třebíč\n💬 Otevření domu.\n\n🚒 CAS (HS Hro
+ tovice)
 END:VEVENT
 BEGIN:VEVENT
 UID:418393061
@@ -1009,8 +998,8 @@ SUMMARY:🚑 spolupráce ZZS - Dlouhá Brtnice
 LOCATION:Dlouhá Brtnice
 GEO:49.237346;15.604898
 URL:geo:49.237346,15.604898
-DESCRIPTION:📍 Dlouhá Brtnice\, Jihlava\n\n🚒 CAS (HS Třešť)\n🚒 CAS (Stonařov
- )
+DESCRIPTION:📍 Dlouhá Brtnice\, Jihlava\n💬 Asistence ZZS.\n\n🚒 CAS (HS Třešť
+ )\n🚒 CAS (Stonařov)
 END:VEVENT
 BEGIN:VEVENT
 UID:418394061
@@ -1069,9 +1058,9 @@ SUMMARY:🚗 úklid místa - Daňkovice
 LOCATION:Daňkovice
 GEO:49.665273;16.147705
 URL:geo:49.665273,16.147705
-DESCRIPTION:📍 Daňkovice\, Žďár nad Sázavou\n💬 DN 2 OA\, 3 zraněné osoby. Za
- jištění místa nehody\, provední protipožární opatření.\n\n🚒 CAS (CHS Žďár 
- nad Sázavou)\n🚒 DA (Sněžné)\n🚒 CAS (Sněžné)
+DESCRIPTION:📍 Daňkovice\, Žďár nad Sázavou\n💬 DN 2 x OA\, tři zraněné osoby
+ . Zajištění místa nehody.\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 DA (Sněžné)\n
+ 🚒 CAS (Sněžné)
 END:VEVENT
 BEGIN:VEVENT
 UID:418402061
@@ -1094,8 +1083,8 @@ SUMMARY:🛠️ obtížný hmyz - Telč
 LOCATION:Míly Doleželové\, Telč
 GEO:49.175550;15.454434
 URL:geo:49.175550,15.454434
-DESCRIPTION:📍 Míly Doleželové\, Telč-Staré Město\, Telč\, Jihlava\n\n🚒 CAS 
- (HS Telč)
+DESCRIPTION:📍 Míly Doleželové\, Telč-Staré Město\, Telč\, Jihlava\n💬 Likvid
+ ace nebezpečného hmyzu.\n\n🚒 CAS (HS Telč)
 END:VEVENT
 BEGIN:VEVENT
 UID:418405061
@@ -1140,8 +1129,9 @@ SUMMARY:🚗 dopravní nehoda - Radenice
 LOCATION:Radenice
 GEO:49.433432;16.063318
 URL:geo:49.433432,16.063318
-DESCRIPTION:📍 Radenice\, Žďár nad Sázavou\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 R
- ZA (HS Velké Meziříčí)\n🚒 CAS (Křižanov)
+DESCRIPTION:📍 Radenice\, Žďár nad Sázavou\n💬 DN 1 OA náraz do stromu\, 1 zr
+ aněná osoba. Vyproštění zraněné osoby\, Zajištění místa nehody.\n\n🚒 CAS (
+ HS Velké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)\n🚒 CAS (Křižanov)
 END:VEVENT
 BEGIN:VEVENT
 UID:418409061
@@ -1210,5 +1200,17 @@ LOCATION:Pelhřimov
 GEO:49.426629;15.238014
 URL:geo:49.426629,15.238014
 DESCRIPTION:🚒 CAS (CHS Pelhřimov)
+END:VEVENT
+BEGIN:VEVENT
+UID:418429061
+DTSTART:20260823T123717Z
+DTEND:20260823T133717Z
+DTSTAMP:20260823T123717Z
+SUMMARY:🚗 dopravní nehoda - Lavičky
+LOCATION:Lavičky
+GEO:49.367936;15.978513
+URL:geo:49.367936,15.978513
+DESCRIPTION:📍 Lavičky\, Žďár nad Sázavou\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZ
+ A (HS Velké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)
 END:VEVENT
 END:VCALENDAR
