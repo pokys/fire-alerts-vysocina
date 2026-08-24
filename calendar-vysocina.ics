@@ -885,6 +885,18 @@ DESCRIPTION:📍 Bojiště\, Havlíčkův Brod\n💬 Odstranění obtížného h
  CAS (HS Ledeč nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
+UID:418486061
+DTSTART:20260824T111225Z
+DTEND:20260824T121225Z
+DTSTAMP:20260824T111225Z
+SUMMARY:🛠️ obtížný hmyz - Ledeč nad Sázavou
+LOCATION:Komenského\, Ledeč nad Sázavou
+GEO:49.697881;15.276217
+URL:geo:49.697881,15.276217
+DESCRIPTION:📍 Komenského\, Ledeč nad Sázavou\, Havlíčkův Brod\n\n🚒 CAS (HS 
+ Ledeč nad Sázavou)
+END:VEVENT
+BEGIN:VEVENT
 UID:418487061
 DTSTART:20260824T111436Z
 DTEND:20260824T121436Z
@@ -907,7 +919,8 @@ URL:geo:49.439920,16.012681
 DESCRIPTION:📍 Dolní Bory\, Bory\, Žďár nad Sázavou\n\n🚒 CAS (HS Velké Meziř
  íčí)\n🚒 CAS (Bory)\n🚒 CAS (Ostrov nad Oslavou)\n🚒 CAS (Radostín nad Oslavo
  u)\n🚒 CAS (Krásněves)\n🚒 CAS (Pavlov (ZR))\n🚒 vyšetřovací automobil (ÚO Žď
- ár nad Sázavou)
+ ár nad Sázavou)\n🚒 CAS (Křižanov)\n🚒 DA (Bobrová)\n🚒 CAS (Bobrová)\n🚒 CAS 
+ (Velké Meziříčí)\n🚒 CAS (Velké Meziříčí)
 END:VEVENT
 BEGIN:VEVENT
 UID:418490061
