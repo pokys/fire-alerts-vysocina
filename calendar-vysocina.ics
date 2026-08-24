@@ -973,7 +973,9 @@ SUMMARY:🚗 dopravní nehoda - Rapotice
 LOCATION:Rapotice
 GEO:49.185960;16.266381
 URL:geo:49.185960,16.266381
-DESCRIPTION:📍 Rapotice\, Třebíč\n\n🚒 CAS (HS Náměšť nad Oslavou)
+DESCRIPTION:📍 Rapotice\, Třebíč\n💬 DN 1 OA mimo komunikaci se zraněním 1 os
+ oby. Jednotka provedla zajištění místa nehody.\n\n🚒 CAS (HS Náměšť nad Osl
+ avou)
 END:VEVENT
 BEGIN:VEVENT
 UID:418518061
@@ -1031,6 +1033,7 @@ SUMMARY:🚗 dopravní nehoda - Pacov
 LOCATION:Pacov
 GEO:49.480798;15.046382
 URL:geo:49.480798,15.046382
-DESCRIPTION:📍 Roučkovice\, Pacov\, Pelhřimov\n\n🚒 CAS (HS Pacov)
+DESCRIPTION:📍 Roučkovice\, Pacov\, Pelhřimov\n💬 DN 1 OA\, se zraněním jedné
+  osoby. Jednotka provedla zajištění místa nehody.\n\n🚒 CAS (HS Pacov)
 END:VEVENT
 END:VCALENDAR
