@@ -907,7 +907,7 @@ LOCATION:Křelovice
 GEO:49.536169;15.163177
 URL:geo:49.536169,15.163177
 DESCRIPTION:📍 Křelovice\, Pelhřimov\n\n🚒 DA (Křelovice)\n🚒 CAS (CHS Pelhřim
- ov)
+ ov)\n🚒 AŽ (CHS Pelhřimov)
 END:VEVENT
 BEGIN:VEVENT
 UID:418485061
@@ -918,7 +918,8 @@ SUMMARY:🛠️ obtížný hmyz - Bojiště
 LOCATION:Bojiště
 GEO:49.663709;15.282809
 URL:geo:49.663709,15.282809
-DESCRIPTION:📍 Bojiště\, Havlíčkův Brod\n\n🚒 CAS (HS Ledeč nad Sázavou)
+DESCRIPTION:📍 Bojiště\, Havlíčkův Brod\n💬 Odstranění obtížného hmyzu.\n\n🚒 
+ CAS (HS Ledeč nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:418487061
