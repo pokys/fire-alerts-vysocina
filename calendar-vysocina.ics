@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:418376061
-DTSTART:20260822T151222Z
-DTEND:20260822T161222Z
-DTSTAMP:20260822T151222Z
-SUMMARY:🚗 úklid místa - Kostelec
-LOCATION:Kostelec
-GEO:49.361298;15.490667
-URL:geo:49.361298,15.490667
-DESCRIPTION:📍 Kostelec\, Jihlava\n💬 DN 1 OA bez zranění. Řízení dopravy v m
- ístě události.\n\n🚒 DA (Kostelec)\n🚒 CAS (CHS Jihlava)\n🚒 CAS (CHS Jihlava
- )
-END:VEVENT
-BEGIN:VEVENT
 UID:418378061
 DTSTART:20260822T155146Z
 DTEND:20260822T165146Z
@@ -809,7 +796,7 @@ UID:418489061
 DTSTART:20260824T115250Z
 DTEND:20260824T125250Z
 DTSTAMP:20260824T115250Z
-SUMMARY:🔥 tráva/plocha - Bory
+SUMMARY:🔥 les - Bory
 LOCATION:Bory
 GEO:49.439920;16.012681
 URL:geo:49.439920,16.012681
@@ -828,7 +815,8 @@ SUMMARY:🚗 dopravní nehoda - Pacov
 LOCATION:Pacov
 GEO:49.505767;14.957499
 URL:geo:49.505767,14.957499
-DESCRIPTION:📍 Jetřichovec\, Pacov\, Pelhřimov\n\n🚒 CAS (HS Pacov)
+DESCRIPTION:📍 Jetřichovec\, Pacov\, Pelhřimov\n💬 DN OA náraz do stromu\, 1 
+ zraněná osoba.\n\n🚒 CAS (HS Pacov)
 END:VEVENT
 BEGIN:VEVENT
 UID:418492061
@@ -851,7 +839,9 @@ SUMMARY:🚗 dopravní nehoda - Štěměchy
 LOCATION:Štěměchy
 GEO:49.194103;15.737774
 URL:geo:49.194103,15.737774
-DESCRIPTION:📍 Štěměchy\, Třebíč\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (Želetava)
+DESCRIPTION:📍 Štěměchy\, Třebíč\n💬 DN motorkáře\, 1 zraněná osoba. Zajištěn
+ í místa nehody. Provední protipožární opatření.\n\n🚒 CAS (CHS Třebíč)\n🚒 C
+ AS (Želetava)
 END:VEVENT
 BEGIN:VEVENT
 UID:418496061
@@ -862,8 +852,8 @@ SUMMARY:☣️ plyn - Kamenice nad Lipou
 LOCATION:Pelhřimovská\, Kamenice nad Lipou
 GEO:49.304606;15.074171
 URL:geo:49.304606,15.074171
-DESCRIPTION:📍 Pelhřimovská\, Kamenice nad Lipou\, Pelhřimov\n\n🚒 CAS (HS Ka
- menice nad Lipou)
+DESCRIPTION:📍 Pelhřimovská\, Kamenice nad Lipou\, Pelhřimov\n💬 Likvidace ún
+ iku plynu.\n\n🚒 CAS (HS Kamenice nad Lipou)
 END:VEVENT
 BEGIN:VEVENT
 UID:418497061
@@ -912,5 +902,16 @@ LOCATION:Svatovítské náměstí\, Pelhřimov
 GEO:49.432629;15.224287
 URL:geo:49.432629,15.224287
 DESCRIPTION:📍 Svatovítské náměstí\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)
+END:VEVENT
+BEGIN:VEVENT
+UID:418503061
+DTSTART:20260824T150050Z
+DTEND:20260824T160050Z
+DTSTAMP:20260824T150050Z
+SUMMARY:🛠️ obtížný hmyz - Světnov
+LOCATION:Světnov
+GEO:49.621635;15.955808
+URL:geo:49.621635,15.955808
+DESCRIPTION:📍 Světnov\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad Sázavou)
 END:VEVENT
 END:VCALENDAR
