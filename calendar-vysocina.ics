@@ -910,4 +910,16 @@ URL:geo:49.253781,15.186833
 DESCRIPTION:📍 Komenského\, Žirovnice\, Pelhřimov\n\n🚒 CAS (HS Kamenice nad 
  Lipou)\n🚒 CAS (Žirovnice)
 END:VEVENT
+BEGIN:VEVENT
+UID:418480061
+DTSTART:20260824T101846Z
+DTEND:20260824T111846Z
+DTSTAMP:20260824T101846Z
+SUMMARY:🚑 otevření/asistence - Náměšť nad Oslavou
+LOCATION:Husova\, Náměšť nad Oslavou
+GEO:49.211435;16.146748
+URL:geo:49.211435,16.146748
+DESCRIPTION:📍 Husova\, Náměšť nad Oslavou\, Třebíč\n\n🚒 CAS (HS Náměšť nad 
+ Oslavou)
+END:VEVENT
 END:VCALENDAR
