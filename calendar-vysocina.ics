@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:418378061
-DTSTART:20260822T155146Z
-DTEND:20260822T165146Z
-DTSTAMP:20260822T155146Z
-SUMMARY:🚗 dopravní nehoda - Cejle
-LOCATION:Cejle
-GEO:49.358417;15.476715
-URL:geo:49.358417,15.476715
-DESCRIPTION:📍 Cejle\, Jihlava\n💬 DN 1 OA bez zranění. Provedena PPO. Zajišt
- ění místa události.\n\n🚒 RZA (CHS Jihlava)\n🚒 CAS (HS Třešť)\n🚒 DA (Kostel
- ec)
-END:VEVENT
-BEGIN:VEVENT
 UID:418380061
 DTSTART:20260822T161722Z
 DTEND:20260822T171722Z
@@ -801,10 +788,11 @@ LOCATION:Bory
 GEO:49.439920;16.012681
 URL:geo:49.439920,16.012681
 DESCRIPTION:📍 Dolní Bory\, Bory\, Žďár nad Sázavou\n💬 Požár lesního porostu
- .\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 CAS (Bory)\n🚒 CAS (Ostrov nad Oslavou)\n
- 🚒 CAS (Radostín nad Oslavou)\n🚒 CAS (Krásněves)\n🚒 CAS (Pavlov (ZR))\n🚒 vy
- šetřovací automobil (ÚO Žďár nad Sázavou)\n🚒 CAS (Křižanov)\n🚒 DA (Bobrová
- )\n🚒 CAS (Bobrová)\n🚒 CAS (Velké Meziříčí)\n🚒 CAS (Velké Meziříčí)
+ .\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 DA (Bory)\n🚒 CAS (Bory)\n🚒 přívěs techni
+ cký (Bory)\n🚒 CAS (Ostrov nad Oslavou)\n🚒 CAS (Radostín nad Oslavou)\n🚒 CA
+ S (Krásněves)\n🚒 CAS (Pavlov (ZR))\n🚒 vyšetřovací automobil (ÚO Žďár nad S
+ ázavou)\n🚒 CAS (Křižanov)\n🚒 DA (Bobrová)\n🚒 CAS (Bobrová)\n🚒 CAS (Velké M
+ eziříčí)\n🚒 CAS (Velké Meziříčí)
 END:VEVENT
 BEGIN:VEVENT
 UID:418490061
