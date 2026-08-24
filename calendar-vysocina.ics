@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:418367061
-DTSTART:20260822T134646Z
-DTEND:20260822T144646Z
-DTSTAMP:20260822T134646Z
-SUMMARY:🔥 kůlna/přístřešek - Velké Janovice
-LOCATION:Velké Janovice
-GEO:49.587796;16.219665
-URL:geo:49.587796,16.219665
-DESCRIPTION:📍 Velké Janovice\, Žďár nad Sázavou\n💬 Požár dřeva pod přístřeš
- kem. Provedena lokalizace a likvidace požáru.\n\n🚒 CAS (HS Bystřice nad Pe
- rnštejnem)\n🚒 CAS (Dalečín)\n🚒 vyšetřovací automobil (ÚO Žďár nad Sázavou)
-END:VEVENT
-BEGIN:VEVENT
 UID:418370061
 DTSTART:20260822T140256Z
 DTEND:20260822T150256Z
@@ -658,8 +645,9 @@ SUMMARY:🚗 dopravní nehoda - Jihlava
 LOCATION:Jihlava
 GEO:49.422887;15.628389
 URL:geo:49.422887,15.628389
-DESCRIPTION:📍 Hruškové Dvory\, Jihlava\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS J
- ihlava)
+DESCRIPTION:📍 Hruškové Dvory\, Jihlava\n💬 DN OA mimo vozovku. Jedna zraněná
+  osoba předána ZZS. Zajištění místa události.\n\n🚒 CAS (CHS Jihlava)\n🚒 RZ
+ A (CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:418465061
@@ -693,7 +681,8 @@ SUMMARY:🚗 dopravní nehoda - Třešť
 LOCATION:Franze Kafky\, Třešť
 GEO:49.291404;15.482533
 URL:geo:49.291404,15.482533
-DESCRIPTION:📍 Franze Kafky\, Třešť\, Jihlava\n\n🚒 CAS (HS Třešť)
+DESCRIPTION:📍 Franze Kafky\, Třešť\, Jihlava\n💬 DN cyklisty. Jedna zraněná 
+ osoba. Zajištění místa události.\n\n🚒 CAS (HS Třešť)
 END:VEVENT
 BEGIN:VEVENT
 UID:418468061
@@ -704,7 +693,8 @@ SUMMARY:🛠️ obtížný hmyz - Jihlava
 LOCATION:Demlova\, Jihlava
 GEO:49.402326;15.607475
 URL:geo:49.402326,15.607475
-DESCRIPTION:📍 Demlova\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+DESCRIPTION:📍 Demlova\, Jihlava\n💬 Likvidace nebezpečného hmyzu.\n\n🚒 CAS (
+ CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:418470061
@@ -727,7 +717,8 @@ SUMMARY:🛠️ obtížný hmyz - Růžená
 LOCATION:Růžená
 GEO:49.270772;15.429398
 URL:geo:49.270772,15.429398
-DESCRIPTION:📍 Růžená\, Jihlava\n\n🚒 DA (Růžená)
+DESCRIPTION:📍 Růžená\, Jihlava\n💬 Likvidace nebezpečného hmyzu.\n\n🚒 DA (Rů
+ žená)
 END:VEVENT
 BEGIN:VEVENT
 UID:418473061
@@ -738,7 +729,8 @@ SUMMARY:🛠️ otevření bytu/auta - Třešť
 LOCATION:Wolkerova\, Třešť
 GEO:49.286088;15.480197
 URL:geo:49.286088,15.480197
-DESCRIPTION:📍 Wolkerova\, Třešť\, Jihlava\n\n🚒 CAS (HS Třešť)
+DESCRIPTION:📍 Wolkerova\, Třešť\, Jihlava\n💬 Otevření bytu.\n\n🚒 CAS (HS Tř
+ ešť)
 END:VEVENT
 BEGIN:VEVENT
 UID:418474061
@@ -785,8 +777,8 @@ SUMMARY:☣️ olej/PHM - Havlíčkův Brod
 LOCATION:Havlíčkův Brod
 GEO:49.606419;15.603702
 URL:geo:49.606419,15.603702
-DESCRIPTION:💬 Likvidace olejové skvrny na parkovišti.\n\n🚒 CAS (CHS Havlíčk
- ův Brod)
+DESCRIPTION:💬 Likvidace úniku oleje na parkovišti. Únik zlikvidován pomocí 
+ sorbentu.\n\n🚒 CAS (CHS Havlíčkův Brod)
 END:VEVENT
 BEGIN:VEVENT
 UID:418479061
@@ -834,7 +826,8 @@ LOCATION:Křelovice
 GEO:49.536169;15.163177
 URL:geo:49.536169,15.163177
 DESCRIPTION:📍 Křelovice\, Pelhřimov\n💬 Odstranění větve.\n\n🚒 DA (Křelovice
- )\n🚒 CAS (CHS Pelhřimov)\n🚒 AŽ (CHS Pelhřimov)
+ )\n🚒 CAS (CHS Pelhřimov)\n🚒 AŽ (CHS Pelhřimov)\n🚒 pila řetězová (CHS Pelhř
+ imov)
 END:VEVENT
 BEGIN:VEVENT
 UID:418485061
@@ -880,11 +873,11 @@ SUMMARY:🔥 tráva/plocha - Bory
 LOCATION:Bory
 GEO:49.439920;16.012681
 URL:geo:49.439920,16.012681
-DESCRIPTION:📍 Dolní Bory\, Bory\, Žďár nad Sázavou\n\n🚒 CAS (HS Velké Meziř
- íčí)\n🚒 CAS (Bory)\n🚒 CAS (Ostrov nad Oslavou)\n🚒 CAS (Radostín nad Oslavo
- u)\n🚒 CAS (Krásněves)\n🚒 CAS (Pavlov (ZR))\n🚒 vyšetřovací automobil (ÚO Žď
- ár nad Sázavou)\n🚒 CAS (Křižanov)\n🚒 DA (Bobrová)\n🚒 CAS (Bobrová)\n🚒 CAS 
- (Velké Meziříčí)\n🚒 CAS (Velké Meziříčí)
+DESCRIPTION:📍 Dolní Bory\, Bory\, Žďár nad Sázavou\n💬 Požár lesního porostu
+ .\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 CAS (Bory)\n🚒 CAS (Ostrov nad Oslavou)\n
+ 🚒 CAS (Radostín nad Oslavou)\n🚒 CAS (Krásněves)\n🚒 CAS (Pavlov (ZR))\n🚒 vy
+ šetřovací automobil (ÚO Žďár nad Sázavou)\n🚒 CAS (Křižanov)\n🚒 DA (Bobrová
+ )\n🚒 CAS (Bobrová)\n🚒 CAS (Velké Meziříčí)\n🚒 CAS (Velké Meziříčí)
 END:VEVENT
 BEGIN:VEVENT
 UID:418490061
@@ -908,5 +901,16 @@ GEO:49.563899;15.930299
 URL:geo:49.563899,15.930299
 DESCRIPTION:📍 Revoluční\, Žďár nad Sázavou\n💬 Ohlášen únik plynu\, průzkume
  m zjištěno\, že se jedná o planý poplach.\n\n🚒 CAS (CHS Žďár nad Sázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:418495061
+DTSTART:20260824T135257Z
+DTEND:20260824T145257Z
+DTSTAMP:20260824T135257Z
+SUMMARY:🚗 dopravní nehoda - Štěměchy
+LOCATION:Štěměchy
+GEO:49.194103;15.737774
+URL:geo:49.194103,15.737774
+DESCRIPTION:📍 Štěměchy\, Třebíč\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (Želetava)
 END:VEVENT
 END:VCALENDAR
