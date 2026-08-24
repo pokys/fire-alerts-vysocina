@@ -834,8 +834,8 @@ SUMMARY:🛠️ ostatní - Ledeč nad Sázavou
 LOCATION:Ledeč nad Sázavou
 GEO:49.721439;15.272490
 URL:geo:49.721439,15.272490
-DESCRIPTION:📍 Souboř\, Ledeč nad Sázavou\, Havlíčkův Brod\n\n🚒 CAS (HS Lede
- č nad Sázavou)
+DESCRIPTION:📍 Souboř\, Ledeč nad Sázavou\, Havlíčkův Brod\n💬 Pročištění pro
+ pustku.\n\n🚒 CAS (HS Ledeč nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:418476061
@@ -906,6 +906,30 @@ SUMMARY:☣️ plyn - Věž
 LOCATION:Věž
 GEO:49.558132;15.453815
 URL:geo:49.558132,15.453815
-DESCRIPTION:📍 Věž\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)
+DESCRIPTION:📍 Věž\, Havlíčkův Brod\n💬 Narušení plynového potrubí.\n\n🚒 CAS 
+ (CHS Havlíčkův Brod)
+END:VEVENT
+BEGIN:VEVENT
+UID:418484061
+DTSTART:20260824T105518Z
+DTEND:20260824T115518Z
+DTSTAMP:20260824T105518Z
+SUMMARY:🛠️ strom - Křelovice
+LOCATION:Křelovice
+GEO:49.536169;15.163177
+URL:geo:49.536169,15.163177
+DESCRIPTION:📍 Křelovice\, Pelhřimov\n\n🚒 DA (Křelovice)\n🚒 CAS (CHS Pelhřim
+ ov)
+END:VEVENT
+BEGIN:VEVENT
+UID:418485061
+DTSTART:20260824T110749Z
+DTEND:20260824T120749Z
+DTSTAMP:20260824T110749Z
+SUMMARY:🛠️ obtížný hmyz - Bojiště
+LOCATION:Bojiště
+GEO:49.663709;15.282809
+URL:geo:49.663709,15.282809
+DESCRIPTION:📍 Bojiště\, Havlíčkův Brod\n\n🚒 CAS (HS Ledeč nad Sázavou)
 END:VEVENT
 END:VCALENDAR
