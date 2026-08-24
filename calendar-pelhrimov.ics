@@ -145,8 +145,8 @@ SUMMARY:☣️ plyn - Kamenice nad Lipou
 LOCATION:Pelhřimovská\, Kamenice nad Lipou
 GEO:49.304606;15.074171
 URL:geo:49.304606,15.074171
-DESCRIPTION:📍 Pelhřimovská\, Kamenice nad Lipou\, Pelhřimov\n💬 Likvidace ún
- iku plynu.\n\n🚒 CAS (HS Kamenice nad Lipou)
+DESCRIPTION:📍 Pelhřimovská\, Kamenice nad Lipou\, Pelhřimov\n💬 Únik plynu.\
+ n\n🚒 CAS (HS Kamenice nad Lipou)
 END:VEVENT
 BEGIN:VEVENT
 UID:418497061
@@ -169,8 +169,8 @@ SUMMARY:🚗 dopravní nehoda - Pelhřimov
 LOCATION:Svatovítské náměstí\, Pelhřimov
 GEO:49.432629;15.224287
 URL:geo:49.432629,15.224287
-DESCRIPTION:📍 Svatovítské náměstí\, Pelhřimov\n💬 DN cyklisty a OA\, 1 zraně
- ná osoba.\n\n🚒 CAS (CHS Pelhřimov)
+DESCRIPTION:📍 Svatovítské náměstí\, Pelhřimov\n💬 DN cyklisty a OA\, jedna z
+ raněná osoba. Zajištění místa události.\n\n🚒 CAS (CHS Pelhřimov)
 END:VEVENT
 BEGIN:VEVENT
 UID:418505061
