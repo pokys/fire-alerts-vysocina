@@ -159,4 +159,15 @@ URL:geo:49.531987,15.353950
 DESCRIPTION:📍 Pod Tratí\, Humpolec\, Pelhřimov\n💬 Otevření bytu.\n\n🚒 CAS (
  HS Humpolec)
 END:VEVENT
+BEGIN:VEVENT
+UID:418500061
+DTSTART:20260824T143735Z
+DTEND:20260824T153735Z
+DTSTAMP:20260824T143735Z
+SUMMARY:🚗 dopravní nehoda - Pelhřimov
+LOCATION:Svatovítské náměstí\, Pelhřimov
+GEO:49.432629;15.224287
+URL:geo:49.432629,15.224287
+DESCRIPTION:📍 Svatovítské náměstí\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)
+END:VEVENT
 END:VCALENDAR
