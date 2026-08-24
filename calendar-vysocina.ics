@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:418389061
-DTSTART:20260822T204809Z
-DTEND:20260822T214809Z
-DTSTAMP:20260822T204809Z
-SUMMARY:🛠️ otevření bytu/auta - Havlíčkův Brod
-LOCATION:Kyjovská\, Havlíčkův Brod
-GEO:49.612564;15.594815
-URL:geo:49.612564,15.594815
-DESCRIPTION:📍 Kyjovská\, Havlíčkův Brod\n💬 Otevření bytu.\n\n🚒 CAS (CHS Hav
- líčkův Brod)
-END:VEVENT
-BEGIN:VEVENT
 UID:418390061
 DTSTART:20260823T044805Z
 DTEND:20260823T054805Z
@@ -1046,7 +1034,7 @@ SUMMARY:🛠️ ostatní - Žďár nad Sázavou
 LOCATION:Komenského\, Žďár nad Sázavou
 GEO:49.564720;15.933241
 URL:geo:49.564720,15.933241
-DESCRIPTION:📍 Komenského\, Žďár nad Sázavou 3\, Žďár nad Sázavou\n\n🚒 CAS (
- Žďár nad Sázavou-Zámek)
+DESCRIPTION:📍 Komenského\, Žďár nad Sázavou 3\, Žďár nad Sázavou\n💬 Oplach 
+ komunikace.\n\n🚒 CAS (Žďár nad Sázavou-Zámek)
 END:VEVENT
 END:VCALENDAR
