@@ -1055,7 +1055,8 @@ SUMMARY:🚑 otevření/asistence - Brtnička
 LOCATION:Brtnička
 GEO:49.237029;15.627229
 URL:geo:49.237029,15.627229
-DESCRIPTION:📍 Brtnička\, Jihlava\n\n🚒 CAS (HS Třešť)
+DESCRIPTION:📍 Brtnička\, Jihlava\n💬 Otevření bytu. Byt otevřen před příjezd
+ em jednotky.\n\n🚒 CAS (HS Třešť)
 END:VEVENT
 BEGIN:VEVENT
 UID:418572061
@@ -1066,7 +1067,9 @@ SUMMARY:🚗 bez zranění - Třebíč
 LOCATION:Sirotčí\, Třebíč
 GEO:49.214311;15.882416
 URL:geo:49.214311,15.882416
-DESCRIPTION:📍 Sirotčí\, Horka-Domky\, Třebíč\n\n🚒 CAS (CHS Třebíč)
+DESCRIPTION:📍 Sirotčí\, Horka-Domky\, Třebíč\n💬 Dopravní nehoda 3 OA bez zr
+ anění. Likvidace úniku provozních kapalin pomocí sorbentu\, zajištění míst
+ a zásahu.\n\n🚒 CAS (CHS Třebíč)
 END:VEVENT
 BEGIN:VEVENT
 UID:418575061
@@ -1089,7 +1092,18 @@ SUMMARY:🔥 tráva/plocha - Velké Meziříčí
 LOCATION:Velké Meziříčí
 GEO:49.354321;16.026218
 URL:geo:49.354321,16.026218
-DESCRIPTION:📍 Velké Meziříčí\, Žďár nad Sázavou\n\n🚒 CAS (HS Velké Meziříčí
- )
+DESCRIPTION:📍 Velké Meziříčí\, Žďár nad Sázavou\n💬 Dohašení ohniště\n\n🚒 CA
+ S (HS Velké Meziříčí)
+END:VEVENT
+BEGIN:VEVENT
+UID:418577061
+DTSTART:20260825T162957Z
+DTEND:20260825T172957Z
+DTSTAMP:20260825T162957Z
+SUMMARY:🛠️ obtížný hmyz - Pacov
+LOCATION:Pacov
+GEO:49.477861;15.037989
+URL:geo:49.477861,15.037989
+DESCRIPTION:📍 Roučkovice\, Pacov\, Pelhřimov\n\n🚒 CAS (HS Pacov)
 END:VEVENT
 END:VCALENDAR
