@@ -1010,8 +1010,9 @@ SUMMARY:🔥 tráva/plocha - Nová Říše
 LOCATION:Staroříšská\, Nová Říše
 GEO:49.144714;15.564124
 URL:geo:49.144714,15.564124
-DESCRIPTION:📍 Staroříšská\, Nová Říše\, Jihlava\n\n🚒 CAS (HS Telč)\n🚒 CAS (
- HS Telč)\n🚒 CAS (Nová Říše)\n🚒 DA (Stará Říše)\n🚒 CAS (Stará Říše)
+DESCRIPTION:📍 Staroříšská\, Nová Říše\, Jihlava\n💬 Požár trávy menšího rozs
+ ahu\, provedena lokalizace a likvidace.\n\n🚒 CAS (HS Telč)\n🚒 CAS (HS Telč
+ )\n🚒 CAS (Nová Říše)\n🚒 DA (Stará Říše)\n🚒 CAS (Stará Říše)
 END:VEVENT
 BEGIN:VEVENT
 UID:418534061
@@ -1033,7 +1034,8 @@ SUMMARY:🛠️ otevření bytu/auta - Třebíč
 LOCATION:Okružní\, Třebíč
 GEO:49.206521;15.845978
 URL:geo:49.206521,15.845978
-DESCRIPTION:📍 Okružní\, Borovina\, Třebíč\n\n🚒 CAS (CHS Třebíč)
+DESCRIPTION:📍 Okružní\, Borovina\, Třebíč\n💬 Otevření bytu.\n\n🚒 CAS (CHS T
+ řebíč)
 END:VEVENT
 BEGIN:VEVENT
 UID:418536061
@@ -1044,6 +1046,30 @@ SUMMARY:🛠️ obtížný hmyz - Velká Losenice
 LOCATION:Velká Losenice
 GEO:49.582313;15.835754
 URL:geo:49.582313,15.835754
-DESCRIPTION:📍 Velká Losenice\, Žďár nad Sázavou\n\n🚒 DA (Velká Losenice)
+DESCRIPTION:📍 Velká Losenice\, Žďár nad Sázavou\n💬 Odstranění obtížného hmy
+ zu.\n\n🚒 DA (Velká Losenice)
+END:VEVENT
+BEGIN:VEVENT
+UID:418539061
+DTSTART:20260825T074607Z
+DTEND:20260825T084607Z
+DTSTAMP:20260825T074607Z
+SUMMARY:🛠️ obtížný hmyz - Jihlava
+LOCATION:Březinovy sady\, Jihlava
+GEO:49.396538;15.598352
+URL:geo:49.396538,15.598352
+DESCRIPTION:📍 Březinovy sady\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+END:VEVENT
+BEGIN:VEVENT
+UID:418540061
+DTSTART:20260825T074919Z
+DTEND:20260825T084919Z
+DTSTAMP:20260825T074919Z
+SUMMARY:🛠️ strom - Prosetín
+LOCATION:Prosetín
+GEO:49.524140;16.414720
+URL:geo:49.524140,16.414720
+DESCRIPTION:📍 Prosetín\, Žďár nad Sázavou\n\n🚒 CAS (HS Bystřice nad Pernšte
+ jnem)
 END:VEVENT
 END:VCALENDAR
