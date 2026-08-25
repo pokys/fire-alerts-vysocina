@@ -1082,8 +1082,8 @@ SUMMARY:🚑 transport pacienta - Žďár nad Sázavou
 LOCATION:Purkyňova\, Žďár nad Sázavou
 GEO:49.577133;15.937172
 URL:geo:49.577133,15.937172
-DESCRIPTION:📍 Purkyňova\, Žďár nad Sázavou 2\, Žďár nad Sázavou\n\n🚒 CAS (C
- HS Žďár nad Sázavou)
+DESCRIPTION:📍 Purkyňova\, Žďár nad Sázavou 2\, Žďár nad Sázavou\n💬 Pomoc ZZ
+ S s transportem pacienta\n\n🚒 CAS (CHS Žďár nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:418546061
@@ -1102,12 +1102,12 @@ UID:418547061
 DTSTART:20260825T084017Z
 DTEND:20260825T094017Z
 DTSTAMP:20260825T084017Z
-SUMMARY:🔥 les - Jemnice
+SUMMARY:🔥 venkovní požár - Jemnice
 LOCATION:Jemnice
 GEO:49.040075;15.576038
 URL:geo:49.040075,15.576038
-DESCRIPTION:📍 Louka\, Jemnice\, Třebíč\n\n🚒 CAS (HS Jemnice)\n🚒 CAS (Jemnic
- e)
+DESCRIPTION:📍 Louka\, Jemnice\, Třebíč\n💬 Požár pařezu\, beze škody. Lokali
+ zace a likvidace.\n\n🚒 CAS (HS Jemnice)\n🚒 CAS (Jemnice)
 END:VEVENT
 BEGIN:VEVENT
 UID:418548061
@@ -1130,7 +1130,42 @@ SUMMARY:🛠️ otevření bytu/auta - Ledeč nad Sázavou
 LOCATION:Stínadla\, Ledeč nad Sázavou
 GEO:49.701569;15.273446
 URL:geo:49.701569,15.273446
-DESCRIPTION:📍 Stínadla\, Ledeč nad Sázavou\, Havlíčkův Brod\n\n🚒 CAS (HS Le
- deč nad Sázavou)
+DESCRIPTION:📍 Stínadla\, Ledeč nad Sázavou\, Havlíčkův Brod\n💬 Otevření byt
+ u.\n\n🚒 CAS (HS Ledeč nad Sázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:418551061
+DTSTART:20260825T091227Z
+DTEND:20260825T101227Z
+DTSTAMP:20260825T091227Z
+SUMMARY:🛠️ obtížný hmyz - Velká Bíteš
+LOCATION:Velká Bíteš
+GEO:49.279618;16.243775
+URL:geo:49.279618,16.243775
+DESCRIPTION:📍 Janovice\, Velká Bíteš\, Žďár nad Sázavou\n\n🚒 CAS (HS Velká 
+ Bíteš)
+END:VEVENT
+BEGIN:VEVENT
+UID:418552061
+DTSTART:20260825T091252Z
+DTEND:20260825T101252Z
+DTSTAMP:20260825T091252Z
+SUMMARY:🛠️ strom - Zbilidy
+LOCATION:Zbilidy
+GEO:49.434368;15.436221
+URL:geo:49.434368,15.436221
+DESCRIPTION:📍 Zbilidy\, Jihlava\n\n🚒 CAS (Zbilidy)\n🚒 CAS (Opatov (JI))\n🚒 
+ CAS (Větrný Jeníkov)
+END:VEVENT
+BEGIN:VEVENT
+UID:418554061
+DTSTART:20260825T092843Z
+DTEND:20260825T102843Z
+DTSTAMP:20260825T092843Z
+SUMMARY:🚗 úklid místa - Jihlava
+LOCATION:Jihlava
+GEO:49.387779;15.534719
+URL:geo:49.387779,15.534719
+DESCRIPTION:🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihlava)
 END:VEVENT
 END:VCALENDAR
