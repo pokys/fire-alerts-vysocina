@@ -1022,7 +1022,30 @@ SUMMARY:🚑 transport pacienta - Studnice
 LOCATION:Studnice
 GEO:49.290902;16.032710
 URL:geo:49.290902,16.032710
-DESCRIPTION:📍 Studnice\, Třebíč\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 DA (Budišov
- )\n🚒 CAS (Budišov)
+DESCRIPTION:📍 Studnice\, Třebíč\n💬 Transport pacienta na žádost ZZS.\n\n🚒 C
+ AS (HS Velké Meziříčí)\n🚒 DA (Budišov)\n🚒 CAS (Budišov)
+END:VEVENT
+BEGIN:VEVENT
+UID:418533061
+DTSTART:20260825T065212Z
+DTEND:20260825T075212Z
+DTSTAMP:20260825T065212Z
+SUMMARY:🔥 tráva/plocha - Nová Říše
+LOCATION:Staroříšská\, Nová Říše
+GEO:49.144714;15.564124
+URL:geo:49.144714,15.564124
+DESCRIPTION:📍 Staroříšská\, Nová Říše\, Jihlava\n\n🚒 CAS (HS Telč)\n🚒 CAS (
+ HS Telč)\n🚒 CAS (Nová Říše)\n🚒 DA (Stará Říše)\n🚒 CAS (Stará Říše)
+END:VEVENT
+BEGIN:VEVENT
+UID:418534061
+DTSTART:20260825T071131Z
+DTEND:20260825T081131Z
+DTSTAMP:20260825T071131Z
+SUMMARY:🚗 dopravní nehoda - Pelhřimov
+LOCATION:Pražská\, Pelhřimov
+GEO:49.441249;15.205222
+URL:geo:49.441249,15.205222
+DESCRIPTION:📍 Pražská\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)
 END:VEVENT
 END:VCALENDAR
