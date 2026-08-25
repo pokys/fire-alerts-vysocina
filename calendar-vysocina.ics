@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:418405061
-DTSTART:20260823T103305Z
-DTEND:20260823T113305Z
-DTSTAMP:20260823T103305Z
-SUMMARY:🛠️ ostatní - Velké Meziříčí
-LOCATION:Velké Meziříčí
-GEO:49.365785;15.984511
-URL:geo:49.365785,15.984511
-DESCRIPTION:📍 Velké Meziříčí\, Žďár nad Sázavou\n💬 Ohlášen požár OA\, průzk
- umem zjištěno\, že se jedná o technickou závadu na vozidle.\n\n🚒 CAS (HS V
- elké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)
-END:VEVENT
-BEGIN:VEVENT
 UID:418406061
 DTSTART:20260823T104310Z
 DTEND:20260823T114310Z
@@ -1130,7 +1117,8 @@ SUMMARY:🚗 úklid místa - Jihlava
 LOCATION:Jihlava
 GEO:49.387779;15.534719
 URL:geo:49.387779,15.534719
-DESCRIPTION:🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihlava)
+DESCRIPTION:💬 DN 2 OA bez zranění\, provedeno zajištění místa nehody.\n\n🚒 
+ CAS (CHS Jihlava)\n🚒 RZA (CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:418555061
