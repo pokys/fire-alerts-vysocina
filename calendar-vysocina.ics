@@ -1057,4 +1057,16 @@ URL:geo:49.700761,15.276090
 DESCRIPTION:📍 Marie Majerové\, Ledeč nad Sázavou\, Havlíčkův Brod\n💬 Otevře
  ní bytu.\n\n🚒 CAS (HS Ledeč nad Sázavou)
 END:VEVENT
+BEGIN:VEVENT
+UID:418587061
+DTSTART:20260825T230627Z
+DTEND:20260826T000627Z
+DTSTAMP:20260825T230627Z
+SUMMARY:🔥 les - Spělkov
+LOCATION:Spělkov
+GEO:49.676594;16.165529
+URL:geo:49.676594,16.165529
+DESCRIPTION:📍 Spělkov\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒
+  CAS (CHS Žďár nad Sázavou)\n🚒 DA (Jimramov)\n🚒 CAS (Jimramov)
+END:VEVENT
 END:VCALENDAR
