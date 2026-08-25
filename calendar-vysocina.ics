@@ -1046,7 +1046,8 @@ SUMMARY:🛠️ strom - Žirovnice
 LOCATION:Žirovnice
 GEO:49.248799;15.201260
 URL:geo:49.248799,15.201260
-DESCRIPTION:📍 Žirovnice\, Pelhřimov\n\n🚒 CAS (Žirovnice)
+DESCRIPTION:📍 Žirovnice\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 CAS (Žirovni
+ ce)
 END:VEVENT
 BEGIN:VEVENT
 UID:418542061
@@ -1057,7 +1058,7 @@ SUMMARY:🛠️ otevření bytu/auta - Mohelno
 LOCATION:Mohelno
 GEO:49.114784;16.194612
 URL:geo:49.114784,16.194612
-DESCRIPTION:📍 Mohelno\, Třebíč\n\n🚒 CAS (HS Hrotovice)
+DESCRIPTION:📍 Mohelno\, Třebíč\n💬 Otevření bytu.\n\n🚒 CAS (HS Hrotovice)
 END:VEVENT
 BEGIN:VEVENT
 UID:418543061
@@ -1081,5 +1082,17 @@ GEO:49.577133;15.937172
 URL:geo:49.577133,15.937172
 DESCRIPTION:📍 Purkyňova\, Žďár nad Sázavou 2\, Žďár nad Sázavou\n\n🚒 CAS (C
  HS Žďár nad Sázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:418546061
+DTSTART:20260825T083025Z
+DTEND:20260825T093025Z
+DTSTAMP:20260825T083025Z
+SUMMARY:🔥 tráva/plocha - Pohled
+LOCATION:Pohled
+GEO:49.600202;15.653196
+URL:geo:49.600202,15.653196
+DESCRIPTION:📍 Pohled\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 DA (
+ Pohled)
 END:VEVENT
 END:VCALENDAR
