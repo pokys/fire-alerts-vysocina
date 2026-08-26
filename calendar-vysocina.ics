@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:418524061
-DTSTART:20260824T193059Z
-DTEND:20260824T203059Z
-DTSTAMP:20260824T193059Z
-SUMMARY:🚗 dopravní nehoda - Pacov
-LOCATION:Pacov
-GEO:49.481164;15.047827
-URL:geo:49.481164,15.047827
-DESCRIPTION:📍 Roučkovice\, Pacov\, Pelhřimov\n💬 DN 1 OA\, se zraněním jedné
-  osoby. Jednotka provedla zajištění místa nehody.\n\n🚒 CAS (HS Pacov)
-END:VEVENT
-BEGIN:VEVENT
 UID:418525061
 DTSTART:20260824T201051Z
 DTEND:20260824T211051Z
@@ -774,6 +762,7 @@ LOCATION:Mastník
 GEO:49.181826;15.840477
 URL:geo:49.181826,15.840477
 DESCRIPTION:📍 Mastník\, Třebíč\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (CHS Třebíč)\n🚒
-  DA (Mastník)\n🚒 automobilová stříkačka (Stařeč)\n🚒 CAS (Stařeč)
+  DA (Mastník)\n🚒 automobilová stříkačka (Stařeč)\n🚒 CAS (Stařeč)\n🚒 vyšetř
+ ovací automobil (ÚO Třebíč)
 END:VEVENT
 END:VCALENDAR
