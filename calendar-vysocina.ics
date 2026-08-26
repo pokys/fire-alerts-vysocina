@@ -886,4 +886,17 @@ URL:geo:49.600646,15.181779
 DESCRIPTION:📍 Hořice\, Pelhřimov\n\n🚒 CAS (Hořice)\n🚒 vozidlo účelové - SxS
   (Hořice)
 END:VEVENT
+BEGIN:VEVENT
+UID:418614061
+DTSTART:20260826T120254Z
+DTEND:20260826T130254Z
+DTSTAMP:20260826T120254Z
+SUMMARY:🔥 tráva/plocha - Moravské Budějovice
+LOCATION:Moravské Budějovice
+GEO:49.062151;15.809579
+URL:geo:49.062151,15.809579
+DESCRIPTION:📍 Moravské Budějovice\, Třebíč\n\n🚒 CAS (HS Moravské Budějovice
+ )\n🚒 CAS (HS Moravské Budějovice)\n🚒 CAS (Jaroměřice nad Rokytnou)\n🚒 CAS 
+ (Jaroměřice nad Rokytnou)\n🚒 CAS (Moravské Budějovice)
+END:VEVENT
 END:VCALENDAR
