@@ -5,22 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:418489061
-DTSTART:20260824T115250Z
-DTEND:20260824T125250Z
-DTSTAMP:20260824T115250Z
-SUMMARY:🔥 les - Bory
-LOCATION:Bory
-GEO:49.439920;16.012681
-URL:geo:49.439920,16.012681
-DESCRIPTION:📍 Dolní Bory\, Bory\, Žďár nad Sázavou\n💬 Požár lesního porostu
- .\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 DA (Bory)\n🚒 CAS (Bory)\n🚒 přívěs techni
- cký (Bory)\n🚒 CAS (Ostrov nad Oslavou)\n🚒 CAS (Radostín nad Oslavou)\n🚒 CA
- S (Krásněves)\n🚒 CAS (Pavlov (ZR))\n🚒 vyšetřovací automobil (ÚO Žďár nad S
- ázavou)\n🚒 CAS (Křižanov)\n🚒 DA (Bobrová)\n🚒 CAS (Bobrová)\n🚒 CAS (Velké M
- eziříčí)\n🚒 CAS (Velké Meziříčí)
-END:VEVENT
-BEGIN:VEVENT
 UID:418490061
 DTSTART:20260824T115920Z
 DTEND:20260824T125920Z
@@ -899,8 +883,8 @@ LOCATION:Modřínová\, Třebíč
 GEO:49.218052;15.895925
 URL:geo:49.218052,15.895925
 DESCRIPTION:📍 Modřínová\, Nové Dvory\, Třebíč\n💬 Požár kontejneru na komuná
- lní odpad\, uhašeno před příjezdem jednotky.\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS 
- (CHS Třebíč)
+ lní odpad\, beze škody\, uhašeno před příjezdem jednotky.\n\n🚒 CAS (CHS Tř
+ ebíč)\n🚒 CAS (CHS Třebíč)
 END:VEVENT
 BEGIN:VEVENT
 UID:418612061
