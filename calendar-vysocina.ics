@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:418492061
-DTSTART:20260824T124937Z
-DTEND:20260824T134937Z
-DTSTAMP:20260824T124937Z
-SUMMARY:⚠️ planý poplach - Žďár nad Sázavou
-LOCATION:Revoluční\, Žďár nad Sázavou
-GEO:49.563899;15.930299
-URL:geo:49.563899,15.930299
-DESCRIPTION:📍 Revoluční\, Žďár nad Sázavou\n💬 Ohlášen únik plynu\, průzkume
- m zjištěno\, že se jedná o planý poplach.\n\n🚒 CAS (CHS Žďár nad Sázavou)
-END:VEVENT
-BEGIN:VEVENT
 UID:418495061
 DTSTART:20260824T135257Z
 DTEND:20260824T145257Z
@@ -883,8 +871,8 @@ SUMMARY:🛠️ ostatní - Hořice
 LOCATION:Hořice
 GEO:49.600646;15.181779
 URL:geo:49.600646,15.181779
-DESCRIPTION:📍 Hořice\, Pelhřimov\n\n🚒 CAS (Hořice)\n🚒 vozidlo účelové - SxS
-  (Hořice)
+DESCRIPTION:📍 Hořice\, Pelhřimov\n💬 Ucpaná kanalizace.\n\n🚒 CAS (Hořice)\n🚒
+  vozidlo účelové - SxS (Hořice)
 END:VEVENT
 BEGIN:VEVENT
 UID:418614061
