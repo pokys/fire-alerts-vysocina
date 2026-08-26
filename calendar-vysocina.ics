@@ -5,54 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:418505061
-DTSTART:20260824T161011Z
-DTEND:20260824T171011Z
-DTSTAMP:20260824T161011Z
-SUMMARY:🛠️ obtížný hmyz - Kamenice nad Lipou
-LOCATION:Komenského\, Kamenice nad Lipou
-GEO:49.302318;15.074026
-URL:geo:49.302318,15.074026
-DESCRIPTION:📍 Komenského\, Kamenice nad Lipou\, Pelhřimov\n💬 Odstranění obt
- ížného hmyzu.\n\n🚒 CAS (Kamenice nad Lipou)
-END:VEVENT
-BEGIN:VEVENT
-UID:418506061
-DTSTART:20260824T161105Z
-DTEND:20260824T171105Z
-DTSTAMP:20260824T161105Z
-SUMMARY:🛠️ obtížný hmyz - Jihlava
-LOCATION:Okrajová\, Jihlava
-GEO:49.415973;15.564014
-URL:geo:49.415973,15.564014
-DESCRIPTION:📍 Okrajová\, Staré Hory\, Jihlava\n💬 Odstranění obtížného hmyzu
- .\n\n🚒 CAS (CHS Jihlava)\n🚒 AŽ (CHS Jihlava)
-END:VEVENT
-BEGIN:VEVENT
-UID:418507061
-DTSTART:20260824T161200Z
-DTEND:20260824T171200Z
-DTSTAMP:20260824T161200Z
-SUMMARY:🛠️ obtížný hmyz - Zbilidy
-LOCATION:Zbilidy
-GEO:49.438266;15.442748
-URL:geo:49.438266,15.442748
-DESCRIPTION:📍 Zbilidy\, Jihlava\n💬 Odstranění obtížného hmyzu.\n\n🚒 DA (Zbi
- lidy)
-END:VEVENT
-BEGIN:VEVENT
-UID:418508061
-DTSTART:20260824T161203Z
-DTEND:20260824T171203Z
-DTSTAMP:20260824T161203Z
-SUMMARY:🛠️ obtížný hmyz - Ždírec nad Doubravou
-LOCATION:Na Kopaninách\, Ždírec nad Doubravou
-GEO:49.692810;15.812949
-URL:geo:49.692810,15.812949
-DESCRIPTION:📍 Na Kopaninách\, Ždírec nad Doubravou\, Havlíčkův Brod\n💬 Odst
- ranění obtížného hmyzu.\n\n🚒 CAS (Ždírec nad Doubravou)
-END:VEVENT
-BEGIN:VEVENT
 UID:418511061
 DTSTART:20260824T162541Z
 DTEND:20260824T172541Z
@@ -810,7 +762,8 @@ SUMMARY:🛠️ ostatní - Nová Cerekev
 LOCATION:Nová Cerekev
 GEO:49.417234;15.116745
 URL:geo:49.417234,15.116745
-DESCRIPTION:📍 Nová Cerekev\, Pelhřimov\n\n🚒 CAS (Nová Cerekev)
+DESCRIPTION:📍 Nová Cerekev\, Pelhřimov\n💬 Čištění komuniakce\n\n🚒 CAS (Nová
+  Cerekev)
 END:VEVENT
 BEGIN:VEVENT
 UID:418616061
@@ -845,7 +798,8 @@ SUMMARY:🛠️ obtížný hmyz - Batelov
 LOCATION:Za Tratí\, Batelov
 GEO:49.318296;15.391667
 URL:geo:49.318296,15.391667
-DESCRIPTION:📍 Za Tratí\, Batelov\, Jihlava\n\n🚒 CAS (Batelov)
+DESCRIPTION:📍 Za Tratí\, Batelov\, Jihlava\n💬 Odstranění obtížného hmyzu.\n
+ \n🚒 CAS (Batelov)
 END:VEVENT
 BEGIN:VEVENT
 UID:418619061
@@ -880,6 +834,7 @@ SUMMARY:🛠️ obtížný hmyz - Batelov
 LOCATION:Za Tratí\, Batelov
 GEO:49.318637;15.392849
 URL:geo:49.318637,15.392849
-DESCRIPTION:📍 Za Tratí\, Batelov\, Jihlava\n\n🚒 CAS (Batelov)
+DESCRIPTION:📍 Za Tratí\, Batelov\, Jihlava\n💬 Odstranění obtížného hmyzu.\n
+ \n🚒 CAS (Batelov)
 END:VEVENT
 END:VCALENDAR
