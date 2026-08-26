@@ -825,4 +825,40 @@ URL:geo:49.318637,15.392849
 DESCRIPTION:📍 Za Tratí\, Batelov\, Jihlava\n💬 Odstranění obtížného hmyzu.\n
  \n🚒 CAS (Batelov)
 END:VEVENT
+BEGIN:VEVENT
+UID:418622061
+DTSTART:20260826T161317Z
+DTEND:20260826T171317Z
+DTSTAMP:20260826T161317Z
+SUMMARY:🛠️ obtížný hmyz - Dolní Město
+LOCATION:Dolní Město
+GEO:49.624280;15.384989
+URL:geo:49.624280,15.384989
+DESCRIPTION:📍 Dolní Město\, Havlíčkův Brod\n💬 Odstranění obtížného hmyzu.\n
+ \n🚒 CAS (HS Světlá nad Sázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:418623061
+DTSTART:20260826T162614Z
+DTEND:20260826T172614Z
+DTSTAMP:20260826T162614Z
+SUMMARY:🛠️ otevření bytu/auta - Hamry nad Sázavou
+LOCATION:Hamry nad Sázavou
+GEO:49.566829;15.909378
+URL:geo:49.566829,15.909378
+DESCRIPTION:📍 Hamry nad Sázavou\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad S
+ ázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:418624061
+DTSTART:20260826T163131Z
+DTEND:20260826T173131Z
+DTSTAMP:20260826T163131Z
+SUMMARY:🛠️ ostatní - Golčův Jeníkov
+LOCATION:Golčův Jeníkov
+GEO:49.797027;15.437781
+URL:geo:49.797027,15.437781
+DESCRIPTION:📍 Golčův Jeníkov\, Havlíčkův Brod\n💬 Odstranění nečistot z poze
+ mní komunikace po přívalovém dešti.\n\n🚒 CAS (Golčův Jeníkov)
+END:VEVENT
 END:VCALENDAR
