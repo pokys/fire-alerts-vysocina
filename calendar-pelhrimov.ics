@@ -124,4 +124,16 @@ URL:geo:49.417234,15.116745
 DESCRIPTION:📍 Nová Cerekev\, Pelhřimov\n💬 Čištění komunikace.\n\n🚒 CAS (Nov
  á Cerekev)
 END:VEVENT
+BEGIN:VEVENT
+UID:418634061
+DTSTART:20260827T054357Z
+DTEND:20260827T064357Z
+DTSTAMP:20260827T054357Z
+SUMMARY:🚑 transport pacienta - Pelhřimov
+LOCATION:U Rendlíku\, Pelhřimov
+GEO:49.431981;15.217658
+URL:geo:49.431981,15.217658
+DESCRIPTION:📍 U Rendlíku\, Pelhřimov\n💬 Transport pacienta na žádost ZZS.\n
+ \n🚒 CAS (CHS Pelhřimov)
+END:VEVENT
 END:VCALENDAR
