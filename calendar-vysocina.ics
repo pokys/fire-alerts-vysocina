@@ -762,7 +762,8 @@ SUMMARY:🛠️ ostatní - Třebíč
 LOCATION:Manž. Curieových\, Třebíč
 GEO:49.226492;15.890662
 URL:geo:49.226492,15.890662
-DESCRIPTION:📍 Manž. Curieových\, Nové Dvory\, Třebíč\n\n🚒 CAS (CHS Třebíč)
+DESCRIPTION:📍 Manž. Curieových\, Nové Dvory\, Třebíč\n💬 Zastavení úniku vod
+ y v bytě po poruše.\n\n🚒 CAS (CHS Třebíč)
 END:VEVENT
 BEGIN:VEVENT
 UID:418630061
@@ -773,7 +774,8 @@ SUMMARY:🚗 dopravní nehoda - Velké Meziříčí
 LOCATION:Velké Meziříčí
 GEO:49.355992;16.008016
 URL:geo:49.355992,16.008016
-DESCRIPTION:📍 Velké Meziříčí\, Žďár nad Sázavou\n\n🚒 CAS (HS Velké Meziříčí
- )\n🚒 RZA (HS Velké Meziříčí)
+DESCRIPTION:📍 Velké Meziříčí\, Žďár nad Sázavou\n💬 DN motorky\, 1 zraněná o
+ soba. Zajištění místa nehody.\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (HS Velk
+ é Meziříčí)
 END:VEVENT
 END:VCALENDAR
