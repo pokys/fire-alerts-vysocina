@@ -5,30 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:418568061
-DTSTART:20260825T135857Z
-DTEND:20260825T145857Z
-DTSTAMP:20260825T135857Z
-SUMMARY:🛠️ obtížný hmyz - Sobíňov
-LOCATION:Sobíňov
-GEO:49.697540;15.761197
-URL:geo:49.697540,15.761197
-DESCRIPTION:📍 Sobíňov\, Havlíčkův Brod\n💬 Odstranění obtížného hmyzu.\n\n🚒 
- CAS (Sobíňov)
-END:VEVENT
-BEGIN:VEVENT
-UID:418569061
-DTSTART:20260825T140005Z
-DTEND:20260825T150005Z
-DTSTAMP:20260825T140005Z
-SUMMARY:🛠️ obtížný hmyz - Sobíňov
-LOCATION:Sobíňov
-GEO:49.701934;15.768360
-URL:geo:49.701934,15.768360
-DESCRIPTION:📍 Sobíňov\, Havlíčkův Brod\n💬 Odstranění obtížného hmyzu.\n\n🚒 
- CAS (Sobíňov)
-END:VEVENT
-BEGIN:VEVENT
 UID:418570061
 DTSTART:20260825T141719Z
 DTEND:20260825T151719Z
@@ -699,7 +675,8 @@ SUMMARY:☣️ plyn - Rantířov
 LOCATION:Rantířov
 GEO:49.406360;15.528940
 URL:geo:49.406360,15.528940
-DESCRIPTION:📍 Rantířov\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+DESCRIPTION:📍 Rantířov\, Jihlava\n💬 Zajištění narušené plynové přípojky.\n\
+ n🚒 CAS (CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:418667061
@@ -722,8 +699,9 @@ SUMMARY:🚗 dopravní nehoda - Vepřová
 LOCATION:Vepřová
 GEO:49.617810;15.837545
 URL:geo:49.617810,15.837545
-DESCRIPTION:📍 Vepřová\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒
-  CAS (Přibyslav)
+DESCRIPTION:📍 Vepřová\, Žďár nad Sázavou\n💬 DN cyklisty. Poskytnuta předlék
+ ařská péče. Zajištění místa.\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (Přiby
+ slav)
 END:VEVENT
 BEGIN:VEVENT
 UID:418669061
@@ -753,11 +731,23 @@ UID:418671061
 DTSTART:20260827T132540Z
 DTEND:20260827T142540Z
 DTSTAMP:20260827T132540Z
-SUMMARY:🛠️ otevření bytu/auta - Velké Meziříčí
+SUMMARY:🚑 otevření/asistence - Velké Meziříčí
 LOCATION:Nad Gymnáziem\, Velké Meziříčí
 GEO:49.353422;16.022234
 URL:geo:49.353422,16.022234
-DESCRIPTION:📍 Nad Gymnáziem\, Velké Meziříčí\, Žďár nad Sázavou\n\n🚒 RZA (H
- S Velké Meziříčí)
+DESCRIPTION:📍 Nad Gymnáziem\, Velké Meziříčí\, Žďár nad Sázavou\n💬 Otevření
+  rodinného domu.\n\n🚒 RZA (HS Velké Meziříčí)
+END:VEVENT
+BEGIN:VEVENT
+UID:418672061
+DTSTART:20260827T133902Z
+DTEND:20260827T143902Z
+DTSTAMP:20260827T133902Z
+SUMMARY:🛠️ obtížný hmyz - Bystřice nad Pernštejnem
+LOCATION:Masarykovo náměstí\, Bystřice nad Pernštejnem
+GEO:49.524417;16.258458
+URL:geo:49.524417,16.258458
+DESCRIPTION:📍 Masarykovo náměstí\, Bystřice nad Pernštejnem\, Žďár nad Sáza
+ vou\n\n🚒 CAS (HS Bystřice nad Pernštejnem)
 END:VEVENT
 END:VCALENDAR
