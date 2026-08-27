@@ -15,7 +15,7 @@ GEO:49.144714;15.564124
 URL:geo:49.144714,15.564124
 DESCRIPTION:📍 Staroříšská\, Nová Říše\, Jihlava\n💬 Požár trávy menšího rozs
  ahu\, provedena lokalizace a likvidace.\n\n🚒 CAS (HS Telč)\n🚒 CAS (HS Telč
- )\n🚒 CAS (Nová Říše)\n🚒 DA (Stará Říše)\n🚒 CAS (Stará Říše)
+ )\n🚒 CAS (Nová Říše)\n🚒 CAS (Stará Říše)
 END:VEVENT
 BEGIN:VEVENT
 UID:418534061
@@ -767,7 +767,8 @@ SUMMARY:🛠️ obtížný hmyz - Pavlov
 LOCATION:Pavlov
 GEO:49.244145;15.555249
 URL:geo:49.244145,15.555249
-DESCRIPTION:📍 Pavlov\, Jihlava\n\n🚒 CAS (Pavlov (JI))\n🚒 CAS (HS Třešť)
+DESCRIPTION:📍 Pavlov\, Jihlava\n💬 Odstranění obtížného hmyzu.\n\n🚒 CAS (Pav
+ lov (JI))\n🚒 CAS (HS Třešť)
 END:VEVENT
 BEGIN:VEVENT
 UID:418634061
@@ -792,5 +793,17 @@ GEO:49.402608;15.225921
 URL:geo:49.402608,15.225921
 DESCRIPTION:📍 K Silu\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (CHS Pelhř
  imov)
+END:VEVENT
+BEGIN:VEVENT
+UID:418637061
+DTSTART:20260827T063046Z
+DTEND:20260827T073046Z
+DTSTAMP:20260827T063046Z
+SUMMARY:🛠️ obtížný hmyz - Dvorce
+LOCATION:Dvorce
+GEO:49.378475;15.494380
+URL:geo:49.378475,15.494380
+DESCRIPTION:📍 Dvorce\, Jihlava\n💬 Odstranění obtížného hmyzu.\n\n🚒 CAS (CHS
+  Jihlava)
 END:VEVENT
 END:VCALENDAR
