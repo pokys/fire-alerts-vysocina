@@ -428,7 +428,7 @@ LOCATION:Nová Cerekev
 GEO:49.417234;15.116745
 URL:geo:49.417234,15.116745
 DESCRIPTION:📍 Nová Cerekev\, Pelhřimov\n💬 Čištění komunikace.\n\n🚒 CAS (Nov
- á Cerekev)
+ á Cerekev)\n🚒 čerpadlo plovoucí (Nová Cerekev)
 END:VEVENT
 BEGIN:VEVENT
 UID:418616061
@@ -697,7 +697,7 @@ URL:geo:49.032966,15.776399
 DESCRIPTION:📍 Jackov\, Moravské Budějovice\, Třebíč\n💬 Požár trávy 100x50m.
  \n\n🚒 CAS (HS Jemnice)\n🚒 CAS (HS Moravské Budějovice)\n🚒 CAS (HS Moravské
   Budějovice)\n🚒 přívěs motorová stříkačka (Moravské Budějovice-Jackov)\n🚒 
- CAS (Moravské Budějovice)
+ CAS (Moravské Budějovice)\n🚒 vyšetřovací automobil (ÚO Třebíč)
 END:VEVENT
 BEGIN:VEVENT
 UID:418649061
@@ -708,17 +708,42 @@ SUMMARY:🚑 transport pacienta - Vílanec
 LOCATION:Vílanec
 GEO:49.335228;15.577510
 URL:geo:49.335228,15.577510
-DESCRIPTION:📍 Vílanec\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+DESCRIPTION:📍 Vílanec\, Jihlava\n💬 Asistence ZZS  a transport pacienta do v
+ ozu ZZS.\n\n🚒 CAS (CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:418650061
 DTSTART:20260827T082743Z
 DTEND:20260827T092743Z
 DTSTAMP:20260827T082743Z
-SUMMARY:🔥 vozidlo - Rybné
+SUMMARY:⚠️ planý poplach - Rybné
 LOCATION:Rybné
 GEO:49.410778;15.736081
 URL:geo:49.410778,15.736081
-DESCRIPTION:📍 Rybné\, Jihlava\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihlava)
+DESCRIPTION:📍 Rybné\, Jihlava\n💬 Planý poplach.\n\n🚒 CAS (CHS Jihlava)\n🚒 R
+ ZA (CHS Jihlava)
+END:VEVENT
+BEGIN:VEVENT
+UID:418651061
+DTSTART:20260827T084208Z
+DTEND:20260827T094208Z
+DTSTAMP:20260827T084208Z
+SUMMARY:🛠️ otevření bytu/auta - Nové Město na Moravě
+LOCATION:Tyršova\, Nové Město na Moravě
+GEO:49.565330;16.075317
+URL:geo:49.565330,16.075317
+DESCRIPTION:📍 Tyršova\, Nové Město na Moravě\, Žďár nad Sázavou\n\n🚒 CAS (C
+ HS Žďár nad Sázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:418652061
+DTSTART:20260827T084344Z
+DTEND:20260827T094344Z
+DTSTAMP:20260827T084344Z
+SUMMARY:🚑 transport pacienta - Pacov
+LOCATION:Myslíkova\, Pacov
+GEO:49.475148;15.007971
+URL:geo:49.475148,15.007971
+DESCRIPTION:📍 Myslíkova\, Pacov\, Pelhřimov\n\n🚒 CAS (HS Pacov)
 END:VEVENT
 END:VCALENDAR
