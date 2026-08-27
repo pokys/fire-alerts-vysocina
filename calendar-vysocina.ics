@@ -795,7 +795,18 @@ SUMMARY:🛠️ obtížný hmyz - Okříšky
 LOCATION:Na kopečku\, Okříšky
 GEO:49.243474;15.769271
 URL:geo:49.243474,15.769271
-DESCRIPTION:📍 Na kopečku\, Okříšky\, Třebíč\n\n🚒 DA (Okříšky)\n🚒 CAS (Okříš
- ky)
+DESCRIPTION:📍 Na kopečku\, Okříšky\, Třebíč\n💬 Odstranění obtížného hmyzu.\
+ n\n🚒 DA (Okříšky)\n🚒 CAS (Okříšky)
+END:VEVENT
+BEGIN:VEVENT
+UID:418688061
+DTSTART:20260827T175035Z
+DTEND:20260827T185035Z
+DTSTAMP:20260827T175035Z
+SUMMARY:🛠️ obtížný hmyz - Stařeč
+LOCATION:Nová Čtvrť\, Stařeč
+GEO:49.202204;15.831184
+URL:geo:49.202204,15.831184
+DESCRIPTION:📍 Nová Čtvrť\, Stařeč\, Třebíč\n\n🚒 DA (Stařeč)\n🚒 CAS (Stařeč)
 END:VEVENT
 END:VCALENDAR
