@@ -5,42 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:418550061
-DTSTART:20260825T090106Z
-DTEND:20260825T100106Z
-DTSTAMP:20260825T090106Z
-SUMMARY:🛠️ otevření bytu/auta - Ledeč nad Sázavou
-LOCATION:Stínadla\, Ledeč nad Sázavou
-GEO:49.701569;15.273446
-URL:geo:49.701569,15.273446
-DESCRIPTION:📍 Stínadla\, Ledeč nad Sázavou\, Havlíčkův Brod\n💬 Otevření byt
- u.\n\n🚒 CAS (HS Ledeč nad Sázavou)
-END:VEVENT
-BEGIN:VEVENT
-UID:418551061
-DTSTART:20260825T091227Z
-DTEND:20260825T101227Z
-DTSTAMP:20260825T091227Z
-SUMMARY:🛠️ obtížný hmyz - Velká Bíteš
-LOCATION:Velká Bíteš
-GEO:49.279618;16.243775
-URL:geo:49.279618,16.243775
-DESCRIPTION:📍 Janovice\, Velká Bíteš\, Žďár nad Sázavou\n💬 Odstranění obtíž
- ného hmyzu.\n\n🚒 CAS (HS Velká Bíteš)
-END:VEVENT
-BEGIN:VEVENT
-UID:418552061
-DTSTART:20260825T091252Z
-DTEND:20260825T101252Z
-DTSTAMP:20260825T091252Z
-SUMMARY:🛠️ strom - Zbilidy
-LOCATION:Zbilidy
-GEO:49.434368;15.436221
-URL:geo:49.434368,15.436221
-DESCRIPTION:📍 Zbilidy\, Jihlava\n💬 Odstranění stromu.\n\n🚒 CAS (Zbilidy)\n🚒
-  CAS (Opatov (JI))\n🚒 CAS (Větrný Jeníkov)
-END:VEVENT
-BEGIN:VEVENT
 UID:418554061
 DTSTART:20260825T092843Z
 DTEND:20260825T102843Z
@@ -695,9 +659,10 @@ LOCATION:Moravské Budějovice
 GEO:49.032966;15.776399
 URL:geo:49.032966,15.776399
 DESCRIPTION:📍 Jackov\, Moravské Budějovice\, Třebíč\n💬 Požár trávy 100x50m.
- \n\n🚒 CAS (HS Jemnice)\n🚒 CAS (HS Moravské Budějovice)\n🚒 CAS (HS Moravské
-  Budějovice)\n🚒 přívěs motorová stříkačka (Moravské Budějovice-Jackov)\n🚒 
- CAS (Moravské Budějovice)\n🚒 vyšetřovací automobil (ÚO Třebíč)
+  Lokalizace a likvidace.\n\n🚒 CAS (HS Jemnice)\n🚒 CAS (HS Moravské Budějov
+ ice)\n🚒 CAS (HS Moravské Budějovice)\n🚒 přívěs motorová stříkačka (Moravsk
+ é Budějovice-Jackov)\n🚒 CAS (Moravské Budějovice)\n🚒 vyšetřovací automobil
+  (ÚO Třebíč)
 END:VEVENT
 BEGIN:VEVENT
 UID:418649061
@@ -744,6 +709,42 @@ SUMMARY:🚑 transport pacienta - Pacov
 LOCATION:Myslíkova\, Pacov
 GEO:49.475148;15.007971
 URL:geo:49.475148,15.007971
-DESCRIPTION:📍 Myslíkova\, Pacov\, Pelhřimov\n\n🚒 CAS (HS Pacov)
+DESCRIPTION:📍 Myslíkova\, Pacov\, Pelhřimov\n💬 Transport pacienta na žádost
+  ZZS.\n\n🚒 CAS (HS Pacov)
+END:VEVENT
+BEGIN:VEVENT
+UID:418654061
+DTSTART:20260827T085742Z
+DTEND:20260827T095742Z
+DTSTAMP:20260827T085742Z
+SUMMARY:🛠️ obtížný hmyz - Žďár nad Sázavou
+LOCATION:Strojírenská\, Žďár nad Sázavou
+GEO:49.557636;15.934127
+URL:geo:49.557636,15.934127
+DESCRIPTION:📍 Strojírenská\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n💬 Odstr
+ anění obtížného hmyzu.\n\n🚒 CAS (CHS Žďár nad Sázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:418655061
+DTSTART:20260827T085916Z
+DTEND:20260827T095916Z
+DTSTAMP:20260827T085916Z
+SUMMARY:⚠️ planý poplach - Pelhřimov
+LOCATION:Hrdinova\, Pelhřimov
+GEO:49.404821;15.224839
+URL:geo:49.404821,15.224839
+DESCRIPTION:📍 Hrdinova\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (CHS Pel
+ hřimov)
+END:VEVENT
+BEGIN:VEVENT
+UID:418656061
+DTSTART:20260827T085923Z
+DTEND:20260827T095923Z
+DTSTAMP:20260827T085923Z
+SUMMARY:🚗 se zraněním - Moravské Budějovice
+LOCATION:Moravské Budějovice
+GEO:49.041201;15.789617
+URL:geo:49.041201,15.789617
+DESCRIPTION:📍 Moravské Budějovice\, Třebíč\n\n🚒 CAS (Moravské Budějovice)
 END:VEVENT
 END:VCALENDAR
