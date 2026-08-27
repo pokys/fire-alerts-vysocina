@@ -5,17 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Pelhřimov
 BEGIN:VEVENT
-UID:418555061
-DTSTART:20260825T093927Z
-DTEND:20260825T103927Z
-DTSTAMP:20260825T093927Z
-SUMMARY:🛠️ ostatní - Želiv
-LOCATION:Želiv
-GEO:49.517098;15.208611
-URL:geo:49.517098,15.208611
-DESCRIPTION:📍 Želiv\, Pelhřimov\n💬 Odchyt hada.\n\n🚒 CAS (HS Humpolec)
-END:VEVENT
-BEGIN:VEVENT
 UID:418565061
 DTSTART:20260825T130025Z
 DTEND:20260825T140025Z
@@ -133,7 +122,8 @@ SUMMARY:⚠️ planý poplach - Pelhřimov
 LOCATION:Hrdinova\, Pelhřimov
 GEO:49.404821;15.224839
 URL:geo:49.404821,15.224839
-DESCRIPTION:📍 Hrdinova\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (CHS Pel
- hřimov)
+DESCRIPTION:📍 Hrdinova\, Pelhřimov\n💬 Požár ohlášený systémem elektrické po
+ žární signalizace. Průzkumem bylo zjištěno\, že se jedná o planý poplach.\
+ n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (CHS Pelhřimov)
 END:VEVENT
 END:VCALENDAR
