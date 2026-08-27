@@ -484,18 +484,8 @@ LOCATION:Okružní\, Humpolec
 GEO:49.542001;15.345036
 URL:geo:49.542001,15.345036
 DESCRIPTION:📍 Okružní\, Humpolec\, Pelhřimov\n💬 DN traktoru s cisternou pře
- vážející vodu.\n\n🚒 CAS (HS Humpolec)\n🚒 RZA (HS Humpolec)
-END:VEVENT
-BEGIN:VEVENT
-UID:418603061
-DTSTART:20260826T073238Z
-DTEND:20260826T083238Z
-DTSTAMP:20260826T073238Z
-SUMMARY:🚨 Jihlava
-LOCATION:Ke Skalce\, Jihlava
-GEO:49.393170;15.579911
-URL:geo:49.393170,15.579911
-DESCRIPTION:📍 Ke Skalce\, Jihlava\n💬 DN vozidla HZS
+ vážející vodu. Bez zranění. Zajištění místa nehody.\n\n🚒 CAS (HS Humpolec)
+ \n🚒 RZA (HS Humpolec)
 END:VEVENT
 BEGIN:VEVENT
 UID:418604061
@@ -506,8 +496,8 @@ SUMMARY:🛠️ ostatní - Puklice
 LOCATION:Puklice
 GEO:49.365798;15.634163
 URL:geo:49.365798,15.634163
-DESCRIPTION:📍 Studénky\, Puklice\, Jihlava\n💬 provizorní oprava požeráku na
-  rybníce\n\n🚒 CAS (CHS Jihlava)
+DESCRIPTION:📍 Studénky\, Puklice\, Jihlava\n💬 Provizorní zajištění požeráku
+  na rybníce\n\n🚒 CAS (CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:418607061
@@ -531,7 +521,8 @@ LOCATION:Masarykovo nám.\, Náměšť nad Oslavou
 GEO:49.207172;16.157382
 URL:geo:49.207172,16.157382
 DESCRIPTION:📍 Masarykovo nám.\, Náměšť nad Oslavou\, Třebíč\n💬 Dopravní neh
- oda 3 OA bez zranění\, úklid vozovky.\n\n🚒 CAS (HS Náměšť nad Oslavou)
+ oda 3 OA\, bez zranění. Zajištění místa události\, úklid vozovky.\n\n🚒 CAS
+  (HS Náměšť nad Oslavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:418609061
@@ -579,8 +570,8 @@ SUMMARY:🛠️ ostatní - Hořice
 LOCATION:Hořice
 GEO:49.600646;15.181779
 URL:geo:49.600646,15.181779
-DESCRIPTION:📍 Hořice\, Pelhřimov\n💬 Ucpaná kanalizace.\n\n🚒 CAS (Hořice)\n🚒
-  vozidlo účelové - SxS (Hořice)
+DESCRIPTION:📍 Hořice\, Pelhřimov\n💬 Pročištění ucpané kanalizace.\n\n🚒 CAS 
+ (Hořice)\n🚒 vozidlo účelové - SxS (Hořice)
 END:VEVENT
 BEGIN:VEVENT
 UID:418614061
@@ -592,9 +583,9 @@ LOCATION:Moravské Budějovice
 GEO:49.062151;15.809579
 URL:geo:49.062151,15.809579
 DESCRIPTION:📍 Moravské Budějovice\, Třebíč\n💬 Požár strniště. Lokalizace a 
- likvidace.\n\n🚒 CAS (HS Moravské Budějovice)\n🚒 CAS (HS Moravské Budějovic
- e)\n🚒 CAS (Jaroměřice nad Rokytnou)\n🚒 CAS (Jaroměřice nad Rokytnou)\n🚒 CA
- S (Moravské Budějovice)
+ likvidace události.\n\n🚒 CAS (HS Moravské Budějovice)\n🚒 CAS (HS Moravské 
+ Budějovice)\n🚒 CAS (Jaroměřice nad Rokytnou)\n🚒 CAS (Jaroměřice nad Rokytn
+ ou)\n🚒 CAS (Moravské Budějovice)
 END:VEVENT
 BEGIN:VEVENT
 UID:418615061
@@ -689,8 +680,8 @@ SUMMARY:🛠️ obtížný hmyz - Dolní Město
 LOCATION:Dolní Město
 GEO:49.624280;15.384989
 URL:geo:49.624280,15.384989
-DESCRIPTION:📍 Dolní Město\, Havlíčkův Brod\n💬 Likvidace nebezpečného hmyzu.
- \n\n🚒 CAS (HS Světlá nad Sázavou)
+DESCRIPTION:📍 Dolní Město\, Havlíčkův Brod\n💬 Odstranění obtížného hmyzu.\n
+ \n🚒 CAS (HS Světlá nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:418623061
@@ -749,9 +740,10 @@ SUMMARY:🔥 tráva/plocha - Mastník
 LOCATION:Mastník
 GEO:49.181826;15.840477
 URL:geo:49.181826,15.840477
-DESCRIPTION:📍 Mastník\, Třebíč\n💬 Požár trávy.\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS
-  (CHS Třebíč)\n🚒 DA (Mastník)\n🚒 automobilová stříkačka (Stařeč)\n🚒 CAS (S
- tařeč)\n🚒 vyšetřovací automobil (ÚO Třebíč)
+DESCRIPTION:📍 Mastník\, Třebíč\n💬 Požár trávy. Beze škody. Lokalizace a lik
+ vidace události.\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (CHS Třebíč)\n🚒 DA (Mastník)
+ \n🚒 automobilová stříkačka (Stařeč)\n🚒 CAS (Stařeč)\n🚒 vyšetřovací automob
+ il (ÚO Třebíč)
 END:VEVENT
 BEGIN:VEVENT
 UID:418629061
@@ -763,7 +755,7 @@ LOCATION:Manž. Curieových\, Třebíč
 GEO:49.226492;15.890662
 URL:geo:49.226492,15.890662
 DESCRIPTION:📍 Manž. Curieových\, Nové Dvory\, Třebíč\n💬 Zastavení úniku vod
- y v bytě po poruše.\n\n🚒 CAS (CHS Třebíč)
+ y v bytě po technické závadě.\n\n🚒 CAS (CHS Třebíč)
 END:VEVENT
 BEGIN:VEVENT
 UID:418630061

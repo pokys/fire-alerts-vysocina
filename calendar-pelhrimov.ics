@@ -97,7 +97,8 @@ LOCATION:Okružní\, Humpolec
 GEO:49.542001;15.345036
 URL:geo:49.542001,15.345036
 DESCRIPTION:📍 Okružní\, Humpolec\, Pelhřimov\n💬 DN traktoru s cisternou pře
- vážející vodu.\n\n🚒 CAS (HS Humpolec)\n🚒 RZA (HS Humpolec)
+ vážející vodu. Bez zranění. Zajištění místa nehody.\n\n🚒 CAS (HS Humpolec)
+ \n🚒 RZA (HS Humpolec)
 END:VEVENT
 BEGIN:VEVENT
 UID:418612061
@@ -108,8 +109,8 @@ SUMMARY:🛠️ ostatní - Hořice
 LOCATION:Hořice
 GEO:49.600646;15.181779
 URL:geo:49.600646,15.181779
-DESCRIPTION:📍 Hořice\, Pelhřimov\n💬 Ucpaná kanalizace.\n\n🚒 CAS (Hořice)\n🚒
-  vozidlo účelové - SxS (Hořice)
+DESCRIPTION:📍 Hořice\, Pelhřimov\n💬 Pročištění ucpané kanalizace.\n\n🚒 CAS 
+ (Hořice)\n🚒 vozidlo účelové - SxS (Hořice)
 END:VEVENT
 BEGIN:VEVENT
 UID:418615061
