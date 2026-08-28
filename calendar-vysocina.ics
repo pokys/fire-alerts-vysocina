@@ -915,4 +915,16 @@ URL:geo:49.693659,15.305327
 DESCRIPTION:📍 Ostrov\, Havlíčkův Brod\n💬 Odstranění stromu.\n\n🚒 CAS (HS Le
  deč nad Sázavou)
 END:VEVENT
+BEGIN:VEVENT
+UID:418727061
+DTSTART:20260828T113542Z
+DTEND:20260828T123542Z
+DTSTAMP:20260828T113542Z
+SUMMARY:🛠️ obtížný hmyz - Loukovice
+LOCATION:Loukovice
+GEO:49.136148;15.793708
+URL:geo:49.136148,15.793708
+DESCRIPTION:📍 Loukovice\, Třebíč\n💬 Odstranění obtížného hmyzu.\n\n🚒 CAS (J
+ aroměřice nad Rokytnou)
+END:VEVENT
 END:VCALENDAR
