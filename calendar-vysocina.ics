@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:418618061
-DTSTART:20260826T145832Z
-DTEND:20260826T155832Z
-DTSTAMP:20260826T145832Z
-SUMMARY:🛠️ obtížný hmyz - Batelov
-LOCATION:Za Tratí\, Batelov
-GEO:49.318296;15.391667
-URL:geo:49.318296,15.391667
-DESCRIPTION:📍 Za Tratí\, Batelov\, Jihlava\n💬 Odstranění obtížného hmyzu.\n
- \n🚒 CAS (Batelov)
-END:VEVENT
-BEGIN:VEVENT
 UID:418619061
 DTSTART:20260826T150150Z
 DTEND:20260826T160150Z
@@ -1058,7 +1046,8 @@ SUMMARY:🛠️ obtížný hmyz - Okříšky
 LOCATION:J. A. Komenského\, Okříšky
 GEO:49.244973;15.771764
 URL:geo:49.244973,15.771764
-DESCRIPTION:📍 J. A. Komenského\, Okříšky\, Třebíč\n\n🚒 CAS (Okříšky)
+DESCRIPTION:📍 J. A. Komenského\, Okříšky\, Třebíč\n💬 Odstranění obtížného h
+ myzu.\n\n🚒 CAS (Okříšky)
 END:VEVENT
 BEGIN:VEVENT
 UID:418749061
@@ -1069,17 +1058,18 @@ SUMMARY:🛠️ strom - Počátky
 LOCATION:Počátky
 GEO:49.260657;15.266154
 URL:geo:49.260657,15.266154
-DESCRIPTION:📍 Počátky\, Pelhřimov\n\n🚒 CAS (Počátky)
+DESCRIPTION:📍 Počátky\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 CAS (Počátky)
 END:VEVENT
 BEGIN:VEVENT
 UID:418750061
 DTSTART:20260828T142933Z
 DTEND:20260828T152933Z
 DTSTAMP:20260828T142933Z
-SUMMARY:🚗 se zraněním - Nové Syrovice
+SUMMARY:⚠️ planý poplach - Nové Syrovice
 LOCATION:Nové Syrovice
 GEO:49.016955;15.772142
 URL:geo:49.016955,15.772142
-DESCRIPTION:📍 Nové Syrovice\, Třebíč\n\n🚒 CAS (HS Moravské Budějovice)
+DESCRIPTION:📍 Nové Syrovice\, Třebíč\n💬 Planý poplach.\n\n🚒 CAS (HS Moravsk
+ é Budějovice)
 END:VEVENT
 END:VCALENDAR
