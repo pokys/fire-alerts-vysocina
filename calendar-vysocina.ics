@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:418609061
-DTSTART:20260826T090200Z
-DTEND:20260826T100200Z
-DTSTAMP:20260826T090200Z
-SUMMARY:🛠️ obtížný hmyz - Ždánice
-LOCATION:Ždánice
-GEO:49.547460;16.262085
-URL:geo:49.547460,16.262085
-DESCRIPTION:📍 Ždánice\, Žďár nad Sázavou\n💬 Odstranění obtížného hmyzu.\n\n
- 🚒 CAS (HS Bystřice nad Pernštejnem)
-END:VEVENT
-BEGIN:VEVENT
 UID:418610061
 DTSTART:20260826T094752Z
 DTEND:20260826T104752Z
@@ -829,9 +817,9 @@ SUMMARY:🔥 tráva/plocha - Chotěboř
 LOCATION:Chotěboř
 GEO:49.679989;15.720397
 URL:geo:49.679989,15.720397
-DESCRIPTION:📍 Střížov\, Chotěboř\, Havlíčkův Brod\n💬 Požár trávy 5x10m.\n\n
- 🚒 CAS (HS Chotěboř)\n🚒 CAS (HS Chotěboř)\n🚒 DA (Chotěboř)\n🚒 CAS (Chotěboř
- )\n🚒 CAS (Ždírec nad Doubravou)
+DESCRIPTION:📍 Střížov\, Chotěboř\, Havlíčkův Brod\n💬 Požár trávy 5x10m. Lok
+ alizace a likvidace.\n\n🚒 CAS (HS Chotěboř)\n🚒 CAS (HS Chotěboř)\n🚒 DA (Ch
+ otěboř)\n🚒 CAS (Chotěboř)\n🚒 CAS (Ždírec nad Doubravou)
 END:VEVENT
 BEGIN:VEVENT
 UID:418705061
