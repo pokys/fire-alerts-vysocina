@@ -833,6 +833,18 @@ DESCRIPTION:📍 Moraveč\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 CAS (N
  kev)
 END:VEVENT
 BEGIN:VEVENT
+UID:418703061
+DTSTART:20260828T073321Z
+DTEND:20260828T083321Z
+DTSTAMP:20260828T073321Z
+SUMMARY:🛠️ strom - Sviny
+LOCATION:Sviny
+GEO:49.362767;16.076097
+URL:geo:49.362767,16.076097
+DESCRIPTION:📍 Sviny\, Žďár nad Sázavou\n\n🚒 přívěs motorová stříkačka (Svin
+ y)\n🚒 CAS (HS Velké Meziříčí)
+END:VEVENT
+BEGIN:VEVENT
 UID:418704061
 DTSTART:20260828T074157Z
 DTEND:20260828T084157Z
@@ -841,8 +853,9 @@ SUMMARY:🔥 tráva/plocha - Chotěboř
 LOCATION:Chotěboř
 GEO:49.679989;15.720397
 URL:geo:49.679989,15.720397
-DESCRIPTION:📍 Střížov\, Chotěboř\, Havlíčkův Brod\n\n🚒 CAS (HS Chotěboř)\n🚒
-  CAS (HS Chotěboř)\n🚒 CAS (Chotěboř)\n🚒 CAS (Ždírec nad Doubravou)
+DESCRIPTION:📍 Střížov\, Chotěboř\, Havlíčkův Brod\n💬 Požár trávy 5x10m.\n\n
+ 🚒 CAS (HS Chotěboř)\n🚒 CAS (HS Chotěboř)\n🚒 DA (Chotěboř)\n🚒 CAS (Chotěboř
+ )\n🚒 CAS (Ždírec nad Doubravou)
 END:VEVENT
 BEGIN:VEVENT
 UID:418705061
@@ -865,7 +878,18 @@ SUMMARY:🛠️ obtížný hmyz - Telč
 LOCATION:Svatojánská\, Telč
 GEO:49.179410;15.449076
 URL:geo:49.179410,15.449076
-DESCRIPTION:📍 Svatojánská\, Telč-Staré Město\, Telč\, Jihlava\n\n🚒 CAS (HS 
- Telč)
+DESCRIPTION:📍 Svatojánská\, Telč-Staré Město\, Telč\, Jihlava\n💬 Odstranění
+  obtížného hmyzu.\n\n🚒 CAS (HS Telč)
+END:VEVENT
+BEGIN:VEVENT
+UID:418708061
+DTSTART:20260828T080520Z
+DTEND:20260828T090520Z
+DTSTAMP:20260828T080520Z
+SUMMARY:🛠️ strom - Batelov
+LOCATION:Batelov
+GEO:49.304238;15.385944
+URL:geo:49.304238,15.385944
+DESCRIPTION:📍 Batelov\, Jihlava\n\n🚒 CAS (Batelov)
 END:VEVENT
 END:VCALENDAR
