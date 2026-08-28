@@ -875,7 +875,8 @@ SUMMARY:☣️ olej/PHM - Jihlava
 LOCATION:Jihlava
 GEO:49.378293;15.580802
 URL:geo:49.378293,15.580802
-DESCRIPTION:🚒 CAS (CHS Jihlava)
+DESCRIPTION:💬 Likvidace úniku oleje po technické závadě na NA.\n\n🚒 CAS (CH
+ S Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:418723061
@@ -886,7 +887,8 @@ SUMMARY:🚗 dopravní nehoda - Budkov
 LOCATION:Budkov
 GEO:49.058109;15.675559
 URL:geo:49.058109,15.675559
-DESCRIPTION:📍 Budkov\, Třebíč\n\n🚒 CAS (HS Jemnice)
+DESCRIPTION:📍 Budkov\, Třebíč\n💬 DN 1x OA se zraněním 1 osoby. Zajištění mí
+ sta nehody proti požáru a úniku provozních kapalin.\n\n🚒 CAS (HS Jemnice)
 END:VEVENT
 BEGIN:VEVENT
 UID:418724061
@@ -897,7 +899,8 @@ SUMMARY:🚗 dopravní nehoda - Telč
 LOCATION:Komenského\, Telč
 GEO:49.182046;15.447390
 URL:geo:49.182046,15.447390
-DESCRIPTION:📍 Komenského\, Telč-Staré Město\, Telč\, Jihlava\n\n🚒 CAS (HS T
+DESCRIPTION:📍 Komenského\, Telč-Staré Město\, Telč\, Jihlava\n💬 DN motorky\
+ , 1 zraněná osoba. Zajištění místa a protipožární opatření.\n\n🚒 CAS (HS T
  elč)
 END:VEVENT
 BEGIN:VEVENT
