@@ -1025,7 +1025,8 @@ SUMMARY:☣️ olej/PHM - Pelhřimov
 LOCATION:Pražská\, Pelhřimov
 GEO:49.436617;15.215951
 URL:geo:49.436617,15.215951
-DESCRIPTION:📍 Pražská\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)
+DESCRIPTION:📍 Pražská\, Pelhřimov\n💬 Odstranění uniklých provozních kapalin
+  z vozovky.\n\n🚒 CAS (CHS Pelhřimov)
 END:VEVENT
 BEGIN:VEVENT
 UID:418756061
@@ -1036,7 +1037,8 @@ SUMMARY:🚑 spolupráce ZZS - Osová Bítýška
 LOCATION:Osová Bítýška
 GEO:49.326446;16.200344
 URL:geo:49.326446,16.200344
-DESCRIPTION:📍 Osová Bítýška\, Žďár nad Sázavou\n\n🚒 CAS (HS Velká Bíteš)
+DESCRIPTION:📍 Osová Bítýška\, Žďár nad Sázavou\n💬 Spolupráce se ZZS.\n\n🚒 C
+ AS (HS Velká Bíteš)
 END:VEVENT
 BEGIN:VEVENT
 UID:418757061
@@ -1047,6 +1049,19 @@ SUMMARY:🛠️ obtížný hmyz - Bukov
 LOCATION:Bukov
 GEO:49.452370;16.224715
 URL:geo:49.452370,16.224715
-DESCRIPTION:📍 Bukov\, Žďár nad Sázavou\n\n🚒 CAS (Rožná)
+DESCRIPTION:📍 Bukov\, Žďár nad Sázavou\n💬 Odstranění obtížného hmyzu.\n\n🚒 
+ CAS (Rožná)
+END:VEVENT
+BEGIN:VEVENT
+UID:418760061
+DTSTART:20260828T163219Z
+DTEND:20260828T173219Z
+DTSTAMP:20260828T163219Z
+SUMMARY:🛠️ čerpání vody - Babice
+LOCATION:Babice
+GEO:49.124712;15.768723
+URL:geo:49.124712,15.768723
+DESCRIPTION:📍 Babice\, Třebíč\n💬 Odstranění obtížného hmyzu.\n\n🚒 DA (Babic
+ e (TR))
 END:VEVENT
 END:VCALENDAR
