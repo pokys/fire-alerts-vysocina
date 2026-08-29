@@ -1203,7 +1203,19 @@ SUMMARY:🚗 úklid místa - Jihlava
 LOCATION:Jihlava
 GEO:49.457088;15.586980
 URL:geo:49.457088,15.586980
-DESCRIPTION:📍 Antonínův Důl\, Jihlava\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Ji
- hlava)
+DESCRIPTION:📍 Antonínův Důl\, Jihlava\n💬 DN NA a 1 OA bez zranění\, s únike
+ n provozních kapalin. Zajištění místa události.\n\n🚒 CAS (CHS Jihlava)\n🚒 
+ RZA (CHS Jihlava)\n🚒 účelový automobil do 3500 kg (ÚO Jihlava)
+END:VEVENT
+BEGIN:VEVENT
+UID:418784061
+DTSTART:20260829T050947Z
+DTEND:20260829T060947Z
+DTSTAMP:20260829T050947Z
+SUMMARY:🛠️ ostatní - Třebíč
+LOCATION:Václavské nám.\, Třebíč
+GEO:49.206584;15.880144
+URL:geo:49.206584,15.880144
+DESCRIPTION:📍 Václavské nám.\, Horka-Domky\, Třebíč\n\n🚒 CAS (CHS Třebíč)
 END:VEVENT
 END:VCALENDAR
