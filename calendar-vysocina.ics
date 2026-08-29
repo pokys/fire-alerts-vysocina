@@ -1147,4 +1147,28 @@ URL:geo:49.414536,15.711195
 DESCRIPTION:📍 Kozlov\, Jihlava\n💬 DN 2x OA na D1 se zraněním osob. Zajištěn
  í místa události.\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihlava)
 END:VEVENT
+BEGIN:VEVENT
+UID:418776061
+DTSTART:20260828T235306Z
+DTEND:20260829T005306Z
+DTSTAMP:20260828T235306Z
+SUMMARY:🛠️ strom - Oudoleň
+LOCATION:Oudoleň
+GEO:49.648031;15.751382
+URL:geo:49.648031,15.751382
+DESCRIPTION:📍 Oudoleň\, Havlíčkův Brod\n💬 Odstranění stromu.\n\n🚒 CAS (Ždír
+ ec nad Doubravou)
+END:VEVENT
+BEGIN:VEVENT
+UID:418777061
+DTSTART:20260829T000657Z
+DTEND:20260829T010657Z
+DTSTAMP:20260829T000657Z
+SUMMARY:🛠️ strom - Chotěboř
+LOCATION:Hromádky z Jistebnice\, Chotěboř
+GEO:49.719329;15.666780
+URL:geo:49.719329,15.666780
+DESCRIPTION:📍 Hromádky z Jistebnice\, Chotěboř\, Havlíčkův Brod\n💬 Odstraně
+ ní stromu.\n\n🚒 CAS (HS Chotěboř)
+END:VEVENT
 END:VCALENDAR
