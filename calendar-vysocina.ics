@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:418682061
-DTSTART:20260827T165219Z
-DTEND:20260827T175219Z
-DTSTAMP:20260827T165219Z
-SUMMARY:🛠️ ostatní - Golčův Jeníkov
-LOCATION:Komenského\, Golčův Jeníkov
-GEO:49.816392;15.470900
-URL:geo:49.816392,15.470900
-DESCRIPTION:📍 Komenského\, Golčův Jeníkov\, Havlíčkův Brod\n💬 Pročištění uc
- pané kanalizace.\n\n🚒 CAS (Golčův Jeníkov)
-END:VEVENT
-BEGIN:VEVENT
 UID:418683061
 DTSTART:20260827T170945Z
 DTEND:20260827T180945Z
@@ -1075,8 +1063,9 @@ SUMMARY:🔥 tráva/plocha - Ruda
 LOCATION:Ruda
 GEO:49.350167;16.115867
 URL:geo:49.350167,16.115867
-DESCRIPTION:📍 Ruda\, Žďár nad Sázavou\n\n🚒 CAS (HS Velká Bíteš)\n🚒 DA (Ruda
- )
+DESCRIPTION:📍 Ruda\, Žďár nad Sázavou\n💬 Požár suché trávy a pařezu na ploš
+ e 2 x 10m. Provedena lokalizace a likvidace požáru.\n\n🚒 CAS (HS Velká Bít
+ eš)\n🚒 DA (Ruda)
 END:VEVENT
 BEGIN:VEVENT
 UID:418814061
