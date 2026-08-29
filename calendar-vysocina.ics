@@ -1074,7 +1074,8 @@ SUMMARY:🛠️ otevření bytu/auta - Otín
 LOCATION:Otín
 GEO:49.361118;15.904850
 URL:geo:49.361118,15.904850
-DESCRIPTION:📍 Otín\, Žďár nad Sázavou\n\n🚒 RZA (HS Velké Meziříčí)
+DESCRIPTION:📍 Otín\, Žďár nad Sázavou\n💬 Otevření rodinného domu.\n\n🚒 RZA 
+ (HS Velké Meziříčí)
 END:VEVENT
 BEGIN:VEVENT
 UID:418822061
@@ -1085,6 +1086,18 @@ SUMMARY:🚗 dopravní nehoda - Pelhřimov
 LOCATION:Pelhřimov
 GEO:49.444899;15.228422
 URL:geo:49.444899,15.228422
-DESCRIPTION:🚒 CAS (CHS Pelhřimov)
+DESCRIPTION:💬 DN 1 OA\, 2 zraněné osoby. Zabezpečení havarovaných vozidel p
+ roti PO a proti úniku provozních kapalin.\n\n🚒 CAS (CHS Pelhřimov)
+END:VEVENT
+BEGIN:VEVENT
+UID:418824061
+DTSTART:20260829T180728Z
+DTEND:20260829T190728Z
+DTSTAMP:20260829T180728Z
+SUMMARY:🛠️ ostatní - Havlíčkův Brod
+LOCATION:Na Výšině\, Havlíčkův Brod
+GEO:49.617374;15.578104
+URL:geo:49.617374,15.578104
+DESCRIPTION:📍 Na Výšině\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)
 END:VEVENT
 END:VCALENDAR
