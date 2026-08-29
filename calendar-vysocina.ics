@@ -5,33 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:418648061
-DTSTART:20260827T081346Z
-DTEND:20260827T091346Z
-DTSTAMP:20260827T081346Z
-SUMMARY:🔥 tráva/plocha - Moravské Budějovice
-LOCATION:Moravské Budějovice
-GEO:49.032966;15.776399
-URL:geo:49.032966,15.776399
-DESCRIPTION:📍 Jackov\, Moravské Budějovice\, Třebíč\n💬 Požár trávy 100x50m.
-  Lokalizace a likvidace. Beze škody.\n\n🚒 CAS (HS Jemnice)\n🚒 CAS (HS Mora
- vské Budějovice)\n🚒 čerpadlo plovoucí (HS Moravské Budějovice)\n🚒 přívěs m
- otorová stříkačka (Moravské Budějovice-Jackov)\n🚒 CAS (Moravské Budějovice
- )\n🚒 vyšetřovací automobil (ÚO Třebíč)
-END:VEVENT
-BEGIN:VEVENT
-UID:418649061
-DTSTART:20260827T081406Z
-DTEND:20260827T091406Z
-DTSTAMP:20260827T081406Z
-SUMMARY:🚑 transport pacienta - Vílanec
-LOCATION:Vílanec
-GEO:49.335228;15.577510
-URL:geo:49.335228,15.577510
-DESCRIPTION:📍 Vílanec\, Jihlava\n💬 Asistence ZZS a transport pacienta.\n\n🚒
-  CAS (CHS Jihlava)
-END:VEVENT
-BEGIN:VEVENT
 UID:418650061
 DTSTART:20260827T082743Z
 DTEND:20260827T092743Z
@@ -1216,5 +1189,17 @@ LOCATION:Smrčenská\, Jihlava
 GEO:49.426959;15.585719
 URL:geo:49.426959,15.585719
 DESCRIPTION:📍 Smrčenská\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+END:VEVENT
+BEGIN:VEVENT
+UID:418794061
+DTSTART:20260829T075328Z
+DTEND:20260829T085328Z
+DTSTAMP:20260829T075328Z
+SUMMARY:🛠️ strom - Cerekvička-Rosice
+LOCATION:Cerekvička-Rosice
+GEO:49.327372;15.576232
+URL:geo:49.327372,15.576232
+DESCRIPTION:📍 Cerekvička\, Cerekvička-Rosice\, Jihlava\n\n🚒 CAS (CHS Jihlav
+ a)
 END:VEVENT
 END:VCALENDAR
