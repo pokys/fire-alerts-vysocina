@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:418672061
-DTSTART:20260827T133902Z
-DTEND:20260827T143902Z
-DTSTAMP:20260827T133902Z
-SUMMARY:🛠️ obtížný hmyz - Bystřice nad Pernštejnem
-LOCATION:Masarykovo náměstí\, Bystřice nad Pernštejnem
-GEO:49.524417;16.258458
-URL:geo:49.524417,16.258458
-DESCRIPTION:📍 Masarykovo náměstí\, Bystřice nad Pernštejnem\, Žďár nad Sáza
- vou\n💬 Odstranění obtížného hmyzu.\n\n🚒 CAS (HS Bystřice nad Pernštejnem)
-END:VEVENT
-BEGIN:VEVENT
 UID:418673061
 DTSTART:20260827T135642Z
 DTEND:20260827T145642Z
@@ -1079,19 +1067,21 @@ LOCATION:Světnov
 GEO:49.635586;15.962971
 URL:geo:49.635586,15.962971
 DESCRIPTION:📍 Světnov\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒
-  CAS (CHS Žďár nad Sázavou)\n🚒 DA (Polnička)\n🚒 CAS (Polnička)\n🚒 CAS (Svě
- tnov)\n🚒 CAS (Škrdlovice)\n🚒 osobní automobil (Škrdlovice)
+  CAS (CHS Žďár nad Sázavou)\n🚒 DA (Polnička)\n🚒 CAS (Polnička)\n🚒 DA (Svět
+ nov)\n🚒 CAS (Světnov)\n🚒 CAS (Škrdlovice) ×2\n🚒 osobní automobil (Škrdlovi
+ ce)\n🚒 vyšetřovací automobil (ÚO Žďár nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:418803061
 DTSTART:20260829T131032Z
 DTEND:20260829T141032Z
 DTSTAMP:20260829T131032Z
-SUMMARY:🔥 Střítež
+SUMMARY:⚠️ planý poplach - Střítež
 LOCATION:Spojovací\, Střítež
 GEO:49.199389;15.889452
 URL:geo:49.199389,15.889452
-DESCRIPTION:📍 Spojovací\, Střítež\, Třebíč\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (CH
- S Třebíč)
+DESCRIPTION:📍 Spojovací\, Střítež\, Třebíč\n💬 Požár ohlášený systémem elekt
+ rické požární signalizace. Průzkumem bylo zjištěno\, že se jedná o planý p
+ oplach.\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (CHS Třebíč)
 END:VEVENT
 END:VCALENDAR
