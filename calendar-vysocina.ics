@@ -5,30 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:418683061
-DTSTART:20260827T170945Z
-DTEND:20260827T180945Z
-DTSTAMP:20260827T170945Z
-SUMMARY:🛠️ otevření bytu/auta - Třebíč
-LOCATION:Kremláčkova\, Třebíč
-GEO:49.217959;15.907069
-URL:geo:49.217959,15.907069
-DESCRIPTION:📍 Kremláčkova\, Nové Město\, Třebíč\n💬 Otevření bytu.\n\n🚒 CAS 
- (CHS Třebíč)
-END:VEVENT
-BEGIN:VEVENT
-UID:418684061
-DTSTART:20260827T171236Z
-DTEND:20260827T181236Z
-DTSTAMP:20260827T171236Z
-SUMMARY:🛠️ obtížný hmyz - Včelnička
-LOCATION:Včelnička
-GEO:49.307371;15.036438
-URL:geo:49.307371,15.036438
-DESCRIPTION:📍 Včelnička\, Pelhřimov\n💬 Odstranění obtížného hmyzu.\n\n🚒 CAS
-  (HS Kamenice nad Lipou)
-END:VEVENT
-BEGIN:VEVENT
 UID:418685061
 DTSTART:20260827T171855Z
 DTEND:20260827T181855Z
@@ -986,9 +962,9 @@ URL:geo:49.635586,15.962971
 DESCRIPTION:📍 Světnov\, Žďár nad Sázavou\n💬 Požár RD se zraněním jedné osob
  y. Jednotky provedly lokalizaci a likvidaci požáru.\n\n🚒 CAS (CHS Žďár nad
   Sázavou)\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 přetlakový ventilátor (CHS Žďár
-  nad Sázavou)\n🚒 DA (Polnička)\n🚒 CAS (Polnička)\n🚒 DA (Světnov)\n🚒 CAS (S
- větnov)\n🚒 CAS (Škrdlovice) ×2\n🚒 osobní automobil (Škrdlovice)\n🚒 vyšetřo
- vací automobil (ÚO Žďár nad Sázavou)
+  nad Sázavou)\n🚒 DA (Polnička)\n🚒 CAS (Polnička)\n🚒 DA (Světnov) ×2\n🚒 CAS
+  (Světnov) ×2\n🚒 CAS (Škrdlovice) ×2\n🚒 osobní automobil (Škrdlovice)\n🚒 v
+ yšetřovací automobil (ÚO Žďár nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:418803061
@@ -1078,5 +1054,28 @@ GEO:49.234938;15.605940
 URL:geo:49.234938,15.605940
 DESCRIPTION:📍 Dlouhá Brtnice\, Jihlava\n💬 Likvidace úniku oleje z komunikac
  e pomocí sorbentu.\n\n🚒 CAS (HS Třešť)
+END:VEVENT
+BEGIN:VEVENT
+UID:418818061
+DTSTART:20260829T165916Z
+DTEND:20260829T175916Z
+DTSTAMP:20260829T165916Z
+SUMMARY:🛠️ obtížný hmyz - Budkov
+LOCATION:Budkov
+GEO:49.048551;15.663877
+URL:geo:49.048551,15.663877
+DESCRIPTION:📍 Budkov\, Třebíč\n💬 Odstranění obtížného hmyzu.\n\n🚒 CAS (Budk
+ ov)
+END:VEVENT
+BEGIN:VEVENT
+UID:418819061
+DTSTART:20260829T170810Z
+DTEND:20260829T180810Z
+DTSTAMP:20260829T170810Z
+SUMMARY:🚑 otevření/asistence - Jihlava
+LOCATION:Březinova\, Jihlava
+GEO:49.400566;15.605957
+URL:geo:49.400566,15.605957
+DESCRIPTION:📍 Březinova\, Jihlava\n\n🚒 CAS (CHS Jihlava)
 END:VEVENT
 END:VCALENDAR
