@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:418679061
-DTSTART:20260827T160124Z
-DTEND:20260827T170124Z
-DTSTAMP:20260827T160124Z
-SUMMARY:🛠️ strom - Humpolec
-LOCATION:U Kaštanu\, Humpolec
-GEO:49.543444;15.347182
-URL:geo:49.543444,15.347182
-DESCRIPTION:📍 U Kaštanu\, Humpolec\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 C
- AS (Humpolec)\n🚒 AŽ (HS Humpolec)
-END:VEVENT
-BEGIN:VEVENT
 UID:418681061
 DTSTART:20260827T163900Z
 DTEND:20260827T173900Z
@@ -1019,10 +1007,12 @@ SUMMARY:🔥 budova - Světnov
 LOCATION:Světnov
 GEO:49.635586;15.962971
 URL:geo:49.635586,15.962971
-DESCRIPTION:📍 Světnov\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒
-  CAS (CHS Žďár nad Sázavou)\n🚒 DA (Polnička)\n🚒 CAS (Polnička)\n🚒 DA (Svět
- nov)\n🚒 CAS (Světnov)\n🚒 CAS (Škrdlovice) ×2\n🚒 osobní automobil (Škrdlovi
- ce)\n🚒 vyšetřovací automobil (ÚO Žďár nad Sázavou)
+DESCRIPTION:📍 Světnov\, Žďár nad Sázavou\n💬 Požár RD se zraněním jedné osob
+ y. Jednotky provedly lokalizaci a likvidaci požáru.\n\n🚒 CAS (CHS Žďár nad
+  Sázavou)\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 přetlakový ventilátor (CHS Žďár
+  nad Sázavou)\n🚒 DA (Polnička)\n🚒 CAS (Polnička)\n🚒 DA (Světnov)\n🚒 CAS (S
+ větnov)\n🚒 CAS (Škrdlovice) ×2\n🚒 osobní automobil (Škrdlovice)\n🚒 vyšetřo
+ vací automobil (ÚO Žďár nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:418803061
