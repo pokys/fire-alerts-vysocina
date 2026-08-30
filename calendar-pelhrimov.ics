@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Pelhřimov
 BEGIN:VEVENT
-UID:418754061
-DTSTART:20260828T160240Z
-DTEND:20260828T170240Z
-DTSTAMP:20260828T160240Z
-SUMMARY:☣️ olej/PHM - Pelhřimov
-LOCATION:Pražská\, Pelhřimov
-GEO:49.436617;15.215951
-URL:geo:49.436617,15.215951
-DESCRIPTION:📍 Pražská\, Pelhřimov\n💬 Odstranění uniklých provozních kapalin
-  z vozovky.\n\n🚒 CAS (CHS Pelhřimov)
-END:VEVENT
-BEGIN:VEVENT
 UID:418767061
 DTSTART:20260828T175655Z
 DTEND:20260828T185655Z
@@ -121,7 +109,8 @@ SUMMARY:🚗 dopravní nehoda - Žirovnice
 LOCATION:Zahradní\, Žirovnice
 GEO:49.257336;15.196445
 URL:geo:49.257336,15.196445
-DESCRIPTION:📍 Zahradní\, Žirovnice\, Pelhřimov\n\n🚒 CAS (HS Kamenice nad Li
- pou)\n🚒 CAS (Počátky)\n🚒 CAS (Žirovnice)
+DESCRIPTION:📍 Zahradní\, Žirovnice\, Pelhřimov\n💬 DN cyklisty\, na místě 2 
+ zraněné osoby. Zajištění místa nehody.\n\n🚒 CAS (HS Kamenice nad Lipou)\n🚒
+  CAS (Počátky)\n🚒 CAS (Žirovnice)
 END:VEVENT
 END:VCALENDAR

@@ -5,30 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:418754061
-DTSTART:20260828T160240Z
-DTEND:20260828T170240Z
-DTSTAMP:20260828T160240Z
-SUMMARY:☣️ olej/PHM - Pelhřimov
-LOCATION:Pražská\, Pelhřimov
-GEO:49.436617;15.215951
-URL:geo:49.436617,15.215951
-DESCRIPTION:📍 Pražská\, Pelhřimov\n💬 Odstranění uniklých provozních kapalin
-  z vozovky.\n\n🚒 CAS (CHS Pelhřimov)
-END:VEVENT
-BEGIN:VEVENT
-UID:418756061
-DTSTART:20260828T161348Z
-DTEND:20260828T171348Z
-DTSTAMP:20260828T161348Z
-SUMMARY:🚑 spolupráce ZZS - Osová Bítýška
-LOCATION:Osová Bítýška
-GEO:49.326446;16.200344
-URL:geo:49.326446,16.200344
-DESCRIPTION:📍 Osová Bítýška\, Žďár nad Sázavou\n💬 Spolupráce se ZZS.\n\n🚒 C
- AS (HS Velká Bíteš)
-END:VEVENT
-BEGIN:VEVENT
 UID:418757061
 DTSTART:20260828T162310Z
 DTEND:20260828T172310Z
@@ -637,7 +613,7 @@ GEO:49.414824;15.562215
 URL:geo:49.414824,15.562215
 DESCRIPTION:📍 Humpolecká\, Staré Hory\, Jihlava\n💬 Požár ohlášený systémem 
  elektrické požární signalizace. Průzkumem bylo zjištěno\, že se jedná o pl
- aný poplach.\n\n🚒 CAS (CHS Jihlava) ×2\n🚒 CAS (CHS Jihlava) ×2
+ aný poplach.\n\n🚒 CAS (CHS Jihlava) ×2
 END:VEVENT
 BEGIN:VEVENT
 UID:418837061
@@ -745,8 +721,9 @@ SUMMARY:🚗 dopravní nehoda - Žirovnice
 LOCATION:Zahradní\, Žirovnice
 GEO:49.257336;15.196445
 URL:geo:49.257336,15.196445
-DESCRIPTION:📍 Zahradní\, Žirovnice\, Pelhřimov\n\n🚒 CAS (HS Kamenice nad Li
- pou)\n🚒 CAS (Počátky)\n🚒 CAS (Žirovnice)
+DESCRIPTION:📍 Zahradní\, Žirovnice\, Pelhřimov\n💬 DN cyklisty\, na místě 2 
+ zraněné osoby. Zajištění místa nehody.\n\n🚒 CAS (HS Kamenice nad Lipou)\n🚒
+  CAS (Počátky)\n🚒 CAS (Žirovnice)
 END:VEVENT
 BEGIN:VEVENT
 UID:418850061
@@ -765,12 +742,12 @@ UID:418851061
 DTSTART:20260830T154611Z
 DTEND:20260830T164611Z
 DTSTAMP:20260830T154611Z
-SUMMARY:🚑 Stařeč
+SUMMARY:🚑 záchrana na vodě - Stařeč
 LOCATION:Stařeč
 GEO:49.202086;15.824199
 URL:geo:49.202086,15.824199
-DESCRIPTION:📍 Stařeč\, Třebíč\n\n🚒 CAS (CHS Třebíč)\n🚒 automobilová stříkač
- ka (Stařeč)\n🚒 CAS (Stařeč)
+DESCRIPTION:📍 Stařeč\, Třebíč\n💬 Záchrana srnky z vodní nádrže.\n\n🚒 CAS (C
+ HS Třebíč)\n🚒 automobilová stříkačka (Stařeč)\n🚒 CAS (Stařeč)
 END:VEVENT
 BEGIN:VEVENT
 UID:418852061
@@ -783,5 +760,29 @@ GEO:49.399867;15.609709
 URL:geo:49.399867,15.609709
 DESCRIPTION:📍 Demlova\, Jihlava\n💬 Odstranění obtížného hmyzu.\n\n🚒 CAS (CH
  S Jihlava)
+END:VEVENT
+BEGIN:VEVENT
+UID:418853061
+DTSTART:20260830T155345Z
+DTEND:20260830T165345Z
+DTSTAMP:20260830T155345Z
+SUMMARY:☣️ olej/PHM - Polná
+LOCATION:Varhánkova\, Polná
+GEO:49.486634;15.721573
+URL:geo:49.486634,15.721573
+DESCRIPTION:📍 Varhánkova\, Polná\, Jihlava\n💬 Likvidace olejové skvrny z OA
+  po technické závadě pomocí sorbentu.\n\n🚒 CAS (HS Polná)
+END:VEVENT
+BEGIN:VEVENT
+UID:418854061
+DTSTART:20260830T160427Z
+DTEND:20260830T170427Z
+DTSTAMP:20260830T160427Z
+SUMMARY:🛠️ obtížný hmyz - Třebelovice
+LOCATION:Třebelovice
+GEO:49.019872;15.671278
+URL:geo:49.019872,15.671278
+DESCRIPTION:📍 Třebelovice\, Třebíč\n💬 Odstranění obtížného hmyzu.\n\n🚒 CAS 
+ (HS Jemnice)
 END:VEVENT
 END:VCALENDAR
