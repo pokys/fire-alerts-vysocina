@@ -518,8 +518,8 @@ SUMMARY:🛠️ čerpání vody - Telč
 LOCATION:Luční\, Telč
 GEO:49.176558;15.454023
 URL:geo:49.176558,15.454023
-DESCRIPTION:📍 Luční\, Telč-Vnitřní Město\, Telč\, Jihlava\n\n🚒 CAS (HS Telč
- )\n🚒 elektrocentrála přenosná (HS Telč)
+DESCRIPTION:📍 Luční\, Telč-Vnitřní Město\, Telč\, Jihlava\n💬 Čerpaní vody.\
+ n\n🚒 CAS (HS Telč)\n🚒 elektrocentrála přenosná (HS Telč)
 END:VEVENT
 BEGIN:VEVENT
 UID:418862061
@@ -554,7 +554,8 @@ SUMMARY:🛠️ obtížný hmyz - Třešť
 LOCATION:Fritzova\, Třešť
 GEO:49.293491;15.493818
 URL:geo:49.293491,15.493818
-DESCRIPTION:📍 Fritzova\, Třešť\, Jihlava\n\n🚒 CAS (HS Třešť)
+DESCRIPTION:📍 Fritzova\, Třešť\, Jihlava\n💬 Likvidace nebezpečného hmyzu.\n
+ \n🚒 CAS (HS Třešť)
 END:VEVENT
 BEGIN:VEVENT
 UID:418867061
@@ -565,7 +566,8 @@ SUMMARY:🛠️ obtížný hmyz - Polná
 LOCATION:Za Nádražím\, Polná
 GEO:49.484949;15.702366
 URL:geo:49.484949,15.702366
-DESCRIPTION:📍 Za Nádražím\, Polná\, Jihlava\n\n🚒 CAS (HS Polná)
+DESCRIPTION:📍 Za Nádražím\, Polná\, Jihlava\n💬 Likvidace nebezpečného hmyzu
+ .\n\n🚒 CAS (HS Polná)
 END:VEVENT
 BEGIN:VEVENT
 UID:418869061
@@ -576,6 +578,19 @@ SUMMARY:🛠️ obtížný hmyz - Krahulov
 LOCATION:Krahulov
 GEO:49.219789;15.808122
 URL:geo:49.219789,15.808122
-DESCRIPTION:📍 Krahulov\, Třebíč\n\n🚒 CAS (CHS Třebíč)
+DESCRIPTION:📍 Krahulov\, Třebíč\n💬 Odstranění obtížného hmyzu.\n\n🚒 CAS (CH
+ S Třebíč)
+END:VEVENT
+BEGIN:VEVENT
+UID:418875061
+DTSTART:20260831T092710Z
+DTEND:20260831T102710Z
+DTSTAMP:20260831T092710Z
+SUMMARY:☣️ olej/PHM - Moravské Budějovice
+LOCATION:nám. Míru\, Moravské Budějovice
+GEO:49.052387;15.808864
+URL:geo:49.052387,15.808864
+DESCRIPTION:📍 nám. Míru\, Moravské Budějovice\, Třebíč\n\n🚒 CAS (HS Moravsk
+ é Budějovice)
 END:VEVENT
 END:VCALENDAR
