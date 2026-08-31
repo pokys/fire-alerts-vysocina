@@ -582,18 +582,6 @@ DESCRIPTION:📍 Osová\, Osová Bítýška\, Žďár nad Sázavou\n💬 Transpo
  a na žádost ZZS.\n\n🚒 CAS (HS Velká Bíteš)
 END:VEVENT
 BEGIN:VEVENT
-UID:418877061
-DTSTART:20260831T101951Z
-DTEND:20260831T111951Z
-DTSTAMP:20260831T101951Z
-SUMMARY:🚑 záchrana ze stromu - Ledeč nad Sázavou
-LOCATION:Tyršovo nábřeží\, Ledeč nad Sázavou
-GEO:49.694487;15.272070
-URL:geo:49.694487,15.272070
-DESCRIPTION:📍 Tyršovo nábřeží\, Ledeč nad Sázavou\, Havlíčkův Brod\n\n🚒 DA 
- (CHS Havlíčkův Brod)\n🚒 CAS (HS Ledeč nad Sázavou)
-END:VEVENT
-BEGIN:VEVENT
 UID:418879061
 DTSTART:20260831T104129Z
 DTEND:20260831T114129Z
@@ -604,5 +592,17 @@ GEO:49.291113;16.229613
 URL:geo:49.291113,16.229613
 DESCRIPTION:📍 Sadová\, Velká Bíteš\, Žďár nad Sázavou\n💬 Otevření zabouchnu
  tého OA.\n\n🚒 CAS (HS Velká Bíteš)
+END:VEVENT
+BEGIN:VEVENT
+UID:418883061
+DTSTART:20260831T111649Z
+DTEND:20260831T121649Z
+DTSTAMP:20260831T111649Z
+SUMMARY:🚗 dopravní nehoda - Humpolec
+LOCATION:Humpolec
+GEO:49.514420;15.393396
+URL:geo:49.514420,15.393396
+DESCRIPTION:📍 Krasoňov\, Humpolec\, Pelhřimov\n\n🚒 CAS (HS Humpolec)\n🚒 RZA
+  (HS Humpolec)
 END:VEVENT
 END:VCALENDAR
