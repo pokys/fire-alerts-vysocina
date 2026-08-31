@@ -652,10 +652,11 @@ UID:418912061
 DTSTART:20260831T222447Z
 DTEND:20260831T232447Z
 DTSTAMP:20260831T222447Z
-SUMMARY:🛠️ monitoring - Třebíč
+SUMMARY:⚠️ planý poplach - Třebíč
 LOCATION:Stavební\, Třebíč
 GEO:49.207727;15.894007
 URL:geo:49.207727,15.894007
-DESCRIPTION:📍 Stavební\, Horka-Domky\, Třebíč\n\n🚒 CAS (CHS Třebíč)
+DESCRIPTION:📍 Stavební\, Horka-Domky\, Třebíč\n💬 Planý poplach.\n\n🚒 CAS (C
+ HS Třebíč)
 END:VEVENT
 END:VCALENDAR
