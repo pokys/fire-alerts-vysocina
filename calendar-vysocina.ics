@@ -578,8 +578,8 @@ SUMMARY:☣️ olej/PHM - Moravské Budějovice
 LOCATION:nám. Míru\, Moravské Budějovice
 GEO:49.052387;15.808864
 URL:geo:49.052387,15.808864
-DESCRIPTION:📍 nám. Míru\, Moravské Budějovice\, Třebíč\n\n🚒 CAS (HS Moravsk
- é Budějovice)
+DESCRIPTION:📍 nám. Míru\, Moravské Budějovice\, Třebíč\n💬 Likvidace úniku n
+ afty z OA pomocí sorbentu.\n\n🚒 CAS (HS Moravské Budějovice)
 END:VEVENT
 BEGIN:VEVENT
 UID:418876061
@@ -590,7 +590,7 @@ SUMMARY:🚑 transport pacienta - Osová Bítýška
 LOCATION:Osová Bítýška
 GEO:49.330108;16.196758
 URL:geo:49.330108,16.196758
-DESCRIPTION:📍 Osová\, Osová Bítýška\, Žďár nad Sázavou\n\n🚒 CAS (HS Velká B
- íteš)
+DESCRIPTION:📍 Osová\, Osová Bítýška\, Žďár nad Sázavou\n💬 Transport pacient
+ a na žádost ZZS.\n\n🚒 CAS (HS Velká Bíteš)
 END:VEVENT
 END:VCALENDAR
