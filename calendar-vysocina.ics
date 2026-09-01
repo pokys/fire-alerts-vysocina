@@ -429,7 +429,8 @@ DESCRIPTION:📍 Svojkovice\, Jihlava\n💬 Požár lesního porostu a suché tr
   (CHS Jihlava)\n🚒 účelový automobil do 3500 kg (CHS Jihlava)\n🚒 vozidlo úč
  elové - SxS (CHS Jihlava)\n🚒 elektrocentrála přenosná (CHS Jihlava)\n🚒 pří
  věs nákladní (CHS Jihlava)\n🚒 kontejner protiplynový (CHS Jihlava)\n🚒 DA (
- Cidlina)\n🚒 CAS (Cidlina)\n🚒 DA (Babice (TR))\n🚒 CAS (Babice (TR))
+ Cidlina)\n🚒 CAS (Cidlina)\n🚒 DA (Babice (TR))\n🚒 CAS (Babice (TR))\n🚒 CAS 
+ (HS Třešť)
 END:VEVENT
 BEGIN:VEVENT
 UID:418890061
@@ -695,8 +696,9 @@ SUMMARY:🚗 dopravní nehoda - Žďár nad Sázavou
 LOCATION:Žďár nad Sázavou
 GEO:49.572722;15.941892
 URL:geo:49.572722,15.941892
-DESCRIPTION:📍 Žďár nad Sázavou 1\, Žďár nad Sázavou\n💬 DN OA a cyklisty\, 1
-  zrajěná osoba\, zajištění místa nehody.\n\n🚒 CAS (CHS Žďár nad Sázavou)
+DESCRIPTION:📍 Žďár nad Sázavou 1\, Žďár nad Sázavou\n💬 DN OA a cyklisty\, j
+ edna zraněná osoba\, zajištění místa nehody.\n\n🚒 CAS (CHS Žďár nad Sázavo
+ u)
 END:VEVENT
 BEGIN:VEVENT
 UID:418919061
@@ -708,8 +710,8 @@ LOCATION:Strojírenská\, Žďár nad Sázavou
 GEO:49.561387;15.931558
 URL:geo:49.561387,15.931558
 DESCRIPTION:📍 Strojírenská\, Žďár nad Sázavou 3\, Žďár nad Sázavou\n💬 DN OA
-  a chodce\, 1 zraněná osoba. Poskytnutí první předlékařské pomoci. Zajiště
- ní místa nehody.\n\n🚒 CAS (CHS Žďár nad Sázavou)
+  a chodce\, jedna zraněná osoba. Předlékařská pomoci. Zajištění místa neho
+ dy.\n\n🚒 CAS (CHS Žďár nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:418921061
@@ -720,6 +722,7 @@ SUMMARY:🔥 venkovní požár - Jihlava
 LOCATION:Jihlava
 GEO:49.396545;15.608829
 URL:geo:49.396545,15.608829
-DESCRIPTION:📍 Helenín\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+DESCRIPTION:📍 Helenín\, Jihlava\n💬 Požár odpadkového koše.\n\n🚒 CAS (CHS Ji
+ hlava)
 END:VEVENT
 END:VCALENDAR
