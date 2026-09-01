@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:418849061
-DTSTART:20260830T145625Z
-DTEND:20260830T155625Z
-DTSTAMP:20260830T145625Z
-SUMMARY:🚗 dopravní nehoda - Žirovnice
-LOCATION:Zahradní\, Žirovnice
-GEO:49.257336;15.196445
-URL:geo:49.257336,15.196445
-DESCRIPTION:📍 Zahradní\, Žirovnice\, Pelhřimov\n💬 DN cyklisty\, na místě 2 
- zraněné osoby. Zajištění místa nehody.\n\n🚒 CAS (HS Kamenice nad Lipou)\n🚒
-  CAS (Počátky)\n🚒 CAS (Žirovnice)
-END:VEVENT
-BEGIN:VEVENT
 UID:418850061
 DTSTART:20260830T154057Z
 DTEND:20260830T164057Z
@@ -687,8 +674,8 @@ SUMMARY:🚑 otevření/asistence - Nové Město na Moravě
 LOCATION:Žďárská\, Nové Město na Moravě
 GEO:49.562513;16.064794
 URL:geo:49.562513,16.064794
-DESCRIPTION:📍 Žďárská\, Nové Město na Moravě\, Žďár nad Sázavou\n💬 Pomoc s 
- imobilní osobou.\n\n🚒 CAS (CHS Žďár nad Sázavou)
+DESCRIPTION:📍 Žďárská\, Nové Město na Moravě\, Žďár nad Sázavou\n💬 Otevření
+  bytu.\n\n🚒 CAS (CHS Žďár nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:418938061
@@ -712,5 +699,17 @@ GEO:49.663941;15.315868
 URL:geo:49.663941,15.315868
 DESCRIPTION:📍 Dobrovítova Lhota\, Trpišovice\, Havlíčkův Brod\n💬 Pomoc s im
  obilní osobou.\n\n🚒 CAS (HS Světlá nad Sázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:418940061
+DTSTART:20260901T144921Z
+DTEND:20260901T154921Z
+DTSTAMP:20260901T144921Z
+SUMMARY:🚗 dopravní nehoda - Telč
+LOCATION:Batelovská\, Telč
+GEO:49.191559;15.446369
+URL:geo:49.191559,15.446369
+DESCRIPTION:📍 Batelovská\, Telč-Štěpnice\, Telč\, Jihlava\n\n🚒 CAS (HS Telč
+ )
 END:VEVENT
 END:VCALENDAR
