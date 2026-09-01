@@ -5,43 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:418835061
-DTSTART:20260830T080348Z
-DTEND:20260830T090348Z
-DTSTAMP:20260830T080348Z
-SUMMARY:🛠️ obtížný hmyz - Jaroměřice nad Rokytnou
-LOCATION:Jaroměřice nad Rokytnou
-GEO:49.121603;15.865386
-URL:geo:49.121603,15.865386
-DESCRIPTION:📍 Vacenovice\, Jaroměřice nad Rokytnou\, Třebíč\n💬 Odstranění o
- btížného hmyzu.\n\n🚒 CAS (Jaroměřice nad Rokytnou)
-END:VEVENT
-BEGIN:VEVENT
-UID:418836061
-DTSTART:20260830T080641Z
-DTEND:20260830T090641Z
-DTSTAMP:20260830T080641Z
-SUMMARY:⚠️ planý poplach - Jihlava
-LOCATION:Humpolecká\, Jihlava
-GEO:49.414824;15.562215
-URL:geo:49.414824,15.562215
-DESCRIPTION:📍 Humpolecká\, Staré Hory\, Jihlava\n💬 Požár ohlášený systémem 
- elektrické požární signalizace. Průzkumem bylo zjištěno\, že se jedná o pl
- aný poplach.\n\n🚒 CAS (CHS Jihlava) ×2
-END:VEVENT
-BEGIN:VEVENT
-UID:418837061
-DTSTART:20260830T081109Z
-DTEND:20260830T091109Z
-DTSTAMP:20260830T081109Z
-SUMMARY:🛠️ obtížný hmyz - Zašovice
-LOCATION:Zašovice
-GEO:49.272025;15.705681
-URL:geo:49.272025,15.705681
-DESCRIPTION:📍 Nová Brtnice\, Zašovice\, Třebíč\n💬 Odstranění obtížného hmyz
- u.\n\n🚒 CAS (Kněžice)
-END:VEVENT
-BEGIN:VEVENT
 UID:418840061
 DTSTART:20260830T090519Z
 DTEND:20260830T100519Z
@@ -418,19 +381,19 @@ URL:geo:49.169964,15.645615
 DESCRIPTION:📍 Svojkovice\, Jihlava\n💬 Požár lesního porostu a suché trávy.\
  n\n🚒 CAS (HS Telč) ×2\n🚒 CAS (HS Telč) ×2\n🚒 čerpadlo plovoucí (HS Telč) ×
  2\n🚒 CAS (Stará Říše)\n🚒 DA (Želetava)\n🚒 CAS (Želetava)\n🚒 CAS (Dlouhá Br
- tnice)\n🚒 DA (Nová Říše) ×2\n🚒 CAS (Nová Říše)\n🚒 DA (Předín)\n🚒 CAS (Před
- ín)\n🚒 CAS (Opatov (TR))\n🚒 DA (Čáslavice)\n🚒 CAS (Čáslavice)\n🚒 CAS (Leso
- nice)\n🚒 DA (Rokytnice nad Rokytnou)\n🚒 CAS (Rokytnice nad Rokytnou)\n🚒 CA
- S (HS Moravské Budějovice)\n🚒 CAS (HS Moravské Budějovice)\n🚒 CAS (CHS Tře
- bíč)\n🚒 VYA (CHS Třebíč)\n🚒 CAS (Kněžice)\n🚒 DA (Jaroměřice nad Rokytnou)\
- n🚒 CAS (Jaroměřice nad Rokytnou)\n🚒 CAS (Jaroměřice nad Rokytnou)\n🚒 CAS (
- Stonařov)\n🚒 nákladní automobil do 3500 kg (Stonařov)\n🚒 vyšetřovací autom
- obil (ÚO Jihlava) ×2\n🚒 CAS (CHS Jihlava)\n🚒 automobilový nosič kontejnerů
-  (CHS Jihlava)\n🚒 účelový automobil do 3500 kg (CHS Jihlava)\n🚒 vozidlo úč
- elové - SxS (CHS Jihlava)\n🚒 elektrocentrála přenosná (CHS Jihlava)\n🚒 pří
- věs nákladní (CHS Jihlava)\n🚒 kontejner protiplynový (CHS Jihlava)\n🚒 DA (
- Cidlina)\n🚒 CAS (Cidlina)\n🚒 DA (Babice (TR))\n🚒 CAS (Babice (TR))\n🚒 CAS 
- (HS Třešť)
+ tnice)\n🚒 DA (Nová Říše) ×2\n🚒 CAS (Nová Říše) ×2\n🚒 DA (Předín)\n🚒 CAS (P
+ ředín)\n🚒 CAS (Opatov (TR))\n🚒 DA (Čáslavice)\n🚒 CAS (Čáslavice)\n🚒 CAS (L
+ esonice)\n🚒 DA (Rokytnice nad Rokytnou)\n🚒 CAS (Rokytnice nad Rokytnou)\n🚒
+  CAS (HS Moravské Budějovice)\n🚒 CAS (HS Moravské Budějovice)\n🚒 CAS (CHS 
+ Třebíč)\n🚒 VYA (CHS Třebíč)\n🚒 CAS (Kněžice)\n🚒 DA (Jaroměřice nad Rokytno
+ u)\n🚒 CAS (Jaroměřice nad Rokytnou)\n🚒 CAS (Jaroměřice nad Rokytnou)\n🚒 CA
+ S (Stonařov)\n🚒 nákladní automobil do 3500 kg (Stonařov)\n🚒 vyšetřovací au
+ tomobil (ÚO Jihlava) ×2\n🚒 CAS (CHS Jihlava)\n🚒 automobilový nosič kontejn
+ erů (CHS Jihlava)\n🚒 účelový automobil do 3500 kg (CHS Jihlava)\n🚒 vozidlo
+  účelové - SxS (CHS Jihlava)\n🚒 elektrocentrála přenosná (CHS Jihlava)\n🚒 
+ přívěs nákladní (CHS Jihlava)\n🚒 kontejner protiplynový (CHS Jihlava)\n🚒 D
+ A (Cidlina)\n🚒 CAS (Cidlina)\n🚒 DA (Babice (TR))\n🚒 CAS (Babice (TR))\n🚒 C
+ AS (HS Třešť)
 END:VEVENT
 BEGIN:VEVENT
 UID:418890061
