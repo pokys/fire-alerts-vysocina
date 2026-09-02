@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:418865061
-DTSTART:20260831T081504Z
-DTEND:20260831T091504Z
-DTSTAMP:20260831T081504Z
-SUMMARY:🛠️ obtížný hmyz - Třešť
-LOCATION:Fritzova\, Třešť
-GEO:49.293491;15.493818
-URL:geo:49.293491,15.493818
-DESCRIPTION:📍 Fritzova\, Třešť\, Jihlava\n💬 Likvidace nebezpečného hmyzu.\n
- \n🚒 CAS (HS Třešť)
-END:VEVENT
-BEGIN:VEVENT
 UID:418867061
 DTSTART:20260831T082543Z
 DTEND:20260831T092543Z
@@ -738,7 +726,8 @@ SUMMARY:🚗 dopravní nehoda - Jitkov
 LOCATION:Jitkov
 GEO:49.674212;15.733327
 URL:geo:49.674212,15.733327
-DESCRIPTION:📍 Jitkov\, Havlíčkův Brod\n\n🚒 CAS (HS Chotěboř)
+DESCRIPTION:📍 Jitkov\, Havlíčkův Brod\n💬 DN 2x OA se zraněním. Zajištění mí
+ sta události. ZZS ošetřila jednu zraněnou osobu.\n\n🚒 CAS (HS Chotěboř)
 END:VEVENT
 BEGIN:VEVENT
 UID:418964061
@@ -749,8 +738,8 @@ SUMMARY:🛠️ strom - Borek
 LOCATION:Borek
 GEO:49.793547;15.585650
 URL:geo:49.793547,15.585650
-DESCRIPTION:📍 Borek\, Havlíčkův Brod\n\n🚒 automobilová plošina do 30 m (HS 
- Chotěboř)
+DESCRIPTION:📍 Borek\, Havlíčkův Brod\n💬 Odstranění stromu.\n\n🚒 automobilov
+ á plošina do 30 m (HS Chotěboř)
 END:VEVENT
 BEGIN:VEVENT
 UID:418967061
@@ -761,9 +750,10 @@ SUMMARY:🔥 tráva/plocha - Náměšť nad Oslavou
 LOCATION:Náměšť nad Oslavou
 GEO:49.202778;16.165800
 URL:geo:49.202778,16.165800
-DESCRIPTION:📍 Náměšť nad Oslavou\, Třebíč\n💬 Dohašení ohniště.\n\n🚒 CAS (HS
-  Náměšť nad Oslavou)\n🚒 CAS (HS Náměšť nad Oslavou)\n🚒 CAS (HS Velká Bíteš
- )\n🚒 CAS (Kralice nad Oslavou)\n🚒 DA (Náměšť nad Oslavou)
+DESCRIPTION:📍 Náměšť nad Oslavou\, Třebíč\n💬 Dohašení ohniště. Provedena lo
+ kalizace a likvidace.\n\n🚒 CAS (HS Náměšť nad Oslavou)\n🚒 CAS (HS Náměšť n
+ ad Oslavou)\n🚒 CAS (HS Velká Bíteš)\n🚒 CAS (Kralice nad Oslavou)\n🚒 DA (Ná
+ měšť nad Oslavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:418969061
@@ -774,8 +764,8 @@ SUMMARY:⚠️ planý poplach - Litohoř
 LOCATION:Litohoř
 GEO:49.072135;15.762893
 URL:geo:49.072135,15.762893
-DESCRIPTION:📍 Litohoř\, Třebíč\n\n🚒 CAS (HS Moravské Budějovice)\n🚒 CAS (HS
-  Moravské Budějovice)\n🚒 CAS (Lesonice)\n🚒 DA (Moravské Budějovice)\n🚒 CAS
-  (Moravské Budějovice)
+DESCRIPTION:📍 Litohoř\, Třebíč\n💬 Planý poplach.\n\n🚒 CAS (HS Moravské Budě
+ jovice)\n🚒 CAS (HS Moravské Budějovice)\n🚒 CAS (Lesonice)\n🚒 DA (Moravské 
+ Budějovice)\n🚒 CAS (Moravské Budějovice)
 END:VEVENT
 END:VCALENDAR
