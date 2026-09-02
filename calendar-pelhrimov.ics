@@ -100,4 +100,16 @@ URL:geo:49.289811,15.302100
 DESCRIPTION:📍 Horní Ves\, Pelhřimov\n💬 Transport pacienta na žádost ZZS.\n\
  n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (Počátky)
 END:VEVENT
+BEGIN:VEVENT
+UID:418991061
+DTSTART:20260902T114433Z
+DTEND:20260902T124433Z
+DTSTAMP:20260902T114433Z
+SUMMARY:🚗 bez zranění - Kamenice nad Lipou
+LOCATION:Masarykova\, Kamenice nad Lipou
+GEO:49.299103;15.076322
+URL:geo:49.299103,15.076322
+DESCRIPTION:📍 Masarykova\, Kamenice nad Lipou\, Pelhřimov\n💬 DN 2 OA.\n\n🚒 
+ CAS (HS Kamenice nad Lipou)
+END:VEVENT
 END:VCALENDAR
