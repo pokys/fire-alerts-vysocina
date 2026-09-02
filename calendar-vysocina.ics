@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:418869061
-DTSTART:20260831T084740Z
-DTEND:20260831T094740Z
-DTSTAMP:20260831T084740Z
-SUMMARY:🛠️ obtížný hmyz - Krahulov
-LOCATION:Krahulov
-GEO:49.219789;15.808122
-URL:geo:49.219789,15.808122
-DESCRIPTION:📍 Krahulov\, Třebíč\n💬 Odstranění obtížného hmyzu.\n\n🚒 CAS (CH
- S Třebíč)
-END:VEVENT
-BEGIN:VEVENT
 UID:418875061
 DTSTART:20260831T092710Z
 DTEND:20260831T102710Z
@@ -691,7 +679,8 @@ DESCRIPTION:📍 Chlébské\, Skorotice\, Žďár nad Sázavou\n💬 Požár les
   Pernštejnem)\n🚒 osobní automobil (Skorotice-Chlébské)\n🚒 DA (Štěpánov nad
   Svratkou)\n🚒 CAS (Štěpánov nad Svratkou)\n🚒 CAS (Bystřice nad Pernštejnem
  )\n🚒 CAS (Rožná)\n🚒 vyšetřovací automobil (ÚO Žďár nad Sázavou)\n🚒 CAS (Ví
- r)\n🚒 CAS (Strážek)
+ r)\n🚒 CAS (Strážek)\n🚒 přívěs motorová stříkačka (Věchnov)\n🚒 DA (Věžná (Z
+ R))
 END:VEVENT
 BEGIN:VEVENT
 UID:418960061
