@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:418876061
-DTSTART:20260831T095047Z
-DTEND:20260831T105047Z
-DTSTAMP:20260831T095047Z
-SUMMARY:🚑 transport pacienta - Osová Bítýška
-LOCATION:Osová Bítýška
-GEO:49.330108;16.196758
-URL:geo:49.330108,16.196758
-DESCRIPTION:📍 Osová\, Osová Bítýška\, Žďár nad Sázavou\n💬 Transport pacient
- a na žádost ZZS.\n\n🚒 CAS (HS Velká Bíteš)
-END:VEVENT
-BEGIN:VEVENT
 UID:418879061
 DTSTART:20260831T104129Z
 DTEND:20260831T114129Z
@@ -767,7 +755,19 @@ SUMMARY:🚗 bez zranění - Zadní Zhořec
 LOCATION:Zadní Zhořec
 GEO:49.431219;15.941815
 URL:geo:49.431219,15.941815
-DESCRIPTION:📍 Zadní Zhořec\, Žďár nad Sázavou\n\n🚒 CAS (HS Velké Meziříčí)\
- n🚒 RZA (HS Velké Meziříčí)
+DESCRIPTION:📍 Zadní Zhořec\, Žďár nad Sázavou\n💬 DN 2 OA. Zabezpečení místa
+  události.\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)
+END:VEVENT
+BEGIN:VEVENT
+UID:418984061
+DTSTART:20260902T093927Z
+DTEND:20260902T103927Z
+DTSTAMP:20260902T093927Z
+SUMMARY:🛠️ otevření bytu/auta - Havlíčkův Brod
+LOCATION:Smetanovo náměstí\, Havlíčkův Brod
+GEO:49.606985;15.576861
+URL:geo:49.606985,15.576861
+DESCRIPTION:📍 Smetanovo náměstí\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Br
+ od)
 END:VEVENT
 END:VCALENDAR
