@@ -668,7 +668,8 @@ DESCRIPTION:📍 Chlébské\, Skorotice\, Žďár nad Sázavou\n💬 Požár les
   Svratkou)\n🚒 CAS (Štěpánov nad Svratkou)\n🚒 CAS (Bystřice nad Pernštejnem
  )\n🚒 CAS (Rožná)\n🚒 vyšetřovací automobil (ÚO Žďár nad Sázavou)\n🚒 CAS (Ví
  r)\n🚒 CAS (Strážek)\n🚒 přívěs motorová stříkačka (Věchnov)\n🚒 DA (Věžná (Z
- R))
+ R))\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 osobní automobil (Věstín-Bolešín)\n🚒 
+ osobní automobil (Ujčov-Lískovec)\n🚒 DA (Ujčov)
 END:VEVENT
 BEGIN:VEVENT
 UID:418960061
@@ -742,8 +743,8 @@ SUMMARY:🛠️ strom - Kralice nad Oslavou
 LOCATION:Kralice nad Oslavou
 GEO:49.208785;16.220202
 URL:geo:49.208785,16.220202
-DESCRIPTION:📍 Horní Lhotice\, Kralice nad Oslavou\, Třebíč\n\n🚒 CAS (HS Nám
- ěšť nad Oslavou)\n🚒 AŽ (HS Náměšť nad Oslavou)
+DESCRIPTION:📍 Horní Lhotice\, Kralice nad Oslavou\, Třebíč\n💬 Odstranění st
+ romu.\n\n🚒 CAS (HS Náměšť nad Oslavou)\n🚒 AŽ (HS Náměšť nad Oslavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:418980061
@@ -756,5 +757,17 @@ GEO:49.052063;15.816776
 URL:geo:49.052063,15.816776
 DESCRIPTION:📍 Šafaříkova\, Moravské Budějovice\, Třebíč\n💬 Otevření bytu.\n
  \n🚒 CAS (HS Moravské Budějovice)
+END:VEVENT
+BEGIN:VEVENT
+UID:418983061
+DTSTART:20260902T092742Z
+DTEND:20260902T102742Z
+DTSTAMP:20260902T092742Z
+SUMMARY:🚗 bez zranění - Zadní Zhořec
+LOCATION:Zadní Zhořec
+GEO:49.431219;15.941815
+URL:geo:49.431219,15.941815
+DESCRIPTION:📍 Zadní Zhořec\, Žďár nad Sázavou\n\n🚒 CAS (HS Velké Meziříčí)\
+ n🚒 RZA (HS Velké Meziříčí)
 END:VEVENT
 END:VCALENDAR
