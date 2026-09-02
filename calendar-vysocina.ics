@@ -710,11 +710,12 @@ SUMMARY:🔥 les - Skorotice
 LOCATION:Skorotice
 GEO:49.477226;16.377732
 URL:geo:49.477226,16.377732
-DESCRIPTION:📍 Chlébské\, Skorotice\, Žďár nad Sázavou\n\n🚒 CAS (HS Bystřice
-  nad Pernštejnem)\n🚒 CAS (HS Bystřice nad Pernštejnem)\n🚒 osobní automobil
-  (Skorotice-Chlébské)\n🚒 DA (Štěpánov nad Svratkou)\n🚒 CAS (Štěpánov nad S
- vratkou)\n🚒 CAS (Bystřice nad Pernštejnem)\n🚒 CAS (Rožná)\n🚒 vyšetřovací a
- utomobil (ÚO Žďár nad Sázavou)\n🚒 CAS (Vír)\n🚒 CAS (Strážek)
+DESCRIPTION:📍 Chlébské\, Skorotice\, Žďár nad Sázavou\n💬 Požár lesa na ploš
+ e cca 1 ha.\n\n🚒 CAS (HS Bystřice nad Pernštejnem)\n🚒 CAS (HS Bystřice nad
+  Pernštejnem)\n🚒 osobní automobil (Skorotice-Chlébské)\n🚒 DA (Štěpánov nad
+  Svratkou)\n🚒 CAS (Štěpánov nad Svratkou)\n🚒 CAS (Bystřice nad Pernštejnem
+ )\n🚒 CAS (Rožná)\n🚒 vyšetřovací automobil (ÚO Žďár nad Sázavou)\n🚒 CAS (Ví
+ r)\n🚒 CAS (Strážek)
 END:VEVENT
 BEGIN:VEVENT
 UID:418960061
@@ -760,16 +761,16 @@ SUMMARY:🔥 tráva/plocha - Náměšť nad Oslavou
 LOCATION:Náměšť nad Oslavou
 GEO:49.202778;16.165800
 URL:geo:49.202778,16.165800
-DESCRIPTION:📍 Náměšť nad Oslavou\, Třebíč\n\n🚒 CAS (HS Náměšť nad Oslavou)\
- n🚒 CAS (HS Náměšť nad Oslavou)\n🚒 CAS (HS Velká Bíteš)\n🚒 CAS (Kralice nad
-  Oslavou)\n🚒 DA (Náměšť nad Oslavou)
+DESCRIPTION:📍 Náměšť nad Oslavou\, Třebíč\n💬 Dohašení ohniště.\n\n🚒 CAS (HS
+  Náměšť nad Oslavou)\n🚒 CAS (HS Náměšť nad Oslavou)\n🚒 CAS (HS Velká Bíteš
+ )\n🚒 CAS (Kralice nad Oslavou)\n🚒 DA (Náměšť nad Oslavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:418969061
 DTSTART:20260902T072614Z
 DTEND:20260902T082614Z
 DTSTAMP:20260902T072614Z
-SUMMARY:🔥 venkovní požár - Litohoř
+SUMMARY:⚠️ planý poplach - Litohoř
 LOCATION:Litohoř
 GEO:49.072135;15.762893
 URL:geo:49.072135,15.762893
