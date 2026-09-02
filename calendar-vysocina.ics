@@ -645,7 +645,8 @@ LOCATION:Kralice nad Oslavou
 GEO:49.208785;16.220202
 URL:geo:49.208785,16.220202
 DESCRIPTION:📍 Horní Lhotice\, Kralice nad Oslavou\, Třebíč\n💬 Odstranění st
- romu.\n\n🚒 CAS (HS Náměšť nad Oslavou)\n🚒 AŽ (HS Náměšť nad Oslavou)
+ romu.\n\n🚒 CAS (HS Náměšť nad Oslavou)\n🚒 AŽ (HS Náměšť nad Oslavou)\n🚒 pi
+ la řetězová (HS Náměšť nad Oslavou) ×2
 END:VEVENT
 BEGIN:VEVENT
 UID:418980061
@@ -768,5 +769,16 @@ GEO:49.357636;16.004148
 URL:geo:49.357636,16.004148
 DESCRIPTION:📍 U Světlé\, Velké Meziříčí\, Žďár nad Sázavou\n💬 Otevření bytu
  .\n\n🚒 CAS (HS Velké Meziříčí)
+END:VEVENT
+BEGIN:VEVENT
+UID:418999061
+DTSTART:20260902T134412Z
+DTEND:20260902T144412Z
+DTSTAMP:20260902T134412Z
+SUMMARY:🛠️ otevření bytu/auta - Třešť
+LOCATION:Palackého\, Třešť
+GEO:49.285623;15.481628
+URL:geo:49.285623,15.481628
+DESCRIPTION:📍 Palackého\, Třešť\, Jihlava\n\n🚒 CAS (HS Třešť)
 END:VEVENT
 END:VCALENDAR
