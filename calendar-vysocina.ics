@@ -639,13 +639,14 @@ LOCATION:Skorotice
 GEO:49.477226;16.377732
 URL:geo:49.477226,16.377732
 DESCRIPTION:📍 Chlébské\, Skorotice\, Žďár nad Sázavou\n💬 Požár lesa na ploš
- e cca 1 ha.\n\n🚒 CAS (HS Bystřice nad Pernštejnem)\n🚒 CAS (HS Bystřice nad
-  Pernštejnem)\n🚒 osobní automobil (Skorotice-Chlébské)\n🚒 DA (Štěpánov nad
-  Svratkou)\n🚒 CAS (Štěpánov nad Svratkou)\n🚒 CAS (Bystřice nad Pernštejnem
- )\n🚒 CAS (Rožná)\n🚒 vyšetřovací automobil (ÚO Žďár nad Sázavou)\n🚒 CAS (Ví
- r)\n🚒 CAS (Strážek)\n🚒 přívěs motorová stříkačka (Věchnov)\n🚒 DA (Věžná (Z
- R))\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 osobní automobil (Věstín-Bolešín)\n🚒 
- osobní automobil (Ujčov-Lískovec)\n🚒 DA (Ujčov)
+ e cca 1\,5 ha.\n\n🚒 CAS (HS Bystřice nad Pernštejnem)\n🚒 CAS (HS Bystřice 
+ nad Pernštejnem)\n🚒 vozidlo účelové - SxS (HS Bystřice nad Pernštejnem)\n🚒
+  osobní automobil (Skorotice-Chlébské)\n🚒 DA (Štěpánov nad Svratkou)\n🚒 CA
+ S (Štěpánov nad Svratkou)\n🚒 CAS (Bystřice nad Pernštejnem)\n🚒 CAS (Rožná)
+ \n🚒 vyšetřovací automobil (ÚO Žďár nad Sázavou)\n🚒 CAS (Vír)\n🚒 CAS (Stráž
+ ek)\n🚒 přívěs motorová stříkačka (Věchnov)\n🚒 DA (Věžná (ZR))\n🚒 CAS (CHS 
+ Žďár nad Sázavou)\n🚒 osobní automobil (Věstín-Bolešín)\n🚒 osobní automobil
+  (Ujčov-Lískovec)\n🚒 DA (Ujčov)
 END:VEVENT
 BEGIN:VEVENT
 UID:418960061
@@ -767,6 +768,7 @@ SUMMARY:🛠️ otevření bytu/auta - Polná
 LOCATION:Rérychova\, Polná
 GEO:49.485960;15.699774
 URL:geo:49.485960,15.699774
-DESCRIPTION:📍 Rérychova\, Polná\, Jihlava\n\n🚒 CAS (HS Polná)
+DESCRIPTION:📍 Rérychova\, Polná\, Jihlava\n💬 Otevření bytu.\n\n🚒 CAS (HS Po
+ lná)
 END:VEVENT
 END:VCALENDAR
