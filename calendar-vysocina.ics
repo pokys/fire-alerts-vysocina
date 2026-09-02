@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:418896061
-DTSTART:20260831T155418Z
-DTEND:20260831T165418Z
-DTSTAMP:20260831T155418Z
-SUMMARY:⚠️ planý poplach - Havlíčkův Brod
-LOCATION:Reynkova\, Havlíčkův Brod
-GEO:49.617233;15.579301
-URL:geo:49.617233,15.579301
-DESCRIPTION:📍 Reynkova\, Havlíčkův Brod\n💬 Požár ohlášený systémem elektric
- ké požární signalizace. Průzkumem bylo zjištěno\, že se jedná o planý popl
- ach.\n\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 CAS (CHS Havlíčkův Brod)
-END:VEVENT
-BEGIN:VEVENT
 UID:418897061
 DTSTART:20260831T160151Z
 DTEND:20260831T170151Z
