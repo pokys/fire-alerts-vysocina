@@ -616,7 +616,7 @@ LOCATION:Okružní\, Třebíč
 GEO:49.206654;15.844545
 URL:geo:49.206654,15.844545
 DESCRIPTION:📍 Okružní\, Borovina\, Třebíč\n💬 Odstranění obtížného hmyzu.\n\
- n🚒 CAS (CHS Třebíč) ×2
+ n🚒 CAS (CHS Třebíč)
 END:VEVENT
 BEGIN:VEVENT
 UID:419040061
@@ -639,6 +639,20 @@ SUMMARY:🛠️ obtížný hmyz - Pacov
 LOCATION:Barvířská\, Pacov
 GEO:49.471403;14.997668
 URL:geo:49.471403,14.997668
-DESCRIPTION:📍 Barvířská\, Pacov\, Pelhřimov\n\n🚒 CAS (HS Pacov)
+DESCRIPTION:📍 Barvířská\, Pacov\, Pelhřimov\n💬 Odstranění obtížného hmyzu.\
+ n\n🚒 CAS (HS Pacov)
+END:VEVENT
+BEGIN:VEVENT
+UID:419046061
+DTSTART:20260903T164551Z
+DTEND:20260903T174551Z
+DTSTAMP:20260903T164551Z
+SUMMARY:🔥 tráva/plocha - Vícenice
+LOCATION:Vícenice
+GEO:49.093377;15.819360
+URL:geo:49.093377,15.819360
+DESCRIPTION:📍 Vícenice\, Třebíč\n\n🚒 CAS (HS Moravské Budějovice)\n🚒 CAS (H
+ S Moravské Budějovice)\n🚒 CAS (Jaroměřice nad Rokytnou)\n🚒 CAS (Jaroměřice
+  nad Rokytnou)\n🚒 CAS (Moravské Budějovice)\n🚒 DA (Vícenice)
 END:VEVENT
 END:VCALENDAR
