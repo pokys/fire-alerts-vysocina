@@ -650,8 +650,9 @@ SUMMARY:🚗 dopravní nehoda - Brtnice
 LOCATION:Černé lesy\, Brtnice
 GEO:49.300563;15.708439
 URL:geo:49.300563,15.708439
-DESCRIPTION:📍 Černé lesy\, Brtnice\, Jihlava\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA 
- (CHS Jihlava)
+DESCRIPTION:📍 Černé lesy\, Brtnice\, Jihlava\n💬 DN motockylu\, 1 zraněná os
+ oba. Provedeno zajištění místa nehody.\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS 
+ Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:419036061
@@ -673,6 +674,7 @@ SUMMARY:🛠️ obtížný hmyz - Třebíč
 LOCATION:Okružní\, Třebíč
 GEO:49.206654;15.844545
 URL:geo:49.206654,15.844545
-DESCRIPTION:📍 Okružní\, Borovina\, Třebíč\n\n🚒 CAS (CHS Třebíč) ×2
+DESCRIPTION:📍 Okružní\, Borovina\, Třebíč\n💬 Odstranění obtížného hmyzu.\n\
+ n🚒 CAS (CHS Třebíč) ×2
 END:VEVENT
 END:VCALENDAR
