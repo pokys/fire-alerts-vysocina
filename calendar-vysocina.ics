@@ -5,30 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:418946061
-DTSTART:20260901T175104Z
-DTEND:20260901T185104Z
-DTSTAMP:20260901T175104Z
-SUMMARY:🛠️ obtížný hmyz - Hamry nad Sázavou
-LOCATION:Hamry nad Sázavou
-GEO:49.566794;15.896020
-URL:geo:49.566794,15.896020
-DESCRIPTION:📍 Hamry nad Sázavou\, Žďár nad Sázavou\n💬 Odstranění obtížného 
- hmyzu.\n\n🚒 CAS (Hamry nad Sázavou-Najdek)
-END:VEVENT
-BEGIN:VEVENT
-UID:418947061
-DTSTART:20260901T175824Z
-DTEND:20260901T185824Z
-DTSTAMP:20260901T175824Z
-SUMMARY:🛠️ obtížný hmyz - Hrotovice
-LOCATION:Podloučky\, Hrotovice
-GEO:49.106033;16.063889
-URL:geo:49.106033,16.063889
-DESCRIPTION:📍 Podloučky\, Hrotovice\, Třebíč\n💬 Odstranění obtížného hmyzu.
- \n\n🚒 CAS (HS Hrotovice)
-END:VEVENT
-BEGIN:VEVENT
 UID:418948061
 DTSTART:20260901T190442Z
 DTEND:20260901T200442Z
@@ -665,7 +641,8 @@ SUMMARY:🚑 otevření/asistence - Havlíčkův Brod
 LOCATION:Žižkov II\, Havlíčkův Brod
 GEO:49.609300;15.593405
 URL:geo:49.609300,15.593405
-DESCRIPTION:📍 Žižkov II\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)
+DESCRIPTION:📍 Žižkov II\, Havlíčkův Brod\n💬 Otevření bytu.\n\n🚒 CAS (CHS Ha
+ vlíčkův Brod)
 END:VEVENT
 BEGIN:VEVENT
 UID:419050061
