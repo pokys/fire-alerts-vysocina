@@ -666,4 +666,28 @@ URL:geo:49.406793,15.584112
 DESCRIPTION:📍 Pražská\, Jihlava\n💬 Likvidace olejové skvrny na vozovce\n\n🚒
   CAS (CHS Jihlava)\n🚒 účelový automobil do 3500 kg (ÚO Jihlava)
 END:VEVENT
+BEGIN:VEVENT
+UID:419027061
+DTSTART:20260903T104253Z
+DTEND:20260903T114253Z
+DTSTAMP:20260903T104253Z
+SUMMARY:🛠️ obtížný hmyz - Želetava
+LOCATION:Želetava
+GEO:49.126909;15.696023
+URL:geo:49.126909,15.696023
+DESCRIPTION:📍 Horky\, Želetava\, Třebíč\n💬 Odstranění obtížného hmyzu.\n\n🚒
+  CAS (Želetava)
+END:VEVENT
+BEGIN:VEVENT
+UID:419028061
+DTSTART:20260903T104351Z
+DTEND:20260903T114351Z
+DTSTAMP:20260903T104351Z
+SUMMARY:🛠️ otevření bytu/auta - Skryje
+LOCATION:Skryje
+GEO:49.843282;15.491602
+URL:geo:49.843282,15.491602
+DESCRIPTION:📍 Skryje\, Havlíčkův Brod\n\n🚒 CAS (HS Ledeč nad Sázavou)\n🚒 CA
+ S (Golčův Jeníkov)
+END:VEVENT
 END:VCALENDAR
