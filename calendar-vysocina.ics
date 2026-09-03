@@ -631,4 +631,16 @@ URL:geo:49.525208,16.250008
 DESCRIPTION:📍 Hornická\, Bystřice nad Pernštejnem\, Žďár nad Sázavou\n💬 Pla
  ný poplach.\n\n🚒 CAS (HS Bystřice nad Pernštejnem)
 END:VEVENT
+BEGIN:VEVENT
+UID:419052061
+DTSTART:20260903T220529Z
+DTEND:20260903T230529Z
+DTSTAMP:20260903T220529Z
+SUMMARY:🚑 transport pacienta - Kamenice nad Lipou
+LOCATION:Kamenice nad Lipou
+GEO:49.309812;15.082700
+URL:geo:49.309812,15.082700
+DESCRIPTION:📍 Johanka\, Kamenice nad Lipou\, Pelhřimov\n\n🚒 CAS (HS Kamenic
+ e nad Lipou)
+END:VEVENT
 END:VCALENDAR
