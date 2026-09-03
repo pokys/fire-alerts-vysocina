@@ -665,6 +665,31 @@ SUMMARY:🛠️ obtížný hmyz - Pacov
 LOCATION:Sídliště Míru\, Pacov
 GEO:49.463681;15.007038
 URL:geo:49.463681,15.007038
-DESCRIPTION:📍 Sídliště Míru\, Pacov\, Pelhřimov\n\n🚒 CAS (HS Pacov)
+DESCRIPTION:📍 Sídliště Míru\, Pacov\, Pelhřimov\n💬 Odstranění obtížného hmy
+ zu.\n\n🚒 CAS (HS Pacov)
+END:VEVENT
+BEGIN:VEVENT
+UID:419017061
+DTSTART:20260903T065025Z
+DTEND:20260903T075025Z
+DTSTAMP:20260903T065025Z
+SUMMARY:🛠️ čerpání vody - Ždírec nad Doubravou
+LOCATION:Ždírec nad Doubravou
+GEO:49.692178;15.815326
+URL:geo:49.692178,15.815326
+DESCRIPTION:📍 Ždírec nad Doubravou\, Havlíčkův Brod\n\n🚒 CAS (Ždírec nad Do
+ ubravou)
+END:VEVENT
+BEGIN:VEVENT
+UID:419018061
+DTSTART:20260903T065538Z
+DTEND:20260903T075538Z
+DTSTAMP:20260903T065538Z
+SUMMARY:🛠️ otevření bytu/auta - Třebíč
+LOCATION:Fr. Hrubína\, Třebíč
+GEO:49.221053;15.881189
+URL:geo:49.221053,15.881189
+DESCRIPTION:📍 Fr. Hrubína\, Nové Dvory\, Třebíč\n💬 Otevření bytu.\n\n🚒 CAS 
+ (CHS Třebíč)
 END:VEVENT
 END:VCALENDAR
