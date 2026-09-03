@@ -655,4 +655,16 @@ GEO:49.492504;15.701221
 URL:geo:49.492504,15.701221
 DESCRIPTION:📍 Resslova\, Polná\, Jihlava\n\n🚒 CAS (Polná)
 END:VEVENT
+BEGIN:VEVENT
+UID:419051061
+DTSTART:20260903T183039Z
+DTEND:20260903T193039Z
+DTSTAMP:20260903T183039Z
+SUMMARY:🛠️ otevření bytu/auta - Bystřice nad Pernštejnem
+LOCATION:Hornická\, Bystřice nad Pernštejnem
+GEO:49.525208;16.250008
+URL:geo:49.525208,16.250008
+DESCRIPTION:📍 Hornická\, Bystřice nad Pernštejnem\, Žďár nad Sázavou\n\n🚒 C
+ AS (HS Bystřice nad Pernštejnem)
+END:VEVENT
 END:VCALENDAR
