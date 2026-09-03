@@ -651,7 +651,8 @@ SUMMARY:🚗 dopravní nehoda - Jihlava
 LOCATION:Jihlava
 GEO:49.402012;15.626036
 URL:geo:49.402012,15.626036
-DESCRIPTION:🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihlava)
+DESCRIPTION:💬 DN 2 OA a motocyklu\, 1 zraněná osoba. Provedeno zajištění mí
+ sta nehody.\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:419037061
@@ -664,5 +665,16 @@ GEO:49.206654;15.844545
 URL:geo:49.206654,15.844545
 DESCRIPTION:📍 Okružní\, Borovina\, Třebíč\n💬 Odstranění obtížného hmyzu.\n\
  n🚒 CAS (CHS Třebíč) ×2
+END:VEVENT
+BEGIN:VEVENT
+UID:419040061
+DTSTART:20260903T150859Z
+DTEND:20260903T160859Z
+DTSTAMP:20260903T150859Z
+SUMMARY:🛠️ obtížný hmyz - Pacov
+LOCATION:Pacov
+GEO:49.471787;14.996423
+URL:geo:49.471787,14.996423
+DESCRIPTION:📍 Pacov\, Pelhřimov\n\n🚒 CAS (HS Pacov)
 END:VEVENT
 END:VCALENDAR
