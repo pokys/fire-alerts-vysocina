@@ -294,14 +294,14 @@ GEO:49.477226;16.377732
 URL:geo:49.477226,16.377732
 DESCRIPTION:📍 Chlébské\, Skorotice\, Žďár nad Sázavou\n💬 Požár lesa na ploš
  e cca 1\,5 ha. Provedena lokalizace a likvidace požáru.\n\n🚒 CAS (HS Bystř
- ice nad Pernštejnem)\n🚒 CAS (HS Bystřice nad Pernštejnem)\n🚒 vozidlo účelo
- vé - SxS (HS Bystřice nad Pernštejnem)\n🚒 osobní automobil (Skorotice-Chlé
- bské)\n🚒 DA (Štěpánov nad Svratkou)\n🚒 CAS (Štěpánov nad Svratkou)\n🚒 CAS 
- (Bystřice nad Pernštejnem)\n🚒 DA (Rožná)\n🚒 CAS (Rožná)\n🚒 vyšetřovací aut
- omobil (ÚO Žďár nad Sázavou)\n🚒 DA (Vír)\n🚒 CAS (Vír)\n🚒 CAS (Strážek)\n🚒 
- přívěs motorová stříkačka (Věchnov)\n🚒 DA (Věžná (ZR))\n🚒 CAS (CHS Žďár na
- d Sázavou)\n🚒 osobní automobil (Věstín-Bolešín)\n🚒 osobní automobil (Ujčov
- -Lískovec)\n🚒 DA (Ujčov)
+ ice nad Pernštejnem) ×2\n🚒 CAS (HS Bystřice nad Pernštejnem)\n🚒 vozidlo úč
+ elové - SxS (HS Bystřice nad Pernštejnem)\n🚒 osobní automobil (Skorotice-C
+ hlébské)\n🚒 DA (Štěpánov nad Svratkou)\n🚒 CAS (Štěpánov nad Svratkou)\n🚒 C
+ AS (Bystřice nad Pernštejnem)\n🚒 DA (Rožná)\n🚒 CAS (Rožná)\n🚒 vyšetřovací 
+ automobil (ÚO Žďár nad Sázavou)\n🚒 DA (Vír)\n🚒 CAS (Vír)\n🚒 CAS (Strážek)\
+ n🚒 přívěs motorová stříkačka (Věchnov)\n🚒 DA (Věžná (ZR))\n🚒 CAS (CHS Žďár
+  nad Sázavou)\n🚒 osobní automobil (Věstín-Bolešín)\n🚒 osobní automobil (Uj
+ čov-Lískovec)\n🚒 DA (Ujčov)
 END:VEVENT
 BEGIN:VEVENT
 UID:418960061
@@ -655,5 +655,28 @@ GEO:49.720266;15.672849
 URL:geo:49.720266,15.672849
 DESCRIPTION:📍 Smetanova\, Chotěboř\, Havlíčkův Brod\n💬 Transport pacienta n
  a žádost ZZS.\n\n🚒 CAS (HS Chotěboř)
+END:VEVENT
+BEGIN:VEVENT
+UID:419015061
+DTSTART:20260903T061434Z
+DTEND:20260903T071434Z
+DTSTAMP:20260903T061434Z
+SUMMARY:🛠️ obtížný hmyz - Humpolec
+LOCATION:Na Rybníčku\, Humpolec
+GEO:49.546157;15.356145
+URL:geo:49.546157,15.356145
+DESCRIPTION:📍 Na Rybníčku\, Humpolec\, Pelhřimov\n💬 Odstranění obtížného hm
+ yzu.\n\n🚒 CAS (HS Humpolec)
+END:VEVENT
+BEGIN:VEVENT
+UID:419016061
+DTSTART:20260903T061532Z
+DTEND:20260903T071532Z
+DTSTAMP:20260903T061532Z
+SUMMARY:🛠️ obtížný hmyz - Pacov
+LOCATION:Sídliště Míru\, Pacov
+GEO:49.463681;15.007038
+URL:geo:49.463681,15.007038
+DESCRIPTION:📍 Sídliště Míru\, Pacov\, Pelhřimov\n\n🚒 CAS (HS Pacov)
 END:VEVENT
 END:VCALENDAR
