@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:418964061
-DTSTART:20260902T065928Z
-DTEND:20260902T075928Z
-DTSTAMP:20260902T065928Z
-SUMMARY:🛠️ strom - Borek
-LOCATION:Borek
-GEO:49.793547;15.585650
-URL:geo:49.793547,15.585650
-DESCRIPTION:📍 Borek\, Havlíčkův Brod\n💬 Odstranění stromu.\n\n🚒 automobilov
- á plošina do 30 m (HS Chotěboř)
-END:VEVENT
-BEGIN:VEVENT
 UID:418967061
 DTSTART:20260902T072130Z
 DTEND:20260902T082130Z
@@ -607,13 +595,13 @@ UID:419057061
 DTSTART:20260904T044952Z
 DTEND:20260904T054952Z
 DTSTAMP:20260904T044952Z
-SUMMARY:🚗 dopravní nehoda - Jabloňov
+SUMMARY:🚗 bez zranění - Jabloňov
 LOCATION:Jabloňov
 GEO:49.328565;16.075452
 URL:geo:49.328565,16.075452
-DESCRIPTION:📍 Jabloňov\, Žďár nad Sázavou\n💬 Dopravní nehoda  1 OA\, bez zr
- anění. Zajištění místa události.\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (HS V
- elké Meziříčí)\n🚒 osobní automobil (HS Velké Meziříčí)
+DESCRIPTION:📍 Jabloňov\, Žďár nad Sázavou\n💬 Dopravní nehoda 1 OA\, bez zra
+ nění. Zajištění místa události. Úklid vozovky.\n\n🚒 CAS (HS Velké Meziříčí
+ )\n🚒 RZA (HS Velké Meziříčí)\n🚒 osobní automobil (HS Velké Meziříčí)
 END:VEVENT
 BEGIN:VEVENT
 UID:419059061
@@ -629,15 +617,17 @@ DESCRIPTION:📍 Dobrnice\, Leština u Světlé\, Havlíčkův Brod\n💬 Odstra
 END:VEVENT
 BEGIN:VEVENT
 UID:419062061
-DTSTART:20260904T052027Z
-DTEND:20260904T062027Z
-DTSTAMP:20260904T052027Z
+DTSTART:20260904T052009Z
+DTEND:20260904T062009Z
+DTSTAMP:20260904T052009Z
 SUMMARY:🚗 se zraněním - Slavníč
 LOCATION:Slavníč
 GEO:49.514904;15.459100
 URL:geo:49.514904,15.459100
-DESCRIPTION:📍 Slavníč\, Havlíčkův Brod\n\n🚒 CAS (HS Humpolec)\n🚒 RZA (HS Hu
- mpolec)
+DESCRIPTION:📍 Slavníč\, Havlíčkův Brod\n💬 DN 1 kamionu a dodávkového vozidl
+ a. Vyproštění 1 zraněné osoby z havarované dodávky a její předání do péče 
+ ZZS. Likvidace uniklých provozních kapalin. Provedeno protipožární opatřen
+ í.\n\n🚒 CAS (HS Humpolec)\n🚒 RZA (HS Humpolec)
 END:VEVENT
 BEGIN:VEVENT
 UID:419065061
@@ -658,6 +648,32 @@ SUMMARY:🛠️ obtížný hmyz - Polná
 LOCATION:Resslova\, Polná
 GEO:49.488953;15.708147
 URL:geo:49.488953,15.708147
-DESCRIPTION:📍 Resslova\, Polná\, Jihlava\n\n🚒 CAS (HS Polná)
+DESCRIPTION:📍 Resslova\, Polná\, Jihlava\n💬 Odstranění obtížného hmyzu.\n\n
+ 🚒 CAS (HS Polná)
+END:VEVENT
+BEGIN:VEVENT
+UID:419070061
+DTSTART:20260904T064102Z
+DTEND:20260904T074102Z
+DTSTAMP:20260904T064102Z
+SUMMARY:⚠️ planý poplach - Jihlava
+LOCATION:Masarykovo náměstí\, Jihlava
+GEO:49.396657;15.588905
+URL:geo:49.396657,15.588905
+DESCRIPTION:📍 Masarykovo náměstí\, Jihlava\n💬 Požár ohlášený systémem elekt
+ rické požární signalizace. Průzkumem bylo zjištěno\, že se jedná o planý p
+ oplach.\n\n🚒 CAS (CHS Jihlava) ×2\n🚒 CAS (CHS Jihlava) ×2
+END:VEVENT
+BEGIN:VEVENT
+UID:419071061
+DTSTART:20260904T064350Z
+DTEND:20260904T074350Z
+DTSTAMP:20260904T064350Z
+SUMMARY:🛠️ strom - Krucemburk
+LOCATION:Javorová\, Krucemburk
+GEO:49.690790;15.848855
+URL:geo:49.690790,15.848855
+DESCRIPTION:📍 Javorová\, Krucemburk\, Havlíčkův Brod\n💬 Odstranění stromu.\
+ n\n🚒 CAS (Krucemburk)
 END:VEVENT
 END:VCALENDAR
