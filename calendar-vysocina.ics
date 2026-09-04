@@ -659,7 +659,7 @@ SUMMARY:🛠️ strom - Dudín
 LOCATION:Dudín
 GEO:49.455960;15.393338
 URL:geo:49.455960,15.393338
-DESCRIPTION:📍 Dudín\, Jihlava\n\n🚒 CAS (Opatov (JI))
+DESCRIPTION:📍 Dudín\, Jihlava\n💬 Odstranění stromu.\n\n🚒 CAS (Opatov (JI))
 END:VEVENT
 BEGIN:VEVENT
 UID:419085061
@@ -670,6 +670,7 @@ SUMMARY:🛠️ otevření bytu/auta - Chotěboř
 LOCATION:Družstevní\, Chotěboř
 GEO:49.718691;15.666731
 URL:geo:49.718691,15.666731
-DESCRIPTION:📍 Družstevní\, Chotěboř\, Havlíčkův Brod\n\n🚒 CAS (HS Chotěboř)
+DESCRIPTION:📍 Družstevní\, Chotěboř\, Havlíčkův Brod\n💬 Otevření OA.\n\n🚒 C
+ AS (HS Chotěboř)
 END:VEVENT
 END:VCALENDAR
