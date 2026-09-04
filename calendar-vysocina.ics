@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:418992061
-DTSTART:20260902T121514Z
-DTEND:20260902T131514Z
-DTSTAMP:20260902T121514Z
-SUMMARY:☣️ olej/PHM - Jihlava
-LOCATION:Žižkova\, Jihlava
-GEO:49.395173;15.568433
-URL:geo:49.395173,15.568433
-DESCRIPTION:📍 Žižkova\, Jihlava\n💬 Likvidace úniku kyseliny z poškozené bat
- erie.\n\n🚒 CAS (CHS Jihlava)
-END:VEVENT
-BEGIN:VEVENT
 UID:418993061
 DTSTART:20260902T123418Z
 DTEND:20260902T133418Z
@@ -646,8 +634,8 @@ SUMMARY:🛠️ obtížný hmyz - Nové Město na Moravě
 LOCATION:Nové Město na Moravě
 GEO:49.552580;16.027223
 URL:geo:49.552580,16.027223
-DESCRIPTION:📍 Slavkovice\, Nové Město na Moravě\, Žďár nad Sázavou\n\n🚒 CAS
-  (CHS Žďár nad Sázavou)
+DESCRIPTION:📍 Slavkovice\, Nové Město na Moravě\, Žďár nad Sázavou\n💬 Odstr
+ anění obtížného hmyzu.\n\n🚒 CAS (CHS Žďár nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:419091061
@@ -682,5 +670,17 @@ LOCATION:Domečkova\, Černovice
 GEO:49.374107;14.969667
 URL:geo:49.374107,14.969667
 DESCRIPTION:📍 Domečkova\, Černovice\, Pelhřimov\n\n🚒 CAS (HS Pacov)
+END:VEVENT
+BEGIN:VEVENT
+UID:419095061
+DTSTART:20260904T120401Z
+DTEND:20260904T130401Z
+DTSTAMP:20260904T120401Z
+SUMMARY:🚗 dopravní nehoda - Jívoví
+LOCATION:Jívoví
+GEO:49.405916;16.121338
+URL:geo:49.405916,16.121338
+DESCRIPTION:📍 Jívoví\, Žďár nad Sázavou\n\n🚒 CAS (Křižanov)\n🚒 CAS (HS Velk
+ é Meziříčí)\n🚒 RZA (HS Velké Meziříčí)
 END:VEVENT
 END:VCALENDAR
