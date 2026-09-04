@@ -631,4 +631,16 @@ URL:geo:49.309812,15.082700
 DESCRIPTION:📍 Johanka\, Kamenice nad Lipou\, Pelhřimov\n💬 Transport pacient
  a na žádost ZZS.\n\n🚒 CAS (HS Kamenice nad Lipou)
 END:VEVENT
+BEGIN:VEVENT
+UID:419054061
+DTSTART:20260904T033232Z
+DTEND:20260904T043232Z
+DTSTAMP:20260904T033232Z
+SUMMARY:🔥 Žďár nad Sázavou
+LOCATION:Jamská\, Žďár nad Sázavou
+GEO:49.556627;15.956561
+URL:geo:49.556627,15.956561
+DESCRIPTION:📍 Jamská\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n\n🚒 CAS (CHS 
+ Žďár nad Sázavou) ×2
+END:VEVENT
 END:VCALENDAR
