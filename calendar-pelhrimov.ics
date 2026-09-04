@@ -139,4 +139,17 @@ DESCRIPTION:📍 Chválkov\, Mnich\, Pelhřimov\n💬 Taktické cvičení.\n\n�
  n🚒 přívěs motorová stříkačka (Mnich-Mirotín)\n🚒 přívěs motorová stříkačka 
  (Rodinov)\n🚒 přívěs motorová stříkačka (Včelnička)\n🚒 DA (Lhota-Vlasenice)
 END:VEVENT
+BEGIN:VEVENT
+UID:419112061
+DTSTART:20260904T161916Z
+DTEND:20260904T171916Z
+DTSTAMP:20260904T161916Z
+SUMMARY:🛠️ spolupráce IZS - Těmice
+LOCATION:Těmice
+GEO:49.361664;15.086828
+URL:geo:49.361664,15.086828
+DESCRIPTION:📍 Knížata\, Těmice\, Pelhřimov\n\n🚒 CAS (Černovice)\n🚒 CAS (Těm
+ ice)\n🚒 DA (Lidmaň)\n🚒 DA (Božejov)\n🚒 DA (Kamenice nad Lipou)\n🚒 CAS (Kam
+ enice nad Lipou)
+END:VEVENT
 END:VCALENDAR
