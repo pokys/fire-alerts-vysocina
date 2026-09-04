@@ -5,41 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:419002061
-DTSTART:20260902T160122Z
-DTEND:20260902T170122Z
-DTSTAMP:20260902T160122Z
-SUMMARY:🛠️ strom - Havlíčkův Brod
-LOCATION:Havlíčkův Brod
-GEO:49.619328;15.537692
-URL:geo:49.619328,15.537692
-DESCRIPTION:💬 Odstranění stromu.\n\n🚒 CAS (CHS Havlíčkův Brod)
-END:VEVENT
-BEGIN:VEVENT
-UID:419004061
-DTSTART:20260902T160301Z
-DTEND:20260902T170301Z
-DTSTAMP:20260902T160301Z
-SUMMARY:🛠️ obtížný hmyz - Lipnice nad Sázavou
-LOCATION:Lipnice nad Sázavou
-GEO:49.622270;15.422489
-URL:geo:49.622270,15.422489
-DESCRIPTION:📍 Vilémovec\, Lipnice nad Sázavou\, Havlíčkův Brod\n💬 Odstraněn
- í obtížného hmyzu.\n\n🚒 CAS (Lipnice nad Sázavou)
-END:VEVENT
-BEGIN:VEVENT
-UID:419005061
-DTSTART:20260902T161006Z
-DTEND:20260902T171006Z
-DTSTAMP:20260902T161006Z
-SUMMARY:🛠️ obtížný hmyz - Křešín
-LOCATION:Křešín
-GEO:49.576866;15.052612
-URL:geo:49.576866,15.052612
-DESCRIPTION:📍 Blažnov\, Křešín\, Pelhřimov\n💬 Odstranění obtížného hmyzu.\n
- \n🚒 CAS (Lukavec)
-END:VEVENT
-BEGIN:VEVENT
 UID:419006061
 DTSTART:20260902T162659Z
 DTEND:20260902T172659Z
@@ -704,8 +669,8 @@ SUMMARY:🛠️ obtížný hmyz - Ždírec nad Doubravou
 LOCATION:Ždírec nad Doubravou
 GEO:49.703694;15.827067
 URL:geo:49.703694,15.827067
-DESCRIPTION:📍 Kohoutov\, Ždírec nad Doubravou\, Havlíčkův Brod\n\n🚒 DA (Ždí
- rec nad Doubravou)
+DESCRIPTION:📍 Kohoutov\, Ždírec nad Doubravou\, Havlíčkův Brod\n💬 Odstraněn
+ í obtížného hmyzu.\n\n🚒 DA (Ždírec nad Doubravou)
 END:VEVENT
 BEGIN:VEVENT
 UID:419108061
