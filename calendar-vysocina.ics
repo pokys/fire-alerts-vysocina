@@ -670,10 +670,10 @@ DTSTART:20260904T064350Z
 DTEND:20260904T074350Z
 DTSTAMP:20260904T064350Z
 SUMMARY:🛠️ strom - Krucemburk
-LOCATION:Javorová\, Krucemburk
-GEO:49.690790;15.848855
-URL:geo:49.690790,15.848855
-DESCRIPTION:📍 Javorová\, Krucemburk\, Havlíčkův Brod\n💬 Odstranění stromu.\
- n\n🚒 CAS (Krucemburk)
+LOCATION:Krucemburk
+GEO:49.691836;15.849278
+URL:geo:49.691836,15.849278
+DESCRIPTION:📍 Krucemburk\, Havlíčkův Brod\n💬 Odstranění stromu.\n\n🚒 CAS (K
+ rucemburk)
 END:VEVENT
 END:VCALENDAR
