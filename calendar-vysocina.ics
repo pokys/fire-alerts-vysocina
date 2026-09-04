@@ -5,30 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:418956061
-DTSTART:20260902T045029Z
-DTEND:20260902T055029Z
-DTSTAMP:20260902T045029Z
-SUMMARY:🚑 spolupráce ZZS - Pavlov
-LOCATION:Pavlov
-GEO:49.450566;15.910192
-URL:geo:49.450566,15.910192
-DESCRIPTION:📍 Pavlov\, Žďár nad Sázavou\n💬 Spolupráce se ZZS.\n\n🚒 CAS (CHS
-  Žďár nad Sázavou)\n🚒 CAS (Bohdalov)
-END:VEVENT
-BEGIN:VEVENT
-UID:418958061
-DTSTART:20260902T045503Z
-DTEND:20260902T055503Z
-DTSTAMP:20260902T045503Z
-SUMMARY:🚑 transport pacienta - Horní Ves
-LOCATION:Horní Ves
-GEO:49.289811;15.302100
-URL:geo:49.289811,15.302100
-DESCRIPTION:📍 Horní Ves\, Pelhřimov\n💬 Transport pacienta na žádost ZZS.\n\
- n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (Počátky)
-END:VEVENT
-BEGIN:VEVENT
 UID:418959061
 DTSTART:20260902T062119Z
 DTEND:20260902T072119Z
@@ -605,7 +581,8 @@ SUMMARY:🛠️ ostatní - Polná
 LOCATION:Resslova\, Polná
 GEO:49.492504;15.701221
 URL:geo:49.492504,15.701221
-DESCRIPTION:📍 Resslova\, Polná\, Jihlava\n\n🚒 CAS (Polná)
+DESCRIPTION:📍 Resslova\, Polná\, Jihlava\n💬 Pročištění kanalizace.\n\n🚒 CAS
+  (Polná)
 END:VEVENT
 BEGIN:VEVENT
 UID:419051061
@@ -665,7 +642,20 @@ SUMMARY:🚗 dopravní nehoda - Lavičky
 LOCATION:Lavičky
 GEO:49.368355;15.974390
 URL:geo:49.368355,15.974390
-DESCRIPTION:📍 Lavičky\, Žďár nad Sázavou\n💬 DN 2 OA s 1 zraněnou osobou.\n\
- n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)
+DESCRIPTION:📍 Lavičky\, Žďár nad Sázavou\n💬 DN 2 x OA jedna zraněná osoba. 
+ Zajištění místa události.\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (HS Velké Me
+ ziříčí)
+END:VEVENT
+BEGIN:VEVENT
+UID:419057061
+DTSTART:20260904T044952Z
+DTEND:20260904T054952Z
+DTSTAMP:20260904T044952Z
+SUMMARY:🚗 dopravní nehoda - Jabloňov
+LOCATION:Jabloňov
+GEO:49.328565;16.075452
+URL:geo:49.328565,16.075452
+DESCRIPTION:📍 Jabloňov\, Žďár nad Sázavou\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 R
+ ZA (HS Velké Meziříčí)
 END:VEVENT
 END:VCALENDAR
