@@ -152,4 +152,18 @@ DESCRIPTION:📍 Knížata\, Těmice\, Pelhřimov\n\n🚒 CAS (Černovice)\n🚒
  ice)\n🚒 DA (Lidmaň)\n🚒 DA (Božejov)\n🚒 DA (Kamenice nad Lipou)\n🚒 CAS (Kam
  enice nad Lipou)
 END:VEVENT
+BEGIN:VEVENT
+UID:419117061
+DTSTART:20260904T165703Z
+DTEND:20260904T175703Z
+DTSTAMP:20260904T165703Z
+SUMMARY:⚠️ planý poplach - Počátky
+LOCATION:Horní\, Počátky
+GEO:49.263713;15.244029
+URL:geo:49.263713,15.244029
+DESCRIPTION:📍 Horní\, Počátky\, Pelhřimov\n💬 Ohlášen požár klubovny. Průzku
+ mem bylo zjištěno\, že se jedná o planý poplach.\n\n🚒 CAS (HS Kamenice nad
+  Lipou)\n🚒 CAS (HS Kamenice nad Lipou)\n🚒 CAS (Počátky) ×2\n🚒 CAS (Žirovni
+ ce)
+END:VEVENT
 END:VCALENDAR
