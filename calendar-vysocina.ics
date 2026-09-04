@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:418980061
-DTSTART:20260902T085957Z
-DTEND:20260902T095957Z
-DTSTAMP:20260902T085957Z
-SUMMARY:🛠️ otevření bytu/auta - Moravské Budějovice
-LOCATION:Šafaříkova\, Moravské Budějovice
-GEO:49.052063;15.816776
-URL:geo:49.052063,15.816776
-DESCRIPTION:📍 Šafaříkova\, Moravské Budějovice\, Třebíč\n💬 Otevření bytu.\n
- \n🚒 CAS (HS Moravské Budějovice)
-END:VEVENT
-BEGIN:VEVENT
 UID:418983061
 DTSTART:20260902T092742Z
 DTEND:20260902T102742Z
@@ -647,7 +635,7 @@ LOCATION:Pelhřimov
 GEO:49.342757;15.248056
 URL:geo:49.342757,15.248056
 DESCRIPTION:📍 Benátky\, Pelhřimov\n💬 Odstranění obtížného hmyzu.\n\n🚒 CAS (
- CHS Pelhřimov)
+ CHS Pelhřimov)\n🚒 vysavač na hmyz (CHS Pelhřimov)
 END:VEVENT
 BEGIN:VEVENT
 UID:419073061
