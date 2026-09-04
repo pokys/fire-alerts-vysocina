@@ -5,38 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:418959061
-DTSTART:20260902T062119Z
-DTEND:20260902T072119Z
-DTSTAMP:20260902T062119Z
-SUMMARY:🔥 les - Skorotice
-LOCATION:Skorotice
-GEO:49.477226;16.377732
-URL:geo:49.477226,16.377732
-DESCRIPTION:📍 Chlébské\, Skorotice\, Žďár nad Sázavou\n💬 Požár lesa na ploš
- e cca 1\,5 ha. Provedena lokalizace a likvidace požáru.\n\n🚒 CAS (HS Bystř
- ice nad Pernštejnem) ×2\n🚒 CAS (HS Bystřice nad Pernštejnem)\n🚒 vozidlo úč
- elové - SxS (HS Bystřice nad Pernštejnem)\n🚒 osobní automobil (Skorotice-C
- hlébské)\n🚒 DA (Štěpánov nad Svratkou)\n🚒 CAS (Štěpánov nad Svratkou)\n🚒 C
- AS (Bystřice nad Pernštejnem)\n🚒 DA (Rožná)\n🚒 CAS (Rožná)\n🚒 vyšetřovací 
- automobil (ÚO Žďár nad Sázavou)\n🚒 DA (Vír)\n🚒 CAS (Vír)\n🚒 CAS (Strážek)\
- n🚒 přívěs motorová stříkačka (Věchnov)\n🚒 DA (Věžná (ZR))\n🚒 CAS (CHS Žďár
-  nad Sázavou)\n🚒 osobní automobil (Věstín-Bolešín)\n🚒 osobní automobil (Uj
- čov-Lískovec)\n🚒 DA (Ujčov)
-END:VEVENT
-BEGIN:VEVENT
-UID:418960061
-DTSTART:20260902T062821Z
-DTEND:20260902T072821Z
-DTSTAMP:20260902T062821Z
-SUMMARY:🛠️ obtížný hmyz - Ledeč nad Sázavou
-LOCATION:Družstevní\, Ledeč nad Sázavou
-GEO:49.689022;15.277937
-URL:geo:49.689022,15.277937
-DESCRIPTION:📍 Družstevní\, Ledeč nad Sázavou\, Havlíčkův Brod\n💬 Odstranění
-  obtížného hmyzu.\n\n🚒 CAS (HS Ledeč nad Sázavou)
-END:VEVENT
-BEGIN:VEVENT
 UID:418961061
 DTSTART:20260902T064238Z
 DTEND:20260902T074238Z
