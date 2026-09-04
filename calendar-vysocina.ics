@@ -668,8 +668,8 @@ SUMMARY:🛠️ obtížný hmyz - Leština u Světlé
 LOCATION:Leština u Světlé
 GEO:49.760120;15.380315
 URL:geo:49.760120,15.380315
-DESCRIPTION:📍 Dobrnice\, Leština u Světlé\, Havlíčkův Brod\n\n🚒 CAS (Leštin
- a u Světlé)
+DESCRIPTION:📍 Dobrnice\, Leština u Světlé\, Havlíčkův Brod\n💬 Odstranění ob
+ tížného hmyzu.\n\n🚒 CAS (Leština u Světlé)
 END:VEVENT
 BEGIN:VEVENT
 UID:419062061
@@ -682,5 +682,26 @@ GEO:49.514904;15.459100
 URL:geo:49.514904,15.459100
 DESCRIPTION:📍 Slavníč\, Havlíčkův Brod\n\n🚒 CAS (HS Humpolec)\n🚒 RZA (HS Hu
  mpolec)
+END:VEVENT
+BEGIN:VEVENT
+UID:419065061
+DTSTART:20260904T053703Z
+DTEND:20260904T063703Z
+DTSTAMP:20260904T053703Z
+SUMMARY:🛠️ ostatní - Menhartice
+LOCATION:Menhartice
+DESCRIPTION:📍 Menhartice\, Třebíč\n💬 Odstranění polystyrénu z vozovky.\n\n🚒
+  CAS (HS Jemnice)
+END:VEVENT
+BEGIN:VEVENT
+UID:419066061
+DTSTART:20260904T054604Z
+DTEND:20260904T064604Z
+DTSTAMP:20260904T054604Z
+SUMMARY:🛠️ obtížný hmyz - Polná
+LOCATION:Resslova\, Polná
+GEO:49.488953;15.708147
+URL:geo:49.488953,15.708147
+DESCRIPTION:📍 Resslova\, Polná\, Jihlava\n\n🚒 CAS (HS Polná)
 END:VEVENT
 END:VCALENDAR
