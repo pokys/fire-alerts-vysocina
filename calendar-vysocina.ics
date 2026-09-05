@@ -5,20 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:419046061
-DTSTART:20260903T164551Z
-DTEND:20260903T174551Z
-DTSTAMP:20260903T164551Z
-SUMMARY:🔥 tráva/plocha - Vícenice
-LOCATION:Vícenice
-GEO:49.093377;15.819360
-URL:geo:49.093377,15.819360
-DESCRIPTION:📍 Vícenice\, Třebíč\n💬 Likvidace požáru trávy 20 m2.\n\n🚒 CAS (
- HS Moravské Budějovice)\n🚒 CAS (HS Moravské Budějovice)\n🚒 CAS (Jaroměřice
-  nad Rokytnou)\n🚒 CAS (Jaroměřice nad Rokytnou)\n🚒 CAS (Moravské Budějovic
- e)\n🚒 DA (Vícenice)
-END:VEVENT
-BEGIN:VEVENT
 UID:419049061
 DTSTART:20260903T171932Z
 DTEND:20260903T181932Z
