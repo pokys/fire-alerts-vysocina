@@ -5,30 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:419027061
-DTSTART:20260903T104253Z
-DTEND:20260903T114253Z
-DTSTAMP:20260903T104253Z
-SUMMARY:🛠️ obtížný hmyz - Želetava
-LOCATION:Želetava
-GEO:49.126909;15.696023
-URL:geo:49.126909,15.696023
-DESCRIPTION:📍 Horky\, Želetava\, Třebíč\n💬 Odstranění obtížného hmyzu.\n\n🚒
-  CAS (Želetava)
-END:VEVENT
-BEGIN:VEVENT
-UID:419028061
-DTSTART:20260903T104351Z
-DTEND:20260903T114351Z
-DTSTAMP:20260903T104351Z
-SUMMARY:🛠️ otevření bytu/auta - Skryje
-LOCATION:Skryje
-GEO:49.843282;15.491602
-URL:geo:49.843282,15.491602
-DESCRIPTION:📍 Skryje\, Havlíčkův Brod\n💬 Otevření rodinného domu.\n\n🚒 CAS 
- (HS Ledeč nad Sázavou)\n🚒 CAS (Golčův Jeníkov)
-END:VEVENT
-BEGIN:VEVENT
 UID:419031061
 DTSTART:20260903T110058Z
 DTEND:20260903T120058Z
@@ -775,7 +751,8 @@ SUMMARY:🚗 dopravní nehoda - Bystřice nad Pernštejnem
 LOCATION:Bystřice nad Pernštejnem
 GEO:49.545413;16.290726
 URL:geo:49.545413,16.290726
-DESCRIPTION:📍 Karasín\, Bystřice nad Pernštejnem\, Žďár nad Sázavou\n\n🚒 CA
- S (HS Bystřice nad Pernštejnem)
+DESCRIPTION:📍 Karasín\, Bystřice nad Pernštejnem\, Žďár nad Sázavou\n💬 DN m
+ otorkáře. 1 zraněná osoba v péči ZZS. Zajištění místa nehody.\n\n🚒 CAS (HS
+  Bystřice nad Pernštejnem)
 END:VEVENT
 END:VCALENDAR
