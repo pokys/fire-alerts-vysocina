@@ -716,4 +716,17 @@ URL:geo:49.602266,15.200164
 DESCRIPTION:📍 Píšť\, Pelhřimov\n💬 DN motocyklisty.\n\n🚒 CAS (HS Humpolec)\n
  🚒 RZA (HS Humpolec)
 END:VEVENT
+BEGIN:VEVENT
+UID:419156061
+DTSTART:20260905T224158Z
+DTEND:20260905T234158Z
+DTSTAMP:20260905T224158Z
+SUMMARY:🚗 dopravní nehoda - Nové Město na Moravě
+LOCATION:Nové Město na Moravě
+GEO:49.594201;16.072982
+URL:geo:49.594201,16.072982
+DESCRIPTION:📍 Rokytno\, Nové Město na Moravě\, Žďár nad Sázavou\n\n🚒 CAS (C
+ HS Žďár nad Sázavou)\n🚒 CAS (Nové Město na Moravě)\n🚒 TA (Nové Město na Mo
+ ravě)
+END:VEVENT
 END:VCALENDAR
