@@ -156,4 +156,16 @@ DESCRIPTION:📍 Ctiboř\, Častrov\, Pelhřimov\n💬 Požár OA  se škodou na
  ena technická závada na vozidle.\n\n🚒 CAS (HS Kamenice nad Lipou)\n🚒 CAS (
  Počátky)\n🚒 vyšetřovací automobil (ÚO Pelhřimov)
 END:VEVENT
+BEGIN:VEVENT
+UID:419128061
+DTSTART:20260905T041107Z
+DTEND:20260905T051107Z
+DTSTAMP:20260905T041107Z
+SUMMARY:🛠️ strom - Kamenice nad Lipou
+LOCATION:Kamenice nad Lipou
+GEO:49.319666;15.083979
+URL:geo:49.319666,15.083979
+DESCRIPTION:📍 Johanka\, Kamenice nad Lipou\, Pelhřimov\n\n🚒 CAS (HS Kamenic
+ e nad Lipou)
+END:VEVENT
 END:VCALENDAR
