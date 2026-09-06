@@ -396,8 +396,9 @@ SUMMARY:🔥 budova - Stránecká Zhoř
 LOCATION:Stránecká Zhoř
 GEO:49.380593;15.927401
 URL:geo:49.380593,15.927401
-DESCRIPTION:📍 Stránecká Zhoř\, Žďár nad Sázavou\n💬 Požár nízké budovy.\n\n🚒
-  CAS (HS Velké Meziříčí)\n🚒 vyšetřovací automobil (ÚO Žďár nad Sázavou)
+DESCRIPTION:📍 Stránecká Zhoř\, Žďár nad Sázavou\n💬 Požár pokoje v ubytovně.
+  Uhašeno před příjezdem JPO.\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 vyšetřovací a
+ utomobil (ÚO Žďár nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:419165061
@@ -508,7 +509,8 @@ SUMMARY:🚗 úklid místa - Kámen
 LOCATION:Kámen
 GEO:49.427399;15.016447
 URL:geo:49.427399,15.016447
-DESCRIPTION:📍 Kámen\, Pelhřimov\n\n🚒 CAS (HS Pacov)\n🚒 CAS (CHS Pelhřimov)
+DESCRIPTION:📍 Kámen\, Pelhřimov\n💬 DN 2 OA\, bez zranění. Zajištění místa n
+ ehody. Spolupráce s PČR.\n\n🚒 CAS (HS Pacov)\n🚒 CAS (CHS Pelhřimov)
 END:VEVENT
 BEGIN:VEVENT
 UID:419180061
@@ -519,7 +521,8 @@ SUMMARY:🛠️ ostatní - Horní Cerekev
 LOCATION:Horní Cerekev
 GEO:49.320260;15.327690
 URL:geo:49.320260,15.327690
-DESCRIPTION:📍 Horní Cerekev\, Pelhřimov\n\n🚒 CAS (Horní Cerekev)
+DESCRIPTION:📍 Horní Cerekev\, Pelhřimov\n💬 Proplach kanalizace.\n\n🚒 CAS (H
+ orní Cerekev)
 END:VEVENT
 BEGIN:VEVENT
 UID:419182061
