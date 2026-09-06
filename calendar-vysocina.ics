@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:419098061
-DTSTART:20260904T123325Z
-DTEND:20260904T133325Z
-DTSTAMP:20260904T123325Z
-SUMMARY:🚗 dopravní nehoda - Třebíč
-LOCATION:Velkomeziříčská\, Třebíč
-GEO:49.222886;15.895098
-URL:geo:49.222886,15.895098
-DESCRIPTION:📍 Velkomeziříčská\, Nové Dvory\, Třebíč\n💬 DN OA a motocykl\, 1
-  zraněná osoba. Zajištění místa nehody proti požáru a úniku provozních kap
- alin.\n\n🚒 CAS (CHS Třebíč)
-END:VEVENT
-BEGIN:VEVENT
 UID:419100061
 DTSTART:20260904T125540Z
 DTEND:20260904T135540Z
@@ -570,5 +557,17 @@ GEO:49.609174;15.576478
 URL:geo:49.609174,15.576478
 DESCRIPTION:📍 Husova\, Havlíčkův Brod\n💬 Otevření bytu.\n\n🚒 CAS (CHS Havlí
  čkův Brod)
+END:VEVENT
+BEGIN:VEVENT
+UID:419169061
+DTSTART:20260906T121454Z
+DTEND:20260906T131454Z
+DTSTAMP:20260906T121454Z
+SUMMARY:🚗 dopravní nehoda - Ostrov nad Oslavou
+LOCATION:Ostrov nad Oslavou
+GEO:49.489064;15.988261
+URL:geo:49.489064,15.988261
+DESCRIPTION:📍 Ostrov nad Oslavou\, Žďár nad Sázavou\n💬 Nehoda cyklisty.\n\n
+ 🚒 CAS (CHS Žďár nad Sázavou)
 END:VEVENT
 END:VCALENDAR
