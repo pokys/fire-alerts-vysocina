@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:419093061
-DTSTART:20260904T113741Z
-DTEND:20260904T123741Z
-DTSTAMP:20260904T113741Z
-SUMMARY:🛠️ otevření bytu/auta - Černovice
-LOCATION:Domečkova\, Černovice
-GEO:49.374107;14.969667
-URL:geo:49.374107,14.969667
-DESCRIPTION:📍 Domečkova\, Černovice\, Pelhřimov\n💬 Otevření rodinného domu.
- \n\n🚒 CAS (HS Pacov)
-END:VEVENT
-BEGIN:VEVENT
 UID:419095061
 DTSTART:20260904T120401Z
 DTEND:20260904T130401Z
@@ -581,7 +569,8 @@ SUMMARY:🚗 dopravní nehoda - Urbanov
 LOCATION:Urbanov
 GEO:49.217677;15.517578
 URL:geo:49.217677,15.517578
-DESCRIPTION:📍 Urbanov\, Jihlava\n\n🚒 CAS (HS Telč)
+DESCRIPTION:📍 Urbanov\, Jihlava\n💬 DN motocyklu\, se zraněním jedné osoby. 
+ Zajištění místa události.\n\n🚒 CAS (HS Telč)
 END:VEVENT
 BEGIN:VEVENT
 UID:419166061
@@ -594,5 +583,17 @@ GEO:49.567002;15.938467
 URL:geo:49.567002,15.938467
 DESCRIPTION:📍 Libušínská\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n💬 Odstran
  ění obtížného hmyzu.\n\n🚒 CAS (CHS Žďár nad Sázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:419167061
+DTSTART:20260906T112200Z
+DTEND:20260906T122200Z
+DTSTAMP:20260906T112200Z
+SUMMARY:🚑 otevření/asistence - Havlíčkův Brod
+LOCATION:Husova\, Havlíčkův Brod
+GEO:49.609174;15.576478
+URL:geo:49.609174,15.576478
+DESCRIPTION:📍 Husova\, Havlíčkův Brod\n💬 Otevření bytu.\n\n🚒 CAS (CHS Havlí
+ čkův Brod)
 END:VEVENT
 END:VCALENDAR
