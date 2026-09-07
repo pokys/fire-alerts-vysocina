@@ -481,18 +481,20 @@ LOCATION:Květinov
 GEO:49.564446;15.507357
 URL:geo:49.564446,15.507357
 DESCRIPTION:📍 Květinov\, Havlíčkův Brod\n💬 DN 2 OA\, dvě zraněné osoby. Zaj
- ištění místa nehody.\n\n🚒 CAS (CHS Havlíčkův Brod)
+ ištění místa nehody.\n\n🚒 DA (CHS Havlíčkův Brod)\n🚒 CAS (CHS Havlíčkův Br
+ od)
 END:VEVENT
 BEGIN:VEVENT
 UID:419197061
 DTSTART:20260907T042259Z
 DTEND:20260907T052259Z
 DTSTAMP:20260907T042259Z
-SUMMARY:🔥 Humpolec
+SUMMARY:⚠️ planý poplach - Humpolec
 LOCATION:Lužická\, Humpolec
 GEO:49.551150;15.357359
 URL:geo:49.551150,15.357359
-DESCRIPTION:📍 Lužická\, Humpolec\, Pelhřimov\n\n🚒 CAS (HS Humpolec)\n🚒 RZA 
- (HS Humpolec)
+DESCRIPTION:📍 Lužická\, Humpolec\, Pelhřimov\n💬 Požár ohlášený systémem ele
+ ktrické požární signalizace. Průzkumem bylo zjištěno\, že se jedná o planý
+  poplach.\n\n🚒 CAS (HS Humpolec)\n🚒 RZA (HS Humpolec)
 END:VEVENT
 END:VCALENDAR
