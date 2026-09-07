@@ -476,12 +476,12 @@ UID:419205061
 DTSTART:20260907T065332Z
 DTEND:20260907T075332Z
 DTSTAMP:20260907T065332Z
-SUMMARY:☣️ neznámá látka - Telč
+SUMMARY:⚠️ planý poplach - Telč
 LOCATION:Telč
 GEO:49.177868;15.460354
 URL:geo:49.177868,15.460354
-DESCRIPTION:📍 Telč-Podolí\, Telč\, Jihlava\n💬 Prověření olejové skvrny na h
- ladině rybníka.\n\n🚒 CAS (HS Telč)\n🚒 přívěs lodní (HS Telč)
+DESCRIPTION:📍 Telč-Podolí\, Telč\, Jihlava\n💬 Planý poplach.\n\n🚒 CAS (HS T
+ elč)\n🚒 přívěs lodní (HS Telč)
 END:VEVENT
 BEGIN:VEVENT
 UID:419216061
@@ -518,5 +518,16 @@ GEO:49.294861;15.818614
 URL:geo:49.294861,15.818614
 DESCRIPTION:📍 Čechtín\, Třebíč\n💬 Odstranění obtížného hmyzu.\n\n🚒 CAS (Čec
  htín)
+END:VEVENT
+BEGIN:VEVENT
+UID:419226061
+DTSTART:20260907T102344Z
+DTEND:20260907T112344Z
+DTSTAMP:20260907T102344Z
+SUMMARY:🚗 dopravní nehoda - Květinov
+LOCATION:Květinov
+GEO:49.564782;15.507489
+URL:geo:49.564782,15.507489
+DESCRIPTION:📍 Květinov\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)
 END:VEVENT
 END:VCALENDAR
