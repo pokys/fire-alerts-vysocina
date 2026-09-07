@@ -497,4 +497,16 @@ DESCRIPTION:📍 Radkovská\, Telč-Staré Město\, Telč\, Jihlava\n\n🚒 CAS 
  lč)\n🚒 AŽ (HS Telč)\n🚒 CAS (Mrákotín)\n🚒 CAS (Telč)\n🚒 vyšetřovací automob
  il (ÚO Jihlava)
 END:VEVENT
+BEGIN:VEVENT
+UID:419211061
+DTSTART:20260907T081314Z
+DTEND:20260907T091314Z
+DTSTAMP:20260907T081314Z
+SUMMARY:🔥 Moravské Budějovice
+LOCATION:Husova\, Moravské Budějovice
+GEO:49.049064;15.810719
+URL:geo:49.049064,15.810719
+DESCRIPTION:📍 Husova\, Moravské Budějovice\, Třebíč\n\n🚒 CAS (HS Moravské B
+ udějovice)\n🚒 CAS (HS Moravské Budějovice)
+END:VEVENT
 END:VCALENDAR
