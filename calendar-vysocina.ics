@@ -5,29 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:419127061
-DTSTART:20260905T040225Z
-DTEND:20260905T050225Z
-DTSTAMP:20260905T040225Z
-SUMMARY:🛠️ strom - Měšín
-LOCATION:Měšín
-GEO:49.435300;15.649414
-URL:geo:49.435300,15.649414
-DESCRIPTION:📍 Měšín\, Jihlava\n💬 Odstranění stromu.\n\n🚒 CAS (CHS Jihlava)
-END:VEVENT
-BEGIN:VEVENT
-UID:419128061
-DTSTART:20260905T041107Z
-DTEND:20260905T051107Z
-DTSTAMP:20260905T041107Z
-SUMMARY:🛠️ strom - Kamenice nad Lipou
-LOCATION:Kamenice nad Lipou
-GEO:49.319666;15.083979
-URL:geo:49.319666,15.083979
-DESCRIPTION:📍 Johanka\, Kamenice nad Lipou\, Pelhřimov\n💬 Odstranění stromu
- .\n\n🚒 CAS (HS Kamenice nad Lipou)
-END:VEVENT
-BEGIN:VEVENT
 UID:419129061
 DTSTART:20260905T051148Z
 DTEND:20260905T061148Z
@@ -359,7 +336,7 @@ DESCRIPTION:📍 Chrtníč\, Havlíčkův Brod\n💬 Požár mladého lesního p
  ovedena lokalizace a likvidace požáru.\n\n🚒 CAS (HS Světlá nad Sázavou)\n🚒
   CAS (Golčův Jeníkov)\n🚒 CAS (Golčův Jeníkov)\n🚒 CAS (Habry)\n🚒 CAS (Lešti
  na u Světlé)\n🚒 vyšetřovací automobil (ÚO Havlíčkův Brod)\n🚒 stříkačka pře
- nosná (Chrtníč)
+ nosná (Chrtníč) ×2
 END:VEVENT
 BEGIN:VEVENT
 UID:419174061
@@ -491,8 +468,8 @@ SUMMARY:🚗 dopravní nehoda - Vepříkov
 LOCATION:Vepříkov
 GEO:49.737171;15.540244
 URL:geo:49.737171,15.540244
-DESCRIPTION:📍 Miřátky\, Vepříkov\, Havlíčkův Brod\n💬 DN 1 OA se zraněním.\n
- \n🚒 CAS (HS Chotěboř)
+DESCRIPTION:📍 Miřátky\, Vepříkov\, Havlíčkův Brod\n💬 DN 1 OA se zraněním. Z
+ ajištění místa nehody.\n\n🚒 CAS (HS Chotěboř)
 END:VEVENT
 BEGIN:VEVENT
 UID:419195061
@@ -503,6 +480,7 @@ SUMMARY:🚗 dopravní nehoda - Květinov
 LOCATION:Květinov
 GEO:49.564446;15.507357
 URL:geo:49.564446,15.507357
-DESCRIPTION:📍 Květinov\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)
+DESCRIPTION:📍 Květinov\, Havlíčkův Brod\n💬 DN 2 OA\, dvě zraněné osoby. Zaj
+ ištění místa nehody.\n\n🚒 CAS (CHS Havlíčkův Brod)
 END:VEVENT
 END:VCALENDAR
