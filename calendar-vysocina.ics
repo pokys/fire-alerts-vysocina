@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:419138061
-DTSTART:20260905T084747Z
-DTEND:20260905T094747Z
-DTSTAMP:20260905T084747Z
-SUMMARY:🚗 dopravní nehoda - Bystřice nad Pernštejnem
-LOCATION:Bystřice nad Pernštejnem
-GEO:49.545413;16.290726
-URL:geo:49.545413,16.290726
-DESCRIPTION:📍 Karasín\, Bystřice nad Pernštejnem\, Žďár nad Sázavou\n💬 DN m
- otorkáře. 1 zraněná osoba v péči ZZS. Zajištění místa nehody.\n\n🚒 CAS (HS
-  Bystřice nad Pernštejnem)
-END:VEVENT
-BEGIN:VEVENT
 UID:419140061
 DTSTART:20260905T120415Z
 DTEND:20260905T130415Z
@@ -480,9 +467,9 @@ SUMMARY:🔥 Telč
 LOCATION:Radkovská\, Telč
 GEO:49.173416;15.457172
 URL:geo:49.173416,15.457172
-DESCRIPTION:📍 Radkovská\, Telč-Staré Město\, Telč\, Jihlava\n\n🚒 CAS (HS Te
- lč)\n🚒 AŽ (HS Telč)\n🚒 CAS (Mrákotín)\n🚒 CAS (Telč)\n🚒 vyšetřovací automob
- il (ÚO Jihlava)
+DESCRIPTION:📍 Radkovská\, Telč-Staré Město\, Telč\, Jihlava\n💬 Požár bytu.\
+ n\n🚒 CAS (HS Telč)\n🚒 AŽ (HS Telč)\n🚒 CAS (Mrákotín)\n🚒 CAS (Telč)\n🚒 vyše
+ třovací automobil (ÚO Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:419205061
@@ -495,5 +482,28 @@ GEO:49.177868;15.460354
 URL:geo:49.177868,15.460354
 DESCRIPTION:📍 Telč-Podolí\, Telč\, Jihlava\n\n🚒 CAS (HS Telč)\n🚒 přívěs lod
  ní (HS Telč)
+END:VEVENT
+BEGIN:VEVENT
+UID:419216061
+DTSTART:20260907T083447Z
+DTEND:20260907T093447Z
+DTSTAMP:20260907T083447Z
+SUMMARY:🛠️ obtížný hmyz - Kouty
+LOCATION:Kouty
+GEO:49.312917;15.789835
+URL:geo:49.312917,15.789835
+DESCRIPTION:📍 Kouty\, Třebíč\n💬 Odstranění obtížného hmyzu.\n\n🚒 CAS (Čecht
+ ín)
+END:VEVENT
+BEGIN:VEVENT
+UID:419219061
+DTSTART:20260907T085115Z
+DTEND:20260907T095115Z
+DTSTAMP:20260907T085115Z
+SUMMARY:🛠️ otevření bytu/auta - Červená Řečice
+LOCATION:Červená Řečice
+GEO:49.511066;15.178229
+URL:geo:49.511066,15.178229
+DESCRIPTION:📍 Červená Řečice\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)
 END:VEVENT
 END:VCALENDAR
