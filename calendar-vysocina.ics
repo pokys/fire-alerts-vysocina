@@ -616,8 +616,8 @@ SUMMARY:🛠️ obtížný hmyz - Jaroměřice nad Rokytnou
 LOCATION:M. Horákové\, Jaroměřice nad Rokytnou
 GEO:49.096851;15.884384
 URL:geo:49.096851,15.884384
-DESCRIPTION:📍 M. Horákové\, Jaroměřice nad Rokytnou\, Třebíč\n\n🚒 CAS (Jaro
- měřice nad Rokytnou)
+DESCRIPTION:📍 M. Horákové\, Jaroměřice nad Rokytnou\, Třebíč\n💬 Odstranění 
+ obtížného hmyzu.\n\n🚒 CAS (Jaroměřice nad Rokytnou)
 END:VEVENT
 BEGIN:VEVENT
 UID:419248061
@@ -628,7 +628,7 @@ SUMMARY:🛠️ otevření bytu/auta - Havlíčkův Brod
 LOCATION:Sídliště Pražská\, Havlíčkův Brod
 GEO:49.615384;15.574030
 URL:geo:49.615384,15.574030
-DESCRIPTION:📍 Sídliště Pražská\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Bro
- d)
+DESCRIPTION:📍 Sídliště Pražská\, Havlíčkův Brod\n💬 Otevření bytu.\n\n🚒 CAS 
+ (CHS Havlíčkův Brod)
 END:VEVENT
 END:VCALENDAR
