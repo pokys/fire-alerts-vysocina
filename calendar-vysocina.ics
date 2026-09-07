@@ -583,4 +583,16 @@ URL:geo:49.801974,15.447067
 DESCRIPTION:📍 Římovice\, Golčův Jeníkov\, Havlíčkův Brod\n💬 Odstranění obtí
  žného hmyzu.\n\n🚒 CAS (Golčův Jeníkov)
 END:VEVENT
+BEGIN:VEVENT
+UID:419242061
+DTSTART:20260907T160800Z
+DTEND:20260907T170800Z
+DTSTAMP:20260907T160800Z
+SUMMARY:🛠️ obtížný hmyz - Malá Losenice
+LOCATION:Malá Losenice
+GEO:49.600985;15.794817
+URL:geo:49.600985,15.794817
+DESCRIPTION:📍 Malá Losenice\, Žďár nad Sázavou\n💬 Odstranění obtížného hmyz
+ u.\n\n🚒 CAS (Velká Losenice)\n🚒 CAS (Malá Losenice)
+END:VEVENT
 END:VCALENDAR
