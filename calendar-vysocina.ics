@@ -595,4 +595,28 @@ URL:geo:49.600985,15.794817
 DESCRIPTION:📍 Malá Losenice\, Žďár nad Sázavou\n💬 Odstranění obtížného hmyz
  u.\n\n🚒 CAS (Velká Losenice)\n🚒 CAS (Malá Losenice)
 END:VEVENT
+BEGIN:VEVENT
+UID:419243061
+DTSTART:20260907T164708Z
+DTEND:20260907T174708Z
+DTSTAMP:20260907T164708Z
+SUMMARY:🛠️ obtížný hmyz - Leština u Světlé
+LOCATION:Leština u Světlé
+GEO:49.755179;15.410523
+URL:geo:49.755179,15.410523
+DESCRIPTION:📍 Štěpánov\, Leština u Světlé\, Havlíčkův Brod\n\n🚒 CAS (Leštin
+ a u Světlé)
+END:VEVENT
+BEGIN:VEVENT
+UID:419245061
+DTSTART:20260907T164836Z
+DTEND:20260907T174836Z
+DTSTAMP:20260907T164836Z
+SUMMARY:🛠️ obtížný hmyz - Nové Město na Moravě
+LOCATION:Nové Město na Moravě
+GEO:49.576899;16.094800
+URL:geo:49.576899,16.094800
+DESCRIPTION:📍 Pohledec\, Nové Město na Moravě\, Žďár nad Sázavou\n💬 Odstran
+ ění obtížného hmyzu.\n\n🚒 CAS (CHS Žďár nad Sázavou)
+END:VEVENT
 END:VCALENDAR
