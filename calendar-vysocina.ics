@@ -507,6 +507,20 @@ SUMMARY:🚗 dopravní nehoda - Horní Krupá
 LOCATION:Horní Krupá
 GEO:49.683872;15.592201
 URL:geo:49.683872,15.592201
-DESCRIPTION:📍 Horní Krupá\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)
+DESCRIPTION:📍 Horní Krupá\, Havlíčkův Brod\n💬 DN motocyklu se zraněním jedn
+ é osoby. Zajištění místa události.\n\n🚒 CAS (CHS Havlíčkův Brod)
+END:VEVENT
+BEGIN:VEVENT
+UID:419204061
+DTSTART:20260907T063304Z
+DTEND:20260907T073304Z
+DTSTAMP:20260907T063304Z
+SUMMARY:🔥 Telč
+LOCATION:Radkovská\, Telč
+GEO:49.173416;15.457172
+URL:geo:49.173416,15.457172
+DESCRIPTION:📍 Radkovská\, Telč-Staré Město\, Telč\, Jihlava\n\n🚒 CAS (HS Te
+ lč)\n🚒 AŽ (HS Telč)\n🚒 CAS (Mrákotín)\n🚒 CAS (Telč)\n🚒 vyšetřovací automob
+ il (ÚO Jihlava)
 END:VEVENT
 END:VCALENDAR
