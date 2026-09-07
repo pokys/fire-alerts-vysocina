@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:419152061
-DTSTART:20260905T173303Z
-DTEND:20260905T183303Z
-DTSTAMP:20260905T173303Z
-SUMMARY:🛠️ strom - Naloučany
-LOCATION:Naloučany
-GEO:49.237493;16.134417
-URL:geo:49.237493,16.134417
-DESCRIPTION:📍 Naloučany\, Třebíč\n💬 Odstranění stromu.\n\n🚒 CAS (HS Náměšť 
- nad Oslavou)
-END:VEVENT
-BEGIN:VEVENT
 UID:419153061
 DTSTART:20260905T202957Z
 DTEND:20260905T212957Z
@@ -604,8 +592,8 @@ SUMMARY:🛠️ obtížný hmyz - Leština u Světlé
 LOCATION:Leština u Světlé
 GEO:49.755179;15.410523
 URL:geo:49.755179,15.410523
-DESCRIPTION:📍 Štěpánov\, Leština u Světlé\, Havlíčkův Brod\n\n🚒 CAS (Leštin
- a u Světlé)
+DESCRIPTION:📍 Štěpánov\, Leština u Světlé\, Havlíčkův Brod\n💬 Odstranění ob
+ tížného hmyzu.\n\n🚒 CAS (Leština u Světlé)
 END:VEVENT
 BEGIN:VEVENT
 UID:419245061
@@ -630,5 +618,17 @@ GEO:49.096851;15.884384
 URL:geo:49.096851,15.884384
 DESCRIPTION:📍 M. Horákové\, Jaroměřice nad Rokytnou\, Třebíč\n\n🚒 CAS (Jaro
  měřice nad Rokytnou)
+END:VEVENT
+BEGIN:VEVENT
+UID:419248061
+DTSTART:20260907T172015Z
+DTEND:20260907T182015Z
+DTSTAMP:20260907T172015Z
+SUMMARY:🛠️ otevření bytu/auta - Havlíčkův Brod
+LOCATION:Sídliště Pražská\, Havlíčkův Brod
+GEO:49.615384;15.574030
+URL:geo:49.615384,15.574030
+DESCRIPTION:📍 Sídliště Pražská\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Bro
+ d)
 END:VEVENT
 END:VCALENDAR
