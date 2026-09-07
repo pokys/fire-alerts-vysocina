@@ -467,9 +467,9 @@ SUMMARY:🔥 Telč
 LOCATION:Radkovská\, Telč
 GEO:49.173416;15.457172
 URL:geo:49.173416,15.457172
-DESCRIPTION:📍 Radkovská\, Telč-Staré Město\, Telč\, Jihlava\n💬 Požár bytu.\
- n\n🚒 CAS (HS Telč)\n🚒 AŽ (HS Telč)\n🚒 CAS (Mrákotín)\n🚒 CAS (Telč)\n🚒 vyše
- třovací automobil (ÚO Jihlava)
+DESCRIPTION:📍 Radkovská\, Telč-Staré Město\, Telč\, Jihlava\n💬 Požár bytu. 
+ Provedena lokalizace a likvidace požáru.\n\n🚒 CAS (HS Telč)\n🚒 AŽ (HS Telč
+ )\n🚒 CAS (Mrákotín)\n🚒 CAS (Telč)\n🚒 vyšetřovací automobil (ÚO Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:419205061
@@ -506,5 +506,17 @@ GEO:49.511066;15.178229
 URL:geo:49.511066,15.178229
 DESCRIPTION:📍 Červená Řečice\, Pelhřimov\n💬 Otevření bytu.\n\n🚒 CAS (CHS Pe
  lhřimov)
+END:VEVENT
+BEGIN:VEVENT
+UID:419225061
+DTSTART:20260907T094700Z
+DTEND:20260907T104700Z
+DTSTAMP:20260907T094700Z
+SUMMARY:🛠️ obtížný hmyz - Čechtín
+LOCATION:Čechtín
+GEO:49.294861;15.818614
+URL:geo:49.294861,15.818614
+DESCRIPTION:📍 Čechtín\, Třebíč\n💬 Odstranění obtížného hmyzu.\n\n🚒 CAS (Čec
+ htín)
 END:VEVENT
 END:VCALENDAR
