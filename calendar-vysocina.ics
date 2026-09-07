@@ -631,4 +631,16 @@ URL:geo:49.615384,15.574030
 DESCRIPTION:📍 Sídliště Pražská\, Havlíčkův Brod\n💬 Otevření bytu.\n\n🚒 CAS 
  (CHS Havlíčkův Brod)
 END:VEVENT
+BEGIN:VEVENT
+UID:419249061
+DTSTART:20260907T193632Z
+DTEND:20260907T203632Z
+DTSTAMP:20260907T193632Z
+SUMMARY:🛠️ otevření bytu/auta - Třebíč
+LOCATION:Fr. Hrubína\, Třebíč
+GEO:49.220541;15.882885
+URL:geo:49.220541,15.882885
+DESCRIPTION:📍 Fr. Hrubína\, Nové Dvory\, Třebíč\n💬 Otevření bytu.\n\n🚒 CAS 
+ (CHS Třebíč)
+END:VEVENT
 END:VCALENDAR
