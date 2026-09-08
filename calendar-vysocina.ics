@@ -626,8 +626,33 @@ SUMMARY:🔥 technologie - Nová Ves u Světlé
 LOCATION:Nová Ves u Světlé
 GEO:49.645893;15.459599
 URL:geo:49.645893,15.459599
-DESCRIPTION:📍 Nová Ves u Světlé\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Br
- od)\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 CAS (HS Světlá nad Sázavou)\n🚒 DA (Nová
-  Ves u Světlé)\n🚒 DA (Světlá nad Sázavou)\n🚒 CAS (Světlá nad Sázavou)
+DESCRIPTION:📍 Nová Ves u Světlé\, Havlíčkův Brod\n💬 Požár haly.\n\n🚒 CAS (C
+ HS Havlíčkův Brod)\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 automobilová plošina do 
+ 30 m (CHS Havlíčkův Brod)\n🚒 CAS (HS Světlá nad Sázavou)\n🚒 DA (Nová Ves u
+  Světlé)\n🚒 DA (Světlá nad Sázavou)\n🚒 CAS (Světlá nad Sázavou)\n🚒 vyšetřo
+ vací automobil (ÚO Havlíčkův Brod)
+END:VEVENT
+BEGIN:VEVENT
+UID:419254061
+DTSTART:20260908T050956Z
+DTEND:20260908T060956Z
+DTSTAMP:20260908T050956Z
+SUMMARY:🛠️ ostatní - Uhelná Příbram
+LOCATION:Uhelná Příbram
+GEO:49.767987;15.585550
+URL:geo:49.767987,15.585550
+DESCRIPTION:📍 Uhelná Příbram\, Havlíčkův Brod\n\n🚒 automobilová plošina do 
+ 30 m (Habry)
+END:VEVENT
+BEGIN:VEVENT
+UID:419256061
+DTSTART:20260908T051717Z
+DTEND:20260908T061717Z
+DTSTAMP:20260908T051717Z
+SUMMARY:🚑 záchrana ze stromu - Kamenná
+LOCATION:Kamenná
+GEO:49.509968;15.651663
+URL:geo:49.509968,15.651663
+DESCRIPTION:📍 Kamenná\, Jihlava\n\n🚒 CAS (HS Polná)
 END:VEVENT
 END:VCALENDAR
