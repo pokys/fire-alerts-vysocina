@@ -610,9 +610,9 @@ SUMMARY:🔥 tráva/plocha - Vlčatín
 LOCATION:Vlčatín
 GEO:49.307421;15.931908
 URL:geo:49.307421,15.931908
-DESCRIPTION:📍 Vlčatín\, Třebíč\n💬 Požár traního porostu.\n\n🚒 CAS (CHS Třeb
- íč)\n🚒 CAS (CHS Třebíč)\n🚒 CAS (HS Velké Meziříčí)\n🚒 CAS (Rudíkov)\n🚒 vyš
- etřovací automobil (ÚO Třebíč)
+DESCRIPTION:📍 Vlčatín\, Třebíč\n💬 Požár travního porostu.\n\n🚒 CAS (CHS Tře
+ bíč)\n🚒 CAS (CHS Třebíč)\n🚒 čerpadlo plovoucí (CHS Třebíč)\n🚒 CAS (HS Velk
+ é Meziříčí)\n🚒 CAS (Rudíkov)\n🚒 vyšetřovací automobil (ÚO Třebíč)
 END:VEVENT
 BEGIN:VEVENT
 UID:419279061
@@ -672,6 +672,30 @@ SUMMARY:🛠️ obtížný hmyz - Kejžlice
 LOCATION:K Čejovu\, Kejžlice
 GEO:49.587585;15.393999
 URL:geo:49.587585,15.393999
-DESCRIPTION:📍 K Čejovu\, Kejžlice\, Pelhřimov\n\n🚒 CAS (Kejžlice)
+DESCRIPTION:📍 K Čejovu\, Kejžlice\, Pelhřimov\n💬 Odstranění obtížného hmyzu
+ .\n\n🚒 CAS (Kejžlice)
+END:VEVENT
+BEGIN:VEVENT
+UID:419287061
+DTSTART:20260908T144120Z
+DTEND:20260908T154120Z
+DTSTAMP:20260908T144120Z
+SUMMARY:🛠️ obtížný hmyz - Borovná
+LOCATION:Borovná
+GEO:49.165168;15.393630
+URL:geo:49.165168,15.393630
+DESCRIPTION:📍 Borovná\, Jihlava\n\n🚒 CAS (HS Telč)
+END:VEVENT
+BEGIN:VEVENT
+UID:419288061
+DTSTART:20260908T144236Z
+DTEND:20260908T154236Z
+DTSTAMP:20260908T144236Z
+SUMMARY:🚑 transport pacienta - Velké Meziříčí
+LOCATION:Bezručova\, Velké Meziříčí
+GEO:49.352203;16.005447
+URL:geo:49.352203,16.005447
+DESCRIPTION:📍 Bezručova\, Velké Meziříčí\, Žďár nad Sázavou\n\n🚒 CAS (HS Ve
+ lké Meziříčí)
 END:VEVENT
 END:VCALENDAR
