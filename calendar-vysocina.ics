@@ -627,8 +627,8 @@ SUMMARY:🛠️ obtížný hmyz - Žďár nad Sázavou
 LOCATION:Veselská\, Žďár nad Sázavou
 GEO:49.560146;15.934273
 URL:geo:49.560146,15.934273
-DESCRIPTION:📍 Veselská\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n\n🚒 CAS (CH
- S Žďár nad Sázavou)
+DESCRIPTION:📍 Veselská\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n💬 Odstraněn
+ í obtížného hmyzu.\n\n🚒 CAS (CHS Žďár nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:419265061
@@ -641,5 +641,16 @@ GEO:49.325257;16.015639
 URL:geo:49.325257,16.015639
 DESCRIPTION:📍 Osové\, Žďár nad Sázavou\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA 
  (HS Velké Meziříčí)
+END:VEVENT
+BEGIN:VEVENT
+UID:419268061
+DTSTART:20260908T090359Z
+DTEND:20260908T100359Z
+DTSTAMP:20260908T090359Z
+SUMMARY:🚑 transport pacienta - Kojčice
+LOCATION:Kojčice
+GEO:49.487509;15.239643
+URL:geo:49.487509,15.239643
+DESCRIPTION:📍 Kojčice\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)
 END:VEVENT
 END:VCALENDAR
