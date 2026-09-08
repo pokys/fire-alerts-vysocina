@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:419183061
-DTSTART:20260906T155159Z
-DTEND:20260906T165159Z
-DTSTAMP:20260906T155159Z
-SUMMARY:🚗 dopravní nehoda - Želetava
-LOCATION:Želetava
-GEO:49.126409;15.696694
-URL:geo:49.126409,15.696694
-DESCRIPTION:📍 Horky\, Želetava\, Třebíč\n💬 DN 3 OA se zraněním jedné osoby.
-  Jednotky provedly předlékařskou pomoc a zajištění místa nehody.\n\n🚒 CAS 
- (HS Moravské Budějovice)\n🚒 CAS (Želetava)
-END:VEVENT
-BEGIN:VEVENT
 UID:419187061
 DTSTART:20260906T163620Z
 DTEND:20260906T173620Z
@@ -602,9 +589,9 @@ SUMMARY:🔥 tráva/plocha - Velké Meziříčí
 LOCATION:Velké Meziříčí
 GEO:49.351613;15.993149
 URL:geo:49.351613,15.993149
-DESCRIPTION:📍 Velké Meziříčí\, Žďár nad Sázavou\n\n🚒 CAS (HS Velké Meziříčí
- )\n🚒 RZA (HS Velké Meziříčí)\n🚒 CAS (Měřín)\n🚒 CAS (Velké Meziříčí)\n🚒 vyš
- etřovací automobil (ÚO Žďár nad Sázavou)
+DESCRIPTION:📍 Velké Meziříčí\, Žďár nad Sázavou\n💬 Požár trávy.\n\n🚒 CAS (H
+ S Velké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)\n🚒 CAS (Měřín)\n🚒 CAS (Velké 
+ Meziříčí)\n🚒 vyšetřovací automobil (ÚO Žďár nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:419282061
@@ -699,8 +686,8 @@ SUMMARY:🔥 tráva/plocha - Stařeč
 LOCATION:Stařeč
 GEO:49.213266;15.821469
 URL:geo:49.213266,15.821469
-DESCRIPTION:📍 Stařeč\, Třebíč\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (CHS Třebíč)\n🚒 
- automobilová stříkačka (Stařeč)\n🚒 CAS (Stařeč)
+DESCRIPTION:📍 Stařeč\, Třebíč\n💬 Požár travního porostu.\n\n🚒 CAS (CHS Třeb
+ íč)\n🚒 CAS (CHS Třebíč)\n🚒 automobilová stříkačka (Stařeč)\n🚒 CAS (Stařeč)
 END:VEVENT
 BEGIN:VEVENT
 UID:419294061
@@ -711,8 +698,21 @@ SUMMARY:🔥 tráva/plocha - Jaroměřice nad Rokytnou
 LOCATION:Jaroměřice nad Rokytnou
 GEO:49.083715;15.888160
 URL:geo:49.083715,15.888160
-DESCRIPTION:📍 Jaroměřice nad Rokytnou\, Třebíč\n\n🚒 CAS (HS Moravské Budějo
- vice)\n🚒 CAS (HS Moravské Budějovice)\n🚒 CAS (Jaroměřice nad Rokytnou)\n🚒 
- CAS (Jaroměřice nad Rokytnou)\n🚒 CAS (Moravské Budějovice)
+DESCRIPTION:📍 Jaroměřice nad Rokytnou\, Třebíč\n💬 Požár travního porostu.\n
+ \n🚒 CAS (HS Moravské Budějovice)\n🚒 CAS (HS Moravské Budějovice)\n🚒 CAS (J
+ aroměřice nad Rokytnou)\n🚒 CAS (Jaroměřice nad Rokytnou)\n🚒 CAS (Moravské 
+ Budějovice)
+END:VEVENT
+BEGIN:VEVENT
+UID:419295061
+DTSTART:20260908T154120Z
+DTEND:20260908T164120Z
+DTSTAMP:20260908T154120Z
+SUMMARY:🚗 bez zranění - Sněžné
+LOCATION:Sněžné
+GEO:49.636619;16.129782
+URL:geo:49.636619,16.129782
+DESCRIPTION:📍 Vříšť\, Sněžné\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad Sáza
+ vou)\n🚒 CAS (Sněžné)
 END:VEVENT
 END:VCALENDAR
