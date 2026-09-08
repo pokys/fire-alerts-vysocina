@@ -492,7 +492,8 @@ SUMMARY:☣️ olej/PHM - Osové
 LOCATION:Osové
 GEO:49.325257;16.015639
 URL:geo:49.325257,16.015639
-DESCRIPTION:📍 Osové\, Žďár nad Sázavou\n💬 Likvidace olejové skvrny.
+DESCRIPTION:📍 Osové\, Žďár nad Sázavou\n💬 Likvidace olejové skvrny.\n\n🚒 CA
+ S (HS Velké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)
 END:VEVENT
 BEGIN:VEVENT
 UID:419268061
@@ -576,7 +577,8 @@ SUMMARY:🛠️ otevření bytu/auta - Havlíčkův Brod
 LOCATION:Žižkov II\, Havlíčkův Brod
 GEO:49.607071;15.592025
 URL:geo:49.607071,15.592025
-DESCRIPTION:📍 Žižkov II\, Havlíčkův Brod\n💬 Otevření bytu.
+DESCRIPTION:📍 Žižkov II\, Havlíčkův Brod\n💬 Otevření bytu.\n\n🚒 CAS (CHS Ha
+ vlíčkův Brod)
 END:VEVENT
 BEGIN:VEVENT
 UID:419280061
@@ -710,7 +712,8 @@ SUMMARY:🚗 bez zranění - Sněžné
 LOCATION:Sněžné
 GEO:49.636619;16.129782
 URL:geo:49.636619,16.129782
-DESCRIPTION:📍 Vříšť\, Sněžné\, Žďár nad Sázavou
+DESCRIPTION:📍 Vříšť\, Sněžné\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad Sáza
+ vou)\n🚒 CAS (Sněžné)
 END:VEVENT
 BEGIN:VEVENT
 UID:419297061
