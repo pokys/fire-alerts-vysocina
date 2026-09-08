@@ -492,8 +492,7 @@ SUMMARY:☣️ olej/PHM - Osové
 LOCATION:Osové
 GEO:49.325257;16.015639
 URL:geo:49.325257,16.015639
-DESCRIPTION:📍 Osové\, Žďár nad Sázavou\n💬 Likvidace olejové skvrny.\n\n🚒 CA
- S (HS Velké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)
+DESCRIPTION:📍 Osové\, Žďár nad Sázavou\n💬 Likvidace olejové skvrny.
 END:VEVENT
 BEGIN:VEVENT
 UID:419268061
@@ -577,8 +576,7 @@ SUMMARY:🛠️ otevření bytu/auta - Havlíčkův Brod
 LOCATION:Žižkov II\, Havlíčkův Brod
 GEO:49.607071;15.592025
 URL:geo:49.607071,15.592025
-DESCRIPTION:📍 Žižkov II\, Havlíčkův Brod\n💬 Otevření bytu.\n\n🚒 CAS (CHS Ha
- vlíčkův Brod)
+DESCRIPTION:📍 Žižkov II\, Havlíčkův Brod\n💬 Otevření bytu.
 END:VEVENT
 BEGIN:VEVENT
 UID:419280061
@@ -712,7 +710,40 @@ SUMMARY:🚗 bez zranění - Sněžné
 LOCATION:Sněžné
 GEO:49.636619;16.129782
 URL:geo:49.636619,16.129782
-DESCRIPTION:📍 Vříšť\, Sněžné\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad Sáza
- vou)\n🚒 CAS (Sněžné)
+DESCRIPTION:📍 Vříšť\, Sněžné\, Žďár nad Sázavou
+END:VEVENT
+BEGIN:VEVENT
+UID:419297061
+DTSTART:20260908T155411Z
+DTEND:20260908T165411Z
+DTSTAMP:20260908T155411Z
+SUMMARY:🛠️ otevření bytu/auta - Třešť
+LOCATION:K Valše\, Třešť
+GEO:49.286015;15.477164
+URL:geo:49.286015,15.477164
+DESCRIPTION:📍 K Valše\, Třešť\, Jihlava\n\n🚒 CAS (HS Třešť)
+END:VEVENT
+BEGIN:VEVENT
+UID:419298061
+DTSTART:20260908T160658Z
+DTEND:20260908T170658Z
+DTSTAMP:20260908T160658Z
+SUMMARY:🛠️ otevření bytu/auta - Třešť
+LOCATION:Čenkovská\, Třešť
+GEO:49.288588;15.476706
+URL:geo:49.288588,15.476706
+DESCRIPTION:📍 Čenkovská\, Třešť\, Jihlava\n\n🚒 CAS (HS Třešť)
+END:VEVENT
+BEGIN:VEVENT
+UID:419299061
+DTSTART:20260908T160931Z
+DTEND:20260908T170931Z
+DTSTAMP:20260908T160931Z
+SUMMARY:🛠️ obtížný hmyz - Rozsochy
+LOCATION:Rozsochy
+GEO:49.518414;16.205345
+URL:geo:49.518414,16.205345
+DESCRIPTION:📍 Rozsochy\, Žďár nad Sázavou\n\n🚒 CAS (HS Bystřice nad Pernšte
+ jnem)
 END:VEVENT
 END:VCALENDAR
