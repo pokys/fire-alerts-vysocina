@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:419187061
-DTSTART:20260906T163620Z
-DTEND:20260906T173620Z
-DTSTAMP:20260906T163620Z
-SUMMARY:🚑 transport pacienta - Velké Meziříčí
-LOCATION:Krškova\, Velké Meziříčí
-GEO:49.352543;16.021988
-URL:geo:49.352543,16.021988
-DESCRIPTION:📍 Krškova\, Velké Meziříčí\, Žďár nad Sázavou\n💬 Transport paci
- enta na žádost ZZS.\n\n🚒 CAS (HS Velké Meziříčí)
-END:VEVENT
-BEGIN:VEVENT
 UID:419189061
 DTSTART:20260906T193019Z
 DTEND:20260906T203019Z
@@ -724,7 +712,8 @@ SUMMARY:🛠️ otevření bytu/auta - Třešť
 LOCATION:K Valše\, Třešť
 GEO:49.286015;15.477164
 URL:geo:49.286015,15.477164
-DESCRIPTION:📍 K Valše\, Třešť\, Jihlava\n\n🚒 CAS (HS Třešť)
+DESCRIPTION:📍 K Valše\, Třešť\, Jihlava\n💬 Otevření bytu.\n\n🚒 CAS (HS Třeš
+ ť)
 END:VEVENT
 BEGIN:VEVENT
 UID:419298061
@@ -735,7 +724,8 @@ SUMMARY:🛠️ otevření bytu/auta - Třešť
 LOCATION:Čenkovská\, Třešť
 GEO:49.288588;15.476706
 URL:geo:49.288588,15.476706
-DESCRIPTION:📍 Čenkovská\, Třešť\, Jihlava\n\n🚒 CAS (HS Třešť)
+DESCRIPTION:📍 Čenkovská\, Třešť\, Jihlava\n💬 Otevření bytu.\n\n🚒 CAS (HS Tř
+ ešť)
 END:VEVENT
 BEGIN:VEVENT
 UID:419299061
@@ -746,7 +736,19 @@ SUMMARY:🛠️ obtížný hmyz - Rozsochy
 LOCATION:Rozsochy
 GEO:49.518414;16.205345
 URL:geo:49.518414,16.205345
-DESCRIPTION:📍 Rozsochy\, Žďár nad Sázavou\n\n🚒 CAS (HS Bystřice nad Pernšte
- jnem)
+DESCRIPTION:📍 Rozsochy\, Žďár nad Sázavou\n💬 Odstranění obtížného hmyzu.\n\
+ n🚒 CAS (HS Bystřice nad Pernštejnem)
+END:VEVENT
+BEGIN:VEVENT
+UID:419300061
+DTSTART:20260908T162630Z
+DTEND:20260908T172630Z
+DTSTAMP:20260908T162630Z
+SUMMARY:🛠️ strom - Velká Bíteš
+LOCATION:Tišnovská\, Velká Bíteš
+GEO:49.294832;16.227766
+URL:geo:49.294832,16.227766
+DESCRIPTION:📍 Tišnovská\, Velká Bíteš\, Žďár nad Sázavou\n💬 Odstranění stro
+ mu.\n\n🚒 CAS (HS Velká Bíteš)
 END:VEVENT
 END:VCALENDAR
