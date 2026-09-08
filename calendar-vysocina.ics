@@ -444,7 +444,8 @@ SUMMARY:🚑 záchrana ze stromu - Kamenná
 LOCATION:Kamenná
 GEO:49.509968;15.651663
 URL:geo:49.509968,15.651663
-DESCRIPTION:📍 Kamenná\, Jihlava\n\n🚒 CAS (HS Polná)
+DESCRIPTION:📍 Kamenná\, Jihlava\n💬 Sundání kotěte ze stromu.\n\n🚒 CAS (HS P
+ olná)
 END:VEVENT
 BEGIN:VEVENT
 UID:419259061
@@ -479,8 +480,9 @@ SUMMARY:☣️ olej/PHM - Jihlava
 LOCATION:Průmyslová\, Jihlava
 GEO:49.436354;15.606050
 URL:geo:49.436354,15.606050
-DESCRIPTION:📍 Průmyslová\, Pávov\, Jihlava\n\n🚒 CAS (CHS Jihlava)\n🚒 CAS (C
- HS Jihlava)\n🚒 účelový automobil do 3500 kg (ÚO Jihlava)
+DESCRIPTION:📍 Průmyslová\, Pávov\, Jihlava\n💬 Likvidace úniku nafty z vozov
+ ky pomocí sorbentu.\n\n🚒 CAS (CHS Jihlava)\n🚒 CAS (CHS Jihlava)\n🚒 účelový
+  automobil do 3500 kg (ÚO Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:419264061
@@ -527,7 +529,8 @@ SUMMARY:🛠️ obtížný hmyz - Jihlava
 LOCATION:Evžena Rošického\, Jihlava
 GEO:49.401041;15.573638
 URL:geo:49.401041,15.573638
-DESCRIPTION:📍 Evžena Rošického\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+DESCRIPTION:📍 Evžena Rošického\, Jihlava\n💬 Likvidace nebezpečného hmyzu.\n
+ \n🚒 CAS (CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:419271061
@@ -624,8 +627,8 @@ SUMMARY:🔥 budova - Třešť
 LOCATION:Fialková\, Třešť
 GEO:49.291587;15.480421
 URL:geo:49.291587,15.480421
-DESCRIPTION:📍 Fialková\, Třešť\, Jihlava\n\n🚒 CAS (HS Třešť)\n🚒 CAS (Batelo
- v)\n🚒 CAS (Stonařov)\n🚒 CAS (Třešť)
+DESCRIPTION:📍 Fialková\, Třešť\, Jihlava\n💬 Taktické cvičení.\n\n🚒 CAS (HS 
+ Třešť)\n🚒 CAS (Batelov)\n🚒 CAS (Stonařov)\n🚒 CAS (Třešť)
 END:VEVENT
 BEGIN:VEVENT
 UID:419285061
@@ -648,7 +651,8 @@ SUMMARY:🛠️ obtížný hmyz - Borovná
 LOCATION:Borovná
 GEO:49.165168;15.393630
 URL:geo:49.165168,15.393630
-DESCRIPTION:📍 Borovná\, Jihlava\n\n🚒 CAS (HS Telč)
+DESCRIPTION:📍 Borovná\, Jihlava\n💬 Likvidace nebezpečného hmyzu.\n\n🚒 CAS (
+ HS Telč)
 END:VEVENT
 BEGIN:VEVENT
 UID:419288061
@@ -659,8 +663,8 @@ SUMMARY:🚑 transport pacienta - Velké Meziříčí
 LOCATION:Bezručova\, Velké Meziříčí
 GEO:49.352203;16.005447
 URL:geo:49.352203,16.005447
-DESCRIPTION:📍 Bezručova\, Velké Meziříčí\, Žďár nad Sázavou\n\n🚒 CAS (HS Ve
- lké Meziříčí)
+DESCRIPTION:📍 Bezručova\, Velké Meziříčí\, Žďár nad Sázavou\n💬 Transport pa
+ cienta na žádost ZZS.\n\n🚒 CAS (HS Velké Meziříčí)
 END:VEVENT
 BEGIN:VEVENT
 UID:419289061
@@ -671,8 +675,8 @@ SUMMARY:☣️ olej/PHM - Velká Bíteš
 LOCATION:Velká Bíteš
 GEO:49.304845;16.132635
 URL:geo:49.304845,16.132635
-DESCRIPTION:📍 Velká Bíteš\, Žďár nad Sázavou\n\n🚒 CAS (HS Velká Bíteš)\n🚒 R
- ZA (HS Velké Meziříčí)
+DESCRIPTION:📍 Velká Bíteš\, Žďár nad Sázavou\n💬 Likvidace úniku oleje.\n\n🚒
+  CAS (HS Velká Bíteš)\n🚒 RZA (HS Velké Meziříčí)
 END:VEVENT
 BEGIN:VEVENT
 UID:419291061
@@ -683,8 +687,8 @@ SUMMARY:🛠️ ostatní - Náměšť nad Oslavou
 LOCATION:Nad Příhořím\, Náměšť nad Oslavou
 GEO:49.212626;16.147175
 URL:geo:49.212626,16.147175
-DESCRIPTION:📍 Nad Příhořím\, Náměšť nad Oslavou\, Třebíč\n\n🚒 CAS (HS Náměš
- ť nad Oslavou)
+DESCRIPTION:📍 Nad Příhořím\, Náměšť nad Oslavou\, Třebíč\n💬 Pomoc imobilní 
+ osobě.\n\n🚒 CAS (HS Náměšť nad Oslavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:419293061
@@ -697,5 +701,18 @@ GEO:49.213266;15.821469
 URL:geo:49.213266,15.821469
 DESCRIPTION:📍 Stařeč\, Třebíč\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (CHS Třebíč)\n🚒 
  automobilová stříkačka (Stařeč)\n🚒 CAS (Stařeč)
+END:VEVENT
+BEGIN:VEVENT
+UID:419294061
+DTSTART:20260908T151832Z
+DTEND:20260908T161832Z
+DTSTAMP:20260908T151832Z
+SUMMARY:🔥 tráva/plocha - Jaroměřice nad Rokytnou
+LOCATION:Jaroměřice nad Rokytnou
+GEO:49.083715;15.888160
+URL:geo:49.083715,15.888160
+DESCRIPTION:📍 Jaroměřice nad Rokytnou\, Třebíč\n\n🚒 CAS (HS Moravské Budějo
+ vice)\n🚒 CAS (HS Moravské Budějovice)\n🚒 CAS (Jaroměřice nad Rokytnou)\n🚒 
+ CAS (Jaroměřice nad Rokytnou)\n🚒 CAS (Moravské Budějovice)
 END:VEVENT
 END:VCALENDAR
