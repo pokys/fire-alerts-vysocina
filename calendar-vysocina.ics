@@ -722,7 +722,8 @@ SUMMARY:🛠️ obtížný hmyz - Krahulčí
 LOCATION:Krahulčí
 GEO:49.183113;15.414456
 URL:geo:49.183113,15.414456
-DESCRIPTION:📍 Krahulčí\, Jihlava\n\n🚒 CAS (HS Telč)
+DESCRIPTION:📍 Krahulčí\, Jihlava\n💬 Odstranění obtížného hmyzu.\n\n🚒 CAS (H
+ S Telč)
 END:VEVENT
 BEGIN:VEVENT
 UID:419359061
@@ -829,7 +830,8 @@ SUMMARY:🛠️ obtížný hmyz - Budkov
 LOCATION:Budkov
 GEO:49.052375;15.665269
 URL:geo:49.052375,15.665269
-DESCRIPTION:📍 Budkov\, Třebíč\n\n🚒 CAS (Budkov)
+DESCRIPTION:📍 Budkov\, Třebíč\n💬 Odstranění obtížného hmyzu.\n\n🚒 CAS (Budk
+ ov)
 END:VEVENT
 BEGIN:VEVENT
 UID:419371061
@@ -840,7 +842,19 @@ SUMMARY:🛠️ strom - Kozlov
 LOCATION:Kozlov
 GEO:49.747266;15.297787
 URL:geo:49.747266,15.297787
-DESCRIPTION:📍 Leština\, Kozlov\, Havlíčkův Brod\n\n🚒 CAS (HS Ledeč nad Sáza
- vou)
+DESCRIPTION:📍 Leština\, Kozlov\, Havlíčkův Brod\n💬 Odstranění stromu.\n\n🚒 
+ CAS (HS Ledeč nad Sázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:419372061
+DTSTART:20260909T175822Z
+DTEND:20260909T185822Z
+DTSTAMP:20260909T175822Z
+SUMMARY:🛠️ strom - Lučice
+LOCATION:Lučice
+GEO:49.661507;15.486105
+URL:geo:49.661507,15.486105
+DESCRIPTION:📍 Lučice\, Havlíčkův Brod\n💬 Odstranění stromu.\n\n🚒 CAS (Lučic
+ e)
 END:VEVENT
 END:VCALENDAR
