@@ -762,8 +762,9 @@ SUMMARY:🚗 se zraněním - Jaroměřice nad Rokytnou
 LOCATION:Jaroměřice nad Rokytnou
 GEO:49.107463;15.878521
 URL:geo:49.107463,15.878521
-DESCRIPTION:📍 Jaroměřice nad Rokytnou\, Třebíč\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS
-  (HS Moravské Budějovice)
+DESCRIPTION:📍 Jaroměřice nad Rokytnou\, Třebíč\n💬 DN autobusu a dodávky. Vy
+ proštění zaklíněné osoby. Zajištění místa události.\n\n🚒 CAS (CHS Třebíč)\
+ n🚒 CAS (HS Moravské Budějovice)
 END:VEVENT
 BEGIN:VEVENT
 UID:419312061
@@ -774,7 +775,7 @@ SUMMARY:☣️ olej/PHM - Kozlov
 LOCATION:Kozlov
 GEO:49.378365;16.067590
 URL:geo:49.378365,16.067590
-DESCRIPTION:📍 Kozlov\, Žďár nad Sázavou\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA
-  (HS Velké Meziříčí)
+DESCRIPTION:📍 Kozlov\, Žďár nad Sázavou\n💬 Likvidace úniku oleje na vozovce
+ .\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)
 END:VEVENT
 END:VCALENDAR
