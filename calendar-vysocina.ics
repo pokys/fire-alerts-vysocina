@@ -737,4 +737,17 @@ GEO:49.292429;15.483102
 URL:geo:49.292429,15.483102
 DESCRIPTION:📍 5. května\, Třešť\, Jihlava\n\n🚒 CAS (HS Třešť)
 END:VEVENT
+BEGIN:VEVENT
+UID:419323061
+DTSTART:20260909T065941Z
+DTEND:20260909T075941Z
+DTSTAMP:20260909T065941Z
+SUMMARY:🚗 dopravní nehoda - Moravské Budějovice
+LOCATION:Moravské Budějovice
+GEO:49.039012;15.760081
+URL:geo:49.039012,15.760081
+DESCRIPTION:📍 Jackov\, Moravské Budějovice\, Třebíč\n💬 Dopravní nehoda trak
+ toru s vlekem\, se zraněním 1 osoby. Zajištění místa zásahu.\n\n🚒 CAS (HS 
+ Moravské Budějovice)
+END:VEVENT
 END:VCALENDAR
