@@ -745,11 +745,12 @@ UID:419327061
 DTSTART:20260909T074711Z
 DTEND:20260909T084711Z
 DTSTAMP:20260909T074711Z
-SUMMARY:🚗 se zraněním - Radňovice
+SUMMARY:⚠️ planý poplach - Radňovice
 LOCATION:Radňovice
 GEO:49.560634;16.052200
 URL:geo:49.560634,16.052200
-DESCRIPTION:📍 Radňovice\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad Sázavou)\
- n🚒 CAS (Nové Město na Moravě)\n🚒 TA (Nové Město na Moravě)
+DESCRIPTION:📍 Radňovice\, Žďár nad Sázavou\n💬 Planý poplach.\n\n🚒 CAS (CHS 
+ Žďár nad Sázavou)\n🚒 CAS (Nové Město na Moravě)\n🚒 TA (Nové Město na Morav
+ ě)
 END:VEVENT
 END:VCALENDAR
