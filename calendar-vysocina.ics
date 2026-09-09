@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:419227061
-DTSTART:20260907T103528Z
-DTEND:20260907T113528Z
-DTSTAMP:20260907T103528Z
-SUMMARY:☣️ plyn - Moravské Budějovice
-LOCATION:Moravské Budějovice
-GEO:49.036740;15.773138
-URL:geo:49.036740,15.773138
-DESCRIPTION:📍 Jackov\, Moravské Budějovice\, Třebíč\n💬 Zajištění poškozenéh
- o plynového potrubí.\n\n🚒 CAS (HS Moravské Budějovice) ×2
-END:VEVENT
-BEGIN:VEVENT
 UID:419228061
 DTSTART:20260907T104707Z
 DTEND:20260907T114707Z
@@ -725,7 +713,8 @@ SUMMARY:🛠️ ostatní - Hrotovice
 LOCATION:Milačka\, Hrotovice
 GEO:49.113260;16.053669
 URL:geo:49.113260,16.053669
-DESCRIPTION:📍 Milačka\, Hrotovice\, Třebíč\n\n🚒 CAS (HS Hrotovice)
+DESCRIPTION:📍 Milačka\, Hrotovice\, Třebíč\n💬 Pročištění kanalizace.\n\n🚒 C
+ AS (HS Hrotovice)
 END:VEVENT
 BEGIN:VEVENT
 UID:419334061
@@ -748,8 +737,9 @@ SUMMARY:🚑 transport pacienta - Horní Cerekev
 LOCATION:U Frejlachu\, Horní Cerekev
 GEO:49.316132;15.323546
 URL:geo:49.316132,15.323546
-DESCRIPTION:📍 U Frejlachu\, Horní Cerekev\, Pelhřimov\n\n🚒 CAS (CHS Pelhřim
- ov)\n🚒 DA (Horní Cerekev)\n🚒 CAS (Horní Cerekev)
+DESCRIPTION:📍 U Frejlachu\, Horní Cerekev\, Pelhřimov\n💬 Transport pacienta
+  na žádost ZZS.\n\n🚒 CAS (CHS Pelhřimov)\n🚒 DA (Horní Cerekev)\n🚒 CAS (Hor
+ ní Cerekev)
 END:VEVENT
 BEGIN:VEVENT
 UID:419336061
@@ -761,7 +751,8 @@ LOCATION:Průmyslová\, Bystřice nad Pernštejnem
 GEO:49.513821;16.241963
 URL:geo:49.513821,16.241963
 DESCRIPTION:📍 Průmyslová\, Bystřice nad Pernštejnem\, Žďár nad Sázavou\n\n🚒
-  CAS (HS Bystřice nad Pernštejnem)
+  CAS (HS Bystřice nad Pernštejnem)\n🚒 vyšetřovací automobil (ÚO Žďár nad S
+ ázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:419337061
@@ -772,8 +763,8 @@ SUMMARY:⚠️ planý poplach - Telč
 LOCATION:Třebíčská\, Telč
 GEO:49.187153;15.471737
 URL:geo:49.187153,15.471737
-DESCRIPTION:📍 Třebíčská\, Telč-Štěpnice\, Telč\, Jihlava\n\n🚒 CAS (HS Telč)
- \n🚒 CAS (HS Telč)
+DESCRIPTION:📍 Třebíčská\, Telč-Štěpnice\, Telč\, Jihlava\n💬 Požár hlášený č
+ idlem EPS na PCO - planý poplach.\n\n🚒 CAS (HS Telč)\n🚒 CAS (HS Telč)
 END:VEVENT
 BEGIN:VEVENT
 UID:419338061
@@ -784,6 +775,19 @@ SUMMARY:🔥 odpad - Havlíčkův Brod
 LOCATION:Na Písku\, Havlíčkův Brod
 GEO:49.602987;15.575911
 URL:geo:49.602987,15.575911
-DESCRIPTION:📍 Na Písku\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)
+DESCRIPTION:📍 Na Písku\, Havlíčkův Brod\n💬 Požár plechového odpadkového koš
+ e.\n\n🚒 CAS (CHS Havlíčkův Brod)
+END:VEVENT
+BEGIN:VEVENT
+UID:419339061
+DTSTART:20260909T101758Z
+DTEND:20260909T111758Z
+DTSTAMP:20260909T101758Z
+SUMMARY:🛠️ otevření bytu/auta - Náměšť nad Oslavou
+LOCATION:Nádražní\, Náměšť nad Oslavou
+GEO:49.207902;16.148635
+URL:geo:49.207902,16.148635
+DESCRIPTION:📍 Nádražní\, Náměšť nad Oslavou\, Třebíč\n💬 Otevření objektu.\n
+ \n🚒 CAS (HS Náměšť nad Oslavou)
 END:VEVENT
 END:VCALENDAR
