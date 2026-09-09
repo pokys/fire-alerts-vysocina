@@ -727,17 +727,6 @@ URL:geo:49.405093,15.587567
 DESCRIPTION:🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
-UID:419321061
-DTSTART:20260909T063414Z
-DTEND:20260909T073414Z
-DTSTAMP:20260909T063414Z
-SUMMARY:🚑 transport pacienta - Třešť
-LOCATION:5. května\, Třešť
-GEO:49.292429;15.483102
-URL:geo:49.292429,15.483102
-DESCRIPTION:📍 5. května\, Třešť\, Jihlava\n\n🚒 CAS (HS Třešť)
-END:VEVENT
-BEGIN:VEVENT
 UID:419323061
 DTSTART:20260909T065941Z
 DTEND:20260909T075941Z
@@ -748,6 +737,6 @@ GEO:49.039012;15.760081
 URL:geo:49.039012,15.760081
 DESCRIPTION:📍 Jackov\, Moravské Budějovice\, Třebíč\n💬 Dopravní nehoda trak
  toru s vlekem\, se zraněním 1 osoby. Zajištění místa zásahu.\n\n🚒 CAS (HS 
- Moravské Budějovice)
+ Moravské Budějovice)\n🚒 VYA (CHS Třebíč)
 END:VEVENT
 END:VCALENDAR
