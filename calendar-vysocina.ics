@@ -5,20 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:419204061
-DTSTART:20260907T063304Z
-DTEND:20260907T073304Z
-DTSTAMP:20260907T063304Z
-SUMMARY:🔥 Telč
-LOCATION:Radkovská\, Telč
-GEO:49.173416;15.457172
-URL:geo:49.173416,15.457172
-DESCRIPTION:📍 Radkovská\, Telč-Staré Město\, Telč\, Jihlava\n💬 Požár bytu. 
- Provedena lokalizace a likvidace požáru.\n\n🚒 CAS (HS Telč)\n🚒 AŽ (HS Telč
- )\n🚒 přetlakový ventilátor (HS Telč)\n🚒 CAS (Mrákotín)\n🚒 CAS (Telč)\n🚒 vy
- šetřovací automobil (ÚO Jihlava)
-END:VEVENT
-BEGIN:VEVENT
 UID:419205061
 DTSTART:20260907T065332Z
 DTEND:20260907T075332Z
