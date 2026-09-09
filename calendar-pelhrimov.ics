@@ -137,4 +137,16 @@ URL:geo:49.504441,15.271050
 DESCRIPTION:📍 Milotice\, Dehtáře\, Pelhřimov\n💬 Odstranění obtížného hmyzu.
  \n\n🚒 CAS (CHS Pelhřimov)
 END:VEVENT
+BEGIN:VEVENT
+UID:419361061
+DTSTART:20260909T143634Z
+DTEND:20260909T153634Z
+DTSTAMP:20260909T143634Z
+SUMMARY:☣️ plyn - Pelhřimov
+LOCATION:Nerudova\, Pelhřimov
+GEO:49.429056;15.232610
+URL:geo:49.429056,15.232610
+DESCRIPTION:📍 Nerudova\, Pelhřimov\n💬 Likvidace úniku plynu.\n\n🚒 CAS (CHS 
+ Pelhřimov)
+END:VEVENT
 END:VCALENDAR
