@@ -652,7 +652,7 @@ SUMMARY:🛠️ ostatní - Jihlava
 LOCATION:Jihlava
 GEO:49.375149;15.585689
 URL:geo:49.375149,15.585689
-DESCRIPTION:🚒 CAS (CHS Jihlava)
+DESCRIPTION:💬 Úklid vozovky.\n\n🚒 CAS (CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:419349061
@@ -663,7 +663,8 @@ SUMMARY:🚗 dopravní nehoda - Jihlava
 LOCATION:Pávovská\, Jihlava
 GEO:49.432103;15.601564
 URL:geo:49.432103,15.601564
-DESCRIPTION:📍 Pávovská\, Jihlava\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihlava
+DESCRIPTION:📍 Pávovská\, Jihlava\n💬 DN 1 OA a motocyklu se zraněním jedné o
+ soby. Zajištění místa události.\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihlava
  )
 END:VEVENT
 BEGIN:VEVENT
@@ -687,8 +688,10 @@ SUMMARY:⚠️ planý poplach - Kouty
 LOCATION:Kouty
 GEO:49.638446;15.299053
 URL:geo:49.638446,15.299053
-DESCRIPTION:📍 Kouty\, Havlíčkův Brod\n💬 Planý poplach.\n\n🚒 CAS (HS Ledeč n
- ad Sázavou)\n🚒 DA (Kouty (HB))\n🚒 CAS (Kožlí)\n🚒 CAS (Ledeč nad Sázavou)
+DESCRIPTION:📍 Kouty\, Havlíčkův Brod\n💬 Požár ohlášený systémem elektrické 
+ požární signalizace. Průzkumem bylo zjištěno\, že se jedná o planý poplach
+ .\n\n🚒 CAS (HS Ledeč nad Sázavou)\n🚒 DA (Kouty (HB))\n🚒 CAS (Kožlí)\n🚒 CAS
+  (Ledeč nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:419354061
@@ -699,7 +702,7 @@ SUMMARY:🛠️ strom - Jihlava
 LOCATION:Jihlava
 GEO:49.405487;15.609524
 URL:geo:49.405487,15.609524
-DESCRIPTION:🚒 CAS (CHS Jihlava)
+DESCRIPTION:💬 Odstranění stromu.\n\n🚒 CAS (CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:419355061
@@ -734,7 +737,9 @@ SUMMARY:⚠️ planý poplach - Jihlava
 LOCATION:Tolstého\, Jihlava
 GEO:49.398329;15.583166
 URL:geo:49.398329,15.583166
-DESCRIPTION:📍 Tolstého\, Jihlava\n\n🚒 CAS (CHS Jihlava) ×2
+DESCRIPTION:📍 Tolstého\, Jihlava\n💬 Požár ohlášený systémem elektrické požá
+ rní signalizace. Průzkumem bylo zjištěno\, že se jedná o planý poplach.\n\
+ n🚒 CAS (CHS Jihlava) ×2
 END:VEVENT
 BEGIN:VEVENT
 UID:419361061
@@ -781,9 +786,9 @@ SUMMARY:☣️ olej/PHM - Jihlava
 LOCATION:Jihlava
 GEO:49.451615;15.608650
 URL:geo:49.451615,15.608650
-DESCRIPTION:📍 Pávov\, Jihlava\n\n🚒 CAS (CHS Jihlava) ×2\n🚒 automobilový nos
- ič kontejnerů (CHS Jihlava)\n🚒 kontejner technický - chemický (CHS Jihlava
- )
+DESCRIPTION:📍 Pávov\, Jihlava\n💬 Zajištění úniku nebezpečné látky z NA.\n\n
+ 🚒 CAS (CHS Jihlava) ×2\n🚒 automobilový nosič kontejnerů (CHS Jihlava)\n🚒 k
+ ontejner technický - chemický (CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:419366061
