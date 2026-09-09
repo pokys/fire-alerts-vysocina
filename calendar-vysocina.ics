@@ -5,30 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:419234061
-DTSTART:20260907T120513Z
-DTEND:20260907T130513Z
-DTSTAMP:20260907T120513Z
-SUMMARY:🚗 dopravní nehoda - Vladislav
-LOCATION:Vladislav
-GEO:49.211247;15.991880
-URL:geo:49.211247,15.991880
-DESCRIPTION:📍 Vladislav\, Třebíč\n💬 Dopravní nehoda motorkáře a spolujezdce
- \, se zraněním. Provodeno zajištění místa události.\n\n🚒 CAS (CHS Třebíč)
-END:VEVENT
-BEGIN:VEVENT
-UID:419235061
-DTSTART:20260907T121013Z
-DTEND:20260907T131013Z
-DTSTAMP:20260907T121013Z
-SUMMARY:☣️ olej/PHM - Žďár nad Sázavou
-LOCATION:Žižkova\, Žďár nad Sázavou
-GEO:49.564989;15.936296
-URL:geo:49.564989,15.936296
-DESCRIPTION:📍 Žižkova\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n💬 Likvidace 
- olejové skvrny na komunikaci.\n\n🚒 DA (Žďár nad Sázavou-Zámek)
-END:VEVENT
-BEGIN:VEVENT
 UID:419237061
 DTSTART:20260907T123346Z
 DTEND:20260907T133346Z
@@ -762,7 +738,18 @@ SUMMARY:🚑 transport pacienta - Žirovnice
 LOCATION:Sídliště\, Žirovnice
 GEO:49.252556;15.197609
 URL:geo:49.252556,15.197609
-DESCRIPTION:📍 Sídliště\, Žirovnice\, Pelhřimov\n\n🚒 CAS (HS Kamenice nad Li
- pou)\n🚒 CAS (Žirovnice)
+DESCRIPTION:📍 Sídliště\, Žirovnice\, Pelhřimov\n💬 Transport pacienta na žád
+ ost ZZS.\n\n🚒 CAS (HS Kamenice nad Lipou)\n🚒 CAS (Žirovnice)
+END:VEVENT
+BEGIN:VEVENT
+UID:419343061
+DTSTART:20260909T115620Z
+DTEND:20260909T125620Z
+DTSTAMP:20260909T115620Z
+SUMMARY:🛠️ strom - Štoky
+LOCATION:Štoky
+GEO:49.511973;15.602156
+URL:geo:49.511973,15.602156
+DESCRIPTION:📍 Štoky\, Havlíčkův Brod\n\n🚒 CAS (Štoky)
 END:VEVENT
 END:VCALENDAR
