@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:419240061
-DTSTART:20260907T153552Z
-DTEND:20260907T163552Z
-DTSTAMP:20260907T153552Z
-SUMMARY:🛠️ obtížný hmyz - Světnov
-LOCATION:Světnov
-GEO:49.612076;15.952957
-URL:geo:49.612076,15.952957
-DESCRIPTION:📍 Světnov\, Žďár nad Sázavou\n💬 Odstranění obtížného hmyzu.\n\n
- 🚒 DA (Žďár nad Sázavou-Zámek)
-END:VEVENT
-BEGIN:VEVENT
 UID:419241061
 DTSTART:20260907T160757Z
 DTEND:20260907T170757Z
@@ -641,8 +629,7 @@ LOCATION:U Frejlachu\, Horní Cerekev
 GEO:49.316132;15.323546
 URL:geo:49.316132,15.323546
 DESCRIPTION:📍 U Frejlachu\, Horní Cerekev\, Pelhřimov\n💬 Transport pacienta
-  na žádost ZZS.\n\n🚒 CAS (CHS Pelhřimov)\n🚒 DA (Horní Cerekev)\n🚒 CAS (Hor
- ní Cerekev)
+  na žádost ZZS.\n\n🚒 CAS (CHS Pelhřimov)\n🚒 DA (Horní Cerekev)
 END:VEVENT
 BEGIN:VEVENT
 UID:419336061
@@ -853,6 +840,31 @@ SUMMARY:🛠️ obtížný hmyz - Netín
 LOCATION:Netín
 GEO:49.414018;15.952616
 URL:geo:49.414018,15.952616
-DESCRIPTION:📍 Netín\, Žďár nad Sázavou\n\n🚒 DA (Netín)
+DESCRIPTION:📍 Netín\, Žďár nad Sázavou\n💬 Odstranění obtížného hmyzu.\n\n🚒 
+ DA (Netín)
+END:VEVENT
+BEGIN:VEVENT
+UID:419365061
+DTSTART:20260909T151534Z
+DTEND:20260909T161534Z
+DTSTAMP:20260909T151534Z
+SUMMARY:☣️ olej/PHM - Jihlava
+LOCATION:Jihlava
+GEO:49.451615;15.608650
+URL:geo:49.451615,15.608650
+DESCRIPTION:📍 Pávov\, Jihlava\n\n🚒 CAS (CHS Jihlava) ×2\n🚒 automobilový nos
+ ič kontejnerů (CHS Jihlava)\n🚒 kontejner technický - chemický (CHS Jihlava
+ )
+END:VEVENT
+BEGIN:VEVENT
+UID:419366061
+DTSTART:20260909T152555Z
+DTEND:20260909T162555Z
+DTSTAMP:20260909T152555Z
+SUMMARY:🛠️ strom - Proseč pod Křemešníkem
+LOCATION:Proseč pod Křemešníkem
+GEO:49.402202;15.288526
+URL:geo:49.402202,15.288526
+DESCRIPTION:📍 Proseč pod Křemešníkem\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)
 END:VEVENT
 END:VCALENDAR
