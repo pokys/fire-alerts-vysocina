@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:419268061
-DTSTART:20260908T090359Z
-DTEND:20260908T100359Z
-DTSTAMP:20260908T090359Z
-SUMMARY:🚑 transport pacienta - Kojčice
-LOCATION:Kojčice
-GEO:49.487509;15.239643
-URL:geo:49.487509,15.239643
-DESCRIPTION:📍 Kojčice\, Pelhřimov\n💬 Transport pacienta na žádost ZZS.\n\n🚒
-  CAS (CHS Pelhřimov)
-END:VEVENT
-BEGIN:VEVENT
 UID:419270061
 DTSTART:20260908T093450Z
 DTEND:20260908T103450Z
@@ -896,6 +884,18 @@ GEO:49.215826;15.807929
 URL:geo:49.215826,15.807929
 DESCRIPTION:📍 Krahulov\, Třebíč\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (CHS Třebíč)\n
  🚒 osobní automobil (Krahulov)\n🚒 CAS (Okříšky)\n🚒 automobilová stříkačka (
- Stařeč)\n🚒 CAS (Stařeč)
+ Stařeč)\n🚒 CAS (Stařeč)\n🚒 vyšetřovací automobil (ÚO Třebíč)
+END:VEVENT
+BEGIN:VEVENT
+UID:419395061
+DTSTART:20260910T085816Z
+DTEND:20260910T095816Z
+DTSTAMP:20260910T085816Z
+SUMMARY:🚑 transport pacienta - Velké Meziříčí
+LOCATION:U Tržiště\, Velké Meziříčí
+GEO:49.348752;16.023090
+URL:geo:49.348752,16.023090
+DESCRIPTION:📍 U Tržiště\, Velké Meziříčí\, Žďár nad Sázavou\n💬 Transport pa
+ cienta na žádost ZZS.\n\n🚒 CAS (HS Velké Meziříčí)
 END:VEVENT
 END:VCALENDAR
