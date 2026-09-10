@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:419271061
-DTSTART:20260908T100001Z
-DTEND:20260908T110001Z
-DTSTAMP:20260908T100001Z
-SUMMARY:⚠️ planý poplach - Božejov
-LOCATION:Božejov
-GEO:49.350189;15.140001
-URL:geo:49.350189,15.140001
-DESCRIPTION:📍 Nová Ves\, Božejov\, Pelhřimov\n💬 Planý poplach.\n\n🚒 CAS (HS
-  Kamenice nad Lipou)
-END:VEVENT
-BEGIN:VEVENT
 UID:419272061
 DTSTART:20260908T101537Z
 DTEND:20260908T111537Z
@@ -799,8 +787,8 @@ SUMMARY:🛠️ ostatní - Pelhřimov
 LOCATION:Křemešnická\, Pelhřimov
 GEO:49.426802;15.229129
 URL:geo:49.426802,15.229129
-DESCRIPTION:📍 Křemešnická\, Pelhřimov\n💬 Spolupráce s PČR.\n\n🚒 CAS (CHS Pe
- lhřimov)
+DESCRIPTION:📍 Křemešnická\, Pelhřimov\n💬 Spolupráce s PČR při odchytu kance
+ .\n\n🚒 CAS (CHS Pelhřimov)
 END:VEVENT
 BEGIN:VEVENT
 UID:419386061
@@ -847,7 +835,8 @@ SUMMARY:🛠️ spolupráce IZS - Polná
 LOCATION:Resslova\, Polná
 GEO:49.491997;15.701579
 URL:geo:49.491997,15.701579
-DESCRIPTION:📍 Resslova\, Polná\, Jihlava\n\n🚒 CAS (HS Polná)
+DESCRIPTION:📍 Resslova\, Polná\, Jihlava\n💬 Spolupráce se ZZS při ošetření 
+ osoby.\n\n🚒 CAS (HS Polná)
 END:VEVENT
 BEGIN:VEVENT
 UID:419390061
@@ -897,5 +886,16 @@ GEO:49.108526;16.057605
 URL:geo:49.108526,16.057605
 DESCRIPTION:📍 nám. 8. května\, Hrotovice\, Třebíč\n💬 Odchyt dvou mladých la
  butí.\n\n🚒 CAS (HS Hrotovice)
+END:VEVENT
+BEGIN:VEVENT
+UID:419400061
+DTSTART:20260910T094926Z
+DTEND:20260910T104926Z
+DTSTAMP:20260910T094926Z
+SUMMARY:🚑 transport pacienta - Humpolec
+LOCATION:Na Rybníčku\, Humpolec
+GEO:49.546193;15.355246
+URL:geo:49.546193,15.355246
+DESCRIPTION:📍 Na Rybníčku\, Humpolec\, Pelhřimov\n\n🚒 CAS (HS Humpolec)
 END:VEVENT
 END:VCALENDAR
