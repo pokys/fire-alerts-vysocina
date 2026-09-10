@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:419264061
-DTSTART:20260908T083739Z
-DTEND:20260908T093739Z
-DTSTAMP:20260908T083739Z
-SUMMARY:🛠️ obtížný hmyz - Žďár nad Sázavou
-LOCATION:Veselská\, Žďár nad Sázavou
-GEO:49.560146;15.934273
-URL:geo:49.560146,15.934273
-DESCRIPTION:📍 Veselská\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n💬 Odstraněn
- í obtížného hmyzu.\n\n🚒 CAS (CHS Žďár nad Sázavou)
-END:VEVENT
-BEGIN:VEVENT
 UID:419265061
 DTSTART:20260908T084713Z
 DTEND:20260908T094713Z
@@ -905,6 +893,19 @@ SUMMARY:🛠️ strom - Častrov
 LOCATION:Častrov
 GEO:49.317500;15.142830
 URL:geo:49.317500,15.142830
-DESCRIPTION:📍 Pelec\, Častrov\, Pelhřimov\n\n🚒 CAS (HS Kamenice nad Lipou)
+DESCRIPTION:📍 Pelec\, Častrov\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 CAS (H
+ S Kamenice nad Lipou)
+END:VEVENT
+BEGIN:VEVENT
+UID:419394061
+DTSTART:20260910T082908Z
+DTEND:20260910T092908Z
+DTSTAMP:20260910T082908Z
+SUMMARY:🔥 technologie - Krahulov
+LOCATION:Krahulov
+GEO:49.215826;15.807929
+URL:geo:49.215826,15.807929
+DESCRIPTION:📍 Krahulov\, Třebíč\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (CHS Třebíč)\n
+ 🚒 osobní automobil (Krahulov)\n🚒 CAS (Okříšky)\n🚒 CAS (Stařeč)
 END:VEVENT
 END:VCALENDAR
