@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:419260061
-DTSTART:20260908T070609Z
-DTEND:20260908T080609Z
-DTSTAMP:20260908T070609Z
-SUMMARY:🛠️ obtížný hmyz - Jihlava
-LOCATION:Demlova\, Jihlava
-GEO:49.402326;15.607475
-URL:geo:49.402326,15.607475
-DESCRIPTION:📍 Demlova\, Jihlava\n💬 Odstranění obtížného hmyzu.\n\n🚒 CAS (CH
- S Jihlava)
-END:VEVENT
-BEGIN:VEVENT
 UID:419261061
 DTSTART:20260908T082011Z
 DTEND:20260908T092011Z
@@ -884,8 +872,8 @@ SUMMARY:🛠️ obtížný hmyz - Moravské Budějovice
 LOCATION:Čechova\, Moravské Budějovice
 GEO:49.045486;15.812219
 URL:geo:49.045486,15.812219
-DESCRIPTION:📍 Čechova\, Moravské Budějovice\, Třebíč\n\n🚒 CAS (HS Moravské 
- Budějovice)
+DESCRIPTION:📍 Čechova\, Moravské Budějovice\, Třebíč\n💬 Odstranění obtížnéh
+ o hmyzu.\n\n🚒 CAS (HS Moravské Budějovice)
 END:VEVENT
 BEGIN:VEVENT
 UID:419387061
@@ -896,6 +884,7 @@ SUMMARY:🛠️ obtížný hmyz - Chotěboř
 LOCATION:Chotěboř
 GEO:49.703636;15.729956
 URL:geo:49.703636,15.729956
-DESCRIPTION:📍 Bílek\, Chotěboř\, Havlíčkův Brod\n\n🚒 CAS (HS Chotěboř)
+DESCRIPTION:📍 Bílek\, Chotěboř\, Havlíčkův Brod\n💬 Odstranění obtížného hmy
+ zu.\n\n🚒 CAS (HS Chotěboř)
 END:VEVENT
 END:VCALENDAR
