@@ -5,21 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:419253061
-DTSTART:20260908T035904Z
-DTEND:20260908T045904Z
-DTSTAMP:20260908T035904Z
-SUMMARY:🔥 technologie - Nová Ves u Světlé
-LOCATION:Nová Ves u Světlé
-GEO:49.645893;15.459599
-URL:geo:49.645893,15.459599
-DESCRIPTION:📍 Nová Ves u Světlé\, Havlíčkův Brod\n💬 Požár haly.\n\n🚒 CAS (C
- HS Havlíčkův Brod)\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 automobilová plošina do 
- 30 m (CHS Havlíčkův Brod)\n🚒 CAS (HS Světlá nad Sázavou)\n🚒 DA (Nová Ves u
-  Světlé)\n🚒 DA (Světlá nad Sázavou)\n🚒 CAS (Světlá nad Sázavou)\n🚒 vyšetřo
- vací automobil (ÚO Havlíčkův Brod)\n🚒 vyšetřovací automobil (KŘ HZS VYS)
-END:VEVENT
-BEGIN:VEVENT
 UID:419256061
 DTSTART:20260908T051717Z
 DTEND:20260908T061717Z
