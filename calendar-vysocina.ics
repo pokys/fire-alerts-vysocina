@@ -532,8 +532,9 @@ SUMMARY:⚠️ planý poplach - Mohelno
 LOCATION:Mohelno
 GEO:49.102627;16.180768
 URL:geo:49.102627,16.180768
-DESCRIPTION:📍 Mohelno\, Třebíč\n\n🚒 CAS (HS Hrotovice)\n🚒 CAS (HS Náměšť na
- d Oslavou)\n🚒 CAS (Mohelno)
+DESCRIPTION:📍 Mohelno\, Třebíč\n💬 Požár ohlášený systémem elektrické požárn
+ í signalizace. Průzkumem bylo zjištěno\, že se jedná o planý poplach.\n\n🚒
+  CAS (HS Hrotovice)\n🚒 CAS (HS Náměšť nad Oslavou)\n🚒 CAS (Mohelno)
 END:VEVENT
 BEGIN:VEVENT
 UID:419470061
@@ -555,6 +556,7 @@ SUMMARY:🚑 otevření/asistence - Třebíč
 LOCATION:Karlovo nám.\, Třebíč
 GEO:49.216317;15.880604
 URL:geo:49.216317,15.880604
-DESCRIPTION:📍 Karlovo nám.\, Vnitřní Město\, Třebíč\n\n🚒 CAS (CHS Třebíč)
+DESCRIPTION:📍 Karlovo nám.\, Vnitřní Město\, Třebíč\n💬 Vyproštění 2 osob z 
+ výtahu.\n\n🚒 CAS (CHS Třebíč)
 END:VEVENT
 END:VCALENDAR
