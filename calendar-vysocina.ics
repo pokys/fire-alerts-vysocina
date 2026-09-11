@@ -518,8 +518,8 @@ DESCRIPTION:📍 Krahulov\, Třebíč\n💬 Požár sila\n\n🚒 CAS (CHS Třeb�
  AS (CHS Třebíč)\n🚒 VEA (CHS Třebíč) ×2\n🚒 přívěs tankovací (CHS Třebíč)\n🚒
   osobní automobil (Krahulov) ×2\n🚒 CAS (Okříšky) ×2\n🚒 DA (Stařeč)\n🚒 auto
  mobilová stříkačka (Stařeč)\n🚒 CAS (Stařeč) ×2\n🚒 DA (ÚO Třebíč)\n🚒 vyšetř
- ovací automobil (ÚO Třebíč)\n🚒 CAS (Rokytnice nad Rokytnou)\n🚒 osobní auto
- mobil (KŘ HZS VYS)
+ ovací automobil (ÚO Třebíč)\n🚒 CAS (Rokytnice nad Rokytnou)\n🚒 vyšetřovací
+  automobil (KŘ HZS VYS)\n🚒 osobní automobil (KŘ HZS VYS)
 END:VEVENT
 BEGIN:VEVENT
 UID:419395061
@@ -799,5 +799,17 @@ GEO:49.209334;15.894188
 URL:geo:49.209334,15.894188
 DESCRIPTION:📍 Hrotovická\, Jejkov\, Třebíč\n💬 Dopravní nehoda motorkáře se 
  zraněním. Zajištění místa zásahu.\n\n🚒 CAS (CHS Třebíč)
+END:VEVENT
+BEGIN:VEVENT
+UID:419445061
+DTSTART:20260911T065749Z
+DTEND:20260911T075749Z
+DTSTAMP:20260911T065749Z
+SUMMARY:🚑 transport pacienta - Pacov
+LOCATION:Pacov
+GEO:49.465107;15.005461
+URL:geo:49.465107,15.005461
+DESCRIPTION:📍 Pacov\, Pelhřimov\n\n🚒 CAS (HS Pacov)\n🚒 AŽ (CHS Pelhřimov)\n
+ 🚒 VEA (CHS Pelhřimov)
 END:VEVENT
 END:VCALENDAR
