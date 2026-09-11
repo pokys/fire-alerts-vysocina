@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:419370061
-DTSTART:20260909T165957Z
-DTEND:20260909T175957Z
-DTSTAMP:20260909T165957Z
-SUMMARY:🛠️ obtížný hmyz - Budkov
-LOCATION:Budkov
-GEO:49.052375;15.665269
-URL:geo:49.052375,15.665269
-DESCRIPTION:📍 Budkov\, Třebíč\n💬 Odstranění obtížného hmyzu.\n\n🚒 CAS (Budk
- ov)
-END:VEVENT
-BEGIN:VEVENT
 UID:419371061
 DTSTART:20260909T174634Z
 DTEND:20260909T184634Z
@@ -568,7 +556,9 @@ SUMMARY:⚠️ planý poplach - Žďár nad Sázavou
 LOCATION:Okružní\, Žďár nad Sázavou
 GEO:49.563941;15.926700
 URL:geo:49.563941,15.926700
-DESCRIPTION:📍 Okružní\, Žďár nad Sázavou 3\, Žďár nad Sázavou\n💬 Planý popl
- ach.\n\n🚒 CAS (CHS Žďár nad Sázavou) ×2\n🚒 CAS (CHS Žďár nad Sázavou) ×2
+DESCRIPTION:📍 Okružní\, Žďár nad Sázavou 3\, Žďár nad Sázavou\n💬 Požár ohlá
+ šený systémem elektrické požární signalizace. Průzkumem bylo zjištěno\, že
+  se jedná o planý poplach.\n\n🚒 CAS (CHS Žďár nad Sázavou) ×2\n🚒 CAS (CHS 
+ Žďár nad Sázavou) ×2
 END:VEVENT
 END:VCALENDAR
