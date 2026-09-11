@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:419365061
-DTSTART:20260909T151534Z
-DTEND:20260909T161534Z
-DTSTAMP:20260909T151534Z
-SUMMARY:☣️ olej/PHM - Jihlava
-LOCATION:Jihlava
-GEO:49.451615;15.608650
-URL:geo:49.451615,15.608650
-DESCRIPTION:📍 Pávov\, Jihlava\n💬 Zajištění úniku nebezpečné látky z NA.\n\n
- 🚒 CAS (CHS Jihlava) ×2\n🚒 automobilový nosič kontejnerů (CHS Jihlava)\n🚒 k
- ontejner technický - chemický (CHS Jihlava)
-END:VEVENT
-BEGIN:VEVENT
 UID:419366061
 DTSTART:20260909T152555Z
 DTEND:20260909T162555Z
@@ -236,12 +223,12 @@ LOCATION:Krahulov
 GEO:49.215826;15.807929
 URL:geo:49.215826,15.807929
 DESCRIPTION:📍 Krahulov\, Třebíč\n💬 Požár sila\n\n🚒 CAS (CHS Třebíč) ×2\n🚒 C
- AS (CHS Třebíč)\n🚒 VEA (CHS Třebíč) ×2\n🚒 přívěs tankovací (CHS Třebíč)\n🚒
+ AS (CHS Třebíč)\n🚒 VEA (CHS Třebíč) ×3\n🚒 přívěs tankovací (CHS Třebíč)\n🚒
   osobní automobil (Krahulov) ×2\n🚒 DA (Okříšky)\n🚒 CAS (Okříšky) ×2\n🚒 DA 
  (Stařeč)\n🚒 automobilová stříkačka (Stařeč) ×2\n🚒 CAS (Stařeč) ×2\n🚒 DA (Ú
  O Třebíč)\n🚒 vyšetřovací automobil (ÚO Třebíč)\n🚒 CAS (Rokytnice nad Rokyt
  nou)\n🚒 vyšetřovací automobil (KŘ HZS VYS)\n🚒 osobní automobil (KŘ HZS VYS
- )
+ )\n🚒 CAS (CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:419395061
