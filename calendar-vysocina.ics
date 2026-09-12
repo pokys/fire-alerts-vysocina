@@ -495,8 +495,8 @@ SUMMARY:🚑 spolupráce ZZS - Budišov
 LOCATION:Budišov
 GEO:49.273408;16.018817
 URL:geo:49.273408,16.018817
-DESCRIPTION:📍 Budišov\, Třebíč\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (HS Velké Meziř
- íčí)\n🚒 RZA (HS Velké Meziříčí)
+DESCRIPTION:📍 Budišov\, Třebíč\n💬 Asistence ZZS při resuscitaci.\n\n🚒 CAS (
+ CHS Třebíč)\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)
 END:VEVENT
 BEGIN:VEVENT
 UID:419503061
@@ -507,6 +507,6 @@ SUMMARY:🛠️ otevření bytu/auta - Jihlava
 LOCATION:Mahlerova\, Jihlava
 GEO:49.395318;15.580606
 URL:geo:49.395318,15.580606
-DESCRIPTION:📍 Mahlerova\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+DESCRIPTION:📍 Mahlerova\, Jihlava\n💬 Otevření bytu.\n\n🚒 CAS (CHS Jihlava)
 END:VEVENT
 END:VCALENDAR
