@@ -473,4 +473,15 @@ DESCRIPTION:📍 Podlesí\, Sněžné\, Žďár nad Sázavou\n💬 Dohašení do
  ohniště. Provedena lokalizace a likvidace.\n\n🚒 CAS (CHS Žďár nad Sázavou)
  \n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (Sněžné)\n🚒 CAS (Svratka)
 END:VEVENT
+BEGIN:VEVENT
+UID:419493061
+DTSTART:20260912T135923Z
+DTEND:20260912T145923Z
+DTSTAMP:20260912T135923Z
+SUMMARY:🛠️ strom - Koroužné
+LOCATION:Koroužné
+GEO:49.527474;16.347631
+URL:geo:49.527474,16.347631
+DESCRIPTION:📍 Koroužné\, Žďár nad Sázavou\n\n🚒 DA (Koroužné)
+END:VEVENT
 END:VCALENDAR
