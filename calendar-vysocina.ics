@@ -532,6 +532,18 @@ SUMMARY:🛠️ obtížný hmyz - Pavlov
 LOCATION:Pavlov
 GEO:49.450995;15.914615
 URL:geo:49.450995,15.914615
-DESCRIPTION:📍 Pavlov\, Žďár nad Sázavou\n\n🚒 CAS (Radostín nad Oslavou)
+DESCRIPTION:📍 Pavlov\, Žďár nad Sázavou\n💬 Odstranění obtížného hmyzu.\n\n🚒
+  CAS (Radostín nad Oslavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:419480061
+DTSTART:20260912T065637Z
+DTEND:20260912T075637Z
+DTSTAMP:20260912T065637Z
+SUMMARY:🚗 dopravní nehoda - Křoví
+LOCATION:Křoví
+GEO:49.307624;16.243377
+URL:geo:49.307624,16.243377
+DESCRIPTION:📍 Křoví\, Žďár nad Sázavou\n\n🚒 CAS (HS Velká Bíteš)
 END:VEVENT
 END:VCALENDAR
