@@ -370,8 +370,8 @@ SUMMARY:🚗 dopravní nehoda - Třebíč
 LOCATION:Hrotovická\, Třebíč
 GEO:49.209334;15.894188
 URL:geo:49.209334,15.894188
-DESCRIPTION:📍 Hrotovická\, Jejkov\, Třebíč\n💬 Dopravní nehoda motorkáře se 
- zraněním. Zajištění místa zásahu.\n\n🚒 CAS (CHS Třebíč)
+DESCRIPTION:📍 Hrotovická\, Jejkov\, Třebíč\n💬 DN motorkáře\, 1 zraněná osob
+ a. Zajištění místa zásahu.\n\n🚒 CAS (CHS Třebíč)
 END:VEVENT
 BEGIN:VEVENT
 UID:419445061
@@ -406,8 +406,8 @@ SUMMARY:🚗 dopravní nehoda - Lukov
 LOCATION:Lukov
 GEO:49.080005;15.823223
 URL:geo:49.080005,15.823223
-DESCRIPTION:📍 Lukov\, Třebíč\n💬 Dopravní nehoda 1 osobního automobilu\, bez
-  zranění. Zajištění místa zásahu.\n\n🚒 CAS (HS Moravské Budějovice)
+DESCRIPTION:📍 Lukov\, Třebíč\n💬 DN 1 OA\, bez zranění. Zajištění místa zása
+ hu.\n\n🚒 CAS (HS Moravské Budějovice)
 END:VEVENT
 BEGIN:VEVENT
 UID:419452061
@@ -455,9 +455,9 @@ SUMMARY:🚗 bez zranění - Přibyslav
 LOCATION:Husova\, Přibyslav
 GEO:49.569928;15.746335
 URL:geo:49.569928,15.746335
-DESCRIPTION:📍 Husova\, Přibyslav\, Havlíčkův Brod\n💬 DN OA bez zranění. Zaj
- ištění místa události\, odstranění následků po DN.\n\n🚒 CAS (HS Polná)\n🚒 
- CAS (Přibyslav)
+DESCRIPTION:📍 Husova\, Přibyslav\, Havlíčkův Brod\n💬 DN 1 OA bez zranění. Z
+ ajištění místa události\, odstranění následků po DN.\n\n🚒 CAS (HS Polná)\n
+ 🚒 CAS (Přibyslav)
 END:VEVENT
 BEGIN:VEVENT
 UID:419462061
@@ -483,7 +483,8 @@ LOCATION:Karlov
 GEO:49.660298;15.902475
 URL:geo:49.660298,15.902475
 DESCRIPTION:📍 Karlov\, Žďár nad Sázavou\n💬 DN OA a cyklisty\, 1 zraněná oso
- ba.\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (Žďár nad Sázavou-Zámek)
+ ba. Zajištění místa nehody.\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (Žďár n
+ ad Sázavou-Zámek)
 END:VEVENT
 BEGIN:VEVENT
 UID:419466061
@@ -494,8 +495,8 @@ SUMMARY:🚗 úklid místa - Jihlava
 LOCATION:Jihlava
 GEO:49.452820;15.611622
 URL:geo:49.452820,15.611622
-DESCRIPTION:💬 DN 1 OA\, bez zranění.\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jih
- lava)
+DESCRIPTION:💬 DN 1 OA\, bez zranění. Zajištění místa nehody.\n\n🚒 CAS (CHS 
+ Jihlava)\n🚒 RZA (CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:419467061
@@ -544,7 +545,7 @@ LOCATION:Karlovo nám.\, Třebíč
 GEO:49.216317;15.880604
 URL:geo:49.216317,15.880604
 DESCRIPTION:📍 Karlovo nám.\, Vnitřní Město\, Třebíč\n💬 Vyproštění 2 osob z 
- výtahu.\n\n🚒 CAS (CHS Třebíč)
+ výtahu. Bez zranění.\n\n🚒 CAS (CHS Třebíč)
 END:VEVENT
 BEGIN:VEVENT
 UID:419475061
@@ -555,7 +556,7 @@ SUMMARY:🚗 se zraněním - Hořepník
 LOCATION:Hořepník
 GEO:49.496237;15.079944
 URL:geo:49.496237,15.079944
-DESCRIPTION:📍 Březina\, Hořepník\, Pelhřimov\n💬 DN 1 OA\, 1 zraněná osoba.\
- n\n🚒 CAS (HS Pacov)
+DESCRIPTION:📍 Březina\, Hořepník\, Pelhřimov\n💬 DN 1 OA\, 1 zraněná osoba. 
+ Zajištění místa nehody.\n\n🚒 CAS (HS Pacov)
 END:VEVENT
 END:VCALENDAR
