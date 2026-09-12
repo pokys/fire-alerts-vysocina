@@ -410,8 +410,8 @@ LOCATION:Sněžné
 GEO:49.679315;16.105523
 URL:geo:49.679315,16.105523
 DESCRIPTION:📍 Podlesí\, Sněžné\, Žďár nad Sázavou\n💬 Dohašení doutnajícího 
- ohniště. Provedena lokalizace a likvidace.\n\n🚒 CAS (CHS Žďár nad Sázavou)
- \n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (Sněžné)\n🚒 CAS (Svratka)
+ ohniště. Provedena lokalizace a likvidace.\n\n🚒 CAS (Svratka)\n🚒 CAS (CHS 
+ Žďár nad Sázavou)\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (Sněžné)
 END:VEVENT
 BEGIN:VEVENT
 UID:419493061
@@ -495,6 +495,7 @@ SUMMARY:🛠️ obtížný hmyz - Sklené nad Oslavou
 LOCATION:Sklené nad Oslavou
 GEO:49.438146;16.057764
 URL:geo:49.438146,16.057764
-DESCRIPTION:📍 Sklené nad Oslavou\, Žďár nad Sázavou\n\n🚒 DA (Bory)
+DESCRIPTION:📍 Sklené nad Oslavou\, Žďár nad Sázavou\n💬 Odstranění obtížného
+  hmyzu.\n\n🚒 DA (Bory)
 END:VEVENT
 END:VCALENDAR
