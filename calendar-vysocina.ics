@@ -5,24 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:419394061
-DTSTART:20260910T082908Z
-DTEND:20260910T092908Z
-DTSTAMP:20260910T082908Z
-SUMMARY:🔥 technologie - Krahulov
-LOCATION:Krahulov
-GEO:49.215826;15.807929
-URL:geo:49.215826,15.807929
-DESCRIPTION:📍 Krahulov\, Třebíč\n💬 Požár sila\n\n🚒 CAS (CHS Třebíč) ×2\n🚒 C
- AS (CHS Třebíč)\n🚒 VEA (CHS Třebíč) ×4\n🚒 přívěs tankovací (CHS Třebíč)\n🚒
-  osobní automobil (Krahulov) ×2\n🚒 DA (Okříšky)\n🚒 CAS (Okříšky) ×2\n🚒 DA 
- (Stařeč)\n🚒 automobilová stříkačka (Stařeč) ×2\n🚒 CAS (Stařeč) ×2\n🚒 DA (Ú
- O Třebíč)\n🚒 vyšetřovací automobil (ÚO Třebíč)\n🚒 CAS (Rokytnice nad Rokyt
- nou)\n🚒 vyšetřovací automobil (KŘ HZS VYS)\n🚒 osobní automobil (KŘ HZS VYS
- )\n🚒 CAS (CHS Jihlava)\n🚒 zařízení hasicí a řezací vysokotlaké (CHS Jihlav
- a)
-END:VEVENT
-BEGIN:VEVENT
 UID:419395061
 DTSTART:20260910T085816Z
 DTEND:20260910T095816Z
