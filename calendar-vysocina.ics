@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:419390061
-DTSTART:20260910T081022Z
-DTEND:20260910T091022Z
-DTSTAMP:20260910T081022Z
-SUMMARY:🛠️ strom - Častrov
-LOCATION:Častrov
-GEO:49.317500;15.142830
-URL:geo:49.317500,15.142830
-DESCRIPTION:📍 Pelec\, Častrov\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 CAS (H
- S Kamenice nad Lipou)\n🚒 pila řetězová (HS Kamenice nad Lipou)
-END:VEVENT
-BEGIN:VEVENT
 UID:419394061
 DTSTART:20260910T082908Z
 DTEND:20260910T092908Z
@@ -533,6 +521,7 @@ LOCATION:Masarykovo náměstí\, Bystřice nad Pernštejnem
 GEO:49.523754;16.260394
 URL:geo:49.523754,16.260394
 DESCRIPTION:📍 Masarykovo náměstí\, Bystřice nad Pernštejnem\, Žďár nad Sáza
- vou\n\n🚒 CAS (HS Bystřice nad Pernštejnem)
+ vou\n💬 Vyproštění kotěte z motorové části OA.\n\n🚒 CAS (HS Bystřice nad Pe
+ rnštejnem)
 END:VEVENT
 END:VCALENDAR
