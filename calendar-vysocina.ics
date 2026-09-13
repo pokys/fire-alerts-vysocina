@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:419468061
-DTSTART:20260911T205736Z
-DTEND:20260911T215736Z
-DTSTAMP:20260911T205736Z
-SUMMARY:⚠️ planý poplach - Mohelno
-LOCATION:Mohelno
-GEO:49.102627;16.180768
-URL:geo:49.102627,16.180768
-DESCRIPTION:📍 Mohelno\, Třebíč\n💬 Požár ohlášený systémem elektrické požárn
- í signalizace. Průzkumem bylo zjištěno\, že se jedná o planý poplach.\n\n🚒
-  CAS (HS Hrotovice)\n🚒 CAS (HS Náměšť nad Oslavou)\n🚒 CAS (Mohelno)
-END:VEVENT
-BEGIN:VEVENT
 UID:419470061
 DTSTART:20260911T210508Z
 DTEND:20260911T220508Z
