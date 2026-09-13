@@ -550,4 +550,16 @@ DESCRIPTION:📍 Kuchyně\, Herálec\, Žďár nad Sázavou\n💬 Požár dřevn
  ďár nad Sázavou)\n🚒 DA (Herálec (ZR))\n🚒 CAS (Herálec (ZR))\n🚒 CAS (Svratk
  a)\n🚒 vyšetřovací automobil (ÚO Žďár nad Sázavou)
 END:VEVENT
+BEGIN:VEVENT
+UID:419537061
+DTSTART:20260913T182225Z
+DTEND:20260913T192225Z
+DTSTAMP:20260913T182225Z
+SUMMARY:🚗 bez zranění - Žďár nad Sázavou
+LOCATION:Brodská\, Žďár nad Sázavou
+GEO:49.565963;15.924011
+URL:geo:49.565963,15.924011
+DESCRIPTION:📍 Brodská\, Žďár nad Sázavou 3\, Žďár nad Sázavou\n💬 DN 2 OA be
+ z zranění. Zajištění místa události.\n\n🚒 CAS (CHS Žďár nad Sázavou)
+END:VEVENT
 END:VCALENDAR
