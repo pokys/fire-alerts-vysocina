@@ -534,8 +534,8 @@ SUMMARY:🚗 dopravní nehoda - Vyskytná
 LOCATION:Vyskytná
 GEO:49.442046;15.337500
 URL:geo:49.442046,15.337500
-DESCRIPTION:📍 Vyskytná\, Pelhřimov\n💬 DN 1 OA\, se zraněním 1 osoby. Zajišt
- ění místa nehody. Spolupráce se složkami IZS.\n\n🚒 CAS (CHS Pelhřimov)
+DESCRIPTION:📍 Vyskytná\, Pelhřimov\n💬 DN 1 OA\, se zraněním jedné osoby. Za
+ jištění místa nehody. Spolupráce se složkami IZS.\n\n🚒 CAS (CHS Pelhřimov)
 END:VEVENT
 BEGIN:VEVENT
 UID:419551061
@@ -548,5 +548,17 @@ GEO:49.500237;16.277929
 URL:geo:49.500237,16.277929
 DESCRIPTION:📍 Věchnov\, Žďár nad Sázavou\n💬 Odstranění obtížného hmyzu.\n\n
  🚒 CAS (HS Bystřice nad Pernštejnem)
+END:VEVENT
+BEGIN:VEVENT
+UID:419552061
+DTSTART:20260914T073259Z
+DTEND:20260914T083259Z
+DTSTAMP:20260914T073259Z
+SUMMARY:🔥 les - Čikov
+LOCATION:Čikov
+GEO:49.284438;16.125068
+URL:geo:49.284438,16.125068
+DESCRIPTION:📍 Čikov\, Třebíč\n\n🚒 CAS (HS Náměšť nad Oslavou)\n🚒 CAS (HS Ve
+ lká Bíteš)\n🚒 DA (Čikov)\n🚒 CAS (Tasov)
 END:VEVENT
 END:VCALENDAR
