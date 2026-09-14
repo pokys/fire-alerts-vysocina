@@ -617,7 +617,7 @@ LOCATION:Budějovická\, Jemnice
 GEO:49.018801;15.591828
 URL:geo:49.018801,15.591828
 DESCRIPTION:📍 Budějovická\, Jemnice\, Třebíč\n💬 Oplach komunikace.\n\n🚒 CAS
-  (HS Jemnice)
+  (HS Jemnice) ×2
 END:VEVENT
 BEGIN:VEVENT
 UID:419587061
@@ -677,5 +677,17 @@ LOCATION:Dukovanská\, Třebíč
 GEO:49.222511;15.890576
 URL:geo:49.222511,15.890576
 DESCRIPTION:📍 Dukovanská\, Nové Dvory\, Třebíč\n\n🚒 CAS (CHS Třebíč)
+END:VEVENT
+BEGIN:VEVENT
+UID:419593061
+DTSTART:20260914T154105Z
+DTEND:20260914T164105Z
+DTSTAMP:20260914T154105Z
+SUMMARY:🛠️ ostatní - Žďár nad Sázavou
+LOCATION:Husova\, Žďár nad Sázavou
+GEO:49.560697;15.936401
+URL:geo:49.560697,15.936401
+DESCRIPTION:📍 Husova\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n\n🚒 CAS (Žďár
+  nad Sázavou-Zámek)
 END:VEVENT
 END:VCALENDAR
