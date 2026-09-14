@@ -655,4 +655,40 @@ URL:geo:49.523335,16.252599
 DESCRIPTION:📍 Luční\, Bystřice nad Pernštejnem\, Žďár nad Sázavou\n💬 Odstra
  nění obtížného hmyzu.\n\n🚒 CAS (Bystřice nad Pernštejnem)
 END:VEVENT
+BEGIN:VEVENT
+UID:419588061
+DTSTART:20260914T144503Z
+DTEND:20260914T154503Z
+DTSTAMP:20260914T144503Z
+SUMMARY:🔥 vozidlo - Jemnice
+LOCATION:U Černého mostu\, Jemnice
+GEO:49.009907;15.569595
+URL:geo:49.009907,15.569595
+DESCRIPTION:📍 U Černého mostu\, Jemnice\, Třebíč\n\n🚒 CAS (HS Jemnice)\n🚒 v
+ yšetřovací automobil (ÚO Třebíč)
+END:VEVENT
+BEGIN:VEVENT
+UID:419589061
+DTSTART:20260914T145440Z
+DTEND:20260914T155440Z
+DTSTAMP:20260914T145440Z
+SUMMARY:🛠️ obtížný hmyz - Křižánky
+LOCATION:Křižánky
+GEO:49.680106;16.075254
+URL:geo:49.680106,16.075254
+DESCRIPTION:📍 Moravské Křižánky\, Křižánky\, Žďár nad Sázavou\n💬 Odstranění
+  obtížného hmyzu.\n\n🚒 CAS (Svratka)
+END:VEVENT
+BEGIN:VEVENT
+UID:419590061
+DTSTART:20260914T145749Z
+DTEND:20260914T155749Z
+DTSTAMP:20260914T145749Z
+SUMMARY:🚗 se zraněním - Horní Rožínka
+LOCATION:Horní Rožínka
+GEO:49.501099;16.204694
+URL:geo:49.501099,16.204694
+DESCRIPTION:📍 Horní Rožínka\, Žďár nad Sázavou\n\n🚒 CAS (HS Bystřice nad Pe
+ rnštejnem)
+END:VEVENT
 END:VCALENDAR
