@@ -649,8 +649,8 @@ DTEND:20260915T083106Z
 DTSTAMP:20260915T073106Z
 SUMMARY:☣️ olej/PHM - Pelhřimov
 LOCATION:Libkovodská\, Pelhřimov
-GEO:49.409185;15.215143
-URL:geo:49.409185,15.215143
+GEO:49.409501;15.216220
+URL:geo:49.409501,15.216220
 DESCRIPTION:📍 Libkovodská\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)\n🚒 automobil
  ový nosič kontejnerů (CHS Pelhřimov)\n🚒 kontejner technický (CHS Pelhřimov
  )
@@ -666,18 +666,5 @@ GEO:49.457802;14.989958
 URL:geo:49.457802,14.989958
 DESCRIPTION:📍 Pacov\, Pelhřimov\n💬 Odstranění obtížného hmyzu.\n\n🚒 CAS (HS
   Pacov)
-END:VEVENT
-BEGIN:VEVENT
-UID:419615061
-DTSTART:20260915T080555Z
-DTEND:20260915T090555Z
-DTSTAMP:20260915T080555Z
-SUMMARY:🔥 technologie - Velká Bíteš
-LOCATION:Vlkovská\, Velká Bíteš
-GEO:49.300283;16.214617
-URL:geo:49.300283,16.214617
-DESCRIPTION:📍 Vlkovská\, Velká Bíteš\, Žďár nad Sázavou\n\n🚒 CAS (HS Náměšť
-  nad Oslavou)\n🚒 CAS (HS Velká Bíteš)\n🚒 CAS (HS Velká Bíteš)\n🚒 CAS (Velk
- á Bíteš)
 END:VEVENT
 END:VCALENDAR
