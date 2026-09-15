@@ -749,8 +749,9 @@ DTEND:20260915T195230Z
 DTSTAMP:20260915T185230Z
 SUMMARY:🔥 venkovní požár - Jihlava
 LOCATION:Znojemská\, Jihlava
-GEO:49.387877;15.590585
-URL:geo:49.387877,15.590585
-DESCRIPTION:📍 Znojemská\, Jihlava\n\n🚒 CAS (CHS Jihlava) ×2
+GEO:49.389670;15.592291
+URL:geo:49.389670,15.592291
+DESCRIPTION:📍 Znojemská\, Jihlava\n💬 Požár matrace\, Lokalizace a likvidace
+  události.\n\n🚒 CAS (CHS Jihlava) ×2
 END:VEVENT
 END:VCALENDAR
