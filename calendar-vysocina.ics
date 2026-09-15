@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:419528061
-DTSTART:20260913T155109Z
-DTEND:20260913T165109Z
-DTSTAMP:20260913T155109Z
-SUMMARY:🚗 se zraněním - Křelovice
-LOCATION:Křelovice
-GEO:49.528877;15.171987
-URL:geo:49.528877,15.171987
-DESCRIPTION:📍 Křelovice\, Pelhřimov\n💬 DN 1 OA\, 1 zraněná osoba. Provedeno
-  protipožární opatření\, zabezpečení místa nehody.\n\n🚒 CAS (CHS Pelhřimov
- )\n🚒 CAS (Onšov)
-END:VEVENT
-BEGIN:VEVENT
 UID:419530061
 DTSTART:20260913T162514Z
 DTEND:20260913T172514Z
@@ -707,6 +694,7 @@ SUMMARY:🛠️ ostatní - Hrotovice
 LOCATION:Mírová\, Hrotovice
 GEO:49.109882;16.062840
 URL:geo:49.109882,16.062840
-DESCRIPTION:📍 Mírová\, Hrotovice\, Třebíč\n\n🚒 CAS (HS Hrotovice)
+DESCRIPTION:📍 Mírová\, Hrotovice\, Třebíč\n💬 Otevření bytu.\n\n🚒 CAS (HS Hr
+ otovice)
 END:VEVENT
 END:VCALENDAR
