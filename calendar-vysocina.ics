@@ -5,16 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:419517061
-DTSTART:20260913T103523Z
-DTEND:20260913T113523Z
-DTSTAMP:20260913T103523Z
-SUMMARY:🚑 spolupráce ZZS - Kdousov
-LOCATION:Kdousov
-DESCRIPTION:📍 Kdousov\, Třebíč\n💬 Spolupráce se ZZS při resuscitaci pacient
- a.\n\n🚒 CAS (HS Jemnice)
-END:VEVENT
-BEGIN:VEVENT
 UID:419518061
 DTSTART:20260913T110059Z
 DTEND:20260913T120059Z
@@ -624,9 +614,9 @@ SUMMARY:☣️ olej/PHM - Pelhřimov
 LOCATION:Libkovodská\, Pelhřimov
 GEO:49.409501;15.216220
 URL:geo:49.409501,15.216220
-DESCRIPTION:📍 Libkovodská\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)\n🚒 automobil
- ový nosič kontejnerů (CHS Pelhřimov)\n🚒 kontejner technický (CHS Pelhřimov
- )
+DESCRIPTION:📍 Libkovodská\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov) ×2\n🚒 automo
+ bilový nosič kontejnerů (CHS Pelhřimov)\n🚒 kontejner technický (CHS Pelhři
+ mov)
 END:VEVENT
 BEGIN:VEVENT
 UID:419610061
