@@ -634,7 +634,8 @@ SUMMARY:🛠️ čerpání vody - Přibyslavice
 LOCATION:Pod Sady\, Přibyslavice
 GEO:49.260035;15.780488
 URL:geo:49.260035,15.780488
-DESCRIPTION:📍 Pod Sady\, Přibyslavice\, Třebíč\n\n🚒 CAS (Přibyslavice)
+DESCRIPTION:📍 Pod Sady\, Přibyslavice\, Třebíč\n💬 Čerpání vody.\n\n🚒 CAS (P
+ řibyslavice)
 END:VEVENT
 BEGIN:VEVENT
 UID:419630061
@@ -645,6 +646,18 @@ SUMMARY:🚑 záchrana zvířete - Matějov
 LOCATION:Matějov
 GEO:49.550658;15.900970
 URL:geo:49.550658,15.900970
-DESCRIPTION:📍 Matějov\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad Sázavou)
+DESCRIPTION:📍 Matějov\, Žďár nad Sázavou\n💬 Transport zraněné osoby z terén
+ u. Předání do péče ZZS.\n\n🚒 CAS (CHS Žďár nad Sázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:419631061
+DTSTART:20260915T140218Z
+DTEND:20260915T150218Z
+DTSTAMP:20260915T140218Z
+SUMMARY:🚗 dopravní nehoda - Třešť
+LOCATION:Třešť
+GEO:49.303128;15.447292
+URL:geo:49.303128,15.447292
+DESCRIPTION:📍 Buková\, Třešť\, Jihlava\n\n🚒 CAS (HS Třešť)
 END:VEVENT
 END:VCALENDAR
