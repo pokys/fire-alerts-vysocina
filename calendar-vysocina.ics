@@ -602,9 +602,10 @@ SUMMARY:☣️ olej/PHM - Pelhřimov
 LOCATION:Libkovodská\, Pelhřimov
 GEO:49.409501;15.216220
 URL:geo:49.409501,15.216220
-DESCRIPTION:📍 Libkovodská\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov) ×2\n🚒 automo
- bilový nosič kontejnerů (CHS Pelhřimov)\n🚒 kontejner technický (CHS Pelhři
- mov)
+DESCRIPTION:📍 Libkovodská\, Pelhřimov\n💬 Likvidace úniku hydraulického olej
+ e z NA po technické závadě z pozemní komunikace pomocí sorbentu.\n\n🚒 CAS 
+ (CHS Pelhřimov) ×2\n🚒 automobilový nosič kontejnerů (CHS Pelhřimov)\n🚒 kon
+ tejner technický (CHS Pelhřimov)
 END:VEVENT
 BEGIN:VEVENT
 UID:419610061
@@ -639,6 +640,16 @@ SUMMARY:🚑 záchrana zvířete - Humpolec
 LOCATION:Humpolec
 GEO:49.542401;15.364901
 URL:geo:49.542401,15.364901
-DESCRIPTION:📍 Humpolec\, Pelhřimov\n\n🚒 CAS (HS Humpolec)
+DESCRIPTION:📍 Humpolec\, Pelhřimov\n💬 Odchyt labutě z hřiště a následné vyp
+ uštění na rybník.\n\n🚒 CAS (HS Humpolec)
+END:VEVENT
+BEGIN:VEVENT
+UID:419620061
+DTSTART:20260915T110054Z
+DTEND:20260915T120054Z
+DTSTAMP:20260915T110054Z
+SUMMARY:🛠️ čerpání vody - Police
+LOCATION:Police
+DESCRIPTION:📍 Police\, Třebíč\n\n🚒 CAS (Police)
 END:VEVENT
 END:VCALENDAR
