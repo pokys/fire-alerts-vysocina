@@ -694,6 +694,19 @@ SUMMARY:🚑 vyproštění osoby - Bratřice
 LOCATION:Bratřice
 GEO:49.518351;15.019548
 URL:geo:49.518351,15.019548
-DESCRIPTION:📍 Bratřice\, Pelhřimov\n\n🚒 CAS (HS Pacov)
+DESCRIPTION:📍 Bratřice\, Pelhřimov\n💬 Spolupráce se ZZS.\n\n🚒 CAS (HS Pacov
+ )
+END:VEVENT
+BEGIN:VEVENT
+UID:419637061
+DTSTART:20260915T145614Z
+DTEND:20260915T155614Z
+DTSTAMP:20260915T145614Z
+SUMMARY:🛠️ obtížný hmyz - Bělá
+LOCATION:Bělá
+GEO:49.754888;15.240451
+URL:geo:49.754888,15.240451
+DESCRIPTION:📍 Bělá\, Havlíčkův Brod\n💬 Odstranění obtížného hmyzu.\n\n🚒 CAS
+  (HS Ledeč nad Sázavou)
 END:VEVENT
 END:VCALENDAR
