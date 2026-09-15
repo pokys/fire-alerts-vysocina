@@ -740,14 +740,15 @@ SUMMARY:🚑 spolupráce ZZS - Lukavec
 LOCATION:Lukavec
 GEO:49.554044;14.964233
 URL:geo:49.554044,14.964233
-DESCRIPTION:📍 Týmova Ves\, Lukavec\, Pelhřimov\n\n🚒 CAS (HS Pacov)
+DESCRIPTION:📍 Týmova Ves\, Lukavec\, Pelhřimov\n💬 Spolupráce se ZZS při res
+ uscitaci pacienta.\n\n🚒 CAS (HS Pacov)
 END:VEVENT
 BEGIN:VEVENT
 UID:419651061
 DTSTART:20260915T172712Z
 DTEND:20260915T182712Z
 DTSTAMP:20260915T172712Z
-SUMMARY:🔥 vozidlo - Stránecká Zhoř
+SUMMARY:🛠️ ostatní - Stránecká Zhoř
 LOCATION:Stránecká Zhoř
 GEO:49.378047;15.947271
 URL:geo:49.378047,15.947271
