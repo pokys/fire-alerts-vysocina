@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:419594061
-DTSTART:20260914T155639Z
-DTEND:20260914T165639Z
-DTSTAMP:20260914T155639Z
-SUMMARY:🛠️ ostatní - Žirovnice
-LOCATION:Žirovnice
-GEO:49.273592;15.153084
-URL:geo:49.273592,15.153084
-DESCRIPTION:📍 Stranná\, Žirovnice\, Pelhřimov\n💬 Proplach kanalizace.\n\n🚒 
- CAS (Žirovnice)
-END:VEVENT
-BEGIN:VEVENT
 UID:419595061
 DTSTART:20260914T161810Z
 DTEND:20260914T171810Z
@@ -438,8 +426,9 @@ SUMMARY:🚗 dopravní nehoda - Jihlava
 LOCATION:Havlíčkova\, Jihlava
 GEO:49.409265;15.592077
 URL:geo:49.409265,15.592077
-DESCRIPTION:📍 Havlíčkova\, Jihlava\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihla
- va)
+DESCRIPTION:📍 Havlíčkova\, Jihlava\n💬 DN dodávky a motorkáře\, jedna zraněn
+ á osoba. Zajištění místa události.\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihl
+ ava)
 END:VEVENT
 BEGIN:VEVENT
 UID:419667061
@@ -509,8 +498,8 @@ SUMMARY:🚗 dopravní nehoda - Skorkov
 LOCATION:Skorkov
 GEO:49.494621;15.485857
 URL:geo:49.494621,15.485857
-DESCRIPTION:📍 Skorkov\, Havlíčkův Brod\n\n🚒 CAS (HS Humpolec)\n🚒 RZA (HS Hu
- mpolec)
+DESCRIPTION:📍 Skorkov\, Havlíčkův Brod\n💬 DN 1 OA\, bez zranění.\n\n🚒 CAS (
+ HS Humpolec)\n🚒 RZA (HS Humpolec)
 END:VEVENT
 BEGIN:VEVENT
 UID:419684061
@@ -533,7 +522,8 @@ SUMMARY:🚑 otevření/asistence - Chotěboř
 LOCATION:Dr. Rykra\, Chotěboř
 GEO:49.714467;15.680815
 URL:geo:49.714467,15.680815
-DESCRIPTION:📍 Dr. Rykra\, Chotěboř\, Havlíčkův Brod\n\n🚒 CAS (HS Chotěboř)
+DESCRIPTION:📍 Dr. Rykra\, Chotěboř\, Havlíčkův Brod\n💬 Spolupráce se ZZS.\n
+ \n🚒 CAS (HS Chotěboř)
 END:VEVENT
 BEGIN:VEVENT
 UID:419697061
@@ -545,5 +535,28 @@ LOCATION:Pod Hřbitovem\, Batelov
 GEO:49.314610;15.398481
 URL:geo:49.314610,15.398481
 DESCRIPTION:📍 Pod Hřbitovem\, Batelov\, Jihlava\n\n🚒 CAS (Batelov)
+END:VEVENT
+BEGIN:VEVENT
+UID:419698061
+DTSTART:20260916T153827Z
+DTEND:20260916T163827Z
+DTSTAMP:20260916T153827Z
+SUMMARY:🚗 se zraněním - Humpolec
+LOCATION:Humpolec
+GEO:49.535728;15.333779
+URL:geo:49.535728,15.333779
+DESCRIPTION:📍 Humpolec\, Pelhřimov\n\n🚒 CAS (HS Humpolec)\n🚒 RZA (HS Humpol
+ ec)
+END:VEVENT
+BEGIN:VEVENT
+UID:419707061
+DTSTART:20260916T155304Z
+DTEND:20260916T165304Z
+DTSTAMP:20260916T155304Z
+SUMMARY:🔥 les - Havlíčkův Brod
+LOCATION:Havlíčkův Brod
+GEO:49.602444;15.595024
+URL:geo:49.602444,15.595024
+DESCRIPTION:🚒 CAS (CHS Havlíčkův Brod)
 END:VEVENT
 END:VCALENDAR
