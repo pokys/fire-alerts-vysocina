@@ -190,4 +190,15 @@ DESCRIPTION:📍 Kouřimského\, Pelhřimov\n💬 Požár ohlášený systémem 
   požární signalizace. Průzkumem bylo zjištěno\, že se jedná o planý poplac
  h.\n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (CHS Pelhřimov)
 END:VEVENT
+BEGIN:VEVENT
+UID:419667061
+DTSTART:20260916T063307Z
+DTEND:20260916T073307Z
+DTSTAMP:20260916T063307Z
+SUMMARY:☣️ olej/PHM - Košetice
+LOCATION:Košetice
+GEO:49.555499;15.111145
+URL:geo:49.555499,15.111145
+DESCRIPTION:📍 Košetice\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)
+END:VEVENT
 END:VCALENDAR
