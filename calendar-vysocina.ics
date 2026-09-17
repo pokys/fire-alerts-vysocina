@@ -653,8 +653,8 @@ SUMMARY:🚑 transport pacienta - Strážek
 LOCATION:Strážek
 GEO:49.445695;16.184526
 URL:geo:49.445695,16.184526
-DESCRIPTION:📍 Strážek\, Žďár nad Sázavou\n\n🚒 CAS (Strážek)\n🚒 CAS (HS Byst
- řice nad Pernštejnem)
+DESCRIPTION:📍 Strážek\, Žďár nad Sázavou\n💬 Transport pacienta na žádost ZZ
+ S.\n\n🚒 CAS (Strážek)\n🚒 CAS (HS Bystřice nad Pernštejnem)
 END:VEVENT
 BEGIN:VEVENT
 UID:419770061
@@ -665,6 +665,6 @@ SUMMARY:🛠️ otevření bytu/auta - Trnava
 LOCATION:Trnava
 GEO:49.254753;15.926122
 URL:geo:49.254753,15.926122
-DESCRIPTION:📍 Trnava\, Třebíč\n\n🚒 CAS (CHS Třebíč)
+DESCRIPTION:📍 Trnava\, Třebíč\n💬 Otevření bytu.\n\n🚒 CAS (CHS Třebíč)
 END:VEVENT
 END:VCALENDAR
