@@ -641,7 +641,8 @@ LOCATION:Nádražní\, Bystřice nad Pernštejnem
 GEO:49.506885;16.233189
 URL:geo:49.506885,16.233189
 DESCRIPTION:📍 Nádražní\, Bystřice nad Pernštejnem\, Žďár nad Sázavou\n💬 Ods
- tranění stromu.\n\n🚒 CAS (HS Bystřice nad Pernštejnem)
+ tranění stromu.\n\n🚒 CAS (HS Bystřice nad Pernštejnem)\n🚒 pila řetězová (H
+ S Bystřice nad Pernštejnem)
 END:VEVENT
 BEGIN:VEVENT
 UID:419724061
@@ -664,6 +665,7 @@ SUMMARY:🚑 otevření/asistence - Havlíčkův Brod
 LOCATION:Na Výšině\, Havlíčkův Brod
 GEO:49.616249;15.576140
 URL:geo:49.616249,15.576140
-DESCRIPTION:📍 Na Výšině\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)
+DESCRIPTION:📍 Na Výšině\, Havlíčkův Brod\n💬 Otevření bytu.\n\n🚒 CAS (CHS Ha
+ vlíčkův Brod)
 END:VEVENT
 END:VCALENDAR
