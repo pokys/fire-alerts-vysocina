@@ -712,6 +712,32 @@ SUMMARY:🚑 záchrana ze stromu - Třebíč
 LOCATION:Kpt. Jaroše\, Třebíč
 GEO:49.222777;15.884404
 URL:geo:49.222777,15.884404
-DESCRIPTION:📍 Kpt. Jaroše\, Nové Dvory\, Třebíč\n\n🚒 CAS (CHS Třebíč)
+DESCRIPTION:📍 Kpt. Jaroše\, Nové Dvory\, Třebíč\n💬 Odchyt netopýra.\n\n🚒 CA
+ S (CHS Třebíč)
+END:VEVENT
+BEGIN:VEVENT
+UID:419735061
+DTSTART:20260917T063659Z
+DTEND:20260917T073659Z
+DTSTAMP:20260917T063659Z
+SUMMARY:🚑 transport pacienta - Bystřice nad Pernštejnem
+LOCATION:Višňová\, Bystřice nad Pernštejnem
+GEO:49.519834;16.260240
+URL:geo:49.519834,16.260240
+DESCRIPTION:📍 Višňová\, Bystřice nad Pernštejnem\, Žďár nad Sázavou\n\n🚒 CA
+ S (HS Bystřice nad Pernštejnem)
+END:VEVENT
+BEGIN:VEVENT
+UID:419736061
+DTSTART:20260917T063845Z
+DTEND:20260917T073845Z
+DTSTAMP:20260917T063845Z
+SUMMARY:⚠️ planý poplach - Žďár nad Sázavou
+LOCATION:Brněnská\, Žďár nad Sázavou
+GEO:49.554911;15.955534
+URL:geo:49.554911,15.955534
+DESCRIPTION:📍 Brněnská\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n💬 Požár ohl
+ ášený systémem elektrické požární signalizace. Průzkumem bylo zjištěno\, ž
+ e se jedná o planý poplach.\n\n🚒 CAS (CHS Žďár nad Sázavou) ×2
 END:VEVENT
 END:VCALENDAR
