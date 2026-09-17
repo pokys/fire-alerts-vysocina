@@ -643,4 +643,16 @@ DESCRIPTION:📍 Sobíňov\, Havlíčkův Brod\n💬 DN 1 OA se zraněním jedn�
  Zajištění místa události.\n\n🚒 CAS (HS Chotěboř)\n🚒 CAS (Ždírec nad Doubra
  vou)
 END:VEVENT
+BEGIN:VEVENT
+UID:419723061
+DTSTART:20260917T022730Z
+DTEND:20260917T032730Z
+DTSTAMP:20260917T022730Z
+SUMMARY:🛠️ strom - Bystřice nad Pernštejnem
+LOCATION:Nádražní\, Bystřice nad Pernštejnem
+GEO:49.509662;16.245339
+URL:geo:49.509662,16.245339
+DESCRIPTION:📍 Nádražní\, Bystřice nad Pernštejnem\, Žďár nad Sázavou\n💬 Ods
+ tranění stromu.\n\n🚒 CAS (HS Bystřice nad Pernštejnem)
+END:VEVENT
 END:VCALENDAR
