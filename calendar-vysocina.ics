@@ -692,7 +692,7 @@ LOCATION:Velký Beranov
 GEO:49.403623;15.668001
 URL:geo:49.403623,15.668001
 DESCRIPTION:📍 Velký Beranov\, Jihlava\n💬 Odstranění obtížného hmyzu.\n\n🚒 C
- AS (CHS Jihlava)
+ AS (CHS Jihlava)\n🚒 pila řetězová (CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:419741061
@@ -740,7 +740,8 @@ SUMMARY:☣️ neznámá látka - Víska
 LOCATION:Víska
 GEO:49.769174;15.651222
 URL:geo:49.769174,15.651222
-DESCRIPTION:📍 Víska\, Havlíčkův Brod\n\n🚒 CAS (HS Chotěboř)
+DESCRIPTION:📍 Víska\, Havlíčkův Brod\n\n🚒 CAS (HS Chotěboř)\n🚒 CAS (HS Chot
+ ěboř)
 END:VEVENT
 BEGIN:VEVENT
 UID:419747061
