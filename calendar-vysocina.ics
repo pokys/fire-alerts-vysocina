@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:419673061
-DTSTART:20260916T092146Z
-DTEND:20260916T102146Z
-DTSTAMP:20260916T092146Z
-SUMMARY:🛠️ strom - Jimramov
-LOCATION:Jimramov
-GEO:49.628487;16.239300
-URL:geo:49.628487,16.239300
-DESCRIPTION:📍 Jimramov\, Žďár nad Sázavou\n💬 Odstranění stromu.\n\n🚒 DA (Ji
- mramov)\n🚒 pila řetězová (Jimramov)
-END:VEVENT
-BEGIN:VEVENT
 UID:419677061
 DTSTART:20260916T141714Z
 DTEND:20260916T151714Z
@@ -680,10 +668,12 @@ UID:419793061
 DTSTART:20260918T084632Z
 DTEND:20260918T094632Z
 DTSTAMP:20260918T084632Z
-SUMMARY:🔥 Jihlava
+SUMMARY:⚠️ planý poplach - Jihlava
 LOCATION:Havlíčkova\, Jihlava
 GEO:49.402029;15.588000
 URL:geo:49.402029,15.588000
-DESCRIPTION:📍 Havlíčkova\, Jihlava\n\n🚒 CAS (CHS Jihlava) ×2
+DESCRIPTION:📍 Havlíčkova\, Jihlava\n💬 Požár ohlášený systémem elektrické po
+ žární signalizace. Průzkumem bylo zjištěno\, že se jedná o planý poplach.\
+ n\n🚒 CAS (CHS Jihlava) ×2
 END:VEVENT
 END:VCALENDAR
