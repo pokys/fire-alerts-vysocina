@@ -668,12 +668,12 @@ UID:419788061
 DTSTART:20260918T075640Z
 DTEND:20260918T085640Z
 DTSTAMP:20260918T075640Z
-SUMMARY:🚑 transport pacienta - Olešenka
+SUMMARY:🚑 záchrana zvířete - Olešenka
 LOCATION:Olešenka
 GEO:49.533957;15.756456
 URL:geo:49.533957,15.756456
-DESCRIPTION:📍 Olešenka\, Havlíčkův Brod\n\n🚒 CAS (HS Polná)\n🚒 CAS (Přibysl
- av)
+DESCRIPTION:📍 Olešenka\, Havlíčkův Brod\n💬 Transport pacienta na žádost ZZS
+ .\n\n🚒 CAS (HS Polná)\n🚒 CAS (Přibyslav)
 END:VEVENT
 BEGIN:VEVENT
 UID:419793061
