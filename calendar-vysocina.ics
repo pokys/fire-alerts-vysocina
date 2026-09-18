@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:419696061
-DTSTART:20260916T151116Z
-DTEND:20260916T161116Z
-DTSTAMP:20260916T151116Z
-SUMMARY:🚑 otevření/asistence - Chotěboř
-LOCATION:Dr. Rykra\, Chotěboř
-GEO:49.714467;15.680815
-URL:geo:49.714467,15.680815
-DESCRIPTION:📍 Dr. Rykra\, Chotěboř\, Havlíčkův Brod\n💬 Spolupráce se ZZS.\n
- \n🚒 CAS (HS Chotěboř)
-END:VEVENT
-BEGIN:VEVENT
 UID:419697061
 DTSTART:20260916T152000Z
 DTEND:20260916T162000Z
@@ -749,5 +737,17 @@ DESCRIPTION:📍 Nové Veselí\, Žďár nad Sázavou\n💬 Taktické cvičení 
  S (Březí nad Oslavou)\n🚒 CAS (Kotlasy)\n🚒 osobní automobil (Matějov)\n🚒 CA
  S (Nové Veselí)\n🚒 přívěs nákladní (Poděšín)\n🚒 stříkačka přenosná (Siráko
  v)\n🚒 DA (Újezd)
+END:VEVENT
+BEGIN:VEVENT
+UID:419808061
+DTSTART:20260918T150434Z
+DTEND:20260918T160434Z
+DTSTAMP:20260918T150434Z
+SUMMARY:🚗 bez zranění - Tasov
+LOCATION:Tasov
+GEO:49.298774;16.105394
+URL:geo:49.298774,16.105394
+DESCRIPTION:📍 Tasov\, Žďár nad Sázavou\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA 
+ (HS Velké Meziříčí)
 END:VEVENT
 END:VCALENDAR
