@@ -676,4 +676,16 @@ DESCRIPTION:📍 Havlíčkova\, Jihlava\n💬 Požár ohlášený systémem elek
  žární signalizace. Průzkumem bylo zjištěno\, že se jedná o planý poplach.\
  n\n🚒 CAS (CHS Jihlava) ×2
 END:VEVENT
+BEGIN:VEVENT
+UID:419794061
+DTSTART:20260918T094450Z
+DTEND:20260918T104450Z
+DTSTAMP:20260918T094450Z
+SUMMARY:🛠️ obtížný hmyz - Bystřice nad Pernštejnem
+LOCATION:K Valše\, Bystřice nad Pernštejnem
+GEO:49.523617;16.277405
+URL:geo:49.523617,16.277405
+DESCRIPTION:📍 K Valše\, Bystřice nad Pernštejnem\, Žďár nad Sázavou\n\n🚒 CA
+ S (HS Bystřice nad Pernštejnem)
+END:VEVENT
 END:VCALENDAR
