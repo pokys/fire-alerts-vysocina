@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:419697061
-DTSTART:20260916T152000Z
-DTEND:20260916T162000Z
-DTSTAMP:20260916T152000Z
-SUMMARY:🛠️ obtížný hmyz - Batelov
-LOCATION:Pod Hřbitovem\, Batelov
-GEO:49.314610;15.398481
-URL:geo:49.314610,15.398481
-DESCRIPTION:📍 Pod Hřbitovem\, Batelov\, Jihlava\n💬 Likvidace nebezpečného h
- myzu.\n\n🚒 CAS (Batelov)
-END:VEVENT
-BEGIN:VEVENT
 UID:419698061
 DTSTART:20260916T153827Z
 DTEND:20260916T163827Z
@@ -589,8 +577,9 @@ SUMMARY:☣️ neznámá látka - Rapotice
 LOCATION:K Sokolovně\, Rapotice
 GEO:49.188937;16.252421
 URL:geo:49.188937,16.252421
-DESCRIPTION:📍 K Sokolovně\, Rapotice\, Třebíč\n\n🚒 CAS (HS Náměšť nad Oslav
- ou) ×2
+DESCRIPTION:📍 K Sokolovně\, Rapotice\, Třebíč\n💬 Hlášená neznámá látka v ka
+ nalizační jímce. Odebrány vzorky\, proveden laboratorní rozbor a odebrání 
+ látky do sudu.\n\n🚒 CAS (HS Náměšť nad Oslavou) ×2
 END:VEVENT
 BEGIN:VEVENT
 UID:419785061
@@ -721,7 +710,8 @@ SUMMARY:🛠️ ostatní - Brtnice
 LOCATION:5. května\, Brtnice
 GEO:49.302699;15.678739
 URL:geo:49.302699,15.678739
-DESCRIPTION:📍 5. května\, Brtnice\, Jihlava\n\n🚒 CAS (Brtnice)
+DESCRIPTION:📍 5. května\, Brtnice\, Jihlava\n💬 Proplach kanalizace\n\n🚒 CAS
+  (Brtnice)
 END:VEVENT
 BEGIN:VEVENT
 UID:419805061
@@ -749,5 +739,17 @@ GEO:49.298774;16.105394
 URL:geo:49.298774,16.105394
 DESCRIPTION:📍 Tasov\, Žďár nad Sázavou\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA 
  (HS Velké Meziříčí)
+END:VEVENT
+BEGIN:VEVENT
+UID:419809061
+DTSTART:20260918T151944Z
+DTEND:20260918T161944Z
+DTSTAMP:20260918T151944Z
+SUMMARY:🛠️ obtížný hmyz - Koroužné
+LOCATION:Koroužné
+GEO:49.527577;16.347558
+URL:geo:49.527577,16.347558
+DESCRIPTION:📍 Koroužné\, Žďár nad Sázavou\n\n🚒 CAS (HS Bystřice nad Pernšte
+ jnem)
 END:VEVENT
 END:VCALENDAR
