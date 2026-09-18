@@ -28,4 +28,16 @@ URL:geo:49.538070,15.356542
 DESCRIPTION:📍 Hálkova\, Humpolec\, Pelhřimov\n💬 Spolupráce s ZZS\n\n🚒 CAS (
  HS Humpolec)\n🚒 RZA (HS Humpolec)
 END:VEVENT
+BEGIN:VEVENT
+UID:419816061
+DTSTART:20260918T202653Z
+DTEND:20260918T212653Z
+DTSTAMP:20260918T202653Z
+SUMMARY:🚑 transport pacienta - Křelovice
+LOCATION:Křelovice
+GEO:49.535149;15.164324
+URL:geo:49.535149,15.164324
+DESCRIPTION:📍 Křelovice\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (Červen
+ á Řečice)
+END:VEVENT
 END:VCALENDAR
