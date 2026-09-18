@@ -654,4 +654,16 @@ GEO:49.254753;15.926122
 URL:geo:49.254753,15.926122
 DESCRIPTION:📍 Trnava\, Třebíč\n💬 Otevření bytu.\n\n🚒 CAS (CHS Třebíč)
 END:VEVENT
+BEGIN:VEVENT
+UID:419775061
+DTSTART:20260918T025040Z
+DTEND:20260918T035040Z
+DTSTAMP:20260918T025040Z
+SUMMARY:🚑 transport pacienta - Žďár nad Sázavou
+LOCATION:Švermova\, Žďár nad Sázavou
+GEO:49.561744;15.945162
+URL:geo:49.561744,15.945162
+DESCRIPTION:📍 Švermova\, Žďár nad Sázavou 4\, Žďár nad Sázavou\n\n🚒 CAS (CH
+ S Žďár nad Sázavou)
+END:VEVENT
 END:VCALENDAR
