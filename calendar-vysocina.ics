@@ -672,4 +672,16 @@ URL:geo:49.535149,15.164324
 DESCRIPTION:📍 Křelovice\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (Červen
  á Řečice)
 END:VEVENT
+BEGIN:VEVENT
+UID:419817061
+DTSTART:20260918T202906Z
+DTEND:20260918T212906Z
+DTSTAMP:20260918T202906Z
+SUMMARY:⚠️ planý poplach - Velké Meziříčí
+LOCATION:Hornoměstská\, Velké Meziříčí
+GEO:49.355627;16.005600
+URL:geo:49.355627,16.005600
+DESCRIPTION:📍 Hornoměstská\, Velké Meziříčí\, Žďár nad Sázavou\n💬 Planý pop
+ lach.\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)
+END:VEVENT
 END:VCALENDAR
