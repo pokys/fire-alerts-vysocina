@@ -665,4 +665,15 @@ URL:geo:49.439880,15.510939
 DESCRIPTION:📍 Bílý Kámen\, Jihlava\n💬 DN motocyklu se zraněním jedné osoby.
   Zajištění místa události.\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihlava)
 END:VEVENT
+BEGIN:VEVENT
+UID:419779061
+DTSTART:20260918T045225Z
+DTEND:20260918T055225Z
+DTSTAMP:20260918T045225Z
+SUMMARY:🛠️ ostatní - Jihlava
+LOCATION:Za Prachárnou\, Jihlava
+GEO:49.397606;15.566229
+URL:geo:49.397606,15.566229
+DESCRIPTION:📍 Za Prachárnou\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+END:VEVENT
 END:VCALENDAR
