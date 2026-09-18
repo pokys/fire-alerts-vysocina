@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:419662061
-DTSTART:20260916T032829Z
-DTEND:20260916T042829Z
-DTSTAMP:20260916T032829Z
-SUMMARY:⚠️ planý poplach - Velká Bíteš
-LOCATION:Na Dolině\, Velká Bíteš
-GEO:49.296172;16.218498
-URL:geo:49.296172,16.218498
-DESCRIPTION:📍 Na Dolině\, Velká Bíteš\, Žďár nad Sázavou\n💬 Požár ohlášený 
- systémem elektrické požární signalizace. Průzkumem bylo zjištěno\, že se j
- edná o planý poplach.\n\n🚒 CAS (HS Velká Bíteš)
-END:VEVENT
-BEGIN:VEVENT
 UID:419663061
 DTSTART:20260916T035704Z
 DTEND:20260916T045704Z
@@ -665,5 +652,16 @@ GEO:49.561744;15.945162
 URL:geo:49.561744,15.945162
 DESCRIPTION:📍 Švermova\, Žďár nad Sázavou 4\, Žďár nad Sázavou\n💬 Transport
   pacienta na žádost ZZS.\n\n🚒 CAS (CHS Žďár nad Sázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:419776061
+DTSTART:20260918T032349Z
+DTEND:20260918T042349Z
+DTSTAMP:20260918T032349Z
+SUMMARY:🚗 úklid místa - Třebíč
+LOCATION:Znojemská\, Třebíč
+GEO:49.208611;15.885639
+URL:geo:49.208611,15.885639
+DESCRIPTION:📍 Znojemská\, Horka-Domky\, Třebíč\n\n🚒 CAS (CHS Třebíč)
 END:VEVENT
 END:VCALENDAR
