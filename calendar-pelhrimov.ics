@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Pelhřimov
 BEGIN:VEVENT
-UID:419766061
-DTSTART:20260917T164233Z
-DTEND:20260917T174233Z
-DTSTAMP:20260917T164233Z
-SUMMARY:🛠️ obtížný hmyz - Častrov
-LOCATION:Častrov
-GEO:49.296712;15.220352
-URL:geo:49.296712,15.220352
-DESCRIPTION:📍 Ctiboř\, Častrov\, Pelhřimov\n💬 Odstranění obtížného hmyzu.\n
- \n🚒 CAS (Počátky)
-END:VEVENT
-BEGIN:VEVENT
 UID:419797061
 DTSTART:20260918T101631Z
 DTEND:20260918T111631Z
@@ -124,7 +112,7 @@ LOCATION:Pelhřimov
 GEO:49.330977;15.253579
 URL:geo:49.330977,15.253579
 DESCRIPTION:📍 Janovice\, Pelhřimov\n💬 Odstranění obtížného hmyzu.\n\n🚒 CAS 
- (CHS Pelhřimov)
+ (CHS Pelhřimov)\n🚒 vysavač na hmyz (CHS Pelhřimov)
 END:VEVENT
 BEGIN:VEVENT
 UID:419849061
@@ -135,7 +123,7 @@ SUMMARY:🔥 budova - Počátky
 LOCATION:Horní\, Počátky
 GEO:49.261614;15.240238
 URL:geo:49.261614,15.240238
-DESCRIPTION:📍 Horní\, Počátky\, Pelhřimov\n\n🚒 CAS (HS Kamenice nad Lipou)\
- n🚒 CAS (Počátky) ×2\n🚒 CAS (Žirovnice)
+DESCRIPTION:📍 Horní\, Počátky\, Pelhřimov\n💬 Planý poplach\n\n🚒 CAS (HS Kam
+ enice nad Lipou)\n🚒 CAS (Počátky) ×2\n🚒 CAS (Žirovnice)\n🚒 CAS (Žirovnice)
 END:VEVENT
 END:VCALENDAR
