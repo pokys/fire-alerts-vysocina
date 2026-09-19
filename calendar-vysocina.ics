@@ -612,10 +612,10 @@ SUMMARY:🔥 saze v komíně - Světlá nad Sázavou
 LOCATION:Světlá nad Sázavou
 GEO:49.651569;15.378679
 URL:geo:49.651569,15.378679
-DESCRIPTION:📍 Kochánov\, Světlá nad Sázavou\, Havlíčkův Brod\n\n🚒 CAS (HS L
- edeč nad Sázavou)\n🚒 CAS (HS Světlá nad Sázavou)\n🚒 CAS (Dolní Město)\n🚒 D
- A (Světlá nad Sázavou)\n🚒 CAS (Světlá nad Sázavou)\n🚒 vyšetřovací automobi
- l (ÚO Havlíčkův Brod)
+DESCRIPTION:📍 Kochánov\, Světlá nad Sázavou\, Havlíčkův Brod\n💬 Požár sazí 
+ v komíně.\n\n🚒 CAS (HS Ledeč nad Sázavou)\n🚒 CAS (HS Světlá nad Sázavou)\n
+ 🚒 CAS (Dolní Město)\n🚒 DA (Světlá nad Sázavou)\n🚒 CAS (Světlá nad Sázavou)
+ \n🚒 vyšetřovací automobil (ÚO Havlíčkův Brod)
 END:VEVENT
 BEGIN:VEVENT
 UID:419853061
@@ -650,6 +650,18 @@ SUMMARY:🚗 se zraněním - Rohozná
 LOCATION:Rohozná
 GEO:49.364906;15.380703
 URL:geo:49.364906,15.380703
-DESCRIPTION:📍 Rohozná\, Jihlava\n\n🚒 CAS (HS Třešť)
+DESCRIPTION:📍 Rohozná\, Jihlava\n💬 DN 2 OA se zraněním tří osob. Provedena 
+ PPO. Zajištění místa události.\n\n🚒 CAS (HS Třešť)
+END:VEVENT
+BEGIN:VEVENT
+UID:419860061
+DTSTART:20260919T200314Z
+DTEND:20260919T210314Z
+DTSTAMP:20260919T200314Z
+SUMMARY:🚑 spolupráce ZZS - Borek
+LOCATION:Borek
+GEO:49.790287;15.589902
+URL:geo:49.790287,15.589902
+DESCRIPTION:📍 Borek\, Havlíčkův Brod\n\n🚒 CAS (HS Chotěboř)
 END:VEVENT
 END:VCALENDAR
