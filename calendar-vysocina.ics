@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:419723061
-DTSTART:20260917T022730Z
-DTEND:20260917T032730Z
-DTSTAMP:20260917T022730Z
-SUMMARY:🛠️ strom - Bystřice nad Pernštejnem
-LOCATION:Nádražní\, Bystřice nad Pernštejnem
-GEO:49.506885;16.233189
-URL:geo:49.506885,16.233189
-DESCRIPTION:📍 Nádražní\, Bystřice nad Pernštejnem\, Žďár nad Sázavou\n💬 Ods
- tranění stromu.\n\n🚒 CAS (HS Bystřice nad Pernštejnem)\n🚒 pila řetězová (H
- S Bystřice nad Pernštejnem)
-END:VEVENT
-BEGIN:VEVENT
 UID:419724061
 DTSTART:20260917T033311Z
 DTEND:20260917T043311Z
