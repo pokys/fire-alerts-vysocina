@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:419752061
-DTSTART:20260917T131403Z
-DTEND:20260917T141403Z
-DTSTAMP:20260917T131403Z
-SUMMARY:🛠️ ostatní - Jihlava
-LOCATION:Havlíčkova\, Jihlava
-GEO:49.404584;15.586857
-URL:geo:49.404584,15.586857
-DESCRIPTION:📍 Havlíčkova\, Jihlava\n💬 Ohlášena nehoda NA průzkumem zjištěno
-  že se jedná o závadu na vozidle.\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihla
- va)
-END:VEVENT
-BEGIN:VEVENT
 UID:419753061
 DTSTART:20260917T132052Z
 DTEND:20260917T142052Z
@@ -524,7 +511,8 @@ LOCATION:Jiřice
 GEO:49.549435;15.328508
 URL:geo:49.549435,15.328508
 DESCRIPTION:📍 Jiřice\, Pelhřimov\n💬 Únik provozních kapalin na pozemní komu
- nikaci po technické závadě.\n\n🚒 CAS (HS Humpolec)\n🚒 RZA (HS Humpolec)
+ nikaci po technické závadě na vozidle.\n\n🚒 CAS (HS Humpolec)\n🚒 RZA (HS H
+ umpolec)
 END:VEVENT
 BEGIN:VEVENT
 UID:419829061
@@ -559,8 +547,9 @@ SUMMARY:🔥 vozidlo - Valeč
 LOCATION:Valeč
 GEO:49.148552;16.041450
 URL:geo:49.148552,16.041450
-DESCRIPTION:📍 Valeč\, Třebíč\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (HS Hrotovice)\n🚒
-  vyšetřovací automobil (ÚO Třebíč)
+DESCRIPTION:📍 Valeč\, Třebíč\n💬 Požár OA\, provedena lokalizace a likvidace
+ .\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (HS Hrotovice)\n🚒 vyšetřovací automobil (ÚO
+  Třebíč)
 END:VEVENT
 BEGIN:VEVENT
 UID:419833061
@@ -643,7 +632,8 @@ SUMMARY:🛠️ obtížný hmyz - Kejžlice
 LOCATION:K Čejovu\, Kejžlice
 GEO:49.587585;15.393999
 URL:geo:49.587585,15.393999
-DESCRIPTION:📍 K Čejovu\, Kejžlice\, Pelhřimov\n\n🚒 CAS (Kejžlice)
+DESCRIPTION:📍 K Čejovu\, Kejžlice\, Pelhřimov\n💬 Odstranění obtížného hmyzu
+ .\n\n🚒 CAS (Kejžlice)
 END:VEVENT
 BEGIN:VEVENT
 UID:419842061
@@ -654,6 +644,7 @@ SUMMARY:🚗 dopravní nehoda - Žďár nad Sázavou
 LOCATION:Žďár nad Sázavou
 GEO:49.553909;15.964995
 URL:geo:49.553909,15.964995
-DESCRIPTION:🚒 CAS (CHS Žďár nad Sázavou)
+DESCRIPTION:💬 DN OA a cyklisty se zraněním. Zajištění místa události.\n\n🚒 
+ CAS (CHS Žďár nad Sázavou)
 END:VEVENT
 END:VCALENDAR
