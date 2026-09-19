@@ -614,8 +614,9 @@ GEO:49.651569;15.378679
 URL:geo:49.651569,15.378679
 DESCRIPTION:📍 Kochánov\, Světlá nad Sázavou\, Havlíčkův Brod\n💬 Požár sazí 
  v komíně.\n\n🚒 CAS (HS Ledeč nad Sázavou)\n🚒 CAS (HS Světlá nad Sázavou)\n
- 🚒 CAS (Dolní Město)\n🚒 DA (Světlá nad Sázavou)\n🚒 CAS (Světlá nad Sázavou)
- \n🚒 vyšetřovací automobil (ÚO Havlíčkův Brod)
+ 🚒 přetlakový ventilátor (HS Světlá nad Sázavou)\n🚒 CAS (Dolní Město)\n🚒 DA
+  (Světlá nad Sázavou)\n🚒 CAS (Světlá nad Sázavou)\n🚒 vyšetřovací automobil
+  (ÚO Havlíčkův Brod)
 END:VEVENT
 BEGIN:VEVENT
 UID:419853061
@@ -662,6 +663,19 @@ SUMMARY:🚑 spolupráce ZZS - Borek
 LOCATION:Borek
 GEO:49.790287;15.589902
 URL:geo:49.790287,15.589902
-DESCRIPTION:📍 Borek\, Havlíčkův Brod\n\n🚒 CAS (HS Chotěboř)
+DESCRIPTION:📍 Borek\, Havlíčkův Brod\n💬 Spolupráce se ZZS.\n\n🚒 CAS (HS Cho
+ těboř)
+END:VEVENT
+BEGIN:VEVENT
+UID:419862061
+DTSTART:20260919T204956Z
+DTEND:20260919T214956Z
+DTSTAMP:20260919T204956Z
+SUMMARY:🚗 dopravní nehoda - Kněžice
+LOCATION:Kněžice
+GEO:49.282413;15.699120
+URL:geo:49.282413,15.699120
+DESCRIPTION:📍 Víska\, Kněžice\, Jihlava\n\n🚒 CAS (Stonařov)\n🚒 CAS (CHS Tře
+ bíč)
 END:VEVENT
 END:VCALENDAR
