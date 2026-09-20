@@ -654,9 +654,9 @@ SUMMARY:🚗 dopravní nehoda - Velká Bíteš
 LOCATION:Velká Bíteš
 GEO:49.270470;16.223862
 URL:geo:49.270470,16.223862
-DESCRIPTION:📍 Jindřichov\, Velká Bíteš\, Žďár nad Sázavou\n💬 Střet 2 osobní
- ch vozidel\, 1 zraněná osoba. Zabezpečení havarovaných vozidel proti požár
- u a proti úniku provozních kapalin.\n\n🚒 CAS (HS Velká Bíteš)
+DESCRIPTION:📍 Jindřichov\, Velká Bíteš\, Žďár nad Sázavou\n💬 DN 2 OA\, 1 zr
+ aněná osoba. Zabezpečení havarovaných vozidel proti požáru a proti úniku p
+ rovozních kapalin.\n\n🚒 CAS (HS Velká Bíteš)
 END:VEVENT
 BEGIN:VEVENT
 UID:419891061
@@ -665,8 +665,8 @@ DTEND:20260920T135113Z
 DTSTAMP:20260920T125113Z
 SUMMARY:🛠️ spolupráce IZS - Nížkov
 LOCATION:Nížkov
-GEO:49.533629;15.782188
-URL:geo:49.533629,15.782188
-DESCRIPTION:📍 Nížkov\, Žďár nad Sázavou\n\n🚒 CAS (HS Polná)
+GEO:49.534109;15.778455
+URL:geo:49.534109,15.778455
+DESCRIPTION:📍 Špinov\, Nížkov\, Žďár nad Sázavou\n\n🚒 CAS (HS Polná)
 END:VEVENT
 END:VCALENDAR
