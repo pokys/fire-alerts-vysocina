@@ -127,4 +127,15 @@ DESCRIPTION:📍 Horní\, Počátky\, Pelhřimov\n💬 Planý poplach.\n\n🚒 C
  menice nad Lipou)\n🚒 CAS (Počátky) ×2\n🚒 CAS (Žirovnice)\n🚒 CAS (Žirovnice
  )
 END:VEVENT
+BEGIN:VEVENT
+UID:419865061
+DTSTART:20260920T020039Z
+DTEND:20260920T030039Z
+DTSTAMP:20260920T020039Z
+SUMMARY:🚑 transport pacienta - Bratřice
+LOCATION:Bratřice
+GEO:49.518155;15.001858
+URL:geo:49.518155,15.001858
+DESCRIPTION:📍 Bratřice\, Pelhřimov\n\n🚒 CAS (HS Pacov)
+END:VEVENT
 END:VCALENDAR
