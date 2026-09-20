@@ -5,30 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:419779061
-DTSTART:20260918T045225Z
-DTEND:20260918T055225Z
-DTSTAMP:20260918T045225Z
-SUMMARY:🛠️ ostatní - Jihlava
-LOCATION:Za Prachárnou\, Jihlava
-GEO:49.397606;15.566229
-URL:geo:49.397606,15.566229
-DESCRIPTION:📍 Za Prachárnou\, Jihlava\n💬 Pomoc imobilní osobě\n\n🚒 CAS (CHS
-  Jihlava)
-END:VEVENT
-BEGIN:VEVENT
-UID:419780061
-DTSTART:20260918T051203Z
-DTEND:20260918T061203Z
-DTSTAMP:20260918T051203Z
-SUMMARY:🚗 dopravní nehoda - Havlíčkův Brod
-LOCATION:Havlíčkův Brod
-GEO:49.605310;15.582709
-URL:geo:49.605310,15.582709
-DESCRIPTION:💬 DN 1 OA a chodce se zraněním. Zajištění místa události.\n\n🚒 
- CAS (CHS Havlíčkův Brod)
-END:VEVENT
-BEGIN:VEVENT
 UID:419783061
 DTSTART:20260918T051810Z
 DTEND:20260918T061810Z
@@ -332,7 +308,7 @@ LOCATION:Lukavec
 GEO:49.539314;14.992903
 URL:geo:49.539314,14.992903
 DESCRIPTION:📍 Týmova Ves\, Lukavec\, Pelhřimov\n💬 Dopravní nehoda 2 dodávek
- .\n\n🚒 CAS (HS Pacov)
+ .  Zajištění místa události.\n\n🚒 CAS (HS Pacov)
 END:VEVENT
 BEGIN:VEVENT
 UID:419827061
@@ -502,9 +478,9 @@ SUMMARY:🚗 se zraněním - Kněževes
 LOCATION:Kněževes
 GEO:49.449716;15.995844
 URL:geo:49.449716,15.995844
-DESCRIPTION:📍 Kněževes\, Žďár nad Sázavou\n💬 DN 1 OA se zraněním. Zajištění
-  místa události a provedeno vyproštění osoby.\n\n🚒 CAS (CHS Žďár nad Sázav
- ou)\n🚒 CAS (Bohdalov)
+DESCRIPTION:📍 Kněževes\, Žďár nad Sázavou\n💬 DN 1 OA\, 1 zraněná osoba.. Za
+ jištění místa události a provedeno vyproštění osoby.\n\n🚒 CAS (CHS Žďár na
+ d Sázavou)\n🚒 CAS (Bohdalov)
 END:VEVENT
 BEGIN:VEVENT
 UID:419846061
@@ -615,8 +591,8 @@ SUMMARY:🚗 dopravní nehoda - Rohozná
 LOCATION:Rohozná
 GEO:49.364906;15.380703
 URL:geo:49.364906,15.380703
-DESCRIPTION:📍 Rohozná\, Jihlava\n💬 DN 2 OA se zraněním dvou osob. Provedena
-  PPO. Zajištění místa události.\n\n🚒 CAS (HS Třešť)
+DESCRIPTION:📍 Rohozná\, Jihlava\n💬 DN 2 OA se zraněním dvou osob. Zajištění
+  místa události.\n\n🚒 CAS (HS Třešť)
 END:VEVENT
 BEGIN:VEVENT
 UID:419860061
@@ -639,8 +615,8 @@ SUMMARY:🚗 bez zranění - Kněžice
 LOCATION:Kněžice
 GEO:49.282413;15.699120
 URL:geo:49.282413,15.699120
-DESCRIPTION:📍 Víska\, Kněžice\, Jihlava\n💬 DN 1 OA\, střet se zvěří. Zajišt
- ění místa události.\n\n🚒 CAS (Stonařov)\n🚒 CAS (CHS Třebíč)
+DESCRIPTION:📍 Víska\, Kněžice\, Jihlava\n💬 DN OA\, střet se zvěří.Bez zraně
+ ní. Zajištění místa události.\n\n🚒 CAS (Stonařov)\n🚒 CAS (CHS Třebíč)
 END:VEVENT
 BEGIN:VEVENT
 UID:419865061
