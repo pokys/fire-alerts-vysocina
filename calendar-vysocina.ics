@@ -5,21 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:419805061
-DTSTART:20260918T134223Z
-DTEND:20260918T144223Z
-DTSTAMP:20260918T134223Z
-SUMMARY:🚑 záchrana zvířete - Nové Veselí
-LOCATION:Nové Veselí
-GEO:49.531973;15.894372
-URL:geo:49.531973,15.894372
-DESCRIPTION:📍 Nové Veselí\, Žďár nad Sázavou\n💬 Taktické cvičení JSDH.\n\n🚒
-  přívěs nákladní (Budeč)\n🚒 DA (Březí nad Oslavou)\n🚒 vozidlo účelové - Sx
- S (Březí nad Oslavou)\n🚒 CAS (Kotlasy)\n🚒 osobní automobil (Matějov)\n🚒 CA
- S (Nové Veselí)\n🚒 přívěs nákladní (Poděšín)\n🚒 stříkačka přenosná (Siráko
- v)\n🚒 DA (Újezd)
-END:VEVENT
-BEGIN:VEVENT
 UID:419808061
 DTSTART:20260918T150434Z
 DTEND:20260918T160434Z
@@ -667,7 +652,8 @@ SUMMARY:🚗 dopravní nehoda - Martinice
 LOCATION:Martinice
 GEO:49.371052;16.030789
 URL:geo:49.371052,16.030789
-DESCRIPTION:📍 Martinice\, Žďár nad Sázavou\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 
- RZA (HS Velké Meziříčí)
+DESCRIPTION:📍 Martinice\, Žďár nad Sázavou\n💬 DN 2 motorkářů\, 1 zraněná os
+ oba. Zabezpečení místa DN.\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (HS Velké M
+ eziříčí)
 END:VEVENT
 END:VCALENDAR
