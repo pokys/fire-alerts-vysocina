@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:419793061
-DTSTART:20260918T084632Z
-DTEND:20260918T094632Z
-DTSTAMP:20260918T084632Z
-SUMMARY:⚠️ planý poplach - Jihlava
-LOCATION:Havlíčkova\, Jihlava
-GEO:49.402029;15.588000
-URL:geo:49.402029,15.588000
-DESCRIPTION:📍 Havlíčkova\, Jihlava\n💬 Požár ohlášený systémem elektrické po
- žární signalizace. Průzkumem bylo zjištěno\, že se jedná o planý poplach.\
- n\n🚒 CAS (CHS Jihlava) ×2
-END:VEVENT
-BEGIN:VEVENT
 UID:419794061
 DTSTART:20260918T094450Z
 DTEND:20260918T104450Z
@@ -650,8 +637,9 @@ SUMMARY:🔥 vozidlo - Třešť
 LOCATION:Třešť
 GEO:49.297881;15.491509
 URL:geo:49.297881,15.491509
-DESCRIPTION:📍 Třešť\, Jihlava\n\n🚒 CAS (CHS Jihlava)\n🚒 CAS (Batelov)\n🚒 CA
- S (Třešť)\n🚒 CAS (HS Třešť)\n🚒 vyšetřovací automobil (ÚO Jihlava)
+DESCRIPTION:📍 Třešť\, Jihlava\n💬 Požár OA. Lokalizace a likvidace.\n\n🚒 CAS
+  (CHS Jihlava)\n🚒 CAS (Batelov)\n🚒 CAS (Třešť)\n🚒 CAS (HS Třešť)\n🚒 vyšetř
+ ovací automobil (ÚO Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:419878061
@@ -679,5 +667,16 @@ GEO:49.565326;15.931447
 URL:geo:49.565326,15.931447
 DESCRIPTION:📍 Revoluční\, Žďár nad Sázavou 3\, Žďár nad Sázavou\n💬 Pomoc se
   zvednutím imobilní osoby.\n\n🚒 CAS (CHS Žďár nad Sázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:419880061
+DTSTART:20260920T084328Z
+DTEND:20260920T094328Z
+DTSTAMP:20260920T084328Z
+SUMMARY:🚗 dopravní nehoda - Česká Bělá
+LOCATION:Česká Bělá
+GEO:49.645537;15.747490
+URL:geo:49.645537,15.747490
+DESCRIPTION:📍 Česká Bělá\, Havlíčkův Brod\n\n🚒 CAS (HS Chotěboř)
 END:VEVENT
 END:VCALENDAR
