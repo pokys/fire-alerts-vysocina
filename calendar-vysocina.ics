@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:419796061
-DTSTART:20260918T101052Z
-DTEND:20260918T111052Z
-DTSTAMP:20260918T101052Z
-SUMMARY:🛠️ obtížný hmyz - Golčův Jeníkov
-LOCATION:Golčův Jeníkov
-GEO:49.805216;15.461538
-URL:geo:49.805216,15.461538
-DESCRIPTION:📍 Golčův Jeníkov\, Havlíčkův Brod\n💬 Odstranění obtížného hmyzu
- .\n\n🚒 CAS (Golčův Jeníkov)
-END:VEVENT
-BEGIN:VEVENT
 UID:419797061
 DTSTART:20260918T101631Z
 DTEND:20260918T111631Z
@@ -613,8 +601,8 @@ SUMMARY:🔥 tráva/plocha - Kněžice
 LOCATION:Kněžice
 GEO:49.268994;15.703303
 URL:geo:49.268994,15.703303
-DESCRIPTION:📍 Kněžice\, Jihlava\n\n🚒 CAS (HS Třešť)\n🚒 CAS (Brtnice)\n🚒 CAS
-  (Kněžice)
+DESCRIPTION:📍 Kněžice\, Jihlava\n💬 Požár trávy. Lokalizace a likvidace udál
+ osti.\n\n🚒 CAS (HS Třešť)\n🚒 CAS (Brtnice)\n🚒 CAS (Kněžice)
 END:VEVENT
 BEGIN:VEVENT
 UID:419877061
