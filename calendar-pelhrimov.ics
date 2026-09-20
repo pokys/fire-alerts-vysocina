@@ -151,4 +151,16 @@ URL:geo:49.500852,15.202439
 DESCRIPTION:📍 Popelištná\, Červená Řečice\, Pelhřimov\n💬 Pomoc ZZS při resu
  scitaci pacienta.\n\n🚒 CAS (CHS Pelhřimov)
 END:VEVENT
+BEGIN:VEVENT
+UID:419896061
+DTSTART:20260920T145839Z
+DTEND:20260920T155839Z
+DTSTAMP:20260920T145839Z
+SUMMARY:🛠️ ostatní - Kamenice nad Lipou
+LOCATION:Masarykova\, Kamenice nad Lipou
+GEO:49.297070;15.076196
+URL:geo:49.297070,15.076196
+DESCRIPTION:📍 Masarykova\, Kamenice nad Lipou\, Pelhřimov\n💬 Vyproštění koč
+ ky uvízlé ve ventilačce.\n\n🚒 CAS (HS Kamenice nad Lipou)
+END:VEVENT
 END:VCALENDAR

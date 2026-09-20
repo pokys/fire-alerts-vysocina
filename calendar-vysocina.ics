@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:419808061
-DTSTART:20260918T150434Z
-DTEND:20260918T160434Z
-DTSTAMP:20260918T150434Z
-SUMMARY:🚗 bez zranění - Tasov
-LOCATION:Tasov
-GEO:49.298774;16.105394
-URL:geo:49.298774,16.105394
-DESCRIPTION:📍 Tasov\, Žďár nad Sázavou\n💬 DN OA bez zranění. Zajištění míst
- a události.\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)
-END:VEVENT
-BEGIN:VEVENT
 UID:419809061
 DTSTART:20260918T151944Z
 DTEND:20260918T161944Z
@@ -655,5 +643,29 @@ URL:geo:49.371052,16.030789
 DESCRIPTION:📍 Martinice\, Žďár nad Sázavou\n💬 DN 2 motorkářů\, 1 zraněná os
  oba. Zabezpečení místa DN.\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (HS Velké M
  eziříčí)
+END:VEVENT
+BEGIN:VEVENT
+UID:419895061
+DTSTART:20260920T145806Z
+DTEND:20260920T155806Z
+DTSTAMP:20260920T145806Z
+SUMMARY:🛠️ ostatní - Žďár nad Sázavou
+LOCATION:Veselská\, Žďár nad Sázavou
+GEO:49.559921;15.935010
+URL:geo:49.559921,15.935010
+DESCRIPTION:📍 Veselská\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n\n🚒 CAS (CH
+ S Žďár nad Sázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:419896061
+DTSTART:20260920T145839Z
+DTEND:20260920T155839Z
+DTSTAMP:20260920T145839Z
+SUMMARY:🛠️ ostatní - Kamenice nad Lipou
+LOCATION:Masarykova\, Kamenice nad Lipou
+GEO:49.297070;15.076196
+URL:geo:49.297070,15.076196
+DESCRIPTION:📍 Masarykova\, Kamenice nad Lipou\, Pelhřimov\n💬 Vyproštění koč
+ ky uvízlé ve ventilačce.\n\n🚒 CAS (HS Kamenice nad Lipou)
 END:VEVENT
 END:VCALENDAR
