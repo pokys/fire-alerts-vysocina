@@ -658,10 +658,11 @@ UID:419866061
 DTSTART:20260920T030522Z
 DTEND:20260920T040522Z
 DTSTAMP:20260920T030522Z
-SUMMARY:🛠️ ostatní - Třebíč
+SUMMARY:🚑 záchrana ze stromu - Třebíč
 LOCATION:Klimentova\, Třebíč
 GEO:49.212011;15.870570
 URL:geo:49.212011,15.870570
-DESCRIPTION:📍 Klimentova\, Stařečka\, Třebíč\n\n🚒 CAS (CHS Třebíč)
+DESCRIPTION:📍 Klimentova\, Stařečka\, Třebíč\n💬 Spolupráce s PČR a ZZS.\n\n
+ 🚒 CAS (CHS Třebíč)
 END:VEVENT
 END:VCALENDAR
