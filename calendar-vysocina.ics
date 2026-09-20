@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:419794061
-DTSTART:20260918T094450Z
-DTEND:20260918T104450Z
-DTSTAMP:20260918T094450Z
-SUMMARY:🛠️ obtížný hmyz - Bystřice nad Pernštejnem
-LOCATION:K Valše\, Bystřice nad Pernštejnem
-GEO:49.523617;16.277405
-URL:geo:49.523617,16.277405
-DESCRIPTION:📍 K Valše\, Bystřice nad Pernštejnem\, Žďár nad Sázavou\n💬 Odst
- ranění obtížného hmyzu.\n\n🚒 CAS (HS Bystřice nad Pernštejnem)
-END:VEVENT
-BEGIN:VEVENT
 UID:419796061
 DTSTART:20260918T101052Z
 DTEND:20260918T111052Z
@@ -687,10 +675,21 @@ DTSTART:20260920T090447Z
 DTEND:20260920T100447Z
 DTSTAMP:20260920T090447Z
 SUMMARY:🛠️ ostatní - Moravské Budějovice
-LOCATION:Pražská\, Moravské Budějovice
-GEO:49.055999;15.808377
-URL:geo:49.055999,15.808377
-DESCRIPTION:📍 Pražská\, Moravské Budějovice\, Třebíč\n\n🚒 CAS (HS Moravské 
- Budějovice)
+LOCATION:Havlíčkova\, Moravské Budějovice
+GEO:49.056563;15.805973
+URL:geo:49.056563,15.805973
+DESCRIPTION:📍 Havlíčkova\, Moravské Budějovice\, Třebíč\n💬 Odklizení spadlé
+  hlíny z komunikace.\n\n🚒 CAS (HS Moravské Budějovice)
+END:VEVENT
+BEGIN:VEVENT
+UID:419882061
+DTSTART:20260920T093430Z
+DTEND:20260920T103430Z
+DTSTAMP:20260920T093430Z
+SUMMARY:🚑 záchrana zvířete - Jemnice
+LOCATION:V Zahrádkách\, Jemnice
+GEO:49.017209;15.569480
+URL:geo:49.017209,15.569480
+DESCRIPTION:📍 V Zahrádkách\, Jemnice\, Třebíč\n\n🚒 CAS (HS Jemnice)
 END:VEVENT
 END:VCALENDAR
