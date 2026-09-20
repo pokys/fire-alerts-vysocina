@@ -677,6 +677,20 @@ SUMMARY:🚗 dopravní nehoda - Česká Bělá
 LOCATION:Česká Bělá
 GEO:49.645537;15.747490
 URL:geo:49.645537,15.747490
-DESCRIPTION:📍 Česká Bělá\, Havlíčkův Brod\n\n🚒 CAS (HS Chotěboř)
+DESCRIPTION:📍 Česká Bělá\, Havlíčkův Brod\n💬 DN OA na střeše\, 1 zraněná os
+ oba. Zajištění místa nehody proti požáru a úniku provozních kapalin.\n\n🚒 
+ CAS (HS Chotěboř)
+END:VEVENT
+BEGIN:VEVENT
+UID:419881061
+DTSTART:20260920T090447Z
+DTEND:20260920T100447Z
+DTSTAMP:20260920T090447Z
+SUMMARY:🛠️ ostatní - Moravské Budějovice
+LOCATION:Pražská\, Moravské Budějovice
+GEO:49.055999;15.808377
+URL:geo:49.055999,15.808377
+DESCRIPTION:📍 Pražská\, Moravské Budějovice\, Třebíč\n\n🚒 CAS (HS Moravské 
+ Budějovice)
 END:VEVENT
 END:VCALENDAR
