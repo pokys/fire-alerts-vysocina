@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:419800061
-DTSTART:20260918T120042Z
-DTEND:20260918T130042Z
-DTSTAMP:20260918T120042Z
-SUMMARY:🚗 dopravní nehoda - Třebíč
-LOCATION:Rafaelova\, Třebíč
-GEO:49.223903;15.894307
-URL:geo:49.223903,15.894307
-DESCRIPTION:📍 Rafaelova\, Nové Dvory\, Třebíč\n💬 DN 3 OA\, 2 zraněné osoby.
-  Provedeno zajištění místa nehody.\n\n🚒 CAS (CHS Třebíč)
-END:VEVENT
-BEGIN:VEVENT
 UID:419803061
 DTSTART:20260918T133009Z
 DTEND:20260918T143009Z
@@ -654,6 +642,7 @@ SUMMARY:🚑 spolupráce ZZS - Třešť
 LOCATION:Národ. odboje\, Třešť
 GEO:49.282582;15.475484
 URL:geo:49.282582,15.475484
-DESCRIPTION:📍 Národ. odboje\, Třešť\, Jihlava\n\n🚒 CAS (HS Třešť)
+DESCRIPTION:📍 Národ. odboje\, Třešť\, Jihlava\n💬 Spolupráce se ZZS.\n\n🚒 CA
+ S (HS Třešť)
 END:VEVENT
 END:VCALENDAR
