@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:419846061
-DTSTART:20260919T144105Z
-DTEND:20260919T154105Z
-DTSTAMP:20260919T144105Z
-SUMMARY:🛠️ ostatní - Jihlava
-LOCATION:Vrchlického\, Jihlava
-GEO:49.397596;15.570881
-URL:geo:49.397596,15.570881
-DESCRIPTION:📍 Vrchlického\, Jihlava\n💬 Asistence při sundání prstýnku.\n\n🚒
-  CAS (CHS Jihlava)
-END:VEVENT
-BEGIN:VEVENT
 UID:419847061
 DTSTART:20260919T150130Z
 DTEND:20260919T160130Z
@@ -616,7 +604,9 @@ SUMMARY:🚗 dopravní nehoda - Jedlá
 LOCATION:Jedlá
 GEO:49.737752;15.238384
 URL:geo:49.737752,15.238384
-DESCRIPTION:📍 Jedlá\, Havlíčkův Brod\n\n🚒 CAS (HS Ledeč nad Sázavou)
+DESCRIPTION:📍 Jedlá\, Havlíčkův Brod\n💬 DN 1 OA\, 2 zraněné osoby. Zajištěn
+ í místa nehody proti požáru a úniku provozních kapalin.\n\n🚒 CAS (HS Ledeč
+  nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:419950061
