@@ -678,8 +678,8 @@ SUMMARY:🛠️ otevření bytu/auta - Bystřice nad Pernštejnem
 LOCATION:Bystřice nad Pernštejnem
 GEO:49.528359;16.243261
 URL:geo:49.528359,16.243261
-DESCRIPTION:📍 Bystřice nad Pernštejnem\, Žďár nad Sázavou\n\n🚒 CAS (HS Byst
- řice nad Pernštejnem)
+DESCRIPTION:📍 Bystřice nad Pernštejnem\, Žďár nad Sázavou\n💬 Otevření uzavř
+ ených prostor.\n\n🚒 CAS (HS Bystřice nad Pernštejnem)
 END:VEVENT
 BEGIN:VEVENT
 UID:419957061
@@ -692,5 +692,16 @@ GEO:49.495371;15.189773
 URL:geo:49.495371,15.189773
 DESCRIPTION:📍 Červená Řečice\, Pelhřimov\n💬 Proplach propustku.\n\n🚒 CAS (Č
  ervená Řečice)
+END:VEVENT
+BEGIN:VEVENT
+UID:419958061
+DTSTART:20260921T160900Z
+DTEND:20260921T170900Z
+DTSTAMP:20260921T160900Z
+SUMMARY:🛠️ čerpání vody - Píšť
+LOCATION:Píšť
+GEO:49.606524;15.212219
+URL:geo:49.606524,15.212219
+DESCRIPTION:📍 Píšť\, Pelhřimov\n\n🚒 DA (Píšť)
 END:VEVENT
 END:VCALENDAR
