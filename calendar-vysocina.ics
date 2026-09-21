@@ -630,4 +630,16 @@ URL:geo:49.139260,15.676736
 DESCRIPTION:📍 Znojemská\, Želetava\, Třebíč\n\n🚒 CAS (HS Moravské Budějovic
  e)\n🚒 CAS (Želetava)
 END:VEVENT
+BEGIN:VEVENT
+UID:419912061
+DTSTART:20260921T071519Z
+DTEND:20260921T081519Z
+DTSTAMP:20260921T071519Z
+SUMMARY:☣️ olej/PHM - Nové Město na Moravě
+LOCATION:Nové Město na Moravě
+GEO:49.577145;16.075241
+URL:geo:49.577145,16.075241
+DESCRIPTION:📍 Maršovice\, Nové Město na Moravě\, Žďár nad Sázavou\n\n🚒 CAS 
+ (CHS Žďár nad Sázavou)
+END:VEVENT
 END:VCALENDAR
