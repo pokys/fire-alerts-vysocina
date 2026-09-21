@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:419847061
-DTSTART:20260919T150130Z
-DTEND:20260919T160130Z
-DTSTAMP:20260919T150130Z
-SUMMARY:🛠️ obtížný hmyz - Pelhřimov
-LOCATION:Pelhřimov
-GEO:49.330977;15.253579
-URL:geo:49.330977,15.253579
-DESCRIPTION:📍 Janovice\, Pelhřimov\n💬 Odstranění obtížného hmyzu.\n\n🚒 CAS 
- (CHS Pelhřimov)\n🚒 vysavač na hmyz (CHS Pelhřimov)
-END:VEVENT
-BEGIN:VEVENT
 UID:419849061
 DTSTART:20260919T161658Z
 DTEND:20260919T171658Z
@@ -556,9 +544,9 @@ SUMMARY:🚗 dopravní nehoda - Moravské Budějovice
 LOCATION:Moravské Budějovice
 GEO:49.044774;15.799164
 URL:geo:49.044774,15.799164
-DESCRIPTION:📍 Moravské Budějovice\, Třebíč\n💬 DN 2x OA bez zranění. Zajiště
- ní místa nehody proti požáru a úniku provozních kapalin.\n\n🚒 CAS (HS Mora
- vské Budějovice)
+DESCRIPTION:📍 Moravské Budějovice\, Třebíč\n💬 DN 2 OA bez zranění. Zajištěn
+ í místa nehody proti požáru a úniku provozních kapalin.\n\n🚒 CAS (HS Morav
+ ské Budějovice)
 END:VEVENT
 BEGIN:VEVENT
 UID:419945061
