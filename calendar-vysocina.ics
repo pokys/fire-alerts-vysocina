@@ -604,7 +604,7 @@ LOCATION:Herálec
 GEO:49.550056;15.412860
 URL:geo:49.550056,15.412860
 DESCRIPTION:📍 Zdislavice\, Herálec\, Havlíčkův Brod\n💬 Odstranění stromu.\n
- \n🚒 CAS (HS Humpolec)
+ \n🚒 CAS (HS Humpolec)\n🚒 pila řetězová (HS Humpolec)
 END:VEVENT
 BEGIN:VEVENT
 UID:419917061
@@ -618,5 +618,17 @@ URL:geo:49.304301,16.144717
 DESCRIPTION:📍 Ruda\, Žďár nad Sázavou\n💬 Neohlášené pálení klestu\, provede
  no prolití vodou.\n\n🚒 CAS (HS Velká Bíteš)\n🚒 CAS (HS Velké Meziříčí)\n🚒 
  CAS (Osová Bítýška)\n🚒 DA (Ruda)
+END:VEVENT
+BEGIN:VEVENT
+UID:419930061
+DTSTART:20260921T102720Z
+DTEND:20260921T112720Z
+DTSTAMP:20260921T102720Z
+SUMMARY:🚗 bez zranění - Vojslavice
+LOCATION:Vojslavice
+GEO:49.589100;15.249290
+URL:geo:49.589100,15.249290
+DESCRIPTION:📍 Vojslavice\, Pelhřimov\n\n🚒 CAS (HS Humpolec)\n🚒 RZA (HS Hump
+ olec)
 END:VEVENT
 END:VCALENDAR
