@@ -558,7 +558,7 @@ LOCATION:Stříbrné Hory
 GEO:49.599201;15.684303
 URL:geo:49.599201,15.684303
 DESCRIPTION:📍 Stříbrné Hory\, Havlíčkův Brod\n💬 Odstranění stromu.\n\n🚒 CAS
-  (CHS Havlíčkův Brod)
+  (CHS Havlíčkův Brod)\n🚒 pila řetězová (CHS Havlíčkův Brod)
 END:VEVENT
 BEGIN:VEVENT
 UID:419946061
@@ -630,7 +630,8 @@ SUMMARY:🛠️ strom - Polná
 LOCATION:Resslova\, Polná
 GEO:49.489382;15.704147
 URL:geo:49.489382,15.704147
-DESCRIPTION:📍 Resslova\, Polná\, Jihlava\n\n🚒 CAS (Polná)
+DESCRIPTION:📍 Resslova\, Polná\, Jihlava\n💬 Odstranění stromu.\n\n🚒 CAS (Po
+ lná)
 END:VEVENT
 BEGIN:VEVENT
 UID:419953061
@@ -653,7 +654,30 @@ SUMMARY:🛠️ otevření bytu/auta - Ledeč nad Sázavou
 LOCATION:Zdeňka Fibicha\, Ledeč nad Sázavou
 GEO:49.699873;15.277967
 URL:geo:49.699873,15.277967
-DESCRIPTION:📍 Zdeňka Fibicha\, Ledeč nad Sázavou\, Havlíčkův Brod\n\n🚒 CAS 
- (HS Ledeč nad Sázavou)
+DESCRIPTION:📍 Zdeňka Fibicha\, Ledeč nad Sázavou\, Havlíčkův Brod\n💬 Otevře
+ ní bytu.\n\n🚒 CAS (HS Ledeč nad Sázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:419955061
+DTSTART:20260921T152821Z
+DTEND:20260921T162821Z
+DTSTAMP:20260921T152821Z
+SUMMARY:🛠️ strom - Zubří
+LOCATION:Zubří
+GEO:49.569489;16.133894
+URL:geo:49.569489,16.133894
+DESCRIPTION:📍 Zubří\, Žďár nad Sázavou\n\n🚒 DA (Zubří)
+END:VEVENT
+BEGIN:VEVENT
+UID:419956061
+DTSTART:20260921T153713Z
+DTEND:20260921T163713Z
+DTSTAMP:20260921T153713Z
+SUMMARY:🛠️ otevření bytu/auta - Bystřice nad Pernštejnem
+LOCATION:Bystřice nad Pernštejnem
+GEO:49.528359;16.243261
+URL:geo:49.528359,16.243261
+DESCRIPTION:📍 Bystřice nad Pernštejnem\, Žďár nad Sázavou\n\n🚒 CAS (HS Byst
+ řice nad Pernštejnem)
 END:VEVENT
 END:VCALENDAR
