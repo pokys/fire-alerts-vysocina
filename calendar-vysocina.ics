@@ -627,8 +627,8 @@ SUMMARY:🚗 bez zranění - Želetava
 LOCATION:Znojemská\, Želetava
 GEO:49.139260;15.676736
 URL:geo:49.139260,15.676736
-DESCRIPTION:📍 Znojemská\, Želetava\, Třebíč\n\n🚒 CAS (HS Moravské Budějovic
- e)\n🚒 CAS (Želetava)
+DESCRIPTION:📍 Znojemská\, Želetava\, Třebíč\n💬 Zajištění nepojízdného OA.\n
+ \n🚒 CAS (HS Moravské Budějovice)\n🚒 CAS (Želetava)
 END:VEVENT
 BEGIN:VEVENT
 UID:419912061
@@ -641,5 +641,17 @@ GEO:49.577145;16.075241
 URL:geo:49.577145,16.075241
 DESCRIPTION:📍 Maršovice\, Nové Město na Moravě\, Žďár nad Sázavou\n\n🚒 CAS 
  (CHS Žďár nad Sázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:419914061
+DTSTART:20260921T073543Z
+DTEND:20260921T083543Z
+DTSTAMP:20260921T073543Z
+SUMMARY:🛠️ strom - Herálec
+LOCATION:Herálec
+GEO:49.550056;15.412860
+URL:geo:49.550056,15.412860
+DESCRIPTION:📍 Zdislavice\, Herálec\, Havlíčkův Brod\n💬 Odstranění stromu.\n
+ \n🚒 CAS (HS Humpolec)
 END:VEVENT
 END:VCALENDAR
