@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:419823061
-DTSTART:20260919T032117Z
-DTEND:20260919T042117Z
-DTSTAMP:20260919T032117Z
-SUMMARY:⚠️ planý poplach - Jihlava
-LOCATION:Wolkerova\, Jihlava
-GEO:49.394474;15.581388
-URL:geo:49.394474,15.581388
-DESCRIPTION:📍 Wolkerova\, Jihlava\n💬 Planý poplach.\n\n🚒 CAS (CHS Jihlava) 
- ×2\n🚒 CAS (CHS Jihlava) ×2
-END:VEVENT
-BEGIN:VEVENT
 UID:419825061
 DTSTART:20260919T080135Z
 DTEND:20260919T090135Z
@@ -604,7 +592,8 @@ SUMMARY:🚗 bez zranění - Velké Meziříčí
 LOCATION:Vrchovecká\, Velké Meziříčí
 GEO:49.361633;16.015190
 URL:geo:49.361633,16.015190
-DESCRIPTION:📍 Vrchovecká\, Velké Meziříčí\, Žďár nad Sázavou\n\n🚒 CAS (HS V
- elké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)
+DESCRIPTION:📍 Vrchovecká\, Velké Meziříčí\, Žďár nad Sázavou\n💬 DN 1 OA se 
+ zraněním. Zajištění místa události.\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (H
+ S Velké Meziříčí)
 END:VEVENT
 END:VCALENDAR
