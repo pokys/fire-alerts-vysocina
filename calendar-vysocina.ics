@@ -556,8 +556,9 @@ SUMMARY:🚗 dopravní nehoda - Moravské Budějovice
 LOCATION:Moravské Budějovice
 GEO:49.044774;15.799164
 URL:geo:49.044774,15.799164
-DESCRIPTION:📍 Moravské Budějovice\, Třebíč\n\n🚒 CAS (HS Moravské Budějovice
- )
+DESCRIPTION:📍 Moravské Budějovice\, Třebíč\n💬 DN 2x OA bez zranění. Zajiště
+ ní místa nehody proti požáru a úniku provozních kapalin.\n\n🚒 CAS (HS Mora
+ vské Budějovice)
 END:VEVENT
 BEGIN:VEVENT
 UID:419945061
@@ -631,5 +632,16 @@ GEO:49.566633;15.879845
 URL:geo:49.566633,15.879845
 DESCRIPTION:📍 Šlakhamry\, Hamry nad Sázavou\, Žďár nad Sázavou\n\n🚒 DA (Ham
  ry nad Sázavou-Najdek)\n🚒 CAS (Hamry nad Sázavou-Najdek)
+END:VEVENT
+BEGIN:VEVENT
+UID:419952061
+DTSTART:20260921T145111Z
+DTEND:20260921T155111Z
+DTSTAMP:20260921T145111Z
+SUMMARY:🛠️ strom - Polná
+LOCATION:Resslova\, Polná
+GEO:49.489382;15.704147
+URL:geo:49.489382,15.704147
+DESCRIPTION:📍 Resslova\, Polná\, Jihlava\n\n🚒 CAS (Polná)
 END:VEVENT
 END:VCALENDAR
