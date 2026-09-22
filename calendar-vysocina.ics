@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:419882061
-DTSTART:20260920T093430Z
-DTEND:20260920T103430Z
-DTSTAMP:20260920T093430Z
-SUMMARY:🚑 záchrana zvířete - Jemnice
-LOCATION:V Zahrádkách\, Jemnice
-GEO:49.017209;15.569480
-URL:geo:49.017209,15.569480
-DESCRIPTION:📍 V Zahrádkách\, Jemnice\, Třebíč\n💬 Pomoc imobilní osobě.\n\n🚒
-  CAS (HS Jemnice)
-END:VEVENT
-BEGIN:VEVENT
 UID:419885061
 DTSTART:20260920T105136Z
 DTEND:20260920T115136Z
@@ -623,7 +611,8 @@ SUMMARY:🚑 otevření/asistence - Třebíč
 LOCATION:Průmyslová\, Třebíč
 GEO:49.208940;15.897769
 URL:geo:49.208940,15.897769
-DESCRIPTION:📍 Průmyslová\, Jejkov\, Třebíč\n\n🚒 CAS (CHS Třebíč)
+DESCRIPTION:📍 Průmyslová\, Jejkov\, Třebíč\n💬 Otevření OA.\n\n🚒 CAS (CHS Tř
+ ebíč)
 END:VEVENT
 BEGIN:VEVENT
 UID:419984061
@@ -634,6 +623,19 @@ SUMMARY:🚑 otevření/asistence - Havlíčkův Brod
 LOCATION:Okrouhlická\, Havlíčkův Brod
 GEO:49.615693;15.543466
 URL:geo:49.615693,15.543466
-DESCRIPTION:📍 Okrouhlická\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)
+DESCRIPTION:📍 Okrouhlická\, Havlíčkův Brod\n💬 Otevření bytu.\n\n🚒 CAS (CHS 
+ Havlíčkův Brod)
+END:VEVENT
+BEGIN:VEVENT
+UID:419985061
+DTSTART:20260922T092912Z
+DTEND:20260922T102912Z
+DTSTAMP:20260922T092912Z
+SUMMARY:🔥 vozidlo - Radkov
+LOCATION:Radkov
+GEO:49.142142;15.469981
+URL:geo:49.142142,15.469981
+DESCRIPTION:📍 Radkov\, Jihlava\n\n🚒 CAS (HS Telč)\n🚒 CAS (HS Telč)\n🚒 vyšet
+ řovací automobil (ÚO Jihlava)
 END:VEVENT
 END:VCALENDAR
