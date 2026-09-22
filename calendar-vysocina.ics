@@ -702,4 +702,16 @@ URL:geo:49.556915,15.945112
 DESCRIPTION:📍 Palachova\, Žďár nad Sázavou 6\, Žďár nad Sázavou\n💬 Otevření
   bytu.\n\n🚒 CAS (CHS Žďár nad Sázavou)
 END:VEVENT
+BEGIN:VEVENT
+UID:420009061
+DTSTART:20260922T200601Z
+DTEND:20260922T210601Z
+DTSTAMP:20260922T200601Z
+SUMMARY:🚑 otevření/asistence - Jaroměřice nad Rokytnou
+LOCATION:Kapinusova\, Jaroměřice nad Rokytnou
+GEO:49.096397;15.889636
+URL:geo:49.096397,15.889636
+DESCRIPTION:📍 Kapinusova\, Jaroměřice nad Rokytnou\, Třebíč\n\n🚒 CAS (HS Mo
+ ravské Budějovice)
+END:VEVENT
 END:VCALENDAR
