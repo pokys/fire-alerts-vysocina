@@ -663,6 +663,31 @@ SUMMARY:🛠️ otevření bytu/auta - Třebíč
 LOCATION:Na Kopcích\, Třebíč
 GEO:49.218869;15.905247
 URL:geo:49.218869,15.905247
-DESCRIPTION:📍 Na Kopcích\, Nové Město\, Třebíč\n\n🚒 CAS (CHS Třebíč)
+DESCRIPTION:📍 Na Kopcích\, Nové Město\, Třebíč\n💬 Otevření bytu.\n\n🚒 CAS (
+ CHS Třebíč)
+END:VEVENT
+BEGIN:VEVENT
+UID:420004061
+DTSTART:20260922T163431Z
+DTEND:20260922T173431Z
+DTSTAMP:20260922T163431Z
+SUMMARY:🛠️ ostatní - Ledeč nad Sázavou
+LOCATION:Komenského\, Ledeč nad Sázavou
+GEO:49.697823;15.276507
+URL:geo:49.697823,15.276507
+DESCRIPTION:📍 Komenského\, Ledeč nad Sázavou\, Havlíčkův Brod\n\n🚒 CAS (HS 
+ Ledeč nad Sázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:420005061
+DTSTART:20260922T164237Z
+DTEND:20260922T174237Z
+DTSTAMP:20260922T164237Z
+SUMMARY:🚗 se zraněním - Telč
+LOCATION:Slavatovská\, Telč
+GEO:49.186951;15.450777
+URL:geo:49.186951,15.450777
+DESCRIPTION:📍 Slavatovská\, Telč-Štěpnice\, Telč\, Jihlava\n\n🚒 CAS (HS Tel
+ č)
 END:VEVENT
 END:VCALENDAR
