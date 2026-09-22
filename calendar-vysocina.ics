@@ -659,9 +659,21 @@ SUMMARY:🔥 Havlíčkův Brod
 LOCATION:Havířská\, Havlíčkův Brod
 GEO:49.594128;15.588833
 URL:geo:49.594128,15.588833
-DESCRIPTION:📍 Havířská\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod) ×2\n🚒
-  automobilová plošina do 30 m (CHS Havlíčkův Brod)\n🚒 CAS (Havlíčkův Brod-
- Perknov)\n🚒 DA (Havlíčkův Brod-Mírovka)\n🚒 vyšetřovací automobil (ÚO Havlí
- čkův Brod)
+DESCRIPTION:📍 Havířská\, Havlíčkův Brod\n💬 Požár elektroinstalace. Proveden
+ a lokalizace a likvidace požáru. Odvětrání zakouřených prostor.\n\n🚒 CAS (
+ CHS Havlíčkův Brod) ×2\n🚒 automobilová plošina do 30 m (CHS Havlíčkův Brod
+ )\n🚒 CAS (Havlíčkův Brod-Perknov)\n🚒 DA (Havlíčkův Brod-Mírovka)\n🚒 vyšetř
+ ovací automobil (ÚO Havlíčkův Brod)
+END:VEVENT
+BEGIN:VEVENT
+UID:419990061
+DTSTART:20260922T103607Z
+DTEND:20260922T113607Z
+DTSTAMP:20260922T103607Z
+SUMMARY:🚗 se zraněním - Jinošov
+LOCATION:Jinošov
+GEO:49.238042;16.202879
+URL:geo:49.238042,16.202879
+DESCRIPTION:📍 Jinošov\, Třebíč\n\n🚒 CAS (HS Náměšť nad Oslavou)
 END:VEVENT
 END:VCALENDAR
