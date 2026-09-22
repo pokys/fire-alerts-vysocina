@@ -5,20 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:419878061
-DTSTART:20260920T074557Z
-DTEND:20260920T084557Z
-DTSTAMP:20260920T074557Z
-SUMMARY:🔥 les - Žďár nad Sázavou
-LOCATION:Žďár nad Sázavou
-GEO:49.565067;16.011192
-URL:geo:49.565067,16.011192
-DESCRIPTION:📍 Veselíčko\, Žďár nad Sázavou\n💬 Požár lesní hrabanky na ploše
-  asi 1 m. Lokalizace a likvidace požáru.\n\n🚒 CAS (CHS Žďár nad Sázavou)\n
- 🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (Nové Město na Moravě)\n🚒 osobní autom
- obil (Žďár nad Sázavou-Veselíčko)\n🚒 CAS (Žďár nad Sázavou-Zámek)
-END:VEVENT
-BEGIN:VEVENT
 UID:419879061
 DTSTART:20260920T081720Z
 DTEND:20260920T091720Z
@@ -662,7 +648,7 @@ SUMMARY:🚑 otevření/asistence - Přibyslav
 LOCATION:Keřkov\, Přibyslav
 GEO:49.588829;15.723785
 URL:geo:49.588829,15.723785
-DESCRIPTION:📍 Keřkov\, Dobrá\, Přibyslav\, Havlíčkův Brod\n\n🚒 CAS (CHS Hav
- líčkův Brod)\n🚒 CAS (Přibyslav)
+DESCRIPTION:📍 Keřkov\, Dobrá\, Přibyslav\, Havlíčkův Brod\n💬 Otevření vstup
+ ní brány.\n\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 CAS (Přibyslav)
 END:VEVENT
 END:VCALENDAR
