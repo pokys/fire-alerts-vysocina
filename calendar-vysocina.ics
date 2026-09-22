@@ -623,8 +623,9 @@ SUMMARY:🔥 vozidlo - Radkov
 LOCATION:Radkov
 GEO:49.142142;15.469981
 URL:geo:49.142142,15.469981
-DESCRIPTION:📍 Radkov\, Jihlava\n\n🚒 CAS (HS Telč)\n🚒 CAS (HS Telč)\n🚒 vyšet
- řovací automobil (ÚO Jihlava)
+DESCRIPTION:📍 Radkov\, Jihlava\n💬 Požár manipulátoru. Provedena lokalizace 
+ a likvidace požáru.\n\n🚒 CAS (HS Telč)\n🚒 CAS (HS Telč)\n🚒 vyšetřovací aut
+ omobil (ÚO Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:419986061
@@ -664,5 +665,17 @@ GEO:49.238042;16.202879
 URL:geo:49.238042,16.202879
 DESCRIPTION:📍 Jinošov\, Třebíč\n💬 Planý poplach.\n\n🚒 CAS (HS Náměšť nad Os
  lavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:419992061
+DTSTART:20260922T111454Z
+DTEND:20260922T121454Z
+DTSTAMP:20260922T111454Z
+SUMMARY:🚗 dopravní nehoda - Bystřice nad Pernštejnem
+LOCATION:Bystřice nad Pernštejnem
+GEO:49.528599;16.249851
+URL:geo:49.528599,16.249851
+DESCRIPTION:📍 Bystřice nad Pernštejnem\, Žďár nad Sázavou\n\n🚒 CAS (HS Byst
+ řice nad Pernštejnem)
 END:VEVENT
 END:VCALENDAR
