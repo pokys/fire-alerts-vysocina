@@ -658,10 +658,11 @@ UID:419990061
 DTSTART:20260922T103607Z
 DTEND:20260922T113607Z
 DTSTAMP:20260922T103607Z
-SUMMARY:🚗 se zraněním - Jinošov
+SUMMARY:⚠️ planý poplach - Jinošov
 LOCATION:Jinošov
 GEO:49.238042;16.202879
 URL:geo:49.238042,16.202879
-DESCRIPTION:📍 Jinošov\, Třebíč\n\n🚒 CAS (HS Náměšť nad Oslavou)
+DESCRIPTION:📍 Jinošov\, Třebíč\n💬 Planý poplach.\n\n🚒 CAS (HS Náměšť nad Os
+ lavou)
 END:VEVENT
 END:VCALENDAR
