@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:419876061
-DTSTART:20260920T070340Z
-DTEND:20260920T080340Z
-DTSTAMP:20260920T070340Z
-SUMMARY:🔥 tráva/plocha - Kněžice
-LOCATION:Kněžice
-GEO:49.268994;15.703303
-URL:geo:49.268994,15.703303
-DESCRIPTION:📍 Kněžice\, Jihlava\n💬 Požár trávy. Lokalizace a likvidace udál
- osti.\n\n🚒 CAS (HS Třešť)\n🚒 CAS (Brtnice)\n🚒 CAS (Kněžice)
-END:VEVENT
-BEGIN:VEVENT
 UID:419877061
 DTSTART:20260920T073037Z
 DTEND:20260920T083037Z
@@ -625,7 +613,8 @@ SUMMARY:🚑 spolupráce ZZS - Příseka
 LOCATION:Příseka
 GEO:49.671227;15.422290
 URL:geo:49.671227,15.422290
-DESCRIPTION:📍 Příseka\, Havlíčkův Brod\n\n🚒 CAS (HS Světlá nad Sázavou)
+DESCRIPTION:📍 Příseka\, Havlíčkův Brod\n💬 Spolupráce se složkami IZS.\n\n🚒 
+ CAS (HS Světlá nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:419977061
@@ -651,7 +640,8 @@ SUMMARY:🛠️ ostatní - Jihlava
 LOCATION:Březinova\, Jihlava
 GEO:49.404946;15.595063
 URL:geo:49.404946,15.595063
-DESCRIPTION:📍 Březinova\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+DESCRIPTION:📍 Březinova\, Jihlava\n💬 Pomoc s imobilní osobou.\n\n🚒 CAS (CHS
+  Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:419979061
@@ -662,6 +652,29 @@ SUMMARY:🚑 otevření/asistence - Jihlava
 LOCATION:Kainarova\, Jihlava
 GEO:49.407115;15.568809
 URL:geo:49.407115,15.568809
-DESCRIPTION:📍 Kainarova\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+DESCRIPTION:📍 Kainarova\, Jihlava\n💬 Otevření bytu.\n\n🚒 CAS (CHS Jihlava)
+END:VEVENT
+BEGIN:VEVENT
+UID:419980061
+DTSTART:20260922T071027Z
+DTEND:20260922T081027Z
+DTSTAMP:20260922T071027Z
+SUMMARY:🚑 otevření/asistence - Třebíč
+LOCATION:Březinova\, Třebíč
+GEO:49.209595;15.885946
+URL:geo:49.209595,15.885946
+DESCRIPTION:📍 Březinova\, Horka-Domky\, Třebíč\n\n🚒 CAS (CHS Třebíč)
+END:VEVENT
+BEGIN:VEVENT
+UID:419981061
+DTSTART:20260922T071126Z
+DTEND:20260922T081126Z
+DTSTAMP:20260922T071126Z
+SUMMARY:🚑 otevření/asistence - Přibyslav
+LOCATION:Keřkov\, Přibyslav
+GEO:49.588829;15.723785
+URL:geo:49.588829,15.723785
+DESCRIPTION:📍 Keřkov\, Dobrá\, Přibyslav\, Havlíčkův Brod\n\n🚒 CAS (CHS Hav
+ líčkův Brod)\n🚒 CAS (Přibyslav)
 END:VEVENT
 END:VCALENDAR
