@@ -103,4 +103,16 @@ URL:geo:49.320694,15.326470
 DESCRIPTION:📍 Tyršova\, Horní Cerekev\, Pelhřimov\n💬 Transport pacienta na 
  žádost ZZS.\n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (Horní Cerekev)
 END:VEVENT
+BEGIN:VEVENT
+UID:420074061
+DTSTART:20260923T170457Z
+DTEND:20260923T180457Z
+DTSTAMP:20260923T170457Z
+SUMMARY:🚗 dopravní nehoda - Vojslavice
+LOCATION:Vojslavice
+GEO:49.589017;15.249167
+URL:geo:49.589017,15.249167
+DESCRIPTION:📍 Vojslavice\, Pelhřimov\n\n🚒 CAS (HS Humpolec)\n🚒 RZA (HS Hump
+ olec)
+END:VEVENT
 END:VCALENDAR

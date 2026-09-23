@@ -558,7 +558,8 @@ GEO:49.334412;15.641715
 URL:geo:49.334412,15.641715
 DESCRIPTION:📍 Příseka\, Brtnice\, Jihlava\n💬 Požár OA\, bez zranění. Jednot
  ka provedla lokalizaci a likvidaci.\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jih
- lava)\n🚒 vyšetřovací automobil (ÚO Jihlava)
+ lava)\n🚒 zařízení hasicí kontinuelní vysokotlaké (CHS Jihlava)\n🚒 vyšetřov
+ ací automobil (ÚO Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:420048061
@@ -731,5 +732,17 @@ GEO:49.479363;15.651214
 URL:geo:49.479363,15.651214
 DESCRIPTION:📍 V Břízách\, Dobronín\, Jihlava\n💬 Odstranění obtížného hmyzu.
  \n\n🚒 DA (Dobronín)
+END:VEVENT
+BEGIN:VEVENT
+UID:420074061
+DTSTART:20260923T170457Z
+DTEND:20260923T180457Z
+DTSTAMP:20260923T170457Z
+SUMMARY:🚗 dopravní nehoda - Vojslavice
+LOCATION:Vojslavice
+GEO:49.589017;15.249167
+URL:geo:49.589017,15.249167
+DESCRIPTION:📍 Vojslavice\, Pelhřimov\n\n🚒 CAS (HS Humpolec)\n🚒 RZA (HS Hump
+ olec)
 END:VEVENT
 END:VCALENDAR
