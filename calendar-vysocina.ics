@@ -739,4 +739,15 @@ DESCRIPTION:📍 Pivovarská\, Ledeč nad Sázavou\, Havlíčkův Brod\n\n🚒 C
  Ledeč nad Sázavou)\n🚒 CAS (HS Světlá nad Sázavou)\n🚒 CAS (Kožlí)\n🚒 CAS (L
  edeč nad Sázavou)\n🚒 vyšetřovací automobil (ÚO Havlíčkův Brod)
 END:VEVENT
+BEGIN:VEVENT
+UID:420035061
+DTSTART:20260923T083513Z
+DTEND:20260923T093513Z
+DTSTAMP:20260923T083513Z
+SUMMARY:🚗 dopravní nehoda - Radostín
+LOCATION:Radostín
+GEO:49.658334;15.547915
+URL:geo:49.658334,15.547915
+DESCRIPTION:📍 Radostín\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)
+END:VEVENT
 END:VCALENDAR
