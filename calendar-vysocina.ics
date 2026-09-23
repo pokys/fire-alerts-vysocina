@@ -763,9 +763,10 @@ SUMMARY:🔥 technologie - Dobronín
 LOCATION:Dobronín
 GEO:49.470531;15.660984
 URL:geo:49.470531,15.660984
-DESCRIPTION:📍 Dobronín\, Jihlava\n\n🚒 CAS (CHS Jihlava)\n🚒 AŽ (CHS Jihlava)
- \n🚒 CAS (HS Polná)\n🚒 CAS (Dobronín)\n🚒 CAS (Polná)\n🚒 CAS (Štoky)\n🚒 vyše
- třovací automobil (ÚO Jihlava)
+DESCRIPTION:📍 Dobronín\, Jihlava\n💬 Požár plachty na zásobníku s plynem. Pr
+ ovedena lokalizace a likvidace požáru pomocí PHP.\n\n🚒 CAS (CHS Jihlava)\n
+ 🚒 AŽ (CHS Jihlava)\n🚒 CAS (HS Polná)\n🚒 CAS (Dobronín)\n🚒 CAS (Polná)\n🚒 C
+ AS (Štoky)\n🚒 vyšetřovací automobil (ÚO Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:420054061
@@ -778,5 +779,29 @@ GEO:49.666787;15.399016
 URL:geo:49.666787,15.399016
 DESCRIPTION:📍 Sázavská\, Světlá nad Sázavou\, Havlíčkův Brod\n💬 Otevření by
  tu.\n\n🚒 CAS (HS Světlá nad Sázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:420058061
+DTSTART:20260923T125301Z
+DTEND:20260923T135301Z
+DTSTAMP:20260923T125301Z
+SUMMARY:🛠️ otevření bytu/auta - Velká Bíteš
+LOCATION:Za Uličkami\, Velká Bíteš
+GEO:49.293538;16.220075
+URL:geo:49.293538,16.220075
+DESCRIPTION:📍 Za Uličkami\, Velká Bíteš\, Žďár nad Sázavou\n💬 Otevření bytu
+ .\n\n🚒 CAS (HS Velká Bíteš)
+END:VEVENT
+BEGIN:VEVENT
+UID:420059061
+DTSTART:20260923T125601Z
+DTEND:20260923T135601Z
+DTSTAMP:20260923T125601Z
+SUMMARY:🚗 dopravní nehoda - Náměšť nad Oslavou
+LOCATION:Mjr. Šandery\, Náměšť nad Oslavou
+GEO:49.206475;16.159438
+URL:geo:49.206475,16.159438
+DESCRIPTION:📍 Mjr. Šandery\, Náměšť nad Oslavou\, Třebíč\n\n🚒 CAS (HS Náměš
+ ť nad Oslavou)
 END:VEVENT
 END:VCALENDAR
