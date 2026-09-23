@@ -736,9 +736,10 @@ SUMMARY:🔥 budova - Ledeč nad Sázavou
 LOCATION:Pivovarská\, Ledeč nad Sázavou
 GEO:49.697300;15.279976
 URL:geo:49.697300,15.279976
-DESCRIPTION:📍 Pivovarská\, Ledeč nad Sázavou\, Havlíčkův Brod\n\n🚒 CAS (HS 
- Ledeč nad Sázavou)\n🚒 CAS (HS Světlá nad Sázavou)\n🚒 CAS (Kožlí)\n🚒 CAS (L
- edeč nad Sázavou)\n🚒 vyšetřovací automobil (ÚO Havlíčkův Brod)
+DESCRIPTION:📍 Pivovarská\, Ledeč nad Sázavou\, Havlíčkův Brod\n💬 Požár dige
+ stoře. Provedena lokalizace a likvidace požáru.\n\n🚒 CAS (HS Ledeč nad Sáz
+ avou)\n🚒 CAS (HS Světlá nad Sázavou)\n🚒 CAS (Kožlí)\n🚒 CAS (Ledeč nad Sáza
+ vou)\n🚒 vyšetřovací automobil (ÚO Havlíčkův Brod)
 END:VEVENT
 BEGIN:VEVENT
 UID:420035061
@@ -749,7 +750,9 @@ SUMMARY:🚗 dopravní nehoda - Radostín
 LOCATION:Radostín
 GEO:49.658334;15.547915
 URL:geo:49.658334,15.547915
-DESCRIPTION:📍 Radostín\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)
+DESCRIPTION:📍 Radostín\, Havlíčkův Brod\n💬 DN 1 OA\, NA a dodávky se zraněn
+ ím jedné osoby. Provedena PPO. Zajištění místa události.\n\n🚒 CAS (CHS Hav
+ líčkův Brod)
 END:VEVENT
 BEGIN:VEVENT
 UID:420038061
@@ -774,5 +777,17 @@ GEO:49.205139;16.128686
 URL:geo:49.205139,16.128686
 DESCRIPTION:📍 Vícenice u Náměště nad Oslavou\, Třebíč\n\n🚒 CAS (HS Náměšť n
  ad Oslavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:420043061
+DTSTART:20260923T093632Z
+DTEND:20260923T103632Z
+DTSTAMP:20260923T093632Z
+SUMMARY:🚑 otevření/asistence - Telč
+LOCATION:Telč
+GEO:49.185693;15.465459
+URL:geo:49.185693,15.465459
+DESCRIPTION:📍 Telč-Štěpnice\, Telč\, Jihlava\n💬 Otevření OA.\n\n🚒 CAS (HS T
+ elč)
 END:VEVENT
 END:VCALENDAR
