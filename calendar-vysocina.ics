@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:419933061
-DTSTART:20260921T104548Z
-DTEND:20260921T114548Z
-DTSTAMP:20260921T104548Z
-SUMMARY:🚗 bez zranění - Skorotice
-LOCATION:Skorotice
-GEO:49.469499;16.357892
-URL:geo:49.469499,16.357892
-DESCRIPTION:📍 Skorotice\, Žďár nad Sázavou\n💬 NA mimo komunikaci\, proveden
- o zabezpečení místa nehody\, bez zranění.\n\n🚒 CAS (HS Bystřice nad Pernšt
- ejnem)
-END:VEVENT
-BEGIN:VEVENT
 UID:419935061
 DTSTART:20260921T110506Z
 DTEND:20260921T120506Z
@@ -699,8 +686,10 @@ SUMMARY:☣️ olej/PHM - Čejov
 LOCATION:Čejov
 GEO:49.563725;15.378655
 URL:geo:49.563725,15.378655
-DESCRIPTION:📍 Čejov\, Pelhřimov\n\n🚒 CAS (HS Humpolec)\n🚒 automobilový nosi
- č kontejnerů (CHS Pelhřimov)\n🚒 kontejner technický (CHS Pelhřimov)
+DESCRIPTION:📍 Čejov\, Pelhřimov\n💬 Likvidace úniku PHM z pozemní komunikace
+  po technické závadě na NA pomocí sorbentu.\n\n🚒 CAS (HS Humpolec)\n🚒 auto
+ mobilový nosič kontejnerů (CHS Pelhřimov)\n🚒 kontejner technický (CHS Pelh
+ řimov)
 END:VEVENT
 BEGIN:VEVENT
 UID:420031061
@@ -795,10 +784,12 @@ UID:420048061
 DTSTART:20260923T102202Z
 DTEND:20260923T112202Z
 DTSTAMP:20260923T102202Z
-SUMMARY:🔥 Hrotovice
+SUMMARY:⚠️ planý poplach - Hrotovice
 LOCATION:Sokolská\, Hrotovice
 GEO:49.105475;16.062622
 URL:geo:49.105475,16.062622
-DESCRIPTION:📍 Sokolská\, Hrotovice\, Třebíč\n\n🚒 CAS (HS Hrotovice)
+DESCRIPTION:📍 Sokolská\, Hrotovice\, Třebíč\n💬 Požár ohlášený systémem elek
+ trické požární signalizace. Průzkumem bylo zjištěno\, že se jedná o planý 
+ poplach.\n\n🚒 CAS (HS Hrotovice)
 END:VEVENT
 END:VCALENDAR
