@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:419952061
-DTSTART:20260921T145111Z
-DTEND:20260921T155111Z
-DTSTAMP:20260921T145111Z
-SUMMARY:🛠️ strom - Polná
-LOCATION:Resslova\, Polná
-GEO:49.489382;15.704147
-URL:geo:49.489382,15.704147
-DESCRIPTION:📍 Resslova\, Polná\, Jihlava\n💬 Odstranění stromu.\n\n🚒 CAS (Po
- lná)
-END:VEVENT
-BEGIN:VEVENT
 UID:419953061
 DTSTART:20260921T151505Z
 DTEND:20260921T161505Z
@@ -739,8 +727,9 @@ SUMMARY:🚗 úklid místa - Světlá nad Sázavou
 LOCATION:Světlá nad Sázavou
 GEO:49.685090;15.337002
 URL:geo:49.685090,15.337002
-DESCRIPTION:📍 Benetice\, Světlá nad Sázavou\, Havlíčkův Brod\n\n🚒 CAS (HS S
- větlá nad Sázavou)
+DESCRIPTION:📍 Benetice\, Světlá nad Sázavou\, Havlíčkův Brod\n💬 DN motocykl
+ u\, bez zranění\, s únikem provozních kapalin. Zajištění místa události.\n
+ \n🚒 CAS (HS Světlá nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:420064061
