@@ -702,4 +702,41 @@ URL:geo:49.602706,15.581734
 DESCRIPTION:📍 Nádražní\, Havlíčkův Brod\n💬 Otevření dveří u ordinace.\n\n🚒 
  CAS (CHS Havlíčkův Brod)
 END:VEVENT
+BEGIN:VEVENT
+UID:420030061
+DTSTART:20260923T081343Z
+DTEND:20260923T091343Z
+DTSTAMP:20260923T081343Z
+SUMMARY:☣️ olej/PHM - Čejov
+LOCATION:Čejov
+GEO:49.563725;15.378655
+URL:geo:49.563725,15.378655
+DESCRIPTION:📍 Čejov\, Pelhřimov\n\n🚒 CAS (HS Humpolec)\n🚒 automobilový nosi
+ č kontejnerů (CHS Pelhřimov)\n🚒 kontejner technický (CHS Pelhřimov)
+END:VEVENT
+BEGIN:VEVENT
+UID:420031061
+DTSTART:20260923T081707Z
+DTEND:20260923T091707Z
+DTSTAMP:20260923T081707Z
+SUMMARY:☣️ olej/PHM - Nové Město na Moravě
+LOCATION:Masarykova\, Nové Město na Moravě
+GEO:49.565746;16.080267
+URL:geo:49.565746,16.080267
+DESCRIPTION:📍 Masarykova\, Nové Město na Moravě\, Žďár nad Sázavou\n\n🚒 CAS
+  (CHS Žďár nad Sázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:420032061
+DTSTART:20260923T081807Z
+DTEND:20260923T091807Z
+DTSTAMP:20260923T081807Z
+SUMMARY:🔥 budova - Ledeč nad Sázavou
+LOCATION:Pivovarská\, Ledeč nad Sázavou
+GEO:49.697300;15.279976
+URL:geo:49.697300,15.279976
+DESCRIPTION:📍 Pivovarská\, Ledeč nad Sázavou\, Havlíčkův Brod\n\n🚒 CAS (HS 
+ Ledeč nad Sázavou)\n🚒 CAS (HS Světlá nad Sázavou)\n🚒 CAS (Kožlí)\n🚒 CAS (L
+ edeč nad Sázavou)\n🚒 vyšetřovací automobil (ÚO Havlíčkův Brod)
+END:VEVENT
 END:VCALENDAR
