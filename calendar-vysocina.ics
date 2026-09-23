@@ -751,8 +751,9 @@ SUMMARY:🔥 vozidlo - Brtnice
 LOCATION:Brtnice
 GEO:49.334412;15.641715
 URL:geo:49.334412,15.641715
-DESCRIPTION:📍 Příseka\, Brtnice\, Jihlava\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CH
- S Jihlava)\n🚒 vyšetřovací automobil (ÚO Jihlava)
+DESCRIPTION:📍 Příseka\, Brtnice\, Jihlava\n💬 Požár OA\, bez zranění. Jednot
+ ka provedla lokalizaci a likvidaci.\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jih
+ lava)\n🚒 vyšetřovací automobil (ÚO Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:420048061
@@ -777,5 +778,18 @@ LOCATION:Bohuslavice
 GEO:49.149048;15.576727
 URL:geo:49.149048,15.576727
 DESCRIPTION:📍 Bohuslavice\, Jihlava\n\n🚒 CAS (HS Telč)
+END:VEVENT
+BEGIN:VEVENT
+UID:420051061
+DTSTART:20260923T114551Z
+DTEND:20260923T124551Z
+DTSTAMP:20260923T114551Z
+SUMMARY:🔥 technologie - Dobronín
+LOCATION:Dobronín
+GEO:49.470531;15.660984
+URL:geo:49.470531,15.660984
+DESCRIPTION:📍 Dobronín\, Jihlava\n\n🚒 CAS (CHS Jihlava)\n🚒 AŽ (CHS Jihlava)
+ \n🚒 CAS (HS Polná)\n🚒 CAS (Dobronín)\n🚒 CAS (Polná)\n🚒 CAS (Štoky)\n🚒 vyše
+ třovací automobil (ÚO Jihlava)
 END:VEVENT
 END:VCALENDAR
