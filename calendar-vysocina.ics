@@ -5,30 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:420004061
-DTSTART:20260922T163431Z
-DTEND:20260922T173431Z
-DTSTAMP:20260922T163431Z
-SUMMARY:🛠️ ostatní - Ledeč nad Sázavou
-LOCATION:Komenského\, Ledeč nad Sázavou
-GEO:49.697823;15.276507
-URL:geo:49.697823,15.276507
-DESCRIPTION:📍 Komenského\, Ledeč nad Sázavou\, Havlíčkův Brod\n💬 Zajištění 
- prasklé vodovodní přípojky.\n\n🚒 CAS (HS Ledeč nad Sázavou)
-END:VEVENT
-BEGIN:VEVENT
-UID:420005061
-DTSTART:20260922T164237Z
-DTEND:20260922T174237Z
-DTSTAMP:20260922T164237Z
-SUMMARY:⚠️ planý poplach - Telč
-LOCATION:Slavatovská\, Telč
-GEO:49.186951;15.450777
-URL:geo:49.186951,15.450777
-DESCRIPTION:📍 Slavatovská\, Telč-Štěpnice\, Telč\, Jihlava\n💬 Planý poplach
- .\n\n🚒 CAS (HS Telč)
-END:VEVENT
-BEGIN:VEVENT
 UID:420006061
 DTSTART:20260922T171108Z
 DTEND:20260922T181108Z
@@ -483,8 +459,8 @@ SUMMARY:🚗 dopravní nehoda - Petrovice
 LOCATION:Petrovice
 GEO:49.235650;15.787597
 URL:geo:49.235650,15.787597
-DESCRIPTION:📍 Petrovice\, Třebíč\n💬 DN 1 OA\, 1 zraněná osoba\, Zajištění m
- ísta nehody.\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (Okříšky)
+DESCRIPTION:📍 Petrovice\, Třebíč\n💬 DN 1 OA\, jedna zraněná osoba\, Zajiště
+ ní místa nehody.\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (Okříšky)
 END:VEVENT
 BEGIN:VEVENT
 UID:420087061
@@ -495,7 +471,8 @@ SUMMARY:🚑 transport pacienta - Jihlava
 LOCATION:Březinova\, Jihlava
 GEO:49.404947;15.595076
 URL:geo:49.404947,15.595076
-DESCRIPTION:📍 Březinova\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+DESCRIPTION:📍 Březinova\, Jihlava\n💬 Transport pacienta pro ZZS.\n\n🚒 CAS (
+ CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:420089061
@@ -544,8 +521,9 @@ SUMMARY:🚗 dopravní nehoda - Náměšť nad Oslavou
 LOCATION:náměstí Míru\, Náměšť nad Oslavou
 GEO:49.206764;16.152784
 URL:geo:49.206764,16.152784
-DESCRIPTION:📍 náměstí Míru\, Náměšť nad Oslavou\, Třebíč\n💬 DN 2 dodávek\, 
- 1 zraněná osoba. zajištění místa nehody.\n\n🚒 CAS (HS Náměšť nad Oslavou)
+DESCRIPTION:📍 náměstí Míru\, Náměšť nad Oslavou\, Třebíč\n💬 DN 2 x dodávek\
+ , jedna zraněná osoba. zajištění místa nehody.\n\n🚒 CAS (HS Náměšť nad Osl
+ avou)
 END:VEVENT
 BEGIN:VEVENT
 UID:420095061
@@ -556,8 +534,9 @@ SUMMARY:🛠️ strom - Polná
 LOCATION:Polná
 GEO:49.480708;15.786977
 URL:geo:49.480708,15.786977
-DESCRIPTION:📍 Janovice\, Polná\, Jihlava\n\n🚒 CAS (HS Polná)\n🚒 automobilov
- á plošina do 30 m (HS Polná)\n🚒 pila řetězová (HS Polná) ×2
+DESCRIPTION:📍 Janovice\, Polná\, Jihlava\n💬 Odstranění stromu.\n\n🚒 CAS (HS
+  Polná)\n🚒 automobilová plošina do 30 m (HS Polná)\n🚒 pila řetězová (HS Po
+ lná) ×2
 END:VEVENT
 BEGIN:VEVENT
 UID:420097061
@@ -578,8 +557,8 @@ SUMMARY:🚗 dopravní nehoda - Slavíkov
 LOCATION:Slavíkov
 GEO:49.736857;15.773217
 URL:geo:49.736857,15.773217
-DESCRIPTION:📍 Štikov\, Slavíkov\, Havlíčkův Brod\n💬 DN 1 NA\, 1 zraněná oso
- ba.\n\n🚒 CAS (HS Chotěboř)\n🚒 CAS (HS Chotěboř)
+DESCRIPTION:📍 Štikov\, Slavíkov\, Havlíčkův Brod\n💬 DN NA\, 1 zraněná osoba
+ . Zajištění místa události.\n\n🚒 CAS (HS Chotěboř)\n🚒 CAS (HS Chotěboř)
 END:VEVENT
 BEGIN:VEVENT
 UID:420106061
@@ -602,9 +581,9 @@ SUMMARY:🚗 dopravní nehoda - Velké Meziříčí
 LOCATION:Jihlavská\, Velké Meziříčí
 GEO:49.359616;15.994939
 URL:geo:49.359616,15.994939
-DESCRIPTION:📍 Jihlavská\, Velké Meziříčí\, Žďár nad Sázavou\n💬 DN 2 OA\, do
- dávky a NA\, 2 zraněné osoby. Zajištění místa nehody\, poskytnutí první př
- edlékařské pomoci.\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)
+DESCRIPTION:📍 Jihlavská\, Velké Meziříčí\, Žďár nad Sázavou\n💬 DN 2 x OA\, 
+ dodávky a NA\, 2 zraněné osoby. Zajištění místa nehody.\n\n🚒 CAS (HS Velké
+  Meziříčí)\n🚒 RZA (HS Velké Meziříčí)
 END:VEVENT
 BEGIN:VEVENT
 UID:420109061
@@ -629,7 +608,8 @@ LOCATION:Víska
 GEO:49.768928;15.653631
 URL:geo:49.768928,15.653631
 DESCRIPTION:📍 Víska\, Havlíčkův Brod\n💬 Odstranění stromu.\n\n🚒 CAS (HS Cho
- těboř)\n🚒 automobilová plošina do 30 m (HS Chotěboř)
+ těboř)\n🚒 automobilová plošina do 30 m (HS Chotěboř)\n🚒 pila řetězová (HS 
+ Chotěboř)
 END:VEVENT
 BEGIN:VEVENT
 UID:420113061
@@ -640,7 +620,8 @@ SUMMARY:🚗 dopravní nehoda - Štoky
 LOCATION:Štoky
 GEO:49.478931;15.592378
 URL:geo:49.478931,15.592378
-DESCRIPTION:📍 Štoky\, Havlíčkův Brod\n\n🚒 CAS (CHS Jihlava)
+DESCRIPTION:📍 Štoky\, Havlíčkův Brod\n💬 DN 3 x OA\, bez zranění. Zajištění 
+ místa události.\n\n🚒 CAS (CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:420115061
@@ -651,7 +632,8 @@ SUMMARY:🚗 se zraněním - Žatec
 LOCATION:Žatec
 GEO:49.211553;15.508575
 URL:geo:49.211553,15.508575
-DESCRIPTION:📍 Žatec\, Jihlava\n\n🚒 CAS (HS Telč)
+DESCRIPTION:📍 Žatec\, Jihlava\n💬 DN OA mimo vozovku. Jedna zraněná osoba. Z
+ ajištění místa události.\n\n🚒 CAS (HS Telč)
 END:VEVENT
 BEGIN:VEVENT
 UID:420116061
@@ -662,7 +644,8 @@ SUMMARY:🛠️ otevření bytu/auta - Polná
 LOCATION:Husovo náměstí\, Polná
 GEO:49.486775;15.719087
 URL:geo:49.486775,15.719087
-DESCRIPTION:📍 Husovo náměstí\, Polná\, Jihlava\n\n🚒 CAS (HS Polná)
+DESCRIPTION:📍 Husovo náměstí\, Polná\, Jihlava\n💬 Otevření bytu.\n\n🚒 CAS (
+ HS Polná)
 END:VEVENT
 BEGIN:VEVENT
 UID:420117061
@@ -685,8 +668,8 @@ SUMMARY:🚗 bez zranění - Vystrkov
 LOCATION:Vystrkov
 GEO:49.525235;15.358281
 URL:geo:49.525235,15.358281
-DESCRIPTION:📍 Vystrkov\, Pelhřimov\n💬 DN 1 OA\, bez zranění.\n\n🚒 CAS (HS H
- umpolec)\n🚒 RZA (HS Humpolec)
+DESCRIPTION:📍 Vystrkov\, Pelhřimov\n💬 DN 1 OA\, bez zranění. Zajištění míst
+ a události.\n\n🚒 CAS (HS Humpolec)\n🚒 RZA (HS Humpolec)
 END:VEVENT
 BEGIN:VEVENT
 UID:420121061
@@ -697,8 +680,8 @@ SUMMARY:🚗 úklid místa - Humpolec
 LOCATION:Pelhřimovská\, Humpolec
 GEO:49.527164;15.349795
 URL:geo:49.527164,15.349795
-DESCRIPTION:📍 Pelhřimovská\, Humpolec\, Pelhřimov\n💬 DN 2 OA\, bez zranění.
-  Zajištění místa nehody.\n\n🚒 CAS (HS Humpolec)\n🚒 RZA (HS Humpolec)
+DESCRIPTION:📍 Pelhřimovská\, Humpolec\, Pelhřimov\n💬 DN 2 x OA\, bez zraněn
+ í. Zajištění místa nehody.\n\n🚒 CAS (HS Humpolec)\n🚒 RZA (HS Humpolec)
 END:VEVENT
 BEGIN:VEVENT
 UID:420122061
