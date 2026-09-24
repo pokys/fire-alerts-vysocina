@@ -722,11 +722,12 @@ UID:420109061
 DTSTART:20260924T090529Z
 DTEND:20260924T100529Z
 DTSTAMP:20260924T090529Z
-SUMMARY:🔥 tráva/plocha - Krahulov
+SUMMARY:⚠️ planý poplach - Krahulov
 LOCATION:Krahulov
 GEO:49.219004;15.812813
 URL:geo:49.219004,15.812813
-DESCRIPTION:📍 Krahulov\, Třebíč\n\n🚒 CAS (CHS Třebíč) ×2\n🚒 CAS (CHS Třebíč
+DESCRIPTION:📍 Krahulov\, Třebíč\n💬 Ohlášen požár\, průzkumem zjištěno\, že 
+ se jedná o nenahlášené pálení.\n\n🚒 CAS (CHS Třebíč) ×2\n🚒 CAS (CHS Třebíč
  ) ×2\n🚒 osobní automobil (Krahulov)\n🚒 CAS (Okříšky) ×2\n🚒 CAS (Stařeč)
 END:VEVENT
 BEGIN:VEVENT
