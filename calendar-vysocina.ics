@@ -681,8 +681,8 @@ SUMMARY:🛠️ strom - Víska
 LOCATION:Víska
 GEO:49.769100;15.656410
 URL:geo:49.769100,15.656410
-DESCRIPTION:📍 Víska\, Havlíčkův Brod\n\n🚒 CAS (HS Chotěboř)\n🚒 automobilová
-  plošina do 30 m (HS Chotěboř)
+DESCRIPTION:📍 Víska\, Havlíčkův Brod\n💬 Odstranění stromu.\n\n🚒 CAS (HS Cho
+ těboř)\n🚒 automobilová plošina do 30 m (HS Chotěboř)
 END:VEVENT
 BEGIN:VEVENT
 UID:420094061
@@ -753,5 +753,29 @@ GEO:49.359616;15.994939
 URL:geo:49.359616,15.994939
 DESCRIPTION:📍 Jihlavská\, Velké Meziříčí\, Žďár nad Sázavou\n\n🚒 CAS (HS Ve
  lké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)
+END:VEVENT
+BEGIN:VEVENT
+UID:420109061
+DTSTART:20260924T090529Z
+DTEND:20260924T100529Z
+DTSTAMP:20260924T090529Z
+SUMMARY:🔥 tráva/plocha - Krahulov
+LOCATION:Krahulov
+GEO:49.219004;15.812813
+URL:geo:49.219004,15.812813
+DESCRIPTION:📍 Krahulov\, Třebíč\n\n🚒 CAS (CHS Třebíč) ×2\n🚒 CAS (CHS Třebíč
+ ) ×2\n🚒 osobní automobil (Krahulov)\n🚒 CAS (Okříšky) ×2\n🚒 CAS (Stařeč)
+END:VEVENT
+BEGIN:VEVENT
+UID:420112061
+DTSTART:20260924T091237Z
+DTEND:20260924T101237Z
+DTSTAMP:20260924T091237Z
+SUMMARY:🛠️ strom - Víska
+LOCATION:Víska
+GEO:49.768928;15.653631
+URL:geo:49.768928,15.653631
+DESCRIPTION:📍 Víska\, Havlíčkův Brod\n\n🚒 automobilová plošina do 30 m (HS 
+ Chotěboř)\n🚒 automobilová plošina do 30 m (HS Chotěboř)
 END:VEVENT
 END:VCALENDAR
