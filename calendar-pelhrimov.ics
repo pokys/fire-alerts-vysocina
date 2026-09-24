@@ -104,4 +104,16 @@ DESCRIPTION:📍 Vojslavice\, Pelhřimov\n💬 DN 1 OA. Bez zranění. Provedeno
  tipožární opatření. Úklid vozovky.\n\n🚒 CAS (HS Humpolec)\n🚒 RZA (HS Humpo
  lec)\n🚒 CAS (HS Zruč nad Sázavou)\n🚒 RZA (HS Zruč nad Sázavou)
 END:VEVENT
+BEGIN:VEVENT
+UID:420091061
+DTSTART:20260924T054049Z
+DTEND:20260924T064049Z
+DTSTAMP:20260924T054049Z
+SUMMARY:🚑 transport pacienta - Počátky
+LOCATION:Nádražní\, Počátky
+GEO:49.257939;15.234384
+URL:geo:49.257939,15.234384
+DESCRIPTION:📍 Nádražní\, Počátky\, Pelhřimov\n\n🚒 CAS (HS Kamenice nad Lipo
+ u)\n🚒 CAS (Počátky)
+END:VEVENT
 END:VCALENDAR
