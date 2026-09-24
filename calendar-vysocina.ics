@@ -5,33 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:419986061
-DTSTART:20260922T095125Z
-DTEND:20260922T105125Z
-DTSTAMP:20260922T095125Z
-SUMMARY:🚑 otevření/asistence - Žďár nad Sázavou
-LOCATION:Kavánova\, Žďár nad Sázavou
-GEO:49.562047;15.953667
-URL:geo:49.562047,15.953667
-DESCRIPTION:📍 Kavánova\, Žďár nad Sázavou 7\, Žďár nad Sázavou\n💬 Otevření 
- bytu\, uvnitř zraněná osoba.\n\n🚒 CAS (CHS Žďár nad Sázavou)
-END:VEVENT
-BEGIN:VEVENT
-UID:419989061
-DTSTART:20260922T095939Z
-DTEND:20260922T105939Z
-DTSTAMP:20260922T095939Z
-SUMMARY:🔥 Havlíčkův Brod
-LOCATION:Havířská\, Havlíčkův Brod
-GEO:49.594128;15.588833
-URL:geo:49.594128,15.588833
-DESCRIPTION:📍 Havířská\, Havlíčkův Brod\n💬 Požár elektroinstalace. Proveden
- a lokalizace a likvidace požáru. Odvětrání zakouřených prostor.\n\n🚒 CAS (
- CHS Havlíčkův Brod) ×2\n🚒 automobilová plošina do 30 m (CHS Havlíčkův Brod
- )\n🚒 CAS (Havlíčkův Brod-Perknov)\n🚒 DA (Havlíčkův Brod-Mírovka)\n🚒 vyšetř
- ovací automobil (ÚO Havlíčkův Brod)
-END:VEVENT
-BEGIN:VEVENT
 UID:419990061
 DTSTART:20260922T103607Z
 DTEND:20260922T113607Z
@@ -739,7 +712,8 @@ SUMMARY:🛠️ strom - Víska
 LOCATION:Víska
 GEO:49.768928;15.653631
 URL:geo:49.768928,15.653631
-DESCRIPTION:📍 Víska\, Havlíčkův Brod\n\n🚒 automobilová plošina do 30 m (HS 
- Chotěboř)\n🚒 automobilová plošina do 30 m (HS Chotěboř)
+DESCRIPTION:📍 Víska\, Havlíčkův Brod\n\n🚒 CAS (HS Chotěboř)\n🚒 automobilová
+  plošina do 30 m (HS Chotěboř)\n🚒 automobilová plošina do 30 m (HS Chotěbo
+ ř)
 END:VEVENT
 END:VCALENDAR
