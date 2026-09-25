@@ -742,7 +742,30 @@ SUMMARY:🛠️ obtížný hmyz - Chotěboř
 LOCATION:Hromádky z Jistebnice\, Chotěboř
 GEO:49.720096;15.662935
 URL:geo:49.720096,15.662935
-DESCRIPTION:📍 Hromádky z Jistebnice\, Chotěboř\, Havlíčkův Brod\n\n🚒 CAS (H
- S Chotěboř)
+DESCRIPTION:📍 Hromádky z Jistebnice\, Chotěboř\, Havlíčkův Brod\n💬 Likvidac
+ e obtížného hmyzu.\n\n🚒 CAS (HS Chotěboř)
+END:VEVENT
+BEGIN:VEVENT
+UID:420153061
+DTSTART:20260925T075212Z
+DTEND:20260925T085212Z
+DTSTAMP:20260925T075212Z
+SUMMARY:🚑 otevření/asistence - Jihlava
+LOCATION:Březinova\, Jihlava
+GEO:49.404946;15.595063
+URL:geo:49.404946,15.595063
+DESCRIPTION:📍 Březinova\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+END:VEVENT
+BEGIN:VEVENT
+UID:420155061
+DTSTART:20260925T075807Z
+DTEND:20260925T085807Z
+DTSTAMP:20260925T075807Z
+SUMMARY:🛠️ strom - Zhoř
+LOCATION:Zhoř
+GEO:49.442042;15.769307
+URL:geo:49.442042,15.769307
+DESCRIPTION:📍 Zhoř\, Jihlava\n\n🚒 CAS (HS Polná)\n🚒 automobilová plošina do
+  30 m (HS Polná)
 END:VEVENT
 END:VCALENDAR
