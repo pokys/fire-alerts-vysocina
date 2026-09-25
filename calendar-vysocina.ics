@@ -5,20 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:420051061
-DTSTART:20260923T114551Z
-DTEND:20260923T124551Z
-DTSTAMP:20260923T114551Z
-SUMMARY:🔥 technologie - Dobronín
-LOCATION:Dobronín
-GEO:49.470204;15.660627
-URL:geo:49.470204,15.660627
-DESCRIPTION:📍 Dobronín\, Jihlava\n💬 Požár plachty na zásobníku s plynem. Pr
- ovedena lokalizace a likvidace požáru pomocí PHP.\n\n🚒 CAS (CHS Jihlava)\n
- 🚒 AŽ (CHS Jihlava)\n🚒 CAS (HS Polná)\n🚒 CAS (Dobronín)\n🚒 CAS (Polná)\n🚒 C
- AS (Štoky)\n🚒 vyšetřovací automobil (ÚO Jihlava)
-END:VEVENT
-BEGIN:VEVENT
 UID:420054061
 DTSTART:20260923T121316Z
 DTEND:20260923T131316Z
@@ -566,7 +552,8 @@ SUMMARY:🛠️ ostatní - Jihlava
 LOCATION:Riegrova\, Jihlava
 GEO:49.412856;15.594975
 URL:geo:49.412856,15.594975
-DESCRIPTION:📍 Riegrova\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+DESCRIPTION:📍 Riegrova\, Jihlava\n💬 Pomoc imobilní osobě.\n\n🚒 CAS (CHS Jih
+ lava)
 END:VEVENT
 BEGIN:VEVENT
 UID:420143061
@@ -577,8 +564,8 @@ SUMMARY:🛠️ strom - Zhoř
 LOCATION:Zhoř
 GEO:49.441677;15.767527
 URL:geo:49.441677,15.767527
-DESCRIPTION:📍 Zhoř\, Jihlava\n\n🚒 CAS (HS Polná)\n🚒 automobilová plošina do
-  30 m (HS Polná)
+DESCRIPTION:📍 Zhoř\, Jihlava\n💬 Odstranění nalomené větve.\n\n🚒 CAS (HS Pol
+ ná)\n🚒 automobilová plošina do 30 m (HS Polná)
 END:VEVENT
 BEGIN:VEVENT
 UID:420146061
@@ -626,7 +613,8 @@ SUMMARY:🚑 otevření/asistence - Jihlava
 LOCATION:Březinova\, Jihlava
 GEO:49.404946;15.595063
 URL:geo:49.404946,15.595063
-DESCRIPTION:📍 Březinova\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+DESCRIPTION:📍 Březinova\, Jihlava\n💬 Pomoc imobilní osobě.\n\n🚒 CAS (CHS Ji
+ hlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:420155061
@@ -637,8 +625,8 @@ SUMMARY:🛠️ strom - Zhoř
 LOCATION:Zhoř
 GEO:49.442042;15.769307
 URL:geo:49.442042,15.769307
-DESCRIPTION:📍 Zhoř\, Jihlava\n\n🚒 CAS (HS Polná)\n🚒 automobilová plošina do
-  30 m (HS Polná)
+DESCRIPTION:📍 Zhoř\, Jihlava\n💬 Odstranění nalomené větve.\n\n🚒 CAS (HS Pol
+ ná)\n🚒 automobilová plošina do 30 m (HS Polná)
 END:VEVENT
 BEGIN:VEVENT
 UID:420156061
@@ -650,8 +638,8 @@ LOCATION:Malá branka\, Bystřice nad Pernštejnem
 GEO:49.526498;16.257333
 URL:geo:49.526498,16.257333
 DESCRIPTION:📍 Malá branka\, Bystřice nad Pernštejnem\, Žďár nad Sázavou\n💬 
- DN OA a invalidního vozíku\, 1 zraněná osoba.\n\n🚒 CAS (HS Bystřice nad Pe
- rnštejnem)
+ DN OA a invalidního vozíku\, jedna zraněná osoba. Jedna zraněná osoba.\n\n
+ 🚒 CAS (HS Bystřice nad Pernštejnem)
 END:VEVENT
 BEGIN:VEVENT
 UID:420160061
