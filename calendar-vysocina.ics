@@ -718,6 +718,19 @@ LOCATION:Pavlovická\, Jimramov
 GEO:49.634713;16.223420
 URL:geo:49.634713,16.223420
 DESCRIPTION:📍 Pavlovická\, Jimramov\, Žďár nad Sázavou\n\n🚒 CAS (HS Bystřic
- e nad Pernštejnem)\n🚒 CAS (Jimramov)
+ e nad Pernštejnem)\n🚒 DA (Jimramov)\n🚒 CAS (Jimramov)\n🚒 vyšetřovací autom
+ obil (ÚO Žďár nad Sázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:420148061
+DTSTART:20260925T071716Z
+DTEND:20260925T081716Z
+DTSTAMP:20260925T071716Z
+SUMMARY:🛠️ strom - Třešť
+LOCATION:Josefa Hory\, Třešť
+GEO:49.286860;15.470564
+URL:geo:49.286860,15.470564
+DESCRIPTION:📍 Josefa Hory\, Třešť\, Jihlava\n\n🚒 CAS (HS Třešť)\n🚒 automobi
+ lová plošina do 30 m (HS Třešť)
 END:VEVENT
 END:VCALENDAR
