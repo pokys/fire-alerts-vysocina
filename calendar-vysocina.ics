@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:420038061
-DTSTART:20260923T085735Z
-DTEND:20260923T095735Z
-DTSTAMP:20260923T085735Z
-SUMMARY:🚑 otevření/asistence - Ledeč nad Sázavou
-LOCATION:Na skalce\, Ledeč nad Sázavou
-GEO:49.691777;15.278827
-URL:geo:49.691777,15.278827
-DESCRIPTION:📍 Na skalce\, Ledeč nad Sázavou\, Havlíčkův Brod\n💬 Otevření ro
- dinného domu.\n\n🚒 CAS (HS Ledeč nad Sázavou)
-END:VEVENT
-BEGIN:VEVENT
 UID:420040061
 DTSTART:20260923T091041Z
 DTEND:20260923T101041Z
@@ -663,9 +651,9 @@ SUMMARY:🔥 budova - Jimramov
 LOCATION:Pavlovická\, Jimramov
 GEO:49.634713;16.223420
 URL:geo:49.634713,16.223420
-DESCRIPTION:📍 Pavlovická\, Jimramov\, Žďár nad Sázavou\n\n🚒 CAS (HS Bystřic
- e nad Pernštejnem)\n🚒 DA (Jimramov)\n🚒 CAS (Jimramov)\n🚒 vyšetřovací autom
- obil (ÚO Žďár nad Sázavou)
+DESCRIPTION:📍 Pavlovická\, Jimramov\, Žďár nad Sázavou\n💬 Požár trouby.\n\n
+ 🚒 CAS (HS Bystřice nad Pernštejnem)\n🚒 DA (Jimramov)\n🚒 CAS (Jimramov)\n🚒 
+ vyšetřovací automobil (ÚO Žďár nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:420148061
