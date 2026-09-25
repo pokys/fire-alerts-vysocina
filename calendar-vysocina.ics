@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:420048061
-DTSTART:20260923T102202Z
-DTEND:20260923T112202Z
-DTSTAMP:20260923T102202Z
-SUMMARY:⚠️ planý poplach - Hrotovice
-LOCATION:Sokolská\, Hrotovice
-GEO:49.105475;16.062622
-URL:geo:49.105475,16.062622
-DESCRIPTION:📍 Sokolská\, Hrotovice\, Třebíč\n💬 Požár ohlášený systémem elek
- trické požární signalizace. Průzkumem bylo zjištěno\, že se jedná o planý 
- poplach.\n\n🚒 CAS (HS Hrotovice)
-END:VEVENT
-BEGIN:VEVENT
 UID:420050061
 DTSTART:20260923T113945Z
 DTEND:20260923T123945Z
@@ -705,11 +692,11 @@ UID:420166061
 DTSTART:20260925T101214Z
 DTEND:20260925T111214Z
 DTSTAMP:20260925T101214Z
-SUMMARY:🔥 vozidlo - Velké Meziříčí
+SUMMARY:🛠️ ostatní - Velké Meziříčí
 LOCATION:Velké Meziříčí
-GEO:49.357396;16.023191
-URL:geo:49.357396,16.023191
-DESCRIPTION:📍 Velké Meziříčí\, Žďár nad Sázavou\n\n🚒 CAS (HS Velké Meziříčí
- )\n🚒 RZA (HS Velké Meziříčí)
+GEO:49.353681;16.032830
+URL:geo:49.353681,16.032830
+DESCRIPTION:📍 Velké Meziříčí\, Žďár nad Sázavou\n💬 Technická závada na NA.\
+ n\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)
 END:VEVENT
 END:VCALENDAR
