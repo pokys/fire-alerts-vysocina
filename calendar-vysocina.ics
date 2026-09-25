@@ -565,7 +565,8 @@ SUMMARY:🚗 dopravní nehoda - Žďár nad Sázavou
 LOCATION:Žďár nad Sázavou
 GEO:49.608705;15.933516
 URL:geo:49.608705,15.933516
-DESCRIPTION:💬 DN 3 OA\, 1 zraněná osoba.\n\n🚒 CAS (CHS Žďár nad Sázavou)
+DESCRIPTION:💬 DN 3 x OA\, jedna zraněná osoba. Zajištění místa události.\n\
+ n🚒 CAS (CHS Žďár nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:420166061
@@ -600,7 +601,8 @@ SUMMARY:🚗 dopravní nehoda - Čikov
 LOCATION:Čikov
 GEO:49.254621;16.134464
 URL:geo:49.254621,16.134464
-DESCRIPTION:📍 Čikov\, Třebíč\n\n🚒 CAS (HS Náměšť nad Oslavou)
+DESCRIPTION:📍 Čikov\, Třebíč\n💬 DN 2 OA jedna zraněná osoba. Zajištění míst
+ a události.\n\n🚒 CAS (HS Náměšť nad Oslavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:420179061
@@ -634,7 +636,8 @@ SUMMARY:🚗 dopravní nehoda - Měšín
 LOCATION:Měšín
 GEO:49.434612;15.647125
 URL:geo:49.434612,15.647125
-DESCRIPTION:📍 Měšín\, Jihlava\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihlava)\n
- 🚒 účelový automobil do 3500 kg (CHS Jihlava)
+DESCRIPTION:📍 Měšín\, Jihlava\n💬 DN 2 x OA\, jedna zraněná osoba. Zajištění
+  místa události.\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihlava)\n🚒 účelový au
+ tomobil do 3500 kg (CHS Jihlava)
 END:VEVENT
 END:VCALENDAR
