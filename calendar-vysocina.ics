@@ -593,4 +593,16 @@ URL:geo:49.357816,16.002591
 DESCRIPTION:📍 U Světlé\, Velké Meziříčí\, Žďár nad Sázavou\n💬 Transport pac
  ineta na žádost ZZS.\n\n🚒 CAS (HS Velké Meziříčí)
 END:VEVENT
+BEGIN:VEVENT
+UID:420190061
+DTSTART:20260925T221947Z
+DTEND:20260925T231947Z
+DTSTAMP:20260925T221947Z
+SUMMARY:🔥 vozidlo - Meziříčko
+LOCATION:Meziříčko
+GEO:49.407524;15.804530
+URL:geo:49.407524,15.804530
+DESCRIPTION:📍 Meziříčko\, Žďár nad Sázavou\n\n🚒 CAS (CHS Jihlava)\n🚒 účelov
+ ý automobil do 3500 kg (CHS Jihlava)
+END:VEVENT
 END:VCALENDAR
