@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:420064061
-DTSTART:20260923T140203Z
-DTEND:20260923T150203Z
-DTSTAMP:20260923T140203Z
-SUMMARY:🛠️ otevření bytu/auta - Chotěboř
-LOCATION:Smetanova\, Chotěboř
-GEO:49.719683;15.673391
-URL:geo:49.719683,15.673391
-DESCRIPTION:📍 Smetanova\, Chotěboř\, Havlíčkův Brod\n💬 Otevření bytu.\n\n🚒 
- CAS (HS Chotěboř)
-END:VEVENT
-BEGIN:VEVENT
 UID:420066061
 DTSTART:20260923T141902Z
 DTEND:20260923T151902Z
@@ -503,7 +491,7 @@ LOCATION:Zhoř
 GEO:49.441677;15.767527
 URL:geo:49.441677,15.767527
 DESCRIPTION:📍 Zhoř\, Jihlava\n💬 Odstranění nalomené větve.\n\n🚒 CAS (HS Pol
- ná)\n🚒 automobilová plošina do 30 m (HS Polná)
+ ná)\n🚒 automobilová plošina do 30 m (HS Polná)\n🚒 pila řetězová (HS Polná)
 END:VEVENT
 BEGIN:VEVENT
 UID:420146061
