@@ -733,4 +733,16 @@ URL:geo:49.286860,15.470564
 DESCRIPTION:📍 Josefa Hory\, Třešť\, Jihlava\n\n🚒 CAS (HS Třešť)\n🚒 automobi
  lová plošina do 30 m (HS Třešť)
 END:VEVENT
+BEGIN:VEVENT
+UID:420150061
+DTSTART:20260925T074019Z
+DTEND:20260925T084019Z
+DTSTAMP:20260925T074019Z
+SUMMARY:🛠️ obtížný hmyz - Chotěboř
+LOCATION:Hromádky z Jistebnice\, Chotěboř
+GEO:49.720096;15.662935
+URL:geo:49.720096,15.662935
+DESCRIPTION:📍 Hromádky z Jistebnice\, Chotěboř\, Havlíčkův Brod\n\n🚒 CAS (H
+ S Chotěboř)
+END:VEVENT
 END:VCALENDAR
