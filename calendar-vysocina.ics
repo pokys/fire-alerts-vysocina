@@ -5,32 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:420093061
-DTSTART:20260924T061806Z
-DTEND:20260924T071806Z
-DTSTAMP:20260924T061806Z
-SUMMARY:🛠️ strom - Víska
-LOCATION:Víska
-GEO:49.769100;15.656410
-URL:geo:49.769100,15.656410
-DESCRIPTION:📍 Víska\, Havlíčkův Brod\n💬 Odstranění stromu.\n\n🚒 CAS (HS Cho
- těboř)\n🚒 automobilová plošina do 30 m (HS Chotěboř)\n🚒 pila řetězová (HS 
- Chotěboř) ×2
-END:VEVENT
-BEGIN:VEVENT
-UID:420094061
-DTSTART:20260924T061919Z
-DTEND:20260924T071919Z
-DTSTAMP:20260924T061919Z
-SUMMARY:🚗 dopravní nehoda - Náměšť nad Oslavou
-LOCATION:náměstí Míru\, Náměšť nad Oslavou
-GEO:49.206764;16.152784
-URL:geo:49.206764,16.152784
-DESCRIPTION:📍 náměstí Míru\, Náměšť nad Oslavou\, Třebíč\n💬 DN 2 x dodávek\
- , jedna zraněná osoba. zajištění místa nehody.\n\n🚒 CAS (HS Náměšť nad Osl
- avou)
-END:VEVENT
-BEGIN:VEVENT
 UID:420095061
 DTSTART:20260924T063320Z
 DTEND:20260924T073320Z
