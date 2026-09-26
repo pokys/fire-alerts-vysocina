@@ -452,11 +452,23 @@ UID:420216061
 DTSTART:20260926T163300Z
 DTEND:20260926T173300Z
 DTSTAMP:20260926T163300Z
-SUMMARY:🔥 Havlíčkův Brod
+SUMMARY:⚠️ planý poplach - Havlíčkův Brod
 LOCATION:Na Výšině\, Havlíčkův Brod
 GEO:49.617374;15.578104
 URL:geo:49.617374,15.578104
-DESCRIPTION:📍 Na Výšině\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 C
- AS (CHS Havlíčkův Brod)
+DESCRIPTION:📍 Na Výšině\, Havlíčkův Brod\n💬 Požár ohlášený systémem elektri
+ cké požární signalizace. Průzkumem bylo zjištěno\, že se jedná o planý pop
+ lach.\n\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 CAS (CHS Havlíčkův Brod)
+END:VEVENT
+BEGIN:VEVENT
+UID:420217061
+DTSTART:20260926T165636Z
+DTEND:20260926T175636Z
+DTSTAMP:20260926T165636Z
+SUMMARY:🛠️ ostatní - Výčapy
+LOCATION:Výčapy
+GEO:49.139443;15.892096
+URL:geo:49.139443,15.892096
+DESCRIPTION:📍 Výčapy\, Třebíč\n\n🚒 CAS (CHS Třebíč)
 END:VEVENT
 END:VCALENDAR
