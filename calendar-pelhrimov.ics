@@ -40,4 +40,16 @@ DESCRIPTION:📍 Obrataň\, Pelhřimov\n💬 DN 2 OA\, 3 zraněné osoby\, prove
  zajištění místa nehody\, poskytnuta předlékařská pomoc.\n\n🚒 CAS (HS Pacov
  )
 END:VEVENT
+BEGIN:VEVENT
+UID:420215061
+DTSTART:20260926T162853Z
+DTEND:20260926T172853Z
+DTSTAMP:20260926T162853Z
+SUMMARY:🛠️ obtížný hmyz - Želiv
+LOCATION:Želiv
+GEO:49.516216;15.227021
+URL:geo:49.516216,15.227021
+DESCRIPTION:📍 Želiv\, Pelhřimov\n💬 Odstranění obtížného hmyzu.\n\n🚒 CAS (Že
+ liv)
+END:VEVENT
 END:VCALENDAR
