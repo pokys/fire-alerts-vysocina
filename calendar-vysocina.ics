@@ -369,7 +369,7 @@ LOCATION:Bohdalín
 GEO:49.307294;15.018592
 URL:geo:49.307294,15.018592
 DESCRIPTION:📍 Bohdalín\, Pelhřimov\n💬 Likvidace obtížného hmyzu.\n\n🚒 CAS (
- HS Kamenice nad Lipou)
+ HS Kamenice nad Lipou)\n🚒 vysavač na hmyz (HS Kamenice nad Lipou)
 END:VEVENT
 BEGIN:VEVENT
 UID:420237061
@@ -380,7 +380,8 @@ SUMMARY:🛠️ obtížný hmyz - Sněžné
 LOCATION:Sněžné
 GEO:49.647767;16.078304
 URL:geo:49.647767,16.078304
-DESCRIPTION:📍 Samotín\, Sněžné\, Žďár nad Sázavou\n\n🚒 CAS (Sněžné)
+DESCRIPTION:📍 Samotín\, Sněžné\, Žďár nad Sázavou\n💬 Odstranění obtížného h
+ myzu\n\n🚒 CAS (Sněžné)
 END:VEVENT
 BEGIN:VEVENT
 UID:420238061
