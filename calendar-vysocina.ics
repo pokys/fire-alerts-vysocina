@@ -355,8 +355,9 @@ SUMMARY:🔥 les - Krucemburk
 LOCATION:Krucemburk
 GEO:49.692428;15.867859
 URL:geo:49.692428,15.867859
-DESCRIPTION:📍 Krucemburk\, Havlíčkův Brod\n\n🚒 CAS (Krucemburk)\n🚒 CAS (HS 
- Chotěboř)\n🚒 CAS (HS Chotěboř)
+DESCRIPTION:📍 Krucemburk\, Havlíčkův Brod\n💬 Požár hrabanky. Proveedna likv
+ idace požáru a prohlídka místa.\n\n🚒 CAS (Krucemburk)\n🚒 CAS (HS Chotěboř)
+ \n🚒 CAS (HS Chotěboř)
 END:VEVENT
 BEGIN:VEVENT
 UID:420236061
@@ -367,6 +368,7 @@ SUMMARY:🛠️ obtížný hmyz - Bohdalín
 LOCATION:Bohdalín
 GEO:49.307294;15.018592
 URL:geo:49.307294,15.018592
-DESCRIPTION:📍 Bohdalín\, Pelhřimov\n\n🚒 CAS (HS Kamenice nad Lipou)
+DESCRIPTION:📍 Bohdalín\, Pelhřimov\n💬 Likvidace obtížného hmyzu.\n\n🚒 CAS (
+ HS Kamenice nad Lipou)
 END:VEVENT
 END:VCALENDAR
