@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:420214061
-DTSTART:20260926T152344Z
-DTEND:20260926T162344Z
-DTSTAMP:20260926T152344Z
-SUMMARY:🚑 otevření/asistence - Jihlava
-LOCATION:S. K. Neumanna\, Jihlava
-GEO:49.407902;15.567662
-URL:geo:49.407902,15.567662
-DESCRIPTION:📍 S. K. Neumanna\, Jihlava\n💬 Otevření bytu.\n\n🚒 CAS (CHS Jihl
- ava)
-END:VEVENT
-BEGIN:VEVENT
 UID:420215061
 DTSTART:20260926T162853Z
 DTEND:20260926T172853Z
@@ -470,7 +458,9 @@ SUMMARY:🚗 dopravní nehoda - Štěpkov
 LOCATION:Štěpkov
 GEO:49.087192;15.638346
 URL:geo:49.087192,15.638346
-DESCRIPTION:📍 Štěpkov\, Třebíč\n\n🚒 CAS (HS Jemnice)
+DESCRIPTION:📍 Štěpkov\, Třebíč\n💬 DN 1 OA mimo vozovku\, 1 zraněná osoba. Z
+ abezpečení havarovaného vozidla proti požáru a proti úniku provozních kapa
+ lin.\n\n🚒 CAS (HS Jemnice)
 END:VEVENT
 BEGIN:VEVENT
 UID:420269061
