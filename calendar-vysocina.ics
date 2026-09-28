@@ -412,4 +412,16 @@ URL:geo:49.693660,15.802715
 DESCRIPTION:📍 V Údolí\, Ždírec nad Doubravou\, Havlíčkův Brod\n💬 Pročištění
   ucpané kanalizace.\n\n🚒 CAS (Ždírec nad Doubravou)
 END:VEVENT
+BEGIN:VEVENT
+UID:420271061
+DTSTART:20260928T193112Z
+DTEND:20260928T203112Z
+DTSTAMP:20260928T193112Z
+SUMMARY:🛠️ monitoring - Havlíčkův Brod
+LOCATION:Stromovka\, Havlíčkův Brod
+GEO:49.598958;15.569880
+URL:geo:49.598958,15.569880
+DESCRIPTION:📍 Stromovka\, Havlíčkův Brod\n💬 Porucha požárního hlásiče.\n\n🚒
+  CAS (CHS Havlíčkův Brod)
+END:VEVENT
 END:VCALENDAR
