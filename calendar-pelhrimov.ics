@@ -88,4 +88,17 @@ URL:geo:49.318959,15.328743
 DESCRIPTION:📍 nám. T. G. Masaryka\, Horní Cerekev\, Pelhřimov\n💬 Transport 
  pacienta na žádost ZZS.\n\n🚒 CAS (CHS Pelhřimov)\n🚒 DA (Horní Cerekev)
 END:VEVENT
+BEGIN:VEVENT
+UID:420299061
+DTSTART:20260929T092032Z
+DTEND:20260929T102032Z
+DTSTAMP:20260929T092032Z
+SUMMARY:🔥 les - Červená Řečice
+LOCATION:Červená Řečice
+GEO:49.482312;15.186089
+URL:geo:49.482312,15.186089
+DESCRIPTION:📍 Těchoraz\, Červená Řečice\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov
+ )\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (Červená Řečice)\n🚒 přívěs motorová stříka
+ čka (Červená Řečice-Těchoraz)
+END:VEVENT
 END:VCALENDAR
