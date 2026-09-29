@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:420222061
-DTSTART:20260927T045239Z
-DTEND:20260927T055239Z
-DTSTAMP:20260927T045239Z
-SUMMARY:🚑 otevření/asistence - Jihlava
-LOCATION:Erbenova\, Jihlava
-GEO:49.399458;15.576515
-URL:geo:49.399458,15.576515
-DESCRIPTION:📍 Erbenova\, Jihlava\n💬 Otevření bytu a pomoc ZZS s transportem
-  pacienta.\n\n🚒 CAS (CHS Jihlava)
-END:VEVENT
-BEGIN:VEVENT
 UID:420225061
 DTSTART:20260927T062134Z
 DTEND:20260927T072134Z
@@ -457,7 +445,8 @@ SUMMARY:🚗 dopravní nehoda - Jihlava
 LOCATION:Zborovská\, Jihlava
 GEO:49.399437;15.579323
 URL:geo:49.399437,15.579323
-DESCRIPTION:📍 Zborovská\, Jihlava\n💬 DN 2 OA\n\n🚒 CAS (CHS Jihlava)\n🚒 účel
- ový automobil do 3500 kg (CHS Jihlava)
+DESCRIPTION:📍 Zborovská\, Jihlava\n💬 DN 2 OA\, 1 zraněná osoba. Provedeno z
+ ajištění místa nehody.\n\n🚒 CAS (CHS Jihlava)\n🚒 účelový automobil do 3500
+  kg (CHS Jihlava)
 END:VEVENT
 END:VCALENDAR
