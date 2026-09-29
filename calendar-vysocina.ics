@@ -615,4 +615,15 @@ URL:geo:49.669018,15.395670
 DESCRIPTION:📍 Na Bradle\, Světlá nad Sázavou\, Havlíčkův Brod\n💬 Odstranění
   obtížného hmyzu.\n\n🚒 CAS (HS Světlá nad Sázavou)
 END:VEVENT
+BEGIN:VEVENT
+UID:420327061
+DTSTART:20260929T155328Z
+DTEND:20260929T165328Z
+DTSTAMP:20260929T155328Z
+SUMMARY:🛠️ obtížný hmyz - Rudolec
+LOCATION:Rudolec
+GEO:49.477893;15.830727
+URL:geo:49.477893,15.830727
+DESCRIPTION:📍 Rudolec\, Žďár nad Sázavou\n\n🚒 DA (Rudolec)
+END:VEVENT
 END:VCALENDAR
