@@ -449,4 +449,16 @@ DESCRIPTION:📍 Zborovská\, Jihlava\n💬 DN 2 OA\, 1 zraněná osoba. Provede
  ajištění místa nehody.\n\n🚒 CAS (CHS Jihlava)\n🚒 účelový automobil do 3500
   kg (CHS Jihlava)
 END:VEVENT
+BEGIN:VEVENT
+UID:420280061
+DTSTART:20260929T051926Z
+DTEND:20260929T061926Z
+DTSTAMP:20260929T051926Z
+SUMMARY:🚗 dopravní nehoda - Jamné
+LOCATION:Jamné
+GEO:49.432703;15.716625
+URL:geo:49.432703,15.716625
+DESCRIPTION:📍 Jamné\, Jihlava\n\n🚒 CAS (HS Polná)\n🚒 účelový automobil do 3
+ 500 kg (CHS Jihlava)
+END:VEVENT
 END:VCALENDAR
