@@ -566,4 +566,16 @@ DESCRIPTION:📍 Řípovská\, Borovina\, Třebíč\n\n🚒 CAS (CHS Třebíč)\
  S Třebíč)\n🚒 automobilová plošina do 30 m (CHS Třebíč)\n🚒 CAS (Rokytnice n
  ad Rokytnou)\n🚒 CAS (Stařeč)\n🚒 vyšetřovací automobil (ÚO Třebíč)
 END:VEVENT
+BEGIN:VEVENT
+UID:420311061
+DTSTART:20260929T105922Z
+DTEND:20260929T115922Z
+DTSTAMP:20260929T105922Z
+SUMMARY:🔥 tráva/plocha - Hodice
+LOCATION:Hodice
+GEO:49.270787;15.504859
+URL:geo:49.270787,15.504859
+DESCRIPTION:📍 Hodice\, Jihlava\n\n🚒 CAS (HS Třešť)\n🚒 CAS (Batelov)\n🚒 CAS 
+ (Hodice)\n🚒 CAS (HS Telč)
+END:VEVENT
 END:VCALENDAR
