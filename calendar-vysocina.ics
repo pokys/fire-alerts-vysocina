@@ -639,4 +639,16 @@ URL:geo:49.314452,16.029188
 DESCRIPTION:📍 Dolní Heřmanice\, Žďár nad Sázavou\n💬 Odstranění stromu.\n\n🚒
   CAS (HS Velké Meziříčí)\n🚒 pila řetězová (HS Velké Meziříčí)
 END:VEVENT
+BEGIN:VEVENT
+UID:420330061
+DTSTART:20260929T174047Z
+DTEND:20260929T184047Z
+DTSTAMP:20260929T174047Z
+SUMMARY:🛠️ ostatní - Ždírec nad Doubravou
+LOCATION:Ždírec nad Doubravou
+GEO:49.736241;15.846705
+URL:geo:49.736241,15.846705
+DESCRIPTION:📍 Stružinec\, Ždírec nad Doubravou\, Havlíčkův Brod\n\n🚒 CAS (Ž
+ dírec nad Doubravou)
+END:VEVENT
 END:VCALENDAR
