@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:420238061
-DTSTART:20260927T162537Z
-DTEND:20260927T172537Z
-DTSTAMP:20260927T162537Z
-SUMMARY:🛠️ měření koncentrace - Velká Losenice
-LOCATION:Velká Losenice
-GEO:49.579380;15.839408
-URL:geo:49.579380,15.839408
-DESCRIPTION:📍 Velká Losenice\, Žďár nad Sázavou\n💬 Likvidace úniku plynu.\n
- \n🚒 CAS (CHS Žďár nad Sázavou)
-END:VEVENT
-BEGIN:VEVENT
 UID:420241061
 DTSTART:20260927T192738Z
 DTEND:20260927T202738Z
@@ -588,8 +576,8 @@ LOCATION:K Rakůvkám\, Velké Meziříčí
 GEO:49.361122;16.009529
 URL:geo:49.361122,16.009529
 DESCRIPTION:📍 K Rakůvkám\, Velké Meziříčí\, Žďár nad Sázavou\n💬 DN cyklisty
- \, zajištění místa nehody.\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (HS Velké M
- eziříčí)
+ \,1 zraněná osoba. Zajištění místa nehody.\n\n🚒 CAS (HS Velké Meziříčí)\n🚒
+  RZA (HS Velké Meziříčí)
 END:VEVENT
 BEGIN:VEVENT
 UID:420325061
@@ -625,5 +613,17 @@ LOCATION:Rudolec
 GEO:49.477893;15.830727
 URL:geo:49.477893,15.830727
 DESCRIPTION:📍 Rudolec\, Žďár nad Sázavou\n\n🚒 DA (Rudolec)
+END:VEVENT
+BEGIN:VEVENT
+UID:420328061
+DTSTART:20260929T162356Z
+DTEND:20260929T172356Z
+DTSTAMP:20260929T162356Z
+SUMMARY:🛠️ otevření bytu/auta - Havlíčkův Brod
+LOCATION:V Rámech\, Havlíčkův Brod
+GEO:49.605382;15.577329
+URL:geo:49.605382,15.577329
+DESCRIPTION:📍 V Rámech\, Havlíčkův Brod\n💬 Otevření bytu.\n\n🚒 CAS (CHS Hav
+ líčkův Brod)
 END:VEVENT
 END:VCALENDAR
