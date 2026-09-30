@@ -639,4 +639,16 @@ DESCRIPTION:📍 Hlinné\, Nové Město na Moravě\, Žďár nad Sázavou\n💬 
  imo komunikaci\, se zraněním jedné osoby. Zajištění místa události.\n\n🚒 C
  AS (CHS Žďár nad Sázavou)
 END:VEVENT
+BEGIN:VEVENT
+UID:420338061
+DTSTART:20260930T052148Z
+DTEND:20260930T062148Z
+DTSTAMP:20260930T052148Z
+SUMMARY:🛠️ otevření bytu/auta - Náměšť nad Oslavou
+LOCATION:Petra Křičky\, Náměšť nad Oslavou
+GEO:49.212199;16.147153
+URL:geo:49.212199,16.147153
+DESCRIPTION:📍 Petra Křičky\, Náměšť nad Oslavou\, Třebíč\n\n🚒 CAS (HS Náměš
+ ť nad Oslavou)
+END:VEVENT
 END:VCALENDAR
