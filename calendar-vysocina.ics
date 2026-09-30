@@ -651,4 +651,16 @@ URL:geo:49.212199,16.147153
 DESCRIPTION:📍 Petra Křičky\, Náměšť nad Oslavou\, Třebíč\n💬 Otevření bytu.\
  n\n🚒 CAS (HS Náměšť nad Oslavou)
 END:VEVENT
+BEGIN:VEVENT
+UID:420340061
+DTSTART:20260930T054930Z
+DTEND:20260930T064930Z
+DTSTAMP:20260930T054930Z
+SUMMARY:🚑 transport pacienta - Pelhřimov
+LOCATION:Smrková\, Pelhřimov
+GEO:49.417733;15.229069
+URL:geo:49.417733,15.229069
+DESCRIPTION:📍 Smrková\, Pelhřimov\n💬 Transport pacienta na žádost ZZS.\n\n🚒
+  CAS (CHS Pelhřimov)
+END:VEVENT
 END:VCALENDAR
