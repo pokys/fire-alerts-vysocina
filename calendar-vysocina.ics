@@ -617,10 +617,11 @@ UID:420332061
 DTSTART:20260930T013107Z
 DTEND:20260930T023107Z
 DTSTAMP:20260930T013107Z
-SUMMARY:🛠️ měření koncentrace - Jihlava
+SUMMARY:☣️ plyn - Jihlava
 LOCATION:Pavlovova\, Jihlava
 GEO:49.399839;15.569809
 URL:geo:49.399839,15.569809
-DESCRIPTION:📍 Pavlovova\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+DESCRIPTION:📍 Pavlovova\, Jihlava\n💬 Aktivovaný hlásič CO v bytě. Provedeno
+  měření koncentrace.\n\n🚒 CAS (CHS Jihlava)
 END:VEVENT
 END:VCALENDAR
