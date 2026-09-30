@@ -5,21 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:420265061
-DTSTART:20260928T120846Z
-DTEND:20260928T130846Z
-DTSTAMP:20260928T120846Z
-SUMMARY:🔥 les - Ždírec nad Doubravou
-LOCATION:Ždírec nad Doubravou
-GEO:49.722648;15.790903
-URL:geo:49.722648,15.790903
-DESCRIPTION:📍 Nový Studenec\, Ždírec nad Doubravou\, Havlíčkův Brod\n💬 Požá
- r paseky na ploše asi 50x50 metrů. Byla provedena lokalizace a likvidace p
- ožáru.\n\n🚒 CAS (HS Chotěboř)\n🚒 CAS (HS Chotěboř)\n🚒 CAS (Krucemburk)\n🚒 
- osobní automobil (Krucemburk)\n🚒 CAS (Sobíňov)\n🚒 CAS (Ždírec nad Doubravo
- u) ×2\n🚒 vyšetřovací automobil (ÚO Havlíčkův Brod)
-END:VEVENT
-BEGIN:VEVENT
 UID:420266061
 DTSTART:20260928T140801Z
 DTEND:20260928T150801Z
@@ -803,8 +788,8 @@ SUMMARY:🚑 transport pacienta - Žďár nad Sázavou
 LOCATION:Okružní\, Žďár nad Sázavou
 GEO:49.566292;15.925232
 URL:geo:49.566292,15.925232
-DESCRIPTION:📍 Okružní\, Žďár nad Sázavou 3\, Žďár nad Sázavou\n\n🚒 CAS (CHS
-  Žďár nad Sázavou)
+DESCRIPTION:📍 Okružní\, Žďár nad Sázavou 3\, Žďár nad Sázavou\n💬 Transport 
+ pacienta na žádost ZZS.\n\n🚒 CAS (CHS Žďár nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:420386061
