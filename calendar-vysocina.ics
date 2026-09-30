@@ -732,4 +732,17 @@ GEO:49.391523;15.586089
 URL:geo:49.391523,15.586089
 DESCRIPTION:📍 Zahradní\, Jihlava\n💬 Otevření bytu.\n\n🚒 CAS (CHS Jihlava)
 END:VEVENT
+BEGIN:VEVENT
+UID:420371061
+DTSTART:20260930T104709Z
+DTEND:20260930T114709Z
+DTSTAMP:20260930T104709Z
+SUMMARY:🔥 tráva/plocha - Mirošov
+LOCATION:Mirošov
+GEO:49.464025;16.156429
+URL:geo:49.464025,16.156429
+DESCRIPTION:📍 Mirošov\, Žďár nad Sázavou\n\n🚒 CAS (HS Bystřice nad Pernštej
+ nem)\n🚒 CAS (HS Bystřice nad Pernštejnem)\n🚒 CAS (Bobrová)\n🚒 CAS (Dolní R
+ ožínka)
+END:VEVENT
 END:VCALENDAR
