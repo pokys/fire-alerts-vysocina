@@ -719,7 +719,7 @@ LOCATION:nám. Svobody\, Pacov
 GEO:49.472244;15.002260
 URL:geo:49.472244,15.002260
 DESCRIPTION:📍 nám. Svobody\, Pacov\, Pelhřimov\n\n🚒 automobilová plošina na
- d 30 m (CHS Pelhřimov)
+ d 30 m (CHS Pelhřimov)\n🚒 CAS (HS Pacov)
 END:VEVENT
 BEGIN:VEVENT
 UID:420368061
@@ -744,5 +744,28 @@ URL:geo:49.464025,16.156429
 DESCRIPTION:📍 Mirošov\, Žďár nad Sázavou\n\n🚒 CAS (HS Bystřice nad Pernštej
  nem)\n🚒 CAS (HS Bystřice nad Pernštejnem)\n🚒 CAS (Bobrová)\n🚒 CAS (Dolní R
  ožínka)
+END:VEVENT
+BEGIN:VEVENT
+UID:420376061
+DTSTART:20260930T110001Z
+DTEND:20260930T120001Z
+DTSTAMP:20260930T110001Z
+SUMMARY:🚑 spolupráce ZZS - Sněžné
+LOCATION:Sněžné
+GEO:49.644274;16.122341
+URL:geo:49.644274,16.122341
+DESCRIPTION:📍 Sněžné\, Žďár nad Sázavou\n💬 Spolupráce se ZZS.\n\n🚒 CAS (CHS
+  Žďár nad Sázavou)\n🚒 DA (Sněžné)\n🚒 CAS (Sněžné)
+END:VEVENT
+BEGIN:VEVENT
+UID:420380061
+DTSTART:20260930T110905Z
+DTEND:20260930T120905Z
+DTSTAMP:20260930T110905Z
+SUMMARY:🛠️ strom - Rudíkov
+LOCATION:Rudíkov
+GEO:49.289564;15.951745
+URL:geo:49.289564,15.951745
+DESCRIPTION:📍 Rudíkov\, Třebíč\n\n🚒 CAS (Rudíkov)
 END:VEVENT
 END:VCALENDAR
