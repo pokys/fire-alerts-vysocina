@@ -827,8 +827,9 @@ LOCATION:Hodice
 GEO:49.267462;15.501593
 URL:geo:49.267462,15.501593
 DESCRIPTION:📍 Hodice\, Jihlava\n\n🚒 CAS (HS Telč)\n🚒 CAS (HS Třešť)\n🚒 CAS 
- (Batelov)\n🚒 CAS (Hodice)\n🚒 CAS (Stonařov)\n🚒 CAS (Třeštice)\n🚒 CAS (Telč
- )\n🚒 vyšetřovací automobil (ÚO Jihlava)
+ (Batelov)\n🚒 DA (Hodice)\n🚒 CAS (Hodice)\n🚒 CAS (Stonařov)\n🚒 CAS (Třeštic
+ e)\n🚒 CAS (Telč)\n🚒 vyšetřovací automobil (ÚO Jihlava)\n🚒 CAS (Dolní Cerek
+ ev)\n🚒 CAS (Dlouhá Brtnice)
 END:VEVENT
 BEGIN:VEVENT
 UID:420390061
@@ -852,5 +853,17 @@ GEO:49.414362;15.569827
 URL:geo:49.414362,15.569827
 DESCRIPTION:📍 Nad Splavem\, Staré Hory\, Jihlava\n💬 Odstranění stromu.\n\n🚒
   CAS (CHS Jihlava)
+END:VEVENT
+BEGIN:VEVENT
+UID:420393061
+DTSTART:20260930T131524Z
+DTEND:20260930T141524Z
+DTSTAMP:20260930T131524Z
+SUMMARY:🛠️ strom - Radňovice
+LOCATION:Radňovice
+GEO:49.571849;16.031138
+URL:geo:49.571849,16.031138
+DESCRIPTION:📍 Radňovice\, Žďár nad Sázavou\n💬 Odstranění stromu.\n\n🚒 CAS (
+ CHS Žďár nad Sázavou)
 END:VEVENT
 END:VCALENDAR
