@@ -777,8 +777,9 @@ SUMMARY:🚗 dopravní nehoda - Velké Meziříčí
 LOCATION:Hornoměstská\, Velké Meziříčí
 GEO:49.355813;16.007563
 URL:geo:49.355813,16.007563
-DESCRIPTION:📍 Hornoměstská\, Velké Meziříčí\, Žďár nad Sázavou\n\n🚒 CAS (HS
-  Velké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)
+DESCRIPTION:📍 Hornoměstská\, Velké Meziříčí\, Žďár nad Sázavou\n💬 DN trakto
+ ru a chodkyně\, se zraněním. Zajištění místa nehody. Spolupráce se složkam
+ i IZS.\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)
 END:VEVENT
 BEGIN:VEVENT
 UID:420385061
@@ -801,7 +802,8 @@ SUMMARY:🚗 dopravní nehoda - Meziříčko
 LOCATION:Meziříčko
 GEO:49.406399;15.835250
 URL:geo:49.406399,15.835250
-DESCRIPTION:📍 Meziříčko\, Žďár nad Sázavou\n\n🚒 RZA (HS Velké Meziříčí)
+DESCRIPTION:📍 Meziříčko\, Žďár nad Sázavou\n💬 DN motocyklu\, na místě jedna
+  zraněná osoba. Spolupráce se složkami IZS.\n\n🚒 RZA (HS Velké Meziříčí)
 END:VEVENT
 BEGIN:VEVENT
 UID:420388061
@@ -825,7 +827,7 @@ GEO:49.267462;15.501593
 URL:geo:49.267462,15.501593
 DESCRIPTION:📍 Hodice\, Jihlava\n\n🚒 CAS (HS Telč)\n🚒 CAS (HS Třešť)\n🚒 CAS 
  (Batelov)\n🚒 CAS (Hodice)\n🚒 CAS (Stonařov)\n🚒 CAS (Třeštice)\n🚒 CAS (Telč
- )
+ )\n🚒 vyšetřovací automobil (ÚO Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:420390061
@@ -837,5 +839,16 @@ LOCATION:Opatov
 GEO:49.226772;15.652543
 URL:geo:49.226772,15.652543
 DESCRIPTION:📍 Opatov\, Třebíč\n\n🚒 CAS (CHS Třebíč)
+END:VEVENT
+BEGIN:VEVENT
+UID:420391061
+DTSTART:20260930T125123Z
+DTEND:20260930T135123Z
+DTSTAMP:20260930T125123Z
+SUMMARY:🛠️ strom - Jihlava
+LOCATION:Nad Splavem\, Jihlava
+GEO:49.414362;15.569827
+URL:geo:49.414362,15.569827
+DESCRIPTION:📍 Nad Splavem\, Staré Hory\, Jihlava\n\n🚒 CAS (CHS Jihlava)
 END:VEVENT
 END:VCALENDAR
