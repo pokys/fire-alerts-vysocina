@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:420291061
-DTSTART:20260929T072446Z
-DTEND:20260929T082446Z
-DTSTAMP:20260929T072446Z
-SUMMARY:🚗 dopravní nehoda - Herálec
-LOCATION:Herálec
-GEO:49.515869;15.404462
-URL:geo:49.515869,15.404462
-DESCRIPTION:📍 Kamenice\, Herálec\, Havlíčkův Brod\n💬 DN OA. 3 zraněné osoby
-  v péči ZZS. Jednotka provedla protipožární opatření. Zajištění místa neho
- dy.\n\n🚒 CAS (HS Humpolec)\n🚒 RZA (HS Humpolec)
-END:VEVENT
-BEGIN:VEVENT
 UID:420294061
 DTSTART:20260929T075246Z
 DTEND:20260929T085246Z
@@ -683,9 +670,10 @@ DESCRIPTION:📍 Hodice\, Jihlava\n💬 Požár lesního porostu na ploše cca 2
  \n🚒 CAS (HS Telč) ×2\n🚒 CAS (HS Třešť) ×2\n🚒 CAS (Batelov)\n🚒 DA (Hodice)\
  n🚒 CAS (Hodice)\n🚒 CAS (Stonařov)\n🚒 nákladní automobil do 3500 kg (Stonař
  ov)\n🚒 CAS (Třeštice)\n🚒 CAS (Telč)\n🚒 vyšetřovací automobil (ÚO Jihlava)\
- n🚒 CAS (Dolní Cerekev)\n🚒 CAS (Dlouhá Brtnice)\n🚒 osobní automobil (Dlouhá
-  Brtnice)\n🚒 účelový automobil do 3500 kg (CHS Jihlava)\n🚒 vozidlo účelové
-  - SxS (CHS Jihlava)\n🚒 přívěs nákladní (CHS Jihlava)
+ n🚒 osobní automobil (ÚO Jihlava)\n🚒 CAS (Dolní Cerekev)\n🚒 CAS (Dlouhá Brt
+ nice)\n🚒 osobní automobil (Dlouhá Brtnice)\n🚒 účelový automobil do 3500 kg
+  (CHS Jihlava)\n🚒 vozidlo účelové - SxS (CHS Jihlava)\n🚒 přívěs nákladní (
+ CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:420390061
@@ -953,7 +941,8 @@ SUMMARY:🛠️ strom - Rovečné
 LOCATION:Rovečné
 GEO:49.598329;16.364266
 URL:geo:49.598329,16.364266
-DESCRIPTION:📍 Rovečné\, Žďár nad Sázavou\n\n🚒 DA (Vír)\n🚒 CAS (Vír)
+DESCRIPTION:📍 Rovečné\, Žďár nad Sázavou\n💬 Odstranění obtížného hmyzu.\n\n
+ 🚒 DA (Vír)\n🚒 CAS (Vír)
 END:VEVENT
 BEGIN:VEVENT
 UID:420424061
@@ -1037,5 +1026,17 @@ GEO:49.464649;15.015179
 URL:geo:49.464649,15.015179
 DESCRIPTION:📍 Pacov\, Pelhřimov\n💬 Transport pacienta na žádost ZZS.\n\n🚒 C
  AS (HS Pacov)
+END:VEVENT
+BEGIN:VEVENT
+UID:420436061
+DTSTART:20261001T072054Z
+DTEND:20261001T082054Z
+DTSTAMP:20261001T072054Z
+SUMMARY:🚑 transport pacienta - Tasov
+LOCATION:Tasov
+GEO:49.292870;16.093312
+URL:geo:49.292870,16.093312
+DESCRIPTION:📍 Tasov\, Žďár nad Sázavou\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 CAS 
+ (Tasov)
 END:VEVENT
 END:VCALENDAR
