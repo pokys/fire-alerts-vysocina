@@ -670,7 +670,8 @@ GEO:49.644274;16.122341
 URL:geo:49.644274,16.122341
 DESCRIPTION:📍 Sněžné\, Žďár nad Sázavou\n💬 Spolupráce se ZZS.\n\n🚒 CAS (CHS
   Žďár nad Sázavou)\n🚒 DA (Sněžné)\n🚒 CAS (Sněžné)\n🚒 osobní automobil (CHS
-  Havlíčkův Brod)\n🚒 osobní automobil (HS Světlá nad Sázavou)
+  Havlíčkův Brod)\n🚒 osobní automobil (HS Světlá nad Sázavou)\n🚒 DA (HS Vel
+ ké Meziříčí)
 END:VEVENT
 BEGIN:VEVENT
 UID:420380061
@@ -995,5 +996,16 @@ URL:geo:49.218708,15.891287
 DESCRIPTION:📍 Velkomeziříčská\, Nové Dvory\, Třebíč\n💬 Střet osobního vozid
  la s chodcem\, 1 zraněná osoba. Zabezpečení místa DN.\n\n🚒 CAS (CHS Třebíč
  )
+END:VEVENT
+BEGIN:VEVENT
+UID:420420061
+DTSTART:20261001T035722Z
+DTEND:20261001T045722Z
+DTSTAMP:20261001T035722Z
+SUMMARY:🚑 záchrana na vodě - Batelov
+LOCATION:Dlouhá\, Batelov
+GEO:49.315570;15.400932
+URL:geo:49.315570,15.400932
+DESCRIPTION:📍 Dlouhá\, Batelov\, Jihlava\n\n🚒 osobní automobil (Batelov)
 END:VEVENT
 END:VCALENDAR
