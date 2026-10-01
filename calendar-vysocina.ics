@@ -5,20 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:420299061
-DTSTART:20260929T092032Z
-DTEND:20260929T102032Z
-DTSTAMP:20260929T092032Z
-SUMMARY:🔥 les - Červená Řečice
-LOCATION:Červená Řečice
-GEO:49.482312;15.186089
-URL:geo:49.482312,15.186089
-DESCRIPTION:📍 Těchoraz\, Červená Řečice\, Pelhřimov\n💬 Požár lesa. Lokaliza
- ce a likvidace požáru.\n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (CHS Pelhřimov)\n🚒 
- CAS (Červená Řečice)\n🚒 přívěs motorová stříkačka (Červená Řečice-Těchoraz
- )\n🚒 vyšetřovací automobil (ÚO Pelhřimov)
-END:VEVENT
-BEGIN:VEVENT
 UID:420301061
 DTSTART:20260929T100345Z
 DTEND:20260929T110345Z
