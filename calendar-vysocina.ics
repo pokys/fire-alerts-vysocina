@@ -670,7 +670,7 @@ GEO:49.644274;16.122341
 URL:geo:49.644274,16.122341
 DESCRIPTION:📍 Sněžné\, Žďár nad Sázavou\n💬 Spolupráce se ZZS.\n\n🚒 CAS (CHS
   Žďár nad Sázavou)\n🚒 DA (Sněžné)\n🚒 CAS (Sněžné)\n🚒 osobní automobil (CHS
-  Havlíčkův Brod)
+  Havlíčkův Brod)\n🚒 osobní automobil (HS Světlá nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:420380061
@@ -982,5 +982,16 @@ GEO:49.209077;16.152961
 URL:geo:49.209077,16.152961
 DESCRIPTION:📍 Jiráskova\, Náměšť nad Oslavou\, Třebíč\n💬 Transport pacienta
   na žádost ZZS.\n\n🚒 CAS (HS Náměšť nad Oslavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:420419061
+DTSTART:20261001T033547Z
+DTEND:20261001T043547Z
+DTSTAMP:20261001T033547Z
+SUMMARY:🚗 dopravní nehoda - Třebíč
+LOCATION:Velkomeziříčská\, Třebíč
+GEO:49.218708;15.891287
+URL:geo:49.218708,15.891287
+DESCRIPTION:📍 Velkomeziříčská\, Nové Dvory\, Třebíč\n\n🚒 CAS (CHS Třebíč)
 END:VEVENT
 END:VCALENDAR
