@@ -718,12 +718,12 @@ LOCATION:Hodice
 GEO:49.267462;15.501593
 URL:geo:49.267462,15.501593
 DESCRIPTION:📍 Hodice\, Jihlava\n💬 Požár lesního porostu na ploše cca 2ha.\n
- \n🚒 CAS (HS Telč)\n🚒 CAS (HS Třešť)\n🚒 CAS (Batelov)\n🚒 DA (Hodice)\n🚒 CAS
-  (Hodice)\n🚒 CAS (Stonařov)\n🚒 nákladní automobil do 3500 kg (Stonařov)\n🚒
-  CAS (Třeštice)\n🚒 CAS (Telč)\n🚒 vyšetřovací automobil (ÚO Jihlava)\n🚒 CAS
-  (Dolní Cerekev)\n🚒 CAS (Dlouhá Brtnice)\n🚒 osobní automobil (Dlouhá Brtni
- ce)\n🚒 účelový automobil do 3500 kg (CHS Jihlava)\n🚒 vozidlo účelové - SxS
-  (CHS Jihlava)\n🚒 přívěs nákladní (CHS Jihlava)
+ \n🚒 CAS (HS Telč) ×2\n🚒 CAS (HS Třešť) ×2\n🚒 CAS (Batelov)\n🚒 DA (Hodice)\
+ n🚒 CAS (Hodice)\n🚒 CAS (Stonařov)\n🚒 nákladní automobil do 3500 kg (Stonař
+ ov)\n🚒 CAS (Třeštice)\n🚒 CAS (Telč)\n🚒 vyšetřovací automobil (ÚO Jihlava)\
+ n🚒 CAS (Dolní Cerekev)\n🚒 CAS (Dlouhá Brtnice)\n🚒 osobní automobil (Dlouhá
+  Brtnice)\n🚒 účelový automobil do 3500 kg (CHS Jihlava)\n🚒 vozidlo účelové
+  - SxS (CHS Jihlava)\n🚒 přívěs nákladní (CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:420390061
@@ -981,5 +981,40 @@ GEO:49.399091;15.601304
 URL:geo:49.399091,15.601304
 DESCRIPTION:📍 Na Kopci\, Jihlava\n💬 Zamezení úniku vody v bytě.\n\n🚒 CAS (C
  HS Jihlava)
+END:VEVENT
+BEGIN:VEVENT
+UID:420423061
+DTSTART:20261001T053136Z
+DTEND:20261001T063136Z
+DTSTAMP:20261001T053136Z
+SUMMARY:🛠️ strom - Rovečné
+LOCATION:Rovečné
+GEO:49.598329;16.364266
+URL:geo:49.598329,16.364266
+DESCRIPTION:📍 Rovečné\, Žďár nad Sázavou\n\n🚒 DA (Vír)\n🚒 CAS (Vír)
+END:VEVENT
+BEGIN:VEVENT
+UID:420424061
+DTSTART:20261001T053240Z
+DTEND:20261001T063240Z
+DTSTAMP:20261001T053240Z
+SUMMARY:🚑 transport pacienta - Golčův Jeníkov
+LOCATION:V Zahradách\, Golčův Jeníkov
+GEO:49.816548;15.479103
+URL:geo:49.816548,15.479103
+DESCRIPTION:📍 V Zahradách\, Golčův Jeníkov\, Havlíčkův Brod\n\n🚒 CAS (HS Le
+ deč nad Sázavou)\n🚒 CAS (Golčův Jeníkov)
+END:VEVENT
+BEGIN:VEVENT
+UID:420425061
+DTSTART:20261001T053631Z
+DTEND:20261001T063631Z
+DTSTAMP:20261001T053631Z
+SUMMARY:🚑 spolupráce ZZS - Havlíčkova Borová
+LOCATION:Havlíčkova Borová
+GEO:49.649092;15.794184
+URL:geo:49.649092,15.794184
+DESCRIPTION:📍 Havlíčkova Borová\, Havlíčkův Brod\n\n🚒 CAS (HS Chotěboř)\n🚒 
+ CAS (Ždírec nad Doubravou)
 END:VEVENT
 END:VCALENDAR
