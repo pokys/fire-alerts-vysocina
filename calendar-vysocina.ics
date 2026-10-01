@@ -991,7 +991,8 @@ SUMMARY:🛠️ strom - Kuklík
 LOCATION:Kuklík
 GEO:49.628412;16.114732
 URL:geo:49.628412,16.114732
-DESCRIPTION:📍 Kuklík\, Žďár nad Sázavou\n\n🚒 DA (Kuklík)
+DESCRIPTION:📍 Kuklík\, Žďár nad Sázavou\n💬 Odstranění stromu.\n\n🚒 DA (Kukl
+ ík)
 END:VEVENT
 BEGIN:VEVENT
 UID:420432061
@@ -1002,7 +1003,8 @@ SUMMARY:🛠️ obtížný hmyz - Jemnice
 LOCATION:Palackého\, Jemnice
 GEO:49.018464;15.575073
 URL:geo:49.018464,15.575073
-DESCRIPTION:📍 Palackého\, Jemnice\, Třebíč\n\n🚒 CAS (HS Jemnice)
+DESCRIPTION:📍 Palackého\, Jemnice\, Třebíč\n💬 Odstranění obtížného hmyzu.\n
+ \n🚒 CAS (HS Jemnice)
 END:VEVENT
 BEGIN:VEVENT
 UID:420433061
@@ -1013,7 +1015,8 @@ SUMMARY:☣️ plyn - Pacov
 LOCATION:V Úvozu\, Pacov
 GEO:49.470805;14.999388
 URL:geo:49.470805,14.999388
-DESCRIPTION:📍 V Úvozu\, Pacov\, Pelhřimov\n\n🚒 CAS (HS Pacov)
+DESCRIPTION:📍 V Úvozu\, Pacov\, Pelhřimov\n💬 Měření koncentrace.\n\n🚒 CAS (
+ HS Pacov)
 END:VEVENT
 BEGIN:VEVENT
 UID:420435061
@@ -1038,5 +1041,29 @@ GEO:49.292870;16.093312
 URL:geo:49.292870,16.093312
 DESCRIPTION:📍 Tasov\, Žďár nad Sázavou\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 CAS 
  (Tasov)
+END:VEVENT
+BEGIN:VEVENT
+UID:420438061
+DTSTART:20261001T074145Z
+DTEND:20261001T084145Z
+DTSTAMP:20261001T074145Z
+SUMMARY:☣️ olej/PHM - Jakubov u Moravských Budějovic
+LOCATION:Jakubov u Moravských Budějovic
+GEO:49.076111;15.761977
+URL:geo:49.076111,15.761977
+DESCRIPTION:📍 Jakubov u Moravských Budějovic\, Třebíč\n\n🚒 CAS (HS Moravské
+  Budějovice)
+END:VEVENT
+BEGIN:VEVENT
+UID:420439061
+DTSTART:20261001T074315Z
+DTEND:20261001T084315Z
+DTSTAMP:20261001T074315Z
+SUMMARY:🚗 dopravní nehoda - Uhelná Příbram
+LOCATION:Uhelná Příbram
+GEO:49.779552;15.617155
+URL:geo:49.779552,15.617155
+DESCRIPTION:📍 Přísečno\, Uhelná Příbram\, Havlíčkův Brod\n\n🚒 CAS (HS Chotě
+ boř)
 END:VEVENT
 END:VCALENDAR
