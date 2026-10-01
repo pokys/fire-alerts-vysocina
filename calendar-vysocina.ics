@@ -1027,4 +1027,16 @@ URL:geo:49.328336,15.699729
 DESCRIPTION:📍 Malé\, Brtnice\, Jihlava\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS J
  ihlava)
 END:VEVENT
+BEGIN:VEVENT
+UID:420488061
+DTSTART:20261001T202858Z
+DTEND:20261001T212858Z
+DTSTAMP:20261001T202858Z
+SUMMARY:🚑 transport pacienta - Žďár nad Sázavou
+LOCATION:Brodská\, Žďár nad Sázavou
+GEO:49.564793;15.929803
+URL:geo:49.564793,15.929803
+DESCRIPTION:📍 Brodská\, Žďár nad Sázavou 3\, Žďár nad Sázavou\n\n🚒 CAS (CHS
+  Žďár nad Sázavou)
+END:VEVENT
 END:VCALENDAR
