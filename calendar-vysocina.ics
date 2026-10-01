@@ -938,8 +938,9 @@ SUMMARY:🚗 se zraněním - Nové Sady
 LOCATION:Nové Sady
 GEO:49.289765;16.184146
 URL:geo:49.289765,16.184146
-DESCRIPTION:📍 Nové Sady\, Žďár nad Sázavou\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 
- RZA (HS Velké Meziříčí)\n🚒 CAS (HS Velká Bíteš)
+DESCRIPTION:📍 Nové Sady\, Žďár nad Sázavou\n💬 DN 1 OA a kamionu\, na místě 
+ jedna osoba exitus. Jednotky provedly zajištění místa nehody.\n\n🚒 CAS (HS
+  Velké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)\n🚒 CAS (HS Velká Bíteš)
 END:VEVENT
 BEGIN:VEVENT
 UID:420449061
@@ -998,8 +999,9 @@ SUMMARY:🚗 dopravní nehoda - Náměšť nad Oslavou
 LOCATION:U Pivovaru\, Náměšť nad Oslavou
 GEO:49.207411;16.162272
 URL:geo:49.207411,16.162272
-DESCRIPTION:📍 U Pivovaru\, Náměšť nad Oslavou\, Třebíč\n\n🚒 CAS (HS Náměšť 
- nad Oslavou)
+DESCRIPTION:📍 U Pivovaru\, Náměšť nad Oslavou\, Třebíč\n💬 DN 1 OA a NA se z
+ raněním jedné osoby. Jednotka provedla zajištění místa nehody.\n\n🚒 CAS (H
+ S Náměšť nad Oslavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:420460061
@@ -1012,5 +1014,29 @@ GEO:49.400224;15.579315
 URL:geo:49.400224,15.579315
 DESCRIPTION:📍 Karoliny Světlé\, Jihlava\n💬 Otevření bytu.\n\n🚒 CAS (CHS Jih
  lava)
+END:VEVENT
+BEGIN:VEVENT
+UID:420461061
+DTSTART:20261001T114428Z
+DTEND:20261001T124428Z
+DTSTAMP:20261001T114428Z
+SUMMARY:🛠️ strom - Lučice
+LOCATION:Lučice
+GEO:49.654329;15.483239
+URL:geo:49.654329,15.483239
+DESCRIPTION:📍 Lučice\, Havlíčkův Brod\n💬 Odstranění stromu.\n\n🚒 DA (Lučice
+ )\n🚒 CAS (Lučice)
+END:VEVENT
+BEGIN:VEVENT
+UID:420462061
+DTSTART:20261001T115238Z
+DTEND:20261001T125238Z
+DTSTAMP:20261001T115238Z
+SUMMARY:🛠️ otevření bytu/auta - Nové Město na Moravě
+LOCATION:Hornická\, Nové Město na Moravě
+GEO:49.565070;16.080303
+URL:geo:49.565070,16.080303
+DESCRIPTION:📍 Hornická\, Nové Město na Moravě\, Žďár nad Sázavou\n💬 Otevřen
+ í bytu.\n\n🚒 CAS (CHS Žďár nad Sázavou)
 END:VEVENT
 END:VCALENDAR
