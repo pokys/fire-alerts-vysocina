@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:420322061
-DTSTART:20260929T141044Z
-DTEND:20260929T151044Z
-DTSTAMP:20260929T141044Z
-SUMMARY:☣️ olej/PHM - Moravské Budějovice
-LOCATION:Moravské Budějovice
-GEO:49.051887;15.811738
-URL:geo:49.051887,15.811738
-DESCRIPTION:📍 Moravské Budějovice\, Třebíč\n💬 Odstranění olejové skvrny z v
- ozovky.\n\n🚒 CAS (HS Moravské Budějovice)
-END:VEVENT
-BEGIN:VEVENT
 UID:420323061
 DTSTART:20260929T143001Z
 DTEND:20260929T153001Z
@@ -480,13 +468,13 @@ LOCATION:Hodice
 GEO:49.267462;15.501593
 URL:geo:49.267462,15.501593
 DESCRIPTION:📍 Hodice\, Jihlava\n💬 Požár lesního porostu na ploše cca 2ha.\n
- \n🚒 CAS (HS Telč) ×2\n🚒 CAS (HS Třešť) ×2\n🚒 CAS (Batelov) ×2\n🚒 DA (Hodic
- e)\n🚒 CAS (Hodice)\n🚒 CAS (Stonařov)\n🚒 nákladní automobil do 3500 kg (Sto
- nařov)\n🚒 CAS (Třeštice)\n🚒 CAS (Telč)\n🚒 vyšetřovací automobil (ÚO Jihlav
- a)\n🚒 osobní automobil (ÚO Jihlava)\n🚒 CAS (Dolní Cerekev)\n🚒 CAS (Dlouhá 
- Brtnice)\n🚒 osobní automobil (Dlouhá Brtnice)\n🚒 účelový automobil do 3500
-  kg (CHS Jihlava)\n🚒 vozidlo účelové - SxS (CHS Jihlava)\n🚒 přívěs nákladn
- í (CHS Jihlava)
+ \n🚒 CAS (HS Telč) ×2\n🚒 CAS (HS Třešť) ×2\n🚒 čerpadlo plovoucí (HS Třešť)\
+ n🚒 CAS (Batelov) ×2\n🚒 DA (Hodice)\n🚒 CAS (Hodice)\n🚒 CAS (Stonařov)\n🚒 ná
+ kladní automobil do 3500 kg (Stonařov)\n🚒 CAS (Třeštice)\n🚒 CAS (Telč)\n🚒 
+ vyšetřovací automobil (ÚO Jihlava)\n🚒 osobní automobil (ÚO Jihlava)\n🚒 CAS
+  (Dolní Cerekev)\n🚒 CAS (Dlouhá Brtnice)\n🚒 osobní automobil (Dlouhá Brtni
+ ce)\n🚒 účelový automobil do 3500 kg (CHS Jihlava)\n🚒 vozidlo účelové - SxS
+  (CHS Jihlava)\n🚒 přívěs nákladní (CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:420390061
@@ -990,5 +978,17 @@ GEO:49.565070;16.080303
 URL:geo:49.565070,16.080303
 DESCRIPTION:📍 Hornická\, Nové Město na Moravě\, Žďár nad Sázavou\n💬 Otevřen
  í bytu.\n\n🚒 CAS (CHS Žďár nad Sázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:420470061
+DTSTART:20261001T140138Z
+DTEND:20261001T150138Z
+DTSTAMP:20261001T140138Z
+SUMMARY:🛠️ strom - Krucemburk
+LOCATION:Školní\, Krucemburk
+GEO:49.692382;15.845410
+URL:geo:49.692382,15.845410
+DESCRIPTION:📍 Školní\, Krucemburk\, Havlíčkův Brod\n💬 Odstranění stromu.\n\
+ n🚒 CAS (Krucemburk)
 END:VEVENT
 END:VCALENDAR
