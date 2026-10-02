@@ -5,44 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:420404061
-DTSTART:20260930T151607Z
-DTEND:20260930T161607Z
-DTSTAMP:20260930T151607Z
-SUMMARY:🛠️ strom - Jihlava
-LOCATION:Jihlava
-GEO:49.400787;15.610690
-URL:geo:49.400787,15.610690
-DESCRIPTION:💬 Odstranění stromu.\n\n🚒 CAS (CHS Jihlava)\n🚒 pila řetězová (C
- HS Jihlava)
-END:VEVENT
-BEGIN:VEVENT
-UID:420405061
-DTSTART:20260930T152541Z
-DTEND:20260930T162541Z
-DTSTAMP:20260930T152541Z
-SUMMARY:🔥 venkovní požár - Světlá nad Sázavou
-LOCATION:Světlá nad Sázavou
-GEO:49.664479;15.387718
-URL:geo:49.664479,15.387718
-DESCRIPTION:📍 Dolní Březinka\, Světlá nad Sázavou\, Havlíčkův Brod\n💬 Požár
-  tůjí\, uhašeno před příjezdem JPO.\n\n🚒 CAS (HS Ledeč nad Sázavou)\n🚒 CAS
-  (HS Světlá nad Sázavou)\n🚒 DA (Světlá nad Sázavou)\n🚒 CAS (Světlá nad Sáz
- avou)\n🚒 vyšetřovací automobil (ÚO Havlíčkův Brod)
-END:VEVENT
-BEGIN:VEVENT
-UID:420406061
-DTSTART:20260930T152748Z
-DTEND:20260930T162748Z
-DTSTAMP:20260930T152748Z
-SUMMARY:🛠️ strom - Hořepník
-LOCATION:Hořepník
-GEO:49.502024;15.078898
-URL:geo:49.502024,15.078898
-DESCRIPTION:📍 Březina\, Hořepník\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 CAS
-  (HS Pacov)\n🚒 pila řetězová (HS Pacov)
-END:VEVENT
-BEGIN:VEVENT
 UID:420407061
 DTSTART:20260930T153337Z
 DTEND:20260930T163337Z
@@ -726,7 +688,9 @@ SUMMARY:🚗 úklid místa - Polná
 LOCATION:Tyršova\, Polná
 GEO:49.487564;15.704983
 URL:geo:49.487564,15.704983
-DESCRIPTION:📍 Tyršova\, Polná\, Jihlava\n\n🚒 CAS (HS Polná)
+DESCRIPTION:📍 Tyršova\, Polná\, Jihlava\n💬 DN 2 x OA\, bez zranění. Likvida
+ ce úniku PHM pomocí sorbentu. Zajištění místa události.\n\n🚒 CAS (HS Polná
+ )
 END:VEVENT
 BEGIN:VEVENT
 UID:420519061
@@ -761,7 +725,8 @@ SUMMARY:🛠️ ostatní - Batelov
 LOCATION:Batelov
 GEO:49.321010;15.373697
 URL:geo:49.321010,15.373697
-DESCRIPTION:📍 Bezděčín\, Batelov\, Jihlava\n\n🚒 CAS (HS Třešť)
+DESCRIPTION:📍 Bezděčín\, Batelov\, Jihlava\n💬 Odchyt hada.\n\n🚒 CAS (HS Tře
+ šť)
 END:VEVENT
 BEGIN:VEVENT
 UID:420530061
@@ -773,8 +738,8 @@ LOCATION:Měřín
 GEO:49.400947;15.858578
 URL:geo:49.400947,15.858578
 DESCRIPTION:📍 Měřín\, Žďár nad Sázavou\n💬 DN dodávky a OA\, bez zranění. Za
- jištění místa nehody\, provední protipožární opatření.\n\n🚒 CAS (HS Velké 
- Meziříčí)\n🚒 RZA (HS Velké Meziříčí)
+ jištění místa nehody.\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (HS Velké Meziří
+ čí)
 END:VEVENT
 BEGIN:VEVENT
 UID:420536061
@@ -797,8 +762,9 @@ SUMMARY:🚗 dopravní nehoda - Golčův Jeníkov
 LOCATION:Golčův Jeníkov
 GEO:49.818509;15.465413
 URL:geo:49.818509,15.465413
-DESCRIPTION:📍 Golčův Jeníkov\, Havlíčkův Brod\n\n🚒 CAS (HS Ledeč nad Sázavo
- u)\n🚒 CAS (Golčův Jeníkov)
+DESCRIPTION:📍 Golčův Jeníkov\, Havlíčkův Brod\n💬 DN OA a traktoru. Jedna zr
+ aněná osoba. Zajištění místa události.\n\n🚒 CAS (HS Ledeč nad Sázavou)\n🚒 
+ CAS (Golčův Jeníkov)
 END:VEVENT
 BEGIN:VEVENT
 UID:420538061
@@ -809,7 +775,7 @@ SUMMARY:🛠️ otevření bytu/auta - Jihlava
 LOCATION:Srázná\, Jihlava
 GEO:49.400798;15.591769
 URL:geo:49.400798,15.591769
-DESCRIPTION:📍 Srázná\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+DESCRIPTION:📍 Srázná\, Jihlava\n💬 Otevření bytu.\n\n🚒 CAS (CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:420541061
@@ -832,8 +798,9 @@ SUMMARY:🛠️ ostatní - Borovnice
 LOCATION:Borovnice
 GEO:49.666255;16.204071
 URL:geo:49.666255,16.204071
-DESCRIPTION:📍 Borovnice\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad Sázavou)\
- n🚒 CAS (Borovnice)\n🚒 CAS (Jimramov)
+DESCRIPTION:📍 Borovnice\, Žďár nad Sázavou\n💬 Ohlášen požár OA\, průzkumem 
+ zjištěno\, že se jedná o technickou závadu na OA.\n\n🚒 CAS (CHS Žďár nad S
+ ázavou)\n🚒 CAS (Borovnice)\n🚒 CAS (Jimramov)
 END:VEVENT
 BEGIN:VEVENT
 UID:420544061
@@ -856,7 +823,8 @@ SUMMARY:🛠️ obtížný hmyz - Jemnice
 LOCATION:U Víta\, Jemnice
 GEO:49.021842;15.581609
 URL:geo:49.021842,15.581609
-DESCRIPTION:📍 U Víta\, Jemnice\, Třebíč\n\n🚒 CAS (HS Jemnice)
+DESCRIPTION:📍 U Víta\, Jemnice\, Třebíč\n💬 Likvidace nebezpečného hmyzu.\n\
+ n🚒 CAS (HS Jemnice)
 END:VEVENT
 BEGIN:VEVENT
 UID:420546061
@@ -881,7 +849,7 @@ SUMMARY:🛠️ otevření bytu/auta - Střítež
 LOCATION:Hrotovická-Průmyslová Zóna\, Střítež
 GEO:49.201907;15.896503
 URL:geo:49.201907,15.896503
-DESCRIPTION:📍 Hrotovická-Průmyslová Zóna\, Střítež\, Třebíč\n\n🚒 CAS (CHS T
- řebíč)
+DESCRIPTION:📍 Hrotovická-Průmyslová Zóna\, Střítež\, Třebíč\n💬 Otevření byt
+ u.\n\n🚒 CAS (CHS Třebíč)
 END:VEVENT
 END:VCALENDAR
