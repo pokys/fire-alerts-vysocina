@@ -904,8 +904,8 @@ SUMMARY:🛠️ ostatní - Kamenice nad Lipou
 LOCATION:Kamenice nad Lipou
 GEO:49.314962;15.081521
 URL:geo:49.314962,15.081521
-DESCRIPTION:📍 Kamenice nad Lipou\, Pelhřimov\n\n🚒 AŽ (HS Kamenice nad Lipou
- )
+DESCRIPTION:📍 Kamenice nad Lipou\, Pelhřimov\n💬 Zajištění plechu na střeše.
+ \n\n🚒 AŽ (HS Kamenice nad Lipou)
 END:VEVENT
 BEGIN:VEVENT
 UID:420502061
@@ -941,5 +941,17 @@ LOCATION:Věžnice
 GEO:49.514957;15.689561
 URL:geo:49.514957,15.689561
 DESCRIPTION:📍 Věžnice\, Havlíčkův Brod\n\n🚒 CAS (HS Polná)
+END:VEVENT
+BEGIN:VEVENT
+UID:420505061
+DTSTART:20261002T082136Z
+DTEND:20261002T092136Z
+DTSTAMP:20261002T082136Z
+SUMMARY:🚑 transport pacienta - Humpolec
+LOCATION:Pelhřimovská\, Humpolec
+GEO:49.528203;15.348648
+URL:geo:49.528203,15.348648
+DESCRIPTION:📍 Pelhřimovská\, Humpolec\, Pelhřimov\n💬 Transport pacienta na 
+ žádost ZZS.\n\n🚒 CAS (HS Humpolec)
 END:VEVENT
 END:VCALENDAR
