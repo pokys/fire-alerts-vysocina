@@ -5,34 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:420371061
-DTSTART:20260930T104709Z
-DTEND:20260930T114709Z
-DTSTAMP:20260930T104709Z
-SUMMARY:🔥 tráva/plocha - Mirošov
-LOCATION:Mirošov
-GEO:49.464025;16.156429
-URL:geo:49.464025,16.156429
-DESCRIPTION:📍 Mirošov\, Žďár nad Sázavou\n💬 Požár trávy\, bez zranění. Prov
- edena lokalizace a likvidace požáru.\n\n🚒 CAS (HS Bystřice nad Pernštejnem
- )\n🚒 CAS (HS Bystřice nad Pernštejnem)\n🚒 DA (Bobrová)\n🚒 CAS (Bobrová)\n🚒
-  CAS (Dolní Rožínka)
-END:VEVENT
-BEGIN:VEVENT
-UID:420376061
-DTSTART:20260930T110001Z
-DTEND:20260930T120001Z
-DTSTAMP:20260930T110001Z
-SUMMARY:🚑 spolupráce ZZS - Sněžné
-LOCATION:Sněžné
-GEO:49.644274;16.122341
-URL:geo:49.644274,16.122341
-DESCRIPTION:📍 Sněžné\, Žďár nad Sázavou\n💬 Spolupráce se ZZS.\n\n🚒 CAS (CHS
-  Žďár nad Sázavou)\n🚒 DA (Sněžné)\n🚒 CAS (Sněžné)\n🚒 osobní automobil (CHS
-  Havlíčkův Brod)\n🚒 osobní automobil (HS Světlá nad Sázavou)\n🚒 DA (HS Vel
- ké Meziříčí)
-END:VEVENT
-BEGIN:VEVENT
 UID:420380061
 DTSTART:20260930T110905Z
 DTEND:20260930T120905Z
@@ -927,7 +899,18 @@ SUMMARY:🛠️ spolupráce IZS - Přibyslav
 LOCATION:Nerudova\, Přibyslav
 GEO:49.576227;15.730344
 URL:geo:49.576227,15.730344
-DESCRIPTION:📍 Nerudova\, Přibyslav\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův
-  Brod)\n🚒 CAS (Přibyslav)
+DESCRIPTION:📍 Nerudova\, Přibyslav\, Havlíčkův Brod\n💬 Spolupráce se ZZS.\n
+ \n🚒 CAS (CHS Havlíčkův Brod)\n🚒 CAS (Přibyslav)
+END:VEVENT
+BEGIN:VEVENT
+UID:420523061
+DTSTART:20261002T105338Z
+DTEND:20261002T115338Z
+DTSTAMP:20261002T105338Z
+SUMMARY:🚑 otevření/asistence - Havlíčkův Brod
+LOCATION:Na Výšině\, Havlíčkův Brod
+GEO:49.617383;15.578102
+URL:geo:49.617383,15.578102
+DESCRIPTION:📍 Na Výšině\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)
 END:VEVENT
 END:VCALENDAR
