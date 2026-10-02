@@ -800,7 +800,8 @@ SUMMARY:☣️ olej/PHM - Jihlava
 LOCATION:Královský vršek\, Jihlava
 GEO:49.407939;15.586105
 URL:geo:49.407939,15.586105
-DESCRIPTION:📍 Královský vršek\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+DESCRIPTION:📍 Královský vršek\, Jihlava\n💬 Likvidace úniku oleje z OA.\n\n🚒
+  CAS (CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:420553061
@@ -811,7 +812,8 @@ SUMMARY:🛠️ ostatní - Batelov
 LOCATION:V Zahradách\, Batelov
 GEO:49.313390;15.389274
 URL:geo:49.313390,15.389274
-DESCRIPTION:📍 V Zahradách\, Batelov\, Jihlava\n\n🚒 CAS (Batelov)
+DESCRIPTION:📍 V Zahradách\, Batelov\, Jihlava\n💬 Pročištění kanalizace.\n\n
+ 🚒 CAS (Batelov)
 END:VEVENT
 BEGIN:VEVENT
 UID:420554061
@@ -822,6 +824,7 @@ SUMMARY:🛠️ měření koncentrace - Jihlava
 LOCATION:Matky Boží\, Jihlava
 GEO:49.395449;15.588978
 URL:geo:49.395449,15.588978
-DESCRIPTION:📍 Matky Boží\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+DESCRIPTION:📍 Matky Boží\, Jihlava\n💬 Únik CO. Zajištění místa události.\n\
+ n🚒 CAS (CHS Jihlava)
 END:VEVENT
 END:VCALENDAR
