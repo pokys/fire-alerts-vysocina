@@ -1020,11 +1020,12 @@ UID:420490061
 DTSTART:20261002T023731Z
 DTEND:20261002T033731Z
 DTSTAMP:20261002T023731Z
-SUMMARY:🚗 se zraněním - Velká Bíteš
+SUMMARY:⚠️ planý poplach - Velká Bíteš
 LOCATION:Velká Bíteš
 GEO:49.298597;16.164204
 URL:geo:49.298597,16.164204
-DESCRIPTION:📍 Bezděkov\, Velká Bíteš\, Žďár nad Sázavou\n\n🚒 CAS (HS Velká 
- Bíteš)\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)
+DESCRIPTION:📍 Bezděkov\, Velká Bíteš\, Žďár nad Sázavou\n💬 Planý poplach.\n
+ \n🚒 CAS (HS Velká Bíteš)\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (HS Velké Meziř
+ íčí)
 END:VEVENT
 END:VCALENDAR
