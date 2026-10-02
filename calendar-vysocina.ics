@@ -5,30 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:420407061
-DTSTART:20260930T153337Z
-DTEND:20260930T163337Z
-DTSTAMP:20260930T153337Z
-SUMMARY:🛠️ ostatní - Jihlava
-LOCATION:Zahradní\, Jihlava
-GEO:49.392584;15.585530
-URL:geo:49.392584,15.585530
-DESCRIPTION:📍 Zahradní\, Jihlava\n💬 Pomoc imobilní osobě.\n\n🚒 CAS (CHS Jih
- lava)
-END:VEVENT
-BEGIN:VEVENT
-UID:420408061
-DTSTART:20260930T154154Z
-DTEND:20260930T164154Z
-DTSTAMP:20260930T154154Z
-SUMMARY:🛠️ obtížný hmyz - Nový Jimramov
-LOCATION:Nový Jimramov
-GEO:49.635012;16.187099
-URL:geo:49.635012,16.187099
-DESCRIPTION:📍 Nový Jimramov\, Žďár nad Sázavou\n💬 Odstranění obtížného hmyz
- u.\n\n🚒 DA (Jimramov)
-END:VEVENT
-BEGIN:VEVENT
 UID:420409061
 DTSTART:20260930T154950Z
 DTEND:20260930T164950Z
@@ -800,7 +776,7 @@ GEO:49.666255;16.204071
 URL:geo:49.666255,16.204071
 DESCRIPTION:📍 Borovnice\, Žďár nad Sázavou\n💬 Ohlášen požár OA\, průzkumem 
  zjištěno\, že se jedná o technickou závadu na OA.\n\n🚒 CAS (CHS Žďár nad S
- ázavou)\n🚒 CAS (Borovnice)\n🚒 CAS (Jimramov)
+ ázavou)\n🚒 CAS (Borovnice)\n🚒 CAS (Jimramov)\n🚒 CAS (HS Polička)
 END:VEVENT
 BEGIN:VEVENT
 UID:420544061
