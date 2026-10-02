@@ -844,12 +844,12 @@ UID:420556061
 DTSTART:20261002T171211Z
 DTEND:20261002T181211Z
 DTSTAMP:20261002T171211Z
-SUMMARY:🚗 se zraněním - Velká Losenice
+SUMMARY:⚠️ planý poplach - Velká Losenice
 LOCATION:Velká Losenice
 GEO:49.586200;15.821814
 URL:geo:49.586200,15.821814
-DESCRIPTION:📍 Velká Losenice\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad Sáza
- vou)
+DESCRIPTION:📍 Velká Losenice\, Žďár nad Sázavou\n💬 Planý poplach.\n\n🚒 CAS 
+ (CHS Žďár nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:420559061
