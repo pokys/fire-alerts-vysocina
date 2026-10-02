@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:420333061
-DTSTART:20260930T041908Z
-DTEND:20260930T051908Z
-DTSTAMP:20260930T041908Z
-SUMMARY:🚗 dopravní nehoda - Velké Meziříčí
-LOCATION:Průmyslová\, Velké Meziříčí
-GEO:49.344785;16.041598
-URL:geo:49.344785,16.041598
-DESCRIPTION:📍 Průmyslová\, Velké Meziříčí\, Žďár nad Sázavou\n💬 DN 1 OA a c
- yklisty se zraněním\, poskytnuta předlékařská pomoc\, zajištění místa zása
- hu.\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)
-END:VEVENT
-BEGIN:VEVENT
 UID:420336061
 DTSTART:20260930T045428Z
 DTEND:20260930T055428Z
