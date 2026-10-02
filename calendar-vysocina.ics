@@ -1015,4 +1015,16 @@ URL:geo:49.564793,15.929803
 DESCRIPTION:📍 Brodská\, Žďár nad Sázavou 3\, Žďár nad Sázavou\n💬 Transport 
  pacienta na žádost ZZS.\n\n🚒 CAS (CHS Žďár nad Sázavou)
 END:VEVENT
+BEGIN:VEVENT
+UID:420490061
+DTSTART:20261002T023731Z
+DTEND:20261002T033731Z
+DTSTAMP:20261002T023731Z
+SUMMARY:🚗 se zraněním - Velká Bíteš
+LOCATION:Velká Bíteš
+GEO:49.298597;16.164204
+URL:geo:49.298597,16.164204
+DESCRIPTION:📍 Bezděkov\, Velká Bíteš\, Žďár nad Sázavou\n\n🚒 CAS (HS Velká 
+ Bíteš)\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)
+END:VEVENT
 END:VCALENDAR
