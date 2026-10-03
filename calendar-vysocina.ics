@@ -536,9 +536,9 @@ URL:geo:49.259230,15.314424
 DESCRIPTION:📍 Horní Dubenky\, Jihlava\n💬 Požár dílny a části hospodářského 
  stavení.\n\n🚒 CAS (HS Telč)\n🚒 CAS (HS Telč)\n🚒 pila řetězová (HS Telč)\n🚒
   CAS (Horní Dubenky)\n🚒 CAS (Počátky) ×2\n🚒 CAS (Batelov)\n🚒 CAS (HS Třešť
- )\n🚒 automobilová plošina do 30 m (HS Třešť)\n🚒 pila řetězová (HS Třešť)\n
- 🚒 CAS (Horní Cerekev)\n🚒 CAS (Studená)\n🚒 vyšetřovací automobil (ÚO Jihlav
- a)\n🚒 vyšetřovací automobil (KŘ HZS VYS)
+ )\n🚒 automobilová plošina do 30 m (HS Třešť)\n🚒 čerpadlo plovoucí (HS Třeš
+ ť)\n🚒 pila řetězová (HS Třešť)\n🚒 CAS (Horní Cerekev)\n🚒 CAS (Studená)\n🚒 
+ vyšetřovací automobil (ÚO Jihlava)\n🚒 vyšetřovací automobil (KŘ HZS VYS)
 END:VEVENT
 BEGIN:VEVENT
 UID:420576061
@@ -866,5 +866,17 @@ GEO:49.489156;15.590286
 URL:geo:49.489156,15.590286
 DESCRIPTION:📍 Štoky\, Havlíčkův Brod\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jih
  lava)
+END:VEVENT
+BEGIN:VEVENT
+UID:420612061
+DTSTART:20261003T192439Z
+DTEND:20261003T202439Z
+DTSTAMP:20261003T192439Z
+SUMMARY:🔥 Třebíč
+LOCATION:Kateřiny z Valdštejna\, Třebíč
+GEO:49.213457;15.886122
+URL:geo:49.213457,15.886122
+DESCRIPTION:📍 Kateřiny z Valdštejna\, Jejkov\, Třebíč\n\n🚒 CAS (CHS Třebíč)
+ \n🚒 CAS (CHS Třebíč)
 END:VEVENT
 END:VCALENDAR
