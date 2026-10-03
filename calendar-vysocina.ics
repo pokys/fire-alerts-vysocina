@@ -741,4 +741,18 @@ URL:geo:49.553901,15.944054
 DESCRIPTION:📍 Haškova\, Žďár nad Sázavou 6\, Žďár nad Sázavou\n💬 Likvidace 
  úniku oleje z OA po technické závadě.\n\n🚒 CAS (CHS Žďár nad Sázavou)
 END:VEVENT
+BEGIN:VEVENT
+UID:420569061
+DTSTART:20261003T070026Z
+DTEND:20261003T080026Z
+DTSTAMP:20261003T070026Z
+SUMMARY:🔥 budova - Brtnice
+LOCATION:Školní\, Brtnice
+GEO:49.309471;15.675592
+URL:geo:49.309471,15.675592
+DESCRIPTION:📍 Školní\, Brtnice\, Jihlava\n\n🚒 CAS (Brtnice)\n🚒 osobní autom
+ obil (Brtnice)\n🚒 přívěs motorová stříkačka (Brtnice-Jestřebí)\n🚒 přívěs m
+ otorová stříkačka (Brtnice-Malé)\n🚒 DA (Brtnice-Panská Lhota)\n🚒 DA (Brtni
+ ce-Příseka)\n🚒 DA (Brtnice-Střížov)\n🚒 DA (Brtnice-Uhřínovice)
+END:VEVENT
 END:VCALENDAR
