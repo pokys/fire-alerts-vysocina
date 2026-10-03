@@ -754,4 +754,15 @@ DESCRIPTION:📍 Horní Dubenky\, Jihlava\n\n🚒 CAS (HS Telč)\n🚒 CAS (HS T
  ť)\n🚒 automobilová plošina do 30 m (HS Třešť)\n🚒 CAS (Horní Cerekev)\n🚒 vy
  šetřovací automobil (ÚO Jihlava)
 END:VEVENT
+BEGIN:VEVENT
+UID:420576061
+DTSTART:20261003T085230Z
+DTEND:20261003T095230Z
+DTSTAMP:20261003T085230Z
+SUMMARY:🚗 dopravní nehoda - Křoví
+LOCATION:Křoví
+GEO:49.303060;16.261727
+URL:geo:49.303060,16.261727
+DESCRIPTION:📍 Křoví\, Žďár nad Sázavou\n\n🚒 CAS (HS Velká Bíteš)
+END:VEVENT
 END:VCALENDAR
