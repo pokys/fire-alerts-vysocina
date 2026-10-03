@@ -610,8 +610,8 @@ LOCATION:Čejov
 GEO:49.567731;15.387167
 URL:geo:49.567731,15.387167
 DESCRIPTION:📍 Čejov\, Pelhřimov\n💬 Požár hnojniště.\n\n🚒 CAS (HS Humpolec)\
- n🚒 CAS (HS Humpolec)\n🚒 CAS (Humpolec)\n🚒 CAS (Kejžlice)\n🚒 osobní automob
- il (Čejov)
+ n🚒 CAS (HS Humpolec) ×2\n🚒 CAS (Humpolec)\n🚒 CAS (Kejžlice)\n🚒 osobní auto
+ mobil (Čejov)
 END:VEVENT
 BEGIN:VEVENT
 UID:420580061
@@ -842,5 +842,28 @@ GEO:49.428533;15.974999
 URL:geo:49.428533,15.974999
 DESCRIPTION:📍 Olší nad Oslavou\, Velké Meziříčí\, Žďár nad Sázavou\n💬 Vytaž
  ení psa z jímky.\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)
+END:VEVENT
+BEGIN:VEVENT
+UID:420607061
+DTSTART:20261003T172941Z
+DTEND:20261003T182941Z
+DTSTAMP:20261003T172941Z
+SUMMARY:🚑 transport pacienta - Vladislav
+LOCATION:Vladislav
+GEO:49.210680;15.985859
+URL:geo:49.210680,15.985859
+DESCRIPTION:📍 Vladislav\, Třebíč\n\n🚒 CAS (CHS Třebíč)
+END:VEVENT
+BEGIN:VEVENT
+UID:420608061
+DTSTART:20261003T173457Z
+DTEND:20261003T183457Z
+DTSTAMP:20261003T173457Z
+SUMMARY:🛠️ otevření bytu/auta - Havlíčkův Brod
+LOCATION:Sídliště Pražská\, Havlíčkův Brod
+GEO:49.614491;15.574072
+URL:geo:49.614491,15.574072
+DESCRIPTION:📍 Sídliště Pražská\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Bro
+ d)
 END:VEVENT
 END:VCALENDAR
