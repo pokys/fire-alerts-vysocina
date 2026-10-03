@@ -642,8 +642,9 @@ SUMMARY:🔥 venkovní požár - Čejov
 LOCATION:Čejov
 GEO:49.567731;15.387167
 URL:geo:49.567731,15.387167
-DESCRIPTION:📍 Čejov\, Pelhřimov\n\n🚒 CAS (HS Humpolec)\n🚒 CAS (HS Humpolec)
- \n🚒 CAS (Humpolec)\n🚒 CAS (Kejžlice)\n🚒 osobní automobil (Čejov)
+DESCRIPTION:📍 Čejov\, Pelhřimov\n💬 Požár hnojniště.\n\n🚒 CAS (HS Humpolec)\
+ n🚒 CAS (HS Humpolec)\n🚒 CAS (Humpolec)\n🚒 CAS (Kejžlice)\n🚒 osobní automob
+ il (Čejov)
 END:VEVENT
 BEGIN:VEVENT
 UID:420580061
@@ -797,8 +798,8 @@ SUMMARY:🛠️ otevření bytu/auta - Nové Město na Moravě
 LOCATION:Pavlovova\, Nové Město na Moravě
 GEO:49.562836;16.065962
 URL:geo:49.562836,16.065962
-DESCRIPTION:📍 Pavlovova\, Nové Město na Moravě\, Žďár nad Sázavou\n\n🚒 CAS 
- (CHS Žďár nad Sázavou)
+DESCRIPTION:📍 Pavlovova\, Nové Město na Moravě\, Žďár nad Sázavou\n💬 Otevře
+ ní bytu.\n\n🚒 CAS (CHS Žďár nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:420595061
