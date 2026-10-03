@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:420449061
-DTSTART:20261001T092929Z
-DTEND:20261001T102929Z
-DTSTAMP:20261001T092929Z
-SUMMARY:🛠️ strom - Krucemburk
-LOCATION:Krucemburk
-GEO:49.685196;15.860564
-URL:geo:49.685196,15.860564
-DESCRIPTION:📍 Krucemburk\, Havlíčkův Brod\n💬 Odstranění stromu.\n\n🚒 CAS (K
- rucemburk)
-END:VEVENT
-BEGIN:VEVENT
 UID:420451061
 DTSTART:20261001T094827Z
 DTEND:20261001T104827Z
@@ -775,7 +763,7 @@ SUMMARY:🛠️ otevření bytu/auta - Velké Meziříčí
 LOCATION:Nad Sv. Josefem\, Velké Meziříčí
 GEO:49.351090;16.022287
 URL:geo:49.351090,16.022287
-DESCRIPTION:📍 Nad Sv. Josefem\, Velké Meziříčí\, Žďár nad Sázavou\n\n🚒 RZA 
- (HS Velké Meziříčí)
+DESCRIPTION:📍 Nad Sv. Josefem\, Velké Meziříčí\, Žďár nad Sázavou\n💬 Otevře
+ ní bytu.\n\n🚒 RZA (HS Velké Meziříčí)
 END:VEVENT
 END:VCALENDAR
