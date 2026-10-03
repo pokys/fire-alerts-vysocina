@@ -102,4 +102,15 @@ URL:geo:49.567731,15.387167
 DESCRIPTION:📍 Čejov\, Pelhřimov\n\n🚒 CAS (HS Humpolec)\n🚒 CAS (HS Humpolec)
  \n🚒 CAS (Humpolec)\n🚒 CAS (Kejžlice)\n🚒 osobní automobil (Čejov)
 END:VEVENT
+BEGIN:VEVENT
+UID:420580061
+DTSTART:20261003T105013Z
+DTEND:20261003T115013Z
+DTSTAMP:20261003T105013Z
+SUMMARY:🛠️ otevření bytu/auta - Pelhřimov
+LOCATION:Sdružená\, Pelhřimov
+GEO:49.435824;15.221706
+URL:geo:49.435824,15.221706
+DESCRIPTION:📍 Sdružená\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)
+END:VEVENT
 END:VCALENDAR
