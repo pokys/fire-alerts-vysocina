@@ -765,4 +765,16 @@ URL:geo:49.282110,15.585626
 DESCRIPTION:📍 Stonařov\, Jihlava\n\n🚒 nákladní automobil do 3500 kg (Stonař
  ov)
 END:VEVENT
+BEGIN:VEVENT
+UID:420568061
+DTSTART:20261003T061926Z
+DTEND:20261003T071926Z
+DTSTAMP:20261003T061926Z
+SUMMARY:☣️ olej/PHM - Žďár nad Sázavou
+LOCATION:Haškova\, Žďár nad Sázavou
+GEO:49.553901;15.944054
+URL:geo:49.553901,15.944054
+DESCRIPTION:📍 Haškova\, Žďár nad Sázavou 6\, Žďár nad Sázavou\n\n🚒 CAS (CHS
+  Žďár nad Sázavou)
+END:VEVENT
 END:VCALENDAR
