@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:420543061
-DTSTART:20261002T141535Z
-DTEND:20261002T151535Z
-DTSTAMP:20261002T141535Z
-SUMMARY:🛠️ ostatní - Borovnice
-LOCATION:Borovnice
-GEO:49.666255;16.204071
-URL:geo:49.666255,16.204071
-DESCRIPTION:📍 Borovnice\, Žďár nad Sázavou\n💬 Ohlášen požár OA\, průzkumem 
- zjištěno\, že se jedná o technickou závadu na OA.\n\n🚒 CAS (CHS Žďár nad S
- ázavou)\n🚒 CAS (Borovnice)\n🚒 CAS (Jimramov)\n🚒 CAS (HS Polička)
-END:VEVENT
-BEGIN:VEVENT
 UID:420544061
 DTSTART:20261002T141653Z
 DTEND:20261002T151653Z
@@ -810,7 +797,8 @@ SUMMARY:🚗 dopravní nehoda - Pacov
 LOCATION:Spálená\, Pacov
 GEO:49.471657;15.006258
 URL:geo:49.471657,15.006258
-DESCRIPTION:📍 Spálená\, Pacov\, Pelhřimov\n\n🚒 CAS (HS Pacov)
+DESCRIPTION:📍 Spálená\, Pacov\, Pelhřimov\n💬 DN 1 koloběžky. Zajištění míst
+ a události. Poskytnuta předlékařská pomoc.\n\n🚒 CAS (HS Pacov)
 END:VEVENT
 BEGIN:VEVENT
 UID:420644061
@@ -821,8 +809,8 @@ SUMMARY:🚗 dopravní nehoda - Koroužné
 LOCATION:Koroužné
 GEO:49.541273;16.338938
 URL:geo:49.541273,16.338938
-DESCRIPTION:📍 Koroužné\, Žďár nad Sázavou\n\n🚒 CAS (HS Bystřice nad Pernšte
- jnem)
+DESCRIPTION:📍 Koroužné\, Žďár nad Sázavou\n💬 DN motocyklu a dodávky\, se zr
+ aněním. Zajištění místa události.\n\n🚒 CAS (HS Bystřice nad Pernštejnem)
 END:VEVENT
 BEGIN:VEVENT
 UID:420646061
