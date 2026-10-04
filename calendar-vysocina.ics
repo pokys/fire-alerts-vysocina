@@ -901,7 +901,8 @@ LOCATION:Velká Bíteš
 GEO:49.300425;16.205431
 URL:geo:49.300425,16.205431
 DESCRIPTION:📍 Velká Bíteš\, Žďár nad Sázavou\n💬 DN 1 OA srážka s koněm\, be
- z zranění. Zajištění místa nehody.\n\n🚒 CAS (HS Velká Bíteš)
+ z zranění. Zajištění místa nehody.\n\n🚒 DA (HS Velká Bíteš)\n🚒 CAS (HS Vel
+ ká Bíteš)
 END:VEVENT
 BEGIN:VEVENT
 UID:420618061
@@ -912,6 +913,7 @@ SUMMARY:🔥 venkovní požár - Jihlava
 LOCATION:Jihlava
 GEO:49.410333;15.558946
 URL:geo:49.410333,15.558946
-DESCRIPTION:🚒 CAS (CHS Jihlava)
+DESCRIPTION:💬 Požár stromu\, provedena lokalizace a likvidace pomocí VT.\n\
+ n🚒 CAS (CHS Jihlava)
 END:VEVENT
 END:VCALENDAR
