@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:420562061
-DTSTART:20261002T200024Z
-DTEND:20261002T210024Z
-DTSTAMP:20261002T200024Z
-SUMMARY:🚑 otevření/asistence - Ledeč nad Sázavou
-LOCATION:Jaroslava Haška\, Ledeč nad Sázavou
-GEO:49.693488;15.275477
-URL:geo:49.693488,15.275477
-DESCRIPTION:📍 Jaroslava Haška\, Ledeč nad Sázavou\, Havlíčkův Brod\n💬 Otevř
- ení bytu.\n\n🚒 CAS (HS Ledeč nad Sázavou)
-END:VEVENT
-BEGIN:VEVENT
 UID:420567061
 DTSTART:20261003T055037Z
 DTEND:20261003T065037Z
@@ -773,8 +761,8 @@ SUMMARY:🚑 otevření/asistence - Nové Město na Moravě
 LOCATION:Modřínová\, Nové Město na Moravě
 GEO:49.574341;16.074415
 URL:geo:49.574341,16.074415
-DESCRIPTION:📍 Modřínová\, Nové Město na Moravě\, Žďár nad Sázavou\n\n🚒 CAS 
- (CHS Žďár nad Sázavou)
+DESCRIPTION:📍 Modřínová\, Nové Město na Moravě\, Žďár nad Sázavou\n💬 Otevře
+ ní bytu.\n\n🚒 CAS (CHS Žďár nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:420659061
