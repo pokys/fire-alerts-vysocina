@@ -143,10 +143,11 @@ UID:420649061
 DTSTART:20261004T142248Z
 DTEND:20261004T152248Z
 DTSTAMP:20261004T142248Z
-SUMMARY:🔥 vozidlo - Pelhřimov
+SUMMARY:🛠️ ostatní - Pelhřimov
 LOCATION:Pražská\, Pelhřimov
 GEO:49.439941;15.208257
 URL:geo:49.439941,15.208257
-DESCRIPTION:📍 Pražská\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)
+DESCRIPTION:📍 Pražská\, Pelhřimov\n💬 Technická pomoc\, odstranění nebezpečn
+ ých stavů.\n\n🚒 CAS (CHS Pelhřimov)
 END:VEVENT
 END:VCALENDAR
