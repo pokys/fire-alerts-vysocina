@@ -753,4 +753,27 @@ DESCRIPTION:📍 Stříbrné Hory\, Havlíčkův Brod\n💬 DN OA náraz do stro
  aněním. ZZS transportovala jednu zraněnou osobu k dalšímu ošetření. Zajišt
  ění místa události.\n\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 CAS (Přibyslav)
 END:VEVENT
+BEGIN:VEVENT
+UID:420655061
+DTSTART:20261004T163441Z
+DTEND:20261004T173441Z
+DTSTAMP:20261004T163441Z
+SUMMARY:🔥 budova - Ruda
+LOCATION:Ruda
+GEO:49.324362;16.120340
+URL:geo:49.324362,16.120340
+DESCRIPTION:📍 Ruda\, Žďár nad Sázavou\n\n🚒 vyšetřovací automobil (ÚO Žďár n
+ ad Sázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:420656061
+DTSTART:20261004T174440Z
+DTEND:20261004T184440Z
+DTSTAMP:20261004T174440Z
+SUMMARY:🛠️ měření koncentrace - Havlíčkův Brod
+LOCATION:Zahradnického\, Havlíčkův Brod
+GEO:49.615375;15.570950
+URL:geo:49.615375,15.570950
+DESCRIPTION:📍 Zahradnického\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)
+END:VEVENT
 END:VCALENDAR
