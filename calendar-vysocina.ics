@@ -821,7 +821,8 @@ SUMMARY:🚑 transport pacienta - Polná
 LOCATION:Palackého\, Polná
 GEO:49.484807;15.724620
 URL:geo:49.484807,15.724620
-DESCRIPTION:📍 Palackého\, Polná\, Jihlava\n\n🚒 CAS (HS Polná)
+DESCRIPTION:📍 Palackého\, Polná\, Jihlava\n💬 Transport pacienta na žádost Z
+ ZS.\n\n🚒 CAS (HS Polná)
 END:VEVENT
 BEGIN:VEVENT
 UID:420639061
@@ -843,6 +844,18 @@ SUMMARY:🚑 otevření/asistence - Třešť
 LOCATION:Barvířská\, Třešť
 GEO:49.290214;15.481372
 URL:geo:49.290214,15.481372
-DESCRIPTION:📍 Barvířská\, Třešť\, Jihlava\n\n🚒 CAS (HS Třešť)
+DESCRIPTION:📍 Barvířská\, Třešť\, Jihlava\n💬 Vyproštění kočky zaseklé v okn
+ ě RD.\n\n🚒 CAS (HS Třešť)
+END:VEVENT
+BEGIN:VEVENT
+UID:420642061
+DTSTART:20261004T123515Z
+DTEND:20261004T133515Z
+DTSTAMP:20261004T123515Z
+SUMMARY:🚗 dopravní nehoda - Pacov
+LOCATION:Spálená\, Pacov
+GEO:49.471657;15.006258
+URL:geo:49.471657,15.006258
+DESCRIPTION:📍 Spálená\, Pacov\, Pelhřimov\n\n🚒 CAS (HS Pacov)
 END:VEVENT
 END:VCALENDAR
