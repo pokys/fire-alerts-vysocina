@@ -776,4 +776,15 @@ URL:geo:49.293492,16.177437
 DESCRIPTION:📍 Bezděkov\, Velká Bíteš\, Žďár nad Sázavou\n\n🚒 CAS (HS Velká 
  Bíteš)\n🚒 RZA (HS Velké Meziříčí)
 END:VEVENT
+BEGIN:VEVENT
+UID:420662061
+DTSTART:20261004T213010Z
+DTEND:20261004T223010Z
+DTSTAMP:20261004T213010Z
+SUMMARY:🛠️ otevření bytu/auta - Hrotovice
+LOCATION:Zákostelní\, Hrotovice
+GEO:49.107304;16.055462
+URL:geo:49.107304,16.055462
+DESCRIPTION:📍 Zákostelní\, Hrotovice\, Třebíč\n\n🚒 CAS (HS Hrotovice)
+END:VEVENT
 END:VCALENDAR
