@@ -709,4 +709,16 @@ URL:geo:49.568164,15.937673
 DESCRIPTION:📍 Libušínská\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n💬 Spolupr
  áce s ZZS\, poskytnutí první pomoci.\n\n🚒 CAS (CHS Žďár nad Sázavou)
 END:VEVENT
+BEGIN:VEVENT
+UID:420679061
+DTSTART:20261005T113204Z
+DTEND:20261005T123204Z
+DTSTAMP:20261005T113204Z
+SUMMARY:🚑 otevření/asistence - Bukov
+LOCATION:Bukov
+GEO:49.455494;16.224242
+URL:geo:49.455494,16.224242
+DESCRIPTION:📍 Bukov\, Žďár nad Sázavou\n\n🚒 CAS (HS Bystřice nad Pernštejne
+ m)
+END:VEVENT
 END:VCALENDAR
