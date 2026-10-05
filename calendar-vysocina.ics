@@ -721,4 +721,16 @@ URL:geo:49.260373,15.312889
 DESCRIPTION:📍 Horní Dubenky\, Jihlava\n💬 Odstranění obtížného hmyzu.\n\n🚒 C
  AS (Počátky)
 END:VEVENT
+BEGIN:VEVENT
+UID:420676061
+DTSTART:20261005T103611Z
+DTEND:20261005T113611Z
+DTSTAMP:20261005T103611Z
+SUMMARY:🛠️ spolupráce IZS - Žďár nad Sázavou
+LOCATION:Libušínská\, Žďár nad Sázavou
+GEO:49.568164;15.937673
+URL:geo:49.568164,15.937673
+DESCRIPTION:📍 Libušínská\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n\n🚒 CAS (
+ CHS Žďár nad Sázavou)
+END:VEVENT
 END:VCALENDAR
