@@ -694,7 +694,8 @@ SUMMARY:🛠️ otevření bytu/auta - Polná
 LOCATION:Nad Rybníkem\, Polná
 GEO:49.489044;15.727496
 URL:geo:49.489044,15.727496
-DESCRIPTION:📍 Nad Rybníkem\, Polná\, Jihlava\n\n🚒 CAS (HS Polná)
+DESCRIPTION:📍 Nad Rybníkem\, Polná\, Jihlava\n💬 Otevření RD. Dům se nepodař
+ ilo otevřít. Předáno odborné firmě.\n\n🚒 CAS (HS Polná)
 END:VEVENT
 BEGIN:VEVENT
 UID:420667061
@@ -717,7 +718,8 @@ SUMMARY:🚑 transport pacienta - Humpolec
 LOCATION:Lnářská\, Humpolec
 GEO:49.540212;15.353123
 URL:geo:49.540212,15.353123
-DESCRIPTION:📍 Lnářská\, Humpolec\, Pelhřimov\n\n🚒 CAS (HS Humpolec)
+DESCRIPTION:📍 Lnářská\, Humpolec\, Pelhřimov\n💬 Transport pacienta na žádos
+ t ZZS.\n\n🚒 CAS (HS Humpolec)
 END:VEVENT
 BEGIN:VEVENT
 UID:420673061
@@ -731,5 +733,16 @@ URL:geo:49.633133,15.391495
 DESCRIPTION:📍 Dolní Město\, Havlíčkův Brod\n\n🚒 CAS (HS Světlá nad Sázavou)
  \n🚒 CAS (Dolní Město)\n🚒 CAS (Lipnice nad Sázavou)\n🚒 vyšetřovací automobi
  l (ÚO Havlíčkův Brod)
+END:VEVENT
+BEGIN:VEVENT
+UID:420674061
+DTSTART:20261005T091901Z
+DTEND:20261005T101901Z
+DTSTAMP:20261005T091901Z
+SUMMARY:🛠️ obtížný hmyz - Horní Dubenky
+LOCATION:Horní Dubenky
+GEO:49.260373;15.312889
+URL:geo:49.260373,15.312889
+DESCRIPTION:📍 Horní Dubenky\, Jihlava\n\n🚒 CAS (Počátky)
 END:VEVENT
 END:VCALENDAR
