@@ -112,4 +112,15 @@ URL:geo:49.567012,15.386789
 DESCRIPTION:📍 Čejov\, Pelhřimov\n💬 Požár hnojniště.\n\n🚒 CAS (HS Humpolec)\
  n🚒 CAS (Humpolec)\n🚒 CAS (Kejžlice)\n🚒 osobní automobil (Čejov)
 END:VEVENT
+BEGIN:VEVENT
+UID:420707061
+DTSTART:20261006T074204Z
+DTEND:20261006T084204Z
+DTSTAMP:20261006T074204Z
+SUMMARY:🛠️ ostatní - Pelhřimov
+LOCATION:Dolnokubínská\, Pelhřimov
+GEO:49.433653;15.211357
+URL:geo:49.433653,15.211357
+DESCRIPTION:📍 Dolnokubínská\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)
+END:VEVENT
 END:VCALENDAR
