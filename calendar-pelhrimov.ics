@@ -88,4 +88,16 @@ URL:geo:49.374590,15.194197
 DESCRIPTION:📍 Libkova Voda\, Pelhřimov\n💬 Odstranění obtížného hmyzu.\n\n🚒 
  CAS (CHS Pelhřimov)\n🚒 vysavač na hmyz (CHS Pelhřimov)
 END:VEVENT
+BEGIN:VEVENT
+UID:420733061
+DTSTART:20261006T173045Z
+DTEND:20261006T183045Z
+DTSTAMP:20261006T173045Z
+SUMMARY:🔥 Pelhřimov
+LOCATION:Dolnokubínská\, Pelhřimov
+GEO:49.435114;15.212685
+URL:geo:49.435114,15.212685
+DESCRIPTION:📍 Dolnokubínská\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (CH
+ S Pelhřimov)\n🚒 CAS (Rynárec)\n🚒 DA (Olešná (PE))\n🚒 CAS (Olešná (PE))
+END:VEVENT
 END:VCALENDAR
