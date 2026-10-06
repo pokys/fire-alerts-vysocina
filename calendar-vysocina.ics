@@ -491,17 +491,6 @@ DESCRIPTION:📍 Nezvalova\, Žďár nad Sázavou 4\, Žďár nad Sázavou\n💬
   bytu na žádost PČR.\n\n🚒 CAS (CHS Žďár nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
-UID:420709061
-DTSTART:20261006T090502Z
-DTEND:20261006T100502Z
-DTSTAMP:20261006T090502Z
-SUMMARY:🛠️ ostatní - Jimramov
-LOCATION:Jimramov
-GEO:49.618705;16.258301
-URL:geo:49.618705,16.258301
-DESCRIPTION:📍 Ubušín\, Jimramov\, Žďár nad Sázavou\n\n🚒 CAS (Jimramov)
-END:VEVENT
-BEGIN:VEVENT
 UID:420710061
 DTSTART:20261006T091241Z
 DTEND:20261006T101241Z
@@ -510,6 +499,19 @@ SUMMARY:🛠️ otevření bytu/auta - Havlíčkův Brod
 LOCATION:Prokopa Holého\, Havlíčkův Brod
 GEO:49.606919;15.584150
 URL:geo:49.606919,15.584150
-DESCRIPTION:📍 Prokopa Holého\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)
+DESCRIPTION:📍 Prokopa Holého\, Havlíčkův Brod\n💬 Otevření bytu.\n\n🚒 CAS (C
+ HS Havlíčkův Brod)
+END:VEVENT
+BEGIN:VEVENT
+UID:420711061
+DTSTART:20261006T091315Z
+DTEND:20261006T101315Z
+DTSTAMP:20261006T091315Z
+SUMMARY:🛠️ otevření bytu/auta - Havlíčkův Brod
+LOCATION:Pražská\, Havlíčkův Brod
+GEO:49.612805;15.577720
+URL:geo:49.612805,15.577720
+DESCRIPTION:📍 Pražská\, Havlíčkův Brod\n💬 Otevření bytu.\n\n🚒 CAS (CHS Havl
+ íčkův Brod)
 END:VEVENT
 END:VCALENDAR
