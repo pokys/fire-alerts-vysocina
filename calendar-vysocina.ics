@@ -490,4 +490,16 @@ URL:geo:49.567012,15.386789
 DESCRIPTION:📍 Čejov\, Pelhřimov\n💬 Požár hnojniště.\n\n🚒 CAS (HS Humpolec)\
  n🚒 CAS (Humpolec)\n🚒 CAS (Kejžlice)\n🚒 osobní automobil (Čejov)
 END:VEVENT
+BEGIN:VEVENT
+UID:420702061
+DTSTART:20261006T052612Z
+DTEND:20261006T062612Z
+DTSTAMP:20261006T052612Z
+SUMMARY:🔥 Žďár nad Sázavou
+LOCATION:Strojírenská\, Žďár nad Sázavou
+GEO:49.557727;15.937103
+URL:geo:49.557727,15.937103
+DESCRIPTION:📍 Strojírenská\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n\n🚒 CAS
+  (CHS Žďár nad Sázavou) ×2\n🚒 CAS (CHS Žďár nad Sázavou) ×2
+END:VEVENT
 END:VCALENDAR
