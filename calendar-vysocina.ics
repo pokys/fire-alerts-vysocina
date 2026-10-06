@@ -353,9 +353,9 @@ SUMMARY:🔥 venkovní požár - Dolní Město
 LOCATION:Dolní Město
 GEO:49.633133;15.391495
 URL:geo:49.633133,15.391495
-DESCRIPTION:📍 Dolní Město\, Havlíčkův Brod\n💬 Požár thůjí. Uchráněný majete
- k 20 000Kč.\n\n🚒 CAS (HS Světlá nad Sázavou)\n🚒 CAS (Dolní Město)\n🚒 CAS (
- Lipnice nad Sázavou)\n🚒 vyšetřovací automobil (ÚO Havlíčkův Brod)
+DESCRIPTION:📍 Dolní Město\, Havlíčkův Brod\n💬 Požár thůjí. Lokalizace a lik
+ vidace události.\n\n🚒 CAS (HS Světlá nad Sázavou)\n🚒 CAS (Dolní Město)\n🚒 
+ CAS (Lipnice nad Sázavou)\n🚒 vyšetřovací automobil (ÚO Havlíčkův Brod)
 END:VEVENT
 BEGIN:VEVENT
 UID:420674061
@@ -390,8 +390,8 @@ SUMMARY:🚑 otevření/asistence - Bukov
 LOCATION:Bukov
 GEO:49.455494;16.224242
 URL:geo:49.455494,16.224242
-DESCRIPTION:📍 Bukov\, Žďár nad Sázavou\n💬 Spolupráce s ZZS\, vyproštění oso
- by v bytě.\n\n🚒 CAS (HS Bystřice nad Pernštejnem)
+DESCRIPTION:📍 Bukov\, Žďár nad Sázavou\n💬 Spolupráce s ZZS.\n\n🚒 CAS (HS By
+ střice nad Pernštejnem)
 END:VEVENT
 BEGIN:VEVENT
 UID:420680061
@@ -438,9 +438,9 @@ SUMMARY:🚗 bez zranění - Rozsochatec
 LOCATION:Rozsochatec
 GEO:49.681106;15.639178
 URL:geo:49.681106,15.639178
-DESCRIPTION:📍 Rozsochatec\, Havlíčkův Brod\n💬 DN 4x OA - 1x autobus. ZZS tr
- ansportovala jednu zraněnou osobu k dalšímu ošetření do ON. Odstranění nás
- ledků po DN.\n\n🚒 CAS (HS Chotěboř)
+DESCRIPTION:📍 Rozsochatec\, Havlíčkův Brod\n💬 DN 4 OA a autobus. 1 zraněná 
+ osoba. Zajištění místa nehody a protipožární opatření.\n\n🚒 CAS (HS Chotěb
+ oř)
 END:VEVENT
 BEGIN:VEVENT
 UID:420695061
