@@ -441,4 +441,15 @@ URL:geo:49.435114,15.212685
 DESCRIPTION:📍 Dolnokubínská\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (CH
  S Pelhřimov)\n🚒 CAS (Rynárec)\n🚒 DA (Olešná (PE))\n🚒 CAS (Olešná (PE))
 END:VEVENT
+BEGIN:VEVENT
+UID:420738061
+DTSTART:20261007T032412Z
+DTEND:20261007T042412Z
+DTSTAMP:20261007T032412Z
+SUMMARY:🛠️ spolupráce IZS - Žďár nad Sázavou
+LOCATION:Palachova\, Žďár nad Sázavou
+GEO:49.556510;15.943473
+URL:geo:49.556510,15.943473
+DESCRIPTION:📍 Palachova\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad Sázavou)
+END:VEVENT
 END:VCALENDAR
