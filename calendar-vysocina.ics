@@ -453,4 +453,17 @@ URL:geo:49.556510,15.943473
 DESCRIPTION:📍 Palachova\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad Sázavou)\
  n🚒 VEA (CHS Žďár nad Sázavou)
 END:VEVENT
+BEGIN:VEVENT
+UID:420740061
+DTSTART:20261007T043250Z
+DTEND:20261007T053250Z
+DTSTAMP:20261007T043250Z
+SUMMARY:⚠️ planý poplach - Jihlava
+LOCATION:Tolstého\, Jihlava
+GEO:49.398329;15.583166
+URL:geo:49.398329,15.583166
+DESCRIPTION:📍 Tolstého\, Jihlava\n💬 Požár ohlášený systémem elektrické požá
+ rní signalizace. Průzkumem bylo zjištěno\, že se jedná o planý poplach.\n\
+ n🚒 CAS (CHS Jihlava) ×2\n🚒 CAS (CHS Jihlava) ×2
+END:VEVENT
 END:VCALENDAR
