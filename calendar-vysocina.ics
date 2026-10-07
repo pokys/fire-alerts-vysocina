@@ -493,4 +493,38 @@ DESCRIPTION:📍 Pelhřimovská\, Pístov\, Jihlava\n💬 Požár ohlášený sy
  ektrické požární signalizace. Průzkumem bylo zjištěno\, že se jedná o plan
  ý poplach.\n\n🚒 CAS (CHS Jihlava) ×2
 END:VEVENT
+BEGIN:VEVENT
+UID:420759061
+DTSTART:20261007T074745Z
+DTEND:20261007T084745Z
+DTSTAMP:20261007T074745Z
+SUMMARY:🛠️ ostatní - Lukavec
+LOCATION:Lukavec
+GEO:49.569440;14.994444
+URL:geo:49.569440,14.994444
+DESCRIPTION:📍 Lukavec\, Pelhřimov\n\n🚒 CAS (Lukavec)
+END:VEVENT
+BEGIN:VEVENT
+UID:420760061
+DTSTART:20261007T074827Z
+DTEND:20261007T084827Z
+DTSTAMP:20261007T074827Z
+SUMMARY:🚑 spolupráce ZZS - Golčův Jeníkov
+LOCATION:Komenského\, Golčův Jeníkov
+GEO:49.816647;15.470011
+URL:geo:49.816647,15.470011
+DESCRIPTION:📍 Komenského\, Golčův Jeníkov\, Havlíčkův Brod\n💬 Spolupráce s 
+ ZZS.\n\n🚒 CAS (HS Ledeč nad Sázavou)\n🚒 CAS (Golčův Jeníkov)
+END:VEVENT
+BEGIN:VEVENT
+UID:420762061
+DTSTART:20261007T075800Z
+DTEND:20261007T085800Z
+DTSTAMP:20261007T075800Z
+SUMMARY:🚑 otevření/asistence - Chotěboř
+LOCATION:Smetanova\, Chotěboř
+GEO:49.719681;15.672902
+URL:geo:49.719681,15.672902
+DESCRIPTION:📍 Smetanova\, Chotěboř\, Havlíčkův Brod\n\n🚒 CAS (HS Chotěboř)
+END:VEVENT
 END:VCALENDAR
