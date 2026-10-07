@@ -525,4 +525,17 @@ URL:geo:49.020045,15.607258
 DESCRIPTION:📍 Lhotice\, Třebíč\n💬 Odstranění obtížného hmyzu.\n\n🚒 CAS (HS 
  Jemnice)
 END:VEVENT
+BEGIN:VEVENT
+UID:420788061
+DTSTART:20261007T141156Z
+DTEND:20261007T151156Z
+DTSTAMP:20261007T141156Z
+SUMMARY:🔥 venkovní požár - Březí nad Oslavou
+LOCATION:Březí nad Oslavou
+GEO:49.502054;15.933505
+URL:geo:49.502054,15.933505
+DESCRIPTION:📍 Březí nad Oslavou\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad S
+ ázavou)\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 vozidlo účelové - SxS (Březí nad 
+ Oslavou)
+END:VEVENT
 END:VCALENDAR
