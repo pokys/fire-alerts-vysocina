@@ -529,4 +529,17 @@ URL:geo:49.523422,16.272392
 DESCRIPTION:📍 Vírská\, Bystřice nad Pernštejnem\, Žďár nad Sázavou\n💬 Planý
   poplach.\n\n🚒 CAS (HS Bystřice nad Pernštejnem)
 END:VEVENT
+BEGIN:VEVENT
+UID:420799061
+DTSTART:20261007T172020Z
+DTEND:20261007T182020Z
+DTSTAMP:20261007T172020Z
+SUMMARY:🔥 tráva/plocha - Chýstovice
+LOCATION:Chýstovice
+GEO:49.577836;15.092031
+URL:geo:49.577836,15.092031
+DESCRIPTION:📍 Chýstovice\, Pelhřimov\n\n🚒 CAS (HS Pacov)\n🚒 CAS (HS Pacov)\
+ n🚒 CAS (Košetice)\n🚒 CAS (Košetice)\n🚒 CAS (Onšov)\n🚒 osobní automobil (Ch
+ ýstovice)
+END:VEVENT
 END:VCALENDAR
