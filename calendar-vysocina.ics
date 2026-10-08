@@ -596,4 +596,17 @@ URL:geo:49.017279,15.575100
 DESCRIPTION:📍 Tyršova\, Jemnice\, Třebíč\n💬 Lividace olejové skvrny na poze
  mní komunikaci.\n\n🚒 CAS (HS Jemnice)
 END:VEVENT
+BEGIN:VEVENT
+UID:420810061
+DTSTART:20261008T063342Z
+DTEND:20261008T073342Z
+DTSTAMP:20261008T063342Z
+SUMMARY:🚗 dopravní nehoda - Havlíčkův Brod
+LOCATION:Mírová\, Havlíčkův Brod
+GEO:49.598948;15.590912
+URL:geo:49.598948,15.590912
+DESCRIPTION:📍 Mírová\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 auto
+ mobilový nosič kontejnerů (CHS Havlíčkův Brod)\n🚒 kontejner technický - ch
+ emický (CHS Havlíčkův Brod)
+END:VEVENT
 END:VCALENDAR
