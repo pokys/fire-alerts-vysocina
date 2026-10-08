@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:420723061
-DTSTART:20261006T132932Z
-DTEND:20261006T142932Z
-DTSTAMP:20261006T132932Z
-SUMMARY:🚑 otevření/asistence - Jihlava
-LOCATION:Březinova\, Jihlava
-GEO:49.404946;15.595063
-URL:geo:49.404946,15.595063
-DESCRIPTION:📍 Březinova\, Jihlava\n💬 Pomoc se zvednutím imobilní osoby.\n\n
- 🚒 CAS (CHS Jihlava)
-END:VEVENT
-BEGIN:VEVENT
 UID:420724061
 DTSTART:20261006T135244Z
 DTEND:20261006T145244Z
@@ -294,7 +282,7 @@ GEO:49.179430;15.585654
 URL:geo:49.179430,15.585654
 DESCRIPTION:📍 Stará Říše\, Jihlava\n💬 Požár stohu slámy. Lokalizace a likvi
  dace události.\n\n🚒 CAS (HS Telč)\n🚒 CAS (HS Telč)\n🚒 CAS (Nová Říše)\n🚒 D
- A (Stará Říše) ×2\n🚒 CAS (Stará Říše)\n🚒 vyšetřovací automobil (ÚO Jihlava
+ A (Stará Říše) ×3\n🚒 CAS (Stará Říše)\n🚒 vyšetřovací automobil (ÚO Jihlava
  )
 END:VEVENT
 BEGIN:VEVENT
