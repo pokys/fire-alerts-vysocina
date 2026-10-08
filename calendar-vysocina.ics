@@ -440,7 +440,8 @@ GEO:49.179430;15.585654
 URL:geo:49.179430,15.585654
 DESCRIPTION:📍 Stará Říše\, Jihlava\n💬 Požár stohu slámy. Lokalizace a likvi
  dace události.\n\n🚒 CAS (HS Telč)\n🚒 CAS (HS Telč)\n🚒 CAS (Nová Říše)\n🚒 D
- A (Stará Říše)\n🚒 CAS (Stará Říše)\n🚒 vyšetřovací automobil (ÚO Jihlava)
+ A (Stará Říše) ×2\n🚒 CAS (Stará Říše)\n🚒 vyšetřovací automobil (ÚO Jihlava
+ )
 END:VEVENT
 BEGIN:VEVENT
 UID:420787061
@@ -477,7 +478,7 @@ SUMMARY:🚗 dopravní nehoda - Svojkovice
 LOCATION:Svojkovice
 GEO:49.158139;15.647272
 URL:geo:49.158139,15.647272
-DESCRIPTION:📍 Svojkovice\, Jihlava\n💬 Dopravní nehoda 2 OA a dodávka.  1 zr
+DESCRIPTION:📍 Svojkovice\, Jihlava\n💬 Dopravní nehoda 2 OA a dodávky.  1 zr
  aněná osoba. Zajištění místa nehody.\n\n🚒 CAS (HS Telč)\n🚒 CAS (Želetava)
 END:VEVENT
 BEGIN:VEVENT
