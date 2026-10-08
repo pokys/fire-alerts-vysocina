@@ -315,8 +315,11 @@ DESCRIPTION:📍 Bukov\, Žďár nad Sázavou\n💬 Požár střechy zemědělsk
  nem)\n🚒 DA (Bukov)\n🚒 CAS (Dolní Rožínka)\n🚒 CAS (Strážek)\n🚒 DA (Blažkov)
  \n🚒 CAS (Blažkov)\n🚒 pěnový hasicí automobil (Blažkov)\n🚒 DA (Bobrová)\n🚒 
  CAS (Bobrová)\n🚒 DA (Bystřice nad Pernštejnem)\n🚒 CAS (Bystřice nad Pernšt
- ejnem)\n🚒 DA (Rožná)\n🚒 vyšetřovací automobil (ÚO Žďár nad Sázavou)\n🚒 oso
- bní automobil (KŘ HZS VYS)
+ ejnem)\n🚒 DA (Rožná)\n🚒 DA (Doubravník)\n🚒 CAS (Doubravník)\n🚒 VEA (Nedvěd
+ ice)\n🚒 CAS (HS Tišnov)\n🚒 vyšetřovací automobil (ÚO Žďár nad Sázavou)\n🚒 
+ osobní automobil (KŘ HZS VYS)\n🚒 automobilový tahač návěsů (ZÚ HZS ČR - Ji
+ hlava)\n🚒 účelový automobil do 3500 kg (ZÚ HZS ČR - Jihlava)\n🚒 vozidlo úč
+ elové pásové (ZÚ HZS ČR - Jihlava)\n🚒 návěs hlubinný (ZÚ HZS ČR - Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:420808061
@@ -521,7 +524,8 @@ SUMMARY:🛠️ ostatní - Jihlava
 LOCATION:Telečská\, Jihlava
 GEO:49.390743;15.580045
 URL:geo:49.390743,15.580045
-DESCRIPTION:📍 Telečská\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+DESCRIPTION:📍 Telečská\, Jihlava\n💬 Pomoc se zvednutím imobilní osoby.\n\n🚒
+  CAS (CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:420838061
