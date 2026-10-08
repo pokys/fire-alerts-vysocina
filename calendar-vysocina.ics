@@ -560,7 +560,8 @@ SUMMARY:🛠️ strom - Třebíč
 LOCATION:Třebíč
 GEO:49.215334;15.935458
 URL:geo:49.215334,15.935458
-DESCRIPTION:📍 Ptáčov\, Třebíč\n💬 Odstranění stromu.\n\n🚒 CAS (CHS Třebíč)
+DESCRIPTION:📍 Ptáčov\, Třebíč\n💬 Odstranění stromu.\n\n🚒 CAS (CHS Třebíč)\n
+ 🚒 pila řetězová (CHS Třebíč)
 END:VEVENT
 BEGIN:VEVENT
 UID:420841061
@@ -572,5 +573,17 @@ LOCATION:Štoky
 GEO:49.500607;15.542467
 URL:geo:49.500607,15.542467
 DESCRIPTION:📍 Petrovice\, Štoky\, Havlíčkův Brod\n\n🚒 CAS (Větrný Jeníkov)
+END:VEVENT
+BEGIN:VEVENT
+UID:420842061
+DTSTART:20261008T201619Z
+DTEND:20261008T211619Z
+DTSTAMP:20261008T201619Z
+SUMMARY:🛠️ měření koncentrace - Luka nad Jihlavou
+LOCATION:Nad Žlabem\, Luka nad Jihlavou
+GEO:49.379044;15.694616
+URL:geo:49.379044,15.694616
+DESCRIPTION:📍 Nad Žlabem\, Luka nad Jihlavou\, Jihlava\n\n🚒 CAS (CHS Jihlav
+ a)
 END:VEVENT
 END:VCALENDAR
