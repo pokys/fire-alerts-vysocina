@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:420732061
-DTSTART:20261006T164234Z
-DTEND:20261006T174234Z
-DTSTAMP:20261006T164234Z
-SUMMARY:🚗 se zraněním - Koněšín
-LOCATION:Koněšín
-GEO:49.214997;16.042993
-URL:geo:49.214997,16.042993
-DESCRIPTION:📍 Koněšín\, Třebíč\n💬 Dopravní nehoda 1 OA a srny\, bez zranění
- . Zajištění místa zásahu.\n\n🚒 CAS (HS Náměšť nad Oslavou)
-END:VEVENT
-BEGIN:VEVENT
 UID:420733061
 DTSTART:20261006T173045Z
 DTEND:20261006T183045Z
@@ -485,8 +473,8 @@ SUMMARY:🛠️ čerpání vody - Žďár nad Sázavou
 LOCATION:Dvorská\, Žďár nad Sázavou
 GEO:49.583764;15.928305
 URL:geo:49.583764,15.928305
-DESCRIPTION:📍 Dvorská\, Žďár nad Sázavou 2\, Žďár nad Sázavou\n\n🚒 CAS (Žďá
- r nad Sázavou-Zámek)
+DESCRIPTION:📍 Dvorská\, Žďár nad Sázavou 2\, Žďár nad Sázavou\n💬 Čerpání za
+ kalené vody ze studny.\n\n🚒 CAS (Žďár nad Sázavou-Zámek)
 END:VEVENT
 BEGIN:VEVENT
 UID:420833061
@@ -522,5 +510,18 @@ GEO:49.350083;16.010910
 URL:geo:49.350083,16.010910
 DESCRIPTION:📍 Velké Meziříčí\, Žďár nad Sázavou\n💬 Spolupráce se ZZS.\n\n🚒 
  CAS (HS Velké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)
+END:VEVENT
+BEGIN:VEVENT
+UID:420836061
+DTSTART:20261008T162812Z
+DTEND:20261008T172812Z
+DTSTAMP:20261008T162812Z
+SUMMARY:🔥 budova - Kralice nad Oslavou
+LOCATION:Sadová\, Kralice nad Oslavou
+GEO:49.201204;16.202219
+URL:geo:49.201204,16.202219
+DESCRIPTION:📍 Sadová\, Kralice nad Oslavou\, Třebíč\n\n🚒 CAS (HS Náměšť nad
+  Oslavou)\n🚒 CAS (HS Velká Bíteš)\n🚒 DA (Kralice nad Oslavou-Horní Lhotice
+ )\n🚒 CAS (Kralice nad Oslavou)\n🚒 vyšetřovací automobil (ÚO Třebíč)
 END:VEVENT
 END:VCALENDAR
