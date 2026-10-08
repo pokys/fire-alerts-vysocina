@@ -552,9 +552,9 @@ SUMMARY:🚗 úklid místa - Jihlava
 LOCATION:Havlíčkova\, Jihlava
 GEO:49.405839;15.589093
 URL:geo:49.405839,15.589093
-DESCRIPTION:📍 Havlíčkova\, Jihlava\n💬 DN OA bez zranění\, likvidace úniku n
- afty z havarovaného OA.\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihlava)\n🚒 úče
- lový automobil do 3500 kg (ÚO Jihlava)
+DESCRIPTION:📍 Havlíčkova\, Jihlava\n💬 DN 1 OA bez zranění\, likvidace úniku
+  nafty z havarovaného OA.\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihlava)\n🚒 ú
+ čelový automobil do 3500 kg (ÚO Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:420802061
@@ -565,11 +565,11 @@ SUMMARY:🔥 budova - Bukov
 LOCATION:Bukov
 GEO:49.461585;16.227071
 URL:geo:49.461585,16.227071
-DESCRIPTION:📍 Bukov\, Žďár nad Sázavou\n\n🚒 CAS (HS Bystřice nad Pernštejne
- m)\n🚒 CAS (HS Bystřice nad Pernštejnem)\n🚒 DA (Bukov)\n🚒 CAS (Dolní Rožínk
- a)\n🚒 CAS (Strážek)\n🚒 DA (Blažkov)\n🚒 CAS (Blažkov)\n🚒 pěnový hasicí auto
- mobil (Blažkov)\n🚒 DA (Bobrová)\n🚒 CAS (Bobrová)\n🚒 DA (Bystřice nad Pernš
- tejnem)\n🚒 CAS (Bystřice nad Pernštejnem)\n🚒 DA (Rožná)\n🚒 vyšetřovací aut
- omobil (ÚO Žďár nad Sázavou)
+DESCRIPTION:📍 Bukov\, Žďár nad Sázavou\n💬 Požár střechy zemědělské usedlost
+ i.\n\n🚒 CAS (HS Bystřice nad Pernštejnem)\n🚒 CAS (HS Bystřice nad Pernštej
+ nem)\n🚒 DA (Bukov)\n🚒 CAS (Dolní Rožínka)\n🚒 CAS (Strážek)\n🚒 DA (Blažkov)
+ \n🚒 CAS (Blažkov)\n🚒 pěnový hasicí automobil (Blažkov)\n🚒 DA (Bobrová)\n🚒 
+ CAS (Bobrová)\n🚒 DA (Bystřice nad Pernštejnem)\n🚒 CAS (Bystřice nad Pernšt
+ ejnem)\n🚒 DA (Rožná)\n🚒 vyšetřovací automobil (ÚO Žďár nad Sázavou)
 END:VEVENT
 END:VCALENDAR
