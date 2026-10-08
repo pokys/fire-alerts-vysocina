@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:420705061
-DTSTART:20261006T065225Z
-DTEND:20261006T075225Z
-DTSTAMP:20261006T065225Z
-SUMMARY:🛠️ obtížný hmyz - Náměšť nad Oslavou
-LOCATION:Náměšť nad Oslavou
-GEO:49.214869;16.187016
-URL:geo:49.214869,16.187016
-DESCRIPTION:📍 Otradice\, Náměšť nad Oslavou\, Třebíč\n💬 Odstranění obtížnéh
- o hmyzu.\n\n🚒 CAS (HS Náměšť nad Oslavou)
-END:VEVENT
-BEGIN:VEVENT
 UID:420706061
 DTSTART:20261006T071121Z
 DTEND:20261006T081121Z
@@ -571,7 +559,8 @@ DESCRIPTION:📍 Bukov\, Žďár nad Sázavou\n💬 Požár střechy zemědělsk
  nem)\n🚒 DA (Bukov)\n🚒 CAS (Dolní Rožínka)\n🚒 CAS (Strážek)\n🚒 DA (Blažkov)
  \n🚒 CAS (Blažkov)\n🚒 pěnový hasicí automobil (Blažkov)\n🚒 DA (Bobrová)\n🚒 
  CAS (Bobrová)\n🚒 DA (Bystřice nad Pernštejnem)\n🚒 CAS (Bystřice nad Pernšt
- ejnem)\n🚒 DA (Rožná)\n🚒 vyšetřovací automobil (ÚO Žďár nad Sázavou)
+ ejnem)\n🚒 DA (Rožná)\n🚒 vyšetřovací automobil (ÚO Žďár nad Sázavou)\n🚒 oso
+ bní automobil (KŘ HZS VYS)
 END:VEVENT
 BEGIN:VEVENT
 UID:420808061
@@ -595,18 +584,5 @@ GEO:49.017279;15.575100
 URL:geo:49.017279,15.575100
 DESCRIPTION:📍 Tyršova\, Jemnice\, Třebíč\n💬 Lividace olejové skvrny na poze
  mní komunikaci.\n\n🚒 CAS (HS Jemnice)
-END:VEVENT
-BEGIN:VEVENT
-UID:420810061
-DTSTART:20261008T063342Z
-DTEND:20261008T073342Z
-DTSTAMP:20261008T063342Z
-SUMMARY:🚗 dopravní nehoda - Havlíčkův Brod
-LOCATION:Mírová\, Havlíčkův Brod
-GEO:49.598948;15.590912
-URL:geo:49.598948,15.590912
-DESCRIPTION:📍 Mírová\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 auto
- mobilový nosič kontejnerů (CHS Havlíčkův Brod)\n🚒 kontejner technický - ch
- emický (CHS Havlíčkův Brod)
 END:VEVENT
 END:VCALENDAR
