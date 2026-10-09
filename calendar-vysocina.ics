@@ -5,20 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:420786061
-DTSTART:20261007T124911Z
-DTEND:20261007T134911Z
-DTSTAMP:20261007T124911Z
-SUMMARY:🔥 tráva/plocha - Stará Říše
-LOCATION:Stará Říše
-GEO:49.179430;15.585654
-URL:geo:49.179430,15.585654
-DESCRIPTION:📍 Stará Říše\, Jihlava\n💬 Požár stohu slámy. Lokalizace a likvi
- dace události.\n\n🚒 CAS (HS Telč)\n🚒 CAS (HS Telč)\n🚒 CAS (Nová Říše)\n🚒 D
- A (Stará Říše) ×3\n🚒 CAS (Stará Říše)\n🚒 vyšetřovací automobil (ÚO Jihlava
- )
-END:VEVENT
-BEGIN:VEVENT
 UID:420787061
 DTSTART:20261007T135151Z
 DTEND:20261007T145151Z
@@ -490,9 +476,9 @@ LOCATION:Želetava
 GEO:49.165583;15.682254
 URL:geo:49.165583,15.682254
 DESCRIPTION:📍 Bítovánky\, Želetava\, Třebíč\n💬 Požár lesního porostu 30x20 
- metrů. Hasební práce\, kontrola termokamerou.\n\n🚒 CAS (HS Moravské Budějo
- vice)\n🚒 CAS (HS Moravské Budějovice)\n🚒 CAS (Želetava)\n🚒 DA (Želetava-Bí
- továnky)\n🚒 CAS (Lesonice)\n🚒 vyšetřovací automobil (ÚO Třebíč)
+ metrů. Provedena lokalizace a likvidace požáru..\n\n🚒 CAS (HS Moravské Bud
+ ějovice)\n🚒 CAS (HS Moravské Budějovice)\n🚒 CAS (Želetava)\n🚒 DA (Želetava
+ -Bítovánky)\n🚒 CAS (Lesonice)\n🚒 vyšetřovací automobil (ÚO Třebíč)
 END:VEVENT
 BEGIN:VEVENT
 UID:420864061
@@ -503,8 +489,8 @@ SUMMARY:🔥 odpad - Velké Meziříčí
 LOCATION:Velké Meziříčí
 GEO:49.356681;16.063812
 URL:geo:49.356681,16.063812
-DESCRIPTION:📍 Lhotky\, Velké Meziříčí\, Žďár nad Sázavou\n💬 Zpětný zápisudá
- losti.\n\n🚒 DA (Velké Meziříčí-Lhotky)
+DESCRIPTION:📍 Lhotky\, Velké Meziříčí\, Žďár nad Sázavou\n💬 Zpětný zápis ud
+ álosti.\n\n🚒 DA (Velké Meziříčí-Lhotky)
 END:VEVENT
 BEGIN:VEVENT
 UID:420866061
