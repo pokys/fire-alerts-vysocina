@@ -5,31 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:420794061
-DTSTART:20261007T160020Z
-DTEND:20261007T170020Z
-DTSTAMP:20261007T160020Z
-SUMMARY:🚗 dopravní nehoda - Brtnice
-LOCATION:Brtnice
-GEO:49.314835;15.668160
-URL:geo:49.314835,15.668160
-DESCRIPTION:📍 Brtnice\, Jihlava\n💬 DN motocyklu. 1 zraněná osoba. Zajištění
-  místa nehody.\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihlava)
-END:VEVENT
-BEGIN:VEVENT
-UID:420795061
-DTSTART:20261007T160034Z
-DTEND:20261007T170034Z
-DTSTAMP:20261007T160034Z
-SUMMARY:🚗 úklid místa - Žďár nad Sázavou
-LOCATION:Bezručova\, Žďár nad Sázavou
-GEO:49.576763;15.938492
-URL:geo:49.576763,15.938492
-DESCRIPTION:📍 Bezručova\, Žďár nad Sázavou 2\, Žďár nad Sázavou\n💬 DN 2 OA 
- bez zranění\, bez úniku PHM. Jednotka provedla úklid vozovky.\n\n🚒 CAS (CH
- S Žďár nad Sázavou)
-END:VEVENT
-BEGIN:VEVENT
 UID:420797061
 DTSTART:20261007T161905Z
 DTEND:20261007T171905Z
@@ -556,11 +531,12 @@ UID:420878061
 DTSTART:20261009T152301Z
 DTEND:20261009T162301Z
 DTSTAMP:20261009T152301Z
-SUMMARY:🔥 Jihlava
+SUMMARY:⚠️ planý poplach - Jihlava
 LOCATION:Znojemská\, Jihlava
 GEO:49.384483;15.592675
 URL:geo:49.384483,15.592675
-DESCRIPTION:📍 Znojemská\, Jihlava\n\n🚒 CAS (CHS Jihlava) ×2\n🚒 CAS (CHS Jih
- lava) ×2
+DESCRIPTION:📍 Znojemská\, Jihlava\n💬 Požár ohlášený systémem elektrické pož
+ ární signalizace. Průzkumem bylo zjištěno\, že se jedná o planý poplach.\n
+ \n🚒 CAS (CHS Jihlava) ×2\n🚒 CAS (CHS Jihlava) ×2
 END:VEVENT
 END:VCALENDAR
