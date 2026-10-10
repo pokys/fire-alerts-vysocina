@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:420823061
-DTSTART:20261008T104834Z
-DTEND:20261008T114834Z
-DTSTAMP:20261008T104834Z
-SUMMARY:🛠️ čerpání vody - Cetoraz
-LOCATION:Cetoraz
-GEO:49.456484;14.936094
-URL:geo:49.456484,14.936094
-DESCRIPTION:📍 Cetoraz\, Pelhřimov\n💬 Čerpání vody.\n\n🚒 CAS (Pacov)\n🚒 čerp
- adlo kalové (Pacov)
-END:VEVENT
-BEGIN:VEVENT
 UID:420829061
 DTSTART:20261008T123055Z
 DTEND:20261008T133055Z
@@ -538,7 +526,7 @@ SUMMARY:🛠️ otevření bytu/auta - Velká Bíteš
 LOCATION:Družstevní\, Velká Bíteš
 GEO:49.293620;16.221182
 URL:geo:49.293620,16.221182
-DESCRIPTION:📍 Družstevní\, Velká Bíteš\, Žďár nad Sázavou\n\n🚒 CAS (HS Velk
- á Bíteš)
+DESCRIPTION:📍 Družstevní\, Velká Bíteš\, Žďár nad Sázavou\n💬 Otevření bytu.
+ \n\n🚒 CAS (HS Velká Bíteš)
 END:VEVENT
 END:VCALENDAR
