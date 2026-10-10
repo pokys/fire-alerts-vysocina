@@ -524,4 +524,16 @@ URL:geo:49.052251,15.817679
 DESCRIPTION:📍 Šafaříkova\, Moravské Budějovice\, Třebíč\n💬 Otevření bytu.\n
  \n🚒 CAS (HS Moravské Budějovice)
 END:VEVENT
+BEGIN:VEVENT
+UID:420883061
+DTSTART:20261010T014223Z
+DTEND:20261010T024223Z
+DTSTAMP:20261010T014223Z
+SUMMARY:🔥 technologie - Třešť
+LOCATION:Váňovská\, Třešť
+GEO:49.286874;15.483539
+URL:geo:49.286874,15.483539
+DESCRIPTION:📍 Váňovská\, Třešť\, Jihlava\n\n🚒 CAS (HS Třešť)\n🚒 CAS (Batelo
+ v)\n🚒 CAS (Stonařov)\n🚒 DA (Třešť)\n🚒 CAS (Třešť)
+END:VEVENT
 END:VCALENDAR
