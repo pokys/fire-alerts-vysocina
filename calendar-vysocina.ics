@@ -481,4 +481,17 @@ URL:geo:49.397806,15.608164
 DESCRIPTION:📍 Brněnská\, Jihlava\n💬 DN OA a dodávky\, 1 zraněná osoba. Zaji
  štění místa nehody.\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihlava)
 END:VEVENT
+BEGIN:VEVENT
+UID:420889061
+DTSTART:20261010T080302Z
+DTEND:20261010T090302Z
+DTSTAMP:20261010T080302Z
+SUMMARY:🔥 les - Nová Ves u Světlé
+LOCATION:Nová Ves u Světlé
+GEO:49.641460;15.447258
+URL:geo:49.641460,15.447258
+DESCRIPTION:📍 Nová Ves u Světlé\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Br
+ od)\n🚒 CAS (HS Světlá nad Sázavou)\n🚒 DA (Nová Ves u Světlé)\n🚒 DA (Světlá
+  nad Sázavou)\n🚒 CAS (Světlá nad Sázavou)
+END:VEVENT
 END:VCALENDAR
