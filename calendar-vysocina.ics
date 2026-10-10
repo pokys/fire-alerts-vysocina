@@ -506,4 +506,16 @@ URL:geo:49.690708,15.850153
 DESCRIPTION:📍 Javorová\, Krucemburk\, Havlíčkův Brod\n💬 Odstranění obtížnéh
  o hmyzu.\n\n🚒 CAS (Ždírec nad Doubravou)
 END:VEVENT
+BEGIN:VEVENT
+UID:420888061
+DTSTART:20261010T064215Z
+DTEND:20261010T074215Z
+DTSTAMP:20261010T064215Z
+SUMMARY:🚗 dopravní nehoda - Jihlava
+LOCATION:Brněnská\, Jihlava
+GEO:49.397806;15.608164
+URL:geo:49.397806,15.608164
+DESCRIPTION:📍 Brněnská\, Jihlava\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihlava
+ )
+END:VEVENT
 END:VCALENDAR
