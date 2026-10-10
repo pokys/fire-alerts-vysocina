@@ -5,26 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:420802061
-DTSTART:20261008T030819Z
-DTEND:20261008T040819Z
-DTSTAMP:20261008T030819Z
-SUMMARY:🔥 budova - Bukov
-LOCATION:Bukov
-GEO:49.461585;16.227071
-URL:geo:49.461585,16.227071
-DESCRIPTION:📍 Bukov\, Žďár nad Sázavou\n💬 Požár střechy zemědělské usedlost
- i.\n\n🚒 CAS (HS Bystřice nad Pernštejnem)\n🚒 CAS (HS Bystřice nad Pernštej
- nem)\n🚒 DA (Bukov)\n🚒 CAS (Dolní Rožínka)\n🚒 CAS (Strážek)\n🚒 DA (Blažkov)
- \n🚒 CAS (Blažkov)\n🚒 pěnový hasicí automobil (Blažkov)\n🚒 DA (Bobrová)\n🚒 
- CAS (Bobrová)\n🚒 DA (Bystřice nad Pernštejnem)\n🚒 CAS (Bystřice nad Pernšt
- ejnem)\n🚒 DA (Rožná)\n🚒 DA (Doubravník)\n🚒 CAS (Doubravník)\n🚒 VEA (Nedvěd
- ice)\n🚒 CAS (HS Tišnov)\n🚒 vyšetřovací automobil (ÚO Žďár nad Sázavou)\n🚒 
- osobní automobil (KŘ HZS VYS)\n🚒 automobilový tahač návěsů (ZÚ HZS ČR - Ji
- hlava)\n🚒 účelový automobil do 3500 kg (ZÚ HZS ČR - Jihlava)\n🚒 vozidlo úč
- elové pásové (ZÚ HZS ČR - Jihlava)\n🚒 návěs hlubinný (ZÚ HZS ČR - Jihlava)
-END:VEVENT
-BEGIN:VEVENT
 UID:420808061
 DTSTART:20261008T060545Z
 DTEND:20261008T070545Z
