@@ -515,7 +515,8 @@ SUMMARY:🚗 bez zranění - Zhoř
 LOCATION:Zhoř
 GEO:49.449825;15.780064
 URL:geo:49.449825,15.780064
-DESCRIPTION:📍 Zhoř\, Jihlava\n\n🚒 RZA (CHS Jihlava)\n🚒 CAS (HS Polná)
+DESCRIPTION:📍 Zhoř\, Jihlava\n💬 DN 1 OA ve škarpě\, bez zranění. Zajištění 
+ místo nehody.\n\n🚒 RZA (CHS Jihlava)\n🚒 CAS (HS Polná)
 END:VEVENT
 BEGIN:VEVENT
 UID:420896061
@@ -527,5 +528,29 @@ LOCATION:Březinova\, Jihlava
 GEO:49.404946;15.595063
 URL:geo:49.404946,15.595063
 DESCRIPTION:📍 Březinova\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+END:VEVENT
+BEGIN:VEVENT
+UID:420897061
+DTSTART:20261010T101908Z
+DTEND:20261010T111908Z
+DTSTAMP:20261010T101908Z
+SUMMARY:🚑 otevření/asistence - Havlíčkův Brod
+LOCATION:Sídliště Pražská\, Havlíčkův Brod
+GEO:49.613991;15.574514
+URL:geo:49.613991,15.574514
+DESCRIPTION:📍 Sídliště Pražská\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Bro
+ d)
+END:VEVENT
+BEGIN:VEVENT
+UID:420898061
+DTSTART:20261010T102634Z
+DTEND:20261010T112634Z
+DTSTAMP:20261010T102634Z
+SUMMARY:🛠️ otevření bytu/auta - Velká Bíteš
+LOCATION:Družstevní\, Velká Bíteš
+GEO:49.293620;16.221182
+URL:geo:49.293620,16.221182
+DESCRIPTION:📍 Družstevní\, Velká Bíteš\, Žďár nad Sázavou\n\n🚒 CAS (HS Velk
+ á Bíteš)
 END:VEVENT
 END:VCALENDAR
