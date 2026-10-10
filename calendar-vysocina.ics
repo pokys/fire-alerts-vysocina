@@ -369,9 +369,9 @@ LOCATION:Váňovská\, Třešť
 GEO:49.286874;15.483539
 URL:geo:49.286874,15.483539
 DESCRIPTION:📍 Váňovská\, Třešť\, Jihlava\n💬 Požár pilin. Lokalizace událost
- i.\n\n🚒 CAS (HS Třešť)\n🚒 osobní automobil (HS Třešť)\n🚒 CAS (Batelov)\n🚒 
- CAS (Stonařov)\n🚒 DA (Třešť)\n🚒 CAS (Třešť)\n🚒 vyšetřovací automobil (ÚO J
- ihlava)
+ i. Likvidace.\n\n🚒 CAS (HS Třešť)\n🚒 osobní automobil (HS Třešť)\n🚒 CAS (B
+ atelov)\n🚒 CAS (Stonařov)\n🚒 DA (Třešť)\n🚒 CAS (Třešť)\n🚒 vyšetřovací auto
+ mobil (ÚO Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:420887061
@@ -529,8 +529,8 @@ SUMMARY:🚗 dopravní nehoda - Moravské Budějovice
 LOCATION:Pražská\, Moravské Budějovice
 GEO:49.057053;15.804024
 URL:geo:49.057053,15.804024
-DESCRIPTION:📍 Pražská\, Moravské Budějovice\, Třebíč\n💬 DN 2 OA s 1 zraněno
- u osobou. Protipožární opatření a zajištění místa nehody.\n\n🚒 CAS (HS Mor
- avské Budějovice)
+DESCRIPTION:📍 Pražská\, Moravské Budějovice\, Třebíč\n💬 DN 2 OA se 2 lehce 
+ zraněnými osobami. Protipožární opatření a zajištění místa nehody.\n\n🚒 CA
+ S (HS Moravské Budějovice)
 END:VEVENT
 END:VCALENDAR
