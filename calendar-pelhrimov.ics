@@ -98,7 +98,8 @@ SUMMARY:🚗 dopravní nehoda - Vyskytná
 LOCATION:Vyskytná
 GEO:49.440416;15.339175
 URL:geo:49.440416,15.339175
-DESCRIPTION:📍 Sedliště\, Vyskytná\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)
+DESCRIPTION:📍 Sedliště\, Vyskytná\, Pelhřimov\n💬 DN 2 OA\, 1 zraněná osoba.
+ \n\n🚒 CAS (CHS Pelhřimov)
 END:VEVENT
 BEGIN:VEVENT
 UID:420909061
@@ -109,6 +110,7 @@ SUMMARY:🚑 transport pacienta - Pelhřimov
 LOCATION:Osvobození\, Pelhřimov
 GEO:49.437387;15.211784
 URL:geo:49.437387,15.211784
-DESCRIPTION:📍 Osvobození\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)
+DESCRIPTION:📍 Osvobození\, Pelhřimov\n💬 Transport pacienta na žádost ZZS.\n
+ \n🚒 CAS (CHS Pelhřimov)
 END:VEVENT
 END:VCALENDAR
