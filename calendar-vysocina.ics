@@ -418,4 +418,16 @@ URL:geo:49.517544,14.962495
 DESCRIPTION:📍 Velká Černá\, Salačova Lhota\, Pelhřimov\n💬 Tlakování kanaliz
  ace.\n\n🚒 účelový automobil do 3500 kg (Salačova Lhota)
 END:VEVENT
+BEGIN:VEVENT
+UID:420934061
+DTSTART:20261011T111119Z
+DTEND:20261011T121119Z
+DTSTAMP:20261011T111119Z
+SUMMARY:🔥 budova - Ostrov nad Oslavou
+LOCATION:Ostrov nad Oslavou
+GEO:49.486714;15.990710
+URL:geo:49.486714,15.990710
+DESCRIPTION:📍 Ostrov nad Oslavou\, Žďár nad Sázavou\n\n🚒 vyšetřovací automo
+ bil (ÚO Žďár nad Sázavou)
+END:VEVENT
 END:VCALENDAR
