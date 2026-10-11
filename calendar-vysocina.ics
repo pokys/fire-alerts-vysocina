@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:420871061
-DTSTART:20261009T131248Z
-DTEND:20261009T141248Z
-DTSTAMP:20261009T131248Z
-SUMMARY:🚗 dopravní nehoda - Vyskytná
-LOCATION:Vyskytná
-GEO:49.428546;15.361098
-URL:geo:49.428546,15.361098
-DESCRIPTION:📍 Vyskytná\, Pelhřimov\n💬 DN autobusu a elektročtyřkolky. Jedna
-  zraněná osoba. Proveden úklid vozovky a protipožární opatření.\n\n🚒 CAS (
- CHS Pelhřimov)
-END:VEVENT
-BEGIN:VEVENT
 UID:420873061
 DTSTART:20261009T135314Z
 DTEND:20261009T145314Z
@@ -404,8 +391,8 @@ SUMMARY:🔥 budova - Ostrov nad Oslavou
 LOCATION:Ostrov nad Oslavou
 GEO:49.486714;15.990710
 URL:geo:49.486714,15.990710
-DESCRIPTION:📍 Ostrov nad Oslavou\, Žďár nad Sázavou\n\n🚒 vyšetřovací automo
- bil (ÚO Žďár nad Sázavou)
+DESCRIPTION:📍 Ostrov nad Oslavou\, Žďár nad Sázavou\n💬 Požár kotelny.\n\n🚒 
+ vyšetřovací automobil (ÚO Žďár nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:420935061
