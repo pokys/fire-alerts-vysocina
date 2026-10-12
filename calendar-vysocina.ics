@@ -297,4 +297,15 @@ DESCRIPTION:📍 Strmá\, Velké Meziříčí\, Žďár nad Sázavou\n💬 Pož�
  )\n🚒 CAS (Velké Meziříčí)\n🚒 CAS (Velké Meziříčí)\n🚒 vyšetřovací automobil
   (ÚO Žďár nad Sázavou)
 END:VEVENT
+BEGIN:VEVENT
+UID:420975061
+DTSTART:20261012T211959Z
+DTEND:20261012T221959Z
+DTSTAMP:20261012T211959Z
+SUMMARY:🛠️ ostatní - Pelhřimov
+LOCATION:Dolnokubínská\, Pelhřimov
+GEO:49.435325;15.211296
+URL:geo:49.435325,15.211296
+DESCRIPTION:📍 Dolnokubínská\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)
+END:VEVENT
 END:VCALENDAR
