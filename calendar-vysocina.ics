@@ -324,4 +324,16 @@ URL:geo:49.684840,15.184777
 DESCRIPTION:📍 Chotěměřice\, Hněvkovice\, Havlíčkův Brod\n💬 Pročištění kanal
  izace.\n\n🚒 CAS (Hněvkovice)
 END:VEVENT
+BEGIN:VEVENT
+UID:420985061
+DTSTART:20261013T095703Z
+DTEND:20261013T105703Z
+DTSTAMP:20261013T095703Z
+SUMMARY:☣️ olej/PHM - Světlá nad Sázavou
+LOCATION:Komenského\, Světlá nad Sázavou
+GEO:49.672697;15.403985
+URL:geo:49.672697,15.403985
+DESCRIPTION:📍 Komenského\, Světlá nad Sázavou\, Havlíčkův Brod\n\n🚒 CAS (HS
+  Světlá nad Sázavou)
+END:VEVENT
 END:VCALENDAR
