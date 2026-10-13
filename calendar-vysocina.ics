@@ -334,6 +334,19 @@ SUMMARY:☣️ plyn - Vír
 LOCATION:Vír
 GEO:49.556018;16.318617
 URL:geo:49.556018,16.318617
-DESCRIPTION:📍 Vír\, Žďár nad Sázavou\n\n🚒 CAS (HS Bystřice nad Pernštejnem)
+DESCRIPTION:📍 Vír\, Žďár nad Sázavou\n💬 Zajištění místa úniku plynu do ovzd
+ uší.\n\n🚒 CAS (HS Bystřice nad Pernštejnem)
+END:VEVENT
+BEGIN:VEVENT
+UID:420993061
+DTSTART:20261013T112653Z
+DTEND:20261013T122653Z
+DTSTAMP:20261013T112653Z
+SUMMARY:🚑 otevření/asistence - Věžná
+LOCATION:Věžná
+GEO:49.459880;16.272764
+URL:geo:49.459880,16.272764
+DESCRIPTION:📍 Věžná\, Žďár nad Sázavou\n\n🚒 CAS (HS Bystřice nad Pernštejne
+ m)
 END:VEVENT
 END:VCALENDAR
