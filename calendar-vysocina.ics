@@ -333,7 +333,19 @@ SUMMARY:☣️ olej/PHM - Světlá nad Sázavou
 LOCATION:Komenského\, Světlá nad Sázavou
 GEO:49.672697;15.403985
 URL:geo:49.672697,15.403985
-DESCRIPTION:📍 Komenského\, Světlá nad Sázavou\, Havlíčkův Brod\n\n🚒 CAS (HS
-  Světlá nad Sázavou)
+DESCRIPTION:📍 Komenského\, Světlá nad Sázavou\, Havlíčkův Brod\n💬 Odstraněn
+ í úniku provozních kapalin z pozemní komunikace.\n\n🚒 CAS (HS Světlá nad S
+ ázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:420986061
+DTSTART:20261013T102821Z
+DTEND:20261013T112821Z
+DTSTAMP:20261013T102821Z
+SUMMARY:☣️ plyn - Vír
+LOCATION:Vír
+GEO:49.556018;16.318617
+URL:geo:49.556018,16.318617
+DESCRIPTION:📍 Vír\, Žďár nad Sázavou\n\n🚒 CAS (HS Bystřice nad Pernštejnem)
 END:VEVENT
 END:VCALENDAR
