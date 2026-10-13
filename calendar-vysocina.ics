@@ -335,4 +335,15 @@ DESCRIPTION:📍 Bělohradská\, Havlíčkův Brod\n💬 Požár suché trávy u
  odnoty 10 000Kč.\n\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 vyšetřovací automobil (Ú
  O Havlíčkův Brod)
 END:VEVENT
+BEGIN:VEVENT
+UID:421001061
+DTSTART:20261013T135412Z
+DTEND:20261013T145412Z
+DTSTAMP:20261013T135412Z
+SUMMARY:🔥 Polná
+LOCATION:Jihlavská\, Polná
+GEO:49.484830;15.697717
+URL:geo:49.484830,15.697717
+DESCRIPTION:📍 Jihlavská\, Polná\, Jihlava\n\n🚒 CAS (HS Polná)
+END:VEVENT
 END:VCALENDAR
