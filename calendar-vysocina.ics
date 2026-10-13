@@ -279,23 +279,12 @@ UID:420982061
 DTSTART:20261013T074854Z
 DTEND:20261013T084854Z
 DTSTAMP:20261013T074854Z
-SUMMARY:🔥 venkovní požár - Jihlava
+SUMMARY:🔥 les - Jihlava
 LOCATION:Jihlava
 GEO:49.406947;15.623952
 URL:geo:49.406947,15.623952
-DESCRIPTION:📍 Henčov\, Jihlava\n\n🚒 CAS (CHS Jihlava)\n🚒 CAS (CHS Jihlava)
-END:VEVENT
-BEGIN:VEVENT
-UID:420983061
-DTSTART:20261013T075548Z
-DTEND:20261013T085548Z
-DTSTAMP:20261013T075548Z
-SUMMARY:🛠️ ostatní - Hněvkovice
-LOCATION:Hněvkovice
-GEO:49.684840;15.184777
-URL:geo:49.684840,15.184777
-DESCRIPTION:📍 Chotěměřice\, Hněvkovice\, Havlíčkův Brod\n💬 Pročištění kanal
- izace.\n\n🚒 CAS (Hněvkovice)
+DESCRIPTION:📍 Henčov\, Jihlava\n💬 Požár suchého listí v lesním porostu. Pro
+ vedena lokalizace a likvidace.\n\n🚒 CAS (CHS Jihlava)\n🚒 CAS (CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:420985061
@@ -339,10 +328,11 @@ UID:420994061
 DTSTART:20261013T112937Z
 DTEND:20261013T122937Z
 DTSTAMP:20261013T112937Z
-SUMMARY:🔥 venkovní požár - Havlíčkův Brod
+SUMMARY:⚠️ planý poplach - Havlíčkův Brod
 LOCATION:Havlíčkův Brod
 GEO:49.603340;15.581392
 URL:geo:49.603340,15.581392
-DESCRIPTION:🚒 CAS (CHS Havlíčkův Brod)
+DESCRIPTION:💬 Ohlášen požár suché trávy. Průzkumem místa události nebylo ni
+ c nalezeno.\n\n🚒 CAS (CHS Havlíčkův Brod)
 END:VEVENT
 END:VCALENDAR
