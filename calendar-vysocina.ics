@@ -5,21 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:420935061
-DTSTART:20261011T115114Z
-DTEND:20261011T125114Z
-DTSTAMP:20261011T115114Z
-SUMMARY:🔥 saze v komíně - Nová Cerekev
-LOCATION:Nová Cerekev
-GEO:49.378496;15.081805
-URL:geo:49.378496,15.081805
-DESCRIPTION:📍 Markvarec\, Nová Cerekev\, Pelhřimov\n💬 Požár sazí v komíně.\
- n\n🚒 CAS (HS Kamenice nad Lipou)\n🚒 CAS (HS Kamenice nad Lipou)\n🚒 CAS (Ka
- menice nad Lipou)\n🚒 CAS (Kamenice nad Lipou)\n🚒 CAS (Nová Cerekev)\n🚒 úče
- lový automobil do 3500 kg (Nová Cerekev)\n🚒 přívěs motorová stříkačka (Nov
- á Cerekev-Markvarec)
-END:VEVENT
-BEGIN:VEVENT
 UID:420936061
 DTSTART:20261011T122337Z
 DTEND:20261011T132337Z
@@ -346,8 +331,8 @@ SUMMARY:🚑 otevření/asistence - Věžná
 LOCATION:Věžná
 GEO:49.459880;16.272764
 URL:geo:49.459880,16.272764
-DESCRIPTION:📍 Věžná\, Žďár nad Sázavou\n\n🚒 CAS (HS Bystřice nad Pernštejne
- m)
+DESCRIPTION:📍 Věžná\, Žďár nad Sázavou\n💬 Otevření RD.\n\n🚒 CAS (HS Bystřic
+ e nad Pernštejnem)
 END:VEVENT
 BEGIN:VEVENT
 UID:420994061
