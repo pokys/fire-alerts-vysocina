@@ -509,4 +509,17 @@ URL:geo:49.206116,15.844490
 DESCRIPTION:📍 Okružní\, Borovina\, Třebíč\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (CHS
   Třebíč)
 END:VEVENT
+BEGIN:VEVENT
+UID:421031061
+DTSTART:20261014T084914Z
+DTEND:20261014T094914Z
+DTSTAMP:20261014T084914Z
+SUMMARY:🚗 úklid místa - Velké Meziříčí
+LOCATION:Velké Meziříčí
+GEO:49.362622;15.989829
+URL:geo:49.362622,15.989829
+DESCRIPTION:📍 Velké Meziříčí\, Žďár nad Sázavou\n💬 DN 2 OA\, provedení prot
+ ipožárního opatření\, úklid vozovky.\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (
+ HS Velké Meziříčí)
+END:VEVENT
 END:VCALENDAR
