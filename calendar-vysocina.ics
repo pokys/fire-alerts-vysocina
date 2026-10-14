@@ -469,7 +469,9 @@ SUMMARY:🚗 dopravní nehoda - Třebíč
 LOCATION:V. Nezvala\, Třebíč
 GEO:49.213800;15.871575
 URL:geo:49.213800,15.871575
-DESCRIPTION:📍 V. Nezvala\, Stařečka\, Třebíč\n\n🚒 CAS (CHS Třebíč)
+DESCRIPTION:📍 V. Nezvala\, Stařečka\, Třebíč\n💬 DN 2x OA se zraněním 1 osob
+ y. Zajištění místa nehody proti požáru a úniku provozních kapalin.\n\n🚒 CA
+ S (CHS Třebíč)
 END:VEVENT
 BEGIN:VEVENT
 UID:421026061
@@ -480,7 +482,8 @@ SUMMARY:🛠️ otevření bytu/auta - Chotěboř
 LOCATION:Kosmonautů\, Chotěboř
 GEO:49.713821;15.669076
 URL:geo:49.713821,15.669076
-DESCRIPTION:📍 Kosmonautů\, Chotěboř\, Havlíčkův Brod\n\n🚒 CAS (HS Chotěboř)
+DESCRIPTION:📍 Kosmonautů\, Chotěboř\, Havlíčkův Brod\n💬 Otevření školky.\n\
+ n🚒 CAS (HS Chotěboř)
 END:VEVENT
 BEGIN:VEVENT
 UID:421027061
