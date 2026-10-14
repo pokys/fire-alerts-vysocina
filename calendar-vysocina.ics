@@ -476,4 +476,15 @@ URL:geo:49.565046,15.919583
 DESCRIPTION:📍 Hamry nad Sázavou\, Žďár nad Sázavou\n💬 DN bez zranění. Prove
  dení protipožárního opatření.\n\n🚒 CAS (CHS Žďár nad Sázavou)
 END:VEVENT
+BEGIN:VEVENT
+UID:421045061
+DTSTART:20261014T164725Z
+DTEND:20261014T174725Z
+DTSTAMP:20261014T164725Z
+SUMMARY:🛠️ otevření bytu/auta - Batelov
+LOCATION:Školní\, Batelov
+GEO:49.312607;15.391571
+URL:geo:49.312607,15.391571
+DESCRIPTION:📍 Školní\, Batelov\, Jihlava\n\n🚒 CAS (HS Třešť)
+END:VEVENT
 END:VCALENDAR
