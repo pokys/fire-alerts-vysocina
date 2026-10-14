@@ -453,10 +453,11 @@ DTEND:20261014T083928Z
 DTSTAMP:20261014T073928Z
 SUMMARY:🔥 vozidlo - Nové Sady
 LOCATION:Nové Sady
-GEO:49.291558;16.190241
-URL:geo:49.291558,16.190241
-DESCRIPTION:📍 Nové Sady\, Žďár nad Sázavou\n\n🚒 automobilový nosič kontejne
- rů (CHS Žďár nad Sázavou)\n🚒 přívěs nákladní (HS Velká Bíteš)
+GEO:49.295785;16.180151
+URL:geo:49.295785,16.180151
+DESCRIPTION:📍 Nové Sady\, Žďár nad Sázavou\n💬 Taktické cvičení.\n\n🚒 automo
+ bilový nosič kontejnerů (CHS Žďár nad Sázavou)\n🚒 CAS (HS Velká Bíteš)\n🚒 
+ CAS (HS Velká Bíteš)\n🚒 přívěs nákladní (HS Velká Bíteš)
 END:VEVENT
 BEGIN:VEVENT
 UID:421025061
@@ -475,10 +476,10 @@ DTSTART:20261014T075715Z
 DTEND:20261014T085715Z
 DTSTAMP:20261014T075715Z
 SUMMARY:🛠️ otevření bytu/auta - Chotěboř
-LOCATION:Smetanova\, Chotěboř
-GEO:49.718013;15.672766
-URL:geo:49.718013,15.672766
-DESCRIPTION:📍 Smetanova\, Chotěboř\, Havlíčkův Brod\n\n🚒 CAS (HS Chotěboř)
+LOCATION:Kosmonautů\, Chotěboř
+GEO:49.713821;15.669076
+URL:geo:49.713821,15.669076
+DESCRIPTION:📍 Kosmonautů\, Chotěboř\, Havlíčkův Brod\n\n🚒 CAS (HS Chotěboř)
 END:VEVENT
 BEGIN:VEVENT
 UID:421027061
@@ -491,5 +492,17 @@ GEO:49.606851;16.337550
 URL:geo:49.606851,16.337550
 DESCRIPTION:📍 Nyklovice\, Žďár nad Sázavou\n\n🚒 CAS (HS Bystřice nad Pernšt
  ejnem)
+END:VEVENT
+BEGIN:VEVENT
+UID:421029061
+DTSTART:20261014T080902Z
+DTEND:20261014T090902Z
+DTSTAMP:20261014T080902Z
+SUMMARY:🔥 Třebíč
+LOCATION:Okružní\, Třebíč
+GEO:49.206116;15.844490
+URL:geo:49.206116,15.844490
+DESCRIPTION:📍 Okružní\, Borovina\, Třebíč\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (CHS
+  Třebíč)
 END:VEVENT
 END:VCALENDAR
