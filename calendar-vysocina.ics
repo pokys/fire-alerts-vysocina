@@ -476,15 +476,4 @@ URL:geo:49.565046,15.919583
 DESCRIPTION:📍 Hamry nad Sázavou\, Žďár nad Sázavou\n💬 DN bez zranění. Prove
  dení protipožárního opatření.\n\n🚒 CAS (CHS Žďár nad Sázavou)
 END:VEVENT
-BEGIN:VEVENT
-UID:421044061
-DTSTART:20261014T150752Z
-DTEND:20261014T160752Z
-DTSTAMP:20261014T150752Z
-SUMMARY:🛠️ ostatní - Bohdalov
-LOCATION:Bohdalov
-GEO:49.479212;15.875818
-URL:geo:49.479212,15.875818
-DESCRIPTION:📍 Bohdalov\, Žďár nad Sázavou\n\n🚒 CAS (Bohdalov)
-END:VEVENT
 END:VCALENDAR
