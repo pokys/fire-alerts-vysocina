@@ -486,4 +486,16 @@ URL:geo:49.121963,15.815487
 DESCRIPTION:📍 Šebkovice\, Třebíč\n💬 Planý poplach.\n\n🚒 CAS (HS Moravské Bu
  dějovice)\n🚒 CAS (Jaroměřice nad Rokytnou)
 END:VEVENT
+BEGIN:VEVENT
+UID:421049061
+DTSTART:20261014T204252Z
+DTEND:20261014T214252Z
+DTSTAMP:20261014T204252Z
+SUMMARY:🛠️ otevření bytu/auta - Havlíčkův Brod
+LOCATION:Stromovka\, Havlíčkův Brod
+GEO:49.598766;15.570431
+URL:geo:49.598766,15.570431
+DESCRIPTION:📍 Stromovka\, Havlíčkův Brod\n💬 Otevření bytu.\n\n🚒 CAS (CHS Ha
+ vlíčkův Brod)
+END:VEVENT
 END:VCALENDAR
