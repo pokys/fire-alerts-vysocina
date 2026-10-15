@@ -480,7 +480,8 @@ SUMMARY:🛠️ ostatní - Kamenice
 LOCATION:Kamenice
 GEO:49.368790;15.779452
 URL:geo:49.368790,15.779452
-DESCRIPTION:📍 Kamenice\, Jihlava\n\n🚒 DA (Kamenice (JI))
+DESCRIPTION:📍 Kamenice\, Jihlava\n💬 Pomoc imobilní osobě.\n\n🚒 DA (Kamenice
+  (JI))
 END:VEVENT
 BEGIN:VEVENT
 UID:421098061
@@ -491,7 +492,7 @@ SUMMARY:🛠️ otevření bytu/auta - Velké Meziříčí
 LOCATION:Hornoměstská\, Velké Meziříčí
 GEO:49.355808;16.007383
 URL:geo:49.355808,16.007383
-DESCRIPTION:📍 Hornoměstská\, Velké Meziříčí\, Žďár nad Sázavou\n\n🚒 RZA (HS
-  Velké Meziříčí)
+DESCRIPTION:📍 Hornoměstská\, Velké Meziříčí\, Žďár nad Sázavou\n💬 Otevření 
+ bytu.\n\n🚒 RZA (HS Velké Meziříčí)
 END:VEVENT
 END:VCALENDAR
