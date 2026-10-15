@@ -439,12 +439,12 @@ UID:421064061
 DTSTART:20261015T091136Z
 DTEND:20261015T101136Z
 DTSTAMP:20261015T091136Z
-SUMMARY:🚑 otevření/asistence - Telč
+SUMMARY:🛠️ otevření bytu/auta - Telč
 LOCATION:Radkovská\, Telč
 GEO:49.173721;15.456575
 URL:geo:49.173721,15.456575
-DESCRIPTION:📍 Radkovská\, Telč-Staré Město\, Telč\, Jihlava\n\n🚒 CAS (HS Te
- lč)
+DESCRIPTION:📍 Radkovská\, Telč-Staré Město\, Telč\, Jihlava\n💬 Otevření byt
+ u.\n\n🚒 CAS (HS Telč)
 END:VEVENT
 BEGIN:VEVENT
 UID:421065061
