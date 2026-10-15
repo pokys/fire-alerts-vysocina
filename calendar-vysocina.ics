@@ -446,4 +446,17 @@ URL:geo:49.602536,15.596526
 DESCRIPTION:💬 Planý poplach.\n\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 CAS (CHS Havl
  íčkův Brod)
 END:VEVENT
+BEGIN:VEVENT
+UID:421063061
+DTSTART:20261015T085038Z
+DTEND:20261015T095038Z
+DTSTAMP:20261015T085038Z
+SUMMARY:🔥 budova - Velké Meziříčí
+LOCATION:Fajtův kopec\, Velké Meziříčí
+GEO:49.359555;16.026245
+URL:geo:49.359555,16.026245
+DESCRIPTION:📍 Fajtův kopec\, Velké Meziříčí\, Žďár nad Sázavou\n\n🚒 CAS (HS
+  Velké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)\n🚒 CAS (Měřín)\n🚒 CAS (Velké M
+ eziříčí)
+END:VEVENT
 END:VCALENDAR
