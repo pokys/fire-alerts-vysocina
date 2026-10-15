@@ -14,8 +14,7 @@ LOCATION:Kapinusova\, Jaroměřice nad Rokytnou
 GEO:49.096917;15.887929
 URL:geo:49.096917,15.887929
 DESCRIPTION:📍 Kapinusova\, Jaroměřice nad Rokytnou\, Třebíč\n💬 Transport pa
- cienta na žádost ZZS.\n\n🚒 CAS (HS Moravské Budějovice)\n🚒 CAS (Jaroměřice
-  nad Rokytnou)
+ cienta na žádost ZZS.
 END:VEVENT
 BEGIN:VEVENT
 UID:421020061
@@ -198,8 +197,7 @@ SUMMARY:🛠️ otevření bytu/auta - Batelov
 LOCATION:Školní\, Batelov
 GEO:49.312607;15.391571
 URL:geo:49.312607,15.391571
-DESCRIPTION:📍 Školní\, Batelov\, Jihlava\n💬 Otevření bytu\n\n🚒 CAS (HS Třeš
- ť)
+DESCRIPTION:📍 Školní\, Batelov\, Jihlava\n💬 Otevření bytu
 END:VEVENT
 BEGIN:VEVENT
 UID:421046061
@@ -432,8 +430,7 @@ SUMMARY:🛠️ obtížný hmyz - Budkov
 LOCATION:Budkov
 GEO:49.053573;15.663933
 URL:geo:49.053573,15.663933
-DESCRIPTION:📍 Budkov\, Třebíč\n💬 Odstranění obtížného hmyzu.\n\n🚒 CAS (Budk
- ov)
+DESCRIPTION:📍 Budkov\, Třebíč\n💬 Odstranění obtížného hmyzu.
 END:VEVENT
 BEGIN:VEVENT
 UID:421093061
