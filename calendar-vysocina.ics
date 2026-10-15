@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:421005061
-DTSTART:20261013T151640Z
-DTEND:20261013T161640Z
-DTSTAMP:20261013T151640Z
-SUMMARY:🚑 Studenec
-LOCATION:Studenec
-GEO:49.218584;16.063476
-URL:geo:49.218584,16.063476
-DESCRIPTION:📍 Studenec\, Třebíč\n💬 Záchrana srny ze skruže.\n\n🚒 CAS (HS Ná
- měšť nad Oslavou)
-END:VEVENT
-BEGIN:VEVENT
 UID:421006061
 DTSTART:20261013T155448Z
 DTEND:20261013T165448Z
@@ -478,7 +466,8 @@ SUMMARY:🔥 tráva/plocha - Střítež
 LOCATION:Střítež
 GEO:49.471020;15.609479
 URL:geo:49.471020,15.609479
-DESCRIPTION:📍 Střítež\, Jihlava\n\n🚒 CAS (CHS Jihlava)\n🚒 CAS (CHS Jihlava)
- \n🚒 CAS (HS Polná)\n🚒 CAS (Střítež (JI))\n🚒 CAS (Štoky)
+DESCRIPTION:📍 Střítež\, Jihlava\n💬 POžár pařezu a trávy na ploše asi 1x1 me
+ tr. Byla provedena lokalizace a likvidace požáru.\n\n🚒 CAS (CHS Jihlava)\n
+ 🚒 CAS (CHS Jihlava)\n🚒 CAS (HS Polná)\n🚒 CAS (Střítež (JI))\n🚒 CAS (Štoky)
 END:VEVENT
 END:VCALENDAR
