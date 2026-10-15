@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:420985061
-DTSTART:20261013T095703Z
-DTEND:20261013T105703Z
-DTSTAMP:20261013T095703Z
-SUMMARY:☣️ olej/PHM - Světlá nad Sázavou
-LOCATION:Komenského\, Světlá nad Sázavou
-GEO:49.672697;15.403985
-URL:geo:49.672697,15.403985
-DESCRIPTION:📍 Komenského\, Světlá nad Sázavou\, Havlíčkův Brod\n💬 Odstraněn
- í úniku provozních kapalin z pozemní komunikace.\n\n🚒 CAS (HS Světlá nad S
- ázavou)
-END:VEVENT
-BEGIN:VEVENT
 UID:420986061
 DTSTART:20261013T102821Z
 DTEND:20261013T112821Z
@@ -495,5 +482,16 @@ URL:geo:49.352957,16.015748
 DESCRIPTION:📍 Novosady\, Velké Meziříčí\, Žďár nad Sázavou\n\n🚒 CAS (HS Vel
  ké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)\n🚒 CAS (Měřín)\n🚒 CAS (Velké Meziř
  íčí)\n🚒 vyšetřovací automobil (ÚO Žďár nad Sázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:421068061
+DTSTART:20261015T095636Z
+DTEND:20261015T105636Z
+DTSTAMP:20261015T095636Z
+SUMMARY:🚗 se zraněním - Jihlava
+LOCATION:Jihlava
+GEO:49.418117;15.579109
+URL:geo:49.418117,15.579109
+DESCRIPTION:🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihlava)
 END:VEVENT
 END:VCALENDAR
