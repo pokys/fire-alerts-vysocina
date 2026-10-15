@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:421002061
-DTSTART:20261013T141431Z
-DTEND:20261013T151431Z
-DTSTAMP:20261013T141431Z
-SUMMARY:🚗 se zraněním - Polná
-LOCATION:Polná
-GEO:49.502075;15.723303
-URL:geo:49.502075,15.723303
-DESCRIPTION:📍 Polná\, Jihlava\n💬 DN 2 OA\, jedna zraněná osoba. Poskytnuta 
- předlékařská pomoc a provedeno zajištění místa nehody.\n\n🚒 CAS (HS Polná)
-END:VEVENT
-BEGIN:VEVENT
 UID:421003061
 DTSTART:20261013T143628Z
 DTEND:20261013T153628Z
@@ -468,18 +456,19 @@ SUMMARY:🛠️ ostatní - Žďár nad Sázavou
 LOCATION:Bezručova\, Žďár nad Sázavou
 GEO:49.574886;15.939999
 URL:geo:49.574886,15.939999
-DESCRIPTION:📍 Bezručova\, Žďár nad Sázavou 2\, Žďár nad Sázavou\n\n🚒 CAS (Ž
- ďár nad Sázavou-Zámek)
+DESCRIPTION:📍 Bezručova\, Žďár nad Sázavou 2\, Žďár nad Sázavou\n💬 Úklid vo
+ zovky.\n\n🚒 CAS (Žďár nad Sázavou-Zámek)
 END:VEVENT
 BEGIN:VEVENT
 UID:421080061
 DTSTART:20261015T133829Z
 DTEND:20261015T143829Z
 DTSTAMP:20261015T133829Z
-SUMMARY:☣️ plyn - Jihlava
+SUMMARY:🛠️ měření koncentrace - Jihlava
 LOCATION:Brněnská\, Jihlava
 GEO:49.397474;15.602952
 URL:geo:49.397474,15.602952
-DESCRIPTION:📍 Brněnská\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+DESCRIPTION:📍 Brněnská\, Jihlava\n💬 Měření koncentrace plynu v RD.\n\n🚒 CAS
+  (CHS Jihlava)
 END:VEVENT
 END:VCALENDAR
