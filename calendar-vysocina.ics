@@ -5,33 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:421024061
-DTSTART:20261014T073928Z
-DTEND:20261014T083928Z
-DTSTAMP:20261014T073928Z
-SUMMARY:🔥 vozidlo - Nové Sady
-LOCATION:Nové Sady
-GEO:49.295785;16.180151
-URL:geo:49.295785,16.180151
-DESCRIPTION:📍 Nové Sady\, Žďár nad Sázavou\n💬 Taktické cvičení.\n\n🚒 automo
- bilový nosič kontejnerů (CHS Žďár nad Sázavou)\n🚒 CAS (HS Velká Bíteš)\n🚒 
- CAS (HS Velká Bíteš)\n🚒 přívěs nákladní (HS Velká Bíteš)\n🚒 kontejner pro 
- hašení (ÚO Žďár nad Sázavou)
-END:VEVENT
-BEGIN:VEVENT
-UID:421025061
-DTSTART:20261014T074504Z
-DTEND:20261014T084504Z
-DTSTAMP:20261014T074504Z
-SUMMARY:🚗 dopravní nehoda - Třebíč
-LOCATION:V. Nezvala\, Třebíč
-GEO:49.213800;15.871575
-URL:geo:49.213800,15.871575
-DESCRIPTION:📍 V. Nezvala\, Stařečka\, Třebíč\n💬 DN 2 OA se zraněním 1 osoby
- . Zajištění místa nehody proti požáru a úniku provozních kapalin.\n\n🚒 CAS
-  (CHS Třebíč)
-END:VEVENT
-BEGIN:VEVENT
 UID:421026061
 DTSTART:20261014T075715Z
 DTEND:20261014T085715Z
@@ -464,7 +437,8 @@ SUMMARY:🛠️ obtížný hmyz - Telč
 LOCATION:Květinová\, Telč
 GEO:49.188714;15.465720
 URL:geo:49.188714,15.465720
-DESCRIPTION:📍 Květinová\, Telč-Štěpnice\, Telč\, Jihlava\n\n🚒 CAS (HS Telč)
+DESCRIPTION:📍 Květinová\, Telč-Štěpnice\, Telč\, Jihlava\n💬 Odstranění obtí
+ žného hmyzu.\n\n🚒 CAS (HS Telč)
 END:VEVENT
 BEGIN:VEVENT
 UID:421106061
