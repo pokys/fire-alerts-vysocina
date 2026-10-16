@@ -505,4 +505,15 @@ URL:geo:49.211721,16.149115
 DESCRIPTION:📍 Nad Příhořím\, Náměšť nad Oslavou\, Třebíč\n💬 Pomoc imobilní 
  osobě.\n\n🚒 CAS (HS Náměšť nad Oslavou)
 END:VEVENT
+BEGIN:VEVENT
+UID:421105061
+DTSTART:20261016T064311Z
+DTEND:20261016T074311Z
+DTSTAMP:20261016T064311Z
+SUMMARY:🛠️ obtížný hmyz - Telč
+LOCATION:Květinová\, Telč
+GEO:49.188714;15.465720
+URL:geo:49.188714,15.465720
+DESCRIPTION:📍 Květinová\, Telč-Štěpnice\, Telč\, Jihlava\n\n🚒 CAS (HS Telč)
+END:VEVENT
 END:VCALENDAR
