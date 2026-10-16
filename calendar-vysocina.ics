@@ -391,7 +391,8 @@ SUMMARY:🛠️ ostatní - Kamenná
 LOCATION:Kamenná
 GEO:49.502389;15.650080
 URL:geo:49.502389,15.650080
-DESCRIPTION:📍 Kamenná\, Jihlava\n\n🚒 CAS (HS Polná)\n🚒 VYA (CHS Jihlava)
+DESCRIPTION:📍 Kamenná\, Jihlava\n💬 Vyproštění uvízlého vozidla.\n\n🚒 CAS (H
+ S Polná)\n🚒 VYA (CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:421114061
@@ -414,8 +415,9 @@ SUMMARY:🔥 Žďár nad Sázavou
 LOCATION:Brněnská\, Žďár nad Sázavou
 GEO:49.554911;15.955534
 URL:geo:49.554911,15.955534
-DESCRIPTION:📍 Brněnská\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n\n🚒 CAS (CH
- S Žďár nad Sázavou) ×2\n🚒 vyšetřovací automobil (ÚO Žďár nad Sázavou)
+DESCRIPTION:📍 Brněnská\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n💬 Zahoření 
+ kusu textilie ve vypalovací peci. Beze škody.\n\n🚒 CAS (CHS Žďár nad Sázav
+ ou) ×2\n🚒 vyšetřovací automobil (ÚO Žďár nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:421116061
@@ -428,5 +430,16 @@ GEO:49.347330;16.009473
 URL:geo:49.347330,16.009473
 DESCRIPTION:📍 Zdenky Vorlové\, Velké Meziříčí\, Žďár nad Sázavou\n💬 Otevřen
  í bytu.\n\n🚒 RZA (HS Velké Meziříčí)
+END:VEVENT
+BEGIN:VEVENT
+UID:421119061
+DTSTART:20261016T104116Z
+DTEND:20261016T114116Z
+DTSTAMP:20261016T104116Z
+SUMMARY:🚑 otevření/asistence - Třebíč
+LOCATION:Čeloudova\, Třebíč
+GEO:49.205548;15.887240
+URL:geo:49.205548,15.887240
+DESCRIPTION:📍 Čeloudova\, Horka-Domky\, Třebíč\n\n🚒 CAS (CHS Třebíč)
 END:VEVENT
 END:VCALENDAR
