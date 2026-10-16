@@ -443,4 +443,15 @@ URL:geo:49.507710,16.239591
 DESCRIPTION:📍 Rodkov\, Žďár nad Sázavou\n💬 DN 2 OA. Jedna zraněná osoba. Za
  jištění místa nehody.\n\n🚒 CAS (HS Bystřice nad Pernštejnem)
 END:VEVENT
+BEGIN:VEVENT
+UID:421124061
+DTSTART:20261016T135628Z
+DTEND:20261016T145628Z
+DTSTAMP:20261016T135628Z
+SUMMARY:🚗 dopravní nehoda - Kralice nad Oslavou
+LOCATION:Kralice nad Oslavou
+GEO:49.206277;16.219586
+URL:geo:49.206277,16.219586
+DESCRIPTION:📍 Kralice nad Oslavou\, Třebíč\n\n🚒 CAS (HS Náměšť nad Oslavou)
+END:VEVENT
 END:VCALENDAR
