@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:421080061
-DTSTART:20261015T133829Z
-DTEND:20261015T143829Z
-DTSTAMP:20261015T133829Z
-SUMMARY:🛠️ měření koncentrace - Jihlava
-LOCATION:Brněnská\, Jihlava
-GEO:49.397474;15.602952
-URL:geo:49.397474,15.602952
-DESCRIPTION:📍 Brněnská\, Jihlava\n💬 Měření koncentrace plynu v RD.\n\n🚒 CAS
-  (CHS Jihlava)
-END:VEVENT
-BEGIN:VEVENT
 UID:421086061
 DTSTART:20261015T145106Z
 DTEND:20261015T155106Z
@@ -554,8 +542,9 @@ SUMMARY:🚗 dopravní nehoda - Libice nad Doubravou
 LOCATION:Libice nad Doubravou
 GEO:49.705003;15.744281
 URL:geo:49.705003,15.744281
-DESCRIPTION:📍 Malochyně\, Libice nad Doubravou\, Havlíčkův Brod\n\n🚒 CAS (H
- S Chotěboř)\n🚒 CAS (Ždírec nad Doubravou)
+DESCRIPTION:📍 Malochyně\, Libice nad Doubravou\, Havlíčkův Brod\n💬 DN 1 OA 
+ se zraněním jedné osoby. Provedena PPO. Zajištění místa události.\n\n🚒 CAS
+  (HS Chotěboř)\n🚒 CAS (Ždírec nad Doubravou)
 END:VEVENT
 BEGIN:VEVENT
 UID:421166061
@@ -568,5 +557,17 @@ GEO:49.353994;16.011628
 URL:geo:49.353994,16.011628
 DESCRIPTION:📍 V Jirchářích\, Velké Meziříčí\, Žďár nad Sázavou\n💬 Otevření 
  bytu.\n\n🚒 RZA (HS Velké Meziříčí)
+END:VEVENT
+BEGIN:VEVENT
+UID:421167061
+DTSTART:20261017T133552Z
+DTEND:20261017T143552Z
+DTSTAMP:20261017T133552Z
+SUMMARY:🚑 otevření/asistence - Velké Meziříčí
+LOCATION:Bezručova\, Velké Meziříčí
+GEO:49.352006;16.004761
+URL:geo:49.352006,16.004761
+DESCRIPTION:📍 Bezručova\, Velké Meziříčí\, Žďár nad Sázavou\n💬 Vyproštění o
+ soby uvízlých ve výtahu.\n\n🚒 CAS (HS Velké Meziříčí)
 END:VEVENT
 END:VCALENDAR
