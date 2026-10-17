@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:421072061
-DTSTART:20261015T114024Z
-DTEND:20261015T124024Z
-DTSTAMP:20261015T114024Z
-SUMMARY:🚗 dopravní nehoda - Jihlava
-LOCATION:Jihlava
-GEO:49.388602;15.537535
-URL:geo:49.388602,15.537535
-DESCRIPTION:📍 Hosov\, Jihlava\n💬 DN 5 OA\, 2 zraněné osoby. Zabezpečení hav
- arovaných vozidel proti požáru a proti úniku provozních kapalin.\n\n🚒 CAS 
- (CHS Jihlava)\n🚒 RZA (CHS Jihlava)
-END:VEVENT
-BEGIN:VEVENT
 UID:421073061
 DTSTART:20261015T123159Z
 DTEND:20261015T133159Z
@@ -577,8 +564,9 @@ SUMMARY:🚗 bez zranění - Sněžné
 LOCATION:Sněžné
 GEO:49.642680;16.119292
 URL:geo:49.642680,16.119292
-DESCRIPTION:📍 Sněžné\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 
- VYA (CHS Žďár nad Sázavou)\n🚒 DA (Sněžné)\n🚒 CAS (Sněžné)
+DESCRIPTION:📍 Sněžné\, Žďár nad Sázavou\n💬 Vytažení OA z rybníka. Bez zraně
+ ní a bez úniku provozních kapalin do vody.\n\n🚒 CAS (CHS Žďár nad Sázavou)
+ \n🚒 VYA (CHS Žďár nad Sázavou)\n🚒 DA (Sněžné)\n🚒 CAS (Sněžné)
 END:VEVENT
 BEGIN:VEVENT
 UID:421155061
