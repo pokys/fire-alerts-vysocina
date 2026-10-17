@@ -586,6 +586,22 @@ SUMMARY:🛠️ otevření bytu/auta - Havlíčkův Brod
 LOCATION:Havlíčkova\, Havlíčkův Brod
 GEO:49.612077;15.561114
 URL:geo:49.612077,15.561114
-DESCRIPTION:📍 Havlíčkova\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)
+DESCRIPTION:📍 Havlíčkova\, Havlíčkův Brod\n💬 Otevření bytu.\n\n🚒 CAS (CHS H
+ avlíčkův Brod)
+END:VEVENT
+BEGIN:VEVENT
+UID:421151061
+DTSTART:20261017T081909Z
+DTEND:20261017T091909Z
+DTSTAMP:20261017T081909Z
+SUMMARY:🔥 les - Křižánky
+LOCATION:Křižánky
+GEO:49.695064;16.088782
+URL:geo:49.695064,16.088782
+DESCRIPTION:📍 České Křižánky\, Křižánky\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žď
+ ár nad Sázavou)\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 VEA (CHS Žďár nad Sázavou
+ )\n🚒 vozidlo účelové - SxS (CHS Žďár nad Sázavou)\n🚒 přívěs nákladní (CHS 
+ Žďár nad Sázavou)\n🚒 DA (Křižánky)\n🚒 DA (Sněžné)\n🚒 CAS (Sněžné)\n🚒 CAS (
+ Svratka)
 END:VEVENT
 END:VCALENDAR
