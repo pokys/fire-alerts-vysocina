@@ -541,4 +541,16 @@ URL:geo:49.486882,16.357682
 DESCRIPTION:📍 Horní Čepí\, Ujčov\, Žďár nad Sázavou\n💬 Transport pacienta n
  a žádost ZZS.\n\n🚒 CAS (HS Bystřice nad Pernštejnem)
 END:VEVENT
+BEGIN:VEVENT
+UID:421142061
+DTSTART:20261017T051057Z
+DTEND:20261017T061057Z
+DTSTAMP:20261017T051057Z
+SUMMARY:🛠️ otevření bytu/auta - Žďár nad Sázavou
+LOCATION:Nádražní\, Žďár nad Sázavou
+GEO:49.557216;15.938364
+URL:geo:49.557216,15.938364
+DESCRIPTION:📍 Nádražní\, Žďár nad Sázavou 6\, Žďár nad Sázavou\n\n🚒 CAS (CH
+ S Žďár nad Sázavou)
+END:VEVENT
 END:VCALENDAR
