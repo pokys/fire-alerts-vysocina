@@ -553,4 +553,15 @@ URL:geo:49.606524,15.212219
 DESCRIPTION:📍 Vranice\, Píšť\, Pelhřimov\n💬 Čerpání vody.\n\n🚒 DA (Píšť)\n🚒
   přívěs motorová stříkačka (Píšť)
 END:VEVENT
+BEGIN:VEVENT
+UID:421146061
+DTSTART:20261017T065522Z
+DTEND:20261017T075522Z
+DTSTAMP:20261017T065522Z
+SUMMARY:🛠️ strom - Nový Rychnov
+LOCATION:Nový Rychnov
+GEO:49.403328;15.325152
+URL:geo:49.403328,15.325152
+DESCRIPTION:📍 Křemešník\, Nový Rychnov\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)
+END:VEVENT
 END:VCALENDAR
