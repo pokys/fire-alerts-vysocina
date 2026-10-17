@@ -128,15 +128,4 @@ DESCRIPTION:📍 Obrataň\, Pelhřimov\n💬 DN 2 OA\, bez zranění. Jednotka p
  la likvidaci úniku provozních kapalin a úklid komunikace.\n\n🚒 CAS (HS Pac
  ov)
 END:VEVENT
-BEGIN:VEVENT
-UID:421164061
-DTSTART:20261017T115351Z
-DTEND:20261017T125351Z
-DTSTAMP:20261017T115351Z
-SUMMARY:🛠️ ostatní - Košetice
-LOCATION:Košetice
-GEO:49.558365;15.116266
-URL:geo:49.558365,15.116266
-DESCRIPTION:📍 Košetice\, Pelhřimov\n\n🚒 CAS (Onšov)
-END:VEVENT
 END:VCALENDAR
