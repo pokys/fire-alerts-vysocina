@@ -529,4 +529,16 @@ URL:geo:49.435325,15.211296
 DESCRIPTION:📍 Dolnokubínská\, Pelhřimov\n💬 Pomoc imobilní osobě.\n\n🚒 CAS (
  CHS Pelhřimov)
 END:VEVENT
+BEGIN:VEVENT
+UID:421141061
+DTSTART:20261017T025629Z
+DTEND:20261017T035629Z
+DTSTAMP:20261017T025629Z
+SUMMARY:🚑 transport pacienta - Ujčov
+LOCATION:Ujčov
+GEO:49.486882;16.357682
+URL:geo:49.486882,16.357682
+DESCRIPTION:📍 Horní Čepí\, Ujčov\, Žďár nad Sázavou\n💬 Transport pacienta n
+ a žádost ZZS.\n\n🚒 CAS (HS Bystřice nad Pernštejnem)
+END:VEVENT
 END:VCALENDAR
