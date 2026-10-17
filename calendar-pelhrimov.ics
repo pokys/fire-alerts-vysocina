@@ -66,4 +66,15 @@ URL:geo:49.240766,15.256213
 DESCRIPTION:📍 Horní Vilímeč\, Počátky\, Pelhřimov\n💬 Likvidace olejové skvr
  ny na komunikaci.\n\n🚒 CAS (HS Kamenice nad Lipou)
 END:VEVENT
+BEGIN:VEVENT
+UID:421140061
+DTSTART:20261017T022223Z
+DTEND:20261017T032223Z
+DTSTAMP:20261017T022223Z
+SUMMARY:🛠️ ostatní - Pelhřimov
+LOCATION:Dolnokubínská\, Pelhřimov
+GEO:49.435325;15.211296
+URL:geo:49.435325,15.211296
+DESCRIPTION:📍 Dolnokubínská\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)
+END:VEVENT
 END:VCALENDAR
