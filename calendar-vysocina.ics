@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:421068061
-DTSTART:20261015T095636Z
-DTEND:20261015T105636Z
-DTSTAMP:20261015T095636Z
-SUMMARY:⚠️ planý poplach - Jihlava
-LOCATION:Jihlava
-GEO:49.418117;15.579109
-URL:geo:49.418117,15.579109
-DESCRIPTION:💬 Planý poplach - nepotvrzená DN.\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA
-  (CHS Jihlava)
-END:VEVENT
-BEGIN:VEVENT
 UID:421072061
 DTSTART:20261015T114024Z
 DTEND:20261015T124024Z
@@ -553,5 +541,17 @@ DESCRIPTION:📍 České Křižánky\, Křižánky\, Žďár nad Sázavou\n💬 
  🚒 vozidlo účelové - SxS (CHS Žďár nad Sázavou)\n🚒 přívěs nákladní (CHS Žďá
  r nad Sázavou)\n🚒 DA (Křižánky)\n🚒 DA (Sněžné)\n🚒 CAS (Sněžné)\n🚒 CAS (Svr
  atka)
+END:VEVENT
+BEGIN:VEVENT
+UID:421152061
+DTSTART:20261017T094845Z
+DTEND:20261017T104845Z
+DTSTAMP:20261017T094845Z
+SUMMARY:🔥 venkovní požár - Humpolec
+LOCATION:Humpolec
+GEO:49.543641;15.390120
+URL:geo:49.543641,15.390120
+DESCRIPTION:📍 Rozkoš\, Humpolec\, Pelhřimov\n\n🚒 CAS (HS Humpolec)\n🚒 RZA (
+ HS Humpolec)\n🚒 CAS (Humpolec)\n🚒 CAS (Humpolec)\n🚒 CAS (Kejžlice)
 END:VEVENT
 END:VCALENDAR
