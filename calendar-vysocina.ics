@@ -487,7 +487,7 @@ LOCATION:Nový Rychnov
 GEO:49.403328;15.325152
 URL:geo:49.403328,15.325152
 DESCRIPTION:📍 Křemešník\, Nový Rychnov\, Pelhřimov\n💬 Odstranění stromu.\n\
- n🚒 CAS (CHS Pelhřimov)
+ n🚒 CAS (CHS Pelhřimov)\n🚒 pila řetězová (CHS Pelhřimov) ×2
 END:VEVENT
 BEGIN:VEVENT
 UID:421148061
@@ -592,5 +592,16 @@ GEO:49.727285;16.003053
 URL:geo:49.727285,16.003053
 DESCRIPTION:📍 Chlumětín\, Žďár nad Sázavou\n💬 Taktické cvičení.\n\n🚒 DA (Ch
  lumětín)\n🚒 CAS (Herálec (ZR))\n🚒 DA (Křižánky)\n🚒 CAS (Svratka)
+END:VEVENT
+BEGIN:VEVENT
+UID:421164061
+DTSTART:20261017T115351Z
+DTEND:20261017T125351Z
+DTSTAMP:20261017T115351Z
+SUMMARY:🛠️ ostatní - Košetice
+LOCATION:Košetice
+GEO:49.558365;15.116266
+URL:geo:49.558365,15.116266
+DESCRIPTION:📍 Košetice\, Pelhřimov\n\n🚒 CAS (Onšov)
 END:VEVENT
 END:VCALENDAR
