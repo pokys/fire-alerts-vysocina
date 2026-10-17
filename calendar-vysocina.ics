@@ -577,4 +577,15 @@ URL:geo:49.353579,16.021208
 DESCRIPTION:📍 Čechova\, Velké Meziříčí\, Žďár nad Sázavou\n💬 Otevření OA.\n
  \n🚒 RZA (HS Velké Meziříčí)
 END:VEVENT
+BEGIN:VEVENT
+UID:421149061
+DTSTART:20261017T074732Z
+DTEND:20261017T084732Z
+DTSTAMP:20261017T074732Z
+SUMMARY:🛠️ otevření bytu/auta - Havlíčkův Brod
+LOCATION:Havlíčkova\, Havlíčkův Brod
+GEO:49.612077;15.561114
+URL:geo:49.612077,15.561114
+DESCRIPTION:📍 Havlíčkova\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)
+END:VEVENT
 END:VCALENDAR
