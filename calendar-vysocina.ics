@@ -552,4 +552,16 @@ DESCRIPTION:📍 Polní\, Jihlava\n💬 Požár na balkoně bytového domu. Byla
  dena lokalizace a likvidace požáru.\n\n🚒 CAS (CHS Jihlava) ×2\n🚒 AŽ (CHS J
  ihlava)\n🚒 CAS (Jihlava-Bedřichov)
 END:VEVENT
+BEGIN:VEVENT
+UID:421185061
+DTSTART:20261018T054045Z
+DTEND:20261018T064045Z
+DTSTAMP:20261018T054045Z
+SUMMARY:🔥 odpad - Pacov
+LOCATION:Pacov
+GEO:49.476618;15.040560
+URL:geo:49.476618,15.040560
+DESCRIPTION:📍 Roučkovice\, Pacov\, Pelhřimov\n\n🚒 CAS (HS Pacov)\n🚒 CAS (HS
+  Pacov)\n🚒 CAS (Pacov)
+END:VEVENT
 END:VCALENDAR
