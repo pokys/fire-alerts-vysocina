@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:421177061
-DTSTART:20261017T180624Z
-DTEND:20261017T190624Z
-DTSTAMP:20261017T180624Z
-SUMMARY:🚑 otevření/asistence - Ledeč nad Sázavou
-LOCATION:5. května\, Ledeč nad Sázavou
-GEO:49.699509;15.276850
-URL:geo:49.699509,15.276850
-DESCRIPTION:📍 5. května\, Ledeč nad Sázavou\, Havlíčkův Brod\n💬 Otevření by
- tu.\n\n🚒 CAS (HS Ledeč nad Sázavou)
-END:VEVENT
-BEGIN:VEVENT
 UID:421179061
 DTSTART:20261017T201856Z
 DTEND:20261017T211856Z
@@ -386,5 +374,16 @@ DESCRIPTION:📍 Pražská\, Habry\, Havlíčkův Brod\n💬 Požár půdního p
  kův Brod)\n🚒 CAS (HS Světlá nad Sázavou)\n🚒 CAS (Golčův Jeníkov)\n🚒 CAS (G
  olčův Jeníkov)\n🚒 CAS (Habry)\n🚒 CAS (Habry)\n🚒 vyšetřovací automobil (ÚO 
  Havlíčkův Brod)
+END:VEVENT
+BEGIN:VEVENT
+UID:421241061
+DTSTART:20261019T181006Z
+DTEND:20261019T191006Z
+DTSTAMP:20261019T181006Z
+SUMMARY:☣️ plyn - Jemnice
+LOCATION:28. října\, Jemnice
+GEO:49.020884;15.568316
+URL:geo:49.020884,15.568316
+DESCRIPTION:📍 28. října\, Jemnice\, Třebíč\n\n🚒 CAS (HS Jemnice)
 END:VEVENT
 END:VCALENDAR
