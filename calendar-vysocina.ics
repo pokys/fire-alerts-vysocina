@@ -374,4 +374,15 @@ DESCRIPTION:📍 Pod Hradbami\, Velká Bíteš\, Žďár nad Sázavou\n💬 LIkv
  žáru OA.\n\n🚒 CAS (HS Velká Bíteš)\n🚒 vyšetřovací automobil (ÚO Žďár nad S
  ázavou)
 END:VEVENT
+BEGIN:VEVENT
+UID:421227061
+DTSTART:20261019T110326Z
+DTEND:20261019T120326Z
+DTSTAMP:20261019T110326Z
+SUMMARY:🛠️ obtížný hmyz - Blatnice
+LOCATION:Blatnice
+GEO:49.067985;15.880065
+URL:geo:49.067985,15.880065
+DESCRIPTION:📍 Blatnice\, Třebíč\n\n🚒 CAS (HS Moravské Budějovice)
+END:VEVENT
 END:VCALENDAR
