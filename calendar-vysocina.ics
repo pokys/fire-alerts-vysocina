@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:421169061
-DTSTART:20261017T141908Z
-DTEND:20261017T151908Z
-DTSTAMP:20261017T141908Z
-SUMMARY:⚠️ planý poplach - Jihlava
-LOCATION:Jihlava
-GEO:49.458837;15.608916
-URL:geo:49.458837,15.608916
-DESCRIPTION:📍 Červený Kříž\, Jihlava\n💬 Požár ohlášený systémem elektrické 
- požární signalizace. Průzkumem bylo zjištěno\, že se jedná o planý poplach
- .\n\n🚒 CAS (CHS Jihlava) ×2
-END:VEVENT
-BEGIN:VEVENT
 UID:421171061
 DTSTART:20261017T143327Z
 DTEND:20261017T153327Z
@@ -246,8 +233,8 @@ SUMMARY:🚗 dopravní nehoda - Dlouhá Brtnice
 LOCATION:Dlouhá Brtnice
 GEO:49.224775;15.608794
 URL:geo:49.224775,15.608794
-DESCRIPTION:📍 Dlouhá Brtnice\, Jihlava\n\n🚒 CAS (HS Třešť)\n🚒 CAS (Stonařov
- )
+DESCRIPTION:📍 Dlouhá Brtnice\, Jihlava\n💬 DN 2 x OA a dodávky\, jedna zraně
+ ná osoba. Zajištění místa události.\n\n🚒 CAS (HS Třešť)\n🚒 CAS (Stonařov)
 END:VEVENT
 BEGIN:VEVENT
 UID:421207061
@@ -306,9 +293,9 @@ SUMMARY:🚗 bez zranění - Žďár nad Sázavou
 LOCATION:V Zahrádkách\, Žďár nad Sázavou
 GEO:49.562860;15.927841
 URL:geo:49.562860,15.927841
-DESCRIPTION:📍 V Zahrádkách\, Žďár nad Sázavou 3\, Žďár nad Sázavou\n💬 DN 1 
- OA a motorky\, bez zranění. Zajištění místa nehody.\n\n🚒 CAS (CHS Žďár nad
-  Sázavou)
+DESCRIPTION:📍 V Zahrádkách\, Žďár nad Sázavou 3\, Žďár nad Sázavou\n💬 DN OA
+  a motorky\, bez zranění. Zajištění místa nehody.\n\n🚒 CAS (CHS Žďár nad S
+ ázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:421224061
@@ -319,9 +306,9 @@ SUMMARY:🔥 vozidlo - Velká Bíteš
 LOCATION:Pod Hradbami\, Velká Bíteš
 GEO:49.287338;16.227403
 URL:geo:49.287338,16.227403
-DESCRIPTION:📍 Pod Hradbami\, Velká Bíteš\, Žďár nad Sázavou\n💬 LIkvidace po
- žáru OA.\n\n🚒 CAS (HS Velká Bíteš)\n🚒 vyšetřovací automobil (ÚO Žďár nad S
- ázavou)
+DESCRIPTION:📍 Pod Hradbami\, Velká Bíteš\, Žďár nad Sázavou\n💬 Požár OA v m
+ otorovém prostoru.\n\n🚒 CAS (HS Velká Bíteš)\n🚒 vyšetřovací automobil (ÚO 
+ Žďár nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:421227061
@@ -344,8 +331,8 @@ SUMMARY:🚗 dopravní nehoda - Želetava
 LOCATION:Želetava
 GEO:49.146066;15.703153
 URL:geo:49.146066,15.703153
-DESCRIPTION:📍 Želetava\, Třebíč\n💬 DN motocyklu s 1 zraněnou osobou.\n\n🚒 C
- AS (HS Moravské Budějovice)\n🚒 CAS (Želetava)
+DESCRIPTION:📍 Želetava\, Třebíč\n💬 DN motocyklu jedna zraněná osoba. Zajišt
+ ění místa události.\n\n🚒 CAS (HS Moravské Budějovice)\n🚒 CAS (Želetava)
 END:VEVENT
 BEGIN:VEVENT
 UID:421231061
@@ -405,7 +392,7 @@ SUMMARY:🚑 otevření/asistence - Žďár nad Sázavou
 LOCATION:Vančurova\, Žďár nad Sázavou
 GEO:49.562736;15.946417
 URL:geo:49.562736,15.946417
-DESCRIPTION:📍 Vančurova\, Žďár nad Sázavou 4\, Žďár nad Sázavou\n\n🚒 CAS (C
- HS Žďár nad Sázavou)
+DESCRIPTION:📍 Vančurova\, Žďár nad Sázavou 4\, Žďár nad Sázavou\n💬 Otevření
+  bytu.\n\n🚒 CAS (CHS Žďár nad Sázavou)
 END:VEVENT
 END:VCALENDAR
