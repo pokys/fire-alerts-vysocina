@@ -384,15 +384,4 @@ DESCRIPTION:📍 Česká Bělá\, Havlíčkův Brod\n💬 Planý poplach.\n\n�
  avlíčkův Brod)\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 CAS (HS Chotěboř)\n🚒 CAS (HS
   Chotěboř)\n🚒 CAS (Česká Bělá)\n🚒 CAS (Přibyslav)
 END:VEVENT
-BEGIN:VEVENT
-UID:421239061
-DTSTART:20261019T152135Z
-DTEND:20261019T162135Z
-DTSTAMP:20261019T152135Z
-SUMMARY:🛠️ ostatní - Zhoř
-LOCATION:Zhoř
-GEO:49.442599;15.771344
-URL:geo:49.442599,15.771344
-DESCRIPTION:📍 Zhoř\, Jihlava\n\n🚒 CAS (Zhoř (JI))
-END:VEVENT
 END:VCALENDAR
