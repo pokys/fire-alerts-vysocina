@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:421168061
-DTSTART:20261017T135026Z
-DTEND:20261017T145026Z
-DTSTAMP:20261017T135026Z
-SUMMARY:🔥 tráva/plocha - Želetava
-LOCATION:Želetava
-GEO:49.148650;15.663770
-URL:geo:49.148650,15.663770
-DESCRIPTION:📍 Želetava\, Třebíč\n💬 Požár pařezu a hrabanky. Jednotky proved
- ly lokalizaci a likvidaci požáru.\n\n🚒 CAS (HS Moravské Budějovice)\n🚒 CAS
-  (Želetava)
-END:VEVENT
-BEGIN:VEVENT
 UID:421169061
 DTSTART:20261017T141908Z
 DTEND:20261017T151908Z
@@ -406,7 +393,7 @@ SUMMARY:🛠️ strom - Lipnice nad Sázavou
 LOCATION:Lipnice nad Sázavou
 GEO:49.610212;15.393445
 URL:geo:49.610212,15.393445
-DESCRIPTION:📍 Lipnice nad Sázavou\, Havlíčkův Brod\n\n🚒 CAS (Lipnice nad Sá
- zavou)
+DESCRIPTION:📍 Lipnice nad Sázavou\, Havlíčkův Brod\n💬 Odstranění stromu.\n\
+ n🚒 CAS (Lipnice nad Sázavou)
 END:VEVENT
 END:VCALENDAR
