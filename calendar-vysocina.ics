@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:421183061
-DTSTART:20261017T220347Z
-DTEND:20261017T230347Z
-DTSTAMP:20261017T220347Z
-SUMMARY:🔥 Jihlava
-LOCATION:Polní\, Jihlava
-GEO:49.390566;15.599007
-URL:geo:49.390566,15.599007
-DESCRIPTION:📍 Polní\, Jihlava\n💬 Požár na balkoně bytového domu. Byla prove
- dena lokalizace a likvidace požáru.\n\n🚒 CAS (CHS Jihlava) ×2\n🚒 AŽ (CHS J
- ihlava)\n🚒 CAS (Jihlava-Bedřichov)\n🚒 vyšetřovací automobil (ÚO Jihlava)
-END:VEVENT
-BEGIN:VEVENT
 UID:421185061
 DTSTART:20261018T054045Z
 DTEND:20261018T064045Z
