@@ -348,4 +348,16 @@ URL:geo:49.020884,15.568316
 DESCRIPTION:📍 28. října\, Jemnice\, Třebíč\n💬 Únik LPG z OA. Jednotka prove
  dla zajištění místa.\n\n🚒 CAS (HS Jemnice)
 END:VEVENT
+BEGIN:VEVENT
+UID:421243061
+DTSTART:20261020T013206Z
+DTEND:20261020T023206Z
+DTSTAMP:20261020T013206Z
+SUMMARY:🚗 bez zranění - Vojslavice
+LOCATION:Vojslavice
+GEO:49.596865;15.213143
+URL:geo:49.596865,15.213143
+DESCRIPTION:📍 Vojslavice\, Pelhřimov\n\n🚒 CAS (HS Humpolec)\n🚒 RZA (HS Hump
+ olec)
+END:VEVENT
 END:VCALENDAR
