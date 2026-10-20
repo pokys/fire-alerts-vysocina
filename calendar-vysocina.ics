@@ -397,7 +397,18 @@ SUMMARY:🛠️ otevření bytu/auta - Žďár nad Sázavou
 LOCATION:Brněnská\, Žďár nad Sázavou
 GEO:49.548613;15.956289
 URL:geo:49.548613,15.956289
-DESCRIPTION:📍 Brněnská\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n\n🚒 CAS (CH
- S Žďár nad Sázavou)
+DESCRIPTION:📍 Brněnská\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n💬 Otevření 
+ OA.\n\n🚒 CAS (CHS Žďár nad Sázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:421266061
+DTSTART:20261020T103404Z
+DTEND:20261020T113404Z
+DTSTAMP:20261020T103404Z
+SUMMARY:🛠️ obtížný hmyz - Zhoř
+LOCATION:Zhoř
+GEO:49.441986;15.772081
+URL:geo:49.441986,15.772081
+DESCRIPTION:📍 Zhoř\, Jihlava\n\n🚒 CAS (HS Polná)
 END:VEVENT
 END:VCALENDAR
