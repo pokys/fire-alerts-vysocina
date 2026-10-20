@@ -383,7 +383,8 @@ SUMMARY:🛠️ ostatní - Jihlava
 LOCATION:Kollárova\, Jihlava
 GEO:49.413453;15.594961
 URL:geo:49.413453,15.594961
-DESCRIPTION:📍 Kollárova\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+DESCRIPTION:📍 Kollárova\, Jihlava\n💬 Pomoc imobilní osobě.\n\n🚒 CAS (CHS Ji
+ hlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:421251061
@@ -394,6 +395,7 @@ SUMMARY:🚑 záchrana ze stromu - Žďár nad Sázavou
 LOCATION:Žďár nad Sázavou
 GEO:49.597305;15.936226
 URL:geo:49.597305,15.936226
-DESCRIPTION:📍 Stržanov\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad Sázavou)
+DESCRIPTION:📍 Stržanov\, Žďár nad Sázavou\n💬 Pád osoby z lešení. Zajištění 
+ místa události a spolupráce složek IZS.\n\n🚒 CAS (CHS Žďár nad Sázavou)
 END:VEVENT
 END:VCALENDAR
