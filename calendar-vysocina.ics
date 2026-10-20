@@ -485,7 +485,18 @@ SUMMARY:☣️ olej/PHM - Velká Bíteš
 LOCATION:Pod Kotelnou\, Velká Bíteš
 GEO:49.294736;16.219508
 URL:geo:49.294736,16.219508
-DESCRIPTION:📍 Pod Kotelnou\, Velká Bíteš\, Žďár nad Sázavou\n\n🚒 CAS (HS Ve
- lká Bíteš)
+DESCRIPTION:📍 Pod Kotelnou\, Velká Bíteš\, Žďár nad Sázavou\n💬 Likvidace ún
+ iku oleje z OA pomocí sorbentu.\n\n🚒 CAS (HS Velká Bíteš)
+END:VEVENT
+BEGIN:VEVENT
+UID:421285061
+DTSTART:20261020T183659Z
+DTEND:20261020T193659Z
+DTSTAMP:20261020T183659Z
+SUMMARY:🛠️ otevření bytu/auta - Jihlava
+LOCATION:Kollárova\, Jihlava
+GEO:49.413615;15.594945
+URL:geo:49.413615,15.594945
+DESCRIPTION:📍 Kollárova\, Jihlava\n\n🚒 CAS (CHS Jihlava)
 END:VEVENT
 END:VCALENDAR
