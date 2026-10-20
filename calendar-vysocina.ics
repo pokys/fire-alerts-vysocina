@@ -350,4 +350,16 @@ DESCRIPTION:📍 Vojslavice\, Pelhřimov\n💬 DN 1 OA náraz do svodidel. Bez z
  \n🚒 RZA (HS Humpolec)\n🚒 CAS (HS Zruč nad Sázavou)\n🚒 RZA (HS Zruč nad Sáz
  avou)
 END:VEVENT
+BEGIN:VEVENT
+UID:421245061
+DTSTART:20261020T054633Z
+DTEND:20261020T064633Z
+DTSTAMP:20261020T054633Z
+SUMMARY:🛠️ strom - Květinov
+LOCATION:Květinov
+GEO:49.576275;15.506083
+URL:geo:49.576275,15.506083
+DESCRIPTION:📍 Kvasetice\, Květinov\, Havlíčkův Brod\n💬 Odstranění stromu.\n
+ \n🚒 automobilová plošina do 30 m (CHS Havlíčkův Brod)
+END:VEVENT
 END:VCALENDAR
