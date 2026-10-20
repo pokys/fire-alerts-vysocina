@@ -464,4 +464,16 @@ URL:geo:49.348684,15.360786
 DESCRIPTION:📍 Těšenov\, Horní Cerekev\, Pelhřimov\n💬 Proplach kanalizace.\n
  \n🚒 CAS (Horní Cerekev)
 END:VEVENT
+BEGIN:VEVENT
+UID:421283061
+DTSTART:20261020T172351Z
+DTEND:20261020T182351Z
+DTSTAMP:20261020T172351Z
+SUMMARY:🚑 transport pacienta - Žďár nad Sázavou
+LOCATION:Brodská\, Žďár nad Sázavou
+GEO:49.564664;15.930008
+URL:geo:49.564664,15.930008
+DESCRIPTION:📍 Brodská\, Žďár nad Sázavou 3\, Žďár nad Sázavou\n💬 Transport 
+ pacienta na žádost ZZS.\n\n🚒 CAS (CHS Žďár nad Sázavou)
+END:VEVENT
 END:VCALENDAR
