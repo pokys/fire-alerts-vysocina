@@ -476,4 +476,15 @@ DESCRIPTION:📍 Lípa\, Havlíčkův Brod\n💬 Kontrola kotle.\n\n🚒 CAS (CH
  kův Brod)\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 CAS (Herálec (HB))\n🚒 DA (Lípa)\n
  🚒 CAS (Štoky)
 END:VEVENT
+BEGIN:VEVENT
+UID:421298061
+DTSTART:20261021T051910Z
+DTEND:20261021T061910Z
+DTSTAMP:20261021T051910Z
+SUMMARY:🛠️ obtížný hmyz - Dobronín
+LOCATION:Jarní\, Dobronín
+GEO:49.479694;15.647830
+URL:geo:49.479694,15.647830
+DESCRIPTION:📍 Jarní\, Dobronín\, Jihlava\n\n🚒 DA (Dobronín)
+END:VEVENT
 END:VCALENDAR
