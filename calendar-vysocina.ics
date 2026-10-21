@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:421236061
-DTSTART:20261019T131719Z
-DTEND:20261019T141719Z
-DTSTAMP:20261019T131719Z
-SUMMARY:🛠️ strom - Lipnice nad Sázavou
-LOCATION:Lipnice nad Sázavou
-GEO:49.610212;15.393445
-URL:geo:49.610212,15.393445
-DESCRIPTION:📍 Lipnice nad Sázavou\, Havlíčkův Brod\n💬 Odstranění stromu.\n\
- n🚒 CAS (Lipnice nad Sázavou)
-END:VEVENT
-BEGIN:VEVENT
 UID:421237061
 DTSTART:20261019T140420Z
 DTEND:20261019T150420Z
@@ -451,5 +439,17 @@ DESCRIPTION:📍 Doupě\, Jihlava\n\n🚒 CAS (HS Telč)\n🚒 CAS (HS Telč)\n�
  S Třešť)\n🚒 CAS (Mrákotín)\n🚒 přívěs motorová stříkačka (Doupě)\n🚒 CAS (Te
  lč)\n🚒 DA (Třeštice)\n🚒 CAS (Třeštice)\n🚒 CAS (Batelov)\n🚒 CAS (Stonařov)\
  n🚒 CAS (Hodice)\n🚒 CAS (Třešť)
+END:VEVENT
+BEGIN:VEVENT
+UID:421326061
+DTSTART:20261021T131520Z
+DTEND:20261021T141520Z
+DTSTAMP:20261021T131520Z
+SUMMARY:🚑 transport pacienta - Velká Bíteš
+LOCATION:U Stadionu\, Velká Bíteš
+GEO:49.293672;16.222377
+URL:geo:49.293672,16.222377
+DESCRIPTION:📍 U Stadionu\, Velká Bíteš\, Žďár nad Sázavou\n\n🚒 CAS (HS Velk
+ á Bíteš)
 END:VEVENT
 END:VCALENDAR
