@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:421234061
-DTSTART:20261019T131043Z
-DTEND:20261019T141043Z
-DTSTAMP:20261019T131043Z
-SUMMARY:🚑 otevření/asistence - Třebíč
-LOCATION:Václavské nám.\, Třebíč
-GEO:49.206584;15.880144
-URL:geo:49.206584,15.880144
-DESCRIPTION:📍 Václavské nám.\, Horka-Domky\, Třebíč\n💬 Otevření bytu.\n\n🚒 
- CAS (CHS Třebíč)
-END:VEVENT
-BEGIN:VEVENT
 UID:421236061
 DTSTART:20261019T131719Z
 DTEND:20261019T141719Z
@@ -449,5 +437,19 @@ URL:geo:49.578889,15.522810
 DESCRIPTION:📍 Michalovice\, Havlíčkův Brod\n💬 Požár ohlášený systémem elekt
  rické požární signalizace. Průzkumem bylo zjištěno\, že se jedná o planý p
  oplach.\n\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 CAS (CHS Havlíčkův Brod)
+END:VEVENT
+BEGIN:VEVENT
+UID:421325061
+DTSTART:20261021T130144Z
+DTEND:20261021T140144Z
+DTSTAMP:20261021T130144Z
+SUMMARY:🔥 Doupě
+LOCATION:Doupě
+GEO:49.252032;15.426150
+URL:geo:49.252032,15.426150
+DESCRIPTION:📍 Doupě\, Jihlava\n\n🚒 CAS (HS Telč)\n🚒 CAS (HS Telč)\n🚒 CAS (H
+ S Třešť)\n🚒 CAS (Mrákotín)\n🚒 přívěs motorová stříkačka (Doupě)\n🚒 CAS (Te
+ lč)\n🚒 DA (Třeštice)\n🚒 CAS (Třeštice)\n🚒 CAS (Batelov)\n🚒 CAS (Stonařov)\
+ n🚒 CAS (Hodice)\n🚒 CAS (Třešť)
 END:VEVENT
 END:VCALENDAR
