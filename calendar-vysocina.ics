@@ -553,8 +553,9 @@ SUMMARY:🚑 spolupráce ZZS - Luka nad Jihlavou
 LOCATION:Studnická\, Luka nad Jihlavou
 GEO:49.375461;15.710701
 URL:geo:49.375461,15.710701
-DESCRIPTION:📍 Studnická\, Luka nad Jihlavou\, Jihlava\n\n🚒 CAS (CHS Jihlava
- )\n🚒 DA (Luka nad Jihlavou)\n🚒 CAS (Luka nad Jihlavou)
+DESCRIPTION:📍 Studnická\, Luka nad Jihlavou\, Jihlava\n💬 Spolupráce se ZZS.
+ \n\n🚒 CAS (CHS Jihlava)\n🚒 DA (Luka nad Jihlavou)\n🚒 CAS (Luka nad Jihlavo
+ u)
 END:VEVENT
 BEGIN:VEVENT
 UID:421392061
@@ -613,5 +614,17 @@ LOCATION:Batelov
 GEO:49.283957;15.391606
 URL:geo:49.283957,15.391606
 DESCRIPTION:📍 Rácov\, Batelov\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+END:VEVENT
+BEGIN:VEVENT
+UID:421400061
+DTSTART:20261022T151812Z
+DTEND:20261022T161812Z
+DTSTAMP:20261022T151812Z
+SUMMARY:🚑 otevření/asistence - Žďár nad Sázavou
+LOCATION:Žďár nad Sázavou
+GEO:49.570183;15.939816
+URL:geo:49.570183,15.939816
+DESCRIPTION:📍 Žďár nad Sázavou 1\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad 
+ Sázavou)
 END:VEVENT
 END:VCALENDAR
