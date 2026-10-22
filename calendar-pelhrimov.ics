@@ -97,11 +97,12 @@ UID:421403061
 DTSTART:20261022T163344Z
 DTEND:20261022T173344Z
 DTSTAMP:20261022T163344Z
-SUMMARY:🔥 venkovní požár - Pelhřimov
+SUMMARY:⚠️ planý poplach - Pelhřimov
 LOCATION:Pražská\, Pelhřimov
 GEO:49.440645;15.206688
 URL:geo:49.440645,15.206688
-DESCRIPTION:📍 Pražská\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (CHS Pelh
- řimov)\n🚒 DA (Rynárec)\n🚒 CAS (Rynárec)\n🚒 CAS (Olešná (PE))
+DESCRIPTION:📍 Pražská\, Pelhřimov\n💬 Planý poplach\n\n🚒 CAS (CHS Pelhřimov)
+ \n🚒 CAS (CHS Pelhřimov)\n🚒 DA (Rynárec)\n🚒 CAS (Rynárec)\n🚒 CAS (Olešná (P
+ E))
 END:VEVENT
 END:VCALENDAR
