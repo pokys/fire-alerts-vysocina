@@ -538,8 +538,8 @@ SUMMARY:🛠️ strom - Polná
 LOCATION:Sezimovo náměstí\, Polná
 GEO:49.487864;15.717148
 URL:geo:49.487864,15.717148
-DESCRIPTION:📍 Sezimovo náměstí\, Polná\, Jihlava\n\n🚒 automobilová plošina 
- do 30 m (HS Polná)
+DESCRIPTION:📍 Sezimovo náměstí\, Polná\, Jihlava\n💬 Odstranění stromu.\n\n🚒
+  automobilová plošina do 30 m (HS Polná)
 END:VEVENT
 BEGIN:VEVENT
 UID:421370061
@@ -550,7 +550,7 @@ SUMMARY:🚑 transport pacienta - Kamenice
 LOCATION:Kamenice
 GEO:49.368791;15.779466
 URL:geo:49.368791,15.779466
-DESCRIPTION:📍 Kamenice\, Jihlava\n\n🚒 CAS (HS Polná)\n🚒 DA (Kamenice (JI))\
- n🚒 CAS (Kamenice (JI))
+DESCRIPTION:📍 Kamenice\, Jihlava\n💬 Transport pacienta na žádost ZZS.\n\n🚒 
+ CAS (HS Polná)\n🚒 DA (Kamenice (JI))\n🚒 CAS (Kamenice (JI))
 END:VEVENT
 END:VCALENDAR
