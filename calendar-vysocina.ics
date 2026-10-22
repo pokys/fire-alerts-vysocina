@@ -343,9 +343,9 @@ SUMMARY:🚗 dopravní nehoda - Jihlava
 LOCATION:Jihlava
 GEO:49.395335;15.600089
 URL:geo:49.395335,15.600089
-DESCRIPTION:💬 DN OA - motocykl se zraněním. ZZS transportovala jednu zraněn
- ou osobu k dalšímu ošetření. Zajištění místa události. Odstranění následků
-  po DN.\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihlava)
+DESCRIPTION:💬 DN OA a motocyklu se zraněním. 1 zraněná osoba. Zajištění mís
+ ta události. Odstranění následků po DN.\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS
+  Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:421324061
@@ -456,8 +456,8 @@ SUMMARY:🚗 dopravní nehoda - Jihlava
 LOCATION:Na Dolech\, Jihlava
 GEO:49.407814;15.564958
 URL:geo:49.407814,15.564958
-DESCRIPTION:📍 Na Dolech\, Jihlava\n💬 DN motocykl - chodec. Zajištění místa 
- události.\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihlava)
+DESCRIPTION:📍 Na Dolech\, Jihlava\n💬 DN motocyklu a chodce. Zajištění místa
+  události.\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:421335061
