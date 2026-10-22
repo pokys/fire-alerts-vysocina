@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:421251061
-DTSTART:20261020T070205Z
-DTEND:20261020T080205Z
-DTSTAMP:20261020T070205Z
-SUMMARY:🚑 záchrana ze stromu - Žďár nad Sázavou
-LOCATION:Žďár nad Sázavou
-GEO:49.597305;15.936226
-URL:geo:49.597305,15.936226
-DESCRIPTION:📍 Stržanov\, Žďár nad Sázavou\n💬 Pád osoby z lešení. Zajištění 
- místa události a spolupráce složek IZS.\n\n🚒 CAS (CHS Žďár nad Sázavou)
-END:VEVENT
-BEGIN:VEVENT
 UID:421254061
 DTSTART:20261020T081002Z
 DTEND:20261020T091002Z
@@ -501,8 +489,10 @@ SUMMARY:🚗 dopravní nehoda - Větrný Jeníkov
 LOCATION:Větrný Jeníkov
 GEO:49.463537;15.498974
 URL:geo:49.463537,15.498974
-DESCRIPTION:📍 Větrný Jeníkov\, Jihlava\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS J
- ihlava)
+DESCRIPTION:📍 Větrný Jeníkov\, Jihlava\n💬 DN OA mimo vozovku\, 1 zraněná os
+ oba. Předlékařská první pomoc zraněné osobě do příjezdu ZZS. Zabezpečení h
+ avarovaného vozidla proti požáru a proti úniku provozních kapalin.\n\n🚒 CA
+ S (CHS Jihlava)\n🚒 RZA (CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:421350061
@@ -524,6 +514,18 @@ SUMMARY:🚑 otevření/asistence - Třebíč
 LOCATION:Revoluční\, Třebíč
 GEO:49.207892;15.855958
 URL:geo:49.207892,15.855958
-DESCRIPTION:📍 Revoluční\, Borovina\, Třebíč\n\n🚒 CAS (CHS Třebíč)
+DESCRIPTION:📍 Revoluční\, Borovina\, Třebíč\n💬 Otevření bytu.\n\n🚒 CAS (CHS
+  Třebíč)
+END:VEVENT
+BEGIN:VEVENT
+UID:421355061
+DTSTART:20261022T070608Z
+DTEND:20261022T080608Z
+DTSTAMP:20261022T070608Z
+SUMMARY:🚗 úklid místa - Třebíč
+LOCATION:Třebíč
+GEO:49.208801;15.846769
+URL:geo:49.208801,15.846769
+DESCRIPTION:🚒 CAS (CHS Třebíč)
 END:VEVENT
 END:VCALENDAR
