@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:421282061
-DTSTART:20261020T145048Z
-DTEND:20261020T155048Z
-DTSTAMP:20261020T145048Z
-SUMMARY:🛠️ ostatní - Horní Cerekev
-LOCATION:Horní Cerekev
-GEO:49.348684;15.360786
-URL:geo:49.348684,15.360786
-DESCRIPTION:📍 Těšenov\, Horní Cerekev\, Pelhřimov\n💬 Proplach kanalizace.\n
- \n🚒 CAS (Horní Cerekev)
-END:VEVENT
-BEGIN:VEVENT
 UID:421283061
 DTSTART:20261020T172351Z
 DTEND:20261020T182351Z
@@ -529,8 +517,8 @@ GEO:49.806099;15.628563
 URL:geo:49.806099,15.628563
 DESCRIPTION:📍 Chuchel\, Jeřišno\, Havlíčkův Brod\n💬 Požár slámy v zemědělsk
  ém objektu. Lokalizace a likvidace.\n\n🚒 CAS (HS Chotěboř)\n🚒 CAS (HS Chot
- ěboř)\n🚒 DA (Maleč)\n🚒 CAS (Maleč)\n🚒 vyšetřovací automobil (ÚO Havlíčkův 
- Brod)
+ ěboř)\n🚒 DA (Maleč)\n🚒 CAS (Maleč)\n🚒 CAS (HS Seč)\n🚒 CAS (HS Seč)\n🚒 CAS 
+ (Seč)\n🚒 vyšetřovací automobil (ÚO Havlíčkův Brod)
 END:VEVENT
 BEGIN:VEVENT
 UID:421385061
@@ -567,5 +555,17 @@ GEO:49.375461;15.710701
 URL:geo:49.375461,15.710701
 DESCRIPTION:📍 Studnická\, Luka nad Jihlavou\, Jihlava\n\n🚒 CAS (CHS Jihlava
  )\n🚒 DA (Luka nad Jihlavou)\n🚒 CAS (Luka nad Jihlavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:421392061
+DTSTART:20261022T145308Z
+DTEND:20261022T155308Z
+DTSTAMP:20261022T145308Z
+SUMMARY:🛠️ ostatní - Krucemburk
+LOCATION:Koželužská\, Krucemburk
+GEO:49.687776;15.850521
+URL:geo:49.687776,15.850521
+DESCRIPTION:📍 Koželužská\, Krucemburk\, Havlíčkův Brod\n💬 Pročištění kanali
+ zace.\n\n🚒 CAS (Krucemburk)
 END:VEVENT
 END:VCALENDAR
