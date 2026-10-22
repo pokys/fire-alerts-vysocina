@@ -105,4 +105,15 @@ DESCRIPTION:📍 Pražská\, Pelhřimov\n💬 Planý poplach.\n\n🚒 CAS (CHS P
  )\n🚒 CAS (CHS Pelhřimov)\n🚒 DA (Rynárec)\n🚒 CAS (Rynárec)\n🚒 CAS (Olešná (
  PE))
 END:VEVENT
+BEGIN:VEVENT
+UID:421405061
+DTSTART:20261022T201006Z
+DTEND:20261022T211006Z
+DTSTAMP:20261022T201006Z
+SUMMARY:🛠️ ostatní - Humpolec
+LOCATION:Jihlavská\, Humpolec
+GEO:49.537159;15.361381
+URL:geo:49.537159,15.361381
+DESCRIPTION:📍 Jihlavská\, Humpolec\, Pelhřimov\n\n🚒 CAS (HS Humpolec)
+END:VEVENT
 END:VCALENDAR
