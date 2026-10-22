@@ -565,4 +565,16 @@ URL:geo:49.300316,16.160928
 DESCRIPTION:📍 Jáchymov\, Velká Bíteš\, Žďár nad Sázavou\n\n🚒 CAS (HS Velká 
  Bíteš)\n🚒 DA (Osová Bítýška)\n🚒 CAS (Velká Bíteš)\n🚒 CAS (Tasov)
 END:VEVENT
+BEGIN:VEVENT
+UID:421381061
+DTSTART:20261022T111439Z
+DTEND:20261022T121439Z
+DTSTAMP:20261022T111439Z
+SUMMARY:🚑 záchrana ze stromu - Telč
+LOCATION:Luční\, Telč
+GEO:49.178737;15.453404
+URL:geo:49.178737,15.453404
+DESCRIPTION:📍 Luční\, Telč-Staré Město\, Telč\, Jihlava\n\n🚒 CAS (HS Telč)\
+ n🚒 AŽ (HS Telč)
+END:VEVENT
 END:VCALENDAR
