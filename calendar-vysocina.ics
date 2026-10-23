@@ -622,6 +622,19 @@ SUMMARY:🛠️ otevření bytu/auta - Věžnice
 LOCATION:Věžnice
 GEO:49.513988;15.688183
 URL:geo:49.513988,15.688183
-DESCRIPTION:📍 Věžnice\, Havlíčkův Brod\n\n🚒 CAS (HS Polná)
+DESCRIPTION:📍 Věžnice\, Havlíčkův Brod\n💬 Otevření bytu.\n\n🚒 CAS (HS Polná
+ )
+END:VEVENT
+BEGIN:VEVENT
+UID:421424061
+DTSTART:20261023T080321Z
+DTEND:20261023T090321Z
+DTSTAMP:20261023T080321Z
+SUMMARY:🚗 bez zranění - Trpišovice
+LOCATION:Trpišovice
+GEO:49.659604;15.347557
+URL:geo:49.659604,15.347557
+DESCRIPTION:📍 Smrčná\, Trpišovice\, Havlíčkův Brod\n\n🚒 CAS (HS Světlá nad 
+ Sázavou)
 END:VEVENT
 END:VCALENDAR
