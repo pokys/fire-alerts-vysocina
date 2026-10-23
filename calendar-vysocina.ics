@@ -649,7 +649,8 @@ SUMMARY:🛠️ otevření bytu/auta - Jemnice
 LOCATION:náměstí Svobody\, Jemnice
 GEO:49.018372;15.570545
 URL:geo:49.018372,15.570545
-DESCRIPTION:📍 náměstí Svobody\, Jemnice\, Třebíč\n\n🚒 CAS (HS Jemnice)
+DESCRIPTION:📍 náměstí Svobody\, Jemnice\, Třebíč\n💬 Otevření bytu.\n\n🚒 CAS
+  (HS Jemnice)
 END:VEVENT
 BEGIN:VEVENT
 UID:421453061
