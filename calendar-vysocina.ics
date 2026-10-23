@@ -607,7 +607,20 @@ SUMMARY:🔥 les - Skřinářov
 LOCATION:Skřinářov
 GEO:49.349774;16.153952
 URL:geo:49.349774,16.153952
-DESCRIPTION:📍 Skřinářov\, Žďár nad Sázavou\n\n🚒 CAS (HS Velká Bíteš)\n🚒 DA 
- (Osová Bítýška)\n🚒 automobilová stříkačka (Skřinářov)\n🚒 CAS (Velká Bíteš)
+DESCRIPTION:📍 Skřinářov\, Žďár nad Sázavou\n💬 Požár hrabanky 15x15m. Jednot
+ ka provedla lokalizaci a likvidaci požáru. Beze škody.\n\n🚒 CAS (HS Velká 
+ Bíteš)\n🚒 DA (Osová Bítýška)\n🚒 automobilová stříkačka (Skřinářov)\n🚒 CAS 
+ (Velká Bíteš)
+END:VEVENT
+BEGIN:VEVENT
+UID:421419061
+DTSTART:20261023T071709Z
+DTEND:20261023T081709Z
+DTSTAMP:20261023T071709Z
+SUMMARY:🛠️ otevření bytu/auta - Věžnice
+LOCATION:Věžnice
+GEO:49.513988;15.688183
+URL:geo:49.513988,15.688183
+DESCRIPTION:📍 Věžnice\, Havlíčkův Brod\n\n🚒 CAS (HS Polná)
 END:VEVENT
 END:VCALENDAR
