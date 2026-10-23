@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:421323061
-DTSTART:20261021T114352Z
-DTEND:20261021T124352Z
-DTSTAMP:20261021T114352Z
-SUMMARY:🚗 dopravní nehoda - Jihlava
-LOCATION:Jihlava
-GEO:49.395335;15.600089
-URL:geo:49.395335,15.600089
-DESCRIPTION:💬 DN OA a motocyklu se zraněním. Zajištění místa události. Odst
- ranění následků po DN.\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihlava)
-END:VEVENT
-BEGIN:VEVENT
 UID:421324061
 DTSTART:20261021T121642Z
 DTEND:20261021T131642Z
@@ -637,8 +625,8 @@ SUMMARY:🔥 budova - Česká Bělá
 LOCATION:Česká Bělá
 GEO:49.642792;15.698194
 URL:geo:49.642792,15.698194
-DESCRIPTION:📍 Česká Bělá\, Havlíčkův Brod\n\n🚒 vyšetřovací automobil (ÚO Ha
- vlíčkův Brod)
+DESCRIPTION:📍 Česká Bělá\, Havlíčkův Brod\n💬 Požár baterie dronu\, lokaliza
+ ce a likvidace.\n\n🚒 vyšetřovací automobil (ÚO Havlíčkův Brod)
 END:VEVENT
 BEGIN:VEVENT
 UID:421434061
@@ -649,8 +637,8 @@ SUMMARY:🚑 otevření/asistence - Velká Bíteš
 LOCATION:Masarykovo náměstí\, Velká Bíteš
 GEO:49.288716;16.226209
 URL:geo:49.288716,16.226209
-DESCRIPTION:📍 Masarykovo náměstí\, Velká Bíteš\, Žďár nad Sázavou\n\n🚒 CAS 
- (HS Velká Bíteš)
+DESCRIPTION:📍 Masarykovo náměstí\, Velká Bíteš\, Žďár nad Sázavou\n💬 Otevře
+ ní bytu.\n\n🚒 CAS (HS Velká Bíteš)
 END:VEVENT
 BEGIN:VEVENT
 UID:421435061
@@ -673,8 +661,9 @@ SUMMARY:🚗 dopravní nehoda - Lavičky
 LOCATION:Lavičky
 GEO:49.368403;15.974188
 URL:geo:49.368403,15.974188
-DESCRIPTION:📍 Lavičky\, Žďár nad Sázavou\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZ
- A (HS Velké Meziříčí)
+DESCRIPTION:📍 Lavičky\, Žďár nad Sázavou\n💬 DN motorkáře. 1 zraněná osoba v
+  péči ZZS. Zajištění místa nehody.\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (HS
+  Velké Meziříčí)
 END:VEVENT
 BEGIN:VEVENT
 UID:421437061
@@ -685,7 +674,7 @@ SUMMARY:🚑 transport pacienta - Žďár nad Sázavou
 LOCATION:Komenského\, Žďár nad Sázavou
 GEO:49.565774;15.935181
 URL:geo:49.565774,15.935181
-DESCRIPTION:📍 Komenského\, Žďár nad Sázavou 3\, Žďár nad Sázavou\n\n🚒 CAS (
- CHS Žďár nad Sázavou)
+DESCRIPTION:📍 Komenského\, Žďár nad Sázavou 3\, Žďár nad Sázavou\n💬 Transpo
+ rt pacienta na žádost ZZS.\n\n🚒 CAS (CHS Žďár nad Sázavou)
 END:VEVENT
 END:VCALENDAR
