@@ -5,33 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:421325061
-DTSTART:20261021T130144Z
-DTEND:20261021T140144Z
-DTSTAMP:20261021T130144Z
-SUMMARY:🔥 Doupě
-LOCATION:Doupě
-GEO:49.252032;15.426150
-URL:geo:49.252032,15.426150
-DESCRIPTION:📍 Doupě\, Jihlava\n💬 Taktické cvičení.\n\n🚒 CAS (HS Telč)\n🚒 CA
- S (HS Telč)\n🚒 CAS (HS Třešť)\n🚒 CAS (Mrákotín)\n🚒 přívěs motorová stříkač
- ka (Doupě)\n🚒 CAS (Telč)\n🚒 DA (Třeštice)\n🚒 CAS (Třeštice)\n🚒 stříkačka p
- řenosná (Třeštice)\n🚒 přÍvěs pro hašení (Třeštice)\n🚒 CAS (Batelov)\n🚒 CAS
-  (Stonařov)\n🚒 CAS (Hodice)\n🚒 CAS (Třešť)
-END:VEVENT
-BEGIN:VEVENT
-UID:421326061
-DTSTART:20261021T131520Z
-DTEND:20261021T141520Z
-DTSTAMP:20261021T131520Z
-SUMMARY:🚑 transport pacienta - Velká Bíteš
-LOCATION:U Stadionu\, Velká Bíteš
-GEO:49.293672;16.222377
-URL:geo:49.293672,16.222377
-DESCRIPTION:📍 U Stadionu\, Velká Bíteš\, Žďár nad Sázavou\n💬 Transport paci
- enta na žádost ZZS.\n\n🚒 CAS (HS Velká Bíteš)
-END:VEVENT
-BEGIN:VEVENT
 UID:421327061
 DTSTART:20261021T135103Z
 DTEND:20261021T145103Z
