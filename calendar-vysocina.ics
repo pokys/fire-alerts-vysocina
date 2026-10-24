@@ -574,8 +574,8 @@ SUMMARY:🛠️ otevření bytu/auta - Moravské Budějovice
 LOCATION:Myslbekova\, Moravské Budějovice
 GEO:49.048857;15.817011
 URL:geo:49.048857,15.817011
-DESCRIPTION:📍 Myslbekova\, Moravské Budějovice\, Třebíč\n\n🚒 CAS (HS Moravs
- ké Budějovice)
+DESCRIPTION:📍 Myslbekova\, Moravské Budějovice\, Třebíč\n💬 Otevření bytu.\n
+ \n🚒 CAS (HS Moravské Budějovice)
 END:VEVENT
 BEGIN:VEVENT
 UID:421470061
@@ -588,5 +588,16 @@ GEO:49.598970;15.579173
 URL:geo:49.598970,15.579173
 DESCRIPTION:📍 Jihlavská\, Havlíčkův Brod\n💬 Otevření bytu.\n\n🚒 CAS (CHS Ha
  vlíčkův Brod)
+END:VEVENT
+BEGIN:VEVENT
+UID:421471061
+DTSTART:20261024T111726Z
+DTEND:20261024T121726Z
+DTSTAMP:20261024T111726Z
+SUMMARY:🚗 dopravní nehoda - Služátky
+LOCATION:Služátky
+GEO:49.687509;15.421831
+URL:geo:49.687509,15.421831
+DESCRIPTION:📍 Služátky\, Havlíčkův Brod\n\n🚒 CAS (HS Světlá nad Sázavou)
 END:VEVENT
 END:VCALENDAR
