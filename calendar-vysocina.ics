@@ -615,4 +615,15 @@ DESCRIPTION:📍 Jirsíkova\, Pelhřimov\n💬 Požár ohlášený systémem ele
  ožární signalizace. Průzkumem bylo zjištěno\, že se jedná o planý poplach.
  \n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (CHS Pelhřimov)
 END:VEVENT
+BEGIN:VEVENT
+UID:421462061
+DTSTART:20261024T064342Z
+DTEND:20261024T074342Z
+DTSTAMP:20261024T064342Z
+SUMMARY:🛠️ obtížný hmyz - Štěpkov
+LOCATION:Štěpkov
+GEO:49.084013;15.650199
+URL:geo:49.084013,15.650199
+DESCRIPTION:📍 Štěpkov\, Třebíč\n\n🚒 CAS (HS Jemnice)
+END:VEVENT
 END:VCALENDAR
