@@ -81,4 +81,15 @@ DESCRIPTION:📍 Jirsíkova\, Pelhřimov\n💬 Požár ohlášený systémem ele
  ožární signalizace. Průzkumem bylo zjištěno\, že se jedná o planý poplach.
  \n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (CHS Pelhřimov)
 END:VEVENT
+BEGIN:VEVENT
+UID:421472061
+DTSTART:20261024T113011Z
+DTEND:20261024T123011Z
+DTSTAMP:20261024T113011Z
+SUMMARY:🛠️ ostatní - Budíkov
+LOCATION:Budíkov
+GEO:49.577144;15.368363
+URL:geo:49.577144,15.368363
+DESCRIPTION:📍 Budíkov\, Pelhřimov\n\n🚒 CAS (HS Humpolec)
+END:VEVENT
 END:VCALENDAR
