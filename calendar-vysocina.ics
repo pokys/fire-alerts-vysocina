@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:421373061
-DTSTART:20261022T092443Z
-DTEND:20261022T102443Z
-DTSTAMP:20261022T092443Z
-SUMMARY:🚗 bez zranění - Jihlava
-LOCATION:Jihlava
-GEO:49.398702;15.575102
-URL:geo:49.398702,15.575102
-DESCRIPTION:💬 DN 3 OA bez zranění. Zabezpečení havarovaných vozidel proti p
- ožáru a proti úniku provozních kapalin.\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS
-  Jihlava)
-END:VEVENT
-BEGIN:VEVENT
 UID:421376061
 DTSTART:20261022T104011Z
 DTEND:20261022T114011Z
@@ -612,6 +599,7 @@ SUMMARY:🚑 otevření/asistence - Třešť
 LOCATION:Nádražní\, Třešť
 GEO:49.296849;15.476908
 URL:geo:49.296849,15.476908
-DESCRIPTION:📍 Nádražní\, Třešť\, Jihlava\n\n🚒 CAS (HS Třešť)
+DESCRIPTION:📍 Nádražní\, Třešť\, Jihlava\n💬 Otevření bytu.\n\n🚒 CAS (HS Tře
+ šť)
 END:VEVENT
 END:VCALENDAR
