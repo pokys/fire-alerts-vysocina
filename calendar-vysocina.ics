@@ -5,57 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:421393061
-DTSTART:20261022T150027Z
-DTEND:20261022T160027Z
-DTSTAMP:20261022T150027Z
-SUMMARY:🛠️ ostatní - Jaroměřice nad Rokytnou
-LOCATION:Březinova\, Jaroměřice nad Rokytnou
-GEO:49.097296;15.890013
-URL:geo:49.097296,15.890013
-DESCRIPTION:📍 Březinova\, Jaroměřice nad Rokytnou\, Třebíč\n💬 Pročištění ka
- nalizace.\n\n🚒 CAS (Jaroměřice nad Rokytnou)
-END:VEVENT
-BEGIN:VEVENT
-UID:421394061
-DTSTART:20261022T150057Z
-DTEND:20261022T160057Z
-DTSTAMP:20261022T150057Z
-SUMMARY:🚗 dopravní nehoda - Třešť
-LOCATION:Třešť
-GEO:49.342718;15.514038
-URL:geo:49.342718,15.514038
-DESCRIPTION:📍 Salavice\, Třešť\, Jihlava\n💬 DN 1 OA na střeše mimo vozovku\
- , 1 zraněná osoba.  Zabezpečení havarovaného vozidla proti požáru a proti 
- úniku provozních kapalin.\n\n🚒 CAS (HS Třešť)
-END:VEVENT
-BEGIN:VEVENT
-UID:421395061
-DTSTART:20261022T150211Z
-DTEND:20261022T160211Z
-DTSTAMP:20261022T150211Z
-SUMMARY:🚗 se zraněním - Nový Rychnov
-LOCATION:Nový Rychnov
-GEO:49.369586;15.359731
-URL:geo:49.369586,15.359731
-DESCRIPTION:📍 Řeženčice\, Nový Rychnov\, Pelhřimov\n💬 Dopravní nehoda jedno
- ho OA. Provedeno protipožární opatření a zabezpečení místa nehody. Na míst
- ě jedna zraněná osoba.\n\n🚒 CAS (CHS Pelhřimov)\n🚒 DA (Horní Cerekev)\n🚒 C
- AS (Horní Cerekev)
-END:VEVENT
-BEGIN:VEVENT
-UID:421397061
-DTSTART:20261022T151016Z
-DTEND:20261022T161016Z
-DTSTAMP:20261022T151016Z
-SUMMARY:☣️ plyn - Batelov
-LOCATION:Batelov
-GEO:49.283957;15.391606
-URL:geo:49.283957,15.391606
-DESCRIPTION:📍 Rácov\, Batelov\, Jihlava\n💬 Zastavení úniku plynu. Spoluprác
- e s techniky plynárenské pohotovostní služby.\n\n🚒 CAS (CHS Jihlava)
-END:VEVENT
-BEGIN:VEVENT
 UID:421400061
 DTSTART:20261022T151812Z
 DTEND:20261022T161812Z
