@@ -588,7 +588,9 @@ SUMMARY:🚗 bez zranění - Krásná Hora
 LOCATION:Krásná Hora
 GEO:49.590794;15.430711
 URL:geo:49.590794,15.430711
-DESCRIPTION:📍 Krásná Hora\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)
+DESCRIPTION:📍 Krásná Hora\, Havlíčkův Brod\n💬 DN náraz dodávky do stromu. B
+ ez zranění. Uvolnění komunikace od havarovaného vozidla. Odstranění stromu
+ .\n\n🚒 CAS (CHS Havlíčkův Brod)
 END:VEVENT
 BEGIN:VEVENT
 UID:421465061
@@ -612,5 +614,16 @@ LOCATION:Zhoř
 GEO:49.450635;15.786291
 URL:geo:49.450635,15.786291
 DESCRIPTION:📍 Zhoř\, Jihlava\n\n🚒 CAS (HS Polná)\n🚒 RZA (CHS Jihlava)
+END:VEVENT
+BEGIN:VEVENT
+UID:421468061
+DTSTART:20261024T085314Z
+DTEND:20261024T095314Z
+DTSTAMP:20261024T085314Z
+SUMMARY:🚑 otevření/asistence - Třešť
+LOCATION:Nádražní\, Třešť
+GEO:49.296849;15.476908
+URL:geo:49.296849,15.476908
+DESCRIPTION:📍 Nádražní\, Třešť\, Jihlava\n\n🚒 CAS (HS Třešť)
 END:VEVENT
 END:VCALENDAR
