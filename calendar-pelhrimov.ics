@@ -90,6 +90,18 @@ SUMMARY:🛠️ ostatní - Budíkov
 LOCATION:Budíkov
 GEO:49.577144;15.368363
 URL:geo:49.577144,15.368363
-DESCRIPTION:📍 Budíkov\, Pelhřimov\n\n🚒 CAS (HS Humpolec)
+DESCRIPTION:📍 Budíkov\, Pelhřimov\n💬 Odstranění nebezpečných stavů.\n\n🚒 CA
+ S (HS Humpolec)
+END:VEVENT
+BEGIN:VEVENT
+UID:421473061
+DTSTART:20261024T114202Z
+DTEND:20261024T124202Z
+DTSTAMP:20261024T114202Z
+SUMMARY:🛠️ otevření bytu/auta - Pelhřimov
+LOCATION:Nádražní\, Pelhřimov
+GEO:49.423962;15.227888
+URL:geo:49.423962,15.227888
+DESCRIPTION:📍 Nádražní\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)
 END:VEVENT
 END:VCALENDAR
