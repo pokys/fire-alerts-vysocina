@@ -524,4 +524,16 @@ URL:geo:49.353532,15.057409
 DESCRIPTION:📍 Těmice\, Pelhřimov\n💬 Spolupráce se ZZS.\n\n🚒 CAS (HS Kamenic
  e nad Lipou)
 END:VEVENT
+BEGIN:VEVENT
+UID:421483061
+DTSTART:20261024T164553Z
+DTEND:20261024T174553Z
+DTSTAMP:20261024T164553Z
+SUMMARY:🛠️ otevření bytu/auta - Žďár nad Sázavou
+LOCATION:Haškova\, Žďár nad Sázavou
+GEO:49.555560;15.941696
+URL:geo:49.555560,15.941696
+DESCRIPTION:📍 Haškova\, Žďár nad Sázavou 6\, Žďár nad Sázavou\n💬 Otevření b
+ ytu.\n\n🚒 CAS (CHS Žďár nad Sázavou)
+END:VEVENT
 END:VCALENDAR
