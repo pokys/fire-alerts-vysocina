@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:421437061
-DTSTART:20261023T122407Z
-DTEND:20261023T132407Z
-DTSTAMP:20261023T122407Z
-SUMMARY:🚑 transport pacienta - Žďár nad Sázavou
-LOCATION:Komenského\, Žďár nad Sázavou
-GEO:49.565774;15.935181
-URL:geo:49.565774,15.935181
-DESCRIPTION:📍 Komenského\, Žďár nad Sázavou 3\, Žďár nad Sázavou\n💬 Transpo
- rt pacienta na žádost ZZS.\n\n🚒 CAS (CHS Žďár nad Sázavou)
-END:VEVENT
-BEGIN:VEVENT
 UID:421441061
 DTSTART:20261023T142308Z
 DTEND:20261023T152308Z
@@ -524,8 +512,8 @@ SUMMARY:🛠️ ostatní - Studenec
 LOCATION:Studenec
 GEO:49.219821;16.053501
 URL:geo:49.219821,16.053501
-DESCRIPTION:📍 Studenec\, Třebíč\n\n🚒 CAS (HS Náměšť nad Oslavou)\n🚒 CAS (CH
- S Třebíč)
+DESCRIPTION:📍 Studenec\, Třebíč\n💬 Vyproštění OA padlého z mostku.\n\n🚒 CAS
+  (HS Náměšť nad Oslavou)\n🚒 CAS (CHS Třebíč)
 END:VEVENT
 BEGIN:VEVENT
 UID:421504061
@@ -546,9 +534,33 @@ DTEND:20261025T131059Z
 DTSTAMP:20261025T121059Z
 SUMMARY:🚗 dopravní nehoda - Velké Meziříčí
 LOCATION:Velké Meziříčí
-GEO:49.352246;16.034332
-URL:geo:49.352246,16.034332
-DESCRIPTION:📍 Velké Meziříčí\, Žďár nad Sázavou\n\n🚒 CAS (HS Velké Meziříčí
- )\n🚒 RZA (HS Velké Meziříčí)
+GEO:49.353055;16.033413
+URL:geo:49.353055,16.033413
+DESCRIPTION:📍 Velké Meziříčí\, Žďár nad Sázavou\n💬 DN OA náraz do NA. Jedna
+  lehce zraněná osoba. Zajištěním místa nehody. Předlékařské ošetření.\n\n🚒
+  CAS (HS Velké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)
+END:VEVENT
+BEGIN:VEVENT
+UID:421507061
+DTSTART:20261025T121441Z
+DTEND:20261025T131441Z
+DTSTAMP:20261025T121441Z
+SUMMARY:🛠️ otevření bytu/auta - Havlíčkův Brod
+LOCATION:Žižkov II\, Havlíčkův Brod
+GEO:49.607702;15.592673
+URL:geo:49.607702,15.592673
+DESCRIPTION:📍 Žižkov II\, Havlíčkův Brod\n💬 Otevření bytu.\n\n🚒 CAS (CHS Ha
+ vlíčkův Brod)
+END:VEVENT
+BEGIN:VEVENT
+UID:421508061
+DTSTART:20261025T122820Z
+DTEND:20261025T132820Z
+DTSTAMP:20261025T122820Z
+SUMMARY:🚗 dopravní nehoda - Pelhřimov
+LOCATION:Pelhřimov
+GEO:49.439902;15.204497
+URL:geo:49.439902,15.204497
+DESCRIPTION:🚒 CAS (CHS Pelhřimov)
 END:VEVENT
 END:VCALENDAR
