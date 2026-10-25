@@ -594,10 +594,11 @@ UID:421527061
 DTSTART:20261025T210314Z
 DTEND:20261025T220314Z
 DTSTAMP:20261025T210314Z
-SUMMARY:🛠️ ostatní - Havlíčkův Brod
+SUMMARY:⚠️ planý poplach - Havlíčkův Brod
 LOCATION:B. Kobzinové\, Havlíčkův Brod
 GEO:49.611200;15.578496
 URL:geo:49.611200,15.578496
-DESCRIPTION:📍 B. Kobzinové\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)
+DESCRIPTION:📍 B. Kobzinové\, Havlíčkův Brod\n💬 Planý poplach.\n\n🚒 CAS (CHS
+  Havlíčkův Brod)
 END:VEVENT
 END:VCALENDAR
