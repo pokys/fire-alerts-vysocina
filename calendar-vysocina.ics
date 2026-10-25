@@ -563,8 +563,9 @@ SUMMARY:🚗 dopravní nehoda - Hodov
 LOCATION:Hodov
 GEO:49.288590;15.980015
 URL:geo:49.288590,15.980015
-DESCRIPTION:📍 Hodov\, Třebíč\n\n🚒 CAS (CHS Třebíč)\n🚒 RZA (HS Velké Meziříč
- í)
+DESCRIPTION:📍 Hodov\, Třebíč\n💬 DN 1 OA se zraněním dvou osob. Jednotka pro
+ vedla zajištění místa nehody.\n\n🚒 CAS (CHS Třebíč)\n🚒 RZA (HS Velké Meziř
+ íčí)
 END:VEVENT
 BEGIN:VEVENT
 UID:421499061
@@ -589,5 +590,17 @@ GEO:49.757191;15.654913
 URL:geo:49.757191,15.654913
 DESCRIPTION:📍 Nová Ves u Chotěboře\, Havlíčkův Brod\n💬 Otevření OA.\n\n🚒 CA
  S (HS Chotěboř)
+END:VEVENT
+BEGIN:VEVENT
+UID:421501061
+DTSTART:20261025T074706Z
+DTEND:20261025T084706Z
+DTSTAMP:20261025T074706Z
+SUMMARY:🛠️ ostatní - Hořice
+LOCATION:Hořice
+GEO:49.599260;15.185397
+URL:geo:49.599260,15.185397
+DESCRIPTION:📍 Hořice\, Pelhřimov\n\n🚒 CAS (Hořice)\n🚒 vozidlo účelové - SxS
+  (Hořice)
 END:VEVENT
 END:VCALENDAR
