@@ -5,32 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:421444061
-DTSTART:20261023T150737Z
-DTEND:20261023T160737Z
-DTSTAMP:20261023T150737Z
-SUMMARY:🚗 dopravní nehoda - Brzkov
-LOCATION:Brzkov
-GEO:49.517560;15.726876
-URL:geo:49.517560,15.726876
-DESCRIPTION:📍 Brzkov\, Jihlava\n💬 DN 2 OA\, 1 zraněná osoba. Zabezpečení ha
- varovaných vozidel proti PO a proti úniku provozních kapalin.\n\n🚒 CAS (HS
-  Polná)
-END:VEVENT
-BEGIN:VEVENT
-UID:421447061
-DTSTART:20261023T151429Z
-DTEND:20261023T161429Z
-DTSTAMP:20261023T151429Z
-SUMMARY:🛠️ ostatní - Bystřice nad Pernštejnem
-LOCATION:Lužánky\, Bystřice nad Pernštejnem
-GEO:49.520931;16.251404
-URL:geo:49.520931,16.251404
-DESCRIPTION:📍 Lužánky\, Bystřice nad Pernštejnem\, Žďár nad Sázavou\n💬 Zaji
- štění uzavření vody rozbitého pítka u dětského hřiště.\n\n🚒 CAS (HS Bystři
- ce nad Pernštejnem)
-END:VEVENT
-BEGIN:VEVENT
 UID:421449061
 DTSTART:20261023T153359Z
 DTEND:20261023T163359Z
