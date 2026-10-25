@@ -5,20 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:421416061
-DTSTART:20261023T075732Z
-DTEND:20261023T085732Z
-DTSTAMP:20261023T075732Z
-SUMMARY:🔥 les - Skřinářov
-LOCATION:Skřinářov
-GEO:49.349774;16.153952
-URL:geo:49.349774,16.153952
-DESCRIPTION:📍 Skřinářov\, Žďár nad Sázavou\n💬 Požár hrabanky 15x15m. Jednot
- ka provedla lokalizaci a likvidaci požáru. Beze škody.\n\n🚒 CAS (HS Velká 
- Bíteš)\n🚒 DA (Osová Bítýška)\n🚒 automobilová stříkačka (Skřinářov)\n🚒 CAS 
- (Velká Bíteš)
-END:VEVENT
-BEGIN:VEVENT
 UID:421419061
 DTSTART:20261023T081709Z
 DTEND:20261023T091709Z
