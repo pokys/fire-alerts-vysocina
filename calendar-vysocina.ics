@@ -579,4 +579,16 @@ DESCRIPTION:📍 Mstislavice\, Bojiště\, Havlíčkův Brod\n💬 Požár RD.\n
  á nad Sázavou)\n🚒 DA (Libice nad Doubravou)\n🚒 AŽ (CHS Havlíčkův Brod)\n🚒 
  automobilová plošina do 30 m (CHS Havlíčkův Brod)
 END:VEVENT
+BEGIN:VEVENT
+UID:421496061
+DTSTART:20261025T043555Z
+DTEND:20261025T053555Z
+DTSTAMP:20261025T043555Z
+SUMMARY:🚑 otevření/asistence - Slavíkov
+LOCATION:Slavíkov
+GEO:49.753788;15.817688
+URL:geo:49.753788,15.817688
+DESCRIPTION:📍 Dlouhý\, Slavíkov\, Havlíčkův Brod\n\n🚒 CAS (HS Chotěboř)\n🚒 
+ CAS (Ždírec nad Doubravou)
+END:VEVENT
 END:VCALENDAR
