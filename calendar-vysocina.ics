@@ -562,8 +562,21 @@ SUMMARY:🔥 budova - Malá Losenice
 LOCATION:Malá Losenice
 GEO:49.593163;15.802810
 URL:geo:49.593163,15.802810
-DESCRIPTION:📍 Malá Losenice\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad Sázav
- ou)\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (Malá Losenice)\n🚒 CAS (Přibyslav
- )\n🚒 CAS (Velká Losenice)
+DESCRIPTION:📍 Malá Losenice\, Žďár nad Sázavou\n\n🚒 DA (CHS Žďár nad Sázavo
+ u)\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (Mal
+ á Losenice)\n🚒 CAS (Přibyslav)\n🚒 CAS (Přibyslav)\n🚒 CAS (Velká Losenice)\
+ n🚒 vyšetřovací automobil (ÚO Žďár nad Sázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:421530061
+DTSTART:20261026T055216Z
+DTEND:20261026T065216Z
+DTSTAMP:20261026T055216Z
+SUMMARY:🛠️ čerpání vody - Žďár nad Sázavou
+LOCATION:Žižkova\, Žďár nad Sázavou
+GEO:49.564989;15.936296
+URL:geo:49.564989,15.936296
+DESCRIPTION:📍 Žižkova\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n\n🚒 CAS (Žďá
+ r nad Sázavou-Zámek)
 END:VEVENT
 END:VCALENDAR
