@@ -551,8 +551,8 @@ SUMMARY:🛠️ čerpání vody - Žďár nad Sázavou
 LOCATION:Žižkova\, Žďár nad Sázavou
 GEO:49.564989;15.936296
 URL:geo:49.564989,15.936296
-DESCRIPTION:📍 Žižkova\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n💬 Čerpánhí v
- ody.\n\n🚒 CAS (Žďár nad Sázavou-Zámek)
+DESCRIPTION:📍 Žižkova\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n💬 Čerpání vo
+ dy.\n\n🚒 CAS (Žďár nad Sázavou-Zámek)
 END:VEVENT
 BEGIN:VEVENT
 UID:421533061
@@ -575,18 +575,20 @@ SUMMARY:🛠️ strom - Stará Říše
 LOCATION:Stará Říše
 GEO:49.180190;15.594715
 URL:geo:49.180190,15.594715
-DESCRIPTION:📍 Stará Říše\, Jihlava\n\n🚒 CAS (HS Telč)\n🚒 AŽ (HS Telč)
+DESCRIPTION:📍 Stará Říše\, Jihlava\n\n🚒 CAS (HS Telč)\n🚒 AŽ (HS Telč)\n🚒 DA
+  (Stará Říše)
 END:VEVENT
 BEGIN:VEVENT
 UID:421536061
 DTSTART:20261026T073301Z
 DTEND:20261026T083301Z
 DTSTAMP:20261026T073301Z
-SUMMARY:🔥 Velká Bíteš
+SUMMARY:⚠️ planý poplach - Velká Bíteš
 LOCATION:Průmyslová\, Velká Bíteš
 GEO:49.272193;16.224159
 URL:geo:49.272193,16.224159
-DESCRIPTION:📍 Průmyslová\, Velká Bíteš\, Žďár nad Sázavou\n\n🚒 CAS (HS Velk
- á Bíteš)
+DESCRIPTION:📍 Průmyslová\, Velká Bíteš\, Žďár nad Sázavou\n💬 Požár ohlášený
+  systémem elektrické požární signalizace. Průzkumem bylo zjištěno\, že se 
+ jedná o planý poplach.\n\n🚒 CAS (HS Velká Bíteš)
 END:VEVENT
 END:VCALENDAR
