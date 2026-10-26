@@ -5,31 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:421464061
-DTSTART:20261024T084546Z
-DTEND:20261024T094546Z
-DTSTAMP:20261024T084546Z
-SUMMARY:🚗 bez zranění - Krásná Hora
-LOCATION:Krásná Hora
-GEO:49.590794;15.430711
-URL:geo:49.590794,15.430711
-DESCRIPTION:📍 Krásná Hora\, Havlíčkův Brod\n💬 DN náraz dodávky do stromu. B
- ez zranění. Uvolnění komunikace od havarovaného vozidla. Odstranění stromu
- .\n\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 pila řetězová (CHS Havlíčkův Brod)
-END:VEVENT
-BEGIN:VEVENT
-UID:421465061
-DTSTART:20261024T085514Z
-DTEND:20261024T095514Z
-DTSTAMP:20261024T085514Z
-SUMMARY:🔥 venkovní požár - Záborná
-LOCATION:Záborná
-GEO:49.486726;15.753613
-URL:geo:49.486726,15.753613
-DESCRIPTION:📍 Záborná\, Jihlava\n💬 Požár tlakové lahve. Uhašeno před příjez
- dem jednotky. Provedeno zajištění místa.\n\n🚒 CAS (HS Polná)
-END:VEVENT
-BEGIN:VEVENT
 UID:421466061
 DTSTART:20261024T092114Z
 DTEND:20261024T102114Z
@@ -616,5 +591,16 @@ URL:geo:49.217021,16.214356
 DESCRIPTION:📍 Otradice\, Náměšť nad Oslavou\, Třebíč\n💬 Taktické cvičení.\n
  \n🚒 CAS (HS Náměšť nad Oslavou)\n🚒 CAS (HS Velká Bíteš)\n🚒 CAS (Kralice na
  d Oslavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:421547061
+DTSTART:20261026T085714Z
+DTEND:20261026T095714Z
+DTSTAMP:20261026T085714Z
+SUMMARY:🚑 transport pacienta - Jihlava
+LOCATION:Riegrova\, Jihlava
+GEO:49.411852;15.593733
+URL:geo:49.411852,15.593733
+DESCRIPTION:📍 Riegrova\, Jihlava\n\n🚒 CAS (CHS Jihlava)
 END:VEVENT
 END:VCALENDAR
