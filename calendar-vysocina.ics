@@ -553,4 +553,17 @@ URL:geo:49.611200,15.578496
 DESCRIPTION:📍 B. Kobzinové\, Havlíčkův Brod\n💬 Planý poplach.\n\n🚒 CAS (CHS
   Havlíčkův Brod)
 END:VEVENT
+BEGIN:VEVENT
+UID:421528061
+DTSTART:20261026T053914Z
+DTEND:20261026T063914Z
+DTSTAMP:20261026T053914Z
+SUMMARY:🔥 budova - Malá Losenice
+LOCATION:Malá Losenice
+GEO:49.593163;15.802810
+URL:geo:49.593163,15.802810
+DESCRIPTION:📍 Malá Losenice\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad Sázav
+ ou)\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (Malá Losenice)\n🚒 CAS (Přibyslav
+ )\n🚒 CAS (Velká Losenice)
+END:VEVENT
 END:VCALENDAR
