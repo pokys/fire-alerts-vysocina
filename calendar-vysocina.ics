@@ -579,4 +579,16 @@ URL:geo:49.439653,15.112283
 DESCRIPTION:📍 Čížkov\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 CAS (CHS Pelhři
  mov)
 END:VEVENT
+BEGIN:VEVENT
+UID:421553061
+DTSTART:20261026T110958Z
+DTEND:20261026T120958Z
+DTSTAMP:20261026T110958Z
+SUMMARY:🚑 spolupráce ZZS - Krucemburk
+LOCATION:Na Liškově\, Krucemburk
+GEO:49.688817;15.844036
+URL:geo:49.688817,15.844036
+DESCRIPTION:📍 Na Liškově\, Krucemburk\, Havlíčkův Brod\n\n🚒 CAS (HS Chotěbo
+ ř)\n🚒 CAS (Ždírec nad Doubravou)
+END:VEVENT
 END:VCALENDAR
