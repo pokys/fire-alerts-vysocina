@@ -306,9 +306,9 @@ SUMMARY:🚗 dopravní nehoda - Hodov
 LOCATION:Hodov
 GEO:49.288590;15.980015
 URL:geo:49.288590,15.980015
-DESCRIPTION:📍 Hodov\, Třebíč\n💬 DN 1 OA se zraněním dvou osob. Jednotka pro
- vedla zajištění místa nehody.\n\n🚒 CAS (CHS Třebíč)\n🚒 RZA (HS Velké Meziř
- íčí)
+DESCRIPTION:📍 Hodov\, Třebíč\n💬 DN OA se zraněním dvou osob. Jednotka prove
+ dla zajištění místa nehody.\n\n🚒 CAS (CHS Třebíč)\n🚒 RZA (HS Velké Meziříč
+ í)
 END:VEVENT
 BEGIN:VEVENT
 UID:421499061
@@ -562,10 +562,10 @@ SUMMARY:🔥 budova - Malá Losenice
 LOCATION:Malá Losenice
 GEO:49.593163;15.802810
 URL:geo:49.593163,15.802810
-DESCRIPTION:📍 Malá Losenice\, Žďár nad Sázavou\n\n🚒 DA (CHS Žďár nad Sázavo
- u)\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (Mal
- á Losenice)\n🚒 CAS (Přibyslav)\n🚒 CAS (Přibyslav)\n🚒 CAS (Velká Losenice)\
- n🚒 vyšetřovací automobil (ÚO Žďár nad Sázavou)
+DESCRIPTION:📍 Malá Losenice\, Žďár nad Sázavou\n💬 Požár chaty.\n\n🚒 DA (CHS
+  Žďár nad Sázavou)\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (CHS Žďár nad Sáza
+ vou)\n🚒 CAS (Malá Losenice)\n🚒 CAS (Přibyslav)\n🚒 CAS (Přibyslav)\n🚒 CAS (
+ Velká Losenice)\n🚒 vyšetřovací automobil (ÚO Žďár nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:421530061
@@ -576,7 +576,7 @@ SUMMARY:🛠️ čerpání vody - Žďár nad Sázavou
 LOCATION:Žižkova\, Žďár nad Sázavou
 GEO:49.564989;15.936296
 URL:geo:49.564989,15.936296
-DESCRIPTION:📍 Žižkova\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n\n🚒 CAS (Žďá
- r nad Sázavou-Zámek)
+DESCRIPTION:📍 Žižkova\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n💬 Čerpánhí v
+ ody.\n\n🚒 CAS (Žďár nad Sázavou-Zámek)
 END:VEVENT
 END:VCALENDAR
