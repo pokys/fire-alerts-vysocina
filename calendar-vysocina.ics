@@ -526,7 +526,8 @@ LOCATION:Jamská\, Žďár nad Sázavou
 GEO:49.556385;15.958024
 URL:geo:49.556385,15.958024
 DESCRIPTION:📍 Jamská\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n💬 DN 2 OA s 1
-  zraněnou osobou. Zajištění místa nehody.\n\n🚒 CAS (CHS Žďár nad Sázavou)
+  zraněnou osobou. Zajištění místa nehody. Úklid vozovky.\n\n🚒 CAS (CHS Žďá
+ r nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:421617061
@@ -537,8 +538,20 @@ SUMMARY:🔥 kůlna/přístřešek - Bobrová
 LOCATION:Bobrová
 GEO:49.476834;16.112056
 URL:geo:49.476834,16.112056
-DESCRIPTION:📍 Bobrová\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒
-  CAS (CHS Žďár nad Sázavou)\n🚒 DA (Bobrová)\n🚒 CAS (Bobrová)\n🚒 vyšetřovac
- í automobil (ÚO Žďár nad Sázavou)
+DESCRIPTION:📍 Bobrová\, Žďár nad Sázavou\n💬 Požár plastové popelnice v díln
+ ě.\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 DA (Bo
+ brová)\n🚒 CAS (Bobrová)\n🚒 vyšetřovací automobil (ÚO Žďár nad Sázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:421618061
+DTSTART:20261027T183033Z
+DTEND:20261027T193033Z
+DTSTAMP:20261027T183033Z
+SUMMARY:🛠️ ostatní - Náměšť nad Oslavou
+LOCATION:Nad Příhořím\, Náměšť nad Oslavou
+GEO:49.211721;16.149115
+URL:geo:49.211721,16.149115
+DESCRIPTION:📍 Nad Příhořím\, Náměšť nad Oslavou\, Třebíč\n\n🚒 CAS (HS Náměš
+ ť nad Oslavou)
 END:VEVENT
 END:VCALENDAR
