@@ -5,31 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:421511061
-DTSTART:20261025T124558Z
-DTEND:20261025T134558Z
-DTSTAMP:20261025T124558Z
-SUMMARY:☣️ olej/PHM - Velké Meziříčí
-LOCATION:Hornoměstská\, Velké Meziříčí
-GEO:49.355604;16.009942
-URL:geo:49.355604,16.009942
-DESCRIPTION:📍 Hornoměstská\, Velké Meziříčí\, Žďár nad Sázavou\n💬 Únik PHM 
- na pozemní komunikaci.\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (HS Velké Meziř
- íčí)
-END:VEVENT
-BEGIN:VEVENT
-UID:421512061
-DTSTART:20261025T125109Z
-DTEND:20261025T135109Z
-DTSTAMP:20261025T125109Z
-SUMMARY:🚑 otevření/asistence - Račice
-LOCATION:Račice
-GEO:49.496792;16.140445
-URL:geo:49.496792,16.140445
-DESCRIPTION:📍 Račice\, Žďár nad Sázavou\n💬 Otevření rodinného domu.\n\n🚒 CA
- S (HS Bystřice nad Pernštejnem)
-END:VEVENT
-BEGIN:VEVENT
 UID:421513061
 DTSTART:20261025T151613Z
 DTEND:20261025T161613Z
@@ -504,5 +479,17 @@ GEO:49.603284;15.568802
 URL:geo:49.603284,15.568802
 DESCRIPTION:📍 Humpolecká\, Havlíčkův Brod\n💬 DN 2 OA\, se zraněním jedné os
  oby\, únik PHM.\n\n🚒 CAS (CHS Havlíčkův Brod)
+END:VEVENT
+BEGIN:VEVENT
+UID:421598061
+DTSTART:20261027T124728Z
+DTEND:20261027T134728Z
+DTSTAMP:20261027T124728Z
+SUMMARY:⚠️ planý poplach - Moravské Budějovice
+LOCATION:Dopravní\, Moravské Budějovice
+GEO:49.057313;15.799816
+URL:geo:49.057313,15.799816
+DESCRIPTION:📍 Dopravní\, Moravské Budějovice\, Třebíč\n💬 Planý poplach.\n\n
+ 🚒 CAS (HS Moravské Budějovice)\n🚒 CAS (HS Moravské Budějovice)
 END:VEVENT
 END:VCALENDAR
