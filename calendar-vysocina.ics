@@ -480,19 +480,6 @@ URL:geo:49.495592,15.232688
 DESCRIPTION:📍 Svépravice\, Pelhřimov\n💬 Dovoz vody.\n\n🚒 CAS (Svépravice)
 END:VEVENT
 BEGIN:VEVENT
-UID:421611061
-DTSTART:20261027T161835Z
-DTEND:20261027T171835Z
-DTSTAMP:20261027T161835Z
-SUMMARY:🚗 Velké Meziříčí
-LOCATION:Velké Meziříčí
-GEO:49.357062;16.018788
-URL:geo:49.357062,16.018788
-DESCRIPTION:📍 Velké Meziříčí\, Žďár nad Sázavou\n💬 DN vlak a chodec. Zajišt
- ění místa nehody.\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)\
- n🚒 autobus (CHS Žďár nad Sázavou)
-END:VEVENT
-BEGIN:VEVENT
 UID:421613061
 DTSTART:20261027T163431Z
 DTEND:20261027T173431Z
