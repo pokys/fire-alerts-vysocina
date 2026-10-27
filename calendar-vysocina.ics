@@ -87,7 +87,7 @@ LOCATION:Jihlava
 GEO:49.398908;15.580643
 URL:geo:49.398908,15.580643
 DESCRIPTION:💬 DN 2 OA bez zranění. Jednotka provedla zajištění místa nehody
- .
+ .\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:421505061
@@ -505,5 +505,17 @@ DESCRIPTION:📍 Petrůvky\, Třebíč\n💬 Požár zahradního domku. Jednotky
  y lokalizaci a likvidaci požáru.\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (CHS Třebíč)
  \n🚒 CAS (Jaroměřice nad Rokytnou)\n🚒 CAS (Jaroměřice nad Rokytnou)\n🚒 DA (
  Lipník)\n🚒 CAS (Lipník)\n🚒 vyšetřovací automobil (ÚO Třebíč)
+END:VEVENT
+BEGIN:VEVENT
+UID:421576061
+DTSTART:20261027T053929Z
+DTEND:20261027T063929Z
+DTSTAMP:20261027T053929Z
+SUMMARY:🚗 dopravní nehoda - Žďár nad Sázavou
+LOCATION:nám. Republiky\, Žďár nad Sázavou
+GEO:49.563759;15.939399
+URL:geo:49.563759,15.939399
+DESCRIPTION:📍 nám. Republiky\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n\n🚒 C
+ AS (CHS Žďár nad Sázavou)
 END:VEVENT
 END:VCALENDAR
