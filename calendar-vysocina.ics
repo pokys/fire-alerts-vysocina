@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:421498061
-DTSTART:20261025T061110Z
-DTEND:20261025T071110Z
-DTSTAMP:20261025T061110Z
-SUMMARY:🚗 dopravní nehoda - Hodov
-LOCATION:Hodov
-GEO:49.288590;15.980015
-URL:geo:49.288590,15.980015
-DESCRIPTION:📍 Hodov\, Třebíč\n💬 DN OA se zraněním dvou osob. Jednotka prove
- dla zajištění místa nehody.\n\n🚒 CAS (CHS Třebíč)\n🚒 RZA (HS Velké Meziříč
- í)
-END:VEVENT
-BEGIN:VEVENT
 UID:421499061
 DTSTART:20261025T064740Z
 DTEND:20261025T074740Z
@@ -308,8 +295,8 @@ SUMMARY:🛠️ strom - Stará Říše
 LOCATION:Stará Říše
 GEO:49.180190;15.594715
 URL:geo:49.180190,15.594715
-DESCRIPTION:📍 Stará Říše\, Jihlava\n💬 Odstranění strom.\n\n🚒 CAS (HS Telč)\
- n🚒 AŽ (HS Telč)\n🚒 pila řetězová (HS Telč) ×2\n🚒 DA (Stará Říše)
+DESCRIPTION:📍 Stará Říše\, Jihlava\n💬 Odstranění stromu.\n\n🚒 CAS (HS Telč)
+ \n🚒 AŽ (HS Telč)\n🚒 pila řetězová (HS Telč) ×2\n🚒 DA (Stará Říše)
 END:VEVENT
 BEGIN:VEVENT
 UID:421536061
