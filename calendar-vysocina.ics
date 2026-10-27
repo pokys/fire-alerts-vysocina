@@ -5,30 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:421523061
-DTSTART:20261025T190818Z
-DTEND:20261025T200818Z
-DTSTAMP:20261025T190818Z
-SUMMARY:🛠️ strom - Pelhřimov
-LOCATION:Pelhřimov
-GEO:49.346193;15.182990
-URL:geo:49.346193,15.182990
-DESCRIPTION:💬 Odstranění stromu.\n\n🚒 CAS (CHS Pelhřimov)
-END:VEVENT
-BEGIN:VEVENT
-UID:421524061
-DTSTART:20261025T191532Z
-DTEND:20261025T201532Z
-DTSTAMP:20261025T191532Z
-SUMMARY:🚗 dopravní nehoda - Humpolec
-LOCATION:Humpolec
-GEO:49.525163;15.360633
-URL:geo:49.525163,15.360633
-DESCRIPTION:📍 Humpolec\, Pelhřimov\n💬 Dopravní nehoda jednoho OA\, proveden
- o protipožární opatření\, zabezpečení místa nehody. Na místě 1 zraněná oso
- ba\n\n🚒 CAS (HS Humpolec)\n🚒 RZA (HS Humpolec)
-END:VEVENT
-BEGIN:VEVENT
 UID:421527061
 DTSTART:20261025T210314Z
 DTEND:20261025T220314Z
@@ -551,7 +527,7 @@ SUMMARY:🛠️ ostatní - Náměšť nad Oslavou
 LOCATION:Nad Příhořím\, Náměšť nad Oslavou
 GEO:49.211721;16.149115
 URL:geo:49.211721,16.149115
-DESCRIPTION:📍 Nad Příhořím\, Náměšť nad Oslavou\, Třebíč\n\n🚒 CAS (HS Náměš
- ť nad Oslavou)
+DESCRIPTION:📍 Nad Příhořím\, Náměšť nad Oslavou\, Třebíč\n💬 Pomoc imobilní 
+ osobě.\n\n🚒 CAS (HS Náměšť nad Oslavou)
 END:VEVENT
 END:VCALENDAR
