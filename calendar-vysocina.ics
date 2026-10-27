@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:421515061
-DTSTART:20261025T153816Z
-DTEND:20261025T163816Z
-DTSTAMP:20261025T153816Z
-SUMMARY:🛠️ ostatní - Hrotovice
-LOCATION:Akad. Práta\, Hrotovice
-GEO:49.110676;16.058026
-URL:geo:49.110676,16.058026
-DESCRIPTION:📍 Akad. Práta\, Hrotovice\, Třebíč\n💬 Pročištění kanalizace.\n\
- n🚒 CAS (HS Hrotovice)
-END:VEVENT
-BEGIN:VEVENT
 UID:421516061
 DTSTART:20261025T155340Z
 DTEND:20261025T165340Z
@@ -370,8 +358,8 @@ SUMMARY:🛠️ ostatní - Hořice
 LOCATION:Hořice
 GEO:49.601784;15.188962
 URL:geo:49.601784,15.188962
-DESCRIPTION:📍 Hořice\, Pelhřimov\n\n🚒 CAS (Hořice)\n🚒 vozidlo účelové - SxS
-  (Hořice)
+DESCRIPTION:📍 Hořice\, Pelhřimov\n💬 Tlakování kanalizace.\n\n🚒 CAS (Hořice)
+ \n🚒 vozidlo účelové - SxS (Hořice)
 END:VEVENT
 BEGIN:VEVENT
 UID:421579061
@@ -443,6 +431,7 @@ LOCATION:Třeštice
 GEO:49.245500;15.453212
 URL:geo:49.245500,15.453212
 DESCRIPTION:📍 Třeštice\, Jihlava\n💬 Pročištění rybníka.\n\n🚒 CAS (Třeštice)
+ \n🚒 stříkačka přenosná (Třeštice)
 END:VEVENT
 BEGIN:VEVENT
 UID:421594061
@@ -525,7 +514,8 @@ SUMMARY:🚑 otevření/asistence - Třebíč
 LOCATION:Demlova\, Třebíč
 GEO:49.206615;15.883469
 URL:geo:49.206615,15.883469
-DESCRIPTION:📍 Demlova\, Horka-Domky\, Třebíč\n\n🚒 CAS (CHS Třebíč)
+DESCRIPTION:📍 Demlova\, Horka-Domky\, Třebíč\n💬 Otevření bytu.\n\n🚒 CAS (CH
+ S Třebíč)
 END:VEVENT
 BEGIN:VEVENT
 UID:421607061
@@ -543,10 +533,22 @@ UID:421608061
 DTSTART:20261027T152059Z
 DTEND:20261027T162059Z
 DTSTAMP:20261027T152059Z
-SUMMARY:🚗 úklid místa - Ruda
+SUMMARY:☣️ olej/PHM - Ruda
 LOCATION:Ruda
 GEO:49.310204;16.115735
 URL:geo:49.310204,16.115735
-DESCRIPTION:📍 Ruda\, Žďár nad Sázavou\n\n🚒 CAS (HS Velká Bíteš)
+DESCRIPTION:📍 Ruda\, Žďár nad Sázavou\n💬 Likvidace úniku cca. 1 l oleje z O
+ A pomocí sorbentu.\n\n🚒 CAS (HS Velká Bíteš)
+END:VEVENT
+BEGIN:VEVENT
+UID:421610061
+DTSTART:20261027T154150Z
+DTEND:20261027T164150Z
+DTSTAMP:20261027T154150Z
+SUMMARY:🛠️ ostatní - Svépravice
+LOCATION:Svépravice
+GEO:49.495592;15.232688
+URL:geo:49.495592,15.232688
+DESCRIPTION:📍 Svépravice\, Pelhřimov\n\n🚒 CAS (Svépravice)
 END:VEVENT
 END:VCALENDAR
