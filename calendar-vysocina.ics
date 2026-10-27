@@ -528,4 +528,16 @@ URL:geo:49.556385,15.958024
 DESCRIPTION:📍 Jamská\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n💬 DN 2 OA s 1
   zraněnou osobou. Zajištění místa nehody.\n\n🚒 CAS (CHS Žďár nad Sázavou)
 END:VEVENT
+BEGIN:VEVENT
+UID:421617061
+DTSTART:20261027T180607Z
+DTEND:20261027T190607Z
+DTSTAMP:20261027T180607Z
+SUMMARY:🔥 kůlna/přístřešek - Bobrová
+LOCATION:Bobrová
+GEO:49.476834;16.112056
+URL:geo:49.476834,16.112056
+DESCRIPTION:📍 Bobrová\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒
+  CAS (CHS Žďár nad Sázavou)\n🚒 DA (Bobrová)\n🚒 CAS (Bobrová)
+END:VEVENT
 END:VCALENDAR
