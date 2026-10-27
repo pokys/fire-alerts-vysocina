@@ -492,4 +492,15 @@ URL:geo:49.057313,15.799816
 DESCRIPTION:📍 Dopravní\, Moravské Budějovice\, Třebíč\n💬 Planý poplach.\n\n
  🚒 CAS (HS Moravské Budějovice)\n🚒 CAS (HS Moravské Budějovice)
 END:VEVENT
+BEGIN:VEVENT
+UID:421599061
+DTSTART:20261027T131436Z
+DTEND:20261027T141436Z
+DTSTAMP:20261027T131436Z
+SUMMARY:🚗 dopravní nehoda - Sloupno
+LOCATION:Sloupno
+GEO:49.736166;15.753420
+URL:geo:49.736166,15.753420
+DESCRIPTION:📍 Sloupno\, Havlíčkův Brod\n\n🚒 CAS (HS Chotěboř)
+END:VEVENT
 END:VCALENDAR
