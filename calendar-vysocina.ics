@@ -363,4 +363,16 @@ DESCRIPTION:📍 Černov\, Pelhřimov\n💬 taktické cvičení JSDH\n\n🚒 DA 
  kev-Hříběcí)\n🚒 přívěs motorová stříkačka (Černov)\n🚒 přívěs motorová stří
  kačka (Horní Cerekev-Chrástov)\n🚒 přívěs nákladní (Nová Buková)
 END:VEVENT
+BEGIN:VEVENT
+UID:421637061
+DTSTART:20261028T150227Z
+DTEND:20261028T160227Z
+DTSTAMP:20261028T150227Z
+SUMMARY:🛠️ měření koncentrace - Havlíčkův Brod
+LOCATION:Sídliště Pražská\, Havlíčkův Brod
+GEO:49.613361;15.576055
+URL:geo:49.613361,15.576055
+DESCRIPTION:📍 Sídliště Pražská\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Bro
+ d)
+END:VEVENT
 END:VCALENDAR
