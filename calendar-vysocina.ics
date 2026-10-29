@@ -312,7 +312,8 @@ LOCATION:Vlkov
 GEO:49.317596;16.211088
 URL:geo:49.317596,16.211088
 DESCRIPTION:📍 Vlkov\, Žďár nad Sázavou\n\n🚒 CAS (HS Velká Bíteš)\n🚒 DA (Oso
- vá Bítýška)\n🚒 CAS (Velká Bíteš)\n🚒 přívěs motorová stříkačka (Vlkov)
+ vá Bítýška)\n🚒 DA (Velká Bíteš)\n🚒 CAS (Velká Bíteš)\n🚒 přívěs motorová st
+ říkačka (Vlkov)
 END:VEVENT
 BEGIN:VEVENT
 UID:421696061
@@ -325,6 +326,6 @@ GEO:49.593157;15.232718
 URL:geo:49.593157,15.232718
 DESCRIPTION:📍 Vojslavice\, Pelhřimov\n\n🚒 CAS (HS Humpolec)\n🚒 RZA (HS Hump
  olec)\n🚒 CAS (Humpolec)\n🚒 DA (Hořice)\n🚒 CAS (Hořice)\n🚒 přívěs motorová 
- stříkačka (Vojslavice)
+ stříkačka (Vojslavice)\n🚒 AŽ (CHS Pelhřimov)
 END:VEVENT
 END:VCALENDAR
