@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:421594061
-DTSTART:20261027T101249Z
-DTEND:20261027T111249Z
-DTSTAMP:20261027T101249Z
-SUMMARY:🛠️ odstranění překážky - Žďár nad Sázavou
-LOCATION:Žďár nad Sázavou
-GEO:49.558087;15.972443
-URL:geo:49.558087,15.972443
-DESCRIPTION:📍 Mělkovice\, Žďár nad Sázavou\n💬 Odtah nepojízdného vozidla bl
- okujícího vozovku.\n\n🚒 VYA (CHS Žďár nad Sázavou)
-END:VEVENT
-BEGIN:VEVENT
 UID:421597061
 DTSTART:20261027T122309Z
 DTEND:20261027T132309Z
@@ -320,7 +308,8 @@ SUMMARY:🚗 úklid místa - Hodice
 LOCATION:Hodice
 GEO:49.260831;15.472495
 URL:geo:49.260831,15.472495
-DESCRIPTION:📍 Hodice\, Jihlava\n\n🚒 CAS (HS Telč)
+DESCRIPTION:📍 Hodice\, Jihlava\n💬 DN 1 OA\, bez zranění\, provedeno zajiště
+ ní místa nehody.\n\n🚒 CAS (HS Telč)
 END:VEVENT
 BEGIN:VEVENT
 UID:421658061
@@ -354,7 +343,18 @@ SUMMARY:🛠️ ostatní - Krucemburk
 LOCATION:Na Liškově\, Krucemburk
 GEO:49.689150;15.843529
 URL:geo:49.689150,15.843529
-DESCRIPTION:📍 Na Liškově\, Krucemburk\, Havlíčkův Brod\n\n🚒 CAS (Krucemburk
- )
+DESCRIPTION:📍 Na Liškově\, Krucemburk\, Havlíčkův Brod\n💬 Proplach kanaliza
+ ce.\n\n🚒 CAS (Krucemburk)
+END:VEVENT
+BEGIN:VEVENT
+UID:421666061
+DTSTART:20261029T101155Z
+DTEND:20261029T111155Z
+DTSTAMP:20261029T101155Z
+SUMMARY:🚑 záchrana na vodě - Zahrádka
+LOCATION:Zahrádka
+GEO:49.240850;16.106196
+URL:geo:49.240850,16.106196
+DESCRIPTION:📍 Zahrádka\, Třebíč\n\n🚒 CAS (HS Náměšť nad Oslavou)
 END:VEVENT
 END:VCALENDAR
