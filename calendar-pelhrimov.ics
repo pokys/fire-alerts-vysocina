@@ -54,4 +54,15 @@ DESCRIPTION:📍 Černov\, Pelhřimov\n💬 taktické cvičení JSDH\n\n🚒 DA 
  kev-Hříběcí)\n🚒 přívěs motorová stříkačka (Černov)\n🚒 přívěs motorová stří
  kačka (Horní Cerekev-Chrástov)\n🚒 přívěs nákladní (Nová Buková)
 END:VEVENT
+BEGIN:VEVENT
+UID:421662061
+DTSTART:20261029T093350Z
+DTEND:20261029T103350Z
+DTSTAMP:20261029T093350Z
+SUMMARY:🚗 se zraněním - Košetice
+LOCATION:Košetice
+GEO:49.562123;15.121003
+URL:geo:49.562123,15.121003
+DESCRIPTION:📍 Košetice\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (Onšov)
+END:VEVENT
 END:VCALENDAR
