@@ -369,8 +369,8 @@ SUMMARY:🚗 dopravní nehoda - Dvorce
 LOCATION:Dvorce
 GEO:49.382868;15.482755
 URL:geo:49.382868,15.482755
-DESCRIPTION:📍 Dvorce\, Jihlava\n💬 DN 2 OA\, provedeno zajištění místa nehod
- y.\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihlava)
+DESCRIPTION:📍 Dvorce\, Jihlava\n💬 DN 2 OA 1 zraněná osoba\, provedeno zajiš
+ tění místa nehody.\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:421651061
@@ -381,7 +381,7 @@ SUMMARY:🛠️ strom - Světlá nad Sázavou
 LOCATION:Světlá nad Sázavou
 GEO:49.699638;15.357274
 URL:geo:49.699638,15.357274
-DESCRIPTION:📍 Opatovice\, Světlá nad Sázavou\, Havlíčkův Brod\n\n🚒 CAS (HS 
- Světlá nad Sázavou)
+DESCRIPTION:📍 Opatovice\, Světlá nad Sázavou\, Havlíčkův Brod\n💬 Odstranění
+  popadaných větví z komunikace.\n\n🚒 CAS (HS Světlá nad Sázavou)
 END:VEVENT
 END:VCALENDAR
