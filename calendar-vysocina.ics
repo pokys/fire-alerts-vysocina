@@ -351,15 +351,4 @@ DESCRIPTION:📍 Žižkova\, Jaroměřice nad Rokytnou\, Třebíč\n💬 Ohláš
  é Budějovice)\n🚒 CAS (HS Moravské Budějovice)\n🚒 CAS (Jaroměřice nad Rokyt
  nou)\n🚒 CAS (Jaroměřice nad Rokytnou)
 END:VEVENT
-BEGIN:VEVENT
-UID:421676061
-DTSTART:20261029T130718Z
-DTEND:20261029T140718Z
-DTSTAMP:20261029T130718Z
-SUMMARY:🔥 vozidlo - Jihlava
-LOCATION:Jihlava
-GEO:49.388696;15.628551
-URL:geo:49.388696,15.628551
-DESCRIPTION:📍 Kosov\, Jihlava\n\n🚒 CAS (CHS Jihlava)\n🚒 CAS (CHS Jihlava)
-END:VEVENT
 END:VCALENDAR
