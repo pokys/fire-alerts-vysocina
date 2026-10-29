@@ -332,9 +332,9 @@ SUMMARY:🚗 dopravní nehoda - Prosetín
 LOCATION:Prosetín
 GEO:49.523501;16.414634
 URL:geo:49.523501,16.414634
-DESCRIPTION:📍 Prosetín\, Žďár nad Sázavou\n💬 DN OA náraz do stromu\, 1 zran
- ěná osoba. Zajištění místa nehody.\n\n🚒 CAS (HS Bystřice nad Pernštejnem)\
- n🚒 CAS (Olešnice)
+DESCRIPTION:📍 Prosetín\, Žďár nad Sázavou\n💬 DN OA náraz do stromu\, jedna 
+ zraněná osoba. Zajištění místa nehody.\n\n🚒 CAS (HS Bystřice nad Pernštejn
+ em)\n🚒 CAS (Olešnice)
 END:VEVENT
 BEGIN:VEVENT
 UID:421646061
@@ -369,6 +369,19 @@ SUMMARY:🚗 dopravní nehoda - Dvorce
 LOCATION:Dvorce
 GEO:49.382868;15.482755
 URL:geo:49.382868,15.482755
-DESCRIPTION:📍 Dvorce\, Jihlava\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihlava)
+DESCRIPTION:📍 Dvorce\, Jihlava\n💬 DN 2 OA\, provedeno zajištění místa nehod
+ y.\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihlava)
+END:VEVENT
+BEGIN:VEVENT
+UID:421651061
+DTSTART:20261029T055513Z
+DTEND:20261029T065513Z
+DTSTAMP:20261029T055513Z
+SUMMARY:🛠️ strom - Světlá nad Sázavou
+LOCATION:Světlá nad Sázavou
+GEO:49.699638;15.357274
+URL:geo:49.699638,15.357274
+DESCRIPTION:📍 Opatovice\, Světlá nad Sázavou\, Havlíčkův Brod\n\n🚒 CAS (HS 
+ Světlá nad Sázavou)
 END:VEVENT
 END:VCALENDAR
