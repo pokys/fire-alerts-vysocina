@@ -79,4 +79,16 @@ URL:geo:49.375858,14.958472
 DESCRIPTION:📍 Táborská\, Černovice\, Pelhřimov\n💬 Pročištění kanalizace.\n\
  n🚒 CAS (Černovice)\n🚒 CAS (Černovice)
 END:VEVENT
+BEGIN:VEVENT
+UID:421730061
+DTSTART:20261030T192806Z
+DTEND:20261030T202806Z
+DTSTAMP:20261030T192806Z
+SUMMARY:🚑 transport pacienta - Kojčice
+LOCATION:Kojčice
+GEO:49.478096;15.259498
+URL:geo:49.478096,15.259498
+DESCRIPTION:📍 Kojčice\, Pelhřimov\n💬 Transport pacienta na žádost ZZS.\n\n🚒
+  CAS (CHS Pelhřimov)
+END:VEVENT
 END:VCALENDAR
