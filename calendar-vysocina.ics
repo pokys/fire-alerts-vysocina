@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:421633061
-DTSTART:20261028T104236Z
-DTEND:20261028T114236Z
-DTSTAMP:20261028T104236Z
-SUMMARY:🚑 transport pacienta - Velká Bíteš
-LOCATION:Chobůtky\, Velká Bíteš
-GEO:49.294519;16.212073
-URL:geo:49.294519,16.212073
-DESCRIPTION:📍 Chobůtky\, Velká Bíteš\, Žďár nad Sázavou\n💬 Transport pacien
- ta na žádost ZZS.\n\n🚒 CAS (HS Velká Bíteš)
-END:VEVENT
-BEGIN:VEVENT
 UID:421634061
 DTSTART:20261028T105109Z
 DTEND:20261028T115109Z
@@ -350,7 +338,7 @@ SUMMARY:🔥 saze v komíně - Jihlava
 LOCATION:Lidická kolonie\, Jihlava
 GEO:49.386844;15.595829
 URL:geo:49.386844,15.595829
-DESCRIPTION:📍 Lidická kolonie\, Jihlava\n\n🚒 CAS (CHS Jihlava) ×2\n🚒 CAS (J
- ihlava-Bedřichov)
+DESCRIPTION:📍 Lidická kolonie\, Jihlava\n\n🚒 CAS (CHS Jihlava) ×2\n🚒 AŽ (CH
+ S Jihlava)\n🚒 CAS (Jihlava-Bedřichov)
 END:VEVENT
 END:VCALENDAR
