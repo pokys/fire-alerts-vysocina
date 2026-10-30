@@ -336,6 +336,19 @@ SUMMARY:🚗 úklid místa - Pelhřimov
 LOCATION:Pelhřimov
 GEO:49.420632;15.245958
 URL:geo:49.420632,15.245958
-DESCRIPTION:🚒 CAS (CHS Pelhřimov)
+DESCRIPTION:💬 DN 2 OA. Bez zranění\, bez úniku PHM. Zajištění místa nehody.
+ \n\n🚒 CAS (CHS Pelhřimov)
+END:VEVENT
+BEGIN:VEVENT
+UID:421714061
+DTSTART:20261030T114134Z
+DTEND:20261030T124134Z
+DTSTAMP:20261030T114134Z
+SUMMARY:🛠️ otevření bytu/auta - Ledeč nad Sázavou
+LOCATION:Jaroslava Haška\, Ledeč nad Sázavou
+GEO:49.693559;15.276791
+URL:geo:49.693559,15.276791
+DESCRIPTION:📍 Jaroslava Haška\, Ledeč nad Sázavou\, Havlíčkův Brod\n\n🚒 CAS
+  (HS Ledeč nad Sázavou)
 END:VEVENT
 END:VCALENDAR
