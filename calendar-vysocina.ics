@@ -419,8 +419,8 @@ SUMMARY:🚗 bez zranění - Větrný Jeníkov
 LOCATION:Větrný Jeníkov
 GEO:49.483484;15.501201
 URL:geo:49.483484,15.501201
-DESCRIPTION:📍 Větrný Jeníkov\, Jihlava\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS J
- ihlava)
+DESCRIPTION:📍 Větrný Jeníkov\, Jihlava\n💬 DN 1 OA\, bez zranění\, Provedeno
+  zajištění místa nehody.\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:421730061
@@ -433,5 +433,17 @@ GEO:49.478096;15.259498
 URL:geo:49.478096,15.259498
 DESCRIPTION:📍 Kojčice\, Pelhřimov\n💬 Transport pacienta na žádost ZZS.\n\n🚒
   CAS (CHS Pelhřimov)
+END:VEVENT
+BEGIN:VEVENT
+UID:421731061
+DTSTART:20261030T200607Z
+DTEND:20261030T210607Z
+DTSTAMP:20261030T200607Z
+SUMMARY:🚑 otevření/asistence - Žďár nad Sázavou
+LOCATION:Brodská\, Žďár nad Sázavou
+GEO:49.564640;15.928272
+URL:geo:49.564640,15.928272
+DESCRIPTION:📍 Brodská\, Žďár nad Sázavou 3\, Žďár nad Sázavou\n\n🚒 CAS (CHS
+  Žďár nad Sázavou)
 END:VEVENT
 END:VCALENDAR
