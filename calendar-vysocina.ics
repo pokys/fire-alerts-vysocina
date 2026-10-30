@@ -410,4 +410,16 @@ URL:geo:49.831878,15.441473
 DESCRIPTION:📍 Podmoky\, Havlíčkův Brod\n💬 Otevření rodinného domu.\n\n🚒 CAS
   (HS Ledeč nad Sázavou)\n🚒 CAS (Golčův Jeníkov)
 END:VEVENT
+BEGIN:VEVENT
+UID:421727061
+DTSTART:20261030T185625Z
+DTEND:20261030T195625Z
+DTSTAMP:20261030T185625Z
+SUMMARY:🚗 bez zranění - Větrný Jeníkov
+LOCATION:Větrný Jeníkov
+GEO:49.475775;15.478853
+URL:geo:49.475775,15.478853
+DESCRIPTION:📍 Větrný Jeníkov\, Jihlava\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS J
+ ihlava)
+END:VEVENT
 END:VCALENDAR
