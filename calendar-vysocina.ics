@@ -139,8 +139,7 @@ SUMMARY:🚑 Havlíčkův Brod
 LOCATION:Havlíčkův Brod
 GEO:49.610763;15.517516
 URL:geo:49.610763,15.517516
-DESCRIPTION:📍 Klanečná\, Havlíčkův Brod\n💬 Záchrana psa ze studny.\n\n🚒 CAS
-  (CHS Havlíčkův Brod)\n🚒 účelový automobil do 3500 kg (CHS Havlíčkův Brod)
+DESCRIPTION:📍 Klanečná\, Havlíčkův Brod\n💬 Záchrana psa ze studny.
 END:VEVENT
 BEGIN:VEVENT
 UID:421716061
@@ -322,8 +321,7 @@ SUMMARY:🛠️ otevření bytu/auta - Pelhřimov
 LOCATION:Sdružená\, Pelhřimov
 GEO:49.436297;15.221183
 URL:geo:49.436297,15.221183
-DESCRIPTION:📍 Sdružená\, Pelhřimov\n💬 Otevření bytu.\n\n🚒 CAS (CHS Pelhřimo
- v)
+DESCRIPTION:📍 Sdružená\, Pelhřimov\n💬 Otevření bytu.
 END:VEVENT
 BEGIN:VEVENT
 UID:421744061
