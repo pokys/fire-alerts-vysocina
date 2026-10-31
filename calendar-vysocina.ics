@@ -5,20 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:421674061
-DTSTART:20261029T123628Z
-DTEND:20261029T133628Z
-DTSTAMP:20261029T123628Z
-SUMMARY:🔥 venkovní požár - Jaroměřice nad Rokytnou
-LOCATION:Žižkova\, Jaroměřice nad Rokytnou
-GEO:49.094596;15.898314
-URL:geo:49.094596,15.898314
-DESCRIPTION:📍 Žižkova\, Jaroměřice nad Rokytnou\, Třebíč\n💬 Ohlášen požár k
- řoví. Beze škody. Provedena lokalizace a likvidace.\n\n🚒 CAS (HS Moravské 
- Budějovice)\n🚒 CAS (HS Moravské Budějovice)\n🚒 CAS (Jaroměřice nad Rokytno
- u)\n🚒 CAS (Jaroměřice nad Rokytnou)
-END:VEVENT
-BEGIN:VEVENT
 UID:421679061
 DTSTART:20261029T133133Z
 DTEND:20261029T143133Z
@@ -399,5 +385,17 @@ GEO:49.203001;15.887449
 URL:geo:49.203001,15.887449
 DESCRIPTION:📍 Střítež\, Třebíč\n💬 DN 2x OA bez zranění. Zajištění místa neh
  ody proti požáru a úniku provozních kapalin.\n\n🚒 CAS (CHS Třebíč)
+END:VEVENT
+BEGIN:VEVENT
+UID:421748061
+DTSTART:20261031T123733Z
+DTEND:20261031T133733Z
+DTSTAMP:20261031T123733Z
+SUMMARY:🚗 bez zranění - Ždírec nad Doubravou
+LOCATION:Chrudimská\, Ždírec nad Doubravou
+GEO:49.700054;15.814484
+URL:geo:49.700054,15.814484
+DESCRIPTION:📍 Chrudimská\, Ždírec nad Doubravou\, Havlíčkův Brod\n\n🚒 CAS (
+ HS Chotěboř)\n🚒 CAS (Ždírec nad Doubravou)
 END:VEVENT
 END:VCALENDAR
