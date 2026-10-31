@@ -395,4 +395,15 @@ URL:geo:49.566866,15.937044
 DESCRIPTION:📍 Kovářova\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n💬 Otevření 
  bytu.\n\n🚒 CAS (CHS Žďár nad Sázavou)
 END:VEVENT
+BEGIN:VEVENT
+UID:421762061
+DTSTART:20261031T230810Z
+DTEND:20261101T000810Z
+DTSTAMP:20261031T230810Z
+SUMMARY:🛠️ ostatní - Jemnice
+LOCATION:Na Předlískách\, Jemnice
+GEO:49.021171;15.576072
+URL:geo:49.021171,15.576072
+DESCRIPTION:📍 Na Předlískách\, Jemnice\, Třebíč\n\n🚒 CAS (HS Jemnice)
+END:VEVENT
 END:VCALENDAR
