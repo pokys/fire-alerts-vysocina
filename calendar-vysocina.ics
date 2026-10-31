@@ -400,4 +400,16 @@ URL:geo:49.353847,16.001468
 DESCRIPTION:📍 Družstevní\, Velké Meziříčí\, Žďár nad Sázavou\n💬 Transport p
  acienta na žádost ZZS.\n\n🚒 CAS (HS Velké Meziříčí)
 END:VEVENT
+BEGIN:VEVENT
+UID:421758061
+DTSTART:20261031T181259Z
+DTEND:20261031T191259Z
+DTSTAMP:20261031T181259Z
+SUMMARY:🛠️ otevření bytu/auta - Telč
+LOCATION:U Štěpnického rybníka\, Telč
+GEO:49.184769;15.462205
+URL:geo:49.184769,15.462205
+DESCRIPTION:📍 U Štěpnického rybníka\, Telč-Podolí\, Telč\, Jihlava\n\n🚒 CAS
+  (HS Telč)
+END:VEVENT
 END:VCALENDAR
