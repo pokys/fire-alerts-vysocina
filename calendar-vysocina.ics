@@ -5,31 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:421679061
-DTSTART:20261029T133133Z
-DTEND:20261029T143133Z
-DTSTAMP:20261029T133133Z
-SUMMARY:🛠️ ostatní - Jemnice
-LOCATION:Budějovická\, Jemnice
-GEO:49.018801;15.591828
-URL:geo:49.018801,15.591828
-DESCRIPTION:📍 Budějovická\, Jemnice\, Třebíč\n💬 Oplach znečištěné komunikac
- e.\n\n🚒 CAS (HS Jemnice)
-END:VEVENT
-BEGIN:VEVENT
-UID:421680061
-DTSTART:20261029T133502Z
-DTEND:20261029T143502Z
-DTSTAMP:20261029T133502Z
-SUMMARY:🚗 bez zranění - Velké Meziříčí
-LOCATION:Velké Meziříčí
-GEO:49.354509;16.030854
-URL:geo:49.354509,16.030854
-DESCRIPTION:📍 Velké Meziříčí\, Žďár nad Sázavou\n💬 DN NA a OA. Bez zranění.
-  Zajištění místa události.\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (HS Velké M
- eziříčí)
-END:VEVENT
-BEGIN:VEVENT
 UID:421683061
 DTSTART:20261029T144136Z
 DTEND:20261029T154136Z
@@ -395,8 +370,9 @@ SUMMARY:🚗 bez zranění - Ždírec nad Doubravou
 LOCATION:Chrudimská\, Ždírec nad Doubravou
 GEO:49.700054;15.814484
 URL:geo:49.700054,15.814484
-DESCRIPTION:📍 Chrudimská\, Ždírec nad Doubravou\, Havlíčkův Brod\n\n🚒 CAS (
- HS Chotěboř)\n🚒 CAS (Ždírec nad Doubravou)
+DESCRIPTION:📍 Chrudimská\, Ždírec nad Doubravou\, Havlíčkův Brod\n💬 DN 2x O
+ A bez zranění\, zajištění místa nehody proti požáru a úniku provozních kap
+ alin.\n\n🚒 CAS (HS Chotěboř)\n🚒 CAS (Ždírec nad Doubravou)
 END:VEVENT
 BEGIN:VEVENT
 UID:421749061
