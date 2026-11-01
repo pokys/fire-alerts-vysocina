@@ -233,7 +233,7 @@ LOCATION:Markvartice
 GEO:49.181745;15.633588
 URL:geo:49.181745,15.633588
 DESCRIPTION:📍 Markvartice\, Jihlava\n💬 DN 2 OA\, 1 zraněná osoba. Zajištění
-  místa události\,\n\n🚒 CAS (HS Telč)\n🚒 CAS (Želetava)
+  místa události.\n\n🚒 CAS (HS Telč)\n🚒 CAS (Želetava)
 END:VEVENT
 BEGIN:VEVENT
 UID:421743061
@@ -268,8 +268,8 @@ SUMMARY:🚗 se zraněním - Střítež
 LOCATION:Střítež
 GEO:49.203001;15.887449
 URL:geo:49.203001,15.887449
-DESCRIPTION:📍 Střítež\, Třebíč\n💬 DN 2x OA bez zranění. Zajištění místa neh
- ody proti požáru a úniku provozních kapalin.\n\n🚒 CAS (CHS Třebíč)
+DESCRIPTION:📍 Střítež\, Třebíč\n💬 DN 2 OA bez zranění. Zajištění vozidel pr
+ oti požáru a úniku provozních kapalin.\n\n🚒 CAS (CHS Třebíč)
 END:VEVENT
 BEGIN:VEVENT
 UID:421748061
@@ -280,9 +280,9 @@ SUMMARY:🚗 bez zranění - Ždírec nad Doubravou
 LOCATION:Chrudimská\, Ždírec nad Doubravou
 GEO:49.700054;15.814484
 URL:geo:49.700054,15.814484
-DESCRIPTION:📍 Chrudimská\, Ždírec nad Doubravou\, Havlíčkův Brod\n💬 DN 2x O
- A bez zranění\, zajištění místa nehody proti požáru a úniku provozních kap
- alin.\n\n🚒 CAS (HS Chotěboř)\n🚒 CAS (Ždírec nad Doubravou)
+DESCRIPTION:📍 Chrudimská\, Ždírec nad Doubravou\, Havlíčkův Brod\n💬 DN 2 OA
+  bez zranění\, zajištění vozidel proti požáru a úniku provozních kapalin.\
+ n\n🚒 CAS (HS Chotěboř)\n🚒 CAS (Ždírec nad Doubravou)
 END:VEVENT
 BEGIN:VEVENT
 UID:421749061
@@ -319,8 +319,8 @@ LOCATION:Okrouhlice
 GEO:49.624276;15.530888
 URL:geo:49.624276,15.530888
 DESCRIPTION:📍 Okrouhlice\, Havlíčkův Brod\n💬 DN 1 OA se zraněním 1 osoby. Z
- ajištění místa nehody proti požáru a úniku provozních kapalin.\n\n🚒 CAS (C
- HS Havlíčkův Brod)
+ ajištění vozidla proti požáru a úniku provozních kapalin.\n\n🚒 CAS (CHS Ha
+ vlíčkův Brod)
 END:VEVENT
 BEGIN:VEVENT
 UID:421754061
@@ -391,7 +391,7 @@ SUMMARY:🛠️ ostatní - Jemnice
 LOCATION:Na Předlískách\, Jemnice
 GEO:49.021171;15.576072
 URL:geo:49.021171,15.576072
-DESCRIPTION:📍 Na Předlískách\, Jemnice\, Třebíč\n💬 Zvednutí imobilní osoby.
- \n\n🚒 CAS (HS Jemnice)
+DESCRIPTION:📍 Na Předlískách\, Jemnice\, Třebíč\n💬 Pomoc imobilní osobě.\n\
+ n🚒 CAS (HS Jemnice)
 END:VEVENT
 END:VCALENDAR
