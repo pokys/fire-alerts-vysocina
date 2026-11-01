@@ -360,4 +360,15 @@ DESCRIPTION:📍 Havlíčkova\, Ledeč nad Sázavou\, Havlíčkův Brod\n💬 P�
   svodu okapové roury.\n\n🚒 CAS (HS Ledeč nad Sázavou)\n🚒 AŽ (HS Ledeč nad 
  Sázavou)
 END:VEVENT
+BEGIN:VEVENT
+UID:421771061
+DTSTART:20261101T140607Z
+DTEND:20261101T150607Z
+DTSTAMP:20261101T140607Z
+SUMMARY:🛠️ otevření bytu/auta - Chotěboř
+LOCATION:U Prefy\, Chotěboř
+GEO:49.715266;15.666139
+URL:geo:49.715266,15.666139
+DESCRIPTION:📍 U Prefy\, Chotěboř\, Havlíčkův Brod\n\n🚒 CAS (HS Chotěboř)
+END:VEVENT
 END:VCALENDAR
