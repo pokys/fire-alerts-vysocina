@@ -350,4 +350,16 @@ URL:geo:49.566857,15.937046
 DESCRIPTION:📍 Kovářova\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n💬 Otevření 
  bytu.\n\n🚒 CAS (CHS Žďár nad Sázavou)
 END:VEVENT
+BEGIN:VEVENT
+UID:421777061
+DTSTART:20261101T190923Z
+DTEND:20261101T200923Z
+DTSTAMP:20261101T190923Z
+SUMMARY:🚑 otevření/asistence - Žďár nad Sázavou
+LOCATION:Palachova\, Žďár nad Sázavou
+GEO:49.557988;15.943026
+URL:geo:49.557988,15.943026
+DESCRIPTION:📍 Palachova\, Žďár nad Sázavou 6\, Žďár nad Sázavou\n\n🚒 CAS (C
+ HS Žďár nad Sázavou)
+END:VEVENT
 END:VCALENDAR
