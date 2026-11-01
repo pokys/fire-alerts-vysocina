@@ -404,7 +404,8 @@ SUMMARY:🚗 bez zranění - Ústí
 LOCATION:Ústí
 GEO:49.479144;15.417794
 URL:geo:49.479144,15.417794
-DESCRIPTION:📍 Ústí\, Jihlava\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (HS Humpolec)
+DESCRIPTION:📍 Ústí\, Jihlava\n💬 DN 1 OA bez zranění. Provedena PPO. Zajiště
+ ní místa události.\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (HS Humpolec)
 END:VEVENT
 BEGIN:VEVENT
 UID:421767061
@@ -427,7 +428,8 @@ SUMMARY:🛠️ ostatní - Ledeč nad Sázavou
 LOCATION:Havlíčkova\, Ledeč nad Sázavou
 GEO:49.693394;15.281643
 URL:geo:49.693394,15.281643
-DESCRIPTION:📍 Havlíčkova\, Ledeč nad Sázavou\, Havlíčkův Brod\n\n🚒 CAS (HS 
- Ledeč nad Sázavou)\n🚒 AŽ (HS Ledeč nad Sázavou)
+DESCRIPTION:📍 Havlíčkova\, Ledeč nad Sázavou\, Havlíčkův Brod\n💬 Připevnění
+  svodu okapové roury.\n\n🚒 CAS (HS Ledeč nad Sázavou)\n🚒 AŽ (HS Ledeč nad 
+ Sázavou)
 END:VEVENT
 END:VCALENDAR
