@@ -286,4 +286,15 @@ URL:geo:49.561199,15.942866
 DESCRIPTION:📍 Žďár nad Sázavou 1\, Žďár nad Sázavou\n💬 Požár tůje.\n\n🚒 CAS
   (CHS Žďár nad Sázavou) ×2\n🚒 vyšetřovací automobil (ÚO Žďár nad Sázavou)
 END:VEVENT
+BEGIN:VEVENT
+UID:421800061
+DTSTART:20261102T202221Z
+DTEND:20261102T212221Z
+DTSTAMP:20261102T202221Z
+SUMMARY:🚑 transport pacienta - Třebíč
+LOCATION:Brněnská\, Třebíč
+GEO:49.215763;15.896543
+URL:geo:49.215763,15.896543
+DESCRIPTION:📍 Brněnská\, Nové Město\, Třebíč\n\n🚒 CAS (CHS Třebíč)
+END:VEVENT
 END:VCALENDAR
