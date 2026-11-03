@@ -320,6 +320,19 @@ SUMMARY:🚗 dopravní nehoda - Vokov
 LOCATION:Vokov
 GEO:49.395843;15.230706
 URL:geo:49.395843,15.230706
-DESCRIPTION:📍 Vokov\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)
+DESCRIPTION:📍 Vokov\, Pelhřimov\n💬 DN 2 OA se zraněním. Provedeno protipožá
+ rní opatření. Zajištění místa nehody. Úklid vozovky.\n\n🚒 CAS (CHS Pelhřim
+ ov)
+END:VEVENT
+BEGIN:VEVENT
+UID:421813061
+DTSTART:20261103T054553Z
+DTEND:20261103T064553Z
+DTSTAMP:20261103T054553Z
+SUMMARY:🚑 otevření/asistence - Cejle
+LOCATION:Cejle
+GEO:49.371373;15.465916
+URL:geo:49.371373,15.465916
+DESCRIPTION:📍 Cejle\, Jihlava\n💬 Otevření bytu pro ZZS.\n\n🚒 CAS (HS Třešť)
 END:VEVENT
 END:VCALENDAR
