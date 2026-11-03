@@ -77,4 +77,17 @@ URL:geo:49.466408,15.001766
 DESCRIPTION:📍 Truhlářská\, Pacov\, Pelhřimov\n💬 Poskytnutí první předlékařs
  ké pomoci před příjezdem ZZS.\n\n🚒 CAS (HS Pacov)
 END:VEVENT
+BEGIN:VEVENT
+UID:421848061
+DTSTART:20261103T162208Z
+DTEND:20261103T172208Z
+DTSTAMP:20261103T162208Z
+SUMMARY:🔥 budova - Žirovnice
+LOCATION:Žirovnice
+GEO:49.257314;15.124528
+URL:geo:49.257314,15.124528
+DESCRIPTION:📍 Štítné\, Žirovnice\, Pelhřimov\n\n🚒 CAS (HS Kamenice nad Lipo
+ u)\n🚒 CAS (HS Kamenice nad Lipou)\n🚒 CAS (Počátky)\n🚒 CAS (Žirovnice)\n🚒 C
+ AS (Žirovnice)
+END:VEVENT
 END:VCALENDAR
