@@ -332,8 +332,9 @@ SUMMARY:☣️ olej/PHM - Kamenice
 LOCATION:Kamenice
 GEO:49.407769;15.777034
 URL:geo:49.407769,15.777034
-DESCRIPTION:📍 Řehořov\, Kamenice\, Jihlava\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 
- RZA (HS Velké Meziříčí)
+DESCRIPTION:📍 Řehořov\, Kamenice\, Jihlava\n💬 Likvidace úniku oleje z OA po
+  technické závadě. Únik zlikvidován pomocí sorbentu.\n\n🚒 CAS (HS Velké Me
+ ziříčí)\n🚒 RZA (HS Velké Meziříčí)
 END:VEVENT
 BEGIN:VEVENT
 UID:421840061
@@ -356,21 +357,22 @@ SUMMARY:🚑 spolupráce ZZS - Jaroměřice nad Rokytnou
 LOCATION:Ke Spravedlnosti\, Jaroměřice nad Rokytnou
 GEO:49.090099;15.899754
 URL:geo:49.090099,15.899754
-DESCRIPTION:📍 Ke Spravedlnosti\, Jaroměřice nad Rokytnou\, Třebíč\n\n🚒 CAS 
- (HS Moravské Budějovice)\n🚒 CAS (Jaroměřice nad Rokytnou)
+DESCRIPTION:📍 Ke Spravedlnosti\, Jaroměřice nad Rokytnou\, Třebíč\n💬 Asiste
+ nce ZZS.\n\n🚒 CAS (HS Moravské Budějovice)\n🚒 CAS (Jaroměřice nad Rokytnou
+ )
 END:VEVENT
 BEGIN:VEVENT
 UID:421845061
 DTSTART:20261103T152136Z
 DTEND:20261103T162136Z
 DTSTAMP:20261103T152136Z
-SUMMARY:🔥 Třebíč
+SUMMARY:🛠️ ostatní - Třebíč
 LOCATION:C. Boudy\, Třebíč
 GEO:49.221964;15.890412
 URL:geo:49.221964,15.890412
-DESCRIPTION:📍 C. Boudy\, Nové Dvory\, Třebíč\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (
- CHS Třebíč)\n🚒 automobilová plošina do 30 m (CHS Třebíč)\n🚒 CAS (Rudíkov)\
- n🚒 CAS (Trnava)
+DESCRIPTION:📍 C. Boudy\, Nové Dvory\, Třebíč\n💬 Odvětrání vznícených potrav
+ in na sporáku.\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (CHS Třebíč)\n🚒 automobilová p
+ lošina do 30 m (CHS Třebíč)\n🚒 CAS (Rudíkov)\n🚒 CAS (Trnava)
 END:VEVENT
 BEGIN:VEVENT
 UID:421846061
@@ -381,7 +383,8 @@ SUMMARY:🚗 dopravní nehoda - Radenice
 LOCATION:Radenice
 GEO:49.425496;16.065749
 URL:geo:49.425496,16.065749
-DESCRIPTION:📍 Radenice\, Žďár nad Sázavou\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 R
- ZA (HS Velké Meziříčí)\n🚒 CAS (Křižanov)
+DESCRIPTION:📍 Radenice\, Žďár nad Sázavou\n💬 DN motocyklu s 1 zraněnou osob
+ ou.\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)\n🚒 CAS (Křižan
+ ov)
 END:VEVENT
 END:VCALENDAR
