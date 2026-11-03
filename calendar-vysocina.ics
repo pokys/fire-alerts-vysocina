@@ -398,4 +398,16 @@ DESCRIPTION:📍 C. Boudy\, Nové Dvory\, Třebíč\n\n🚒 CAS (CHS Třebíč)\
  CHS Třebíč)\n🚒 automobilová plošina do 30 m (CHS Třebíč)\n🚒 CAS (Rudíkov)\
  n🚒 CAS (Trnava)
 END:VEVENT
+BEGIN:VEVENT
+UID:421846061
+DTSTART:20261103T152915Z
+DTEND:20261103T162915Z
+DTSTAMP:20261103T152915Z
+SUMMARY:🚗 dopravní nehoda - Radenice
+LOCATION:Radenice
+GEO:49.425496;16.065749
+URL:geo:49.425496,16.065749
+DESCRIPTION:📍 Radenice\, Žďár nad Sázavou\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 R
+ ZA (HS Velké Meziříčí)\n🚒 CAS (Křižanov)
+END:VEVENT
 END:VCALENDAR
