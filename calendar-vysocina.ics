@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:421768061
-DTSTART:20261101T095650Z
-DTEND:20261101T105650Z
-DTSTAMP:20261101T095650Z
-SUMMARY:🛠️ ostatní - Ledeč nad Sázavou
-LOCATION:Havlíčkova\, Ledeč nad Sázavou
-GEO:49.693394;15.281643
-URL:geo:49.693394,15.281643
-DESCRIPTION:📍 Havlíčkova\, Ledeč nad Sázavou\, Havlíčkův Brod\n💬 Připevnění
-  svodu okapové roury.\n\n🚒 CAS (HS Ledeč nad Sázavou)\n🚒 AŽ (HS Ledeč nad 
- Sázavou)
-END:VEVENT
-BEGIN:VEVENT
 UID:421771061
 DTSTART:20261101T140607Z
 DTEND:20261101T150607Z
@@ -332,5 +319,19 @@ GEO:49.468585;15.259129
 URL:geo:49.468585,15.259129
 DESCRIPTION:📍 Kojčice\, Pelhřimov\n💬 DN 2 OA se zraněním.\n\n🚒 CAS (CHS Pel
  hřimov)
+END:VEVENT
+BEGIN:VEVENT
+UID:421832061
+DTSTART:20261103T095256Z
+DTEND:20261103T105256Z
+DTSTAMP:20261103T095256Z
+SUMMARY:🔥 budova - Nové Město na Moravě
+LOCATION:Nové Město na Moravě
+GEO:49.545746;16.066808
+URL:geo:49.545746,16.066808
+DESCRIPTION:📍 Petrovice\, Nové Město na Moravě\, Žďár nad Sázavou\n\n🚒 CAS 
+ (CHS Žďár nad Sázavou)\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (Nové Město na
+  Moravě)\n🚒 DA (Nové Město na Moravě-Petrovice)\n🚒 CAS (Žďár nad Sázavou-Z
+ ámek)
 END:VEVENT
 END:VCALENDAR
