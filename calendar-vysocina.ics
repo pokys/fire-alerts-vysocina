@@ -361,4 +361,28 @@ URL:geo:49.407769,15.777034
 DESCRIPTION:📍 Řehořov\, Kamenice\, Jihlava\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 
  RZA (HS Velké Meziříčí)
 END:VEVENT
+BEGIN:VEVENT
+UID:421840061
+DTSTART:20261103T150155Z
+DTEND:20261103T160155Z
+DTSTAMP:20261103T150155Z
+SUMMARY:🔥 venkovní požár - Žďár nad Sázavou
+LOCATION:nám. Republiky\, Žďár nad Sázavou
+GEO:49.561840;15.940468
+URL:geo:49.561840,15.940468
+DESCRIPTION:📍 nám. Republiky\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n💬 Pož
+ ár odpadkového koše.\n\n🚒 CAS (CHS Žďár nad Sázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:421841061
+DTSTART:20261103T150316Z
+DTEND:20261103T160316Z
+DTSTAMP:20261103T150316Z
+SUMMARY:🚑 spolupráce ZZS - Jaroměřice nad Rokytnou
+LOCATION:Ke Spravedlnosti\, Jaroměřice nad Rokytnou
+GEO:49.090099;15.899754
+URL:geo:49.090099,15.899754
+DESCRIPTION:📍 Ke Spravedlnosti\, Jaroměřice nad Rokytnou\, Třebíč\n\n🚒 CAS 
+ (HS Moravské Budějovice)\n🚒 CAS (Jaroměřice nad Rokytnou)
+END:VEVENT
 END:VCALENDAR
