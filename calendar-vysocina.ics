@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:421776061
-DTSTART:20261101T170322Z
-DTEND:20261101T180322Z
-DTSTAMP:20261101T170322Z
-SUMMARY:🚑 otevření/asistence - Žďár nad Sázavou
-LOCATION:Kovářova\, Žďár nad Sázavou
-GEO:49.566857;15.937046
-URL:geo:49.566857,15.937046
-DESCRIPTION:📍 Kovářova\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n💬 Otevření 
- bytu.\n\n🚒 CAS (CHS Žďár nad Sázavou)
-END:VEVENT
-BEGIN:VEVENT
 UID:421777061
 DTSTART:20261101T190923Z
 DTEND:20261101T200923Z
@@ -409,7 +397,8 @@ SUMMARY:🛠️ strom - Želiv
 LOCATION:Želiv
 GEO:49.564185;15.260221
 URL:geo:49.564185,15.260221
-DESCRIPTION:📍 Miletín\, Želiv\, Pelhřimov\n\n🚒 CAS (HS Humpolec)
+DESCRIPTION:📍 Miletín\, Želiv\, Pelhřimov\n💬 Odstranění stromu.\n\n🚒 CAS (H
+ S Humpolec)
 END:VEVENT
 BEGIN:VEVENT
 UID:421850061
