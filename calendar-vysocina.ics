@@ -501,12 +501,13 @@ UID:421897061
 DTSTART:20261104T111759Z
 DTEND:20261104T121759Z
 DTSTAMP:20261104T111759Z
-SUMMARY:🔥 budova - Velké Meziříčí
+SUMMARY:🔥 venkovní požár - Velké Meziříčí
 LOCATION:Zdenky Vorlové\, Velké Meziříčí
 GEO:49.347542;16.010350
 URL:geo:49.347542,16.010350
 DESCRIPTION:📍 Zdenky Vorlové\, Velké Meziříčí\, Žďár nad Sázavou\n\n🚒 CAS (
- HS Velké Meziříčí)\n🚒 CAS (Měřín)\n🚒 CAS (Velké Meziříčí)
+ HS Velké Meziříčí)\n🚒 CAS (Měřín)\n🚒 CAS (Velké Meziříčí)\n🚒 vyšetřovací a
+ utomobil (ÚO Žďár nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:421899061
