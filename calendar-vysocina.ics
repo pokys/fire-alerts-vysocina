@@ -410,7 +410,8 @@ SUMMARY:🛠️ obtížný hmyz - Rohozná
 LOCATION:Rohozná
 GEO:49.350581;15.398444
 URL:geo:49.350581,15.398444
-DESCRIPTION:📍 Rohozná\, Jihlava\n\n🚒 CAS (Rohozná)
+DESCRIPTION:📍 Rohozná\, Jihlava\n💬 Likvidace nebezpečného hmyzu.\n\n🚒 CAS (
+ Rohozná)
 END:VEVENT
 BEGIN:VEVENT
 UID:421895061
@@ -421,9 +422,9 @@ SUMMARY:🚗 dopravní nehoda - Vlčatín
 LOCATION:Vlčatín
 GEO:49.303369;15.958359
 URL:geo:49.303369,15.958359
-DESCRIPTION:📍 Vlčatín\, Třebíč\n💬 DN 2 OA se 2 zraněnými osobami. Protipožá
- rní opatření a likvidace úniku provozních kapalin.\n\n🚒 CAS (CHS Třebíč)\n
- 🚒 RZA (HS Velké Meziříčí)
+DESCRIPTION:📍 Vlčatín\, Třebíč\n💬 DN 2 x OA se 2 zraněnými osobami. Protipo
+ žární opatření a likvidace úniku provozních kapalin.\n\n🚒 CAS (CHS Třebíč)
+ \n🚒 RZA (HS Velké Meziříčí)
 END:VEVENT
 BEGIN:VEVENT
 UID:421897061
@@ -482,7 +483,8 @@ SUMMARY:🔥 venkovní požár - Jihlava
 LOCATION:Věžní\, Jihlava
 GEO:49.396143;15.586198
 URL:geo:49.396143,15.586198
-DESCRIPTION:📍 Věžní\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+DESCRIPTION:📍 Věžní\, Jihlava\n💬 Požár odpadkového koše.\n\n🚒 CAS (CHS Jihl
+ ava)
 END:VEVENT
 BEGIN:VEVENT
 UID:421911061
