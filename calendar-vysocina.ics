@@ -448,4 +448,16 @@ URL:geo:49.564156,16.080423
 DESCRIPTION:📍 Hornická\, Nové Město na Moravě\, Žďár nad Sázavou\n💬 Pomoc i
  mobilní osobě.\n\n🚒 CAS (CHS Žďár nad Sázavou)
 END:VEVENT
+BEGIN:VEVENT
+UID:421866061
+DTSTART:20261104T031124Z
+DTEND:20261104T041124Z
+DTSTAMP:20261104T031124Z
+SUMMARY:🔥 Humpolec
+LOCATION:Na Kasárnách\, Humpolec
+GEO:49.542518;15.353961
+URL:geo:49.542518,15.353961
+DESCRIPTION:📍 Na Kasárnách\, Humpolec\, Pelhřimov\n\n🚒 CAS (HS Humpolec)\n🚒
+  RZA (HS Humpolec)
+END:VEVENT
 END:VCALENDAR
