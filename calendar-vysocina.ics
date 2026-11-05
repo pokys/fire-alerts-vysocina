@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:421850061
-DTSTART:20261103T165754Z
-DTEND:20261103T175754Z
-DTSTAMP:20261103T165754Z
-SUMMARY:⚠️ planý poplach - Třebíč
-LOCATION:Na Kopcích\, Třebíč
-GEO:49.218869;15.905247
-URL:geo:49.218869,15.905247
-DESCRIPTION:📍 Na Kopcích\, Nové Město\, Třebíč\n💬 Planý poplach.\n\n🚒 CAS (
- CHS Třebíč)
-END:VEVENT
-BEGIN:VEVENT
 UID:421851061
 DTSTART:20261103T181011Z
 DTEND:20261103T191011Z
@@ -501,7 +489,8 @@ SUMMARY:🛠️ otevření bytu/auta - Havlíčkův Brod
 LOCATION:Prokopa Holého\, Havlíčkův Brod
 GEO:49.606919;15.584150
 URL:geo:49.606919,15.584150
-DESCRIPTION:📍 Prokopa Holého\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)
+DESCRIPTION:📍 Prokopa Holého\, Havlíčkův Brod\n💬 Otevření bytu.\n\n🚒 CAS (C
+ HS Havlíčkův Brod)
 END:VEVENT
 BEGIN:VEVENT
 UID:421949061
@@ -523,6 +512,19 @@ SUMMARY:🚗 dopravní nehoda - Třebíč
 LOCATION:Třebíč
 GEO:49.202752;15.887383
 URL:geo:49.202752,15.887383
-DESCRIPTION:📍 Horka-Domky\, Třebíč\n\n🚒 CAS (CHS Třebíč)
+DESCRIPTION:📍 Horka-Domky\, Třebíč\n💬 Dopravní nehoda 1 osobního automobilu
+  a motorkáře se zraněním 1 osoby. Zajištění místa nehody.\n\n🚒 CAS (CHS Tř
+ ebíč)
+END:VEVENT
+BEGIN:VEVENT
+UID:421951061
+DTSTART:20261105T164547Z
+DTEND:20261105T174547Z
+DTSTAMP:20261105T164547Z
+SUMMARY:🚑 transport pacienta - Jihlava
+LOCATION:Bratří Čapků\, Jihlava
+GEO:49.393170;15.576274
+URL:geo:49.393170,15.576274
+DESCRIPTION:📍 Bratří Čapků\, Jihlava\n\n🚒 CAS (CHS Jihlava)
 END:VEVENT
 END:VCALENDAR
