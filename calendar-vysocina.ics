@@ -456,7 +456,30 @@ SUMMARY:🚗 dopravní nehoda - Žďár nad Sázavou
 LOCATION:Jamská\, Žďár nad Sázavou
 GEO:49.561066;15.946592
 URL:geo:49.561066,15.946592
-DESCRIPTION:📍 Jamská\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n\n🚒 CAS (CHS 
- Žďár nad Sázavou)
+DESCRIPTION:📍 Jamská\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n💬 DN 2 OA se 
+ zraněním. Zajištění místa události.\n\n🚒 CAS (CHS Žďár nad Sázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:421920061
+DTSTART:20261105T070532Z
+DTEND:20261105T080532Z
+DTSTAMP:20261105T070532Z
+SUMMARY:🛠️ otevření bytu/auta - Náměšť nad Oslavou
+LOCATION:Třebíčská\, Náměšť nad Oslavou
+GEO:49.209745;16.143755
+URL:geo:49.209745,16.143755
+DESCRIPTION:📍 Třebíčská\, Náměšť nad Oslavou\, Třebíč\n\n🚒 CAS (HS Náměšť n
+ ad Oslavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:421921061
+DTSTART:20261105T070834Z
+DTEND:20261105T080834Z
+DTSTAMP:20261105T070834Z
+SUMMARY:🚗 dopravní nehoda - Třebíč
+LOCATION:Třebíč
+GEO:49.219294;15.868623
+URL:geo:49.219294,15.868623
+DESCRIPTION:📍 Podklášteří\, Třebíč\n\n🚒 CAS (CHS Třebíč)
 END:VEVENT
 END:VCALENDAR
