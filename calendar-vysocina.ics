@@ -5,31 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:421840061
-DTSTART:20261103T150155Z
-DTEND:20261103T160155Z
-DTSTAMP:20261103T150155Z
-SUMMARY:🔥 venkovní požár - Žďár nad Sázavou
-LOCATION:nám. Republiky\, Žďár nad Sázavou
-GEO:49.561840;15.940468
-URL:geo:49.561840,15.940468
-DESCRIPTION:📍 nám. Republiky\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n💬 Pož
- ár odpadkového koše.\n\n🚒 CAS (CHS Žďár nad Sázavou)
-END:VEVENT
-BEGIN:VEVENT
-UID:421841061
-DTSTART:20261103T150316Z
-DTEND:20261103T160316Z
-DTSTAMP:20261103T150316Z
-SUMMARY:🚑 spolupráce ZZS - Jaroměřice nad Rokytnou
-LOCATION:Ke Spravedlnosti\, Jaroměřice nad Rokytnou
-GEO:49.090099;15.899754
-URL:geo:49.090099,15.899754
-DESCRIPTION:📍 Ke Spravedlnosti\, Jaroměřice nad Rokytnou\, Třebíč\n💬 Asiste
- nce ZZS.\n\n🚒 CAS (HS Moravské Budějovice)\n🚒 CAS (Jaroměřice nad Rokytnou
- )
-END:VEVENT
-BEGIN:VEVENT
 UID:421845061
 DTSTART:20261103T152136Z
 DTEND:20261103T162136Z
@@ -518,7 +493,7 @@ LOCATION:Mladoňovice
 GEO:49.024134;15.633404
 URL:geo:49.024134,15.633404
 DESCRIPTION:📍 Mladoňovice\, Třebíč\n💬 Dopravní nehoda 1 OA se zraněním 1 os
- oby. Zajištění místa nehody.\n\n🚒 CAS (HS Jemnice)
+ oby. Zajištění místa nehody.\n\n🚒 CAS (HS Jemnice)\n🚒 VYA (CHS Třebíč)
 END:VEVENT
 BEGIN:VEVENT
 UID:421943061
