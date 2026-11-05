@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:421838061
-DTSTART:20261103T141358Z
-DTEND:20261103T151358Z
-DTSTAMP:20261103T141358Z
-SUMMARY:☣️ olej/PHM - Kamenice
-LOCATION:Kamenice
-GEO:49.407769;15.777034
-URL:geo:49.407769,15.777034
-DESCRIPTION:📍 Řehořov\, Kamenice\, Jihlava\n💬 Likvidace úniku oleje z OA po
-  technické závadě. Únik zlikvidován pomocí sorbentu.\n\n🚒 CAS (HS Velké Me
- ziříčí)\n🚒 RZA (HS Velké Meziříčí)
-END:VEVENT
-BEGIN:VEVENT
 UID:421840061
 DTSTART:20261103T150155Z
 DTEND:20261103T160155Z
@@ -482,7 +469,7 @@ GEO:49.271402;16.257751
 URL:geo:49.271402,16.257751
 DESCRIPTION:📍 Janovice\, Velká Bíteš\, Žďár nad Sázavou\n💬 Požár OA\, beze 
  škody. Provedena lokalizace a likvidace.\n\n🚒 CAS (HS Velká Bíteš)\n🚒 RZA 
- (HS Velké Meziříčí)
+ (HS Velké Meziříčí)\n🚒 CAS (HS Rosice)
 END:VEVENT
 BEGIN:VEVENT
 UID:421938061
@@ -491,9 +478,10 @@ DTEND:20261105T144511Z
 DTSTAMP:20261105T134511Z
 SUMMARY:🚗 úklid místa - Radňovice
 LOCATION:Radňovice
-GEO:49.564009;16.034859
-URL:geo:49.564009,16.034859
-DESCRIPTION:📍 Radňovice\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad Sázavou)\
- n🚒 TA (Nové Město na Moravě)
+GEO:49.562931;16.028357
+URL:geo:49.562931,16.028357
+DESCRIPTION:📍 Radňovice\, Žďár nad Sázavou\n💬 DN 3 OA bez zranění. Zajištěn
+ í místa události.\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 TA (Nové Město na Mor
+ avě)
 END:VEVENT
 END:VCALENDAR
