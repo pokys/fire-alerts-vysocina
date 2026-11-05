@@ -457,7 +457,9 @@ SUMMARY:🚗 dopravní nehoda - Dubovice
 LOCATION:Dubovice
 GEO:49.438608;15.176546
 URL:geo:49.438608,15.176546
-DESCRIPTION:📍 Dubovice\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)
+DESCRIPTION:📍 Dubovice\, Pelhřimov\n💬 DN 3 OA se zraněním. Zajištění místa 
+ události.\n\n🚒 CAS (CHS Pelhřimov)\n🚒 HVZ - nástroj rozpínací s čelistmi (
+ CHS Pelhřimov)
 END:VEVENT
 BEGIN:VEVENT
 UID:421929061
@@ -469,5 +471,17 @@ LOCATION:Jihlava
 GEO:49.452463;15.611466
 URL:geo:49.452463,15.611466
 DESCRIPTION:📍 Pávov\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+END:VEVENT
+BEGIN:VEVENT
+UID:421931061
+DTSTART:20261105T094026Z
+DTEND:20261105T104026Z
+DTSTAMP:20261105T094026Z
+SUMMARY:🚗 úklid místa - Žďár nad Sázavou
+LOCATION:Žižkova\, Žďár nad Sázavou
+GEO:49.564634;15.937098
+URL:geo:49.564634,15.937098
+DESCRIPTION:📍 Žižkova\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n\n🚒 CAS (CHS
+  Žďár nad Sázavou)
 END:VEVENT
 END:VCALENDAR
