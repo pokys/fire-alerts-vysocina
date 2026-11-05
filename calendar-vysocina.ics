@@ -448,4 +448,15 @@ URL:geo:49.219294,15.868623
 DESCRIPTION:📍 Podklášteří\, Třebíč\n💬 Dopravní nehoda OA a cyklisty\, zraně
  ná 1 osoba. Zajištění místa nehody.\n\n🚒 CAS (CHS Třebíč)
 END:VEVENT
+BEGIN:VEVENT
+UID:421923061
+DTSTART:20261105T081032Z
+DTEND:20261105T091032Z
+DTSTAMP:20261105T081032Z
+SUMMARY:🚗 dopravní nehoda - Dubovice
+LOCATION:Dubovice
+GEO:49.438608;15.176546
+URL:geo:49.438608,15.176546
+DESCRIPTION:📍 Dubovice\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)
+END:VEVENT
 END:VCALENDAR
