@@ -471,4 +471,16 @@ URL:geo:49.557312,15.926559
 DESCRIPTION:📍 Žďár nad Sázavou 1\, Žďár nad Sázavou\n💬 Požár pařezu. Beze š
  kody.\n\n🚒 CAS (CHS Žďár nad Sázavou) ×2
 END:VEVENT
+BEGIN:VEVENT
+UID:421936061
+DTSTART:20261105T130849Z
+DTEND:20261105T140849Z
+DTSTAMP:20261105T130849Z
+SUMMARY:🔥 vozidlo - Velká Bíteš
+LOCATION:Velká Bíteš
+GEO:49.271402;16.257751
+URL:geo:49.271402,16.257751
+DESCRIPTION:📍 Janovice\, Velká Bíteš\, Žďár nad Sázavou\n\n🚒 CAS (HS Velká 
+ Bíteš)\n🚒 RZA (HS Velké Meziříčí)
+END:VEVENT
 END:VCALENDAR
