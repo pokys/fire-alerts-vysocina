@@ -493,8 +493,8 @@ SUMMARY:🛠️ otevření bytu/auta - Bystřice nad Pernštejnem
 LOCATION:Okružní\, Bystřice nad Pernštejnem
 GEO:49.523986;16.248650
 URL:geo:49.523986,16.248650
-DESCRIPTION:📍 Okružní\, Bystřice nad Pernštejnem\, Žďár nad Sázavou\n\n🚒 CA
- S (HS Bystřice nad Pernštejnem)
+DESCRIPTION:📍 Okružní\, Bystřice nad Pernštejnem\, Žďár nad Sázavou\n💬 Otev
+ ření bytu.\n\n🚒 CAS (HS Bystřice nad Pernštejnem)
 END:VEVENT
 BEGIN:VEVENT
 UID:421941061
@@ -505,7 +505,31 @@ SUMMARY:🛠️ otevření bytu/auta - Bystřice nad Pernštejnem
 LOCATION:Okružní\, Bystřice nad Pernštejnem
 GEO:49.523976;16.248637
 URL:geo:49.523976,16.248637
-DESCRIPTION:📍 Okružní\, Bystřice nad Pernštejnem\, Žďár nad Sázavou\n\n🚒 CA
- S (HS Bystřice nad Pernštejnem)
+DESCRIPTION:📍 Okružní\, Bystřice nad Pernštejnem\, Žďár nad Sázavou\n💬 Otev
+ ření bytu.\n\n🚒 CAS (HS Bystřice nad Pernštejnem)
+END:VEVENT
+BEGIN:VEVENT
+UID:421942061
+DTSTART:20261105T143244Z
+DTEND:20261105T153244Z
+DTSTAMP:20261105T143244Z
+SUMMARY:🚗 bez zranění - Mladoňovice
+LOCATION:Mladoňovice
+GEO:49.024747;15.617932
+URL:geo:49.024747,15.617932
+DESCRIPTION:📍 Mladoňovice\, Třebíč\n💬 Dopravní nehoda 1 OA se zraněním 1 os
+ oby. Zajištění místa nehody.\n\n🚒 CAS (HS Jemnice)
+END:VEVENT
+BEGIN:VEVENT
+UID:421943061
+DTSTART:20261105T143328Z
+DTEND:20261105T153328Z
+DTSTAMP:20261105T143328Z
+SUMMARY:🔥 vozidlo - Chotěboř
+LOCATION:Sokolohradská\, Chotěboř
+GEO:49.707877;15.698952
+URL:geo:49.707877,15.698952
+DESCRIPTION:📍 Sokolohradská\, Chotěboř\, Havlíčkův Brod\n\n🚒 CAS (HS Chotěb
+ oř)\n🚒 CAS (HS Chotěboř)\n🚒 CAS (Chotěboř)
 END:VEVENT
 END:VCALENDAR
