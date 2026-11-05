@@ -459,4 +459,16 @@ DESCRIPTION:📍 Josefodol\, Světlá nad Sázavou\, Havlíčkův Brod\n💬 Dop
  ehoda nákladního automobilu. bez zranění\, únik provozních kapalin na poze
  mní komunikaci. Zajištění místa.\n\n🚒 CAS (HS Světlá nad Sázavou)
 END:VEVENT
+BEGIN:VEVENT
+UID:421935061
+DTSTART:20261105T124341Z
+DTEND:20261105T134341Z
+DTSTAMP:20261105T124341Z
+SUMMARY:🔥 venkovní požár - Žďár nad Sázavou
+LOCATION:Žďár nad Sázavou
+GEO:49.557312;15.926559
+URL:geo:49.557312,15.926559
+DESCRIPTION:📍 Žďár nad Sázavou 1\, Žďár nad Sázavou\n💬 Požár pařezu. Beze š
+ kody.\n\n🚒 CAS (CHS Žďár nad Sázavou) ×2
+END:VEVENT
 END:VCALENDAR
