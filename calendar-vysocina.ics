@@ -480,7 +480,20 @@ SUMMARY:🔥 vozidlo - Velká Bíteš
 LOCATION:Velká Bíteš
 GEO:49.271402;16.257751
 URL:geo:49.271402,16.257751
-DESCRIPTION:📍 Janovice\, Velká Bíteš\, Žďár nad Sázavou\n\n🚒 CAS (HS Velká 
- Bíteš)\n🚒 RZA (HS Velké Meziříčí)
+DESCRIPTION:📍 Janovice\, Velká Bíteš\, Žďár nad Sázavou\n💬 Požár OA\, beze 
+ škody. Provedena lokalizace a likvidace.\n\n🚒 CAS (HS Velká Bíteš)\n🚒 RZA 
+ (HS Velké Meziříčí)
+END:VEVENT
+BEGIN:VEVENT
+UID:421938061
+DTSTART:20261105T134511Z
+DTEND:20261105T144511Z
+DTSTAMP:20261105T134511Z
+SUMMARY:🚗 úklid místa - Radňovice
+LOCATION:Radňovice
+GEO:49.564009;16.034859
+URL:geo:49.564009,16.034859
+DESCRIPTION:📍 Radňovice\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad Sázavou)\
+ n🚒 TA (Nové Město na Moravě)
 END:VEVENT
 END:VCALENDAR
