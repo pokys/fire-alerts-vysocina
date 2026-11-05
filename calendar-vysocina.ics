@@ -5,32 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:421845061
-DTSTART:20261103T152136Z
-DTEND:20261103T162136Z
-DTSTAMP:20261103T152136Z
-SUMMARY:🛠️ ostatní - Třebíč
-LOCATION:C. Boudy\, Třebíč
-GEO:49.221964;15.890412
-URL:geo:49.221964,15.890412
-DESCRIPTION:📍 C. Boudy\, Nové Dvory\, Třebíč\n💬 Odvětrání vznícených potrav
- in na sporáku.\n\n🚒 CAS (CHS Třebíč)\n🚒 CAS (CHS Třebíč)\n🚒 automobilová p
- lošina do 30 m (CHS Třebíč)\n🚒 CAS (Rudíkov)\n🚒 CAS (Trnava)
-END:VEVENT
-BEGIN:VEVENT
-UID:421846061
-DTSTART:20261103T152915Z
-DTEND:20261103T162915Z
-DTSTAMP:20261103T152915Z
-SUMMARY:🚗 dopravní nehoda - Radenice
-LOCATION:Radenice
-GEO:49.425496;16.065749
-URL:geo:49.425496,16.065749
-DESCRIPTION:📍 Radenice\, Žďár nad Sázavou\n💬 DN motocyklu jedna zraněná oso
- ba. Zajištění místa události.\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (HS Velk
- é Meziříčí)\n🚒 CAS (Křižanov)\n🚒 elektrocentrála přenosná (Křižanov)
-END:VEVENT
-BEGIN:VEVENT
 UID:421848061
 DTSTART:20261103T162208Z
 DTEND:20261103T172208Z
@@ -529,6 +503,6 @@ SUMMARY:🛠️ ostatní - Pelhřimov
 LOCATION:Pelhřimov
 GEO:49.418840;15.211876
 URL:geo:49.418840,15.211876
-DESCRIPTION:🚒 CAS (CHS Pelhřimov)
+DESCRIPTION:💬 Pomoc imobilní osobě.\n\n🚒 CAS (CHS Pelhřimov)
 END:VEVENT
 END:VCALENDAR
