@@ -516,4 +516,16 @@ URL:geo:49.564793,15.929803
 DESCRIPTION:📍 Brodská\, Žďár nad Sázavou 3\, Žďár nad Sázavou\n💬 Transport 
  pacienta na žádost ZZS.\n\n🚒 CAS (CHS Žďár nad Sázavou)
 END:VEVENT
+BEGIN:VEVENT
+UID:421960061
+DTSTART:20261106T042101Z
+DTEND:20261106T052101Z
+DTSTAMP:20261106T042101Z
+SUMMARY:🚑 otevření/asistence - Žďár nad Sázavou
+LOCATION:Brodská\, Žďár nad Sázavou
+GEO:49.564960;15.928785
+URL:geo:49.564960,15.928785
+DESCRIPTION:📍 Brodská\, Žďár nad Sázavou 3\, Žďár nad Sázavou\n\n🚒 CAS (CHS
+  Žďár nad Sázavou)
+END:VEVENT
 END:VCALENDAR
