@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:421910061
-DTSTART:20261104T151707Z
-DTEND:20261104T161707Z
-DTSTAMP:20261104T151707Z
-SUMMARY:🔥 venkovní požár - Jihlava
-LOCATION:Věžní\, Jihlava
-GEO:49.396143;15.586198
-URL:geo:49.396143,15.586198
-DESCRIPTION:📍 Věžní\, Jihlava\n💬 Požár odpadkového koše.\n\n🚒 CAS (CHS Jihl
- ava)
-END:VEVENT
-BEGIN:VEVENT
 UID:421911061
 DTSTART:20261104T155432Z
 DTEND:20261104T165432Z
@@ -552,8 +540,8 @@ SUMMARY:🛠️ ostatní - Žďár nad Sázavou
 LOCATION:Žďár nad Sázavou
 GEO:49.590085;15.921789
 URL:geo:49.590085,15.921789
-DESCRIPTION:🚒 DA (Žďár nad Sázavou-Zámek)\n🚒 přívěs nákladní (Žďár nad Sáza
- vou-Zámek)
+DESCRIPTION:💬 Přetažení pontonů.\n\n🚒 DA (Žďár nad Sázavou-Zámek)\n🚒 přívěs
+  nákladní (Žďár nad Sázavou-Zámek)
 END:VEVENT
 BEGIN:VEVENT
 UID:421987061
