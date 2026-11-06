@@ -581,4 +581,15 @@ DESCRIPTION:📍 Borovnice\, Žďár nad Sázavou\n💬 Pomoc ZZS s transportem 
  né osoby.\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 DA (Jimramov)\n🚒 CAS (Jimramo
  v)\n🚒 DA (Borovnice)\n🚒 CAS (Borovnice)
 END:VEVENT
+BEGIN:VEVENT
+UID:421995061
+DTSTART:20261106T220719Z
+DTEND:20261106T230719Z
+DTSTAMP:20261106T220719Z
+SUMMARY:🛠️ otevření bytu/auta - Třebíč
+LOCATION:Stinná\, Třebíč
+GEO:49.217691;15.878228
+URL:geo:49.217691,15.878228
+DESCRIPTION:📍 Stinná\, Zámostí\, Třebíč\n\n🚒 CAS (CHS Třebíč)
+END:VEVENT
 END:VCALENDAR
