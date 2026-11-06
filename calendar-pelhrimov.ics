@@ -64,4 +64,15 @@ URL:geo:49.569489,15.207292
 DESCRIPTION:📍 Senožaty\, Pelhřimov\n💬 Transport pacienta na žádost ZZS.\n\n
  🚒 CAS (HS Humpolec)\n🚒 CAS (Senožaty)
 END:VEVENT
+BEGIN:VEVENT
+UID:421989061
+DTSTART:20261106T175402Z
+DTEND:20261106T185402Z
+DTSTAMP:20261106T175402Z
+SUMMARY:🔥 venkovní požár - Černovice
+LOCATION:Černovice
+GEO:49.365743;14.958532
+URL:geo:49.365743,14.958532
+DESCRIPTION:📍 Černovice\, Pelhřimov\n\n🚒 CAS (HS Pacov)\n🚒 CAS (Černovice)
+END:VEVENT
 END:VCALENDAR
