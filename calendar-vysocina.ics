@@ -553,4 +553,16 @@ URL:geo:49.043550,15.796259
 DESCRIPTION:📍 Moravské Budějovice\, Třebíč\n\n🚒 CAS (HS Moravské Budějovice
  )\n🚒 CAS (HS Moravské Budějovice)
 END:VEVENT
+BEGIN:VEVENT
+UID:421986061
+DTSTART:20261106T130951Z
+DTEND:20261106T140951Z
+DTSTAMP:20261106T130951Z
+SUMMARY:🛠️ ostatní - Žďár nad Sázavou
+LOCATION:Žďár nad Sázavou
+GEO:49.590085;15.921789
+URL:geo:49.590085,15.921789
+DESCRIPTION:🚒 DA (Žďár nad Sázavou-Zámek)\n🚒 přívěs nákladní (Žďár nad Sáza
+ vou-Zámek)
+END:VEVENT
 END:VCALENDAR
