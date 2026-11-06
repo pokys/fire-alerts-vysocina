@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:421880061
-DTSTART:20261104T072057Z
-DTEND:20261104T082057Z
-DTSTAMP:20261104T072057Z
-SUMMARY:🛠️ otevření bytu/auta - Žďár nad Sázavou
-LOCATION:Sázavská\, Žďár nad Sázavou
-GEO:49.570694;15.935714
-URL:geo:49.570694,15.935714
-DESCRIPTION:📍 Sázavská\, Žďár nad Sázavou 3\, Žďár nad Sázavou\n💬 Otevření 
- bytu.\n\n🚒 CAS (CHS Žďár nad Sázavou)
-END:VEVENT
-BEGIN:VEVENT
 UID:421883061
 DTSTART:20261104T074838Z
 DTEND:20261104T084838Z
@@ -536,9 +524,9 @@ SUMMARY:🚗 dopravní nehoda - Nové Město na Moravě
 LOCATION:Nové Město na Moravě
 GEO:49.540023;16.052077
 URL:geo:49.540023,16.052077
-DESCRIPTION:📍 Petrovice\, Nové Město na Moravě\, Žďár nad Sázavou\n\n🚒 CAS 
- (CHS Žďár nad Sázavou)\n🚒 CAS (Nové Město na Moravě)\n🚒 TA (Nové Město na 
- Moravě)
+DESCRIPTION:📍 Petrovice\, Nové Město na Moravě\, Žďár nad Sázavou\n💬 DN 1 O
+ A. Bez zranění.\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (Nové Město na Mora
+ vě)\n🚒 TA (Nové Město na Moravě)
 END:VEVENT
 BEGIN:VEVENT
 UID:421967061
@@ -560,7 +548,31 @@ SUMMARY:🚗 bez zranění - Chotěboř
 LOCATION:Čsl. armády\, Chotěboř
 GEO:49.716546;15.673346
 URL:geo:49.716546,15.673346
-DESCRIPTION:📍 Čsl. armády\, Chotěboř\, Havlíčkův Brod\n\n🚒 CAS (HS Chotěboř
- )
+DESCRIPTION:📍 Čsl. armády\, Chotěboř\, Havlíčkův Brod\n💬 DN OA bez zranění 
+ osob. Náraz OA do dopravního značení.\n\n🚒 CAS (HS Chotěboř)
+END:VEVENT
+BEGIN:VEVENT
+UID:421970061
+DTSTART:20261106T072058Z
+DTEND:20261106T082058Z
+DTSTAMP:20261106T072058Z
+SUMMARY:☣️ neznámá látka - Světlá nad Sázavou
+LOCATION:U Stromečku\, Světlá nad Sázavou
+GEO:49.674660;15.397772
+URL:geo:49.674660,15.397772
+DESCRIPTION:📍 U Stromečku\, Světlá nad Sázavou\, Havlíčkův Brod\n💬 Měření k
+ oncentrace.\n\n🚒 CAS (HS Světlá nad Sázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:421971061
+DTSTART:20261106T072143Z
+DTEND:20261106T082143Z
+DTSTAMP:20261106T072143Z
+SUMMARY:☣️ olej/PHM - Bobrová
+LOCATION:Bobrová
+GEO:49.474423;16.115759
+URL:geo:49.474423,16.115759
+DESCRIPTION:📍 Bobrová\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒
+  CAS (Bobrová)
 END:VEVENT
 END:VCALENDAR
