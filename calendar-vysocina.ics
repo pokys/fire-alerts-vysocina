@@ -511,4 +511,16 @@ URL:geo:49.718166,15.670097
 DESCRIPTION:📍 Tyršova\, Chotěboř\, Havlíčkův Brod\n💬 Zastavení úniku vody v
   bytě.\n\n🚒 CAS (HS Chotěboř)
 END:VEVENT
+BEGIN:VEVENT
+UID:422024061
+DTSTART:20261107T150251Z
+DTEND:20261107T160251Z
+DTSTAMP:20261107T150251Z
+SUMMARY:🚑 transport pacienta - Ledeč nad Sázavou
+LOCATION:Zahradní\, Ledeč nad Sázavou
+GEO:49.698156;15.287019
+URL:geo:49.698156,15.287019
+DESCRIPTION:📍 Zahradní\, Horní Ledeč\, Ledeč nad Sázavou\, Havlíčkův Brod\n
+ \n🚒 CAS (HS Ledeč nad Sázavou)
+END:VEVENT
 END:VCALENDAR
