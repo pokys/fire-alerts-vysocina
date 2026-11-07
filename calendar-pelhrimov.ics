@@ -69,11 +69,12 @@ UID:422004061
 DTSTART:20261107T061205Z
 DTEND:20261107T071205Z
 DTSTAMP:20261107T061205Z
-SUMMARY:🚗 dopravní nehoda - Pelhřimov
+SUMMARY:🚗 bez zranění - Pelhřimov
 LOCATION:Pelhřimov
 GEO:49.443804;15.223394
 URL:geo:49.443804,15.223394
-DESCRIPTION:🚒 CAS (CHS Pelhřimov)
+DESCRIPTION:💬 DN OA bez zranění. Provedeno protipožární opatření. Úklid kom
+ unikace.\n\n🚒 CAS (CHS Pelhřimov)
 END:VEVENT
 BEGIN:VEVENT
 UID:422005061
