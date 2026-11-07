@@ -593,4 +593,16 @@ URL:geo:49.217691,15.878228
 DESCRIPTION:📍 Stinná\, Zámostí\, Třebíč\n💬 Otevření zabouchnutých dveří.\n\
  n🚒 CAS (CHS Třebíč)
 END:VEVENT
+BEGIN:VEVENT
+UID:421996061
+DTSTART:20261106T232612Z
+DTEND:20261107T002612Z
+DTSTAMP:20261106T232612Z
+SUMMARY:⚠️ planý poplach - Havlíčkův Brod
+LOCATION:Sídliště Pražská\, Havlíčkův Brod
+GEO:49.612187;15.574839
+URL:geo:49.612187,15.574839
+DESCRIPTION:📍 Sídliště Pražská\, Havlíčkův Brod\n💬 Planý poplach.\n\n🚒 CAS 
+ (CHS Havlíčkův Brod)
+END:VEVENT
 END:VCALENDAR
