@@ -411,8 +411,8 @@ SUMMARY:🚑 spolupráce ZZS - Bobrová
 LOCATION:Bobrová
 GEO:49.475835;16.112732
 URL:geo:49.475835,16.112732
-DESCRIPTION:📍 Bobrová\, Žďár nad Sázavou\n\n🚒 CAS (Bobrová)\n🚒 CAS (CHS Žďá
- r nad Sázavou)
+DESCRIPTION:📍 Bobrová\, Žďár nad Sázavou\n💬 Spolupráce s ZZS.\n\n🚒 CAS (Bob
+ rová)\n🚒 CAS (CHS Žďár nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:422032061
@@ -423,6 +423,7 @@ SUMMARY:🛠️ otevření bytu/auta - Jihlava
 LOCATION:Za Prachárnou\, Jihlava
 GEO:49.397178;15.565296
 URL:geo:49.397178,15.565296
-DESCRIPTION:📍 Za Prachárnou\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+DESCRIPTION:📍 Za Prachárnou\, Jihlava\n💬 Otevření bytu.\n\n🚒 CAS (CHS Jihla
+ va)
 END:VEVENT
 END:VCALENDAR
