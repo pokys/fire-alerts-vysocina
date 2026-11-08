@@ -431,11 +431,12 @@ UID:422036061
 DTSTART:20261108T043423Z
 DTEND:20261108T053423Z
 DTSTAMP:20261108T043423Z
-SUMMARY:🔥 kůlna/přístřešek - Česká Bělá
+SUMMARY:🔥 venkovní požár - Česká Bělá
 LOCATION:Česká Bělá
 GEO:49.641545;15.688732
 URL:geo:49.641545,15.688732
-DESCRIPTION:📍 Česká Bělá\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 
- CAS (HS Chotěboř)\n🚒 CAS (Česká Bělá)\n🚒 CAS (Přibyslav)
+DESCRIPTION:📍 Česká Bělá\, Havlíčkův Brod\n💬 Požár odpadu. Beze škody.\n\n🚒
+  CAS (CHS Havlíčkův Brod)\n🚒 CAS (HS Chotěboř)\n🚒 CAS (Česká Bělá)\n🚒 CAS 
+ (Přibyslav)
 END:VEVENT
 END:VCALENDAR
