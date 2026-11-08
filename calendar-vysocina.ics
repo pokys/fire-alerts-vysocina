@@ -355,4 +355,15 @@ DESCRIPTION:📍 Česká Bělá\, Havlíčkův Brod\n💬 Požár odpadu. Beze �
  izace a likvidace požáru.\n\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 CAS (HS Chotěbo
  ř)\n🚒 CAS (Česká Bělá)\n🚒 CAS (Přibyslav)
 END:VEVENT
+BEGIN:VEVENT
+UID:422039061
+DTSTART:20261108T082052Z
+DTEND:20261108T092052Z
+DTSTAMP:20261108T082052Z
+SUMMARY:🔥 vozidlo - Měšín
+LOCATION:Měšín
+GEO:49.433991;15.648324
+URL:geo:49.433991,15.648324
+DESCRIPTION:📍 Měšín\, Jihlava\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihlava)
+END:VEVENT
 END:VCALENDAR
