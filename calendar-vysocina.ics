@@ -379,4 +379,15 @@ URL:geo:49.288693,16.226504
 DESCRIPTION:📍 Masarykovo náměstí\, Velká Bíteš\, Žďár nad Sázavou\n💬 Otevře
  ní bytu.\n\n🚒 CAS (HS Velká Bíteš)
 END:VEVENT
+BEGIN:VEVENT
+UID:422045061
+DTSTART:20261108T124137Z
+DTEND:20261108T134137Z
+DTSTAMP:20261108T124137Z
+SUMMARY:🛠️ otevření bytu/auta - Havlíčkův Brod
+LOCATION:Humpolecká\, Havlíčkův Brod
+GEO:49.603180;15.569212
+URL:geo:49.603180,15.569212
+DESCRIPTION:📍 Humpolecká\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)
+END:VEVENT
 END:VCALENDAR
