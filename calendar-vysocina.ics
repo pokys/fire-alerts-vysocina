@@ -423,8 +423,9 @@ SUMMARY:🚗 bez zranění - Sejřek
 LOCATION:Sejřek
 GEO:49.439884;16.316278
 URL:geo:49.439884,16.316278
-DESCRIPTION:📍 Sejřek\, Žďár nad Sázavou\n💬 DN 1 OA. Vyproštění vozidla\,\n\
- n🚒 CAS (HS Bystřice nad Pernštejnem)
+DESCRIPTION:📍 Sejřek\, Žďár nad Sázavou\n💬 DN 1 OA. Vyproštění vozidla\, za
+ jištění místa nehody.\n\n🚒 CAS (HS Bystřice nad Pernštejnem)\n🚒 pila řetěz
+ ová (HS Bystřice nad Pernštejnem)
 END:VEVENT
 BEGIN:VEVENT
 UID:422036061
@@ -435,8 +436,8 @@ SUMMARY:🔥 venkovní požár - Česká Bělá
 LOCATION:Česká Bělá
 GEO:49.641545;15.688732
 URL:geo:49.641545,15.688732
-DESCRIPTION:📍 Česká Bělá\, Havlíčkův Brod\n💬 Požár odpadu. Beze škody.\n\n🚒
-  CAS (CHS Havlíčkův Brod)\n🚒 CAS (HS Chotěboř)\n🚒 CAS (Česká Bělá)\n🚒 CAS 
- (Přibyslav)
+DESCRIPTION:📍 Česká Bělá\, Havlíčkův Brod\n💬 Požár odpadu. Beze škody.Lokal
+ izace a likvidace požáru.\n\n🚒 CAS (CHS Havlíčkův Brod)\n🚒 CAS (HS Chotěbo
+ ř)\n🚒 CAS (Česká Bělá)\n🚒 CAS (Přibyslav)
 END:VEVENT
 END:VCALENDAR
