@@ -376,6 +376,19 @@ SUMMARY:🛠️ otevření bytu/auta - Havlíčkův Brod
 LOCATION:Humpolecká\, Havlíčkův Brod
 GEO:49.603180;15.569212
 URL:geo:49.603180,15.569212
-DESCRIPTION:📍 Humpolecká\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)
+DESCRIPTION:📍 Humpolecká\, Havlíčkův Brod\n💬 Otevření bytu.\n\n🚒 CAS (CHS H
+ avlíčkův Brod)
+END:VEVENT
+BEGIN:VEVENT
+UID:422047061
+DTSTART:20261108T132302Z
+DTEND:20261108T142302Z
+DTSTAMP:20261108T132302Z
+SUMMARY:🛠️ otevření bytu/auta - Velké Meziříčí
+LOCATION:U Světlé\, Velké Meziříčí
+GEO:49.356811;16.007357
+URL:geo:49.356811,16.007357
+DESCRIPTION:📍 U Světlé\, Velké Meziříčí\, Žďár nad Sázavou\n\n🚒 RZA (HS Vel
+ ké Meziříčí)
 END:VEVENT
 END:VCALENDAR
