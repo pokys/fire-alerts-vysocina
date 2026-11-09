@@ -339,16 +339,4 @@ URL:geo:49.397360,15.604597
 DESCRIPTION:📍 Brněnská\, Jihlava\n💬 Likvidace úniku oleje z OA.\n\n🚒 CAS (C
  HS Jihlava)
 END:VEVENT
-BEGIN:VEVENT
-UID:422071061
-DTSTART:20261109T083115Z
-DTEND:20261109T093115Z
-DTSTAMP:20261109T083115Z
-SUMMARY:🔥 budova - Rokytnice nad Rokytnou
-LOCATION:Rokytnice nad Rokytnou
-GEO:49.184318;15.772624
-URL:geo:49.184318,15.772624
-DESCRIPTION:📍 Rokytnice nad Rokytnou\, Třebíč\n\n🚒 CAS (Rokytnice nad Rokyt
- nou)
-END:VEVENT
 END:VCALENDAR
