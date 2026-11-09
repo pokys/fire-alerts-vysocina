@@ -364,4 +364,16 @@ DESCRIPTION:📍 Tyršova\, Přibyslav\, Havlíčkův Brod\n💬 DN OA a chodec.
   zraněná osoba. Zajištění místa nehody.\n\n🚒 CAS (HS Polná)\n🚒 CAS (Přibys
  lav)
 END:VEVENT
+BEGIN:VEVENT
+UID:422062061
+DTSTART:20261109T063610Z
+DTEND:20261109T073610Z
+DTSTAMP:20261109T063610Z
+SUMMARY:🛠️ ostatní - Třebíč
+LOCATION:Václavské nám.\, Třebíč
+GEO:49.206584;15.880144
+URL:geo:49.206584,15.880144
+DESCRIPTION:📍 Václavské nám.\, Horka-Domky\, Třebíč\n💬 Pomoc s imobilní oso
+ bou\, bez zranění.\n\n🚒 CAS (CHS Třebíč)
+END:VEVENT
 END:VCALENDAR
