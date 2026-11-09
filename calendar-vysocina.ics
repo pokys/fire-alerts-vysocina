@@ -392,4 +392,16 @@ URL:geo:49.533934,15.039212
 DESCRIPTION:📍 Útěchovice pod Stražištěm\, Pelhřimov\n💬 Vytažení sjetého OA 
  do příkopu\, bez zranění.\n\n🚒 CAS (HS Pacov)
 END:VEVENT
+BEGIN:VEVENT
+UID:422103061
+DTSTART:20261109T170943Z
+DTEND:20261109T180943Z
+DTSTAMP:20261109T170943Z
+SUMMARY:🚗 bez zranění - Hamry nad Sázavou
+LOCATION:Hamry nad Sázavou
+GEO:49.564092;15.917876
+URL:geo:49.564092,15.917876
+DESCRIPTION:📍 Hamry nad Sázavou\, Žďár nad Sázavou\n💬 DN OA. Bez zranění.\n
+ \n🚒 CAS (CHS Žďár nad Sázavou)
+END:VEVENT
 END:VCALENDAR
