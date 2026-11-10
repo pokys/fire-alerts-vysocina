@@ -319,4 +319,17 @@ DESCRIPTION:📍 Jaroměřice nad Rokytnou\, Třebíč\n💬 DN OA mimo komunika
  e zraněním jedné osoby. Zajištění místa nehody.\n\n🚒 CAS (HS Moravské Budě
  jovice)
 END:VEVENT
+BEGIN:VEVENT
+UID:422140061
+DTSTART:20261110T134957Z
+DTEND:20261110T144957Z
+DTSTAMP:20261110T134957Z
+SUMMARY:🚗 dopravní nehoda - Žďár nad Sázavou
+LOCATION:Žďár nad Sázavou
+GEO:49.568053;15.942760
+URL:geo:49.568053,15.942760
+DESCRIPTION:📍 Žďár nad Sázavou 5\, Žďár nad Sázavou\n💬 DN 2 OA. Jedna zraně
+ ná osoba. Zajištění místa nehody. Protipožární opatření. Úklid vozovky.\n\
+ n🚒 CAS (CHS Žďár nad Sázavou)
+END:VEVENT
 END:VCALENDAR
