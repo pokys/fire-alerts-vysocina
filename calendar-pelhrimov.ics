@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Pelhřimov
 BEGIN:VEVENT
-UID:422049061
-DTSTART:20261108T152047Z
-DTEND:20261108T162047Z
-DTSTAMP:20261108T152047Z
-SUMMARY:🔥 venkovní požár - Humpolec
-LOCATION:5. května\, Humpolec
-GEO:49.538188;15.369483
-URL:geo:49.538188,15.369483
-DESCRIPTION:📍 5. května\, Humpolec\, Pelhřimov\n💬 Požár plastové folie. Bez
- e škody.\n\n🚒 CAS (HS Humpolec)
-END:VEVENT
-BEGIN:VEVENT
 UID:422054061
 DTSTART:20261108T191430Z
 DTEND:20261108T201430Z
@@ -66,7 +54,7 @@ SUMMARY:🛠️ ostatní - Nová Cerekev
 LOCATION:Nová Cerekev
 GEO:49.407519;15.127086
 URL:geo:49.407519,15.127086
-DESCRIPTION:📍 Proseč-Obořiště\, Nová Cerekev\, Pelhřimov\n\n🚒 CAS (CHS Pelh
- řimov)
+DESCRIPTION:📍 Proseč-Obořiště\, Nová Cerekev\, Pelhřimov\n💬 Odstranění nebe
+ zpečných stavů.\n\n🚒 CAS (CHS Pelhřimov)
 END:VEVENT
 END:VCALENDAR
