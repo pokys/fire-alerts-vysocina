@@ -352,4 +352,18 @@ URL:geo:49.555096,15.941793
 DESCRIPTION:📍 Haškova\, Žďár nad Sázavou 6\, Žďár nad Sázavou\n💬 Otevření b
  ytu.\n\n🚒 CAS (CHS Žďár nad Sázavou)
 END:VEVENT
+BEGIN:VEVENT
+UID:422136061
+DTSTART:20261110T110035Z
+DTEND:20261110T120035Z
+DTSTAMP:20261110T110035Z
+SUMMARY:🔥 technologie - Chotěboř
+LOCATION:Herrmannova\, Chotěboř
+GEO:49.713126;15.677907
+URL:geo:49.713126,15.677907
+DESCRIPTION:📍 Herrmannova\, Chotěboř\, Havlíčkův Brod\n💬 Taktické cvičení.\
+ n\n🚒 CAS (HS Chotěboř)\n🚒 automobilová plošina do 30 m (HS Chotěboř)\n🚒 CA
+ S (Chotěboř)\n🚒 DA (Libice nad Doubravou)\n🚒 CAS (Libice nad Doubravou)\n🚒
+  CAS (Ždírec nad Doubravou)
+END:VEVENT
 END:VCALENDAR
