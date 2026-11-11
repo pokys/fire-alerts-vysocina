@@ -331,7 +331,9 @@ SUMMARY:🛠️ ostatní - Jihlava
 LOCATION:Jihlava
 GEO:49.403092;15.566980
 URL:geo:49.403092,15.566980
-DESCRIPTION:🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS Jihlava)
+DESCRIPTION:💬 Ohlášen požár OA v motorovém prostoru\, průzkumem zjištěno\, 
+ že se jedná o technickou závadu na vozidle.\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA 
+ (CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:422184061
@@ -354,9 +356,9 @@ SUMMARY:🚗 dopravní nehoda - Velké Meziříčí
 LOCATION:Velké Meziříčí
 GEO:49.351948;16.034579
 URL:geo:49.351948,16.034579
-DESCRIPTION:📍 Velké Meziříčí\, Žďár nad Sázavou\n💬 DN 3 OA\, se zraněním a 
- únikem PHM\, zajištění místa nehody\, provedeno protipožární opatření.\n\n
- 🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)
+DESCRIPTION:📍 Velké Meziříčí\, Žďár nad Sázavou\n💬 DN 3 x OA\, jedna zraněn
+ á osoba.  Únik provozních kapalin zlikvidován pomocí sorbentu. Zajištění m
+ ísta nehody.\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)
 END:VEVENT
 BEGIN:VEVENT
 UID:422188061
@@ -367,7 +369,8 @@ SUMMARY:🛠️ otevření bytu/auta - Batelov
 LOCATION:náměstí Míru\, Batelov
 GEO:49.315697;15.394130
 URL:geo:49.315697,15.394130
-DESCRIPTION:📍 náměstí Míru\, Batelov\, Jihlava\n\n🚒 CAS (HS Třešť)
+DESCRIPTION:📍 náměstí Míru\, Batelov\, Jihlava\n💬 Otevření OA.\n\n🚒 CAS (HS
+  Třešť)
 END:VEVENT
 BEGIN:VEVENT
 UID:422192061
@@ -378,8 +381,9 @@ SUMMARY:🔥 vozidlo - Meziříčko
 LOCATION:Meziříčko
 GEO:49.406903;15.811359
 URL:geo:49.406903,15.811359
-DESCRIPTION:📍 Meziříčko\, Žďár nad Sázavou\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (C
- HS Jihlava)\n🚒 vyšetřovací automobil (ÚO Žďár nad Sázavou)
+DESCRIPTION:📍 Meziříčko\, Žďár nad Sázavou\n💬 Požár OA po dopravní nehodě\,
+  bez zranění. Zajištění místa události.\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS
+  Jihlava)\n🚒 vyšetřovací automobil (ÚO Žďár nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:422195061
