@@ -51,7 +51,7 @@ LOCATION:U Světlé\, Velké Meziříčí
 GEO:49.356812;16.007371
 URL:geo:49.356812,16.007371
 DESCRIPTION:📍 U Světlé\, Velké Meziříčí\, Žďár nad Sázavou\n💬 Otevření bytu
- .
+ .\n\n🚒 RZA (HS Velké Meziříčí)
 END:VEVENT
 BEGIN:VEVENT
 UID:422081061
@@ -256,7 +256,11 @@ SUMMARY:🔥 les - Ledeč nad Sázavou
 LOCATION:Ledeč nad Sázavou
 GEO:49.682405;15.301347
 URL:geo:49.682405,15.301347
-DESCRIPTION:📍 Ledeč nad Sázavou\, Havlíčkův Brod\n💬 Taktické cvičení.
+DESCRIPTION:📍 Ledeč nad Sázavou\, Havlíčkův Brod\n💬 Taktické cvičení.\n\n🚒 
+ CAS (HS Ledeč nad Sázavou)\n🚒 DA (Číhošť)\n🚒 DA (Kozlov (HB))\n🚒 přÍvěs pr
+ o hašení (Kozlov (HB))\n🚒 DA (Ledeč nad Sázavou)\n🚒 přÍvěs pro hašení (Led
+ eč nad Sázavou)\n🚒 DA (Pavlov (HB))\n🚒 vozidlo účelové - SxS (Pavlov (HB))
+ \n🚒 přÍvěs pro hašení (Pavlov (HB))
 END:VEVENT
 BEGIN:VEVENT
 UID:422142061
