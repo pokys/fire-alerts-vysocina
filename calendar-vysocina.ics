@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:422102061
-DTSTART:20261109T150324Z
-DTEND:20261109T160324Z
-DTSTAMP:20261109T150324Z
-SUMMARY:🚗 bez zranění - Útěchovice pod Stražištěm
-LOCATION:Útěchovice pod Stražištěm
-GEO:49.533934;15.039212
-URL:geo:49.533934,15.039212
-DESCRIPTION:📍 Útěchovice pod Stražištěm\, Pelhřimov\n💬 Vytažení sjetého OA 
- do příkopu\, bez zranění.\n\n🚒 CAS (HS Pacov)
-END:VEVENT
-BEGIN:VEVENT
 UID:422103061
 DTSTART:20261109T170943Z
 DTEND:20261109T180943Z
@@ -381,5 +369,16 @@ URL:geo:49.351948,16.034579
 DESCRIPTION:📍 Velké Meziříčí\, Žďár nad Sázavou\n💬 DN 3 OA\, se zraněním a 
  únikem PHM\, zajištění místa nehody\, provedeno protipožární opatření.\n\n
  🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)
+END:VEVENT
+BEGIN:VEVENT
+UID:422188061
+DTSTART:20261111T150709Z
+DTEND:20261111T160709Z
+DTSTAMP:20261111T150709Z
+SUMMARY:🛠️ otevření bytu/auta - Batelov
+LOCATION:náměstí Míru\, Batelov
+GEO:49.315697;15.394130
+URL:geo:49.315697,15.394130
+DESCRIPTION:📍 náměstí Míru\, Batelov\, Jihlava\n\n🚒 CAS (HS Třešť)
 END:VEVENT
 END:VCALENDAR
