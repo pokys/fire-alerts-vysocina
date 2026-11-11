@@ -362,7 +362,8 @@ LOCATION:Radešínská Svratka
 GEO:49.515979;16.082176
 URL:geo:49.515979,16.082176
 DESCRIPTION:📍 Radešínská Svratka\, Žďár nad Sázavou\n💬 Odstranění stromu.\n
- \n🚒 automobilová plošina nad 30 m (CHS Žďár nad Sázavou)
+ \n🚒 automobilová plošina nad 30 m (CHS Žďár nad Sázavou)\n🚒 pila řetězová 
+ (CHS Žďár nad Sázavou) ×2
 END:VEVENT
 BEGIN:VEVENT
 UID:422164061
@@ -420,7 +421,7 @@ SUMMARY:🚑 transport pacienta - Velké Meziříčí
 LOCATION:Bezděkov\, Velké Meziříčí
 GEO:49.353523;16.018668
 URL:geo:49.353523,16.018668
-DESCRIPTION:📍 Bezděkov\, Velké Meziříčí\, Žďár nad Sázavou\n\n🚒 CAS (HS Vel
- ké Meziříčí)
+DESCRIPTION:📍 Bezděkov\, Velké Meziříčí\, Žďár nad Sázavou\n💬 Transport pac
+ ienta na žádost ZZS.\n\n🚒 CAS (HS Velké Meziříčí)
 END:VEVENT
 END:VCALENDAR
