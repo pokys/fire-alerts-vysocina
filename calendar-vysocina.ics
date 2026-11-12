@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:422140061
-DTSTART:20261110T134957Z
-DTEND:20261110T144957Z
-DTSTAMP:20261110T134957Z
-SUMMARY:🚗 dopravní nehoda - Žďár nad Sázavou
-LOCATION:Žďár nad Sázavou
-GEO:49.567397;15.942113
-URL:geo:49.567397,15.942113
-DESCRIPTION:📍 Žďár nad Sázavou 5\, Žďár nad Sázavou\n💬 DN 2 OA. Jedna zraně
- ná osoba. Zajištění místa nehody. Protipožární opatření. Úklid vozovky.\n\
- n🚒 CAS (CHS Žďár nad Sázavou)
-END:VEVENT
-BEGIN:VEVENT
 UID:422141061
 DTSTART:20261110T140619Z
 DTEND:20261110T150619Z
@@ -581,7 +568,7 @@ SUMMARY:🚑 spolupráce ZZS - Žirovnice
 LOCATION:Tyršova\, Žirovnice
 GEO:49.253717;15.190321
 URL:geo:49.253717,15.190321
-DESCRIPTION:📍 Tyršova\, Žirovnice\, Pelhřimov\n\n🚒 CAS (HS Kamenice nad Lip
- ou)\n🚒 DA (Žirovnice)\n🚒 CAS (Žirovnice)
+DESCRIPTION:📍 Tyršova\, Žirovnice\, Pelhřimov\n💬 AED\, asistence ZZS.\n\n🚒 
+ CAS (HS Kamenice nad Lipou)\n🚒 DA (Žirovnice)\n🚒 CAS (Žirovnice)
 END:VEVENT
 END:VCALENDAR
