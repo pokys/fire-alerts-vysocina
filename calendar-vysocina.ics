@@ -456,4 +456,16 @@ URL:geo:49.272267,16.228821
 DESCRIPTION:📍 Košíkov\, Velká Bíteš\, Žďár nad Sázavou\n💬 Otevření nákladní
  ho automobilu.\n\n🚒 CAS (HS Velká Bíteš)
 END:VEVENT
+BEGIN:VEVENT
+UID:422206061
+DTSTART:20261112T023243Z
+DTEND:20261112T033243Z
+DTSTAMP:20261112T023243Z
+SUMMARY:🛠️ ostatní - Žďár nad Sázavou
+LOCATION:Komenského\, Žďár nad Sázavou
+GEO:49.566700;15.933914
+URL:geo:49.566700,15.933914
+DESCRIPTION:📍 Komenského\, Žďár nad Sázavou 3\, Žďár nad Sázavou\n💬 Pomoc i
+ mobilní osobě.\n\n🚒 CAS (CHS Žďár nad Sázavou)
+END:VEVENT
 END:VCALENDAR
