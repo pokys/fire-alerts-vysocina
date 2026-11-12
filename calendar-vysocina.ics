@@ -5,21 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:422141061
-DTSTART:20261110T140619Z
-DTEND:20261110T150619Z
-DTSTAMP:20261110T140619Z
-SUMMARY:🔥 les - Ledeč nad Sázavou
-LOCATION:Ledeč nad Sázavou
-GEO:49.682405;15.301347
-URL:geo:49.682405,15.301347
-DESCRIPTION:📍 Ledeč nad Sázavou\, Havlíčkův Brod\n💬 Taktické cvičení.\n\n🚒 
- CAS (HS Ledeč nad Sázavou)\n🚒 DA (Číhošť)\n🚒 DA (Kozlov (HB))\n🚒 přÍvěs pr
- o hašení (Kozlov (HB))\n🚒 DA (Ledeč nad Sázavou)\n🚒 přÍvěs pro hašení (Led
- eč nad Sázavou)\n🚒 DA (Pavlov (HB))\n🚒 vozidlo účelové - SxS (Pavlov (HB))
- \n🚒 přÍvěs pro hašení (Pavlov (HB))
-END:VEVENT
-BEGIN:VEVENT
 UID:422142061
 DTSTART:20261110T144432Z
 DTEND:20261110T154432Z
@@ -556,8 +541,9 @@ SUMMARY:🛠️ ostatní - Světlá nad Sázavou
 LOCATION:Světlá nad Sázavou
 GEO:49.670912;15.391524
 URL:geo:49.670912,15.391524
-DESCRIPTION:📍 Světlá nad Sázavou\, Havlíčkův Brod\n\n🚒 CAS (HS Světlá nad S
- ázavou)\n🚒 automobilová plošina do 30 m (HS Světlá nad Sázavou)
+DESCRIPTION:📍 Světlá nad Sázavou\, Havlíčkův Brod\n💬 Odstranění nebezpečnýc
+ h stavů.\n\n🚒 CAS (HS Světlá nad Sázavou)\n🚒 automobilová plošina do 30 m 
+ (HS Světlá nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:422244061
