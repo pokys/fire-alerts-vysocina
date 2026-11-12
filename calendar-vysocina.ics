@@ -559,6 +559,30 @@ SUMMARY:🚗 dopravní nehoda - Ždírec
 LOCATION:Ždírec
 GEO:49.456718;15.654429
 URL:geo:49.456718,15.654429
-DESCRIPTION:📍 Ždírec\, Jihlava\n\n🚒 RZA (CHS Jihlava)\n🚒 CAS (HS Polná)
+DESCRIPTION:📍 Ždírec\, Jihlava\n💬 DN 1 OA se zraněním.\n\n🚒 RZA (CHS Jihlav
+ a)\n🚒 CAS (HS Polná)
+END:VEVENT
+BEGIN:VEVENT
+UID:422241061
+DTSTART:20261112T110236Z
+DTEND:20261112T120236Z
+DTSTAMP:20261112T110236Z
+SUMMARY:🚑 otevření/asistence - Jihlava
+LOCATION:Fibichova\, Jihlava
+GEO:49.392961;15.587083
+URL:geo:49.392961,15.587083
+DESCRIPTION:📍 Fibichova\, Jihlava\n💬 Otevření bytu.\n\n🚒 CAS (CHS Jihlava)
+END:VEVENT
+BEGIN:VEVENT
+UID:422242061
+DTSTART:20261112T110528Z
+DTEND:20261112T120528Z
+DTSTAMP:20261112T110528Z
+SUMMARY:🛠️ ostatní - Světlá nad Sázavou
+LOCATION:Světlá nad Sázavou
+GEO:49.670912;15.391524
+URL:geo:49.670912,15.391524
+DESCRIPTION:📍 Světlá nad Sázavou\, Havlíčkův Brod\n\n🚒 CAS (HS Světlá nad S
+ ázavou)\n🚒 automobilová plošina do 30 m (HS Světlá nad Sázavou)
 END:VEVENT
 END:VCALENDAR
