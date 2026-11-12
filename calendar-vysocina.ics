@@ -557,4 +557,16 @@ URL:geo:49.253717,15.190321
 DESCRIPTION:📍 Tyršova\, Žirovnice\, Pelhřimov\n💬 AED\, asistence ZZS.\n\n🚒 
  CAS (HS Kamenice nad Lipou)\n🚒 DA (Žirovnice)\n🚒 CAS (Žirovnice)
 END:VEVENT
+BEGIN:VEVENT
+UID:422246061
+DTSTART:20261112T141448Z
+DTEND:20261112T151448Z
+DTSTAMP:20261112T141448Z
+SUMMARY:🚗 dopravní nehoda - Libice nad Doubravou
+LOCATION:Luční\, Libice nad Doubravou
+GEO:49.739888;15.717618
+URL:geo:49.739888,15.717618
+DESCRIPTION:📍 Luční\, Libice nad Doubravou\, Havlíčkův Brod\n\n🚒 CAS (HS Ch
+ otěboř)
+END:VEVENT
 END:VCALENDAR
