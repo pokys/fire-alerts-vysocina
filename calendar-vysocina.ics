@@ -512,7 +512,8 @@ SUMMARY:🛠️ ostatní - Polnička
 LOCATION:Polnička
 GEO:49.607495;15.916334
 URL:geo:49.607495,15.916334
-DESCRIPTION:📍 Polnička\, Žďár nad Sázavou\n\n🚒 CAS (Polnička)
+DESCRIPTION:📍 Polnička\, Žďár nad Sázavou\n💬 Čištění kanalizace.\n\n🚒 CAS (
+ Polnička)
 END:VEVENT
 BEGIN:VEVENT
 UID:422218061
@@ -560,6 +561,7 @@ SUMMARY:🚑 otevření/asistence - Třebíč
 LOCATION:Koutkova\, Třebíč
 GEO:49.226693;15.872847
 URL:geo:49.226693,15.872847
-DESCRIPTION:📍 Koutkova\, Týn\, Třebíč\n\n🚒 CAS (CHS Třebíč)
+DESCRIPTION:📍 Koutkova\, Týn\, Třebíč\n💬 Otevření bytu.\n\n🚒 CAS (CHS Třebí
+ č)
 END:VEVENT
 END:VCALENDAR
