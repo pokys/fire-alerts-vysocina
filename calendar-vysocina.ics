@@ -557,4 +557,16 @@ URL:geo:49.622576,15.679312
 DESCRIPTION:📍 Krátká Ves\, Havlíčkův Brod\n💬 Odstranění stromu.\n\n🚒 CAS (C
  HS Havlíčkův Brod)
 END:VEVENT
+BEGIN:VEVENT
+UID:422258061
+DTSTART:20261113T034446Z
+DTEND:20261113T044446Z
+DTSTAMP:20261113T034446Z
+SUMMARY:🛠️ strom - Sázava
+LOCATION:Sázava
+GEO:49.551964;15.881613
+URL:geo:49.551964,15.881613
+DESCRIPTION:📍 Česká Mez\, Sázava\, Žďár nad Sázavou\n💬 Odstranění stromu.\n
+ \n🚒 CAS (CHS Žďár nad Sázavou)
+END:VEVENT
 END:VCALENDAR
