@@ -500,6 +500,42 @@ SUMMARY:🚑 otevření/asistence - Škrdlovice
 LOCATION:Škrdlovice
 GEO:49.635848;15.924368
 URL:geo:49.635848,15.924368
-DESCRIPTION:📍 Škrdlovice\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad Sázavou)
+DESCRIPTION:📍 Škrdlovice\, Žďár nad Sázavou\n💬 Otevření bytu.\n\n🚒 CAS (CHS
+  Žďár nad Sázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:422289061
+DTSTART:20261113T121426Z
+DTEND:20261113T131426Z
+DTSTAMP:20261113T121426Z
+SUMMARY:🛠️ otevření bytu/auta - Velké Meziříčí
+LOCATION:Novosady\, Velké Meziříčí
+GEO:49.355084;16.015023
+URL:geo:49.355084,16.015023
+DESCRIPTION:📍 Novosady\, Velké Meziříčí\, Žďár nad Sázavou\n💬 Otevření bytu
+ .\n\n🚒 RZA (HS Velké Meziříčí)
+END:VEVENT
+BEGIN:VEVENT
+UID:422290061
+DTSTART:20261113T121709Z
+DTEND:20261113T131709Z
+DTSTAMP:20261113T121709Z
+SUMMARY:🛠️ ostatní - Moravské Budějovice
+LOCATION:St. Slavíka\, Moravské Budějovice
+GEO:49.046587;15.819832
+URL:geo:49.046587,15.819832
+DESCRIPTION:📍 St. Slavíka\, Moravské Budějovice\, Třebíč\n💬 Pročištění kana
+ lizace.\n\n🚒 CAS (Moravské Budějovice)
+END:VEVENT
+BEGIN:VEVENT
+UID:422291061
+DTSTART:20261113T122650Z
+DTEND:20261113T132650Z
+DTSTAMP:20261113T122650Z
+SUMMARY:🚑 otevření/asistence - Jemnice
+LOCATION:Želetavská\, Jemnice
+GEO:49.026138;15.565825
+URL:geo:49.026138,15.565825
+DESCRIPTION:📍 Želetavská\, Jemnice\, Třebíč\n\n🚒 CAS (HS Jemnice)
 END:VEVENT
 END:VCALENDAR
