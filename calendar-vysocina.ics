@@ -536,6 +536,19 @@ SUMMARY:🚑 otevření/asistence - Jemnice
 LOCATION:Želetavská\, Jemnice
 GEO:49.026138;15.565825
 URL:geo:49.026138,15.565825
-DESCRIPTION:📍 Želetavská\, Jemnice\, Třebíč\n\n🚒 CAS (HS Jemnice)
+DESCRIPTION:📍 Želetavská\, Jemnice\, Třebíč\n💬 Otevření dveří uvnitř bytu.\
+ n\n🚒 CAS (HS Jemnice)
+END:VEVENT
+BEGIN:VEVENT
+UID:422292061
+DTSTART:20261113T124105Z
+DTEND:20261113T134105Z
+DTSTAMP:20261113T124105Z
+SUMMARY:☣️ olej/PHM - Moravské Budějovice
+LOCATION:Moravské Budějovice
+GEO:49.052725;15.809244
+URL:geo:49.052725,15.809244
+DESCRIPTION:📍 Moravské Budějovice\, Třebíč\n\n🚒 CAS (HS Moravské Budějovice
+ )
 END:VEVENT
 END:VCALENDAR
