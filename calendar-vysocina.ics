@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:422154061
-DTSTART:20261111T041300Z
-DTEND:20261111T051300Z
-DTSTAMP:20261111T041300Z
-SUMMARY:🔥 saze v komíně - Kámen
-LOCATION:Kámen
-GEO:49.424541;15.011913
-URL:geo:49.424541,15.011913
-DESCRIPTION:📍 Kámen\, Pelhřimov\n💬 Požár sazí v komíně.\n\n🚒 CAS (HS Pacov)
- \n🚒 CAS (HS Pacov)\n🚒 CAS (Pacov)\n🚒 osobní automobil (Pacov)\n🚒 CAS (Obra
- taň)\n🚒 přívěs motorová stříkačka (Kámen (PE))
-END:VEVENT
-BEGIN:VEVENT
 UID:422155061
 DTSTART:20261111T043502Z
 DTEND:20261111T053502Z
@@ -562,11 +549,12 @@ UID:422258061
 DTSTART:20261113T034446Z
 DTEND:20261113T044446Z
 DTSTAMP:20261113T034446Z
-SUMMARY:🛠️ strom - Sázava
+SUMMARY:🚗 úklid místa - Sázava
 LOCATION:Sázava
 GEO:49.551964;15.881613
 URL:geo:49.551964,15.881613
-DESCRIPTION:📍 Česká Mez\, Sázava\, Žďár nad Sázavou\n💬 Odstranění stromu.\n
- \n🚒 CAS (CHS Žďár nad Sázavou)
+DESCRIPTION:📍 Česká Mez\, Sázava\, Žďár nad Sázavou\n💬 Náraz OA do stromu. 
+ Bez zranění. Jednotka provedla odstranění stromu a úklid vozovky.\n\n🚒 CAS
+  (CHS Žďár nad Sázavou)
 END:VEVENT
 END:VCALENDAR
