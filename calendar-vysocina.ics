@@ -544,4 +544,28 @@ DESCRIPTION:📍 Česká Mez\, Sázava\, Žďár nad Sázavou\n💬 Náraz OA do
  Bez zranění. Jednotka provedla odstranění stromu a úklid vozovky.\n\n🚒 CAS
   (CHS Žďár nad Sázavou)
 END:VEVENT
+BEGIN:VEVENT
+UID:422260061
+DTSTART:20261113T043602Z
+DTEND:20261113T053602Z
+DTSTAMP:20261113T043602Z
+SUMMARY:🛠️ strom - Štěpánov nad Svratkou
+LOCATION:Štěpánov nad Svratkou
+GEO:49.499607;16.367201
+URL:geo:49.499607,16.367201
+DESCRIPTION:📍 Štěpánov nad Svratkou\, Žďár nad Sázavou\n💬 Odstranění stromu
+ .\n\n🚒 CAS (Štěpánov nad Svratkou)
+END:VEVENT
+BEGIN:VEVENT
+UID:422261061
+DTSTART:20261113T044559Z
+DTEND:20261113T054559Z
+DTSTAMP:20261113T044559Z
+SUMMARY:🔥 Žďár nad Sázavou
+LOCATION:Brněnská\, Žďár nad Sázavou
+GEO:49.554911;15.955534
+URL:geo:49.554911,15.955534
+DESCRIPTION:📍 Brněnská\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n\n🚒 CAS (CH
+ S Žďár nad Sázavou) ×2\n🚒 vyšetřovací automobil (ÚO Žďár nad Sázavou)
+END:VEVENT
 END:VCALENDAR
