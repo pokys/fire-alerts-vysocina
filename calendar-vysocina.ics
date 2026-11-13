@@ -538,4 +538,27 @@ URL:geo:49.052725,15.809244
 DESCRIPTION:📍 Moravské Budějovice\, Třebíč\n💬 Likvidace úniku brzdové kapal
  iny pomocí sorbentu.\n\n🚒 CAS (HS Moravské Budějovice)
 END:VEVENT
+BEGIN:VEVENT
+UID:422293061
+DTSTART:20261113T142736Z
+DTEND:20261113T152736Z
+DTSTAMP:20261113T142736Z
+SUMMARY:🛠️ ostatní - Brtnice
+LOCATION:Brtnice
+GEO:49.342637;15.644475
+URL:geo:49.342637,15.644475
+DESCRIPTION:📍 Příseka\, Brtnice\, Jihlava\n\n🚒 CAS (Brtnice)
+END:VEVENT
+BEGIN:VEVENT
+UID:422294061
+DTSTART:20261113T144218Z
+DTEND:20261113T154218Z
+DTSTAMP:20261113T144218Z
+SUMMARY:🛠️ otevření bytu/auta - Náměšť nad Oslavou
+LOCATION:Vícenický žleb\, Náměšť nad Oslavou
+GEO:49.201954;16.147283
+URL:geo:49.201954,16.147283
+DESCRIPTION:📍 Vícenický žleb\, Náměšť nad Oslavou\, Třebíč\n\n🚒 CAS (HS Nám
+ ěšť nad Oslavou)
+END:VEVENT
 END:VCALENDAR
