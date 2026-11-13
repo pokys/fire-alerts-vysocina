@@ -503,4 +503,15 @@ URL:geo:49.105799,16.054003
 DESCRIPTION:📍 Manž. Orlových\, Hrotovice\, Třebíč\n💬 Likvidace olejové skvr
  ny pomocí sorbentu.\n\n🚒 CAS (HS Hrotovice)
 END:VEVENT
+BEGIN:VEVENT
+UID:422286061
+DTSTART:20261113T113550Z
+DTEND:20261113T123550Z
+DTSTAMP:20261113T113550Z
+SUMMARY:🚑 otevření/asistence - Škrdlovice
+LOCATION:Škrdlovice
+GEO:49.635848;15.924368
+URL:geo:49.635848,15.924368
+DESCRIPTION:📍 Škrdlovice\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad Sázavou)
+END:VEVENT
 END:VCALENDAR
