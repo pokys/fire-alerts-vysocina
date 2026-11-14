@@ -65,4 +65,16 @@ URL:geo:49.544645,15.360836
 DESCRIPTION:📍 Hornická\, Humpolec\, Pelhřimov\n💬 Transport pacienta na žádo
  st ZZS.\n\n🚒 CAS (HS Humpolec)
 END:VEVENT
+BEGIN:VEVENT
+UID:422334061
+DTSTART:20261114T115812Z
+DTEND:20261114T125812Z
+DTSTAMP:20261114T115812Z
+SUMMARY:🚗 dopravní nehoda - Košetice
+LOCATION:Sluneční\, Košetice
+GEO:49.562143;15.112441
+URL:geo:49.562143,15.112441
+DESCRIPTION:📍 Sluneční\, Košetice\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)\n🚒 C
+ AS (Onšov)
+END:VEVENT
 END:VCALENDAR
