@@ -438,6 +438,18 @@ SUMMARY:🛠️ ostatní - Jihlava
 LOCATION:U Pivovaru\, Jihlava
 GEO:49.395847;15.582589
 URL:geo:49.395847,15.582589
-DESCRIPTION:📍 U Pivovaru\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+DESCRIPTION:📍 U Pivovaru\, Jihlava\n💬 Tekoucí voda v bytovém domě.\n\n🚒 CAS
+  (CHS Jihlava)
+END:VEVENT
+BEGIN:VEVENT
+UID:422341061
+DTSTART:20261114T152841Z
+DTEND:20261114T162841Z
+DTSTAMP:20261114T152841Z
+SUMMARY:🛠️ otevření bytu/auta - Třebíč
+LOCATION:Modřínová\, Třebíč
+GEO:49.218257;15.902938
+URL:geo:49.218257,15.902938
+DESCRIPTION:📍 Modřínová\, Nové Město\, Třebíč\n\n🚒 CAS (CHS Třebíč)
 END:VEVENT
 END:VCALENDAR
