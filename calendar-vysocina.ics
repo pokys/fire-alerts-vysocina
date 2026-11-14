@@ -414,8 +414,8 @@ SUMMARY:🚗 dopravní nehoda - Košetice
 LOCATION:Sluneční\, Košetice
 GEO:49.562143;15.112441
 URL:geo:49.562143,15.112441
-DESCRIPTION:📍 Sluneční\, Košetice\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)\n🚒 C
- AS (Onšov)
+DESCRIPTION:📍 Sluneční\, Košetice\, Pelhřimov\n💬 DN 1 OA a motocyklu se zra
+ něním. Zajištění místa události.\n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (Onšov)
 END:VEVENT
 BEGIN:VEVENT
 UID:422335061
@@ -427,5 +427,17 @@ LOCATION:Litohoř
 GEO:49.063195;15.779512
 URL:geo:49.063195,15.779512
 DESCRIPTION:📍 Litohoř\, Třebíč\n\n🚒 CAS (HS Moravské Budějovice)
+END:VEVENT
+BEGIN:VEVENT
+UID:422336061
+DTSTART:20261114T122448Z
+DTEND:20261114T132448Z
+DTSTAMP:20261114T122448Z
+SUMMARY:🛠️ ostatní - Havlíčkův Brod
+LOCATION:Jihlavská\, Havlíčkův Brod
+GEO:49.584176;15.577559
+URL:geo:49.584176,15.577559
+DESCRIPTION:📍 Jihlavská\, Šmolovy\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův 
+ Brod)
 END:VEVENT
 END:VCALENDAR
