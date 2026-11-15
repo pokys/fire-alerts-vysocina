@@ -441,4 +441,15 @@ URL:geo:49.360044,15.992825
 DESCRIPTION:📍 Františky Stránecké\, Velké Meziříčí\, Žďár nad Sázavou\n💬 Tr
  ansport pacienta na žádost ZZS.\n\n🚒 CAS (HS Velké Meziříčí)
 END:VEVENT
+BEGIN:VEVENT
+UID:422350061
+DTSTART:20261115T001705Z
+DTEND:20261115T011705Z
+DTSTAMP:20261115T001705Z
+SUMMARY:🚗 dopravní nehoda - Vladislav
+LOCATION:Vladislav
+GEO:49.211595;16.013084
+URL:geo:49.211595,16.013084
+DESCRIPTION:📍 Vladislav\, Třebíč\n\n🚒 CAS (CHS Třebíč)
+END:VEVENT
 END:VCALENDAR
