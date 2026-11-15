@@ -468,4 +468,15 @@ DESCRIPTION:📍 Okrouhlice\, Havlíčkův Brod\n💬 DN 1 OA bez zranění. Zaj
   místa nehody proti požáru a úniku provozních kapalin.\n\n🚒 CAS (CHS Havlí
  čkův Brod)
 END:VEVENT
+BEGIN:VEVENT
+UID:422361061
+DTSTART:20261115T070607Z
+DTEND:20261115T080607Z
+DTSTAMP:20261115T070607Z
+SUMMARY:🚗 bez zranění - Stařeč
+LOCATION:Stařeč
+GEO:49.201749;15.834196
+URL:geo:49.201749,15.834196
+DESCRIPTION:📍 Stařeč\, Třebíč\n\n🚒 CAS (CHS Třebíč)
+END:VEVENT
 END:VCALENDAR
