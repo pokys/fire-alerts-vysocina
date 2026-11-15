@@ -5,20 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:422299061
-DTSTART:20261113T171406Z
-DTEND:20261113T181406Z
-DTSTAMP:20261113T171406Z
-SUMMARY:🚗 dopravní nehoda - Nové Město na Moravě
-LOCATION:Nové Město na Moravě
-GEO:49.547736;16.115033
-URL:geo:49.547736,16.115033
-DESCRIPTION:📍 Olešná\, Nové Město na Moravě\, Žďár nad Sázavou\n💬 DN 1 OA s
- e zraněním. Zajištění místa události a úklid vozovky.\n\n🚒 CAS (HS Bystřic
- e nad Pernštejnem)\n🚒 CAS (Nové Město na Moravě)\n🚒 TA (Nové Město na Mora
- vě)
-END:VEVENT
-BEGIN:VEVENT
 UID:422302061
 DTSTART:20261113T174536Z
 DTEND:20261113T184536Z
@@ -572,7 +558,7 @@ UID:422399061
 DTSTART:20261115T152954Z
 DTEND:20261115T162954Z
 DTSTAMP:20261115T152954Z
-SUMMARY:☣️ plyn - Jihlava
+SUMMARY:🛠️ monitoring - Jihlava
 LOCATION:U Pivovaru\, Jihlava
 GEO:49.395684;15.582592
 URL:geo:49.395684,15.582592
@@ -612,6 +598,7 @@ LOCATION:Bobrová
 GEO:49.473842;16.114653
 URL:geo:49.473842,16.114653
 DESCRIPTION:📍 Bobrová\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒
-  CAS (CHS Žďár nad Sázavou)\n🚒 CAS (Bobrová)\n🚒 CAS (Nové Město na Moravě)
+  CAS (CHS Žďár nad Sázavou)\n🚒 DA (Bobrová)\n🚒 CAS (Bobrová)\n🚒 CAS (Nové 
+ Město na Moravě)
 END:VEVENT
 END:VCALENDAR
