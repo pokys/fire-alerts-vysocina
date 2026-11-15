@@ -477,7 +477,8 @@ SUMMARY:🛠️ strom - Michalovice
 LOCATION:Michalovice
 GEO:49.576791;15.521046
 URL:geo:49.576791,15.521046
-DESCRIPTION:📍 Michalovice\, Havlíčkův Brod\n\n🚒 AŽ (CHS Havlíčkův Brod)
+DESCRIPTION:📍 Michalovice\, Havlíčkův Brod\n💬 Odstranění stromu.\n\n🚒 AŽ (C
+ HS Havlíčkův Brod)
 END:VEVENT
 BEGIN:VEVENT
 UID:422364061
@@ -526,5 +527,17 @@ GEO:49.716901;15.668279
 URL:geo:49.716901,15.668279
 DESCRIPTION:📍 V Drážkách\, Chotěboř\, Havlíčkův Brod\n💬 Otevření bytu.\n\n🚒
   CAS (HS Chotěboř)
+END:VEVENT
+BEGIN:VEVENT
+UID:422368061
+DTSTART:20261115T094025Z
+DTEND:20261115T104025Z
+DTSTAMP:20261115T094025Z
+SUMMARY:🚑 záchrana na vodě - Jihlávka
+LOCATION:Jihlávka
+GEO:49.268001;15.292355
+URL:geo:49.268001,15.292355
+DESCRIPTION:📍 Jihlávka\, Jihlava\n\n🚒 CAS (HS Telč)\n🚒 přívěs lodní (HS Tel
+ č)
 END:VEVENT
 END:VCALENDAR
