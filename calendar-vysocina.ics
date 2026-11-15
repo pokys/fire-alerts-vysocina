@@ -292,7 +292,8 @@ SUMMARY:🛠️ ostatní - Jihlava
 LOCATION:U Pivovaru\, Jihlava
 GEO:49.395847;15.582589
 URL:geo:49.395847,15.582589
-DESCRIPTION:📍 U Pivovaru\, Jihlava\n💬 Tekoucí voda v bytovém domě.
+DESCRIPTION:📍 U Pivovaru\, Jihlava\n💬 Tekoucí voda v bytovém domě.\n\n🚒 CAS
+  (CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:422341061
@@ -561,7 +562,7 @@ SUMMARY:🛠️ měření koncentrace - Jihlava
 LOCATION:8. března\, Jihlava
 GEO:49.418618;15.589277
 URL:geo:49.418618,15.589277
-DESCRIPTION:📍 8. března\, Jihlava\n💬 Měření koncentrace neznámé látky - neg
- ativní.\n\n🚒 CAS (CHS Jihlava)
+DESCRIPTION:📍 8. března\, Jihlava\n💬 Měření koncentrace neznámé látky v ovz
+ duší - negativní.\n\n🚒 CAS (CHS Jihlava)
 END:VEVENT
 END:VCALENDAR
