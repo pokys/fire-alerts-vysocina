@@ -488,7 +488,8 @@ SUMMARY:🛠️ strom - Chotěboř
 LOCATION:Chotěboř
 GEO:49.703476;15.722306
 URL:geo:49.703476,15.722306
-DESCRIPTION:📍 Příjemky\, Chotěboř\, Havlíčkův Brod\n\n🚒 CAS (HS Chotěboř)
+DESCRIPTION:📍 Příjemky\, Chotěboř\, Havlíčkův Brod\n💬 Odstranění stromu.\n\
+ n🚒 CAS (HS Chotěboř)
 END:VEVENT
 BEGIN:VEVENT
 UID:422365061
@@ -500,5 +501,17 @@ LOCATION:Sněžné
 GEO:49.663348;16.097737
 URL:geo:49.663348,16.097737
 DESCRIPTION:📍 Milovy\, Sněžné\, Žďár nad Sázavou\n\n🚒 CAS (Sněžné)
+END:VEVENT
+BEGIN:VEVENT
+UID:422366061
+DTSTART:20261115T084257Z
+DTEND:20261115T094257Z
+DTSTAMP:20261115T084257Z
+SUMMARY:🚗 dopravní nehoda - Vysoké Studnice
+LOCATION:Vysoké Studnice
+GEO:49.395554;15.723002
+URL:geo:49.395554,15.723002
+DESCRIPTION:📍 Vysoké Studnice\, Jihlava\n\n🚒 CAS (CHS Jihlava)\n🚒 RZA (CHS 
+ Jihlava)
 END:VEVENT
 END:VCALENDAR
