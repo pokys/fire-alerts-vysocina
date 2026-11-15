@@ -90,4 +90,15 @@ DESCRIPTION:📍 Vysoká Lhota\, Pelhřimov\n💬 DN 2 OA. Provedeno zabezpečen
  sta nehody\, likvidace úniku provozních kapalin pomocí sorbentu. Bez zraně
  ní.\n\n🚒 CAS (HS Pacov)\n🚒 přívěs lodní (HS Pacov)
 END:VEVENT
+BEGIN:VEVENT
+UID:422409061
+DTSTART:20261115T192359Z
+DTEND:20261115T202359Z
+DTSTAMP:20261115T192359Z
+SUMMARY:🛠️ ostatní - Leskovice
+LOCATION:Leskovice
+GEO:49.429897;15.081105
+URL:geo:49.429897,15.081105
+DESCRIPTION:📍 Leskovice\, Pelhřimov\n\n🚒 CAS (HS Pacov)
+END:VEVENT
 END:VCALENDAR
