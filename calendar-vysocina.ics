@@ -468,4 +468,15 @@ URL:geo:49.202556,15.837007
 DESCRIPTION:📍 Stařeč\, Třebíč\n💬 DN OA na střeše\, bez zranění. Zajištění m
  ísta nehody proti požáru a úniku provozních kapalin.\n\n🚒 CAS (CHS Třebíč)
 END:VEVENT
+BEGIN:VEVENT
+UID:422363061
+DTSTART:20261115T075836Z
+DTEND:20261115T085836Z
+DTSTAMP:20261115T075836Z
+SUMMARY:🛠️ strom - Michalovice
+LOCATION:Michalovice
+GEO:49.576791;15.521046
+URL:geo:49.576791,15.521046
+DESCRIPTION:📍 Michalovice\, Havlíčkův Brod\n\n🚒 AŽ (CHS Havlíčkův Brod)
+END:VEVENT
 END:VCALENDAR
