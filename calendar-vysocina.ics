@@ -562,7 +562,8 @@ SUMMARY:🛠️ monitoring - Jihlava
 LOCATION:U Pivovaru\, Jihlava
 GEO:49.395684;15.582592
 URL:geo:49.395684,15.582592
-DESCRIPTION:📍 U Pivovaru\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+DESCRIPTION:📍 U Pivovaru\, Jihlava\n💬 Monitoring úniku plynu v bytovém domě
+  - negativní.\n\n🚒 CAS (CHS Jihlava)
 END:VEVENT
 BEGIN:VEVENT
 UID:422400061
@@ -586,7 +587,9 @@ SUMMARY:🚗 dopravní nehoda - Vystrčenovice
 LOCATION:Vystrčenovice
 GEO:49.144421;15.539695
 URL:geo:49.144421,15.539695
-DESCRIPTION:📍 Vystrčenovice\, Jihlava\n\n🚒 CAS (HS Telč)
+DESCRIPTION:📍 Vystrčenovice\, Jihlava\n💬 DN 1 OA na boku mimo vozovku\, 2 z
+ raněné osoby. Zabezpečení havarovaného vozidla proti požáru a proti úniku 
+ provozních kapalin.\n\n🚒 CAS (HS Telč)
 END:VEVENT
 BEGIN:VEVENT
 UID:422404061
@@ -597,8 +600,9 @@ SUMMARY:🔥 budova - Bobrová
 LOCATION:Bobrová
 GEO:49.473842;16.114653
 URL:geo:49.473842,16.114653
-DESCRIPTION:📍 Bobrová\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒
-  CAS (CHS Žďár nad Sázavou)\n🚒 DA (Bobrová)\n🚒 CAS (Bobrová)\n🚒 CAS (Nové 
- Město na Moravě)
+DESCRIPTION:📍 Bobrová\, Žďár nad Sázavou\n💬 Požár půdy RD.\n\n🚒 CAS (CHS Žď
+ ár nad Sázavou)\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 DA (Bobrová)\n🚒 CAS (Bobr
+ ová)\n🚒 CAS (Nové Město na Moravě)\n🚒 vyšetřovací automobil (ÚO Žďár nad S
+ ázavou)
 END:VEVENT
 END:VCALENDAR
