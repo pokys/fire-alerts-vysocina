@@ -590,4 +590,17 @@ URL:geo:49.511220,15.181610
 DESCRIPTION:📍 Červená Řečice\, Pelhřimov\n💬 Transport pacienta na žádost ZZ
  S.\n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (Červená Řečice)
 END:VEVENT
+BEGIN:VEVENT
+UID:422437061
+DTSTART:20261116T193526Z
+DTEND:20261116T203526Z
+DTSTAMP:20261116T193526Z
+SUMMARY:🔥 venkovní požár - Oslavička
+LOCATION:Oslavička
+GEO:49.314716;15.960167
+URL:geo:49.314716,15.960167
+DESCRIPTION:📍 Oslavička\, Žďár nad Sázavou\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 
+ RZA (HS Velké Meziříčí)\n🚒 CAS (Rudíkov)\n🚒 CAS (Velké Meziříčí)\n🚒 DA (Os
+ lavička)
+END:VEVENT
 END:VCALENDAR
