@@ -628,4 +628,16 @@ URL:geo:49.348931,16.015063
 DESCRIPTION:📍 Čermákova\, Velké Meziříčí\, Žďár nad Sázavou\n💬 Otevření byt
  u.\n\n🚒 RZA (HS Velké Meziříčí)
 END:VEVENT
+BEGIN:VEVENT
+UID:422420061
+DTSTART:20261116T103335Z
+DTEND:20261116T113335Z
+DTSTAMP:20261116T103335Z
+SUMMARY:🛠️ otevření bytu/auta - Náměšť nad Oslavou
+LOCATION:Petra Křičky\, Náměšť nad Oslavou
+GEO:49.211927;16.147753
+URL:geo:49.211927,16.147753
+DESCRIPTION:📍 Petra Křičky\, Náměšť nad Oslavou\, Třebíč\n💬 Otevření bytu.\
+ n\n🚒 CAS (HS Náměšť nad Oslavou)
+END:VEVENT
 END:VCALENDAR
