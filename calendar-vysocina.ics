@@ -590,4 +590,16 @@ GEO:49.428620;15.234904
 URL:geo:49.428620,15.234904
 DESCRIPTION:💬 Odstranění stromu.\n\n🚒 CAS (CHS Pelhřimov)
 END:VEVENT
+BEGIN:VEVENT
+UID:422430061
+DTSTART:20261116T160645Z
+DTEND:20261116T170645Z
+DTSTAMP:20261116T160645Z
+SUMMARY:🛠️ odstranění překážky - Žďár nad Sázavou
+LOCATION:1. máje\, Žďár nad Sázavou
+GEO:49.561164;15.935162
+URL:geo:49.561164,15.935162
+DESCRIPTION:📍 1. máje\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n\n🚒 DA (Žďár
+  nad Sázavou-Zámek)\n🚒 CAS (Žďár nad Sázavou-Zámek)
+END:VEVENT
 END:VCALENDAR
