@@ -576,8 +576,8 @@ SUMMARY:🚑 spolupráce ZZS - Vepřová
 LOCATION:Vepřová
 GEO:49.612364;15.822443
 URL:geo:49.612364,15.822443
-DESCRIPTION:📍 Vepřová\, Žďár nad Sázavou\n💬 AED.\n\n🚒 CAS (CHS Žďár nad Sáz
- avou)\n🚒 CAS (Přibyslav)
+DESCRIPTION:📍 Vepřová\, Žďár nad Sázavou\n💬 Spolupráce se ZZS s resuscitací
+  zraněné osoby.\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (Přibyslav)
 END:VEVENT
 BEGIN:VEVENT
 UID:422423061
@@ -612,6 +612,18 @@ SUMMARY:🛠️ otevření bytu/auta - Čáslavice
 LOCATION:Čáslavice
 GEO:49.152518;15.767032
 URL:geo:49.152518,15.767032
-DESCRIPTION:📍 Čáslavice\, Třebíč\n\n🚒 CAS (CHS Třebíč)
+DESCRIPTION:📍 Čáslavice\, Třebíč\n💬 Otevření rodinného domu.\n\n🚒 CAS (CHS 
+ Třebíč)
+END:VEVENT
+BEGIN:VEVENT
+UID:422429061
+DTSTART:20261116T133359Z
+DTEND:20261116T143359Z
+DTSTAMP:20261116T133359Z
+SUMMARY:🛠️ strom - Pelhřimov
+LOCATION:Pelhřimov
+GEO:49.428620;15.234904
+URL:geo:49.428620,15.234904
+DESCRIPTION:🚒 CAS (CHS Pelhřimov)
 END:VEVENT
 END:VCALENDAR
