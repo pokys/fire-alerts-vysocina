@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:422370061
-DTSTART:20261115T100520Z
-DTEND:20261115T110520Z
-DTSTAMP:20261115T100520Z
-SUMMARY:🛠️ měření koncentrace - Jihlava
-LOCATION:8. března\, Jihlava
-GEO:49.418618;15.589277
-URL:geo:49.418618,15.589277
-DESCRIPTION:📍 8. března\, Jihlava\n💬 Měření koncentrace neznámé látky v ovz
- duší - negativní.\n\n🚒 CAS (CHS Jihlava)
-END:VEVENT
-BEGIN:VEVENT
 UID:422371061
 DTSTART:20261115T110308Z
 DTEND:20261115T120308Z
@@ -437,7 +425,30 @@ SUMMARY:☣️ olej/PHM - Bystřice nad Pernštejnem
 LOCATION:Kulturní\, Bystřice nad Pernštejnem
 GEO:49.523473;16.252742
 URL:geo:49.523473,16.252742
-DESCRIPTION:📍 Kulturní\, Bystřice nad Pernštejnem\, Žďár nad Sázavou\n\n🚒 C
- AS (HS Bystřice nad Pernštejnem)
+DESCRIPTION:📍 Kulturní\, Bystřice nad Pernštejnem\, Žďár nad Sázavou\n💬 Lik
+ vidace úniku provozních kapalin na pozemní komunikaci.\n\n🚒 CAS (HS Bystři
+ ce nad Pernštejnem)
+END:VEVENT
+BEGIN:VEVENT
+UID:422444061
+DTSTART:20261117T100215Z
+DTEND:20261117T110215Z
+DTSTAMP:20261117T100215Z
+SUMMARY:🛠️ ostatní - Kyjov
+LOCATION:Kyjov
+GEO:49.442546;15.876479
+URL:geo:49.442546,15.876479
+DESCRIPTION:📍 Kyjov\, Žďár nad Sázavou\n\n🚒 CAS (Bohdalov)
+END:VEVENT
+BEGIN:VEVENT
+UID:422445061
+DTSTART:20261117T100513Z
+DTEND:20261117T110513Z
+DTSTAMP:20261117T100513Z
+SUMMARY:🛠️ otevření bytu/auta - Hrotovice
+LOCATION:Mládeže\, Hrotovice
+GEO:49.104029;16.059540
+URL:geo:49.104029,16.059540
+DESCRIPTION:📍 Mládeže\, Hrotovice\, Třebíč\n\n🚒 CAS (HS Hrotovice)
 END:VEVENT
 END:VCALENDAR
