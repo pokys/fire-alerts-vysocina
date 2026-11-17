@@ -376,6 +376,19 @@ SUMMARY:🚗 bez zranění - Pelhřimov
 LOCATION:Pelhřimov
 GEO:49.460025;15.243893
 URL:geo:49.460025,15.243893
-DESCRIPTION:📍 Služátky\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)
+DESCRIPTION:📍 Služátky\, Pelhřimov\n💬 DN 2 OA. Bez zranění. Proveden úklid 
+ vozovky a protipožární opatření.\n\n🚒 CAS (CHS Pelhřimov)
+END:VEVENT
+BEGIN:VEVENT
+UID:422453061
+DTSTART:20261117T145301Z
+DTEND:20261117T155301Z
+DTSTAMP:20261117T145301Z
+SUMMARY:🛠️ ostatní - Světlá nad Sázavou
+LOCATION:Rozkoš\, Světlá nad Sázavou
+GEO:49.673165;15.392502
+URL:geo:49.673165,15.392502
+DESCRIPTION:📍 Rozkoš\, Světlá nad Sázavou\, Havlíčkův Brod\n\n🚒 CAS (HS Svě
+ tlá nad Sázavou)
 END:VEVENT
 END:VCALENDAR
