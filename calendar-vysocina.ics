@@ -365,4 +365,16 @@ DESCRIPTION:📍 Žižkova\, Havlíčkův Brod\n💬 DN 2 OA\, bez zranění. Za
  místa nehody. Provedeno protipožární opatření.\n\n🚒 CAS (CHS Havlíčkův Bro
  d)
 END:VEVENT
+BEGIN:VEVENT
+UID:422459061
+DTSTART:20261117T174928Z
+DTEND:20261117T184928Z
+DTSTAMP:20261117T174928Z
+SUMMARY:🛠️ otevření bytu/auta - Třešť
+LOCATION:Barvířská\, Třešť
+GEO:49.290723;15.481720
+URL:geo:49.290723,15.481720
+DESCRIPTION:📍 Barvířská\, Třešť\, Jihlava\n💬 Otevření bytu.\n\n🚒 CAS (HS Tř
+ ešť)
+END:VEVENT
 END:VCALENDAR
