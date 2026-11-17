@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:422359061
-DTSTART:20261115T055435Z
-DTEND:20261115T065435Z
-DTSTAMP:20261115T055435Z
-SUMMARY:🚗 bez zranění - Okrouhlice
-LOCATION:Okrouhlice
-GEO:49.637755;15.466002
-URL:geo:49.637755,15.466002
-DESCRIPTION:📍 Okrouhlice\, Havlíčkův Brod\n💬 DN 1 OA bez zranění. Zajištění
-  místa nehody proti požáru a úniku provozních kapalin.\n\n🚒 CAS (CHS Havlí
- čkův Brod)
-END:VEVENT
-BEGIN:VEVENT
 UID:422361061
 DTSTART:20261115T070607Z
 DTEND:20261115T080607Z
@@ -463,9 +450,9 @@ SUMMARY:🛠️ odstranění překážky - Žďár nad Sázavou
 LOCATION:1. máje\, Žďár nad Sázavou
 GEO:49.562868;15.935662
 URL:geo:49.562868,15.935662
-DESCRIPTION:📍 1. máje\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n💬 Vytažení k
- ola z řeky.\n\n🚒 DA (Žďár nad Sázavou-Zámek)\n🚒 CAS (Žďár nad Sázavou-Záme
- k)
+DESCRIPTION:📍 1. máje\, Žďár nad Sázavou 1\, Žďár nad Sázavou\n💬 Vytažení j
+ ízdního kola z řeky.\n\n🚒 DA (Žďár nad Sázavou-Zámek)\n🚒 CAS (Žďár nad Sáz
+ avou-Zámek)
 END:VEVENT
 BEGIN:VEVENT
 UID:422432061
