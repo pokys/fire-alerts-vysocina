@@ -364,4 +364,15 @@ DESCRIPTION:📍 Humpolec\, Pelhřimov\n💬 DN 1 OA\, bez zranění. Zajištěn
  a nehody. Spolupráce se složkami IZS.\n\n🚒 CAS (HS Humpolec)\n🚒 RZA (HS Hu
  mpolec)
 END:VEVENT
+BEGIN:VEVENT
+UID:422458061
+DTSTART:20261117T171741Z
+DTEND:20261117T181741Z
+DTSTAMP:20261117T171741Z
+SUMMARY:🚗 úklid místa - Havlíčkův Brod
+LOCATION:Žižkova\, Havlíčkův Brod
+GEO:49.606418;15.602782
+URL:geo:49.606418,15.602782
+DESCRIPTION:📍 Žižkova\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)
+END:VEVENT
 END:VCALENDAR
