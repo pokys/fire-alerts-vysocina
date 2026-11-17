@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:422361061
-DTSTART:20261115T070607Z
-DTEND:20261115T080607Z
-DTSTAMP:20261115T070607Z
-SUMMARY:🚗 bez zranění - Stařeč
-LOCATION:Stařeč
-GEO:49.202556;15.837007
-URL:geo:49.202556,15.837007
-DESCRIPTION:📍 Stařeč\, Třebíč\n💬 DN OA na střeše\, bez zranění. Zajištění m
- ísta nehody proti požáru a úniku provozních kapalin.\n\n🚒 CAS (CHS Třebíč)
-END:VEVENT
-BEGIN:VEVENT
 UID:422363061
 DTSTART:20261115T075836Z
 DTEND:20261115T085836Z
@@ -492,5 +480,16 @@ DESCRIPTION:📍 Oslavička\, Žďár nad Sázavou\n💬 Požár hromady dřeva.
  ziříčí)\n🚒 čerpadlo plovoucí (HS Velké Meziříčí)\n🚒 zařízení hasicí kontin
  uelní vysokotlaké (HS Velké Meziříčí)\n🚒 CAS (Rudíkov)\n🚒 CAS (Velké Meziř
  íčí)\n🚒 DA (Oslavička)\n🚒 vyšetřovací automobil (ÚO Žďár nad Sázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:422439061
+DTSTART:20261117T070227Z
+DTEND:20261117T080227Z
+DTSTAMP:20261117T070227Z
+SUMMARY:🛠️ strom - Syrov
+LOCATION:Syrov
+GEO:49.573888;15.180354
+URL:geo:49.573888,15.180354
+DESCRIPTION:📍 Syrov\, Pelhřimov\n\n🚒 CAS (Senožaty)
 END:VEVENT
 END:VCALENDAR
