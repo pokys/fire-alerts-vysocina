@@ -531,11 +531,12 @@ UID:422508061
 DTSTART:20261118T130640Z
 DTEND:20261118T140640Z
 DTSTAMP:20261118T130640Z
-SUMMARY:🚗 se zraněním - Havlíčkův Brod
+SUMMARY:🚗 úklid místa - Havlíčkův Brod
 LOCATION:Havlíčkův Brod
 GEO:49.600887;15.607984
 URL:geo:49.600887,15.607984
-DESCRIPTION:📍 Termesivy\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)
+DESCRIPTION:📍 Termesivy\, Havlíčkův Brod\n💬 DN 2 OA bez zranění. Provedena 
+ PPO. Zajištění místa události.\n\n🚒 CAS (CHS Havlíčkův Brod)
 END:VEVENT
 BEGIN:VEVENT
 UID:422509061
@@ -604,6 +605,7 @@ SUMMARY:🛠️ strom - Jihlava
 LOCATION:Romana Havelky\, Jihlava
 GEO:49.412664;15.579003
 URL:geo:49.412664,15.579003
-DESCRIPTION:📍 Romana Havelky\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+DESCRIPTION:📍 Romana Havelky\, Jihlava\n💬 Odstranění stromu.\n\n🚒 CAS (CHS 
+ Jihlava)
 END:VEVENT
 END:VCALENDAR
