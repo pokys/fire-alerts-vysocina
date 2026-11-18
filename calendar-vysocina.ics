@@ -482,12 +482,12 @@ UID:422497061
 DTSTART:20261118T104303Z
 DTEND:20261118T114303Z
 DTSTAMP:20261118T104303Z
-SUMMARY:⚠️ planý poplach - Vatín
+SUMMARY:🛠️ ostatní - Vatín
 LOCATION:Vatín
 GEO:49.517246;15.973711
 URL:geo:49.517246,15.973711
-DESCRIPTION:📍 Vatín\, Žďár nad Sázavou\n💬 Planý poplach.\n\n🚒 CAS (CHS Žďár
-  nad Sázavou)
+DESCRIPTION:📍 Vatín\, Žďár nad Sázavou\n💬 Technická pomoc.\n\n🚒 CAS (CHS Žď
+ ár nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:422498061
@@ -498,7 +498,8 @@ SUMMARY:🛠️ otevření bytu/auta - Třebíč
 LOCATION:Tolstého\, Třebíč
 GEO:49.221372;15.896365
 URL:geo:49.221372,15.896365
-DESCRIPTION:📍 Tolstého\, Nové Dvory\, Třebíč\n\n🚒 CAS (CHS Třebíč)
+DESCRIPTION:📍 Tolstého\, Nové Dvory\, Třebíč\n💬 Otevření bytu.\n\n🚒 CAS (CH
+ S Třebíč)
 END:VEVENT
 BEGIN:VEVENT
 UID:422499061
