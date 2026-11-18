@@ -5,21 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:422437061
-DTSTART:20261116T193526Z
-DTEND:20261116T203526Z
-DTSTAMP:20261116T193526Z
-SUMMARY:🔥 venkovní požár - Oslavička
-LOCATION:Oslavička
-GEO:49.314716;15.960167
-URL:geo:49.314716,15.960167
-DESCRIPTION:📍 Oslavička\, Žďár nad Sázavou\n💬 Požár hromady dřeva. Proveden
- a lokalizace a likvidace.\n\n🚒 CAS (HS Velké Meziříčí)\n🚒 RZA (HS Velké Me
- ziříčí)\n🚒 čerpadlo plovoucí (HS Velké Meziříčí)\n🚒 zařízení hasicí kontin
- uelní vysokotlaké (HS Velké Meziříčí)\n🚒 CAS (Rudíkov)\n🚒 CAS (Velké Meziř
- íčí)\n🚒 DA (Oslavička)\n🚒 vyšetřovací automobil (ÚO Žďár nad Sázavou)
-END:VEVENT
-BEGIN:VEVENT
 UID:422439061
 DTSTART:20261117T070227Z
 DTEND:20261117T080227Z
@@ -644,6 +629,7 @@ SUMMARY:🚗 se zraněním - Stáj
 LOCATION:Stáj
 GEO:49.460382;15.820797
 URL:geo:49.460382,15.820797
-DESCRIPTION:📍 Stáj\, Jihlava\n\n🚒 RZA (CHS Jihlava)\n🚒 CAS (HS Polná)
+DESCRIPTION:📍 Stáj\, Jihlava\n💬 DN OA\, střet se zvěří. Bez zranění. Zajišt
+ ění místa nehody.\n\n🚒 RZA (CHS Jihlava)\n🚒 CAS (HS Polná)
 END:VEVENT
 END:VCALENDAR
