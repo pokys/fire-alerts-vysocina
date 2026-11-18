@@ -490,4 +490,16 @@ DESCRIPTION:📍 Lnářská\, Domanínek\, Bystřice nad Pernštejnem\, Žďár 
  avou\n💬 DN OA a NA. Bez zranění. Úklid vozovky.\n\n🚒 CAS (HS Bystřice nad 
  Pernštejnem)
 END:VEVENT
+BEGIN:VEVENT
+UID:422492061
+DTSTART:20261118T100552Z
+DTEND:20261118T110552Z
+DTSTAMP:20261118T100552Z
+SUMMARY:🛠️ strom - Vlkov
+LOCATION:Vlkov
+GEO:49.314661;16.206904
+URL:geo:49.314661,16.206904
+DESCRIPTION:📍 Vlkov\, Žďár nad Sázavou\n💬 Odstranění stromu.\n\n🚒 CAS (HS V
+ elká Bíteš)
+END:VEVENT
 END:VCALENDAR
