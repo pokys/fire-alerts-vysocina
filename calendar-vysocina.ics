@@ -631,7 +631,31 @@ SUMMARY:🚑 otevření/asistence - Rovečné
 LOCATION:Rovečné
 GEO:49.576904;16.364012
 URL:geo:49.576904,16.364012
-DESCRIPTION:📍 Rovečné\, Žďár nad Sázavou\n💬 Otevření rodinného domu.\n\n🚒 C
- AS (HS Bystřice nad Pernštejnem)
+DESCRIPTION:📍 Rovečné\, Žďár nad Sázavou\n💬 Otevření rodinného domu a pomoc
+  ZZS s naložením pacienta do sanitního vozu.\n\n🚒 CAS (HS Bystřice nad Per
+ nštejnem)
+END:VEVENT
+BEGIN:VEVENT
+UID:422527061
+DTSTART:20261118T174515Z
+DTEND:20261118T184515Z
+DTSTAMP:20261118T174515Z
+SUMMARY:🛠️ otevření bytu/auta - Havlíčkův Brod
+LOCATION:Liškova\, Havlíčkův Brod
+GEO:49.611076;15.563686
+URL:geo:49.611076,15.563686
+DESCRIPTION:📍 Liškova\, Havlíčkův Brod\n💬 Otevření bytu.\n\n🚒 CAS (CHS Havl
+ íčkův Brod)
+END:VEVENT
+BEGIN:VEVENT
+UID:422528061
+DTSTART:20261118T174957Z
+DTEND:20261118T184957Z
+DTSTAMP:20261118T174957Z
+SUMMARY:🚗 se zraněním - Stáj
+LOCATION:Stáj
+GEO:49.460382;15.820797
+URL:geo:49.460382,15.820797
+DESCRIPTION:📍 Stáj\, Jihlava\n\n🚒 RZA (CHS Jihlava)\n🚒 CAS (HS Polná)
 END:VEVENT
 END:VCALENDAR
