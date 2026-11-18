@@ -591,9 +591,8 @@ SUMMARY:🚗 se zraněním - Mysletice
 LOCATION:Mysletice
 GEO:49.144748;15.401577
 URL:geo:49.144748,15.401577
-DESCRIPTION:📍 Mysletice\, Jihlava\n💬 DN 1 OA\, náraz do stromu se zraněním 
- jedné osoby. Osoba byla vyproštěna z OA. Zajištění místa události.\n\n🚒 CA
- S (HS Telč)
+DESCRIPTION:📍 Mysletice\, Jihlava\n💬 DN 1 OA\, náraz do stromu\, 1 zraněná 
+ osoba. Zajištění místa události.\n\n🚒 CAS (HS Telč)
 END:VEVENT
 BEGIN:VEVENT
 UID:422525061
@@ -655,5 +654,16 @@ GEO:49.289762;16.093747
 URL:geo:49.289762,16.093747
 DESCRIPTION:📍 Tasov\, Žďár nad Sázavou\n💬 Záchrana kočky ze stromu.\n\n🚒 CA
  S (HS Velké Meziříčí)
+END:VEVENT
+BEGIN:VEVENT
+UID:422532061
+DTSTART:20261118T220819Z
+DTEND:20261118T230819Z
+DTSTAMP:20261118T220819Z
+SUMMARY:🛠️ strom - Chotěboř
+LOCATION:Chotěboř
+GEO:49.729155;15.672103
+URL:geo:49.729155,15.672103
+DESCRIPTION:📍 Chotěboř\, Havlíčkův Brod\n\n🚒 CAS (HS Chotěboř)
 END:VEVENT
 END:VCALENDAR
