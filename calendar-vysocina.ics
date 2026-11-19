@@ -728,4 +728,15 @@ DESCRIPTION:📍 Pražská\, Moravské Budějovice\, Třebíč\n💬 DN 2x OA be
  í. Zajištění místa nehody proti požáru a úniku provozních kapalin.\n\n🚒 CA
  S (HS Moravské Budějovice)
 END:VEVENT
+BEGIN:VEVENT
+UID:422539061
+DTSTART:20261119T054208Z
+DTEND:20261119T064208Z
+DTSTAMP:20261119T054208Z
+SUMMARY:🛠️ strom - Uhřínov
+LOCATION:Uhřínov
+GEO:49.340512;15.935327
+URL:geo:49.340512,15.935327
+DESCRIPTION:📍 Uhřínov\, Žďár nad Sázavou\n\n🚒 CAS (HS Velké Meziříčí)
+END:VEVENT
 END:VCALENDAR
