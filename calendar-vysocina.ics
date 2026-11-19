@@ -788,8 +788,8 @@ SUMMARY:🚑 Dolní Heřmanice
 LOCATION:Dolní Heřmanice
 GEO:49.301058;16.062388
 URL:geo:49.301058,16.062388
-DESCRIPTION:📍 Dolní Heřmanice\, Žďár nad Sázavou\n\n🚒 CAS (HS Velké Meziříč
- í)\n🚒 RZA (HS Velké Meziříčí)
+DESCRIPTION:📍 Dolní Heřmanice\, Žďár nad Sázavou\n💬 Vyproštění psa.\n\n🚒 CA
+ S (HS Velké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)
 END:VEVENT
 BEGIN:VEVENT
 UID:422575061
@@ -800,7 +800,7 @@ SUMMARY:🚑 transport pacienta - Bystřice nad Pernštejnem
 LOCATION:Lipová\, Bystřice nad Pernštejnem
 GEO:49.518090;16.261751
 URL:geo:49.518090,16.261751
-DESCRIPTION:📍 Lipová\, Bystřice nad Pernštejnem\, Žďár nad Sázavou\n\n🚒 CAS
-  (HS Bystřice nad Pernštejnem)
+DESCRIPTION:📍 Lipová\, Bystřice nad Pernštejnem\, Žďár nad Sázavou\n💬 Trans
+ port pacienta na žádost ZZS.\n\n🚒 CAS (HS Bystřice nad Pernštejnem)
 END:VEVENT
 END:VCALENDAR
