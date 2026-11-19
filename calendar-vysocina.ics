@@ -802,4 +802,16 @@ URL:geo:49.261799,15.237211
 DESCRIPTION:📍 Stodolní\, Počátky\, Pelhřimov\n💬 DN 1 OA se zraněním.\n\n🚒 C
  AS (HS Kamenice nad Lipou)\n🚒 CAS (Počátky)
 END:VEVENT
+BEGIN:VEVENT
+UID:422570061
+DTSTART:20261119T151404Z
+DTEND:20261119T161404Z
+DTSTAMP:20261119T151404Z
+SUMMARY:🔥 Velké Meziříčí
+LOCATION:Průmyslová\, Velké Meziříčí
+GEO:49.340220;16.036186
+URL:geo:49.340220,16.036186
+DESCRIPTION:📍 Průmyslová\, Velké Meziříčí\, Žďár nad Sázavou\n\n🚒 CAS (HS V
+ elké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)
+END:VEVENT
 END:VCALENDAR
