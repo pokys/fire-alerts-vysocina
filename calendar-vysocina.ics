@@ -680,8 +680,8 @@ SUMMARY:🛠️ ostatní - Habry
 LOCATION:Habry
 GEO:49.756027;15.484858
 URL:geo:49.756027,15.484858
-DESCRIPTION:📍 Habry\, Havlíčkův Brod\n\n🚒 automobilová plošina do 30 m (Hab
- ry)
+DESCRIPTION:📍 Habry\, Havlíčkův Brod\n💬 Asistence př instalaci výzdoby měst
+ a.\n\n🚒 automobilová plošina do 30 m (Habry)
 END:VEVENT
 BEGIN:VEVENT
 UID:422548061
@@ -752,7 +752,8 @@ SUMMARY:🛠️ ostatní - Vír
 LOCATION:Vír
 GEO:49.557384;16.323584
 URL:geo:49.557384,16.323584
-DESCRIPTION:📍 Vír\, Žďár nad Sázavou\n\n🚒 CAS (Vír)
+DESCRIPTION:📍 Vír\, Žďár nad Sázavou\n💬 Pročištění kanalizace.\n\n🚒 CAS (Ví
+ r)
 END:VEVENT
 BEGIN:VEVENT
 UID:422557061
@@ -787,8 +788,9 @@ SUMMARY:🛠️ ostatní - Moravské Budějovice
 LOCATION:nám. Svobody\, Moravské Budějovice
 GEO:49.052260;15.811064
 URL:geo:49.052260,15.811064
-DESCRIPTION:📍 nám. Svobody\, Moravské Budějovice\, Třebíč\n\n🚒 CAS (HS Mora
- vské Budějovice)\n🚒 CAS (Moravské Budějovice)\n🚒 CAS (Moravské Budějovice)
+DESCRIPTION:📍 nám. Svobody\, Moravské Budějovice\, Třebíč\n💬 Pročištění kan
+ alizace.\n\n🚒 CAS (HS Moravské Budějovice)\n🚒 CAS (Moravské Budějovice)\n🚒
+  CAS (Moravské Budějovice)
 END:VEVENT
 BEGIN:VEVENT
 UID:422560061
@@ -799,7 +801,7 @@ SUMMARY:🚗 dopravní nehoda - Vícenice u Náměště nad Oslavou
 LOCATION:Vícenice u Náměště nad Oslavou
 GEO:49.212091;16.120604
 URL:geo:49.212091,16.120604
-DESCRIPTION:📍 Vícenice u Náměště nad Oslavou\, Třebíč\n\n🚒 CAS (HS Náměšť n
- ad Oslavou)
+DESCRIPTION:📍 Vícenice u Náměště nad Oslavou\, Třebíč\n💬 DN 2 OA\, 1 zraněn
+ á osoba\, zajištění místa nehody.\n\n🚒 CAS (HS Náměšť nad Oslavou)
 END:VEVENT
 END:VCALENDAR
