@@ -715,4 +715,17 @@ URL:geo:49.667054,15.398057
 DESCRIPTION:📍 Dolní\, Světlá nad Sázavou\, Havlíčkův Brod\n💬 Odstranění str
  omu.\n\n🚒 CAS (HS Světlá nad Sázavou)
 END:VEVENT
+BEGIN:VEVENT
+UID:422538061
+DTSTART:20261119T051327Z
+DTEND:20261119T061327Z
+DTSTAMP:20261119T051327Z
+SUMMARY:🚗 dopravní nehoda - Moravské Budějovice
+LOCATION:Pražská\, Moravské Budějovice
+GEO:49.057548;15.801661
+URL:geo:49.057548,15.801661
+DESCRIPTION:📍 Pražská\, Moravské Budějovice\, Třebíč\n💬 DN 2x OA bez zraněn
+ í. Zajištění místa nehody proti požáru a úniku provozních kapalin.\n\n🚒 CA
+ S (HS Moravské Budějovice)
+END:VEVENT
 END:VCALENDAR
