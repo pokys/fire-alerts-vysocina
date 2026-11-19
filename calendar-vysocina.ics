@@ -703,4 +703,16 @@ URL:geo:49.509907,16.329910
 DESCRIPTION:📍 Štěpánov nad Svratkou\, Žďár nad Sázavou\n💬 Odstranění stromu
  .\n\n🚒 CAS (Štěpánov nad Svratkou)
 END:VEVENT
+BEGIN:VEVENT
+UID:422537061
+DTSTART:20261119T044318Z
+DTEND:20261119T054318Z
+DTSTAMP:20261119T044318Z
+SUMMARY:🛠️ strom - Světlá nad Sázavou
+LOCATION:Dolní\, Světlá nad Sázavou
+GEO:49.667054;15.398057
+URL:geo:49.667054,15.398057
+DESCRIPTION:📍 Dolní\, Světlá nad Sázavou\, Havlíčkův Brod\n\n🚒 CAS (HS Svět
+ lá nad Sázavou)
+END:VEVENT
 END:VCALENDAR
