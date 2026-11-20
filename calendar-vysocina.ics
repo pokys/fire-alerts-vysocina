@@ -5,42 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:422504061
-DTSTART:20261118T120959Z
-DTEND:20261118T130959Z
-DTSTAMP:20261118T120959Z
-SUMMARY:🚗 dopravní nehoda - Pelhřimov
-LOCATION:Táborská\, Pelhřimov
-GEO:49.437996;15.207968
-URL:geo:49.437996,15.207968
-DESCRIPTION:📍 Táborská\, Pelhřimov\n💬 DN 2 OA\, se zraněním. Zajištění míst
- a události.\n\n🚒 CAS (CHS Pelhřimov)
-END:VEVENT
-BEGIN:VEVENT
-UID:422505061
-DTSTART:20261118T121307Z
-DTEND:20261118T131307Z
-DTSTAMP:20261118T121307Z
-SUMMARY:🛠️ strom - Uhřínov
-LOCATION:Uhřínov
-GEO:49.349830;15.937952
-URL:geo:49.349830,15.937952
-DESCRIPTION:📍 Uhřínov\, Žďár nad Sázavou\n💬 Odstranění stromu.\n\n🚒 DA (Uhř
- ínov)
-END:VEVENT
-BEGIN:VEVENT
-UID:422506061
-DTSTART:20261118T122715Z
-DTEND:20261118T132715Z
-DTSTAMP:20261118T122715Z
-SUMMARY:🛠️ strom - Horní Vilémovice
-LOCATION:Horní Vilémovice
-GEO:49.275278;15.871283
-URL:geo:49.275278,15.871283
-DESCRIPTION:📍 Horní Vilémovice\, Třebíč\n💬 Odstranění stromu.\n\n🚒 CAS (Sva
- toslav)\n🚒 pila řetězová (Svatoslav)
-END:VEVENT
-BEGIN:VEVENT
 UID:422508061
 DTSTART:20261118T130640Z
 DTEND:20261118T140640Z
@@ -741,6 +705,8 @@ SUMMARY:🚗 dopravní nehoda - Vladislav
 LOCATION:Vladislav
 GEO:49.225528;15.961213
 URL:geo:49.225528,15.961213
-DESCRIPTION:📍 Hostákov\, Vladislav\, Třebíč\n\n🚒 CAS (CHS Třebíč) ×2
+DESCRIPTION:📍 Hostákov\, Vladislav\, Třebíč\n💬 DN 1 OA na střeše s 1 zraněn
+ ou osobou. Protipožární opatření a zajištění místa nehody.\n\n🚒 CAS (CHS T
+ řebíč) ×2
 END:VEVENT
 END:VCALENDAR
