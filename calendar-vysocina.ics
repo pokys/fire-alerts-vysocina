@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:422492061
-DTSTART:20261118T100552Z
-DTEND:20261118T110552Z
-DTSTAMP:20261118T100552Z
-SUMMARY:🛠️ strom - Vlkov
-LOCATION:Vlkov
-GEO:49.314661;16.206904
-URL:geo:49.314661,16.206904
-DESCRIPTION:📍 Vlkov\, Žďár nad Sázavou\n💬 Odstranění stromu.\n\n🚒 CAS (HS V
- elká Bíteš)\n🚒 pila řetězová (HS Velká Bíteš)
-END:VEVENT
-BEGIN:VEVENT
 UID:422493061
 DTSTART:20261118T102313Z
 DTEND:20261118T112313Z
@@ -375,7 +363,7 @@ LOCATION:Uhřínov
 GEO:49.340512;15.935327
 URL:geo:49.340512,15.935327
 DESCRIPTION:📍 Uhřínov\, Žďár nad Sázavou\n💬 Odstranění stromu.\n\n🚒 CAS (HS
-  Velké Meziříčí)
+  Velké Meziříčí)\n🚒 pila řetězová (HS Velké Meziříčí)
 END:VEVENT
 BEGIN:VEVENT
 UID:422541061
@@ -691,7 +679,8 @@ LOCATION:Radostín nad Oslavou
 GEO:49.465602;15.962811
 URL:geo:49.465602,15.962811
 DESCRIPTION:📍 Radostín nad Oslavou\, Žďár nad Sázavou\n💬 Odstranění stromu.
- \n\n🚒 automobilová plošina nad 30 m (CHS Žďár nad Sázavou)
+ \n\n🚒 automobilová plošina nad 30 m (CHS Žďár nad Sázavou)\n🚒 pila řetězov
+ á (CHS Žďár nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:422588061
