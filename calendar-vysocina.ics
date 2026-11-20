@@ -5,30 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:422523061
-DTSTART:20261118T164749Z
-DTEND:20261118T174749Z
-DTSTAMP:20261118T164749Z
-SUMMARY:🛠️ otevření bytu/auta - Chotěboř
-LOCATION:Dlouhá\, Chotěboř
-GEO:49.721302;15.677644
-URL:geo:49.721302,15.677644
-DESCRIPTION:📍 Dlouhá\, Chotěboř\, Havlíčkův Brod\n💬 Otevření rodinného domu
- .\n\n🚒 CAS (HS Chotěboř)
-END:VEVENT
-BEGIN:VEVENT
-UID:422524061
-DTSTART:20261118T165338Z
-DTEND:20261118T175338Z
-DTSTAMP:20261118T165338Z
-SUMMARY:🚗 se zraněním - Mysletice
-LOCATION:Mysletice
-GEO:49.144748;15.401577
-URL:geo:49.144748,15.401577
-DESCRIPTION:📍 Mysletice\, Jihlava\n💬 DN 1 OA\, náraz do stromu\, 1 zraněná 
- osoba. Zajištění místa události.\n\n🚒 CAS (HS Telč)
-END:VEVENT
-BEGIN:VEVENT
 UID:422525061
 DTSTART:20261118T171837Z
 DTEND:20261118T181837Z
@@ -647,7 +623,7 @@ LOCATION:Svratka
 GEO:49.708729;16.011348
 URL:geo:49.708729,16.011348
 DESCRIPTION:📍 Svratka\, Žďár nad Sázavou\n💬 DN 1 OA bez zranění. Protipožár
- ní opatření.\n\n🚒 CAS (CHS Žďár nad Sázavou)
+ ní opatření.\n\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (HS Hlinsko)
 END:VEVENT
 BEGIN:VEVENT
 UID:422622061
@@ -661,5 +637,16 @@ URL:geo:49.045334,15.794627
 DESCRIPTION:📍 Moravské Budějovice\, Třebíč\n💬 DN 2 OA se 2 zraněnými osobam
  i. Protipožární opatření a úklid vozovky.\n\n🚒 CAS (HS Moravské Budějovice
  )
+END:VEVENT
+BEGIN:VEVENT
+UID:422627061
+DTSTART:20261120T165409Z
+DTEND:20261120T175409Z
+DTSTAMP:20261120T165409Z
+SUMMARY:🛠️ ostatní - Borek
+LOCATION:Borek
+GEO:49.791882;15.590147
+URL:geo:49.791882,15.590147
+DESCRIPTION:📍 Borek\, Havlíčkův Brod\n\n🚒 CAS (HS Chotěboř)
 END:VEVENT
 END:VCALENDAR
