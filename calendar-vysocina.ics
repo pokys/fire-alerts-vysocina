@@ -759,11 +759,12 @@ UID:422578061
 DTSTART:20261120T023632Z
 DTEND:20261120T033632Z
 DTSTAMP:20261120T023632Z
-SUMMARY:☣️ plyn - Havlíčkův Brod
+SUMMARY:⚠️ planý poplach - Havlíčkův Brod
 LOCATION:Žižkova\, Havlíčkův Brod
 GEO:49.605073;15.584858
 URL:geo:49.605073,15.584858
-DESCRIPTION:📍 Žižkova\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)
+DESCRIPTION:📍 Žižkova\, Havlíčkův Brod\n💬 Planý poplach.\n\n🚒 CAS (CHS Havl
+ íčkův Brod)
 END:VEVENT
 BEGIN:VEVENT
 UID:422579061
