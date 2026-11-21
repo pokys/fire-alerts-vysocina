@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:422556061
-DTSTART:20261119T104233Z
-DTEND:20261119T114233Z
-DTSTAMP:20261119T104233Z
-SUMMARY:🛠️ ostatní - Vír
-LOCATION:Vír
-GEO:49.557384;16.323584
-URL:geo:49.557384,16.323584
-DESCRIPTION:📍 Vír\, Žďár nad Sázavou\n💬 Pročištění kanalizace.\n\n🚒 CAS (Ví
- r)
-END:VEVENT
-BEGIN:VEVENT
 UID:422557061
 DTSTART:20261119T110902Z
 DTEND:20261119T120902Z
@@ -526,8 +514,9 @@ SUMMARY:🔥 kůlna/přístřešek - Polná
 LOCATION:Polná
 GEO:49.497201;15.714022
 URL:geo:49.497201,15.714022
-DESCRIPTION:📍 Polná\, Jihlava\n💬 Požár rekreační chaty.\n\n🚒 CAS (HS Polná)
- \n🚒 CAS (Zhoř (JI))\n🚒 CAS (Polná)
+DESCRIPTION:📍 Polná\, Jihlava\n💬 Požár rekreační chaty. Provedena lokalizac
+ e\, likvidace a kontrola termokamerou.\n\n🚒 CAS (HS Polná)\n🚒 CAS (Zhoř (J
+ I))\n🚒 CAS (Polná)
 END:VEVENT
 BEGIN:VEVENT
 UID:422651061
@@ -574,6 +563,7 @@ SUMMARY:🛠️ ostatní - Hradec
 LOCATION:Hradec
 GEO:49.707181;15.296447
 URL:geo:49.707181,15.296447
-DESCRIPTION:📍 Hradec\, Havlíčkův Brod\n\n🚒 CAS (Hradec)
+DESCRIPTION:📍 Hradec\, Havlíčkův Brod\n💬 Pročištění kanalizace.\n\n🚒 CAS (H
+ radec)
 END:VEVENT
 END:VCALENDAR
