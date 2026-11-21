@@ -511,7 +511,9 @@ SUMMARY:☣️ olej/PHM - Borek
 LOCATION:Borek
 GEO:49.808484;15.592426
 URL:geo:49.808484,15.592426
-DESCRIPTION:📍 Ostružno\, Borek\, Havlíčkův Brod\n\n🚒 CAS (HS Chotěboř)
+DESCRIPTION:📍 Ostružno\, Borek\, Havlíčkův Brod\n💬 Odstranění úniku oleje z
+  NA na pozemní komunikaci. Odstraněno za pomoci sorbentu.\n\n🚒 CAS (HS Cho
+ těboř)
 END:VEVENT
 BEGIN:VEVENT
 UID:422644061
@@ -550,6 +552,18 @@ DESCRIPTION:📍 Polná\, Jihlava\n\n🚒 CAS (HS Polná)\n🚒 CAS (Zhoř (JI))
   (Polná)
 END:VEVENT
 BEGIN:VEVENT
+UID:422651061
+DTSTART:20261121T090220Z
+DTEND:20261121T100220Z
+DTSTAMP:20261121T090220Z
+SUMMARY:🛠️ strom - Hradec
+LOCATION:Hradec
+GEO:49.701637;15.299464
+URL:geo:49.701637,15.299464
+DESCRIPTION:📍 Hradec\, Havlíčkův Brod\n💬 Odstranění stromu.\n\n🚒 CAS (Hrade
+ c)
+END:VEVENT
+BEGIN:VEVENT
 UID:422652061
 DTSTART:20261121T090603Z
 DTEND:20261121T100603Z
@@ -558,6 +572,7 @@ SUMMARY:⚠️ planý poplach - Havlíčkův Brod
 LOCATION:Havlíčkův Brod
 GEO:49.592571;15.548671
 URL:geo:49.592571,15.548671
-DESCRIPTION:📍 Poděbaby\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)
+DESCRIPTION:📍 Poděbaby\, Havlíčkův Brod\n💬 Planý poplach. Nenahlášené pálen
+ í klestí.\n\n🚒 CAS (CHS Havlíčkův Brod)
 END:VEVENT
 END:VCALENDAR
