@@ -566,4 +566,16 @@ URL:geo:49.250738,15.197214
 DESCRIPTION:📍 Nádražní\, Žirovnice\, Pelhřimov\n💬 Transport pacienta na žád
  ost ZZS.\n\n🚒 CAS (HS Kamenice nad Lipou)\n🚒 CAS (Žirovnice)
 END:VEVENT
+BEGIN:VEVENT
+UID:422633061
+DTSTART:20261121T041419Z
+DTEND:20261121T051419Z
+DTSTAMP:20261121T041419Z
+SUMMARY:🛠️ ostatní - Moravské Budějovice
+LOCATION:Miličova\, Moravské Budějovice
+GEO:49.047581;15.807501
+URL:geo:49.047581,15.807501
+DESCRIPTION:📍 Miličova\, Moravské Budějovice\, Třebíč\n\n🚒 CAS (HS Moravské
+  Budějovice)
+END:VEVENT
 END:VCALENDAR
