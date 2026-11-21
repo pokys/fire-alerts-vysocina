@@ -78,4 +78,16 @@ URL:geo:49.506381,15.297034
 DESCRIPTION:📍 Kletečná\, Humpolec\, Pelhřimov\n💬 Oplach komunikace.\n\n🚒 CA
  S (Humpolec)
 END:VEVENT
+BEGIN:VEVENT
+UID:422632061
+DTSTART:20261121T020552Z
+DTEND:20261121T030552Z
+DTSTAMP:20261121T020552Z
+SUMMARY:🚑 transport pacienta - Žirovnice
+LOCATION:Nádražní\, Žirovnice
+GEO:49.250738;15.197214
+URL:geo:49.250738,15.197214
+DESCRIPTION:📍 Nádražní\, Žirovnice\, Pelhřimov\n💬 Transport pacienta na žád
+ ost ZZS.\n\n🚒 CAS (HS Kamenice nad Lipou)\n🚒 CAS (Žirovnice)
+END:VEVENT
 END:VCALENDAR
