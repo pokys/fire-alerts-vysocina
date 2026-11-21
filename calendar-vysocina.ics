@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:422569061
-DTSTART:20261119T143211Z
-DTEND:20261119T153211Z
-DTSTAMP:20261119T143211Z
-SUMMARY:🚗 dopravní nehoda - Počátky
-LOCATION:Stodolní\, Počátky
-GEO:49.261799;15.237211
-URL:geo:49.261799,15.237211
-DESCRIPTION:📍 Stodolní\, Počátky\, Pelhřimov\n💬 DN OA jedna zraněná osoba. 
- Zajištění místa události.\n\n🚒 CAS (HS Kamenice nad Lipou)\n🚒 CAS (Počátky
- )
-END:VEVENT
-BEGIN:VEVENT
 UID:422570061
 DTSTART:20261119T151404Z
 DTEND:20261119T161404Z
@@ -515,8 +502,8 @@ SUMMARY:🚑 spolupráce ZZS - Jaroměřice nad Rokytnou
 LOCATION:Dukelská\, Jaroměřice nad Rokytnou
 GEO:49.096051;15.883755
 URL:geo:49.096051,15.883755
-DESCRIPTION:📍 Dukelská\, Jaroměřice nad Rokytnou\, Třebíč\n\n🚒 CAS (HS Mora
- vské Budějovice)\n🚒 CAS (Jaroměřice nad Rokytnou)
+DESCRIPTION:📍 Dukelská\, Jaroměřice nad Rokytnou\, Třebíč\n💬 Spolupráce se 
+ ZZS.\n\n🚒 CAS (HS Moravské Budějovice)\n🚒 CAS (Jaroměřice nad Rokytnou)
 END:VEVENT
 BEGIN:VEVENT
 UID:422665061
