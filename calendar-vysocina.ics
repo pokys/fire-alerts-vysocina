@@ -530,4 +530,16 @@ URL:geo:49.605496,15.576708
 DESCRIPTION:📍 V Rámech\, Havlíčkův Brod\n💬 Otevření bytu.\n\n🚒 CAS (CHS Hav
  líčkův Brod)
 END:VEVENT
+BEGIN:VEVENT
+UID:422664061
+DTSTART:20261121T133700Z
+DTEND:20261121T143700Z
+DTSTAMP:20261121T133700Z
+SUMMARY:🚑 spolupráce ZZS - Jaroměřice nad Rokytnou
+LOCATION:Dukelská\, Jaroměřice nad Rokytnou
+GEO:49.096051;15.883755
+URL:geo:49.096051,15.883755
+DESCRIPTION:📍 Dukelská\, Jaroměřice nad Rokytnou\, Třebíč\n\n🚒 CAS (HS Mora
+ vské Budějovice)\n🚒 CAS (Jaroměřice nad Rokytnou)
+END:VEVENT
 END:VCALENDAR
