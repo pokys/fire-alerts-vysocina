@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:422575061
-DTSTART:20261119T171906Z
-DTEND:20261119T181906Z
-DTSTAMP:20261119T171906Z
-SUMMARY:🚑 transport pacienta - Bystřice nad Pernštejnem
-LOCATION:Lipová\, Bystřice nad Pernštejnem
-GEO:49.518090;16.261751
-URL:geo:49.518090,16.261751
-DESCRIPTION:📍 Lipová\, Bystřice nad Pernštejnem\, Žďár nad Sázavou\n💬 Trans
- port pacienta na žádost ZZS.\n\n🚒 CAS (HS Bystřice nad Pernštejnem)
-END:VEVENT
-BEGIN:VEVENT
 UID:422576061
 DTSTART:20261119T175229Z
 DTEND:20261119T185229Z
@@ -510,7 +498,7 @@ UID:422669061
 DTSTART:20261121T155549Z
 DTEND:20261121T165549Z
 DTSTAMP:20261121T155549Z
-SUMMARY:🚗 dopravní nehoda - Valeč
+SUMMARY:🚗 bez zranění - Valeč
 LOCATION:Valeč
 GEO:49.149444;16.040672
 URL:geo:49.149444,16.040672
@@ -550,7 +538,9 @@ SUMMARY:🚗 dopravní nehoda - Ledeč nad Sázavou
 LOCATION:Čechova\, Ledeč nad Sázavou
 GEO:49.696718;15.277071
 URL:geo:49.696718,15.277071
-DESCRIPTION:📍 Čechova\, Ledeč nad Sázavou\, Havlíčkův Brod\n💬 DN 2x OA\n\n🚒
-  CAS (HS Ledeč nad Sázavou)
+DESCRIPTION:📍 Čechova\, Ledeč nad Sázavou\, Havlíčkův Brod\n💬 DN 2x OA se z
+ raněním osob. ZZS transportovala dvě zraněné osoby k dalšímu ošetření. Zaj
+ ištění vozidel proti proti požáru. Odstranění následků po DN.\n\n🚒 CAS (HS
+  Ledeč nad Sázavou)
 END:VEVENT
 END:VCALENDAR
