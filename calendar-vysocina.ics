@@ -505,4 +505,16 @@ URL:geo:49.714223,16.030481
 DESCRIPTION:📍 Komenského\, Svratka\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár na
  d Sázavou)\n🚒 CAS (Svratka)
 END:VEVENT
+BEGIN:VEVENT
+UID:422668061
+DTSTART:20261121T152648Z
+DTEND:20261121T162648Z
+DTSTAMP:20261121T152648Z
+SUMMARY:☣️ plyn - Měřín
+LOCATION:Pod Dálnicí\, Měřín
+GEO:49.389692;15.897402
+URL:geo:49.389692,15.897402
+DESCRIPTION:📍 Pod Dálnicí\, Měřín\, Žďár nad Sázavou\n\n🚒 CAS (HS Velké Mez
+ iříčí)\n🚒 RZA (HS Velké Meziříčí)
+END:VEVENT
 END:VCALENDAR
