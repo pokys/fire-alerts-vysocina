@@ -518,4 +518,16 @@ URL:geo:49.096051,15.883755
 DESCRIPTION:📍 Dukelská\, Jaroměřice nad Rokytnou\, Třebíč\n\n🚒 CAS (HS Mora
  vské Budějovice)\n🚒 CAS (Jaroměřice nad Rokytnou)
 END:VEVENT
+BEGIN:VEVENT
+UID:422665061
+DTSTART:20261121T140821Z
+DTEND:20261121T150821Z
+DTSTAMP:20261121T140821Z
+SUMMARY:🚑 spolupráce ZZS - Svratka
+LOCATION:Komenského\, Svratka
+GEO:49.714223;16.030481
+URL:geo:49.714223,16.030481
+DESCRIPTION:📍 Komenského\, Svratka\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár na
+ d Sázavou)\n🚒 CAS (Svratka)
+END:VEVENT
 END:VCALENDAR
