@@ -500,4 +500,15 @@ DESCRIPTION:📍 Bohumilice\, Kožlí\, Havlíčkův Brod\n💬 Požár sazí v 
   tělese.\n\n🚒 CAS (HS Ledeč nad Sázavou)\n🚒 CAS (Kožlí)\n🚒 CAS (Ledeč nad 
  Sázavou)
 END:VEVENT
+BEGIN:VEVENT
+UID:422714061
+DTSTART:20261122T155847Z
+DTEND:20261122T165847Z
+DTSTAMP:20261122T155847Z
+SUMMARY:🚑 transport pacienta - Pacov
+LOCATION:Sídliště Míru\, Pacov
+GEO:49.464032;15.006579
+URL:geo:49.464032,15.006579
+DESCRIPTION:📍 Sídliště Míru\, Pacov\, Pelhřimov\n\n🚒 CAS (HS Pacov)
+END:VEVENT
 END:VCALENDAR
