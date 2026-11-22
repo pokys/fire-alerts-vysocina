@@ -507,8 +507,8 @@ SUMMARY:🛠️ ostatní - Humpolec
 LOCATION:Humpolec
 GEO:49.506381;15.297034
 URL:geo:49.506381,15.297034
-DESCRIPTION:📍 Kletečná\, Humpolec\, Pelhřimov\n\n🚒 přívěs nákladní (Humpole
- c-Kletečná)
+DESCRIPTION:📍 Kletečná\, Humpolec\, Pelhřimov\n💬 Číštění výpusti rybníka.\n
+ \n🚒 přívěs nákladní (Humpolec-Kletečná)
 END:VEVENT
 BEGIN:VEVENT
 UID:422700061
@@ -535,5 +535,17 @@ GEO:49.791879;15.712718
 URL:geo:49.791879,15.712718
 DESCRIPTION:📍 Modletín\, Rušinov\, Havlíčkův Brod\n💬 Spolupráce se ZZS\n\n🚒
   CAS (HS Chotěboř)
+END:VEVENT
+BEGIN:VEVENT
+UID:422707061
+DTSTART:20261122T110410Z
+DTEND:20261122T120410Z
+DTSTAMP:20261122T110410Z
+SUMMARY:☣️ plyn - Nová Ves u Světlé
+LOCATION:Nová Ves u Světlé
+GEO:49.666365;15.424127
+URL:geo:49.666365,15.424127
+DESCRIPTION:📍 Nová Ves u Světlé\, Havlíčkův Brod\n\n🚒 CAS (HS Světlá nad Sá
+ zavou)
 END:VEVENT
 END:VCALENDAR
