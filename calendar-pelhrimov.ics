@@ -52,4 +52,15 @@ URL:geo:49.299312,15.077404
 DESCRIPTION:📍 Masarykova\, Kamenice nad Lipou\, Pelhřimov\n💬 Asistence při 
  transportu imobilních osob.\n\n🚒 CAS (Kamenice nad Lipou)
 END:VEVENT
+BEGIN:VEVENT
+UID:422688061
+DTSTART:20261122T043815Z
+DTEND:20261122T053815Z
+DTSTAMP:20261122T043815Z
+SUMMARY:🚑 transport pacienta - Humpolec
+LOCATION:Lnářská\, Humpolec
+GEO:49.540592;15.354122
+URL:geo:49.540592,15.354122
+DESCRIPTION:📍 Lnářská\, Humpolec\, Pelhřimov\n\n🚒 CAS (HS Humpolec)
+END:VEVENT
 END:VCALENDAR
