@@ -564,6 +564,18 @@ SUMMARY:🚑 transport pacienta - Humpolec
 LOCATION:Lnářská\, Humpolec
 GEO:49.540592;15.354122
 URL:geo:49.540592,15.354122
-DESCRIPTION:📍 Lnářská\, Humpolec\, Pelhřimov\n\n🚒 CAS (HS Humpolec)
+DESCRIPTION:📍 Lnářská\, Humpolec\, Pelhřimov\n💬 Transport pacienta na žádos
+ t ZZS.\n\n🚒 CAS (HS Humpolec)
+END:VEVENT
+BEGIN:VEVENT
+UID:422690061
+DTSTART:20261122T050338Z
+DTEND:20261122T060338Z
+DTSTAMP:20261122T050338Z
+SUMMARY:🚗 bez zranění - Lípa
+LOCATION:Lípa
+GEO:49.550576;15.537784
+URL:geo:49.550576,15.537784
+DESCRIPTION:📍 Lípa\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)
 END:VEVENT
 END:VCALENDAR
