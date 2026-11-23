@@ -123,6 +123,31 @@ SUMMARY:🚗 bez zranění - Pošná
 LOCATION:Pošná
 GEO:49.436719;15.067553
 URL:geo:49.436719,15.067553
-DESCRIPTION:📍 Nesvačily\, Pošná\, Pelhřimov\n\n🚒 CAS (HS Pacov)
+DESCRIPTION:📍 Nesvačily\, Pošná\, Pelhřimov\n💬 DN 1 OA mimo vozovku\, bez z
+ ranění. Zajištění vozidla proti převrácení. Zabezpečení proti požáru a pro
+ ti úniku provozních kapalin.\n\n🚒 CAS (HS Pacov)
+END:VEVENT
+BEGIN:VEVENT
+UID:422752061
+DTSTART:20261123T111534Z
+DTEND:20261123T121534Z
+DTSTAMP:20261123T111534Z
+SUMMARY:🔥 odpad - Humpolec
+LOCATION:Kamarytova\, Humpolec
+GEO:49.543526;15.354436
+URL:geo:49.543526,15.354436
+DESCRIPTION:📍 Kamarytova\, Humpolec\, Pelhřimov\n\n🚒 CAS (HS Humpolec)
+END:VEVENT
+BEGIN:VEVENT
+UID:422753061
+DTSTART:20261123T111900Z
+DTEND:20261123T121900Z
+DTSTAMP:20261123T111900Z
+SUMMARY:🚗 dopravní nehoda - Nová Cerekev
+LOCATION:Nová Cerekev
+GEO:49.402262;15.136869
+URL:geo:49.402262,15.136869
+DESCRIPTION:📍 Částkovice\, Nová Cerekev\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov
+ )
 END:VEVENT
 END:VCALENDAR
