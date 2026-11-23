@@ -483,8 +483,8 @@ SUMMARY:🛠️ strom - Bystřice nad Pernštejnem
 LOCATION:Bystřice nad Pernštejnem
 GEO:49.535683;16.296507
 URL:geo:49.535683,16.296507
-DESCRIPTION:📍 Bystřice nad Pernštejnem\, Žďár nad Sázavou\n\n🚒 CAS (HS Byst
- řice nad Pernštejnem)
+DESCRIPTION:📍 Bystřice nad Pernštejnem\, Žďár nad Sázavou\n💬 Odstranění str
+ omu.\n\n🚒 CAS (HS Bystřice nad Pernštejnem)
 END:VEVENT
 BEGIN:VEVENT
 UID:422752061
@@ -495,7 +495,8 @@ SUMMARY:🔥 odpad - Humpolec
 LOCATION:Kamarytova\, Humpolec
 GEO:49.543526;15.354436
 URL:geo:49.543526,15.354436
-DESCRIPTION:📍 Kamarytova\, Humpolec\, Pelhřimov\n\n🚒 CAS (HS Humpolec)
+DESCRIPTION:📍 Kamarytova\, Humpolec\, Pelhřimov\n💬 Požár plastové popelnice
+  na bioodpad. Beze škody.\n\n🚒 CAS (HS Humpolec)
 END:VEVENT
 BEGIN:VEVENT
 UID:422753061
@@ -520,5 +521,16 @@ GEO:49.092523;15.885312
 URL:geo:49.092523,15.885312
 DESCRIPTION:📍 Kaunicova\, Jaroměřice nad Rokytnou\, Třebíč\n💬 Otevření bytu
  .\n\n🚒 CAS (HS Moravské Budějovice)
+END:VEVENT
+BEGIN:VEVENT
+UID:422755061
+DTSTART:20261123T113810Z
+DTEND:20261123T123810Z
+DTSTAMP:20261123T113810Z
+SUMMARY:🔥 venkovní požár - Havlíčkův Brod
+LOCATION:Havlíčkův Brod
+GEO:49.593442;15.550388
+URL:geo:49.593442,15.550388
+DESCRIPTION:📍 Poděbaby\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)
 END:VEVENT
 END:VCALENDAR
