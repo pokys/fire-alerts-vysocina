@@ -446,8 +446,9 @@ LOCATION:Herálec
 GEO:49.694595;15.984419
 URL:geo:49.694595,15.984419
 DESCRIPTION:📍 Český Herálec\, Herálec\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár
-  nad Sázavou)\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (Herálec (ZR))\n🚒 CAS (
- Svratka)\n🚒 vyšetřovací automobil (ÚO Žďár nad Sázavou)
+  nad Sázavou)\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 přetlakový ventilátor (CHS 
+ Žďár nad Sázavou)\n🚒 CAS (Herálec (ZR))\n🚒 CAS (Svratka)\n🚒 vyšetřovací au
+ tomobil (ÚO Žďár nad Sázavou)
 END:VEVENT
 BEGIN:VEVENT
 UID:422747061
@@ -484,7 +485,8 @@ LOCATION:Bystřice nad Pernštejnem
 GEO:49.535683;16.296507
 URL:geo:49.535683,16.296507
 DESCRIPTION:📍 Bystřice nad Pernštejnem\, Žďár nad Sázavou\n💬 Odstranění str
- omu.\n\n🚒 CAS (HS Bystřice nad Pernštejnem)
+ omu.\n\n🚒 CAS (HS Bystřice nad Pernštejnem)\n🚒 vysavač na hmyz (HS Bystřic
+ e nad Pernštejnem)
 END:VEVENT
 BEGIN:VEVENT
 UID:422752061
@@ -527,10 +529,11 @@ UID:422755061
 DTSTART:20261123T113810Z
 DTEND:20261123T123810Z
 DTSTAMP:20261123T113810Z
-SUMMARY:🔥 venkovní požár - Havlíčkův Brod
+SUMMARY:⚠️ planý poplach - Havlíčkův Brod
 LOCATION:Havlíčkův Brod
 GEO:49.593442;15.550388
 URL:geo:49.593442,15.550388
-DESCRIPTION:📍 Poděbaby\, Havlíčkův Brod\n\n🚒 CAS (CHS Havlíčkův Brod)
+DESCRIPTION:📍 Poděbaby\, Havlíčkův Brod\n💬 Planý poplach.\n\n🚒 CAS (CHS Hav
+ líčkův Brod)
 END:VEVENT
 END:VCALENDAR
