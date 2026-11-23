@@ -470,6 +470,20 @@ SUMMARY:🚗 se zraněním - Telč
 LOCATION:Telč
 GEO:49.151528;15.469748
 URL:geo:49.151528,15.469748
-DESCRIPTION:📍 Telč-Staré Město\, Telč\, Jihlava\n\n🚒 CAS (HS Telč)
+DESCRIPTION:📍 Telč-Staré Město\, Telč\, Jihlava\n💬 DN 2 OA\, bez zraněné. Z
+ ajištění místa nehody.\n\n🚒 CAS (HS Telč)
+END:VEVENT
+BEGIN:VEVENT
+UID:422741061
+DTSTART:20261123T092027Z
+DTEND:20261123T102027Z
+DTSTAMP:20261123T092027Z
+SUMMARY:🔥 budova - Herálec
+LOCATION:Herálec
+GEO:49.694595;15.984419
+URL:geo:49.694595,15.984419
+DESCRIPTION:📍 Český Herálec\, Herálec\, Žďár nad Sázavou\n\n🚒 CAS (CHS Žďár
+  nad Sázavou)\n🚒 CAS (CHS Žďár nad Sázavou)\n🚒 CAS (Herálec (ZR))\n🚒 CAS (
+ Svratka)
 END:VEVENT
 END:VCALENDAR
