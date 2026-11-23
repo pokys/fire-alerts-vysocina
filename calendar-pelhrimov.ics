@@ -153,4 +153,15 @@ DESCRIPTION:📍 Částkovice\, Nová Cerekev\, Pelhřimov\n💬 DN 3 OA\, 2 zra
  ní havarovaných vozidel proti požáru a proti úniku provozních kapalin.\n\n
  🚒 CAS (CHS Pelhřimov)
 END:VEVENT
+BEGIN:VEVENT
+UID:422758061
+DTSTART:20261123T135806Z
+DTEND:20261123T145806Z
+DTSTAMP:20261123T135806Z
+SUMMARY:🛠️ ostatní - Lukavec
+LOCATION:Lukavec
+GEO:49.565409;14.990412
+URL:geo:49.565409,14.990412
+DESCRIPTION:📍 Lukavec\, Pelhřimov\n\n🚒 CAS (Lukavec)
+END:VEVENT
 END:VCALENDAR
