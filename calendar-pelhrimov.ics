@@ -128,4 +128,15 @@ DESCRIPTION:📍 Bělá\, Pelhřimov\n💬 DN OA bez zranění. Provedeno protip
   opatření. Zajištění místa nehody.\n\n🚒 CAS (CHS Pelhřimov)\n🚒 VYA (CHS Pe
  lhřimov)
 END:VEVENT
+BEGIN:VEVENT
+UID:422803061
+DTSTART:20261124T150427Z
+DTEND:20261124T160427Z
+DTSTAMP:20261124T150427Z
+SUMMARY:🚗 bez zranění - Veselá
+LOCATION:Veselá
+GEO:49.311605;15.208329
+URL:geo:49.311605,15.208329
+DESCRIPTION:📍 Veselá\, Pelhřimov\n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (Počátky)
+END:VEVENT
 END:VCALENDAR
