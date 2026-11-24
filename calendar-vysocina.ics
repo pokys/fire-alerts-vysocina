@@ -436,4 +436,16 @@ DESCRIPTION:📍 Bělá\, Pelhřimov\n💬 DN OA bez zranění. Provedeno protip
   opatření. Zajištění místa nehody.\n\n🚒 CAS (CHS Pelhřimov)\n🚒 VYA (CHS Pe
  lhřimov)
 END:VEVENT
+BEGIN:VEVENT
+UID:422797061
+DTSTART:20261124T123559Z
+DTEND:20261124T133559Z
+DTSTAMP:20261124T123559Z
+SUMMARY:🛠️ ostatní - Třešť
+LOCATION:Revoluční\, Třešť
+GEO:49.290309;15.483557
+URL:geo:49.290309,15.483557
+DESCRIPTION:📍 Revoluční\, Třešť\, Jihlava\n\n🚒 CAS (HS Třešť)\n🚒 automobilo
+ vá plošina do 30 m (HS Třešť)
+END:VEVENT
 END:VCALENDAR
