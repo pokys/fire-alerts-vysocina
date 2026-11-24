@@ -5,20 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:422700061
-DTSTART:20261122T085255Z
-DTEND:20261122T095255Z
-DTSTAMP:20261122T085255Z
-SUMMARY:🔥 saze v komíně - Červená Řečice
-LOCATION:Červená Řečice
-GEO:49.513298;15.183069
-URL:geo:49.513298,15.183069
-DESCRIPTION:📍 Červená Řečice\, Pelhřimov\n💬 Požár sazí v komíně\, bez zraně
- ní\, beze škody\, lokalizace\, likvidace.\n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS 
- (CHS Pelhřimov)\n🚒 AŽ (CHS Pelhřimov)\n🚒 CAS (Červená Řečice)\n🚒 CAS (Želi
- v)\n🚒 CAS (Želiv)
-END:VEVENT
-BEGIN:VEVENT
 UID:422704061
 DTSTART:20261122T092208Z
 DTEND:20261122T102208Z
@@ -449,5 +435,16 @@ URL:geo:49.095607,15.713469
 DESCRIPTION:📍 Martínkov\, Třebíč\n💬 DN 2x OA bez zranění. Zajištění místa n
  ehody proti požáru a úniku provozních kapalin.\n\n🚒 CAS (HS Moravské Buděj
  ovice)\n🚒 CAS (Želetava)
+END:VEVENT
+BEGIN:VEVENT
+UID:422787061
+DTSTART:20261124T085048Z
+DTEND:20261124T095048Z
+DTSTAMP:20261124T085048Z
+SUMMARY:🛠️ ostatní - Kejžlice
+LOCATION:Čihadlo\, Kejžlice
+GEO:49.585307;15.403368
+URL:geo:49.585307,15.403368
+DESCRIPTION:📍 Čihadlo\, Kejžlice\, Pelhřimov\n\n🚒 DA (Kejžlice)
 END:VEVENT
 END:VCALENDAR
