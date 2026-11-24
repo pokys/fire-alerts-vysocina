@@ -5,19 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:422711061
-DTSTART:20261122T132654Z
-DTEND:20261122T142654Z
-DTSTAMP:20261122T132654Z
-SUMMARY:⚠️ planý poplach - Jihlava
-LOCATION:Rantířovská\, Jihlava
-GEO:49.396743;15.566877
-URL:geo:49.396743,15.566877
-DESCRIPTION:📍 Rantířovská\, Jihlava\n💬 Požár ohlášený systémem elektrické p
- ožární signalizace. Průzkumem bylo zjištěno\, že se jedná o planý poplach.
- \n\n🚒 CAS (CHS Jihlava) ×2
-END:VEVENT
-BEGIN:VEVENT
 UID:422713061
 DTSTART:20261122T151516Z
 DTEND:20261122T161516Z
@@ -421,7 +408,8 @@ SUMMARY:🚗 se zraněním - Stará Říše
 LOCATION:Stará Říše
 GEO:49.177052;15.595132
 URL:geo:49.177052,15.595132
-DESCRIPTION:📍 Stará Říše\, Jihlava\n\n🚒 CAS (HS Telč)
+DESCRIPTION:📍 Stará Říše\, Jihlava\n💬 DN traktoru a OA. 1 zraněná osoba. Za
+ jištění místa nehody a protipožární opatření.\n\n🚒 CAS (HS Telč)
 END:VEVENT
 BEGIN:VEVENT
 UID:422791061
