@@ -364,7 +364,8 @@ SUMMARY:🚑 záchrana zvířete - Chlum
 LOCATION:Chlum
 GEO:49.320210;15.748317
 URL:geo:49.320210,15.748317
-DESCRIPTION:📍 Chlum\, Třebíč\n\n🚒 CAS (CHS Jihlava)
+DESCRIPTION:📍 Chlum\, Třebíč\n💬 Odchyt srnky v zahradě.\n\n🚒 CAS (CHS Jihla
+ va)
 END:VEVENT
 BEGIN:VEVENT
 UID:422837061
@@ -377,5 +378,16 @@ GEO:49.480514;15.038910
 URL:geo:49.480514,15.038910
 DESCRIPTION:📍 Roučkovice\, Pacov\, Pelhřimov\n💬 Náraz OA do stromu. Jedna z
  raněná osoba. Zajištění vozidla. Přelékařská pomoc.\n\n🚒 CAS (HS Pacov)
+END:VEVENT
+BEGIN:VEVENT
+UID:422838061
+DTSTART:20261125T150324Z
+DTEND:20261125T160324Z
+DTSTAMP:20261125T150324Z
+SUMMARY:🚑 otevření/asistence - Třebíč
+LOCATION:Hladíkova\, Třebíč
+GEO:49.208589;15.879603
+URL:geo:49.208589,15.879603
+DESCRIPTION:📍 Hladíkova\, Horka-Domky\, Třebíč\n\n🚒 CAS (CHS Třebíč)
 END:VEVENT
 END:VCALENDAR
