@@ -404,4 +404,15 @@ URL:geo:49.210924,15.881823
 DESCRIPTION:📍 Sušilova\, Horka-Domky\, Třebíč\n💬 Odstranění vyteklé kapalin
  y z parkoviště.\n\n🚒 CAS (CHS Třebíč)
 END:VEVENT
+BEGIN:VEVENT
+UID:422851061
+DTSTART:20261125T232930Z
+DTEND:20261126T002930Z
+DTSTAMP:20261125T232930Z
+SUMMARY:🚑 transport pacienta - Oslavička
+LOCATION:Oslavička
+GEO:49.329350;15.972443
+URL:geo:49.329350,15.972443
+DESCRIPTION:📍 Oslavička\, Žďár nad Sázavou\n\n🚒 CAS (HS Velké Meziříčí)
+END:VEVENT
 END:VCALENDAR
