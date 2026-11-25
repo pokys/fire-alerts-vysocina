@@ -333,4 +333,16 @@ URL:geo:49.565291,15.941559
 DESCRIPTION:📍 Studentská\, Žďár nad Sázavou 4\, Žďár nad Sázavou\n💬 Transpo
  rt pacienta na žádost ZZS.\n\n🚒 CAS (CHS Žďár nad Sázavou)
 END:VEVENT
+BEGIN:VEVENT
+UID:422832061
+DTSTART:20261125T134157Z
+DTEND:20261125T144157Z
+DTSTAMP:20261125T134157Z
+SUMMARY:🛠️ ostatní - Třešť
+LOCATION:Třešť
+GEO:49.279719;15.466842
+URL:geo:49.279719,15.466842
+DESCRIPTION:📍 Třešť\, Jihlava\n\n🚒 CAS (HS Třešť)\n🚒 přívěs lodní (HS Třešť
+ )
+END:VEVENT
 END:VCALENDAR
