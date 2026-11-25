@@ -66,4 +66,16 @@ URL:geo:49.300978,15.075662
 DESCRIPTION:📍 Jungmannova\, Kamenice nad Lipou\, Pelhřimov\n💬 DN 1 OA\, bez
   zranění. Zajištění místa nehody.\n\n🚒 CAS (HS Kamenice nad Lipou)
 END:VEVENT
+BEGIN:VEVENT
+UID:422837061
+DTSTART:20261125T142827Z
+DTEND:20261125T152827Z
+DTSTAMP:20261125T142827Z
+SUMMARY:🚗 dopravní nehoda - Pacov
+LOCATION:Pacov
+GEO:49.480514;15.038910
+URL:geo:49.480514,15.038910
+DESCRIPTION:📍 Roučkovice\, Pacov\, Pelhřimov\n💬 Náraz OA do stromu. Jedna z
+ raněná osoba. Zajištění vozidla. Přelékařská pomoc.\n\n🚒 CAS (HS Pacov)
+END:VEVENT
 END:VCALENDAR
