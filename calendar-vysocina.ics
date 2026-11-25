@@ -5,18 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Vysočina
 BEGIN:VEVENT
-UID:422724061
-DTSTART:20261123T054819Z
-DTEND:20261123T064819Z
-DTSTAMP:20261123T054819Z
-SUMMARY:🔥 budova - Jihlava
-LOCATION:Pávovská\, Jihlava
-GEO:49.427597;15.600377
-URL:geo:49.427597,15.600377
-DESCRIPTION:📍 Pávovská\, Jihlava\n💬 Požár kuchyně. Lokalizace a likvidace u
- dálosti.\n\n🚒 CAS (CHS Jihlava)\n🚒 vyšetřovací automobil (ÚO Jihlava)
-END:VEVENT
-BEGIN:VEVENT
 UID:422727061
 DTSTART:20261123T070444Z
 DTEND:20261123T080444Z
@@ -432,7 +420,8 @@ SUMMARY:🚗 dopravní nehoda - Velké Meziříčí
 LOCATION:Jihlavská\, Velké Meziříčí
 GEO:49.362254;15.990699
 URL:geo:49.362254,15.990699
-DESCRIPTION:📍 Jihlavská\, Velké Meziříčí\, Žďár nad Sázavou\n\n🚒 CAS (HS Ve
- lké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)
+DESCRIPTION:📍 Jihlavská\, Velké Meziříčí\, Žďár nad Sázavou\n💬 DN OA a chod
+ ce se zraněním. Jednotka provedla zajištění místa nehody.\n\n🚒 CAS (HS Vel
+ ké Meziříčí)\n🚒 RZA (HS Velké Meziříčí)
 END:VEVENT
 END:VCALENDAR
