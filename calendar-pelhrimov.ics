@@ -67,4 +67,17 @@ URL:geo:49.540772,15.360019
 DESCRIPTION:📍 Horní náměstí\, Humpolec\, Pelhřimov\n💬 Transport pacienta na
   žádost ZZS.\n\n🚒 CAS (HS Humpolec)
 END:VEVENT
+BEGIN:VEVENT
+UID:422863061
+DTSTART:20261126T080353Z
+DTEND:20261126T090353Z
+DTSTAMP:20261126T080353Z
+SUMMARY:🔥 budova - Černovice
+LOCATION:Na Pelíšku\, Černovice
+GEO:49.378402;14.963227
+URL:geo:49.378402,14.963227
+DESCRIPTION:📍 Na Pelíšku\, Černovice\, Pelhřimov\n\n🚒 CAS (HS Kamenice nad 
+ Lipou)\n🚒 CAS (HS Pacov)\n🚒 CAS (HS Pacov)\n🚒 CAS (Černovice)\n🚒 CAS (Čern
+ ovice) ×2\n🚒 vyšetřovací automobil (ÚO Pelhřimov)
+END:VEVENT
 END:VCALENDAR
