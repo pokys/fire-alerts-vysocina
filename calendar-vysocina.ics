@@ -356,4 +356,15 @@ DESCRIPTION:📍 Sychrova\, Žďár nad Sázavou 2\, Žďár nad Sázavou\n💬 
  postéru.\n\n🚒 CAS (CHS Žďár nad Sázavou) ×2\n🚒 CAS (Žďár nad Sázavou-Zámek
  )\n🚒 vyšetřovací automobil (ÚO Žďár nad Sázavou)
 END:VEVENT
+BEGIN:VEVENT
+UID:422860061
+DTSTART:20261126T073756Z
+DTEND:20261126T083756Z
+DTSTAMP:20261126T073756Z
+SUMMARY:☣️ olej/PHM - Jihlava
+LOCATION:Dělnická\, Jihlava
+GEO:49.406547;15.598234
+URL:geo:49.406547,15.598234
+DESCRIPTION:📍 Dělnická\, Jihlava\n\n🚒 CAS (CHS Jihlava)
+END:VEVENT
 END:VCALENDAR
