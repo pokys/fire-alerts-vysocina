@@ -67,4 +67,15 @@ DESCRIPTION:📍 Roučkovice\, Pacov\, Pelhřimov\n💬 Náraz OA do stromu. Jed
  raněná osoba. Zajištění vozidla. Poskynuta předlékařská první pomoc.\n\n🚒 
  CAS (HS Pacov)
 END:VEVENT
+BEGIN:VEVENT
+UID:422852061
+DTSTART:20261126T022557Z
+DTEND:20261126T032557Z
+DTSTAMP:20261126T022557Z
+SUMMARY:🚑 transport pacienta - Humpolec
+LOCATION:Horní náměstí\, Humpolec
+GEO:49.540772;15.360019
+URL:geo:49.540772,15.360019
+DESCRIPTION:📍 Horní náměstí\, Humpolec\, Pelhřimov\n\n🚒 CAS (HS Humpolec)
+END:VEVENT
 END:VCALENDAR
