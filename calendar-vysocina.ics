@@ -393,4 +393,16 @@ DESCRIPTION:📍 Na Pelíšku\, Černovice\, Pelhřimov\n\n🚒 CAS (HS Kamenice
  Lipou)\n🚒 CAS (HS Pacov)\n🚒 CAS (HS Pacov)\n🚒 CAS (Černovice)\n🚒 CAS (Čern
  ovice) ×2\n🚒 vyšetřovací automobil (ÚO Pelhřimov)
 END:VEVENT
+BEGIN:VEVENT
+UID:422866061
+DTSTART:20261126T085224Z
+DTEND:20261126T095224Z
+DTSTAMP:20261126T085224Z
+SUMMARY:🚑 záchrana na vodě - Krucemburk
+LOCATION:Krucemburk
+GEO:49.684959;15.816480
+URL:geo:49.684959,15.816480
+DESCRIPTION:📍 Staré Ransko\, Krucemburk\, Havlíčkův Brod\n\n🚒 CAS (HS Chotě
+ boř)
+END:VEVENT
 END:VCALENDAR
