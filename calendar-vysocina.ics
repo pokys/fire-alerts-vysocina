@@ -402,7 +402,20 @@ SUMMARY:🛠️ otevření bytu/auta - Světlá nad Sázavou
 LOCATION:Na Bradle\, Světlá nad Sázavou
 GEO:49.669317;15.396465
 URL:geo:49.669317,15.396465
-DESCRIPTION:📍 Na Bradle\, Světlá nad Sázavou\, Havlíčkův Brod\n\n🚒 CAS (HS 
- Světlá nad Sázavou)
+DESCRIPTION:📍 Na Bradle\, Světlá nad Sázavou\, Havlíčkův Brod\n💬 Otevření b
+ ytu.\n\n🚒 CAS (HS Světlá nad Sázavou)
+END:VEVENT
+BEGIN:VEVENT
+UID:422876061
+DTSTART:20261126T100315Z
+DTEND:20261126T110315Z
+DTSTAMP:20261126T100315Z
+SUMMARY:🚑 Bystřice nad Pernštejnem
+LOCATION:Masarykovo náměstí\, Bystřice nad Pernštejnem
+GEO:49.524708;16.258714
+URL:geo:49.524708,16.258714
+DESCRIPTION:📍 Masarykovo náměstí\, Bystřice nad Pernštejnem\, Žďár nad Sáza
+ vou\n💬 Vytažení kočky z 2\,5 m hluboké šachty.\n\n🚒 CAS (HS Bystřice nad P
+ ernštejnem)
 END:VEVENT
 END:VCALENDAR
