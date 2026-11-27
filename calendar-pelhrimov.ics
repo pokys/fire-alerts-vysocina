@@ -5,48 +5,10 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Hasiči - Pelhřimov
 BEGIN:VEVENT
-UID:422791061
-DTSTART:20261124T111116Z
-DTEND:20261124T121116Z
-DTSTAMP:20261124T111116Z
-SUMMARY:🚗 bez zranění - Bělá
-LOCATION:Bělá
-GEO:49.312542;15.260939
-URL:geo:49.312542,15.260939
-DESCRIPTION:📍 Bělá\, Pelhřimov\n💬 DN OA bez zranění. Provedeno protipožární
-  opatření. Zajištění místa nehody.\n\n🚒 CAS (CHS Pelhřimov)\n🚒 VYA (CHS Pe
- lhřimov)
-END:VEVENT
-BEGIN:VEVENT
-UID:422803061
-DTSTART:20261124T150427Z
-DTEND:20261124T160427Z
-DTSTAMP:20261124T150427Z
-SUMMARY:🚗 bez zranění - Veselá
-LOCATION:Veselá
-GEO:49.311605;15.208329
-URL:geo:49.311605,15.208329
-DESCRIPTION:📍 Veselá\, Pelhřimov\n💬 DN OA. Bez zranění. Provedeno protipožá
- rní opatření. Zajištění místa nehody.\n\n🚒 CAS (CHS Pelhřimov)\n🚒 CAS (Poč
- átky)
-END:VEVENT
-BEGIN:VEVENT
-UID:422806061
-DTSTART:20261124T200530Z
-DTEND:20261124T210530Z
-DTSTAMP:20261124T200530Z
-SUMMARY:🚗 se zraněním - Kamenice nad Lipou
-LOCATION:Jungmannova\, Kamenice nad Lipou
-GEO:49.300978;15.075662
-URL:geo:49.300978,15.075662
-DESCRIPTION:📍 Jungmannova\, Kamenice nad Lipou\, Pelhřimov\n💬 DN 1 OA\, bez
-  zranění. Zajištění místa nehody.\n\n🚒 CAS (HS Kamenice nad Lipou)
-END:VEVENT
-BEGIN:VEVENT
 UID:422837061
-DTSTART:20261125T142827Z
-DTEND:20261125T152827Z
-DTSTAMP:20261125T142827Z
+DTSTART:20261125T152827Z
+DTEND:20261125T162827Z
+DTSTAMP:20261125T152827Z
 SUMMARY:🚗 dopravní nehoda - Pacov
 LOCATION:Pacov
 GEO:49.480696;15.041936
@@ -57,9 +19,9 @@ DESCRIPTION:📍 Roučkovice\, Pacov\, Pelhřimov\n💬 Náraz OA do stromu. Jed
 END:VEVENT
 BEGIN:VEVENT
 UID:422852061
-DTSTART:20261126T022557Z
-DTEND:20261126T032557Z
-DTSTAMP:20261126T022557Z
+DTSTART:20261126T032557Z
+DTEND:20261126T042557Z
+DTSTAMP:20261126T032557Z
 SUMMARY:🚑 transport pacienta - Humpolec
 LOCATION:Horní náměstí\, Humpolec
 GEO:49.540772;15.360019
@@ -69,9 +31,9 @@ DESCRIPTION:📍 Horní náměstí\, Humpolec\, Pelhřimov\n💬 Transport pacie
 END:VEVENT
 BEGIN:VEVENT
 UID:422863061
-DTSTART:20261126T080353Z
-DTEND:20261126T090353Z
-DTSTAMP:20261126T080353Z
+DTSTART:20261126T090353Z
+DTEND:20261126T100353Z
+DTSTAMP:20261126T090353Z
 SUMMARY:🔥 budova - Černovice
 LOCATION:Na Pelíšku\, Černovice
 GEO:49.378402;14.963227
@@ -80,5 +42,103 @@ DESCRIPTION:📍 Na Pelíšku\, Černovice\, Pelhřimov\n💬 Požár mobilheimu
  zranění. Provedena lokalizace a likvidace požáru.\n\n🚒 CAS (HS Kamenice na
  d Lipou)\n🚒 CAS (HS Pacov)\n🚒 CAS (HS Pacov)\n🚒 CAS (Černovice)\n🚒 CAS (Če
  rnovice) ×2\n🚒 vyšetřovací automobil (ÚO Pelhřimov)
+END:VEVENT
+BEGIN:VEVENT
+UID:422908061
+DTSTART:20261126T150811Z
+DTEND:20261126T160811Z
+DTSTAMP:20261126T150811Z
+SUMMARY:🛠️ otevření bytu/auta - Kamenice nad Lipou
+LOCATION:Družstevní\, Kamenice nad Lipou
+GEO:49.303745;15.073412
+URL:geo:49.303745,15.073412
+DESCRIPTION:📍 Družstevní\, Kamenice nad Lipou\, Pelhřimov\n💬 Otevření bytu.
+ \n\n🚒 CAS (HS Kamenice nad Lipou)
+END:VEVENT
+BEGIN:VEVENT
+UID:422911061
+DTSTART:20261126T153336Z
+DTEND:20261126T163336Z
+DTSTAMP:20261126T153336Z
+SUMMARY:🚗 bez zranění - Božejov
+LOCATION:Božejov
+GEO:49.356562;15.149453
+URL:geo:49.356562,15.149453
+DESCRIPTION:📍 Božejov\, Pelhřimov\n💬 DN 1 OA\, bez zranění. Zajištění místa
+  nehody.\n\n🚒 CAS (CHS Pelhřimov)
+END:VEVENT
+BEGIN:VEVENT
+UID:422929061
+DTSTART:20261126T174910Z
+DTEND:20261126T184910Z
+DTSTAMP:20261126T174910Z
+SUMMARY:🚗 bez zranění - Proseč pod Křemešníkem
+LOCATION:Proseč pod Křemešníkem
+GEO:49.409377;15.281766
+URL:geo:49.409377,15.281766
+DESCRIPTION:📍 Proseč pod Křemešníkem\, Pelhřimov\n💬 DN 1 OA\, bez zranění. 
+ Zajištění místa nehody.\n\n🚒 CAS (CHS Pelhřimov)
+END:VEVENT
+BEGIN:VEVENT
+UID:422944061
+DTSTART:20261126T200843Z
+DTEND:20261126T210843Z
+DTSTAMP:20261126T200843Z
+SUMMARY:🚗 bez zranění - Nová Cerekev
+LOCATION:Nová Cerekev
+GEO:49.412379;15.092105
+URL:geo:49.412379,15.092105
+DESCRIPTION:📍 Nová Cerekev\, Pelhřimov\n💬 DN OA. Náraz do stromu. DN bez zr
+ anění\, bez úniku provozních kapalin. Jednotka provedla protipožární opatř
+ ení. Zajištění místa nehody.\n\n🚒 CAS (CHS Pelhřimov)
+END:VEVENT
+BEGIN:VEVENT
+UID:422948061
+DTSTART:20261126T204214Z
+DTEND:20261126T214214Z
+DTSTAMP:20261126T204214Z
+SUMMARY:🚗 se zraněním - Včelnička
+LOCATION:Včelnička
+GEO:49.307069;15.037371
+URL:geo:49.307069,15.037371
+DESCRIPTION:📍 Včelnička\, Pelhřimov\n💬 DN OA. Jednotka provedla vyproštění 
+ osoby z vozidla. DN bez zranění. Protipožární opatření. Vytažení vozidla n
+ a komunikaci.\n\n🚒 CAS (HS Kamenice nad Lipou)\n🚒 VYA (CHS Pelhřimov)
+END:VEVENT
+BEGIN:VEVENT
+UID:422955061
+DTSTART:20261127T000923Z
+DTEND:20261127T010923Z
+DTSTAMP:20261127T000923Z
+SUMMARY:🚗 bez zranění - Pelhřimov
+LOCATION:Pelhřimov
+GEO:49.440096;15.204543
+URL:geo:49.440096,15.204543
+DESCRIPTION:💬 DN NA s únikem provozních kapalin. Jednotka provedla odčerpán
+ í nafty. Zajištění místa nehody. Vyproštění vozidla na komunikaci.\n\n🚒 CA
+ S (CHS Pelhřimov)\n🚒 automobilový nosič kontejnerů (CHS Pelhřimov)\n🚒 kont
+ ejner technický (CHS Pelhřimov)
+END:VEVENT
+BEGIN:VEVENT
+UID:422976061
+DTSTART:20261127T122540Z
+DTEND:20261127T132540Z
+DTSTAMP:20261127T122540Z
+SUMMARY:☣️ plyn - Počátky
+LOCATION:Krátká\, Počátky
+GEO:49.260391;15.234547
+URL:geo:49.260391,15.234547
+DESCRIPTION:📍 Krátká\, Počátky\, Pelhřimov\n\n🚒 CAS (HS Kamenice nad Lipou)
+END:VEVENT
+BEGIN:VEVENT
+UID:422978061
+DTSTART:20261127T125709Z
+DTEND:20261127T135709Z
+DTSTAMP:20261127T125709Z
+SUMMARY:🛠️ otevření bytu/auta - Pacov
+LOCATION:Za Branou\, Pacov
+GEO:49.477768;15.003136
+URL:geo:49.477768,15.003136
+DESCRIPTION:📍 Za Branou\, Pacov\, Pelhřimov\n\n🚒 CAS (HS Pacov)
 END:VEVENT
 END:VCALENDAR
